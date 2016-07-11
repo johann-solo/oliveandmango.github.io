@@ -1,0 +1,53 @@
+$accent-color: #4aa3df;
+
+@mixin main__text ($color, $font-size, $textshadow: 3px 1px 1px black) {
+    color: $color;
+    font-size: $font-size;
+    text-shadow: $textshadow;
+}
+
+
+body {
+    font-family: 'Raleway', sans-serif;}
+
+h1 {
+    font-family: 'Yeseva One', cursive;
+    font-size: 2em;
+}
+
+.splash {
+    background: url("/img/main-page.jpg") no-repeat center center;
+    // background: url("/joanneskitchen/img/main-page.jpg") no-repeat center center;
+    background-size: 100%;
+    h1 {
+        @include main__text(white, 4em);
+    }
+}
+
+.main__text {
+    text-align: center;
+    padding: 150px 0;
+    p {
+        @include main__text(white, 2.5em);
+    }
+}
+
+blockquote {
+    color: #CCC;
+    border-left: 4px solid $accent-color;
+    font-size: 1.5em;
+    margin: 30px 0;
+    padding-left: 30px;
+}
+
+.home {
+    text-align: center;
+    max-width: 80%;
+    margin: auto;
+    .post-list {
+        margin-bottom: 60px;
+    }
+    h2 {
+        font-family: 'Yeseva One', cursive;
+    }
+}
