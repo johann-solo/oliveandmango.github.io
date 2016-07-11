@@ -5,7 +5,7 @@ date:   2016-07-10 20:43:35 -0400
 author: Joanne
 permalink: market-day
 categories: blog
-excerpt: <p>Saving money, eating healthy and eating great tasting food doesn&apos;t have to be difficult. Local markets are the key.</p>
+excerpt: <p>Saving money, eating healthy and great tasting food doesn&apos;t have to be difficult. Local markets are the key.</p>
 ---
 
 Wherever you go it seems everyone is talking about the economy and hard times coming. Yet sometimes the way people live  makes this hard to believe that this really the case. People still spend significant money on purchasing breakfast and lunch every working day and seem to be out spending money every weekend.  
@@ -25,6 +25,9 @@ There are three markets I have been to here in Trinidad. The pictures on this bl
 ![Pineapples]({{ site.baseurl }}/img/market-pinapples.jpg)
 
 The market at the Savannah is every second Saturday of the month. I wake up at six - yes still early for a weekend but worth it I promise. It's not just for the produce, but your wallet will thank you at the end of the month. There's always parking, and although there are lots of people that come, it doesn't feel too overcrowded and congested. And the other thing I appreciate about it is that it's so close to home.  
+
+![Vibrant reds]({{ site.baseurl }}/img/market-reds.jpg)
+
 
 So when choosing a market those are some things to consider. Because of its far and inconvenient to park, overcrowded, always picked over by the time you get there, you will just press snooze and skip it all together.
 
