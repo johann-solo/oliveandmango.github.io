@@ -1,4 +1,6 @@
 $accent-color: #4aa3df;
+$tablet-width: 600px;
+$desktop-width: 800px;
 
 @mixin main__text ($color, $font-size, $textshadow: 3px 1px 1px black) {
     color: $color;
@@ -17,18 +19,26 @@ h1 {
 
 .splash {
     background: url("/img/main-page.jpg") no-repeat center center;
-    // background: url("/joanneskitchen/img/main-page.jpg") no-repeat center center;
-    background-size: 100%;
+    background-size: cover;
     h1 {
-        @include main__text(white, 4em);
+        @include main__text(white, 2em);
+        @media screen and (min-width: $tablet-width) {
+            @include main__text(white, 4em);
+        }
     }
 }
 
 .main__text {
     text-align: center;
-    padding: 150px 0;
+    padding: 75px 0;
+    @media screen and (min-width: 600px) {
+        padding: 150px 0;
+    }
     p {
-        @include main__text(white, 2.5em);
+        @include main__text(white, 1.5em);
+        @media screen and (min-width: $tablet-width)  {
+            @include main__text(white, 2.5em);
+        }
     }
 }
 
