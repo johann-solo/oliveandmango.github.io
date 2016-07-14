@@ -15,7 +15,7 @@ excerpt:
 * 1/2 cup sifted cake flour
 * 1 teaspoon baking powder
 * 1 pinch salt
-* 3 large eggs, seperated
+* 3 large eggs, separated
 * 1/3 cup sugar
 * 2 tablespoons sugar
 * 1 teaspoon pure vanilla extract
