@@ -18,7 +18,7 @@ h1 {
 }
 
 .splash {
-    background: url("/img/main-page.jpg") no-repeat center center;
+    background: url("/img/market-pinapples.jpg") no-repeat center center;
     background-size: cover;
     h1 {
         @include main__text(white, 2em);
