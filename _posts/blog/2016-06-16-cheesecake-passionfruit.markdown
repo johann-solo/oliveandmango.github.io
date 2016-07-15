@@ -5,6 +5,8 @@ date:   2016-06-16 11:37:35 -0400
 author: Johann
 permalink: a-tropical-twist-on-a-classic
 categories: blog
+tags:
+    - desserts
 excerpt: <p>This little tweak proves to be a winner. With just the right amount of fruit, it turned out to be a refreshing glaze.</p>
 ---
 
@@ -29,11 +31,13 @@ So now that you've had the hubby's take on this recipe, let me fill you in on th
 
 Now a few things to consider about the crust. It's not always easy to find graham crackers or prepackaged crumbled crackers here in Trinidad. Although we do have an amazing pre-packaged one made here locally which is delicious and I use all the time if it's available. But if it's not I simply use digestive crackers or cookies and adjust or omit amount of sugar according to taste and I grind them down in my food processor. Otherwise you can put them in a sealed plastic bag and pound them out or roll with a rolling pin until fine and until you have enough.  
 
-![Passionfruit Cheesecake]({{ site.baseurl }}/img/cheeesecake_passionfruit_1.jpg)
+![Sharon's graham cracker pie crust]({{ site.baseurl }}/img/pie-crust.jpg)
 
 I make the filling the same exact way every time. There's no need to make any changes - it's perfection every time!! I always bake it in a water bath. I also always leave it to cool for at least an hour before refrigerating it, and I refrigerate for at least a couple of hours before I top it.
 
 Side tip about about the water bath: I have never been able to avoid water or what I originally thought was water from seeping through the five layers of foil that I would wrap my springform pan in. Well according to some super smart Youtube clip about making the perfect cheesecake, that is not water seeping in. Duh!!!! It's condensation and literally unavoidable **UNLESS** (they had the best and smartest solution!!!!!!!!) you place your spring form pan in a baking dish that's just slightly bigger than your spring form and then place it in the water bath!!! And cue the sound of the heavens opening up and *aahhhh*. Simple and yet a genius way to keep the moisture from condensation to a bare minimum if any.  
+
+![Passionfruit Cheesecake]({{ site.baseurl }}/img/cheeesecake_passionfruit_1.jpg)
 
 For the topping I usually go with basic cherry and blueberry which I think is classic and delicious. I use the canned pie filling most of the time because fresh blueberries and cherries are not always easy to find or available in Trinidad. I also choose canned pie fillings that have no added sugars or preservatives. But when I get my hands on some passion fruit I use that as the topping and use the recipe below:
 
