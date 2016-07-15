@@ -14,7 +14,10 @@ A guaranteed crowd pleaser for almost everyone - unless they are gluten and nut 
 
 This is a fantastic recipe from the Pioneer Woman which is definitely a keeper and will be my go to dessert recipe to feed a crowd.  Why a crowd? It's a sheet cake of course that's why. But this recipe not only packs quantity but delivers on quality as well.
 
-![Chocolate sheet cake]({{ site.baseurl }}/img/TheBestChocolateSheetCake.jpg)
+{% include image.html
+            img="/img/TheBestChocolateSheetCake.jpg"
+            title="Chocolate sheet cake"
+            caption="Delicious and easy to make chocolate cake" %}
 
 One of the best things about this recipe is that it's not only easy but I can get all the ingredients from one grocery store! Yay!! Basically a miracle here in Trinidad.   There is one ingredient that usually is a little  iffy.  That darned exotic buttermilk!!  
 
