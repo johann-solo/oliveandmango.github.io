@@ -84,8 +84,15 @@ caption {
 
 
 .container {
-    max-width: 1000px;
-    margin: auto;
+    margin: 0 15px;
+
+    @media screen and (min-width: $tablet-width){
+        max-width: 1000px;
+        margin: 0;
+        margin: auto;
+
+    }
+
 }
 
 .splash {
@@ -105,7 +112,7 @@ caption {
     @media screen and (min-width: 600px) {
     }
     p {
-        @include main__text(black, 1.5em);
+        @include main__text(black, 1em);
         @media screen and (min-width: $tablet-width)  {
             @include main__text(black, 1.5em);
         }
@@ -127,9 +134,12 @@ caption {
 
 .line {
     height: 0px;
-    width: 500px;
+    width: 300px;
     border-top: 1px black solid;
     margin: auto;
+    @media screen and (min-width: $tablet-width) {
+        width: 500px;
+    }
 }
 .post-list li {
     padding-bottom: 100px;
@@ -140,7 +150,11 @@ caption {
 }
 
 .post__meta--home {
-    padding: 100px 0 50px;
+    padding: 50px 0 0px;
+    @media screen and (min-width: $desktop-width){
+        padding: 100px 0 50px;
+
+    }
 }
 
 .post__excerpt {
@@ -149,8 +163,11 @@ caption {
 }
 
 .post__thumbnail {
-    @include post__thumbnail (200px, 20px) ;
-    float: left;
+    @media screen and (min-width: $desktop-width) {
+        @include post__thumbnail (200px, 20px) ;
+        float: left;
+
+    }
 }
 
 .post-list p {
