@@ -2,21 +2,22 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+    <!-- <h2 class="footer-heading">{{ site.title }}</h2> -->
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+      <div class="footer-col footer_col_1">
         <ul class="contact-list">
           <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
+          {% if site.instagram_username %}
           <li>
-            {% include icon-github.html username=site.github_username %}
+            {% include icon-instagram.html username=site.instagram_username %}
+          </li>
+          {% endif %}
+
+          {% if site.facebook_username %}
+          <li>
+            {% include icon-facebook.html username=site.facebook_username %}
           </li>
           {% endif %}
 
@@ -28,7 +29,8 @@
         </ul>
       </div>
 
-      <div class="footer-col footer-col-3">
+
+      <div class="footer-col footer_col_2">
         <p>{{ site.description }}</p>
       </div>
     </div>
@@ -45,5 +47,19 @@
       ga('send', 'pageview');
 
     </script>
+    <script type="text/javascript" src="{{ "/js/instafeed.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript">
+        var userFeed = new Instafeed({
+            get: 'user',
+            userId: '3523664885',
+            clientId: 'e32bd9b1f0c64d10b4bf114facbe4b92',
+            resolution: 'low_resolution',
+            accessToken: '3523664885.1677ed0.3473a04a6e89478aa02d16e5c9b3268f'
+
+        });
+        userFeed.run();
+    </script>
+
+</script>
 
 </footer>

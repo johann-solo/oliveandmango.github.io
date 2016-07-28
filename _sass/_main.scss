@@ -2,44 +2,48 @@ $accent-color: #4aa3df;
 $tablet-width: 600px;
 $desktop-width: 800px;
 
-@mixin main__text ($color, $font-size, $textshadow: 3px 1px 1px black) {
+@mixin main__text ($color, $font-size) {
     color: $color;
     font-size: $font-size;
-    text-shadow: $textshadow;
 }
 
+@mixin post__thumbnail ($width, $padding){
+    max-width: $width;
+    padding-right: $padding;
+}
+
+// BASE STYLES
 
 body {
-    font-family: 'Raleway', sans-serif;}
+    font-family: 'PT Sans', sans-serif;
+}
 
 h1 {
-    font-family: 'Yeseva One', cursive;
     font-size: 2em;
 }
 
-.splash {
-    background: url("/img/market-pinapples.jpg") no-repeat center center;
-    background-size: cover;
-    h1 {
-        @include main__text(white, 2em);
-        @media screen and (min-width: $tablet-width) {
-            @include main__text(white, 4em);
-        }
-    }
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
 }
 
-.main__text {
-    text-align: center;
-    padding: 75px 0;
-    @media screen and (min-width: 600px) {
-        padding: 150px 0;
-    }
-    p {
-        @include main__text(white, 1.5em);
-        @media screen and (min-width: $tablet-width)  {
-            @include main__text(white, 2.5em);
-        }
-    }
+h1, h2, h3, p, li {
+    margin: 0 !important;
+}
+
+.btn__main {
+    background: #F3F3F3;
+    padding: 10px;
+    color: $accent-color;
+}
+
+
+
+.icon,
+.icon--twitter {
+    color: #55ACEE !important;
 }
 
 blockquote {
@@ -47,33 +51,12 @@ blockquote {
     border-left: 4px solid $accent-color;
     font-size: 1.5em;
     margin: 30px 0;
-    padding-left: 30px;
-}
-
-.home {
-    text-align: center;
-    max-width: 80%;
-    margin: auto;
-    .post-list {
-        margin-bottom: 60px;
-    }
-    h2 {
-        font-family: 'Yeseva One', cursive;
-    }
+    padding: 0 60px 0;
 }
 
 caption {
     font-size: 0.5em;
 }
-
-// .post__date {
-//     border-top: solid thin;
-//     max-width: 200px;
-//     margin: auto;
-//     padding-top: 20px;
-// }
-
-
 
 .image-wrapper {
     text-align: center;
@@ -84,3 +67,119 @@ caption {
         padding-bottom: 10px;
     }
 }
+
+// MENU STYLES
+
+.om_logo {
+    float: left;
+    max-width: 45px;
+    padding-right: 15px;
+    margin-top: 10px;
+}
+
+
+
+// HOME STYLES
+
+
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.splash {
+    h1 {
+        @include main__text(black, 2.5em);
+        margin-bottom: 0;
+        @media screen and (min-width: $tablet-width) {
+            @include main__text(black, 5em);
+        }
+    }
+}
+
+.main__text {
+    font-family: 'Life Savers', cursive;
+    text-align: center;
+    padding: 50px 0;
+    @media screen and (min-width: 600px) {
+    }
+    p {
+        @include main__text(black, 1.5em);
+        @media screen and (min-width: $tablet-width)  {
+            @include main__text(black, 1.5em);
+        }
+    }
+}
+
+
+
+.home {
+    text-align: center;
+    margin: auto;
+    .post-list {
+        margin-bottom: 60px;
+    }
+    h2 {
+        font-family: 'Life Savers', cursive;
+    }
+}
+
+.line {
+    height: 0px;
+    width: 500px;
+    border-top: 1px black solid;
+    margin: auto;
+}
+.post-list li {
+    padding-bottom: 100px;
+}
+
+.post-list h3 {
+    text-transform: uppercase;
+}
+
+.post__meta--home {
+    padding: 100px 0 50px;
+}
+
+.post__excerpt {
+    font-size: 1em;
+    padding: 30px 0 0px;
+}
+
+.post__thumbnail {
+    @include post__thumbnail (200px, 20px) ;
+    float: left;
+}
+
+.post-list p {
+    padding-bottom: 20px;
+}
+
+#instafeed img {
+    max-width: 150px;
+    padding: 10px;
+}
+
+
+// BLOG STYLES
+
+// RECIPE STYLES
+
+.recipe__list {
+    padding-bottom: 20px !important;
+}
+
+.recipe__list img {
+    @include post__thumbnail (200px, 20px);
+}
+// .post img:first-of-type {
+//     display: none;
+// }
+// .post__date {
+//     border-top: solid thin;
+//     max-width: 200px;
+//     margin: auto;
+//     padding-top: 20px;
+// }

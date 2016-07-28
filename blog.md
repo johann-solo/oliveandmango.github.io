@@ -12,6 +12,9 @@ permalink: /blog/
       <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
+      {% if post.image %}
+          <img src="{{ site.baseurl }}/img/{{ post.image }}" class="post__thumbnail" alt="" />
+      {% endif %}
       {{ post.excerpt }}
 
       <a class="btn-default" href="{{ post.url | prepend: site.baseurl }}">Read more</a>

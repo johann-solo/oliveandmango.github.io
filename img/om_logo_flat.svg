@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="353px" height="259px" viewBox="0 0 353 259" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EC1919" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#8BE818" stop-opacity="0.5" offset="86.0445074%"></stop>
+            <stop stop-color="#BEF02E" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M206.73339,183.795998 C211.082257,191.492284 215.69243,198.874517 218.273096,205.903319 C232.227488,243.910032 247.692073,270.229732 280.534216,270.229732 C327.154334,270.229732 364.947407,217.77684 364.947407,153.072919 C364.947407,88.3689976 327.154334,35.9161057 280.534216,35.9161057 C233.914098,35.9161057 196.121025,88.3689976 196.121025,153.072919 C196.121025,163.765676 201.216985,174.033494 206.73339,183.795998 Z" id="path-2"></path>
+        <linearGradient x1="75%" y1="6.69872981%" x2="25%" y2="93.3012702%" id="linearGradient-3">
+            <stop stop-color="#BA9F9F" offset="0%"></stop>
+            <stop stop-color="#473E3E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="94.0454246%" y1="50%" x2="7.50155226%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#435240" offset="0%"></stop>
+            <stop stop-color="#328326" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-21.000000, -4.000000)">
+            <ellipse id="Oval" fill="#0A0D27" transform="translate(95.630585, 177.118969) rotate(27.000000) translate(-95.630585, -177.118969) " cx="95.6305845" cy="177.118969" rx="63" ry="87"></ellipse>
+            <g id="Oval-2" transform="translate(280.534216, 153.072919) rotate(-28.000000) translate(-280.534216, -153.072919) ">
+                <use fill="#F1563C" style="mix-blend-mode: multiply;" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+            <path d="M178.168078,41.1011859 L190.928203,19 L184,15 L135,99.8704896 L141.928203,103.87049 L174.146045,48.0675516 L203.046587,69.0650246 L207.748869,62.5928886 L178.168078,41.1011859 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+            <path d="M152.982522,44.4318646 C143.645555,44.8520656 133.752545,45.0777497 123.510103,45.0777497 C66.6659014,45.0777497 20.5845711,38.1264478 20.5845711,29.5515825 C20.5845711,24.6203771 35.8242762,20.2261057 59.5866287,17.3820266 C77.1445943,15.2805409 99.3556777,14.0254152 123.510103,14.0254152 C133.752545,14.0254152 143.645555,14.2510993 152.982522,14.6713003 C163.96662,18.6922669 170.584571,23.8837136 170.584571,29.5515825 C170.584571,35.2194513 163.96662,40.410898 152.982522,44.4318646 Z" id="Combined-Shape" fill="url(#linearGradient-4)" transform="translate(95.584571, 29.551582) scale(-1, 1) rotate(-11.000000) translate(-95.584571, -29.551582) "></path>
+        </g>
+    </g>
+</svg>
