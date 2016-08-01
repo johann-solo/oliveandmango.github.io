@@ -91,7 +91,7 @@ caption {
 .container {
     margin: 0 15px;
 
-    @media screen and (min-width: $tablet-width){
+    @media screen and (min-width: $desktop-width){
         max-width: 1000px;
         margin: 0;
         margin: auto;
