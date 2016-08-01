@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="353px" height="259px" viewBox="0 0 353 259" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
     <title>Group</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#0DFFBF" stop-opacity="0.5" offset="0%"></stop>
-            <stop stop-color="#E8AF18" stop-opacity="0.5" offset="86.0445074%"></stop>
-            <stop stop-color="#F0A72E" stop-opacity="0.5" offset="100%"></stop>
+            <stop stop-color="#EC1919" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#8BE818" stop-opacity="0.5" offset="86.0445074%"></stop>
+            <stop stop-color="#BEF02E" stop-opacity="0.5" offset="100%"></stop>
         </linearGradient>
         <path d="M206.73339,183.795998 C211.082257,191.492284 215.69243,198.874517 218.273096,205.903319 C232.227488,243.910032 247.692073,270.229732 280.534216,270.229732 C327.154334,270.229732 364.947407,217.77684 364.947407,153.072919 C364.947407,88.3689976 327.154334,35.9161057 280.534216,35.9161057 C233.914098,35.9161057 196.121025,88.3689976 196.121025,153.072919 C196.121025,163.765676 201.216985,174.033494 206.73339,183.795998 Z" id="path-2"></path>
         <linearGradient x1="75%" y1="6.69872981%" x2="25%" y2="93.3012702%" id="linearGradient-3">

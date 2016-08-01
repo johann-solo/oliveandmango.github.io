@@ -1,4 +1,4 @@
-$accent-color: #4aa3df;
+$accent-color: #FF4A07;
 $tablet-width: 600px;
 $desktop-width: 800px;
 
@@ -15,7 +15,7 @@ $desktop-width: 800px;
 // BASE STYLES
 
 body {
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 h1 {
@@ -33,10 +33,15 @@ h1, h2, h3, p, li {
     margin: 0 !important;
 }
 
+h1, h2, h3 {
+    font-family: 'open sans', sans-serif;
+}
+
 .btn__main {
     background: #F3F3F3;
     padding: 10px;
-    color: $accent-color;
+    color: $accent-color !important;
+    text-transform: uppercase;
 }
 
 
@@ -106,16 +111,20 @@ caption {
 }
 
 .main__text {
-    font-family: 'Life Savers', cursive;
     text-align: center;
     padding: 50px 0;
     @media screen and (min-width: 600px) {
     }
     p {
+        font-family: 'Life Savers', cursive;
         @include main__text(black, 1em);
         @media screen and (min-width: $tablet-width)  {
             @include main__text(black, 1.5em);
         }
+    }
+    h1 {
+        font-family: 'Life Savers', cursive;
+
     }
 }
 
@@ -127,19 +136,19 @@ caption {
     .post-list {
         margin-bottom: 60px;
     }
-    h2 {
-        font-family: 'Life Savers', cursive;
-    }
+    // h2 {
+    //     font-family: 'Life Savers', cursive;
+    // }
 }
 
 .line {
     height: 0px;
-    width: 300px;
-    border-top: 1px black solid;
+    // width: 300px;
+    border-top: 1px #ccc solid;
     margin: auto;
-    @media screen and (min-width: $tablet-width) {
-        width: 500px;
-    }
+    // @media screen and (min-width: $tablet-width) {
+    //     width: 500px;
+    // }
 }
 .post-list li {
     padding-bottom: 100px;
@@ -152,9 +161,14 @@ caption {
 .post__meta--home {
     padding: 50px 0 0px;
     @media screen and (min-width: $desktop-width){
-        padding: 100px 0 50px;
+        padding: 20px 0 0px;
 
     }
+}
+
+.post-link a:link,
+a:visited {
+    color: black;
 }
 
 .post__excerpt {
@@ -200,3 +214,27 @@ caption {
 //     margin: auto;
 //     padding-top: 20px;
 // }
+
+// FOOTER STYLES
+
+.username {
+    display: none;
+    @media screen and (min-width: $tablet-width)  {
+        display: inline-block;
+    }
+}
+
+.icon--instagram  svg,
+.icon--facebook  svg,
+.icon--twitter  svg
+ {
+    width: 50px;
+    height: 50px;
+    float: left;
+    text-align: center;
+    @media screen and (min-width: $tablet-width) {
+        height: 16px;
+        width: 16px;
+        float: none;
+    }
+}

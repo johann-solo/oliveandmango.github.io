@@ -17,7 +17,7 @@ permalink: /blog/
       {% endif %}
       {{ post.excerpt }}
 
-      <a class="btn-default" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
+      <a class="btn__main" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
 
     </li>
   {% endfor %}
