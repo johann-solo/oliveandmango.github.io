@@ -226,15 +226,24 @@ a:visited {
 
 .icon--instagram  svg,
 .icon--facebook  svg,
-.icon--twitter  svg
+.icon--twitter  svg,
+.icon--email svg
  {
     width: 50px;
     height: 50px;
-    float: left;
-    text-align: center;
+    padding: 0 5px;
     @media screen and (min-width: $tablet-width) {
-        height: 16px;
-        width: 16px;
+        height: 32px;
+        width: 32px;
         float: none;
     }
+}
+
+
+// FOOTER
+
+.social__icons {
+    list-style: none;
+    display: flex;
+    justify-content: center;
 }
