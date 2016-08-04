@@ -113,11 +113,14 @@ caption {
 .main__text {
     text-align: center;
     padding: 50px 0;
-    @media screen and (min-width: 600px) {
+    max-width: 350px;
+    margin: auto;
+    @media screen and (min-width: $tablet-width) {
+        max-width: 600px;
     }
     p {
         font-family: 'Life Savers', cursive;
-        @include main__text(black, 1em);
+        @include main__text(black, 1.1em);
         @media screen and (min-width: $tablet-width)  {
             @include main__text(black, 1.5em);
         }
