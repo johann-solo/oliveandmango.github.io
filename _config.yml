@@ -14,6 +14,12 @@ twitter_username: oliveandmango
 instagram_username: theoliveandmango
 facebook_username: oliveandmango
 
+#Default settings
+defaults:
+    -
+        values:
+            comments: true
+
 # Build settings
 markdown: kramdown
 permalink: /:title
