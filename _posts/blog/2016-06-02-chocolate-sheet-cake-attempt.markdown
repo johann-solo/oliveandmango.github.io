@@ -31,4 +31,4 @@ Did I say that this recipe is super easy? I can't appreciate this enough. Quick 
 
 Speaking of delicious. Let me tell you a little about the taste of this cake. A cross between a cake and a brownie was what many said about it when it was served. It's rich without being too decadent, light, kind of fudgey, kind of reminiscent of a pudding because of the slight stickiness of it and completely irresistible!!  
 
-Hope you enjoy and definitely take a fork to it as soon as your finished icing it!! [Check out the recipe right here](http://oliveandmango.com/chocolate-sheet-cake)
+Hope you enjoy and definitely take a fork to it as soon as your finished icing it!! [Check out the recipe right here](http://oliveandmango.com/chocolate-sheet-cake). Let me know how yours turned out.

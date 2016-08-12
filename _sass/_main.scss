@@ -29,6 +29,16 @@ a:visited {
     text-decoration: none;
 }
 
+.post-link a:link,
+a:visited {
+    color: black;
+}
+
+p a:link,
+p a:visited {
+    color: $accent-color;
+}
+
 h1, h2, h3, p, li {
     margin: 0 !important;
 }
@@ -169,10 +179,7 @@ caption {
     }
 }
 
-.post-link a:link,
-a:visited {
-    color: black;
-}
+
 
 .post__excerpt {
     font-size: 1em;

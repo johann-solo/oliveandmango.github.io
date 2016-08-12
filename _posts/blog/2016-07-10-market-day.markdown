@@ -52,7 +52,7 @@ The market at the Savannah is every second Saturday of the month. I wake up at s
 So when choosing a market those are some things to consider. Because if it's far and inconvenient to park, overcrowded, always picked over by the time you get there, you will just press snooze and skip it all together.
 <br><br>
 
-So stop blowing all your money on mediocre at best produce at the grocery store and hit up your local market. I promise you you won't regret it!! And for all my Trinis, stop buying foreign tomatoes and lettuce!! More on eating local on a future post because there's more I have to say about that!!
+So stop blowing all your money on mediocre at best produce at the grocery store and hit up your local market. I promise you you won't regret it!! And for all my Trinis, stop buying foreign tomatoes and lettuce!! More on eating local on a future post because there's more I have to say about that!! Tell me what are your favourite things to get fresh from your local market?
 <br><br>
 
 {% include image.html

@@ -55,4 +55,4 @@ In its defence even Off claims 8-10 hours of effectiveness but I still have had 
 
 Now for the apple cider vinegar. I love apple cider vinegar and am believer in its health benefits which are a very long list. Claimed benefits range from help with acid reflux, used as skin toner, weight loss and the list goes on. But I also found that having a tablespoon or two a day in your water or taken as a shot helps keep those mosquitos at bay. I heard that it's an old army trick to keep mosquitos from biting the soldiers sitting in wet and damp trenches for hours. Something about it in your system makes us repulsive to mosquitos. Whatever it is I have found it greatly reduces the bites I get, so bottoms up!!!
 <br><br>
-I hope these are two simple additional ways to you help avoid being a beacon attracting mosquitos
+I hope these are two simple additional ways to you help avoid being a beacon attracting mosquitos. Are there any natural or DEET-free solutions that work for you?
