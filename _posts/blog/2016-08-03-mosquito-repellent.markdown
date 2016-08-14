@@ -24,7 +24,7 @@ Of course the risk is predominately in South America and the Caribbean.  Very fe
 <br>
 
 What to do? Well the usual: Wear light coloured clothing, go easy on the perfumes, use citronella oil spray and candles, spray endless amounts of Off while you hold your breath, lather on Odomos, light up and burn mosquito coils and hold your breath too!
-<br><br>
+<br>
 
 > I have noticed that in recent years I have become more and more sensitive and reactive to chemicals
 
