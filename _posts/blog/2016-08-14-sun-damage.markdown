@@ -17,7 +17,7 @@ Living in a tropical country is fantastic for very obvious reasons. Beach and su
 
 > On doing some research I realized that some medications can cause those dark spots. And they can occur on all skin tones
 
-Hyperpigmentation is a very new thing to me. My mom always had freckles from the sun so I always had freckles after a day in the sun, streaked across my cheeks and nose but they usually went away quickly. Well I noticed late last year, after I was put on some medication temporarily, that I developed some blotchy dark spots on my forehead and my cheek. On doing some research I realized that some medications can cause those dark spots. And they can occur on all skin tones. Add the fact that I'm in the sun a tonne, is a recipe for disaster when it comes to hyperpigmentation.  
+Hyperpigmentation is a very new thing to me. My mom always had freckles from the sun so I always had freckles after a day in the sun, streaked across my cheeks and nose but they usually went away quickly. Well I noticed late last year, after I was put on some medication temporarily, that I developed some blotchy dark spots on my forehead and my cheek. On doing some research I realized that some medications can cause those dark spots. And they can occur on all skin tones. Add the fact that I'm in the sun a tonne, this makes it a recipe for disaster when it comes to hyperpigmentation.  
 <br>
 
 It's caused mainly from:
