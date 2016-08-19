@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "One  of the biggest dental misconceptions"
-date:   2016-08-19 07:00:35 -0400
+date:   2016-08-18 07:00:35 -0400
 author: Joanne
 permalink: flossing
 categories: blog
@@ -37,7 +37,7 @@ That tartar and plaque not only move up the tooth and build up in between the te
             img="/img/AUG2016/dental_tools.jpg"
             title="Dental Tools"
             caption="Your dental exam will be a more positive one if you include floss." %}
-            
+
 In my experience from working in a general dental office and also and at a periodontal office (gum specialist), I have definitely noticed a correlation between flossing and healthier gums, less buildup between the teeth, and less bleeding of the gums also.  
 <br>
 
