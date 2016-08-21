@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "One  of the biggest dental misconceptions"
+title:  "One of the biggest dental misconceptions"
 date:   2016-08-18 07:00:35 -0400
 author: Joanne
 permalink: flossing
