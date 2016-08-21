@@ -22,7 +22,7 @@ This one in particular is so simple and comes out perfect every time. No crazy i
             title="Carrot cake ingredients"
             caption="Nothing too fancy here. All ingredients are basic kitchen stock" %}
 
-The only thing I modify when I make it is that I don't bake it in Bundt pan. I bake it in two 9 inch cake pans and layer it with frosting in the middle and a nice slathering on top. It ends up looking rustic chic!  If you do like the add ins, this recipe definitely allows for them. So feel free to toss in some raison, sultanas, currants, coconut shavings and pineapple to taste.
+The only thing I modify when I make it is that I don't bake it in Bundt pan. I bake it in two 9 inch cake pans and layer it with frosting in the middle and a nice slathering on top. It ends up looking rustic chic!  If you do like the add ins, this recipe definitely allows for them. So feel free to toss in some raisins, sultanas, currants, coconut shavings and pineapple to taste.
 <br>
 
 > It's the oil that gives this cake it's moistness and keeps the cake light
@@ -34,5 +34,5 @@ The change in pan makes for a change in time in the oven. I spilt the batter bet
             img="/img/AUG2016/carrot_cake_tea.jpg"
             title="Carrot cake and tea"
             caption="Just tell your friends that you are eating a vegetable cake" %}
-            
+
 It's great for dinner parties, and potlucks.  It's a crown pleaser for sure. The best part is that it's easy to make, it comes out deliciously moist every time and hey, you get a little veg in your dessert to! Give it a try and tell me what you think and if you have a favorite recipe for this classic!
