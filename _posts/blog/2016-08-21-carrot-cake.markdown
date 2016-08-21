@@ -34,5 +34,5 @@ The change in pan makes for a change in time in the oven. I spilt the batter bet
             img="/img/AUG2016/carrot_cake_tea.jpg"
             title="Carrot cake and tea"
             caption="Just tell your friends that you are eating a vegetable cake" %}
-<br>
+            
 It's great for dinner parties, and potlucks.  It's a crown pleaser for sure. The best part is that it's easy to make, it comes out deliciously moist every time and hey, you get a little veg in your dessert to! Give it a try and tell me what you think and if you have a favorite recipe for this classic!
