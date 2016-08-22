@@ -27,7 +27,7 @@ The only thing I modify when I make it is that I don't bake it in Bundt pan. I b
 
 > It's the oil that gives this cake it's moistness and keeps the cake light
 
-The change in pan makes for a change in time in the oven. I spilt the batter between the two pans and baking time is 30-35 minutes depending on your oven, which is different form the original recipe using a Bundt and baking for 50 minutes.  
+The change in pan makes for a change in time in the oven. I split the batter between the two pans and baking time is 30-35 minutes depending on your oven, which is different form the original recipe using a Bundt and baking for 50 minutes.  
 <br>
 
 {% include image.html
