@@ -5,13 +5,13 @@ date:   2016-08-19 07:00:35 -0400
 author: Joanne
 permalink: carrot-cake
 categories: blog
-image: carrot_cake_cover_img.jpg
+image: AUG2016/carrot_cake_cover_img.jpg
 tags:
     - desserts
 excerpt: <p>What's the best thing about carrot cake? The cream cheese frosting!! Am I right!?!?</p>
 ---
 
-What's the best thing about carrot cake? The cream cheese frosting!! Am I right!?!? I love a moist carrot cake with a little crunch and not to much add ons. Save the raisins and pineapple for another cake (My hubby would pick each and every one of them out). Bring on the pecan or walnuts though. At least that's how I like mine. I have tried several recipes but a few years ago I found a total winner on [foodnetwork.com](http://www.foodnetwork.com) courtesy of Ree Drummond (Sigrid's Carrot Cake recipe). No surprise, her recipes never disappoint.  
+What's the best thing about carrot cake? The cream cheese frosting!! Am I right!?!? I love a moist carrot cake with a little crunch and not to much add ons. Save the raisins and pineapple for another cake (My hubby would pick each and every one of them out). Bring on the pecan or walnuts though. At least that's how I like mine. I have tried several recipes but a few years ago I found a total winner courtesy of Ree Drummond (Sigrid's Carrot Cake recipe). No surprise, her recipes never disappoint.  
 <br>
 
 This one in particular is so simple and comes out perfect every time. No crazy ingredients that I have to hunt down and then never use again and get lost in the pantry. Just your basic flour, carrots, oil, eggs.....you get the picture. I'm a butter fan when it comes to baking but really it's the oil that gives this cake and all cakes made with oil their moistness and keeps the cake light at the same time. That's really what you want in a cake, otherwise it's more like a bread.  
