@@ -5,7 +5,7 @@ date:   2016-08-18 07:00:35 -0400
 author: Joanne
 permalink: flossing
 categories: blog
-image: 2016/AUG/dental_supplies.jpg
+image: dental_supplies.jpg
 tags:
     - wellness
     - health

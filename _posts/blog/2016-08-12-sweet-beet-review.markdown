@@ -5,7 +5,7 @@ date:   2016-08-11 07:00:35 -0400
 author: Joanne
 permalink: sweet-beet-review
 categories: blog
-image: AUG2016/sweet_beet_front.jpg
+image: sweet_beet_front.jpg
 tags:
     - review
 excerpt: <p>A vegan's paradise that all can enjoy</p>
