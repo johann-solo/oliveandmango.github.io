@@ -5,7 +5,7 @@ date:   2016-07-10 20:43:35 -0400
 author: Joanne
 permalink: market-day
 categories: blog
-image: market-pinapples.jpg
+image: 2016/JUL/market-pinapples.jpg
 tags:
     - field trip
 excerpt: <p>Saving money, eating healthy and great tasting food doesn&apos;t have to be difficult. Local markets are the key.</p>

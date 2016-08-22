@@ -5,7 +5,7 @@ date:   2016-08-03 9:33:35 -0400
 author: Joanne
 permalink: mosquito-repellant
 categories: blog
-image: sss_acvinegar.jpg
+image: AUG2016/sss_acvinegar.jpg
 tags:
     - wellness
 excerpt: <p>Looking for a DEET-free alternative mosquito repellent? Try these unexpected methods</p>

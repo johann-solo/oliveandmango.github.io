@@ -5,7 +5,7 @@ date:   2016-08-14 07:00:35 -0400
 author: Joanne
 permalink: sun-damage
 categories: blog
-image: coconut_tress.jpg
+image: AUG2016/coconut_tress.jpg
 tags:
     - wellness
     - health

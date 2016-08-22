@@ -5,7 +5,7 @@ date:   2016-08-19 07:00:35 -0400
 author: Joanne
 permalink: carrot-cake
 categories: blog
-image: AUG2016/carrot_cake_cover_img.jpg
+image: 2016/AUG/carrot_cake_cover_img.jpg
 tags:
     - desserts
 excerpt: <p>What's the best thing about carrot cake? The cream cheese frosting!! Am I right!?!?</p>
