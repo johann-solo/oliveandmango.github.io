@@ -2,7 +2,7 @@
 layout: recipe
 title:  "The Perfect Carrot Cake"
 permalink: carrot-cake-recipe
-image: AUG2016/carrot_cake_full.jpg
+image: RECIPES/carrot_cake_full.jpg
 categories: recipes
 excerpt:
 ---

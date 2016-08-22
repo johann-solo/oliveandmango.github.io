@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Baked French Toast"
 permalink: baked-french-toast
-image: baked-french-toast.jpg
+image: RECIPES/baked-french-toast.jpg
 categories: recipes
 excerpt:
 ---

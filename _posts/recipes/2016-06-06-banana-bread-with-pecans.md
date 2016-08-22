@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Banana Bread with Pecans"
 permalink: banana-bread-with-pecans
-image: banana-bread.jpg
+image: RECIPES/banana-bread.jpg
 categories: recipes
 excerpt:
 ---

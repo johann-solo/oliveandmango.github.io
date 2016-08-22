@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Blueberry Buttermilk Pancakes"
 permalink: blueberry-buttermilk-pancakes
-image: pancakes.jpg
+image: RECIPES/pancakes.jpg
 categories: recipes
 excerpt:
 ---
