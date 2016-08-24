@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Take a Caribbean rum tour"
+title:  "Uncover one of rum’s best kept secrets"
 date:   2016-08-24 07:00:35 -0400
 author: Johann
 permalink: angostura-tour
