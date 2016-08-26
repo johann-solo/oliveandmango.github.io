@@ -4,9 +4,11 @@
 
     <div>
         <ul class="social__icons">
+            {% if site.pintrest_username %}
             <li>
-                <a data-pin-do="buttonBookmark" data-pin-tall="true" data-pin-round="true" data-pin-save="false" href="https://www.pinterest.com/pin/create/button/"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_32.png" /></a>
+              {% include icon-pintrest.html %}
             </li>
+            {% endif %}
             <li>
               {% include icon-email.html %}
             </li>
