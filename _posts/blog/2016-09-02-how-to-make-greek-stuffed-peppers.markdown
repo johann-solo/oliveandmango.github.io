@@ -2,7 +2,7 @@
 layout: post
 title:  "How to make authentic Greek stuffed peppers"
 date:   2016-09-02 07:00:35 -0400
-author: 
+author: Joanne
 permalink: how-to-make-greek-stuffed-peppers
 categories: blog
 image: SEPT2016/yemista_meal.jpg
