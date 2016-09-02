@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Butter Cream Chocolate Cake"
 permalink: butter-cream-chocolate-cake
-image:
+image: RECIPES/butter_cream_chocolate_cake.jpg
 categories: recipes
 excerpt:
 ---
