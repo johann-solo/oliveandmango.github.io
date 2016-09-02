@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to make authentic Greek stuffed peppers"
-date:   2016-08-24 07:00:35 -0400
+date:   2016-09-02 07:00:35 -0400
 author: Johann
 permalink: how-to-make-greek-stuffed-peppers
 categories: blog
