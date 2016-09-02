@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Horiatiki salad (Greek village salad) "
 permalink: village-salad
-image: RECIPES/village-salad.jpg
+image: RECIPES/village_salad.jpg
 categories: recipes
 excerpt: <p>This salad is a classic and is great if you prefer less lettuce and more chunking vegetables in your salad.</p>
 ---
