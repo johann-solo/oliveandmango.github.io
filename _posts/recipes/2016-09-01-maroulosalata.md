@@ -17,7 +17,7 @@ This is one of my favorite salads.  Don't get me wrong I absolutely love all Gre
 * A small bunch of dill chopped finely
 * A small bunch of parsley chopped finely
 * Dressing made of lemon juice,and olive oil, salt and pepper to taste and oregano is optional as I said before.
-<br><br>
+<br>
 
 Combine all fresh green ingredients, top with dressing and toss.  
 I add a little crumbled feta and basically I can eat this all day!!!!!

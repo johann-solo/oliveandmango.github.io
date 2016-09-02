@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Horiatiki salad (Greek village salad) "
 permalink: village-salad
-image:
+image: RECIPES/village-salad.jpg
 categories: recipes
 excerpt: <p>This salad is a classic and is great if you prefer less lettuce and more chunking vegetables in your salad.</p>
 ---
@@ -24,6 +24,6 @@ Now many recipes call for a vinaigrette made of olive oil and red wine vinegar w
 <br><br>
 
 I didn't put measurements because it's up to you how much tomatoes and cucumber and sweet pepper you would like to add for the size of the salad your making. Season to taste as well and omit the olives and cheese according to your diet and taste.  
-<br><br>
+<br>
 
 Enjoy with crusty bread for dipping the delicious juices created by the tomato and the rich olive oil and crumbled feta.  
