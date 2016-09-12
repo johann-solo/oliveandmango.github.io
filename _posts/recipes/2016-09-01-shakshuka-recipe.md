@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  "How to make a great shakshuka"
+title:  "Delicious shakshuka"
 permalink: shakshuka-recipe
 image: RECIPES/shakshuka.jpg
 categories: recipes
