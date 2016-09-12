@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to have your lentils (and eat them too)"
-date:   2016-09-12 17:30:35 -0400
+date:   2016-09-11 17:30:35 -0400
 author: Joanne
 permalink: lentil-sweet-potato-stoup
 categories: blog
@@ -27,4 +27,4 @@ I don't know what it was I hated about them. Probably the mushy texture of legum
 They are a super food in them selves I think.  A fantastic source of fibre which is so good for your digestion. High also in iron, folate, manganese, phosphorous, copper, vitamin B1, and potassium. Health benefits range from lowering cholesterol, contributing to good heart health, weight loss and of course an amazing source of protein!!
 <br><br>
 
-This soup recipe is an easy one that always hits the spot. It's a no fail of a recipe also one that you can swap and add ingredients according to taste. I love the sweetness and richness added by the sweet potatoes and the flavour added by all the rest of the veggies. Hope you enjoy it and tell me what is your favourite meal to cook with lentils.  
+[This soup recipe](http://oliveandmango.com/lentil-sweet-potato-stoup-recipe) is an easy one that always hits the spot. It's a no fail of a recipe also one that you can swap and add ingredients according to taste. I love the sweetness and richness added by the sweet potatoes and the flavour added by all the rest of the veggies. Hope you enjoy it and tell me what is your favourite meal to cook with lentils.  
