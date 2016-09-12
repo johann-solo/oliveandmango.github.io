@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to have your lentils (and eat them too)"
-date:   2016-09-11 17:30:35 -0400
+date:   2016-09-13 17:30:35 -0400
 author: Joanne
 permalink: lentil-sweet-potato-stoup
 categories: blog
