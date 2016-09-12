@@ -2,10 +2,11 @@
 layout: recipe
 title:  "Maroulosalata (Classic Greek lettuce salad)"
 permalink: maroulosalata
-image:
+image: RECIPES/maroulosalata.jpg
 categories: recipes
 excerpt:
 ---
+<br>
 
 This is one of my favorite salads. Don't get me wrong I absolutely love all Greek salads but this one just tops the list for me. It blends some of my favorite herbs( dill and parsley) and my favourite dressing which is simply made up of lemon juice, olive oil, salt and pepper to taste. Some add oregano too but that is optional. Here in Trinidad we only get lemons when they are in season so instead I use vinegar. Your basic white or red wine vinegar.
 <br><br>
