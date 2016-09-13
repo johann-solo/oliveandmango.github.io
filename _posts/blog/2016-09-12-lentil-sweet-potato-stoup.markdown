@@ -11,7 +11,7 @@ tags:
 excerpt: <p>Get warm and cozy with this hearty and thick soup</p>
 ---
 
-Lentils or 'fakes' (pronounced *fak-yeas*) in Greek and 'fasolatha' (Greek White Bean Soup) were the worst things you could feed me as a kid. I loved the smell of them cooking but could not stand to eat them.  I mean really could not stand them. My mom pleaded and threatened but I wouldn't budge. I would have rather starved than even have one bite. Finally my mom had to resort to bribery and succeeded in getting me to have a few resentful bites. Nutella was the answer to her problem child who wouldn't eat legumes &mdash; the only thing I wouldn’t eat I should add. I wasn’t a picky eater &mdash; just no legumes. So she would put out the Nutella jar and set it on the counter and the rules were a few bites of fakes/lentils and then Nutella or else nothing at all.
+Lentils or 'fakes' (pronounced *fak-yas*) in Greek and 'fasolatha' (Greek White Bean Soup) were the worst things you could feed me as a kid. I loved the smell of them cooking but could not stand to eat them.  I mean really could not stand them. My mom pleaded and threatened but I wouldn't budge. I would have rather starved than even have one bite. Finally my mom had to resort to bribery and succeeded in getting me to have a few resentful bites. Nutella was the answer to her problem child who wouldn't eat legumes &mdash; the only thing I wouldn’t eat I should add. I wasn’t a picky eater &mdash; just no legumes. So she would put out the Nutella jar and set it on the counter and the rules were a few bites of fakes/lentils and then Nutella or else nothing at all.
 <br><br>
 
 {% include image.html
@@ -24,7 +24,7 @@ I don't know what it was I hated about them. Probably the mushy texture of legum
 
 > They are truly very versatile and very hard to mess up
 
-They are a super food in them selves I think.  A fantastic source of fibre which is so good for your digestion. High also in iron, folate, manganese, phosphorous, copper, vitamin B1, and potassium. Health benefits range from lowering cholesterol, contributing to good heart health, weight loss and of course an amazing source of protein!!
+They are a super food in themselves. A fantastic source of fibre which is so good for your digestion. High also in iron, folate, manganese, phosphorous, copper, vitamin B1, and potassium. Health benefits range from lowering cholesterol, contributing to good heart health, weight loss and of course an amazing source of protein!!
 <br><br>
 
-[This soup recipe](http://oliveandmango.com/lentil-sweet-potato-stoup-recipe) is an easy one that always hits the spot. It's a no fail of a recipe also one that you can swap and add ingredients according to taste. I love the sweetness and richness added by the sweet potatoes and the flavour added by all the rest of the veggies. Hope you enjoy it and tell me what is your favourite meal to cook with lentils.  
+[This soup recipe](http://oliveandmango.com/lentil-sweet-potato-stoup-recipe) is an easy one that always hits the spot. It's a no fail recipe, also one that you can swap and add ingredients according to taste. I love the sweetness and richness added by the sweet potatoes and the flavour added by all the rest of the veggies. Hope you enjoy it and tell me what is your favourite meal to make with lentils.  

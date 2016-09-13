@@ -31,5 +31,5 @@ excerpt:
 1. Add in the seasoning  garlic, thyme, chive and cumin as well as the paste or tomatoes and stir well
 1. Add lentils and stir well and then add the water or broth.
 1. Bring the soup to boil and then turn down heat to low-medium, cover and let simmer for 45 min to an hour. Add more water if it's too thick and still needs to cook down
-*You're basically cooking it down until the veggies are soft and the lentils have bursted and are soft
+*You're basically cooking it down until the veggies are soft and the lentils have burst and are soft.
 Serves well with toasted baguette with cheese
