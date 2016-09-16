@@ -58,7 +58,7 @@ Things can get tricky when you are traveling on a budget. For example, likely yo
 ## A few days before :
 
 * Open your suitcase and start putting things in from your list. You don't need to pack or fold but put them in and start crossing them off your list
-* Srepare or buys snack you might want or need for your flight like granola bars etc
+* Prepare or buy snacks you might want or need for your flight like granola bars etc
 * Start cleaning your house and tidying up so that you don't come back with a mess on your hands
 
 ## The day before:
