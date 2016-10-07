@@ -74,4 +74,4 @@ This is just one of many possibilities. You can probably get hundreds of variati
 {% include image.html
             img="/img/OCT2016/monte_marte.jpg"
             title="Monte Marte"
-            caption="The serene Monte Marte" %}
+            caption="The serene Montmartre" %}
