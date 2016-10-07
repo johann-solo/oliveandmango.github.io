@@ -28,7 +28,6 @@ Let’s get this out of the way right at the start. Paris is one of the most cul
             caption="Do breakfast French style - coffee and pain au chocolat" %}
 
 Getting into Paris from London was a bit of a trick. Depending where you are the ‘getting there’ can take longer than the trip itself. The train via the channel can be expensive if not booked sufficiently in advance. Also check out London city airport, it may be a bit more expensive but can save you some time.
-<br>
 
 > Paris is one of the most culturally dense cities in the world
 
@@ -49,7 +48,7 @@ Next we continued our walk over the Seine on the Pont de Bir-Hakeim bridge that 
             caption="Macarons - gotta eat them all!" %}
 
 Just off the main stretch we headed to Rue Cler. A place we stayed the last time we were there. An excellent way to take in the stereotypical (yet very accurate) Paris café culture. The road is pedestrian only and lined with bakeries, flower stalls, cafés, restaurants, cheese and meat stores with the occasional crêpe stand. It's all how you would picture it in your mind if someone asked you to describe the city — and a great way to spend an hour or so.
-<br><br>
+<br>
 
 > “Paris is always a good idea” — Audrey Hepburn in ‘Sabrina’
 
