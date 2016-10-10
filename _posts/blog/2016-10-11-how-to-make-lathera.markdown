@@ -8,13 +8,13 @@ categories: blog
 image: OCT2016/lathera_2.jpg
 tags:
     - food
-excerpt: <p>Get warm and cozy with this hearty and thick soup</p>
+excerpt: <p>A classic Greek vegetarian peasant-styled dish</p>
 ---
 
 This is one my favourite meatless Monday recipes. I say favourite about a lot of recipes and I really mean it. I love them all but this one is one of those recipes that If you put the pot in front of me I will eat the whole thing and when it's done I will wipe the pot clean with some crusty bread.  I put this over rice or (gf) pasta or just on its own with bread and some feta. This and a salad and I'm done. This will definitely not be a favourite as a stand alone main if your not a veggie fan (who are you?). But even as a side it works really well.
 <br><br>
 
-So Lathera in Greek actually means "oily".  This can be an off-putting name because of the oily factor, but the dish isn't oily, it just uses quite a bit of oil in the recipe. Quite a bit meaning 1/4 to 1/2 a cup to sauté (to 1 lb of vegetables) and cook down the vegetables and then when serving you drizzle some uncooked EVOO on them to get that rich flavour cooked in, and poured over as well. This makes the dish nice and rich. If you just use a scant amount of oil it will not be as flavourful and will just be watery vegetables.
+So Lathera in Greek actually means "oily". This can be an off-putting name because of the oily factor, but the dish isn't oily, it just uses quite a bit of oil in the recipe. Quite a bit meaning 1/4 to 1/2 a cup to sauté (to 1 lb of vegetables) and cook down the vegetables and then when serving you drizzle some uncooked EVOO on them to get that rich flavour cooked in, and poured over as well. This makes the dish nice and rich. If you just use a scant amount of oil it will not be as flavourful and will just be watery vegetables.
 <br><br>
 
 {% include image.html
