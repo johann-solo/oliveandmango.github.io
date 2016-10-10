@@ -44,5 +44,5 @@ The things that can change:
 * Some recipes add in a potato for a little more substance and that is fine too.
 * If you want a bit of a kick some recipes call for a little bit of pepper flakes but that is completely up to you.
 
-So add or omit these according to taste. Here is the [link to the recipe](http://oliveandmango.com) the way I normally make it.
+So add or omit these according to taste. Here is the [link to the recipe](http://oliveandmango.com/lathera) the way I normally make it.
 Enjoy and don't be afraid of the oil!
