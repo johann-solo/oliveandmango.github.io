@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lathera"
+title:  "Lathera - make green peas exciting"
 date:   2016-10-10 09:30:35 -0400
 author: Joanne
 permalink: how-to-make-lathera
