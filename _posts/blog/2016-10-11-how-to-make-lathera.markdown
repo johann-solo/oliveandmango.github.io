@@ -1,50 +1,48 @@
 ---
 layout: post
-title:  "No fail banana bread"
-date:   2016-10-12 09:30:35 -0400
+title:  "Lathera - make green peas exciting"
+date:   2016-10-10 09:30:35 -0400
 author: Joanne
-permalink: delicious-moist-banana-bread
+permalink: how-to-make-lathera
 categories: blog
-image: OCT2016/banana-bread.jpg
+image: OCT2016/lathera_2.jpg
 tags:
     - food
-excerpt: <p>Make amazing, moist and delicious banana bread every time</p>
+excerpt: <p>A classic Greek vegetarian peasant-styled dish</p>
 ---
 
-Have you ever searched 'Best Banana Bread' on Pinterest or google? There's literally hundreds and even possibly thousands of recipes that claim they are the best. The takes on banana bread are so varied. Nuts, no nuts. Chocolate chips, no chips. Butter no butter but instead oil or vice versa.  Gluten free, vegan, paleo, pumpkin and the list goes on and on and on! I have tried many different recipes.  The only ones I haven't tried are vegan or gluten free, so I can't say anything about that category yet. I will have to experiment with those recipes soon though.
+This is one my favourite meatless Monday recipes. I say favourite about a lot of recipes and I really mean it. I love them all but this one is one of those recipes that If you put the pot in front of me I will eat the whole thing and when it's done I will wipe the pot clean with some crusty bread.  I put this over rice or (gf) pasta or just on its own with bread and some feta. This and a salad and I'm done. This will definitely not be a favourite as a stand alone main if your not a veggie fan (who are you?). But even as a side it works really well.
+<br><br>
 
-<br>
-
-{% include image.html
-            img="/img/OCT2016/banana_bread_mix.jpg"
-            title="Banana Bread Prep"
-            caption="It's fun just to dump all your ingredients in one lump" %}
-
-I think banana bread is one of those foods that people have different opinions on.  For example I brought this particular bread to work one day and of course almost everyone raved about it (because it's such a yummy recipe) except one person who took one look at it and said "that looks over done".  She was use to box banana bread/ muffin mix which is like yellow box cake with flecks.  She had never had this kind of banana bread; a banana bread made from scratch. Once she knew the difference she agreed to have some and enjoyed it, but to her the best banana bread came from a box. Is she wrong? Absolutely not in her mind and her taste.  I'm not going to be judge of tastes, but you get the point.  Everyone's taste for banana bread and what they consider good banana bread is different.  
-
-<br>
+So Lathera in Greek actually means "oily". This can be an off-putting name because of the oily factor, but the dish isn't oily, it just uses quite a bit of oil in the recipe. Quite a bit meaning 1/4 to 1/2 a cup to sauté (to 1 lb of vegetables) and cook down the vegetables and then when serving you drizzle some uncooked EVOO on them to get that rich flavour cooked in, and poured over as well. This makes the dish nice and rich. If you just use a scant amount of oil it will not be as flavourful and will just be watery vegetables.
+<br><br>
 
 {% include image.html
-            img="/img/OCT2016/banana_bread_prebake.jpg"
-            title="Banana Bread Mix"
-            caption="Ready to turn this into a sweet masterpiece" %}
+            img="/img/OCT2016/lathera.jpg"
+            title="Lathera"
+            caption="A sea of pure happiness" %}
 
-Here is why I think this one is the best banana bread recipe I have tried thus far:
+What vegetables? Well the possibilities are endless. Top two for me are string beens (fasolakia) or green peas (mpizelia or arakas). Fresh or frozen, they are my go-to vegetables for Lathera.
+But you can use potatoes, cauliflower, okra and various legumes too like broad beans, lima (gigantes) beans, and chick peas.
+<br><br>
 
-* The base recipe always turns out perfect and the same every time
-* The original recipe called for pecans but its a versatile recipe and i have switched the pecans out to walnuts and added chocolate chips on occasion
-* It always turns out perfectly moist
-* It's not too sweet
-* Every time someone tries it they must have the recipe. (A very good sign)
-* Recipe uses basic pantry ingredients which is always such a bonus
-<br>
+Benefits of Lathera are plenty. Ok so first off, from the olive oil you get a good dose of antioxidants and healthy monounsaturated fats. Second, you get a meal rich in fibre and tons of nutrients because it's all vegetables. And lastly it's super cheap to make if your on a budget. If you can't buy fresh like I said you can use frozen veggies which are still full of good nutrients. And if you don't have fresh tomatoes you can sub in good canned tomatoes. Green peas are a super food in themselves.  A fantastic source of fibre which is so good for your digestion. High also in iron, folate, manganese, phosphorous, copper, vitamin B1, and potassium. Health benefits range from lowering cholesterol, contributing to good heart health, weight loss and of course an amazing source of protein!!
+<br><br>
 
 {% include image.html
-            img="/img/OCT2016/banana_bread_finished.jpg"
-            title="Baked Banana Bread"
-            caption="So beautiful you won't want to eat it — but you will anyway" %}
+            img="/img/OCT2016/lathera_3.jpg"
+            title="Lathera and bread"
+            caption="Get in there and soak up that delicious oil, you know you want to" %}
 
-The [original recipe](http://www.foodnetwork.com/recipes/tyler-florence/banana-bread-with-pecans-recipe.html) is from the food network by Tyler Florence.  I adapted it because I find the part of that recipe that says to separate the 4 bananas and prepare in two batches doesn't work for me.  The consistency doesn't come out the way I like it so I don't separate the bananas.  I blend all four together as you see in the recipe [here on the blog](http://oliveandmango.com/banana-bread-with-pecans). I also almost always add chocolate chips.  I love the crunch from the pecans or walnuts if your swapping, and the little surprise crunch and burst of sweetness when you bite into a chocolate chip.
-Definitely feel free to try the recipe on the food network website and compare for yourself.
-In the meantime I hope you enjoy this recipe which is my favourite banana bread recipe. A classic and a favourite of anyone I have made it for too.  Can't beat that right!
-Let me know if you have a favourite recipe for this classic.  I would love to know and I'm always willing to try other recipes for it.  
+What you can't sub out is the EVOO, tomatoes, parsley, onions and garlic. Those are the staples of this fine vegetarian dish.
+The things that can change:
+<br>
+
+* Some add a pinch of sugar to balance out the acidity of the tomatoes. I think that's optional.  
+* Some add in carrots and that is fine too. That will add a nice bit of sweetness to the dish. You can add a little white wine when sautéing the vegetables as some do to add a little more depth of flavour but that too is optional.  
+* Some add dill as I do (if I have it available), which is also optional but I love dill and love the punch it gives anything.
+* Some recipes add in a potato for a little more substance and that is fine too.
+* If you want a bit of a kick some recipes call for a little bit of pepper flakes but that is completely up to you.
+
+So add or omit these according to taste. Here is the [link to the recipe](http://oliveandmango.com/lathera) the way I normally make it.
+Enjoy and don't be afraid of the oil!
