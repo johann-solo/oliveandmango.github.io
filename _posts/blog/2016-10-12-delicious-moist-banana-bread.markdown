@@ -32,7 +32,7 @@ I think banana bread is one of those foods that people have different opinions o
 Here is why I think this one is the best banana bread recipe I have tried thus far:
 
 * The base recipe always turns out perfect and the same every time
-* The original recipe called for pecans but its a versatile recipe and i have switched the pecans out to walnuts and added chocolate chips on occasion
+* The original recipe called for pecans but its a versatile recipe and I have switched the pecans out to walnuts and added chocolate chips on occasion
 * It always turns out perfectly moist
 * It's not too sweet
 * Every time someone tries it they must have the recipe. (A very good sign)
