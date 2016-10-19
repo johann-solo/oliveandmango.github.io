@@ -5,7 +5,7 @@ date:   2016-08-03 9:33:35 -0400
 author: Joanne
 permalink: mosquito-repellant
 categories: blog
-image: sss_acvinegar.jpg
+image: AUG2016/sss_acvinegar.jpg
 tags:
     - wellness
 excerpt: <p>Looking for a DEET-free alternative mosquito repellent? Try these unexpected methods</p>
@@ -46,7 +46,7 @@ Its not a very strong smelling oil. It's soft smelling and many find it pleasant
 <br><br>
 
 {% include image.html
-            img="/img/sss_acvinegar.jpg"
+            img="/img/AUG2016/sss_acvinegar.jpg"
             title="Skin So Soft and apple cider vinegar"
             caption="Skin So Soft and apple cider vinegar" %}
 
