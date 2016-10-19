@@ -5,7 +5,7 @@ date:   2016-06-04 07:37:35 -0400
 author: Joanne
 permalink: chocolate-sheet-cake-attempt
 categories: blog
-image: JUL2016/TheBestChocolateSheetCake.jpg
+image: JUN2016/TheBestChocolateSheetCake.jpg
 tags:
     - desserts
 excerpt: <p>A guaranteed crowd pleaser for almost everyone - unless they are gluten and nut intolerant or those rare ones who hate chocolate!?!?!?</p>

@@ -5,7 +5,7 @@ date:   2016-06-16 11:37:35 -0400
 author: Guest Post - Johann (aka the hubby)
 permalink: a-tropical-twist-on-a-classic
 categories: blog
-image: JUL2016/cheeesecake_passionfruit_2.jpg
+image: JUN2016/cheeesecake_passionfruit_2.jpg
 tags:
     - desserts
 excerpt: <p>This little tweak proves to be a winner. With just the right amount of fruit, it turned out to be a refreshing glaze.</p>
@@ -17,7 +17,7 @@ I love cheesecake - but then again so do most people. Creamy rich filling with a
 <br><br>
 
 {% include image.html
-            img="/img/JUL2016/cheeesecake_passionfruit_2.jpg"
+            img="/img/JUN2016/cheeesecake_passionfruit_2.jpg"
             title="Passionfruit Cheesecake"
             caption="Thick and decadent cheesecake" %}
 
@@ -42,7 +42,7 @@ Now a few things to consider about the crust. It's not always easy to find graha
 <br>
 
 {% include image.html
-            img="/img/JUL2016/pie-crust.jpg"
+            img="/img/JUN2016/pie-crust.jpg"
             title="Sharon's graham cracker pie crust"
             caption="Sharon's graham cracker pie crust" %}
 
@@ -53,7 +53,7 @@ Side tip about about the water bath: I have never been able to avoid water or wh
 <br>
 
 {% include image.html
-            img="/img/JUL2016/cheeesecake_passionfruit_1.jpg"
+            img="/img/JUN2016/cheeesecake_passionfruit_1.jpg"
             title="Passionfruit Cheesecake"
             caption="Passionfruit glaze gets reviews that amaze" %}
 

@@ -5,7 +5,7 @@ date:   2016-07-10 20:43:35 -0400
 author: Joanne
 permalink: market-day
 categories: blog
-image: market-pinapples.jpg
+image: JUL2016/market-pinapples.jpg
 tags:
     - field trip
 excerpt: <p>Saving money, eating healthy and great tasting food doesn&apos;t have to be difficult. Local markets are the key.</p>
@@ -15,7 +15,7 @@ Wherever you go it seems everyone is talking about the economy and hard times co
 <br><br>
 
 {% include image.html
-            img="/img/savannah-market.jpg"
+            img="/img/JUL2016/savannah-market.jpg"
             title="Savannah Market"
             caption="Vibrant yet organised at the Savannah market" %}
 
@@ -26,7 +26,7 @@ I get super excited on market day! I cannot wait to see what I will find! Market
 <br><br>
 
 {% include image.html
-            img="/img/market-greens.jpg"
+            img="/img/JUL2016/market-greens.jpg"
             title="Savannah Market greens"
             caption="Gorgeous greens" %}
 
@@ -37,7 +37,7 @@ There are three markets I have been to here in Trinidad. The pictures on this bl
 <br>
 
 {% include image.html
-            img="/img/market-pinapples.jpg"
+            img="/img/JUL2016/market-pinapples.jpg"
             title="Savannah Market greens"
             caption="Who needs Hawaii when we have great local pineapples" %}
 
@@ -45,7 +45,7 @@ The market at the Savannah is every second Saturday of the month. I wake up at s
 <br>
 
 {% include image.html
-            img="/img/market-reds.jpg"
+            img="/img/JUL2016/market-reds.jpg"
             title="Tomatoes and peppers"
             caption="Radiant reds" %}
 
@@ -56,6 +56,6 @@ So stop blowing all your money on mediocre at best produce at the grocery store 
 <br><br>
 
 {% include image.html
-            img="/img/market-finds.jpg"
+            img="/img/JUL2016/market-finds.jpg"
             title="Market finds"
             caption="To the victor go the spoils" %}
