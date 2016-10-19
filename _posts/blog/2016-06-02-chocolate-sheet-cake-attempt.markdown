@@ -5,7 +5,7 @@ date:   2016-06-04 07:37:35 -0400
 author: Joanne
 permalink: chocolate-sheet-cake-attempt
 categories: blog
-image: TheBestChocolateSheetCake.jpg
+image: JUL2016/TheBestChocolateSheetCake.jpg
 tags:
     - desserts
 excerpt: <p>A guaranteed crowd pleaser for almost everyone - unless they are gluten and nut intolerant or those rare ones who hate chocolate!?!?!?</p>
@@ -16,7 +16,7 @@ This is a fantastic recipe from the Pioneer Woman which is definitely a keeper a
 <br><br>
 
 {% include image.html
-            img="/img/TheBestChocolateSheetCake.jpg"
+            img="/img/JUL2016/TheBestChocolateSheetCake.jpg"
             title="Chocolate sheet cake"
             caption="Delicious and easy to make chocolate cake" %}
 
