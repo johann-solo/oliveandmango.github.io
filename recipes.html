@@ -9,8 +9,10 @@ permalink: /recipes/
     <input type="submit" value="search">
 </form>
 
+
 <ul class="">
-  {% for recipe in site.recipes %}
+
+  {% for recipe in site.recipes  %}
     <li class="post-list">
       <h2>
         <a class="" href="{{ recipe.url | prepend: site.baseurl }}">{{ recipe.title }}</a>

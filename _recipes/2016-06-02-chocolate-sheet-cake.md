@@ -3,7 +3,7 @@ layout: recipe
 title:  "Chocolate Sheet Cake"
 permalink: chocolate-sheet-cake
 image: RECIPES/TheBestChocolateSheetCake.jpg
-categories: recipes
+categories: dessert
 ---
 
 
