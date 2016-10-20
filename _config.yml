@@ -15,7 +15,16 @@ instagram_username: theoliveandmango
 facebook_username: oliveandmango
 pintrest_username: olive_mango
 
-#Default settings
+
+paginate: 5
+
+# Collections
+collections:
+    recipes:
+        output: true
+
+
+# Default settings
 defaults:
     -
         values:
@@ -27,3 +36,4 @@ permalink: /:title
 
 gems:
   - jekyll-sitemap
+  - jekyll-paginate

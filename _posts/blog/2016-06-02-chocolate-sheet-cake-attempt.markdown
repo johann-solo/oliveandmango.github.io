@@ -16,7 +16,7 @@ This is a fantastic recipe from the Pioneer Woman which is definitely a keeper a
 <br><br>
 
 {% include image.html
-            img="/img/JUL2016/TheBestChocolateSheetCake.jpg"
+            img="/img/JUN2016/TheBestChocolateSheetCake.jpg"
             title="Chocolate sheet cake"
             caption="Delicious and easy to make chocolate cake" %}
 
