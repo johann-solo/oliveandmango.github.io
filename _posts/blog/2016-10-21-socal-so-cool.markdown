@@ -8,7 +8,7 @@ categories: blog
 image: OCT2016/santa_monica_palms.jpg
 tags:
     - travel
-excerpt: <p>Top 5 budget-friendly things to do in L.A </p>
+excerpt: <p>A local's guide to the top 5 budget-friendly things to do in LA </p>
 ---
 
 I have always wanted to visit California but never seemed to have the opportunity to.  California was one of those places that Hollywood kind of built up in my mind.  And visiting it really lived up to the hype.  From picturesque beaches to the Hollywood sign and to the most cliche tourist traps - I loved it all!
