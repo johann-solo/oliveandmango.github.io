@@ -35,7 +35,7 @@ What differentiates these meatballs to others is the seasoning. Basically I seas
 They can be made in a tomato based sauce as a meal to be served with pasta or rice, but I love them plain with some tzatiki sauce to dip them in or a lemon garlic tahini sauce.  They can be made using your meat of choice.  I prefer either beef or lamb though.
 <br><br>
 
-I don't usually measure exactly amount when I cook but a trick to meatballs and tasting them for seasoning is to take a small bite size piece and just fry it up in a pan and taste it and see if you need more salt or other seasoning before cooking the whole batch.
+I don't usually measure exact amounts when I cook but a trick to meatballs and tasting them for seasoning is to take a small bite size piece and just fry it up in a pan and taste it and see if you need more salt or other seasoning before cooking the whole batch.
 <br><br>
 
 **Recipe:**
