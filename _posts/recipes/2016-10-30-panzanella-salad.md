@@ -11,17 +11,17 @@ excerpt:
 
 I'm always so amazed at people who are nervous to try new foods from different cultures.  Maybe my love of food encourages my curiosity.  Don't get me wrong, I have my favourites but I love trying new things and love seeing how I can incorporate new tastes and flavours into my kitchen.  It's awesome when you can merge ethnic flavours.  Two that merge well are Italian and Greek.   I can hear my dad saying "Una Faccia Una Razza"or in Greek: Μια Φάτσα Μια Ράτσα (lit. 'one face, one race')
 Totally true especially in the case of this Horiatiki Panzanella Salad
-<br>
+<br><br>
 
 I was making a Greek horiatiki salad one day and thought 'how great would this be if it had big fat crusty buttery croutons in it to soak all the goodness at the bottom of the salad bowl' that I usually mop up with crusty bread.  Then it dawned on me that's Panzanella.  Ofcourse that was no invention of mine.  Italians do know a thing or two about food I have to admit. Insert cheeky wink emoji.
-<br>
+<br><br>
 
 So thats when I decided to take out my heavy pan put some butter and olive oil, garlic and thyme in it , cube some ciabatta bread and toss it in to get it well coated with the butter and oil.  Let it sizzle up for a few min than put it in a hot oven to get it crusty and really toasted.  Once done I threw them in my Greek salad and ta-dah, a merge of two outstanding cultural dishes.  The birth of the Horiatiki Panzanella salad. Did I sit and eat the whole huge bowl by myself? Of course not, i had to let Johann get a little taste of it.  But the rest was demolished by none other than me.  So enjoy as a side or as a meal.  
 <br>
 
 I think in particular it would be a great side with grilled anything and a perfect make ahead to bring to a BBQ potluck. Just don't add the bread or dressing to the salad until a few minutes before serving.   You want some crunch left in those croutons.  Although I read originally Panzanella was made with stale bread that was soaked and then squeezed dry and added to the salad.  I don't know it there's any truth to that. Maybe some of my Italian friends can fill me in on that.
 Hope you all enjoy this salad as much I as I do!!
-<br>
+<br><br>
 
 ## Ingredients
 * 1/2 -1 full loaf of ciabatta bread or any crusty bread or baguette would work cubed
