@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Horiatiki Panzanella Salad"
-date:   2016-10-28 09:30:35 -0400
+date:   2016-10-30 09:30:35 -0400
 author: Joanne
 permalink: horiatiki-panzanella-salad
 image: OCT2016/Panzanella_salad.jpg
