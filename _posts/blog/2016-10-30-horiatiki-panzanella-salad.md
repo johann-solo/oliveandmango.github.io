@@ -18,6 +18,11 @@ Totally true especially in the case of this Horiatiki Panzanella Salad
 I was making a Greek [horiatiki salad](http://oliveandmango.com/village-salad) one day and thought 'how great would this be if it had big fat crusty buttery croutons in it to soak all the goodness at the bottom of the salad bowl' that I usually mop up with crusty bread.  Then it dawned on me that's Panzanella.  Of course that was no invention of mine.  Italians do know a thing or two about food I have to admit. Insert cheeky wink emoji.
 <br><br>
 
+{% include image.html
+            img="/img/OCT2016/Panzanella_salad_2.jpg"
+            title="Panzanella Salad"
+            caption="The Greco-Roman empire didn't fall, they just adapted" %}
+
 So thats when I decided to take out my heavy pan put some butter and olive oil, garlic and thyme in it , cube some ciabatta bread and toss it in to get it well coated with the butter and oil.  Let it sizzle up for a few min than put it in a hot oven to get it crusty and really toasted.  Once done I threw them in my Greek salad and ta-dah, a merge of two outstanding cultural dishes.  The birth of the Horiatiki Panzanella salad. Did I sit and eat the whole huge bowl by myself? Of course not, i had to let Johann get a little taste of it.  But the rest was demolished by none other than me.  So enjoy as a side or as a meal.  
 <br>
 
