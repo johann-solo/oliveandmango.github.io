@@ -4,6 +4,7 @@ title:  "Horiatiki Panzanella Salad"
 permalink: panzanella-salad
 image: RECIPES/Panzanella_salad.jpg
 categories: recipes
+tags: sides
 excerpt:
 ---
 

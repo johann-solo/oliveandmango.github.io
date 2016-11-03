@@ -16,6 +16,13 @@ $desktop-width: 800px;
 
 body {
     font-family: 'Raleway', sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.page-content {
+    flex: 1;
 }
 
 h1 {
@@ -37,7 +44,6 @@ a:visited {
 .post-meta {
     padding-top: 10px;
 }
-
 
 p a:link,
 p a:visited {
@@ -91,6 +97,7 @@ caption {
         color: $grey-color;
         margin-top: $spacing-unit / 3;
         padding-bottom: 10px;
+        font-size: 16px;
     }
 }
 
@@ -107,8 +114,6 @@ caption {
 
 // HOME STYLES
 
-
-
 .container {
     margin: 0 15px;
 
@@ -116,9 +121,7 @@ caption {
         max-width: 1000px;
         margin: 0;
         margin: auto;
-
     }
-
 }
 
 .splash {
@@ -148,11 +151,8 @@ caption {
     }
     h1 {
         font-family: 'Life Savers', cursive;
-
     }
 }
-
-
 
 .home {
     text-align: center;
@@ -186,14 +186,11 @@ caption {
     padding: 50px 0 0px;
     @media screen and (min-width: $desktop-width){
         padding: 20px 0 0px;
-
     }
 }
 
-
-
 .post__excerpt {
-    font-size: 1em;
+    font-size: 1.2em;
     padding: 30px 0 0px;
 }
 
@@ -201,7 +198,6 @@ caption {
     @media screen and (min-width: $desktop-width) {
         @include post__thumbnail (200px, 20px) ;
         float: left;
-
     }
 }
 
@@ -216,6 +212,60 @@ caption {
 
 
 // BLOG STYLES
+
+.blog__post__list li {
+    padding-bottom: 15px;
+}
+
+.blog__post__list .btn__main {
+    background: none;
+    padding: 0;
+}
+
+.blog__post__list h1 {
+    font-size: 2em;
+    padding-bottom: 60px;
+}
+
+.blog__post__list .om__search__form {
+    padding-bottom: 30px;
+}
+
+
+// SEARCH BOX
+#search_box, #search-box {
+    padding:12px 30px;
+    font-size: 1.3em;
+    label {
+        display: none;
+    }
+}
+
+.om__search__form label {
+    display: none;
+}
+
+.search label {
+    display: none;
+}
+
+input[type=submit] {
+    padding:12px 30px;
+    background:$accent-color;
+    color: white;
+    border:0 none;
+    cursor:pointer;
+    font-size: 1.3em;
+}
+
+.search form {
+    padding-bottom: 30px;
+}
+
+#search-results li {
+    padding-bottom: 15px;
+}
+
 
 // RECIPE STYLES
 
@@ -236,10 +286,10 @@ caption {
 //     padding-top: 20px;
 // }
 
-
-
-
-
+// .recipe__post ul,
+// .recipe__post ol {
+//     padding: 0 30px;
+// }
 
 
 // FOOTER STYLES
@@ -273,4 +323,8 @@ caption {
     list-style: none;
     display: flex;
     justify-content: center;
+}
+
+.search {
+    padding: 20px 0;
 }
