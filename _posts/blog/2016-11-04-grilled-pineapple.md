@@ -18,6 +18,11 @@ Just sitting in Starbucks after a very long and tiring day of work writing this 
 I sit here and I have to say it feels very weird.  Feels like an unfamiliar Starbucks because it's new, but also feels as though when I walk out of it I will be somewhere in Scarborough, Ontario.  Its a bit trippy! But all the same I'm happy to be at this one because when I walk out the door I will be welcomed by a warm breeze.  Speaking of trippy, holy 'tripsters' (definition: Trini-hipsters) at this Starbucks.  Note to self &mdash; dress better when you go to Starbucks Movietowne.  
 <br>
 
+{% include image.html
+            img="/img/NOV2016/grilled_pinapple.jpg"
+            title="Grilled Pineapple and Shrimp"
+            caption="Make the most of your precious pineapple and pair it with local shrimp" %}
+
 I digress completely though.  Now down to business. These beautiful and succulent grilled shrimp and pineapple skewers.I asked all my beloved IG followers last week or the week before (tired brain problems) what I should do with a huge delicious pineapple I got from the market.  I got some amazing responses that I actually can't wait to try.  If you didn't see it here are some that were mentioned:
 
 * grilled with cinnamon and sugar
@@ -58,3 +63,9 @@ Marinade (a basic homemade teriyaki sauce)
 3. After marinating, stack your skewers with the pineapple and shrimp alternating or in whatever pattern you desire.
 4. Coat a hot grill with a bit of oil and "put the shrimp on the barbie". They don't take long to cook 2-5 min per side.
 5. Serve while they are hot with the sauce and garnished with chadon beni. I like to serve them over veggie fried rice and garlic pak choi. Enjoy!
+<br>
+
+{% include image.html
+            img="/img/NOV2016/grilled_pinapple_2.jpg"
+            title="Grilled Pineapple and Shrimp"
+            caption="Save a trip to Hawaii (for now) and enjoy a refreshing meal" %}
