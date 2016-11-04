@@ -66,6 +66,6 @@ Marinade (a basic homemade teriyaki sauce)
 <br>
 
 {% include image.html
-            img="/img/NOV2016/grilled_pinapple_2.jpg"
+            img="/img/NOV2016/grilled_pineapple_2.jpg"
             title="Grilled Pineapple and Shrimp"
             caption="Save a trip to Hawaii (for now) and enjoy a refreshing meal" %}
