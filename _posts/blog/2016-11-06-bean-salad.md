@@ -30,7 +30,7 @@ Enough about that though. Now on to one of my favourite, flavourful and super ea
 <br><br>
 
 {% include image.html
-            img="/img/NOV2016/bean_salad_close.jpg"
+            img="/img/NOV2016/bean_salad_closeup.jpg"
             title="Bean salad"
             caption="You can eat this as a stand alone meal if you want to vegetarian dinner" %}
 
