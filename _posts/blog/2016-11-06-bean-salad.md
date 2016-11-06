@@ -40,7 +40,7 @@ The combo of beans, flavours and dressing works really well. I hope you like it 
 
 * 1 can drained and rinsed or 3/4 cup-1 cup of cooked beans each of black beans, chick peas, and red kidneys beans
 * 1/2 pound of green string beans fresh or frozen, trimmed and chopped in half
-Half of a red onion chopped finely
+* Half of a red onion chopped finely
 * 1 whole scallion, green onion or chive chopped finely
 * 1/4 cup each fresh chopped dill and parsley
 * 1-2 small sweet pickles chopped finely and a tsp of brine from the pickle jar for the dressing (optional but really adds to the flavour of the salad)
@@ -61,7 +61,7 @@ I do a combination of:
 ## Directions:
 
 1. Chop all herbs, onions and pickles and place in a bowl
-2. While you are chopping herbs, steam green beans until tender crisp and put in a a bowl of ice to stop the cooking process and so they keep that vibrant green colour, then drain well and add them to the bowl
+2. While you are chopping herbs, steam green beans until tender crisp and put in a bowl of ice to stop the cooking process and so they keep that vibrant green colour, then drain well and add them to the bowl
 3. Add beans to the bowl and toss gently
 4. Prepare dressing, pour over beans and toss to coat.  Taste and add more and S &P if needed.  Serve and enjoy!
 
