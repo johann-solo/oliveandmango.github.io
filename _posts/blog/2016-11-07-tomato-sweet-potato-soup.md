@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The perfect soup to add to you Fall collection
+title: A simple soup with dynamic flavours
 date: "2016-11-07 09:30:35 -0400"
 author: Joanne
 permalink: tomato-sweet-potato-soup
@@ -14,13 +14,13 @@ excerpt: "<p>It's soup season, try this amazing combo of roasted tomatoes, basil
 I was sitting waiting for someone in the community library here in St James one day a couple years ago. When I realised I was sitting in the cookbook/food section, I started to browse while I waited.  I came across a beautiful book called Cooking Kariwak Style: Taste of Tobago by Cynthia Hurd-Clovis.  Such a beautifully photographed book with equally beautiful recipes.  Of course I didn't have a card to sign it out at the time and for some reason never did after even when I did get a library card.  
 <br>
 
-Anyways, while I waited I came across some wonderful recipes but only two stuck or at least the basic concepts of them, and to this day i make both of them all the time.  The one is a beautiful coconut rice that is a staple which I switch up by adding veggies, peas or whatever I have to it, but the bones of the recipe always stay the same.   More on that another time though.  The other recipe that stood out to me was a tomato basil sweet potato soup.  When I read it, right away I could taste it!! So I tried to remember the basics of it and recreated it as soon as I could.
+Anyways, while I waited I came across some wonderful recipes but only two stuck or at least the basic concepts of them, and to this day I make both of them all the time.  The one is a beautiful coconut rice that is a staple which I switch up by adding veggies, peas or whatever I have to it, but the bones of the recipe always stays the same.   More on that another time though.  The other recipe that stood out to me was a tomato basil sweet potato soup.  When I read it, right away I could taste it!! So I tried to remember the basics of it and recreated it as soon as I could.
 <br><br>
 
 {% include image.html
             img="/img/NOV2016/sweet_potato_tomato.JPG"
             title="Tomatoes and sweet potatoes"
-            caption="If you can get your ingredients from a local market it will make the soup so much better - as if yo need me to remind you" %}
+            caption="If you can get your ingredients from a local market it will make the soup so much better &mdash; as if you need me to remind you" %}
 
 I have never tasted the original at [Kariwak Village Hotel](http://www.kariwak.com), although I have eaten there before. It was around 5 years ago on a mini vacation from Canada.  I don't remember what I had, but I do remember that it was delicious!  That's why when I saw that book, I had to take a look at it.  
 <br>
@@ -56,7 +56,7 @@ All this has me feeling very nostalgic for Tobago.   I must go back to Kariwak f
 4. Add the roasted tomatoes and garlic to the pot and give everything a good stir
 5. Add broth and let simmer half covered with the lid for approx. 20 minutes or until the sweet potatoes are soft and almost falling apart (add more water or broth as needed &mdash; do not let it completely dry out, also test occasionally for seasoning &mdash; add more salt if needed)
 6. Add in your sliced spinach (if using) and simmer for a few more minutes until it's wilted
-7. Take the pot off the heat and using an immersion blender (could also do batches in a blender and then return to pot )blend soup to the consistency you desire (I like it smooth but with a few veggie stragglers left for a little more texture)
+7. Take the pot off the heat and using an immersion blender (could also do batches in a blender and then return to pot) blend soup to the consistency you desire (I like it smooth but with a few veggie stragglers left for a little more texture)
 8. Add and stir in your sliced basil
 9. Serve with crusty bread. I toasted mine topped with a basil pesto and cheese.
 <br>
