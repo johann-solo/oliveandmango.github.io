@@ -32,7 +32,7 @@ Enough about that though. Now on to one of my favourite, flavourful and super ea
 {% include image.html
             img="/img/NOV2016/bean_salad_closeup.jpg"
             title="Bean salad"
-            caption="You can eat this as a stand alone meal if you want to vegetarian dinner" %}
+            caption="You can eat this as a stand alone meal if you want to have a vegetarian dinner" %}
 
 The combo of beans, flavours and dressing works really well. I hope you like it as much as I do.  I love to bring it to a potluck or a BBQ. It's easy and people love it.  
 <br>
@@ -65,4 +65,4 @@ I do a combination of:
 3. Add beans to the bowl and toss gently
 4. Prepare dressing, pour over beans and toss to coat.  Taste and add more and S &P if needed.  Serve and enjoy!
 
-Hope you like my take on this classic.  Let me know what else you like to add into your bean salad.  
+Hope you like my take on this classic.  Let me know what else you like to add to your bean salad.  
