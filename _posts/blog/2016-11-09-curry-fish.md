@@ -11,7 +11,7 @@ tags:
 excerpt: "<p>No time to cook? Try this simple and delicious solution</p>"
 ---
 
-Weekdays can go so fast and be such a blur sometimes for us and sometimes it's hard to know what to make for dinner everyday.  This is one of the reasons I always include a curry in the weeks meal plan. This is what we would call "curry in a hurry" though.  It's not a complex curry but a really simple yet still flavorful curry. Creamy and coconutty too. I usually do it with vegetables or with a white fish.  I find those are the easiest if you have little meal prep time because they don't require lots of time for seasoning.  
+Weekdays can go so fast and be such a blur sometimes for us and sometimes it's hard to know what to make for dinner everyday.  This is one of the reasons I always include a curry in the week's meal plan. This is what we would call "curry in a hurry" though.  It's not a complex curry but a really simple yet still flavorful curry. Creamy and coconutty too. I usually do it with vegetables or with a white fish.  I find those are the easiest if you have little meal prep time because they don't require lots of time for seasoning.  
 <br>
 
 I like to season my meat (chicken or beef) the night before I use it but when it comes to veggies and fish I find for this quick curry, I don't need to season as long.  With the vegetables not at all, and for the fish I season with [green seasoning](http://oliveandmango.com/green-seasoning) for a half hour tops( sometimes I don't even season it for the whole 30 min because the fish easily picks up a lot of flavor from the seasoning in the curry sauce.  While the fish is marinating in the green seasoning I prep the rest of my veggies and get my rice going. Usually I will do a peas and rice with veggies or like in this case I will do a bhaji (spinach) rice with local Trini pumpkin.  When I do the curry with vegetables I use either fresh or frozen, whatever I have on hand.  I love to do the veggie one with cauliflower and chick peas/chana and potatoes.  Love it with carrots and peas as well.  The combinations are pretty endless, and really according to your taste.  
@@ -31,7 +31,7 @@ In less than an hour you have a meal that is nutritious, delicious and takes ver
 ### Ingredients:
 
 * 4-6 small to medium sized pieces/fillets of white fish of your choice
-* 2-3 tbsp of green seasoning (fresh prepped in a food processor or chopped finely or prepared from a store bought jar)
+* 2-3 tbsp of <span class="highlight">[green seasoning](http://oliveandmango.com/green-seasoning)</span> (fresh prepped in a food processor or chopped finely or prepared from a store bought jar)
 * 2-3 cloves of garlic chopped
 * 1 tsp of ginger grated or chopped finely
 * 3 stems of chive or green onion chopped
@@ -48,7 +48,7 @@ In less than an hour you have a meal that is nutritious, delicious and takes ver
 
 ### Directions:
 
-1. Marinade or season meat with [green seasoning](http://oliveandmango.com/green-seasoning) while you chop the rest of your ingredients ( up to a half hour)
+1. Marinade or season meat with <span class="highlight">[green seasoning](http://oliveandmango.com/green-seasoning)</span> while you chop the rest of your ingredients ( up to a half hour)
 2. Remove fish from marinade, sprinkle salt and pepper on seasoned fish and dredge both sides in flour-optional. What the dredging will do is keep the fish from totally falling apart when it finishes cooking in the curry sauce. I don't mind mine falling apart so I usually skip this step.  
 3. Heat 1/2 tbsp of oil in a medium sized skillet or frying pan and pan fry fish on medium/high heat for 1-2 min per side just to get a little color on each side and then set aside.  (Fish will finish cooking in the curry sauce)
 4. Heat large shallow sauce pan with remaining oil at med/high and sauté garlic for a minute or two
@@ -72,7 +72,7 @@ In less than an hour you have a meal that is nutritious, delicious and takes ver
 ### Directions:
 1. Preheat oven to 350 F
 2. Place carrot slices in a bowl and toss well to coat with the olive oil, turmeric, thyme and salt and pepper
-3. Place on baking sheet and roast for approx 20-30 min or until desired texture.  I like mine with brown edges and tender.  (Flip them once halfway)
+3. Place on baking sheet and roast for approx 20-30 min or until desired texture.  I like mine with browned edges and tender.  (Flip them once halfway)
 <br><br>
 
 
@@ -98,7 +98,7 @@ In less than an hour you have a meal that is nutritious, delicious and takes ver
 1. Preheat oven to 350 F
 2. Wash and slice you spinach or bhaji, chop onion, garlic and pumpkin, wash your rice and set aside
 3. Heat oven proof medium pot on med/high and add your oil and butter.
-4. Add in your garlic and let it sauté for a minute or so to make the oil very fragrant and then add in the spinach and onions and pumpkin and pimento peppers if using.  Stir and let everything sauté for another 2-5 min (turn down the heat to medium if needed).  The spinach will have wilted, onions should be soft and translucent and pumpkin will be in the starting process of getting soft.
+4. Add in your garlic and let it sauté for a minute or so to make the oil very fragrant and then add in the spinach and onions and pumpkin and pimento peppers if using.  Stir and let everything sauté for another 2-5 min (turn down the heat to medium if needed).  The spinach will have wilted, onions should be soft and translucent and pumpkin will be in the beginning stages of getting soft.
 5. Season with salt and pepper and add in the rice.  Let the rice sauté for a min or so to absorb some of the flavors and then add your coconut milk and water or broth if using
 6. Let the pot come to a simmer, give it a good stir.  Taste and see if it's good for salt and pepper, cover with oven proof lid and put in the oven for approx half an hour
 7. Once done remove from the oven, remove lid, fluff rice with a fork and serve.
