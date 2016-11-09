@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quick and easy midweek meal - curry in a hurry
+title: Quick and easy midweek meal &mdash; curry in a hurry
 date: "2016-11-09 09:30:35 -0400"
 author: Joanne
 permalink: curry-fish
@@ -8,7 +8,7 @@ image: NOV2016/curry_fish_2.jpg
 categories: blog
 tags:
   - food
-excerpt: "<p></p>"
+excerpt: "<p>No time to cook? Try this simple and delicious solution</p>"
 ---
 
 Weekdays can go so fast and be such a blur sometimes for us and sometimes it's hard to know what to make for dinner everyday.  This is one of the reasons I always include a curry in the weeks meal plan. This is what we would call "curry in a hurry" though.  It's not a complex curry but a really simple yet still flavorful curry. Creamy and coconutty too. I usually do it with vegetables or with a white fish.  I find those are the easiest if you have little meal prep time because they don't require lots of time for seasoning.  

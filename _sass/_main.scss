@@ -276,6 +276,12 @@ input[type=submit] {
 .recipe__list img {
     @include post__thumbnail (200px, 20px);
 }
+
+
+.recipe__title {
+    padding-bottom: 15px;
+}
+
 // .post img:first-of-type {
 //     display: none;
 // }
