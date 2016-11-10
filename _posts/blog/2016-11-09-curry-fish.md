@@ -8,7 +8,7 @@ image: NOV2016/curry_fish_2.jpg
 categories: blog
 tags:
   - food
-excerpt: "<p>No time to cook? Try this simple and delicious solution</p>"
+excerpt: "<p>Don't have a lot of time to cook? Try this simple and delicious solution</p>"
 ---
 
 Weekdays can go so fast and be such a blur sometimes for us and sometimes it's hard to know what to make for dinner everyday.  This is one of the reasons I always include a curry in the week's meal plan. This is what we would call "curry in a hurry" though.  It's not a complex curry but a really simple yet still flavorful curry. Creamy and coconutty too. I usually do it with vegetables or with a white fish.  I find those are the easiest if you have little meal prep time because they don't require lots of time for seasoning.  
