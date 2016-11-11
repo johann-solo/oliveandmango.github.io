@@ -8,7 +8,7 @@ image: NOV2016/avocado_chocolate_pudding_3.jpg
 categories: blog
 tags:
   - food
-excerpt: "<p>My favourite way to have an avocado? Chocolatey</p>"
+excerpt: "<p>One of my favourites way to have an avocado? Chocolatey</p>"
 ---
 
 I have seen these little puddings all over Pinterest and IG but I was watching [@erinireland](https://www.instagram.com/erinireland) stories last week and saw her make it and I thought 'why have I not
