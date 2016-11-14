@@ -20,7 +20,7 @@ I truly can't remember ever having a bad potato salad.  Even if it's heavily 'ma
 {% include image.html
             img="/img/NOV2016/greek_potatoes_1.jpg"
             title="Greek potato salad"
-            caption="Lemon always makes it better" %}
+            caption="Extra lemon always makes it better" %}
 
 This salad is a nice change to the heavier creamier potato salads out there. I love those too don't get me wrong, but if you want a bit of a change this is it. This potato salad has more of a fresh and tangy flavour with its fresh herbs and lemony/vinegary dressing. Those are my kind of flavours. (no wonder I love dill pickle and salt and vinegar chips) They fall into what my husband calls the 'Greek trinity' of flavours: lemon, oregano and olive oil.  I think our flavours expand further than that but those three are definitely staples in many dressings and recipes and including this one for the most part.  
 <br>
@@ -49,7 +49,7 @@ Serves 4-6 as a side (or 1 if your greedy like me)
 
 1. Place the potatoes in a large pot and fill with cold water until the potatoes are completely submerged.  Bring water to boil and salt the water very generously- simmer until fork tender
 
-2. While potatoes are boiling chop up all your fresh herbs and onions (oregano too if using) and place in a bowl along with your lemon juice or vinegar
+2. While potatoes are boiling chop up all your fresh herbs and onions and place in a bowl along with your lemon juice or vinegar (oregano too if using).
 
 3. Once potatoes are ready, drain and place right into the bowl with the herbs. Delicately mix well and start drizzling in your olive oil.  
 
