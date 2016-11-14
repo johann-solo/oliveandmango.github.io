@@ -55,6 +55,6 @@ Serves 4-6 as a side (or 1 if your greedy like me)
 
 4. Add your salt and pepper to taste
 
-5. I add the olive oil later because I find when I have placed it in the bowl before hand the potatoes absorb all of if like a sponge and I have to add a lot more of it.  This may still happen but I find when I add it after it takes a lot less oil. Maybe it has something to do with it absorbing the lemon juice first or maybe it's just my imagination!?!? Either way you may need to add a little extra olive oil to get the achieved texture (being not dry)
+-  I add the olive oil later because I find when I have placed it in the bowl before hand the potatoes absorb all of if like a sponge and I have to add a lot more of it.  This may still happen but I find when I add it after it takes a lot less oil. Maybe it has something to do with it absorbing the lemon juice first or maybe it's just my imagination!?!? Either way you may need to add a little extra olive oil to get the achieved texture (being not dry)
 
-6. Serve and enjoy warm or let cool and serve cold.  Either way they are delicious!!
+5. Serve and enjoy warm or let cool and serve cold.  Either way they are delicious!!
