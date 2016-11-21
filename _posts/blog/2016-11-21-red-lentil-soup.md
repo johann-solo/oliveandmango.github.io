@@ -17,7 +17,7 @@ I got this recipe from a soup book called Hearty soups. Great little book that I
 {% include image.html
             img="/img/NOV2016/red_lentil_soup_2.jpg"
             title="Red lentil soup"
-            caption="Meat is always optional" %}
+            caption="No chorizo? No problem" %}
 
 When I was back home it was really really easy to get my hands on chorizo and very good chorizo too, but here in Trinidad that is not always the case.  I find it as sandwich meat at the grocery store sometimes but not often enough to be able to just depend on having it on hand every time I make this soup.  I'm sure I can find it at one of the specialty stores here but I will also be paying specialty prices for it too. So instead what I usually do is fry up some bacon and spice it up with a chorizo blend of spices after it's been frying for a while (chorizo spice being: some chilli powder, cumin and clove, you can also add coriander and oregano and thyme too for a more complex blend) and tada- you have chorizo'ish bacon bits!! Solves that problem.  The real thing is obviously better but the soup itself works well with plain old bacon if you can't get your hands on chorizo or maybe if you want a more frugal option.  But I found out recently that [@delmanofoods](https://www.instagram.com/delmanofood) makes an awesome chorizo sausage here locally so next time I make this recipe I will be frying those up instead.
 <br><br>
