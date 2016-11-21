@@ -27,7 +27,7 @@ excerpt:
 ## Directions:
 1. Heat oil in pot medium/high
 1. Add in the mirepoix or the "holy trinity" of veg, onion, carrot and celery and sauté until onions are translucent and softened
-1. Add the pumpkin and stir
+1. Add the sweet potato and stir
 1. Add in the seasoning  garlic, thyme, chive and cumin as well as the paste or tomatoes and stir well
 1. Add lentils and stir well and then add the water or broth.
 1. Bring the soup to boil and then turn down heat to low-medium, cover and let simmer for 45 min to an hour. Add more water if it's too thick and still needs to cook down
