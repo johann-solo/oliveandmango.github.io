@@ -97,6 +97,6 @@ Don't have enough apples? No problem. I have added frozen peaches and nectarines
 <br>
 
 {% include image.html
-            img="/img/NOV2016/apple_crisp_2.jpg"
+            img="/img/apple_news.jpg"
             title=""
             caption="" %}
