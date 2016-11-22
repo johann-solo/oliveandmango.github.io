@@ -96,7 +96,4 @@ Don't have enough apples? No problem. I have added frozen peaches and nectarines
 * Heat oven to 425°F with rack in middle. Pour the contents of 1 (14-ounce) can sweetened condensed milk into a 9-inch deep-dish pie plate and cover tightly with foil. Set plate in a roasting pan and add enough hot water to pan to reach halfway up pie plate. Bake milk in middle of oven 45 minutes. Check water level and add additional, if necessary, then continue to bake 45 minutes more, or until milk is thick and brown. Remove pie plate from water bath and cool, uncovered. Makes about 1 1/4 cups.
 <br>
 
-{% include image.html
-            img="/img/apple_news.jpg"
-            title=""
-            caption="" %}
+<a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a>
