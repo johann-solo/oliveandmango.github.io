@@ -32,7 +32,7 @@ I don't know what's better than a creamy rich and perfect béchamel sauce.  It d
             title="calloped sweet potatoes"
             caption="Did I mention that these are creamy?" %}
 
-The one thing that could make this dish easier to make is a mandoline which I don't presently own as yet.  A good sharp knife does the trick to though, just takes a little more time and patience.  It's worth it though.  These are so creamy and good. (How many times have I said creamy?)  I love the sweetness of the potatoes and the sage and thyme in the sauce really complement it well.  If it's too much sweetness for you though, feel free to go half and half with regular yellow or white potatoes.   I mean the potatoes are really just there as an excuse to eat more creamy goodness and béchamel right?!?
+The one thing that could make this dish easier to make is a mandoline which I don't presently own as yet.  A good sharp knife does the trick too though, just takes a little more time and patience.  It's worth it though.  These are so creamy and good. (How many times have I said creamy?)  I love the sweetness of the potatoes and the sage and thyme in the sauce really complement it well.  If it's too much sweetness for you though, feel free to go half and half with regular yellow or white potatoes.   I mean the potatoes are really just there as an excuse to eat more creamy goodness and béchamel right?!?
 Whatever you use you will enjoy these CREAMY scalloped sweet potatoes.  I assure you!!
 <br><br>
 
