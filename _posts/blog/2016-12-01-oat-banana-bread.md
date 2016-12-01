@@ -18,7 +18,7 @@ I have had allergy tests, sensitivity tests galore and I have heard it all.  But
 <br><br>
 
 {% include image.html
-            img="/img/DEC2016/oat_banana_bread_1.jpg"
+            img="/img/DEC2016/oat_banana_bread_4.jpg"
             title="Vegan oat banana bread"
             caption="All that goodness hidden in loaf of deliciousness" %}
 
@@ -86,3 +86,9 @@ Enjoy! I'm recipe testing another vegan bread this weekend and will keep you guy
 
 <p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
 <br>
+<br>
+
+{% include image.html
+            img="/img/DEC2016/oat_banana_bread_3.jpg"
+            title="Vegan oat banana bread"
+            caption="" %}
