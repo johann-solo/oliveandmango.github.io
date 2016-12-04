@@ -37,17 +37,17 @@ Then you have your crunch factor.  Those delicious caramelised spiced pecans(ric
 
 ### Ingredients
 
-2-3 cups of arugula washed and spun dry
-2 large beets washed peeled and chopped into bite sized pieces
-1/2 cup of goat cheese crumbled
-1/4 -1/2 cup balsamic vinegar plus an extra tbsp
-1 tbsp EVOO
-3/4 cup pecans
-1 tbsp butter
-1 tbsp maple syrup
-1 tbsp brown sugar
-1/4 tsp of cayenne pepper (optional)
-1/4 tsp of Himalayan salt or sea salt
+* 2-3 cups of arugula washed and spun dry
+* 2 large beets washed peeled and chopped into bite sized pieces
+* 1/2 cup of goat cheese crumbled
+* 1/4 -1/2 cup balsamic vinegar plus an extra tbsp
+* 1 tbsp EVOO
+* 3/4 cup pecans
+* 1 tbsp butter
+* 1 tbsp maple syrup
+* 1 tbsp brown sugar
+* 1/4 tsp of cayenne pepper (optional)
+* 1/4 tsp of Himalayan salt or sea salt
 <br><br>
 
 ### Directions
