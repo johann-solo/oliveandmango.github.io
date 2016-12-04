@@ -4,7 +4,7 @@ title: Roasted balsamic beet salad with goat cheese and caramelised pecans
 date: "2016-12-04 8:30:35 -0400"
 author: Joanne
 permalink: balsamic-beet-salad
-image: DEC2016/balsamic_beet_salad_1.jpg.jpg
+image: DEC2016/balsamic_beet_salad_1.jpg
 categories: blog
 tags:
   - food
@@ -70,6 +70,6 @@ Then you have your crunch factor.  Those delicious caramelised spiced pecans(ric
 <br>
 
 {% include image.html
-            img="/img/DEC2016/balsamic_beet_salad_2.jpg"
+            img="/img/DEC2016/balsamic_beet_salad_4.jpg"
             title="Balsamic Beet Salad"
             caption="" %}
