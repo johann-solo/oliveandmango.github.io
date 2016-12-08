@@ -38,7 +38,7 @@ These little guys have helped get me through many long days.  The raw cacao and 
 There's absolutely no sugar added to them and they are sweetened by the dates and maple syrup.  The peanut butter adds great protein.  So do the oats as well as being a great source of fibre. The extra pinch of salt on top of them is just perfect. Think salted peanuts dunked in a bit chocolate! The chia adds a little crunch too not to mention more protein and antioxidants.
 <br><br>
 
-This recipe is pretty versatile. Keep the oats and date measurements consistent but add any of your favourite nut butter to it.  You can actually add nuts and chocolate chips too. I also like to add shredded coconut to mine ad well.  Instead of the cacao powder you could add ground flax. You could also add cranberries and seeds too.  See there's a lot of options. In fact if you have nut allergies you could replace the nut butter with a seed butter like sesame (tahini) or sunflower seed butter.  
+This recipe is pretty versatile. Keep the oats and date measurements consistent but add any of your favourite nut butter to it.  You can actually add nuts and chocolate chips too. I also like to add shredded coconut to mine as well.  Instead of the cacao powder you could add ground flax. You could also add cranberries and seeds too.  See there's a lot of options. In fact if you have nut allergies you could replace the nut butter with a seed butter like sesame (tahini) or sunflower seed butter.  
 
 > There's absolutely no sugar added to them and they are sweetened by the dates and maple syrup
 
@@ -85,4 +85,4 @@ I like to store mine in the refrigerator (probably because it's always 30 degree
 {% include image.html
             img="/img/DEC2016/energy_balls_4.jpg"
             title=""
-            caption="" %}
+            caption="Don't mind the turmeric stains on my board" %}
