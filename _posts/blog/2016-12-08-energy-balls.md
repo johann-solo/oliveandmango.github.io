@@ -8,7 +8,7 @@ image: DEC2016/energy_balls_1.jpg
 categories: blog
 tags:
   - food
-excerpt: "<p></p>"
+excerpt: "<p>A delicious pick me up</p>"
 ---
 
 One of the first times that I tried one of these types of energy or bliss balls I almost gagged.  The texture and the flavour was not what I expected and especially didn't expect it from the brand either or the price I paid for one of them. (I will not say the brand but it's a big one for these little guys) I was not impressed at all and thought there had to be a way to make these taste great and also be full of good stuff!!
@@ -21,9 +21,9 @@ I wanted to make them more moist and less Lärabar tasting.   That is not the br
 
 {% include image.html
             img="/img/DEC2016/energy_balls_2.jpg"
-            title=""
-            caption="" %}
-<br>            
+            title="Energy Balls"
+            caption="Chocolate and peanut butter are always a hit" %}
+
 These ones are moist enough and don't taste saw dusty from the oats at all.  They also don't have an over powering date flavour or that strong chew factor that a lot of date bars/energy bars have.  If you like chocolate and peanut butter I'm pretty sure you will love these.  
 <br>
 
@@ -32,13 +32,13 @@ These little guys have helped get me through many long days.  The raw cacao and 
 
 {% include image.html
             img="/img/DEC2016/energy_balls_3.jpg"
-            title=""
-            caption="" %}
-<br>    
+            title="Energy Balls"
+            caption="One is never enough" %}
+
 There's absolutely no sugar added to them and they are sweetened by the dates and maple syrup.  The peanut butter adds great protein.  So do the oats as well as being a great source of fibre. The extra pinch of salt on top of them is just perfect. Think salted peanuts dunked in a bit chocolate! The chia adds a little crunch too not to mention more protein and antioxidants.
+<br><br>
 
 This recipe is pretty versatile. Keep the oats and date measurements consistent but add any of your favourite nut butter to it.  You can actually add nuts and chocolate chips too. I also like to add shredded coconut to mine ad well.  Instead of the cacao powder you could add ground flax. You could also add cranberries and seeds too.  See there's a lot of options. In fact if you have nut allergies you could replace the nut butter with a seed butter like sesame (tahini) or sunflower seed butter.  
-<br>
 
 > There's absolutely no sugar added to them and they are sweetened by the dates and maple syrup
 
