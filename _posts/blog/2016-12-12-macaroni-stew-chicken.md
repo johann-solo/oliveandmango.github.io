@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Classic Caribbean Sunday Lunch
+title: Classic Caribbean Sunday Lunch Staples
 date: "2016-12-12 7:30:35 -0400"
 author: Joanne
 permalink: macaroni-stew-chicken
