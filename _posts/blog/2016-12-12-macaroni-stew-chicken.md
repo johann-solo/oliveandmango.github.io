@@ -77,7 +77,7 @@ Now for the recipes:
 
 ### Ingredients
 
-* 1 lb of chicken cleaned and seasoned with [green seasoning](http://oliveandmango.com/green-seasoning) for at least an hour but overnight is better( whole chicken cut up, or 6-8 thighs split or drumsticks)
+* 1 lb of chicken cleaned and seasoned with <span class="highlight">[green seasoning](http://oliveandmango.com/green-seasoning)</span> for at least an hour but overnight is better( whole chicken cut up, or 6-8 thighs split or drumsticks)
 * 2 tbsp brown sugar/Demerara
 * 2 tbsp cooking oil
 * 1 onion sliced finely
@@ -95,7 +95,7 @@ Now for the recipes:
 2. There is a fine line between caramelising and burning it. Burning it will result in a very bitter tasting pot of food. So if your not sure err on the side of caution until you get the hang of it and add some browning or molasses to achieve the colour you would like. Don’t over do it with the molasses either because the result will be the same bitterness. Just add a tsp at a time as needed. 
 3. Once oil and sugar are caramelised and bubbling add in your meat cautiously because the caramel likes to spatter and burns really bad ( I use the lid as my shield) stir the meat up really well cover and let simmer for approx 10 minutes stirring and checking it every few minutes. Towards the end of the ten minutes if it’s not as brown as you would like it add in your molasses and stir well. 
 4. Now turn up the heat to high for a few minutes and stir well and constantly until most of the moisture and juice from meat is mostly evaporated - takes only a few minutes 
-5. Once it’s mostly evaporated add in your veggies(pimentos, onions, tomatoes, plus your ketchup and I also like to add a tsp of fresh [green seasoning](http://oliveandmango.com/green-seasoning) for extra flavour — I usually have some frozen to take from) and sauté for a couple minutes
+5. Once it’s mostly evaporated add in your veggies(pimentos, onions, tomatoes, plus your ketchup and I also like to add a tsp of fresh <span class="highlight">[green seasoning](http://oliveandmango.com/green-seasoning)</span> for extra flavour — I usually have some frozen to take from) and sauté for a couple minutes
 6. Add your water and stir well, cover and let simmer away for 15-30 minutes or until chicken is done cooking and tender on medium heat(check if it needs more water and stir it frequently- add a little more water if needed)
 7. Once cooked remove lid and cook for another few minutes to allow the sauce to reduce a little ( optional if you like a thicker sauce) 
 <br><br>
