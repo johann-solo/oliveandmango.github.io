@@ -25,10 +25,10 @@ They have a slight crunch from the added roasted almonds. Just a great great coo
             caption="Perfect for your coffee time fix" %}
 
 I fondly remember always having a butter cookie tin (which my mom reused for years) full of these around at all times.  These and **koulourakia** (another Greek biscuit) were staples in the house. They keep well and are great to have when you have unexpected guests over for coffee as Greeks always do and plus my mom was for the most part and is a housewife so coffee break with aunts and friends that would pop over in the day were made perfect with the addition of these cookies.  That's totally my mom's thing. She always has something homemade to offer anyone at anytime.  Don't you just dream of being a stay at home Mom/wife?!? I do!! #goals. I would never run out of things to do!! Anyways back to reality!!
-<br>
+<br><br>
 
 {% include image.html
-            img="/img/DEC2016/almond_short_bread_cookies_4.jpg"
+            img="/img/DEC2016/almond_short_bread_cookies_3.jpg"
             title=""
             caption="You need strong willpower to eat just one" %}
 
