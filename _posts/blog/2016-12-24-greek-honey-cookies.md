@@ -44,7 +44,7 @@ This recipe makes a huge amount of biscuits just a caution as you see 8 cups of 
 Some use an all sugar syrup but I think that combining sugar and honey in the recipe is important.  You really taste a difference in the syrup.   I used local Trinidadian honey (which is basically the same price as gold but worth every penny &mdash; I can cheap out on the semolina but not this honey) and it was divine!
 <br><br>
 
-Hope you enjoy making and eating these as much as i do!! Even if you live close to a Greek bakery (totally jealous of you) it's still fun to make them on your own.
+Hope you enjoy making and eating these as much as I do!! Even if you live close to a Greek bakery (totally jealous of you) it's still fun to make them on your own.
 <br><br>
 
 
@@ -56,7 +56,7 @@ Hope you enjoy making and eating these as much as i do!! Even if you live close 
 **Syrup:**
 
 * 500 ml water
-* 800 g brown sugar/Demerara or granulated - approx 4 cups
+* 800 g brown sugar/Demerara or granulated &mdash; approx 4 cups
 * 150 g honey - approx just under a half cup
 * 3 cinnamon sticks
 * 1/2 tsp of whole cloves
@@ -65,7 +65,7 @@ Hope you enjoy making and eating these as much as i do!! Even if you live close 
 **Flours in one bowl**
 
 * 1 kilo all-purpose flour- approx 8 cups
-* 200 g semolina if you have or spelt flour - approx one cup of just over a cup
+* 200 g semolina if you have or spelt flour &mdash; approx one cup or just over a cup
 
 **Wet ingredients and spices and flavourings in another bowl**
 
@@ -100,7 +100,7 @@ Hope you enjoy making and eating these as much as i do!! Even if you live close 
 
 1. Bake for about 25 minutes or until dark golden brown
 
-1. Remove from oven and immediately dunk the cookies into the syrup - a few at a time for 10 seconds and remove with a slotted spoon and place on wire rack to cool
+1. Remove from oven and immediately dunk the cookies into the syrup &mdash; a few at a time for 10 seconds and remove with a slotted spoon and place on wire rack to cool
 
 1. Drizzle with more honey and chopped walnuts
 
