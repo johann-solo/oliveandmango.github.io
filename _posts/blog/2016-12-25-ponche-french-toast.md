@@ -11,6 +11,7 @@ tags:
 excerpt: "<p>A boozy twist to a brunch staple</p>"
 ---
 
+---
 French toast is one of my husbands favourite breakfast foods. He has a long history of making and eating it from the age 11 in fact. I on the other hand am not as big a fan. It's not that I don't like it, because I do but it's just not my favourite thing to eat for breakfast. I find it time consuming to make and and a bit to decadent for an everyday kind of breakfast. I'm also not a fan of making it because i think it's messy and too much trouble. If I had a choice I would rather make pancakes from scratch than make
 French toast. That is why I love making overnight French toast.  
 <br>
