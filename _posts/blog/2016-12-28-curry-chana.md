@@ -16,7 +16,7 @@ Have you ever looked up a Chinese dish recipe, curry recipe or Thai dish recipe 
 
 > The ingredients are simple and basic pantry ingredients that most people who cook usually have on hand
 
-The combination of flavours and of the fresh herbs make for a beautiful curry.  This isn't a creamy coconut curry but a tomato based one. This recipe takes less than a half an hour to make and it's great for a midweek meal especially when you're stuck on what to make. I always love to cook something curried every week. It's makes meal planning easy and you can basically curry anything from meats to vegetables and it's always good to have more than one curry recipe in your arsenal for variety.  This recipe was adapted from Nagi from recipe tin eats. I'm a huge fan of her and her recipes and I hope you love my version of her recipe.
+The combination of flavours and of the fresh herbs make for a beautiful curry.  This isn't a creamy coconut curry but a tomato based one. This recipe takes less than a half an hour to make and it's great for a midweek meal especially when you're stuck on what to make. I always love to cook something curried every week. It's makes meal planning easy and you can basically curry anything from meats to vegetables and it's always good to have more than one curry recipe in your arsenal for variety.  This recipe was adapted from Nagi from Recipe Tin Eats. I'm a huge fan of her and her recipes and I hope you love my version of her recipe.
 <br>
 <br>
 
