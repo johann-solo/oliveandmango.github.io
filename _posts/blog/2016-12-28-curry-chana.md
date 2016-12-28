@@ -29,14 +29,14 @@ Good for two servings plus lunch leftovers (double for more)
 ### Ingredients
 
 * 3 tbsp olive oil or coconut oil
-* 2 medium sweet potatoes or one very large one relied and chopped
-* 4 tomatoes chopped or 1 can of dice tomatoes
+* 2 medium sweet potatoes or one very large one pealed and chopped
+* 4 tomatoes chopped or 1 can of diced tomatoes
 * 1 tbsp of tomato paste
 * 1 cup of broth or water plus more if needed
 * 1 large onion chopped finely
 * 2 cloves garlic minced
-* 1 can of of chickpeas raised and drained
-* 1/4 cup cilantro or Chadon beni chopped
+* 1 can of of chickpeas rinsed and drained
+* 1/4 cup cilantro or chadon beni chopped
 * 1 1/2 tsp fresh or dried thyme
 * 2 stems of chive or green onion sliced
 * 1 1/2 tbsp of curry powder
