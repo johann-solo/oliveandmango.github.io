@@ -24,7 +24,7 @@ I never have any dietary goals because I'm not about that at all.  I always try 
             caption="You can use it to make a simple side for any dish" %}
 
 Well let's get this years post started out with a great veggie and legume bowl.  This is one of my top favourites for veggie bowls and thats
-because it's like a deconstructed veggie Roti sans le skin though. So it's usually what I put into my vegetable Roti.  Fry bodi, curry chana and potato and pumpkin. I also get bhaji or spinach as well but this time I did a bhaji pumpkin coconut rice so it's in there.  The great thing about these recipes is that you could either eat them just like I have them over rice or if you haven’t learned or don't have the time to make roti skins you can just pick some up from a local Roti shop or even at the grocery store and eat them with those. At least you have the fillings down pat.
+because it's like a deconstructed veggie Roti sans le skin though. So it's usually what I put into my vegetable Roti. Fry bodi, curry chana and potato and pumpkin. I also get bhaji or spinach as well but this time I did a bhaji pumpkin coconut rice so it's in there.  The great thing about these recipes is that you could either eat them just like I have them over rice or if you haven’t learned or don't have the time to make roti skins you can just pick some up from a local Roti shop or even at the grocery store and eat them with those. At least you have the fillings down pat.
 <br>
 <br>
 
@@ -77,7 +77,7 @@ Next week I will post my favourite Trini curry chicken recipe that you could add
 1. Heat oil in medium sauce pan
 1. Sauté the onion for a minute until translucent then add the garlic and sauté another minute until nice and fragrant
 1. Add the pumpkin pieces and salt and pepper and sugar if adding and stir well to combine
-1. Add the water or broth starting with a half cup and bring to a boil and then lower heat to a simmer and cover.  Check and stir every few minutes and add a tbsp of water or broth at a time as needed so that the pot doesn't go dry.  The puniness will slowly  melt down.  Let it simmer for 15 minutes to half an hour or until soft enough to mash (depending on the pumpkin)
+1. Add the water or broth starting with a half cup and bring to a boil and then lower heat to a simmer and cover.  Check and stir every few minutes and add a tbsp of water or broth at a time as needed so that the pot doesn't go dry.  The pumpkin will slowly  melt down.  Let it simmer for 15 minutes to half an hour or until soft enough to mash (depending on the pumpkin)
 1. Once it is soft enough remove the lid and turn the heat back up to medium/high and reduce the liquid and stir often.  You want very little liquid left.
 1. Once reduced either mash the pumpkin with a wooden spoon or fork against the side of the pan or use and immersion blender.  I have never had to use the blender because our local pumpkin is very easy to mash.  You may have to use it for other varieties of pumpkin depending on the firmness.
 <br><br>
@@ -131,7 +131,7 @@ Next week I will post my favourite Trini curry chicken recipe that you could add
 3. Heat oven proof medium pot on med/high and add your oil and butter.
 4. Add in your garlic and let it sauté for a minute or so to make the oil very fragrant and then add in the spinach and onions and pumpkin and pimento peppers if using. Stir and let everything sauté for another 2-5 min (turn down the heat to medium if needed). The spinach will have wilted, onions should be soft and translucent and pumpkin will be in the beginning stages of getting soft.
 5. Season with salt and pepper and add in the rice. Let the rice sauté for a min or so to absorb some of the flavours and then add your coconut milk and water or broth if using
-6. Let the pot come to a simmer, give it a good stir. Taste and see if it’s good for salt and pepper, cover with oven proof lid and put in the oven for approx half an hour
+6. Let the pot come to a simmer, give it a good stir. Taste and see if it’s good for salt and pepper, cover with oven proof lid and put in the oven for approx. half an hour
 7. Once done remove from the oven, remove lid, fluff rice with a fork and serve.
 
 <br>
