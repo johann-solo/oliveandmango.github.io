@@ -15,7 +15,7 @@ I think the first time I had buljol it was either with Crix crackers as a little
 <br>
 <br>
 
-Buljol if you're not West Indian sounds very weird as a word. I really don't know what I thought it was when I heard that name.  I definitely didn't think it was salted fish.  But apparently it comes from the French patois term 'Brûlé Gueule', which means burn mouth, likely due to the effect of it being prepared with a lot of hot peppers (Scott bonnet). This recipe  adds some optionally.  I like a little pepper in mine but I like to add it after because my husband doesn't eat much pepper so please adjust it to taste.
+Buljol if you're not West Indian sounds very weird as a word. I really don't know what I thought it was when I heard that name.  I definitely didn't think it was salted fish.  But apparently it comes from the French patois term 'Brûlé Gueule', which means burn mouth, likely due to the effect of it being prepared with a lot of hot peppers (scotch bonnet). This recipe  adds some optionally.  I like a little pepper in mine but I like to add it after because my husband doesn't eat much pepper so please adjust it to taste.
 <br><br>
 
 {% include image.html
