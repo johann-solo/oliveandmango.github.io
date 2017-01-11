@@ -3,7 +3,7 @@ layout: post
 title: Coconut bake and 'Buljol'
 date: "2017-01-10 7:30:35 -0400"
 author: Joanne
-permalink: garlic-maple-carrots
+permalink: bake-buljol
 image: JAN2017/bake_buljol_1.jpg
 categories: blog
 tags:
