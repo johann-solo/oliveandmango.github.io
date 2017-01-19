@@ -8,7 +8,7 @@ image: JAN2017/spaghetti_meatballs_1.jpg
 categories: blog
 tags:
   - food
-excerpt: "<p>Fresh meatballs and marinara sauce made the Italian way</p>"
+excerpt: "<p>The tastiest meatballs and marinara sauce made the Italian way</p>"
 ---
 
 Like many people I am a huge fan of pasta (even gluten free). I can eat it with anything and everything or even plain or for a quick bite-buttered, tossed with fresh tomatoes, feta and drizzled with olive oil and with a lot of cracked black pepper on it.  Mmmmm! Yum! But add meat and a good sauce and it's a whole new level of love!
@@ -54,7 +54,7 @@ The meatballs are super flavorful and so nice fork tender. I love them.  My frie
 
 * 2 stalks celery chopped finely
 
-* red sweet bell pepper
+* 1/2-1 red sweet bell pepper chopped
 
 * 1 bay leaf
 
