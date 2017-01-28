@@ -8,6 +8,7 @@ excerpt:
 ---
 
 
+<br>
 
 ## Ingredients
 * 2 cups all-purpose flour
@@ -30,4 +31,4 @@ excerpt:
 
 1. Serve with a dollop of whipped cream and maple syrup.
 
-[Original recipe courtesy of The Cookworks](http://www.foodnetwork.com/recipes/blueberry-buttermilk-pancakes-recipe2.html?oc=linkback)
+Adapted from The Cookworks
