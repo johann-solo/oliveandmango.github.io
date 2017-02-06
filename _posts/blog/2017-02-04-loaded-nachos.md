@@ -22,7 +22,7 @@ I'm super conscious of healthy eating but I do love my junk food too! I totally 
 <br>
 <br>
 
-Back to these loaded nachos. They taste amazing and are definitely a little healthier than nachos or fries supreme at Taco Bell cause your using real ingredients and no processed cheese. So it's a junk food but of the good kind.  If you know what I mean.  Hehehe! At least that's what I tell myself.  
+Back to these loaded nachos. They taste amazing and are definitely a little healthier than nachos or fries supreme at Taco Bell cause you're using real ingredients and no processed cheese. So it's a junk food but of the good kind.  If you know what I mean.  Hehehe! At least that's what I tell myself.  
 <br>
 
 {% include image.html
