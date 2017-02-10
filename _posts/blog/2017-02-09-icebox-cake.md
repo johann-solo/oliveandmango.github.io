@@ -69,7 +69,7 @@ All in all this recipe is a total win!! I have had several requests for this and
 
 1. Beat in the yolk and mix well until fully incorporated
 
-1. In a small bowl mix and dissolve 1 tsp of coffee (if using instant) with 1 tsp Frangelico and mix into the large bowl also adding the vanilla and cocoa powder- otherwise jus add the brewed coffee and liqueur as is
+1. In a small bowl mix and dissolve 1 tsp of coffee (if using instant) with 1 tsp Frangelico and mix into the large bowl also adding the vanilla and cocoa powder- otherwise just add the brewed coffee and liqueur as is
 
 1. In a separate bowl beat the egg white until frothy and also doubled in size
 
