@@ -75,7 +75,7 @@ All in all this recipe is a total win!! I have had several requests for this and
 
 1. Gently fold in the egg white with the chocolate mixture until fully combined and set a side for a few minute
 
-1. In a separate bowl mix the milk remaining coffee and Frangelico and use as your dipping bowl to and soak the lady fingers in prior to placing them in a serving dish
+1. In a separate bowl mix the milk remaining coffee and Frangelico and use as your dipping bowl to soak the lady fingers in prior to placing them in a serving dish
 
 1. To layer start with lady fingers at the bottom of bowl/dish then pour out and spread 1/3 of the chocolate mousse.  Repeat two more times with a total of three layer and ending with the chocolate mouse on the top
 
