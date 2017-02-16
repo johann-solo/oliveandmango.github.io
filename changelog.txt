@@ -1,5 +1,5 @@
 JUNE 4 2016
-Version 1.0 (Starch)
+Version 1.0 .0 (Starch)
 
 NOVEMBER 3 2016
 Version 1.1 (Kalamata)
@@ -7,3 +7,7 @@ Version 1.1 (Kalamata)
 - Changed to collections for recipes
 - Increased base font size
 - reformat of blog page
+
+FEBRUARY 16 2017
+Version 1.0.1 (Starch)
+- Fixed Instagram feed
