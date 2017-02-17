@@ -7,7 +7,7 @@ permalink: maracas-bay
 image: FEB2017/maracas_1.jpg
 categories: blog
 tags:
-  - food
+  - travel
 excerpt: "<p>Get the most out of Trinidad's most popular beach</p>"
 ---
 
