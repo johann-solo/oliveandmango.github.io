@@ -43,7 +43,7 @@ It's hearty, filling and really simple to make! The flavours are simple and deli
 
 * 1 lb. of ground beef
 * 1 egg
-* 1/4 cup of a mixture of fresh mint, parsley and dill
+* 1/4 cup of a mixture of fresh mint, parsley and dill (chopped finely)
 * 1 tsp dried oregano
 * 1 onion diced finely
 * 2 garlic cloves minced
@@ -96,7 +96,7 @@ Slowly add in the broth as well and this will help temper the egg so that it doe
 1. While stirring the soup in the pot very slowly start to pour in the egg lemon mixture and then you will see the magic happen! Hahah! The soup will go from a clear broth to a creamy cloudy broth. Some people add a bit of flour to the egg lemon sauce to thicken the soup
 but I prefer it to be a little on the 'brothy' side and I find it gets thick enough with the addition of the rice as well so it's up to you.  
 
-*  the egg is not, raw it cooks with the acidity of the lemon and heat of the soup in case you were wondering and is stabilised by starch of the rice
+*  the egg is not, raw it cooks with the acidity of the lemon and heat of the soup in case you were wondering and is stabilised by starch in the rice
 
 
 <p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
