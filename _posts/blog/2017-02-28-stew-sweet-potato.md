@@ -28,7 +28,7 @@ I do love the taste of braised and stewed meats and especially the sauce and gra
 <br>
 <br>
 
-When you say stewed meat in Trinidad it means creole styled meat prep. Seasoning meat in green seasoning and then browning it in caramelised or almost burnt sugar.  This gives the meat its unmistakable Trini-creole flavour that is so wonderful.  It's subtlety sweet and aromatic because of the seasoning and the browning process.  
+When you say stewed meat in Trinidad it means creole styled meat prep. Seasoning meat in <span class="highlight">[green seasoning](http://oliveandmango.com/green-seasoning)</span> and then browning it in caramelised or almost burnt sugar.  This gives the meat its unmistakable Trini-creole flavour that is so wonderful.  It's subtlety sweet and aromatic because of the seasoning and the browning process.  
 <br>
 
 I also love mashed potatoes in general and this is my go to recipe that I use for all my mashed potato needs including the mash on top of
@@ -91,7 +91,7 @@ Together these mashed potatoes and stewed beef make for a perfect meal!! Beware 
 
 ### Ingredients
 
-* 1-2 lb of stewing beef cleaned, fat and grizzle removed, and seasoned with green seasoning and a couple of tbsps of Worcestershire sauce for at least an hour but overnight is better
+* 1-2 lb of stewing beef cleaned, fat and grizzle removed, and seasoned with <span class="highlight">[green seasoning](http://oliveandmango.com/green-seasoning)</span> and a couple of tbsps of Worcestershire sauce for at least an hour but overnight is better
 * 2 tbsp brown sugar/Demerara
 * 2 tbsp cooking oil
 * 1 large carrot peeled and sliced
@@ -110,7 +110,7 @@ Together these mashed potatoes and stewed beef make for a perfect meal!! Beware 
 2. There is a fine line between caramelising and burning it. Burning it will result in a very bitter tasting pot of food. So if your not sure err on the side of caution until you get the hang of it and add some browning or molasses to achieve the colour you would like. Don’t over do it with the molasses either because the result will be the same bitterness. Just add a tsp at a time as needed. 
 3. Once oil and sugar are caramelised and bubbling add in your meat cautiously because the caramel likes to spatter and burns really bad ( I use the lid as my shield) stir the meat up really well, cover and let simmer for approx. 10 minutes stirring and checking it every few minutes. Towards the end of the ten minutes if it’s not as brown as you would like it add in your molasses and stir well. 
 4. Now turn up the heat to high for a few minutes and stir well and constantly until most of the moisture and juice from meat is mostly evaporated - takes only a few minutes 
-5. Once it’s mostly evaporated add in your veggies(pimentos, onions, tomatoes, carrot, plus your ketchup and I also like to add a tsp of fresh green seasoning for extra flavour — I usually have some frozen to take from) and sauté for a couple minutes
+5. Once it’s mostly evaporated add in your veggies(pimentos, onions, tomatoes, carrot, plus your ketchup and I also like to add a tsp of fresh <span class="highlight">[green seasoning](http://oliveandmango.com/green-seasoning)</span> for extra flavour — I usually have some frozen to take from) and sauté for a couple minutes
 6. Add your water and stir well, cover and let simmer away for 11/2-2 hours or until beef is done cooking and tender on medium heat(check if it needs more water and stir it frequently- add a little more water if needed as well as salt and pepper)
 7.  Once cooked remove lid and check for seasoning and add salt and pepper as needed and cook for another few minutes to allow the sauce to reduce a little (optional if you like a thicker sauce)
 8. Note: some prefer to brown meat separately in small batches and then add it to the caramelised sugar but that is completely your choice - end result is beautifully delicious either way  
