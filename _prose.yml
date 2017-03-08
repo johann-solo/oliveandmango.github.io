@@ -1,33 +1,20 @@
 # Prose.io Settings
 
-title: Olive & Mango
-url: http://oliveandmango.com
-email: j_headley@icloud.com
-description: A lifestyle blog on food, travel and overall well-being. Tips for those living in Trinidad and Tobago as well as Toronto, Canada.
-twitter_username: oliveandmango
-instagram_username: theoliveandmango
-facebook_username: oliveandmango
-pintrest_username: olive_mango
+prose:
+  metadata:
 
+    _posts/blog:
+      - name: "category"
+        field:
+          element: "hidden"
 
-paginate: 5
-
-# Collections
-collections:
-    recipes:
-        output: true
-
-
-# Default settings
-defaults:
-    -
-        values:
-            comments: true
-
-# Build settings
-markdown: kramdown
-permalink: /:title
-
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
+layout: post
+title:
+date: "2017-03-07 7:30:35 -0400"
+author: Joanne
+permalink:
+image: MAR2017/coconut_curry_fish_1.jpg
+categories: blog
+tags:
+  - food
+excerpt: "<p></p>"
