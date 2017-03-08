@@ -1,0 +1,33 @@
+# Prose.io Settings
+
+title: Olive & Mango
+url: http://oliveandmango.com
+email: j_headley@icloud.com
+description: A lifestyle blog on food, travel and overall well-being. Tips for those living in Trinidad and Tobago as well as Toronto, Canada.
+twitter_username: oliveandmango
+instagram_username: theoliveandmango
+facebook_username: oliveandmango
+pintrest_username: olive_mango
+
+
+paginate: 5
+
+# Collections
+collections:
+    recipes:
+        output: true
+
+
+# Default settings
+defaults:
+    -
+        values:
+            comments: true
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
