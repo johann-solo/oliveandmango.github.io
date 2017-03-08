@@ -1,20 +1,38 @@
 # Prose.io Settings
 
 prose:
+  rooturl: ''
+  siteurl: 'http://www.hywel.me'
+  media: 'assets'
   metadata:
-
-    _posts/blog:
-      - name: "category"
+    _posts:
+      - name: "layout"
         field:
-          element: "hidden"
-
-layout: post
-title:
-date: "2017-03-07 7:30:35 -0400"
-author: Joanne
-permalink:
-image: MAR2017/coconut_curry_fish_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p></p>"
+          label: "layout"
+          element: "text"
+          value: "post"
+      - name: "date"
+        field:
+          label: "date"
+          element: "text"
+          value: "CURRENT_DATETIME"
+      - name: "author"
+        field:
+          label: "author"
+          element: "text"
+          value: "Joanne"
+      - name: "categories"
+        field:
+          label: "categories"
+          element: "text"
+          placeholder: "Enter categories"
+      - name: "excerpt"
+        field:
+          label: "excerpt"
+          element: "text"
+          placeholder: "Enter excerpt"
+      - name: "meta"
+        field:
+          label: "meta"
+          element: "text"
+          placeholder: "Enter metadata"
