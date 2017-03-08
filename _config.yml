@@ -91,3 +91,49 @@ prose:
           label: "excerpt"
           element: "text"
           placeholder: "Enter excerpt"
+     _drafts:
+      - name: "layout"
+        field:
+          label: "layout"
+          element: "text"
+          value: "post"
+      - name: "title"
+        field:
+          label: "title"
+          element: "text"
+          placeholder: "Enter title"
+      - name: "date"
+        field:
+          label: "date"
+          element: "text"
+          value: "CURRENT_DATETIME"
+      - name: "author"
+        field:
+          label: "author"
+          element: "text"
+          value: "Joanne"
+      - name: "permalink"
+        field:
+          label: "permalink"
+          element: "text"
+          placeholder: "Enter permalink"
+      - name: "image"
+        field:
+          label: "image"
+          element: "text"
+          placeholder: "Enter image path"
+      - name: "categories"
+        field:
+          label: "categories"
+          element: "text"
+          placeholder: "Enter categories"
+      - name: "tags"
+        field:
+          label: "tags"
+          element: "text"
+          placeholder: "Enter tags"
+      - name: "excerpt"
+        field:
+          label: "excerpt"
+          element: "text"
+          placeholder: "Enter excerpt"
