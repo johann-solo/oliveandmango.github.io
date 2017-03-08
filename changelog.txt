@@ -15,3 +15,4 @@ Version 1.1.1 (Starch)
 MARCH 8 2017
 Version 1.2.0 (starch)
 - Added drafts functionality
+- Prose.io functionality
