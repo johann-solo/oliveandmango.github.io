@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Test post
+title: Post Template
 date: '2017-03-08 7:30:35 -0400'
 author: Joanne
-permalink: test-post
+permalink: post-template
 image: MAR2017/image_1.jpg
 categories: blog
 tags:
@@ -14,8 +14,8 @@ published: true
 
 place text in here
 
-<br>
 
+<br>
 <p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
 
 <br>
