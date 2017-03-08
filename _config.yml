@@ -45,7 +45,7 @@ prose:
   rooturl: ''
   siteurl: 'http://oliveandmango.com'
   metadata:
-     _posts/blog:
+     _drafts:
       - name: "layout"
         field:
           label: "layout"
