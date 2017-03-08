@@ -1,16 +1,18 @@
 ---
 layout: post
 title: Test post
-date: "2017-03-08 7:30:35 -0400"
+date: '2017-03-08 7:30:35 -0400'
 author: Joanne
 permalink: test-post
 image: MAR2017/image_1.jpg
 categories: blog
 tags:
   - food
-excerpt: "<pCAPTION</p>"
+excerpt: <pCAPTION</p>
+published: true
 ---
 
+lorem ipsum
 
 <br>
 
