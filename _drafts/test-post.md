@@ -12,7 +12,7 @@ excerpt: <pCAPTION</p>
 published: true
 ---
 
-lorem ipsum
+place text in here
 
 <br>
 
