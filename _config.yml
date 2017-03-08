@@ -91,6 +91,7 @@ prose:
           label: "excerpt"
           element: "text"
           placeholder: "Enter excerpt"
+
      _drafts:
       - name: "layout"
         field:
