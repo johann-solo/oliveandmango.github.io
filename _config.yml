@@ -66,6 +66,16 @@ prose:
           label: "author"
           element: "text"
           value: "Joanne"
+      - name: "permalink"
+        field:
+          label: "permalink"
+          element: "text"
+          placeholder: "Enter permalink"
+      - name: "image"
+        field:
+          label: "image"
+          element: "text"
+          placeholder: "Enter image path"
       - name: "categories"
         field:
           label: "categories"
