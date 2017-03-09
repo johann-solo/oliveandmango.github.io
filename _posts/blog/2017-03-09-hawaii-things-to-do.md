@@ -4,7 +4,7 @@ title: Our Hawai'i Adventures
 date: "2017-03-09 7:30:35 -0400"
 author: Joanne
 permalink: hawaii-things-to-do
-image: MAR2017/hawaii_1.JPG
+image: MAR2017/hawaii_1.jpg
 categories: blog
 tags:
   - travel
