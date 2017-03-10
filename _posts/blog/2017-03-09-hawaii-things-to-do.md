@@ -37,7 +37,7 @@ Short, nice trail. Beautiful wildflowers. Not too difficult but can be slippery 
 <br>
 <br>
 {% include image.html
-            img="/img/MAR2017/hawaii_3.jpg"
+            img="/img/MAR2017/hawaii_3.png"
             title=""
             caption="These accessible trails aren't too difficult for the inexperienced" %}
 
@@ -46,7 +46,7 @@ Koko crater trail is not too far from Hanuama bay and the view from the top is j
 <br>
 <br>
 {% include image.html
-            img="/img/MAR2017/hawaii_5.jpg"
+            img="/img/MAR2017/hawaii_5.png"
             title=""
             caption="Don't be fooled, it's higher than it looks" %}
 <br>
@@ -56,7 +56,7 @@ Nu'uanu Pali lookout is a gorgeous spot to enjoy scenic views and take some amaz
 <br>
 <br>
 {% include image.html
-            img="/img/MAR2017/hawaii_9.jpg"
+            img="/img/MAR2017/hawaii_9.png"
             title=""
             caption="You get a spectacular view of the famous Diamond Head" %}
 
@@ -78,7 +78,7 @@ Once a volcanic crater turned - beautiful curved cove and home to 400 plus speci
 <br>
 <br>
 {% include image.html
-            img="/img/MAR2017/hawaii_8.jpg"
+            img="/img/MAR2017/hawaii_8.png"
             title=""
             caption="Some of the most accessible snorkeling you will find" %}
 <br>
@@ -158,6 +158,6 @@ Yes Hawai'i is definitely a great place to chill and enjoy the beach and some re
 
 <br>
 {% include image.html
-            img="/img/MAR2017/hawaii_11.jpg"
+            img="/img/MAR2017/hawaii_11.png"
             title=""
             caption="" %}
