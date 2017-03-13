@@ -37,7 +37,7 @@ Spring is in the air for many and asparagus totally reminds me of spring.  These
 
 1. Place the asparagus in foil onto the grill and close and let it grill for approx 8-10 minutes depending on how thick the asparagus is.
 
-1. Carefully take the package of asparagus off the grill or to a cutting board or plate (I slide mine on to a cutting board) near by and open the foil
+1. Carefully take the package of asparagus off the grill on to a cutting board or plate (I slide mine on to a cutting board) near by and open the foil
 
 1. Place the asparagus on the grill against the line of the grates (otherwise they will fall between) and grill for a couple minutes until golden brown and slightly charred at the edges
 
