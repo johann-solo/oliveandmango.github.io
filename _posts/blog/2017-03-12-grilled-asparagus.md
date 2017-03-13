@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Brown butter lemon garlic grilled asparagus
-date: "2017-03-12 7:30:35 -0400"
+date: '2017-03-12 7:30:35 -0400'
 author: Joanne
 permalink: grilled-asparagus
 image: MAR2017/grilled_asparagus_1.jpg
 categories: blog
-tags:
-  - food
-excerpt: "<p>Spring is in the air with this simple asapargus side dish</p>"
+tags: food
+excerpt: <p>Spring is in the air with this simple asapargus side dish</p>
+published: true
 ---
 
-Spring is in the air for many and asparagus totally reminds me of spring.  These guys are perfect as a side on their or can even be enjoyed tossed with a lemon garlic pasta. Either way they are tender, nutty flavoured from that delicious brown butter and have a slight crisp from the grill!!
+Spring is in the air for many and asparagus totally reminds me of spring.  These guys are perfect as a side on their own or can even be enjoyed tossed with a lemon garlic pasta. Either way they are tender, nutty flavoured from that delicious brown butter and have a slight crisp from the grill!!
 <br>
 <br>
 
