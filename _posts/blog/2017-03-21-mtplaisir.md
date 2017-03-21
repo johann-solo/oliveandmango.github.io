@@ -51,7 +51,6 @@ There are many things to do around the hotel. We took many walks along the stret
 
 A few things about the hotel I wanted to share.  It's dog friendly. A few guests brought their dogs. It's very kid friendly and great for families. The long stretch of sandy beach is great for the kiddies to play in.  Since the beach is steps to the rooms it's very easy to keep a close eye on them as they play. The beach is a little on the rough side but that is no surprise since it is located on the north coast where the waters tend to be on the rougher side.  Not to say it's unswimmable but something to keep in mind.  
 <br>
-<br>
 {% include image.html
             img="/img/MAR2017/mtplaisir_8.jpg"
             title="Mt Plaisir hotel"
