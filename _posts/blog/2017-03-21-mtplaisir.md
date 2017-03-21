@@ -92,7 +92,7 @@ peaceful and relaxing time here on the north coast with pleasant people and grea
             title="Mt Plaisir hotel"
             caption="The best seats in the house" %}
 
-I'm literally wrote this post while sitting on a big ol' Adirondack chair in front of our room enjoying the beach view and sound of the waves and the neighbour children scurrying around and giggling while they played on the sand, hoping that the hours didn't pass too quickly.  We would be back soon though, so that thought comforted me. Until next time Mt Plaisir!
+I literally wrote this post while sitting on a big ol' Adirondack chair in front of our room enjoying the beach view and sound of the waves and the neighbour children scurrying around and giggling while they played on the sand, hoping that the hours didn't pass too quickly.  We would be back soon though, so that thought comforted me. Until next time Mt Plaisir!
 
 <br>
 <p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
