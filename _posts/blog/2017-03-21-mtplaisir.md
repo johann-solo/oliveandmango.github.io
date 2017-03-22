@@ -6,7 +6,7 @@ author: Joanne
 permalink: mtplaisir
 image: MAR2017/mtplaisir_1.jpg
 categories: blog
-tags: food
+tags: travel
 excerpt: <p>Enjoy the natural beauty of the island in a rustic getaway</p>
 
 ---
