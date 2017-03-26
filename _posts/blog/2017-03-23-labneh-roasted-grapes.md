@@ -6,7 +6,7 @@ author: Joanne
 permalink: labneh-roasted-grapes
 image: MAR2017/labneh_grapes_1.jpg
 categories: blog
-tags: travel
+tags: food
 excerpt: <p>Simple and addictive</p>
 
 ---
