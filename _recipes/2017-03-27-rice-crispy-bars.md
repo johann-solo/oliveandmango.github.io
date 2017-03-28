@@ -29,7 +29,7 @@ They are highly addictive and really satiate any sweet cravings!! I adapted the 
 
 ### Ingredients for chocolate glaze
 
-* 1/4 cup Cocoa powder
+* 1/4 cup Cocoa powder (I used Cocobel)
 * 1/4 cup Coconut oil
 * 1 tbsp Maple syrup
 * Pinch of salt
@@ -63,7 +63,7 @@ They are highly addictive and really satiate any sweet cravings!! I adapted the 
 1. In two separate small bowls combine all the ingredients for each glaze separately until
 smooth and pourable
 
-1. Remove the squares from the fridge and pour one of the glazes on top of if first spreading it over and then pour the second one over and spread and also use a fork to swirl the two glazes together. If you want to do just one flavour of glaze just double the recipe.
+1. Remove the squares from the fridge and pour one of the glazes on top of it first spreading it over and then pour the second one over and spread and also use a fork to swirl the two glazes together. If you want to do just one flavour of glaze just double the recipe.
 
 1. Top with chopped nuts and refrigerate until the glaze is fully set then cut the squares and enjoy!
 
