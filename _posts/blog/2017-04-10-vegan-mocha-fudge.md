@@ -24,7 +24,7 @@ All you need is a little square bite to really satisfy that sweet tooth. They ar
 {% include image.html
             img="/img/APR2017/vegan_mocha_fudge_3.jpg"
             title="Vegan mocha fudge"
-            caption="With these wholsome ingredients you can eat (relatively guilt-free)" %}
+            caption="With these wholesome ingredients you can eat (relatively guilt-free)" %}
 
 ### Ingredients
 
