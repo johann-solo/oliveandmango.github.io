@@ -45,11 +45,12 @@ All you need is a little square bite to really satisfy that sweet tooth. They ar
 * 3 pitted dates
 
 * A pinch of sea salt
+
+* Topped with cacao nibs, shredded coconut and very coarse sea salt
 <br>
 
 ### Directions
 
-1. Topped with cacao nibs, shredded coconut and very coarse sea salt
 
 1. Line a loaf pan or small square baking pan with parchment paper
 
