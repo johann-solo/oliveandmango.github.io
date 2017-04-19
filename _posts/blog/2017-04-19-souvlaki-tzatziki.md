@@ -22,7 +22,7 @@ Unless you don't eat meat (please forgive me my vegan and vegetarian friends)  n
 So what is souvlaki? Souvlaki or plural souvlakia comes from the word Souvla meaning skewer. Appropriately since souvlaki or also commonly known as kalamaki, is meat or veggies grilled on skewers.  
 <br>
 
-Most common meat used is pork, but chicken, beef and lamb also make the cut. Regardless of the meat, although for souvlaki I'm totally partial to pork, it's the marinade that really makes these little guys irresistible! It's full of garlic and lots of lemon and oregano! Totally essential, at least I think, is for you to marinade the meat overnight. I just find that gives the meat time to soak in all that flavour and when it comes to the pork it tenderises it a bit too.  The lemon and vinegar almost act like a brining liquid which helps make the pork a little more tender and juicy. Of course your not using even close to the amount of salt you would in a brining liquid but it still does the job.  
+Most common meat used is pork, but chicken, beef and lamb also make the cut. Regardless of the meat, although for souvlaki I'm totally partial to pork, it's the marinade that really makes these little guys irresistible! It's full of garlic and lots of lemon and oregano! Totally essential, at least I think, is for you to marinade the meat overnight. I just find that gives the meat time to soak in all that flavour and when it comes to the pork it tenderises it a bit too.  The lemon and vinegar almost act like a brining liquid which helps make the pork a little more tender and juicy. Of course you're not using even close to the amount of salt you would in a brining liquid but it still does the job.  
 <br>
 {% include image.html
             img="/img/APR2017/souvlaki_3.jpg"
