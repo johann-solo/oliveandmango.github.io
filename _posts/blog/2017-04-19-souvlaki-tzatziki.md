@@ -11,7 +11,7 @@ excerpt: <p>Greek street food made easy at home</p>
 
 ---
 
-Unless you don't eat meat (please forgive me my vegan and vegetarian friends)  nothing beats the smell of grilled meat wafting in the air.  Actually even grilled veggies smell amazing on the grill so there you go! My absolute favourite is Greek brizoles (Greek for grilled pork chops) done on the grill or even pan fried.  Excuse me while I take a moment to wipe the drool. I'm just thinking of my uncle's and of course my moms amazing grilled brizoles!! They equal these pork souvlaki which are full of the he same flavours and I literally never tire of eating.
+Unless you don't eat meat (please forgive me my vegan and vegetarian friends)  nothing beats the smell of grilled meat wafting in the air.  Actually even grilled veggies smell amazing on the grill so there you go! My absolute favourite is Greek brizoles (Greek for grilled pork chops) done on the grill or even pan fried.  Excuse me while I take a moment to wipe the drool. I'm just thinking of my uncle's and of course my moms amazing grilled brizoles!! They equal these pork souvlakia which are full of the he same flavours and I literally never tire of eating.
 <br>
 <br>
 {% include image.html
