@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Greek style souvlaki and tzatziki
+title: Greek style souvlaki with homemade tzatziki
 date: '2017-04-19 7:30:35 -0400'
 author: Joanne
 permalink: choka
 image: APR2017/souvlaki_1.jpg
 categories: blog
 tags: food
-excerpt: <p>Greek street food made at home</p>
+excerpt: <p>Greek street food made easy at home</p>
 
 ---
 
