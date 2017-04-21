@@ -97,6 +97,7 @@ Makes approx 8-10 skewers
 * Juice of 1/2-1 lemon depending on how lemony you want it (I usually go for all)
 * 1 tbsp olive oil
 * 1 tsp red wine vinegar
+* 2 cloves garlic, grated
 * 1/2 of a cucumber washed well, cut in half and seeds scraped out, grated and then tossed with a tsp of salt and left to strain overnight as well (this is totally optional &mdash; I don't always add the cucumber but it adds a cool freshness to it)
 * 1 small bunch of dill chopped finely
 * 1 small bunch of mint chopped finely
