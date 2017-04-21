@@ -3,7 +3,7 @@ layout: post
 title: Greek style souvlaki with homemade tzatziki
 date: '2017-04-19 7:30:35 -0400'
 author: Joanne
-permalink: choka
+permalink: souvlaki-tzatziki
 image: APR2017/souvlaki_1.jpg
 categories: blog
 tags: food
