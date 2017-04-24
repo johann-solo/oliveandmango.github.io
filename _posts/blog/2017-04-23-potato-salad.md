@@ -21,6 +21,10 @@ You can never go wrong with having a few good potato salad recipes on hand. This
 I like using new potatoes because they have a natural sweetness that adds a nice flavour to this tangy potato salad, but you really can use whatever potatoes you like. I have also switched out the peas for green beans, snap peas and even asparagus and cucumbers. The bacon adds some nice saltiness and a bit of crunch or chewiness but you can leave it out if you want to go the vegetarian route.
 <br>
 <br>
+{% include image.html
+            img="/img/APR2017/potato_salad_3.jpg"
+            title="Potato Salad"
+            caption="A perfect side for a BBQ, picnic lunch or dinner" %}
 
 Feel free to play it up according to your preference. That includes the dressing also. Want it less lemony then add more vinegar or vice versa. Want it saltier feel free to smash in an anchovy for more salt and flavour.  Want it more garlicky, then feel free to grate in more garlic or leave it out completely if you don't like it.  You can also swap out the Dijon for honey mustard for a little extra sweetness. I always love the flavour that capers add to a creamy potato salad but if that is not your cup of tea then definitely leave them out.  
 <br>
@@ -29,9 +33,9 @@ So you see, this is a really good base recipe for a creamy tangy potato salad wi
 <br>
 <br>
 {% include image.html
-            img="/img/APR2017/potato_salad_3.jpg"
+            img="/img/APR2017/potato_salad_5.jpg"
             title="Potato Salad"
-            caption="A perfect side to a BBQ or picnic lunch or dinner" %}
+            caption="" %}
 
 <br>
 
