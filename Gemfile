@@ -1,2 +1,2 @@
 source "https://rubygems.org"
-gemspec :name => "jekyll"
+gem "jekyll", "3.4.3"
