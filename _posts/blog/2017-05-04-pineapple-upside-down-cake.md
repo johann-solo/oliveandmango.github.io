@@ -100,7 +100,7 @@ caption="" %}
 11. Take the pan out of the freezer and pour in and spread the batter over the pineapples evenly
 12. Place the pan on a baking sheet and bake approx 50-60 minutes or until golden brown and done when tested with a toothpick. If it starts to get too dark and it's still not quit baked through just cover pan loosely with a piece of foil
 13. Once done let it cool for 15 minutes on a wire rack and then carefully remove springform part of pan, place a plate over the cake and invert
-14. Serve with a scoop of vanilla ice cream and enjoy!\
+14. Serve with a scoop of vanilla ice cream and enjoy!
     <br>
 
 <p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
@@ -110,3 +110,4 @@ caption="" %}
 img="/img/MAY2017/pineapple_cake_6.jpg"
 title="Pineapple upside-down cake"
 caption="" %}
+
