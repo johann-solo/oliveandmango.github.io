@@ -3,3 +3,5 @@ backend:
   repo: oliveandmango/oliveandmango.github.io # Path to your Github repository
   branch: master # Branch to update
   site_domain: https://oliveandmango.netlify.com # Your Netlify site address if different from host
+
+media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
