@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: oliveandmango/oliveandmango.github.io # Path to your Github repository
+  branch: master # Branch to update
+  site_domain: https://oliveandmango.netlify.com # Your Netlify site address if different from host
