@@ -6,11 +6,12 @@ author: Joanne
 image: MAY2017/pineapple_cake_1.jpg
 categories: blog
 tags: food
-excerpt: <p></p>
+excerpt: <p>Pineapple upside down cake's older brother &mdash; a mature version of this classic</p>
 
 ---
 
-I am going to start off by saying how tasty this upsides down cake is!  This recipe as most of my baking recipes, took several tries and substitutions to get it to the way I like it.  I had a pretty standard recipe that I had made of a pineapple upside down cake stored from long ago (a screen shot recipe). I wasn't super excited about it.  The cake part had a great flavour but I wasn't happy with the texture so I researched and tested and came up with the one below.
+I am going to start off by saying how tasty this upside down cake is!  This recipe as most of my baking recipes, took several tries and substitutions to get it to the way I like it.  I had a pretty standard recipe that I had made of a pineapple upside down cake stored from long ago (a screen shot recipe). I wasn't super excited about it.  The cake part had a great flavour but I wasn't happy with the texture so I researched and tested and came up with the one below.
+<br>
 <br>
 {% include image.html
             img="/img/MAY2017/pineapple_cake_2.jpg"
@@ -19,12 +20,14 @@ I am going to start off by saying how tasty this upsides down cake is!  This rec
 
 I changed the butter to oil and that took a few tries, cause switching fats in a cake recipe matters, it's not a straight swap. I also switched to using the grated fresh coconut over the nuts because I found the coconut added more moistness to the cake. The fresh coconut doesn't add too much cooconut'ty flavour in case you were worried.  I wasn't worried even if it did, it would lend itself well to the pineapples but you are more then welcome to use the ground nuts.
 <br>
+<br>
 {% include image.html
             img="/img/MAY2017/pineapple_cake_3.jpg"
             title="Pineapple upside-down cake"
             caption="" %}
 
 Ok I started off on a positive note but now I'm going to go down a bit of a negative path.  One that's directed to something that will probably create some food enemies. That is the use of maraschino cherries in pineapple upside down cake! I don't know who came up with that idea but I'm not a fan of them in anything let alone this cake.  Yes they may add something decorative but if you only knew what goes into getting them to look the way they do, you wouldn't touch them any more either. That isn't my only gripe about them either, although it's a big one. I just don't like the taste of them. They are literally soaked moist sugar balls. If they still made them like they originally were made - just soaked in alcohol, that would be a different story. But these don't even taste like cherries and when I see them in a drink/cocktail, cake or anything other than a kiddie drink like a Shirley temple, my brain just things cheap. It's sound so snobby but it's the truth.  I totally get turned off of any kind of coloured, sugared, or preserved fruit of any kind.  I don't like the texture, flavour, preservative'y or chemically aftertaste they leave in your mouth, and other than adding an extra dose of sugar and some colour they really don't add anything to a recipe. I honestly think that if you want cherries in something use the real deal or leave them out.  Do your research on them and you will see why that  is just plain good advice.
+<br>
 <br>
 {% include image.html
             img="/img/MAY2017/pineapple_cake_4.jpg"
@@ -106,7 +109,7 @@ Hope you like this little recipe! We loved it! It's a little more grown up tasti
 1. Return the pan to heat and cook
 down the liquid until its thickened and reduced to a syrup - another 3-5 minutes
 
-1. Pour the syrup over the pineapples and put the whole pan carefully into the freezer while you prep the batter
+1. Pour the syrup over the pineapples and put the whole pan carefully into the freezer while you prep the batter (a simple little trick to getting a mess free topping)
 
 1. In a large mixing bowl mix the oil and sugar well for a couple of minutes and then add the eggs in one at a time, mixing well after each addition and then beat in the vanilla and bourbon
 
