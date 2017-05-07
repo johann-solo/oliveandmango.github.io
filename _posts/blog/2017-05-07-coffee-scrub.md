@@ -19,7 +19,7 @@ That little routine is my favourite! I don’t do it as often as I probably shou
 {% include image.html
             img="/img/MAY2017/coffee_scrub_2.jpg"
             title="Coffee scrub"
-            caption="" %}
+            caption="Just 3 Simple Ingredients" %}
 
 <br>
 The direction of your stokes is supposedly important and adds to it's effectiveness on the lymphatic system.  So basically you start at your feet and end up going bottom to top.  It's wise to avoid private areas, sensitive areas or open wounds and brushing should never be so hard that you break skin.  Your brushing strokes should always be towards your chest (this is where the lymph system drains). So when you are doing your legs strokes are upward-when doing neck and shoulders the strokes are downwards.  It's advised that when you reach the stomach you should use a counterclockwise circular stroke- I usually forget this part and continue doing upward strokes, but doing it that way also helps the body with detoxification and digestion and has something to do with the direction of the intestines.  The whole process should only take a couple of minutes.
@@ -35,7 +35,7 @@ The benefits to this coffee scrub other than aromatherapeutic cause who doesn't 
 {% include image.html
             img="/img/MAY2017/coffee_scrub_3.jpg"
             title="Coffee scrub"
-            caption="" %}
+            caption="So many Benefits" %}
 <br>
 Lots of claims there! I love it and can't confirm all of those except that I love the smell of it and I love how soft my skin feels after all of it!! Any other things will just be a bonus. But since swimsuit season is upon many of us and is for me 365 days a year,  it's definitely worth a try.  There's also very little to lose as all those ingredients are fairly inexpensive and accessible to most people. So go ahead and give you or someone else you love the treat of a spa day or a at least a spa few minutes!
 <br>
@@ -66,4 +66,5 @@ Just a quick note though. This is all the info I have picked up and researched a
             img="/img/MAY2017/coffee_scrub_4.jpg"
             title="Coffee scrub"
             caption="" %}
+
 
