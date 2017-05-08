@@ -9,7 +9,7 @@ tags: health
 excerpt: <p>Can't make it to the spa? This scrub is effective and easy to make</p>
 ---
 
-It's always a nice treat to be able to have a few minutes to yourself to do a little pampering.  I know with many of you especially you mom's, that putting moisturising body lotion on counts as pampering and so it should.  When we take a couple of minutes to do these simple things we feel a little better - for me I feel like a new person, and all it takes is some  dry brushing for a couple minutes and using my little DIY scrub in the showers. I feel like I washed away the day and can go on or at least feel a little rebooted.
+It's always a nice treat to be able to have a few minutes to yourself to do a little pampering.  I know with many of you especially you mom's, that putting moisturising body lotion on counts as pampering and so it should.  When we take a couple of minutes to do these simple things we feel a little better - for me I feel like a new person, and all it takes is some  dry brushing for a couple minutes and using my little DIY scrub in the shower. I feel like I washed away the day and can go on or at least feel a little rebooted.
 <br>
 <br>
 
@@ -64,6 +64,7 @@ Just a quick note though. This is all the info I have picked up and researched a
             img="/img/MAY2017/coffee_scrub_4.jpg"
             title="Coffee scrub"
             caption="" %}
+
 
 
 
