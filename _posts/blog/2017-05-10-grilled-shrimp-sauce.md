@@ -6,7 +6,7 @@ author: Joanne
 image: MAY2017/grilled_shrimp_sauce_1.jpg
 categories: blog
 tags: food
-excerpt: <p>Add a little bite to your grilled shrimp with this easy homemade sauce</p>
+excerpt: <p>Add a little spice and excitement to your homade BBQ sauce</p>
 ---
 
 Grilling season is upon many of you friends and pretty much all year round for me.  It's nice to have something quick and easy to grill that has lots of flavour. One of the things I love to grill that fits the bill for all of that is shrimp. They take very little time to cook and don't require lots of marinating time. They also taste fabulous with this Sriracha BBQ sauce. This sauce definitely has some kick which I love but if you are nervous about that just reduce the amount of Sriracha in the recipe by half. You will still get some heat but with less intensity.  
@@ -14,7 +14,7 @@ Grilling season is upon many of you friends and pretty much all year round for m
 {% include image.html
             img="/img/MAY2017/grilled_shrimp_sauce_2.jpg"
             title="Grilled shrimp and sauce"
-            caption="Is the secret always in the sauce. This time it is." %}
+            caption="Is the secret always in the sauce? This time it is" %}
 
 The base BBQ sauce without the Sriracha is quite nice but adding the Sriracha bumps it up a flavour notch.  The sauce can work beautifully with any meat whether baked or grilled, and would be wonderful with a pulled pork or even great to slather on a burger, or if you are Trini you will definitely love slathering this on your pizza! I served these BBQ shrimp over a bed of pasta with grilled veggies and lots of olive oil and garlic and it was fabulous but would pair really well with fried rice and greens and really anything you want to pair it with.  Hope you like this spicy little number!
 <br>
