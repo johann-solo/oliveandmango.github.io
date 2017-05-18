@@ -3,6 +3,7 @@ layout: post
 title: Bourbon Pineapple upside-down cake
 date: '2017-05-04 7:30:35 -0400'
 author: Joanne
+thumbnail: /images/uploads/pineapple_cake_1.jpg
 image: MAY2017/pineapple_cake_1.jpg
 categories: blog
 tags: food
@@ -110,4 +111,5 @@ caption="" %}
 img="/img/MAY2017/pineapple_cake_6.jpg"
 title="Pineapple upside-down cake"
 caption="" %}
+
 
