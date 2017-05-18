@@ -3,11 +3,11 @@ layout: post
 title: Keep-ya-coming back chunky tomato salsa
 date: '2017-05-02 7:30:35 -0400'
 author: Joanne
+thumbnail: /images/uploads/chunky_salsa_2.jpg
 image: MAY2017/chunky_salsa_1.jpg
 categories: blog
 tags: food
 excerpt: <p>A salsa that truly lives up to it's name</p>
-
 ---
 
 This very much lives up the name of it! You think you're done but nope ya got to go back for more. It's a weird thing because it's so simple and basic but totally addictive. If you notice in the recipe I have a few substitutions, and that's just in case you don't have access to our local flavours, you can make it the way I make it when I'm back home.  I love using fresh local ingredients when I'm here and the exact flavours of the scotch bonnet hot pepper and chadon beni really can't be replicated.  Don't get me wrong it's just as fabulous with cilantro and jalapeño peppers too but it's just different. The flavours are great either way but they are distinctly different. The ketchup in case you were wondering why the ketchup, is optional, but I think it's the perfect way to balance the acidity of the tomatoes and also add a little body to the salsa.
@@ -62,3 +62,4 @@ So let's talk salsa. There are so many ways of making salsa. So many flavour com
             img="/img/MAY2017/chunky_salsa_4.jpg"
             title="Chunky salsa"
             caption="" %}
+
