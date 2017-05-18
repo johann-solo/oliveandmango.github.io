@@ -3,7 +3,7 @@ layout: post
 title: Grilled shrimp with homemade Sriracha BBQ sauce
 date: '2017-05-10 7:30:35 -0400'
 author: Joanne
-image: /images/uploads/grilled_shrimp_sauce_1.jpg
+image: MAY2017/grilled_shrimp_sauce_1.jpg
 categories: blog
 tags: food
 excerpt: <p>Add a little spice and excitement to your homade BBQ sauce</p>
@@ -75,5 +75,3 @@ Soak your wooden skewers in water while you prep the BBQ sauce and shrimp.
             img="/img/MAY2017/grilled_shrimp_sauce_4.jpg"
             title="Grilled shrimp and sauce"
             caption="" %}
-
-
