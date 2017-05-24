@@ -36,7 +36,7 @@ There are a few brands I do splurge on if I want to get them as a kind of a trea
 * 1 cup shredded coconut (I use unsweetened)
 * 1/4 cup chia seeds (optional)
 * 1/2 to 3/4 cup of chopped almonds
-* 1/4 to 1/2 of coconut oil (I use [CGA extra virgin coconut oil](http://cgacaribbean.com))
+* 1/4 to 1/2 of coconut oil (I use <span class="highlight">[CGA extra virgin coconut oil](http://cgacaribbean.com)</span>)
 * A pinch of salt
 <br>
 
@@ -61,6 +61,7 @@ There are a few brands I do splurge on if I want to get them as a kind of a trea
             img="/img/MAY2017/almond_granola_4.jpg"
             title="Vanilla Almond Granola"
             caption="" %}
+
 
 
 
