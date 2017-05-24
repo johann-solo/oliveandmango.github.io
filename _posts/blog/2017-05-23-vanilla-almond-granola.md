@@ -61,4 +61,3 @@ There are a few brands I do splurge on if I want to get them as a kind of a trea
             img="/img/MAY2017/almond_granola_4.jpg"
             title="Vanilla Almond Granola"
             caption="" %}
-

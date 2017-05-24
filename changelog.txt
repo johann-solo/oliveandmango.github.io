@@ -16,3 +16,7 @@ MARCH 8 2017
 Version 1.2.0 (starch)
 - Added drafts functionality
 - Prose.io functionality
+
+MAY 24 2017
+Version 1.3.0 (starch)
+- Support for Netlify featured images

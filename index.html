@@ -11,7 +11,9 @@ layout: home
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
                 <p class="post__date">{{ post.date | date: "%-d %B %Y" }}</p>
             </div>
+            {% if post.image %}
             <img src="{{ site.baseurl }}/img/{{ post.image }}" alt="" />
+            {% endif %}
             <div class="post-link post__excerpt" href="{{ post.url | prepend: site.baseurl }}">{{ post.excerpt }}</div>
             <a href="{{ post.url | prepend: site.baseurl }}"><div class="btn__main">continue reading</div></a>
         </li>
