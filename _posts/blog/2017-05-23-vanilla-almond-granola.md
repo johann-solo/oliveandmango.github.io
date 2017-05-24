@@ -3,7 +3,7 @@ layout: post
 title: Super Simple Vanilla Almond Granola
 date: '2017-05-23 7:30:35 -0400'
 author: Joanne
-thumbnail:
+thumbnail: /images/uploads/almond_granola_2.jpg
 image: MAY2017/almond_granola_1.jpg
 categories: blog
 tags: food
@@ -61,3 +61,4 @@ There are a few brands I do splurge on if I want to get them as a kind of a trea
             img="/img/MAY2017/almond_granola_4.jpg"
             title="Vanilla Almond Granola"
             caption="" %}
+
