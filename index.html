@@ -13,6 +13,8 @@ layout: home
             </div>
             {% if post.image %}
             <img src="{{ site.baseurl }}/img/{{ post.image }}" alt="" />
+            {% else %}
+            <img src="{{ site.baseurl }}{{ post.thumbnail }}" alt="" />
             {% endif %}
             <div class="post-link post__excerpt" href="{{ post.url | prepend: site.baseurl }}">{{ post.excerpt }}</div>
             <a href="{{ post.url | prepend: site.baseurl }}"><div class="btn__main">continue reading</div></a>
