@@ -1,15 +1,15 @@
 ---
 layout: post
 title: 'Strawberry Almond Tea Cake '
-date: 2017-05-31T18:31:50-04:00
+date: 2017-05-31T22:31:50.000Z
 author: Joanne
 thumbnail: /images/uploads/strawberry_almond_tea_cake_1.jpg
 image: MAY2017/strawberry_almond_tea_cake_1.jpg
 categories: blog
 tags: dessert
-excerpt: <p></p>
+excerpt: <p>The perfect cake for Spring and Summer</p>
 ---
-I have to say that when I was planning on making this cake, which is actually a compilation of three different cakes and recipes I have made, I didn't think it would be this good.  It's a really light and simple looking cake but it's one of those cakes that you just keep going back for more. The flavour of it is bright with subtle citrus notes, the vanilla in it makes it fragrant and sweet along with the almonds cooked into it and the ones on top that are slightly toasted. The strawberries aren't overpowering at all. They add beautiful moistness to every bite and a mellow strawberry fragrance.
+I have to say that when I was planning on making this cake, which is actually a compilation of three different cakes and recipes I have made, I didn't think it would be this good.  It's a really light and simple looking cake but it's one of those cakes that you just keep going back for more. The flavour of it is bright with subtle citrus notes The vanilla in it makes it fragrant and sweet along with the almonds cooked into it and the ones on top that are slightly toasted. The strawberries aren't overpowering at all. They add beautiful moistness to every bite and a mellow strawberry fragrance.
 <br>
 <br>
 {% include image.html
@@ -17,7 +17,7 @@ I have to say that when I was planning on making this cake, which is actually a 
             title="Strawberry Almond Tea Cake"
             caption="" %}
 
-Let's just put it this way &mdash; I am not one for cakes-truly- maybe a bite here and there because I always want to taste them, but this one had me going for a whole piece and then some.  I actually think it's because I don't have a sweet tooth when it comes to cakes.  I find they are always super sweet and I can only really handle a bite or two- probably the reason I'm so fond of cupcakes. This cake differs in that it's not overly sweet. It smells sweet and tastes sweet without the zing or sugar rush to your taste buds.
+Let's just put it this way &mdash; I am not one for cakes (maybe a bite here and there) because I always want to taste them, but this one had me going for a whole piece and then some.  I actually think it's because I don't have a sweet tooth when it comes to cakes.  I find they are always super sweet and I can only really handle a bite or two- probably the reason I'm so fond of cupcakes. This cake differs in that it's not overly sweet. It smells sweet and tastes sweet without the zing or sugar rush to your taste buds.
 <br>
 <br>
 {% include image.html
@@ -32,7 +32,7 @@ I have never tried it with all almond flour. I have only used the almond meal an
             title="Strawberry Almond Tea Cake"
             caption="" %}
 
-The reaction between the acidity of the orange juice and the baking soda and powder give it it's extra lift, so one of the recipes I was comparing this one too gave some good advice especially if you're going to make it fully gluten free with the almond meal or GF flour. As soon as you fold in the dry ingredients to the wet don't dilly dally top it with the berries and almond flakes and put it right into the oven so that it holds its lift or airiness created by the chemical reaction.
+The reaction between the acidity of the orange juice and the baking soda and powder give it it's extra lift, so one of the recipes I was comparing this one too gave some good advice especially if you're going to make it fully gluten free with the almond meal or GF flour. As soon as you fold in the dry ingredients to the wet don't dilly dally, top it with the berries and almond flakes and put it right into the oven so that it holds its lift or airiness created by the chemical reaction.
 <br>
 <br>
 {% include image.html
@@ -40,14 +40,14 @@ The reaction between the acidity of the orange juice and the baking soda and pow
             title="Strawberry Almond Tea Cake"
             caption="" %}
 
-I serve this dusted with some powdered sugar and with coconut whip cream (recipe below) and extra berries. A quick and easy recipe! Simply, perfect for spring and summer!
+I serve this dusted with some powdered sugar and with coconut whip cream (recipe below) and extra berries. A quick and easy recipe! Simply, perfect for Spring and Summer!
 <br>
 <br>
 ## Strawberry Almond Tea Cake
 
 ### Ingredients
 
-* 1 cup frozen strawberries -large whole pieces sliced in half
+* 1 cup frozen strawberries &mdash; large whole pieces sliced in half
 * 2 tbsp freshly squeezed orange juice
 * 1/2 tsp orange zest
 * 3 eggs
@@ -118,3 +118,4 @@ mix until well combined - I don't usually sweeten; I leave as is because I find 
             img="/img/MAY2017/strawberry_almond_tea_cake_7.jpg"
             title="Strawberry Almond Tea Cake"
             caption="" %}
+
