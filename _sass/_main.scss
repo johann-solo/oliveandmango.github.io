@@ -15,7 +15,7 @@ $desktop-width: 800px;
 // BASE STYLES
 
 body {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -45,6 +45,8 @@ a:visited {
     padding-top: 10px;
 }
 
+
+
 p a:link,
 p a:visited {
     color: $accent-color;
@@ -55,8 +57,12 @@ h1, h2, h3, p, li {
 }
 
 h1, h2, h3 {
-    font-family: 'open sans', sans-serif;
+    font-family: 'Playfair Display', serif;
 }
+
+// .post-link h3, .h2 {
+//   font-style: italic;
+// }
 
 .highlight a {
     color: $accent-color !important;
@@ -79,13 +85,15 @@ h1, h2, h3 {
 }
 
 blockquote {
-    color: #CCC;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    color: black;
     border-left: 4px solid $accent-color;
-    font-size: 1.3em;
+    font-size: 1.5em;
     margin: 30px 0;
     padding: 0 30px 0;
     @media screen and (min-width: $tablet-width) {
-        font-size: 1.5em;
+        font-size: 2em;
         padding: 0 60px 0;
     }
 }
@@ -183,7 +191,14 @@ caption {
 }
 
 .post-list h3 {
-    text-transform: uppercase;
+    // text-transform: uppercase;
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+.post-list h2 {
+  font-style: italic;
+  font-weight: bold;
 }
 
 .post__meta--home {
@@ -203,6 +218,15 @@ caption {
         @include post__thumbnail (200px, 20px) ;
         float: left;
     }
+}
+
+.post-title {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.post-content h2 {
+  font-style: italic;
 }
 
 .post-list p {

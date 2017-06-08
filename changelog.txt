@@ -20,3 +20,7 @@ Version 1.2.0 (starch)
 MAY 24 2017
 Version 1.3.0 (starch)
 - Support for Netlify featured images
+
+JUNE 8 2017
+Version 1.4.0 (starch)
+- Several font changes
