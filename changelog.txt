@@ -24,3 +24,7 @@ Version 1.3.0 (starch)
 JUNE 8 2017
 Version 1.4.0 (starch)
 - Several font changes
+
+JUNE 8 2017
+Version 1.4.1 (starch)
+- Home images hyperlinked
