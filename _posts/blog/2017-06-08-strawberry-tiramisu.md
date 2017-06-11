@@ -62,16 +62,16 @@ Recipe makes 4-6 tiramisu cups depending on the size and if you are making it in
 
 **Cream layers**
 
-* 1 tub of mascarpone at room temp (approx 1 1/2-2cups)
+* 1 tub of mascarpone at room temp (approx 1&frac12; - 2 cups)
 * 1 cup of heavy whipping cream
-* 1/4 cup of granulated sugar
-* 1/2 tsp vanilla extract
+* &frac14; cup of granulated sugar
+* &frac12; tsp vanilla extract
 <br>
 
 **Strawberry syrup layers**
 
 * 2 cups of strawberries fresh or frozen chopped In half or quarters if they are large berries
-* 1/2 cup of coconut sugar or sugar of choice
+* &frac12; cup of coconut sugar or sugar of choice
 * 1 tbsp of lemon juice
 * 1 tsp vanilla
 * 1 tsp of triple sec (optional)

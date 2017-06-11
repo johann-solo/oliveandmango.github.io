@@ -49,17 +49,17 @@ I serve this dusted with some powdered sugar and with coconut whip cream (recipe
 
 * 1 cup frozen strawberries &mdash; large whole pieces sliced in half
 * 2 tbsp freshly squeezed orange juice
-* 1/2 tsp orange zest
+* &frac12; tsp orange zest
 * 3 eggs
-* 3/4 cup of coconut sugar or brown sugar
-* 1/2 cup coconut oil
+* &frac34; cup of coconut sugar or brown sugar
+* &frac12; cup coconut oil
 * 2 tbsp pure vanilla extract
-* 1 1/4 cup of AP flour
-* 3/4 cup of almond flour or almond meal is what I usually use - finely ground almonds
-* 1 1/2 tsp baking powder
+* 1&frac14; cup of AP flour
+* &frac34; cup of almond flour or almond meal is what I usually use - finely ground almonds
+* 1&frac12; tsp baking powder
 * 1 tsp baking soda
 * 1 pinch of salt
-* 1/2 cup of flaked almonds
+* &frac12; cup of flaked almonds
 
 
 ### Directions
@@ -94,7 +94,7 @@ I serve this dusted with some powdered sugar and with coconut whip cream (recipe
 ### Ingredients
 * 1 can of coconut cream/or a thick milk
 * 1 tsp of pure vanilla extract
-* 1/4 cup powdered sugar
+* &frac14; cup powdered sugar
 
 ### Directions
 
@@ -118,5 +118,3 @@ mix until well combined - I don't usually sweeten; I leave as is because I find 
             img="/img/MAY2017/strawberry_almond_tea_cake_7.jpg"
             title="Strawberry Almond Tea Cake"
             caption="" %}
-
-
