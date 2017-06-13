@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Strawberry Tiramisu (eggless)
-date: 2017-06-08 7:30:35 -0400
+date: '2017-06-08 7:30:35 -0400'
 author: Joanne
-thumbnail:
+thumbnail: /images/uploads/strawberry_tiramisu_1.jpg
 image: JUNE2017/strawberry_tiramisu_1.jpg
 categories: blog
 tags: dessert
@@ -133,3 +133,4 @@ Makes approx 2 cups worth
             img="/img/JUNE2017/strawberry_tiramisu_7.jpg"
             title="Strawberry Tiramisu"
             caption="" %}
+
