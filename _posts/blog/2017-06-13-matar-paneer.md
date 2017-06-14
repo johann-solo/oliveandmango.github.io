@@ -67,23 +67,23 @@ Enough blabber from me though. In the recipes below I have listed the substituti
 <br>
 
 ### Directions:
-* In a medium sauce pan, on medium heat, slowly bring the heavy cream to a very low simmer (want the temp to reach 200 degrees F, this is where a thermometer comes in handy, and you want the temp to hang around that as a maximum) 
-* Once it reaches that temp remove from heat and add yoghurt and lemon juice and stir gently to combine - the milk will immediately start to curdle  
-* Cover the pot and let sit off the heat for approx 10 minutes   
-* In the meantime setup your strainer over a large bowl and line with the cheesecloth- should be folded to make at least 3 layers if not four 
-* Remove lid from pot and stir in salt and then pour the milk and curds through the cheesecloth letting all the liquid pass through.  
+1. In a medium sauce pan, on medium heat, slowly bring the heavy cream to a very low simmer (want the temp to reach 200 degrees F, this is where a thermometer comes in handy, and you want the temp to hang around that as a maximum) 
+1. Once it reaches that temp remove from heat and add yoghurt and lemon juice and stir gently to combine - the milk will immediately start to curdle  
+1. Cover the pot and let sit off the heat for approx 10 minutes   
+1. In the meantime setup your strainer over a large bowl and line with the cheesecloth- should be folded to make at least 3 layers if not four 
+1. Remove lid from pot and stir in salt and then pour the milk and curds through the cheesecloth letting all the liquid pass through.  
 
-* Holding all ends of the cheesecloth. Start to squeeze out more of the liquids by hand
+1. Holding all ends of the cheesecloth. Start to squeeze out more of the liquids by hand
 
-* Once most if not all liquid is squeezed and you have a little mass of cheese formed (will look like a ball) place it on a plate and flatten it by pressing it down with your hand into a rectangular disc until its approx &frac12; - &frac34; inch thick.
+1. Once most if not all liquid is squeezed and you have a little mass of cheese formed (will look like a ball) place it on a plate and flatten it by pressing it down with your hand into a rectangular disc until its approx &frac12; - &frac34; inch thick.
 
-* Place a plate over the cheese disc and add a weight to it (I used a glass bottle of tahini but a canned good would do the trick also) to strain all the water
+1. Place a plate over the cheese disc and add a weight to it (I used a glass bottle of tahini but a canned good would do the trick also) to strain all the water
 
-* Place in the fridge and let strain with weight on it for approx 1-2 hours or overnight
+1. Place in the fridge and let strain with weight on it for approx 1-2 hours or overnight
 
-*  Remove from fridge, remove the cheese from the cheesecloth and place onto a cutting surface and cut cheese into small cubes
+1.  Remove from fridge, remove the cheese from the cheesecloth and place onto a cutting surface and cut cheese into small cubes
 
-* Marinate and then pan fry (directions for this below) or leave as is - it's up to you  
+1. Marinate and then pan fry (directions for this below) or leave as is - it's up to you  
 <br>
 {% include image.html
             img="/img/JUNE2017/matar_paneer_8.jpg"
@@ -173,4 +173,3 @@ minutes until the paneer is heated through as well and sauce is nice and creamy.
             img="/img/JUNE2017/matar_paneer_6.jpg"
             title="Matar Paneer Masala"
             caption="" %}
-
