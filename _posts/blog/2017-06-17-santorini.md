@@ -46,7 +46,7 @@ caption="" %}
 <br>
 
 ## Do some wine and beer tasting
-Santorini is famous for many things and surprisingly wine is one of those things. We loved visiting some of the wineries so much we dedicated a whole post to just that. They also have at least two local beers that you must taste while on the island if you are a beer fan - which I am.  Santorini brewing company is home to the in-demand Donkey beers. You get free tastings plus souvenir merchandise when visiting. Volkan beer is another beer/beers you must try &mdash; my personal favourite.  Loved all of the varieties I had of the Volkan beers. Although they weren’t brewing on the island at the time we were there, they were planning on it in the near future. The raw ingredients to make the beer including the unique and beautiful honey are all from Santorini and the nearby island Naxos.
+Santorini is famous for many things and surprisingly wine is one of those things. We loved visiting some of the wineries so much we dedicated [a whole post](https://www.oliveandmango.com/santorini-wineries) to just that. They also have at least two local beers that you must taste while on the island if you are a beer fan - which I am.  Santorini Brewing Company is home to the in-demand Donkey beers. You get free tastings plus souvenir merchandise when visiting. Volkan beer is another beer/beers you must try &mdash; my personal favourite.  Loved all of the varieties I had of the Volkan beers. Although they weren’t brewing on the island at the time we were there, they were planning on it in the near future. The raw ingredients to make the beer including the unique and beautiful honey are all from Santorini and the nearby island Naxos.
 <br>
 <br>
 {% include image.html
@@ -180,4 +180,5 @@ The walk or hike from Fira to Oia or vice versa is one thing. We planned on doin
 img="/img/JUNE2017/santorini_25.jpg"
 title="Santorini"
 caption="" %}
+
 
