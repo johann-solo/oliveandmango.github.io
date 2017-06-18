@@ -3,11 +3,13 @@ layout: post
 title: Top things to see and do in Santorini
 date: '2017-06-17 7:30:35 -0400'
 author: Joanne
-thumbnail:
+thumbnail: /images/uploads/santorini_21.jpg
 image: JUNE2017/santorini_1.jpg
 categories: blog
 tags: travel
-excerpt: <p>Don't miss a thing on your next visit to one of the most picturesque islands you will ever visit</p>
+excerpt: >-
+  <p>Don't miss a thing on your next visit to one of the most picturesque
+  islands you will ever visit</p>
 ---
 
 This post is a long time coming. At least 36 weeks of #omsantorinisaturdays leading up to it. Well it's finally here and I'm excited to share more than photos, although there will many of those too! Planning a visit? Going back for more than a few short hours of stopping g over on a cruise? Well I'm sharing few of the highlights of our trip and some tips so that you don't miss a thing while you visit!
@@ -178,3 +180,4 @@ The walk or hike from Fira to Oia or vice versa is one thing. We planned on doin
 img="/img/JUNE2017/santorini_25.jpg"
 title="Santorini"
 caption="" %}
+
