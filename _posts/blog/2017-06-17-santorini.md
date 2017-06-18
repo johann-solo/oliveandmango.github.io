@@ -11,7 +11,7 @@ excerpt: >-
   <p>Don't miss a thing on your next visit to one of the most picturesque
   islands you will ever visit</p>
 ---
-This post is a long time coming. At least 36 weeks of #omsantorinisaturdays leading up to it. Well it's finally here and I'm excited to share more than photos, although there will many of those too! Planning a visit? Going back for more than a few short hours of stopping over on a cruise? Well I'm sharing a few of the highlights of our trip and some tips so that you don't miss a thing while you visit!
+This post is a long time coming. At least 36 weeks of #omsantorinisaturdays leading up to it. Well it's finally here and I'm excited to share more than photos, although there will be many of those too! Planning a visit? Going back for more than a few short hours of stopping over on a cruise? Well I'm sharing a few of the highlights of our trip and some tips so that you don't miss a thing while you visit!
 <br>
 <br>
 {% include image.html
@@ -63,7 +63,7 @@ caption="" %}
 
 ## Where to stay
 
-This is most definitely depends on  your budget. Well our budget was blown cause of being in London before we hit Greece. Hee hee! Yes don't even get me started on London!! Loved it but literally walked miles cause I hated paying double and triple tube fees cause I couldn't get their zones straight!!  We stayed at Caveland which is an awesome hostel! We had a private room and bathroom including a kitchenette.  We loved it. You can use the shared kitchen and even grab a little continental breakfast in the morning if you want to. They had a lot of activities planned — optional to join.  We booked based on its great reviews, price point obviously, but also the location.  It's a ten minute walk to Fira, a few minute walk to several grocery stores, bakeries, restaurants, bank machines, as well as offices to book excursions and to rent a car or ATV’s. The bus stop was just a few minutes walk away. The airport was nearby as well, approximately 10-15 minute drive. We loved the convenience of it and also the fact that it was away from the crowds, but still just minutes away from all the action.\
+This most definitely depends on your budget. Well our budget was blown cause of being in London before we hit Greece. Hee hee! Yes don't even get me started on London!! Loved it but literally walked miles cause I hated paying double and triple tube fees cause I couldn't get their zones straight!!  We stayed at Caveland which is an awesome hostel! We had a private room and bathroom including a kitchenette.  We loved it. You can use the shared kitchen and even grab a little continental breakfast in the morning if you want to. They had a lot of activities planned — optional to join.  We booked based on its great reviews, price point obviously, but also the location.  It's a ten minute walk to Fira, a few minute walk to several grocery stores, bakeries, restaurants, bank machines, as well as offices to book excursions and to rent a car or ATV’s. The bus stop was just a few minutes walk away. The airport was nearby as well, approximately 10-15 minute drive. We loved the convenience of it and also the fact that it was away from the crowds, but still just minutes away from all the action.\
 <br>
 {% include image.html
 img="/img/JUNE2017/santorini_8.jpg"
