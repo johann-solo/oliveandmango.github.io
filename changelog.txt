@@ -28,3 +28,7 @@ Version 1.4.0 (starch)
 JUNE 8 2017
 Version 1.4.1 (starch)
 - Home images hyperlinked
+
+JUNE 18 2017
+Version 1.5.0 (starch)
+- Jekyll SEO Plugin
