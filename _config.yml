@@ -37,7 +37,7 @@ permalink: /:title
 gems:
   - jekyll-sitemap
   - jekyll-paginate
-
+  - jekyll-seo-tag
 
 # Prose Config for drafts
 
