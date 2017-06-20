@@ -3,14 +3,15 @@ layout: post
 title: Fabulously flavourful Geera Chicken
 date: '2017-06-20 7:30:35 -0400'
 author: Joanne
-thumbnail:
+thumbnail: /images/uploads/IMG_2433.PNG
 image: JUNE2017/Geera_chicken_1.jpg
 categories: blog
 tags: food
-excerpt: <p>A great alternative to your basic curry chicken. Geera chicken is aromatic, flavourful and quintessentially Trinidadian</p>
+excerpt: >-
+  <p>A great alternative to your basic curry chicken. Geera chicken is aromatic,
+  flavourful and quintessentially Trinidadian</p>
 ---
-
-What is Geera anyways? Simply put its roasted and ground cumin seeds. It's roots are East Indian and adopted into Trinidadian cuisine. Trinis made it their own by adding their classic [Caribbean green seasoning](https://www.oliveandmango.com/green-seasoning). Geera is also called zeera and I have also seen it read as jeera depending who and where it's being made.  
+What is Geera anyways? Simply put its roasted and ground cumin seeds. It's roots are East Indian and adopted into Trinidadian cuisine. Trinis made it their own by adding their classic [Caribbean green seasoning](https://www.oliveandmango.com/green-seasoning). Geera is also called zeera and I have also seen it read as jeera depending who and where it's being made.
 
 <br>
 {% include image.html
@@ -19,7 +20,7 @@ title="Geera chicken"
 caption="" %}
 <br>
 
-I love cumin! I find it very aromatic and I add it to more dishes than I originally realized when I sat down to to write this post and got to thinking about it. Geera anything in Trini cuisine is basically meat seasoned and cooked with ground cumin. Most commonly boneless bite sized pieces of pork are used in this savoury and most flavourful dish.  I like it with pork but I also love it with chicken too. It's a very common dish that is served up as 'cutters' or finger foods at parties or bars. It's said that the the cumin helps allow you to pound back more drinks without consequence. Probably an urban legend made up to encourage people to buy more food at bars I say! Haha!
+I love cumin! I find it very aromatic and I add it to more dishes than I originally realized when I sat down to write this post and got to thinking about it. Geera anything in Trini cuisine is basically meat seasoned and cooked with ground cumin. Most commonly boneless bite sized pieces of pork are used in this savoury and most flavourful dish.  I like it with pork but I also love it with chicken too. It's a very common dish that is served up as 'cutters' or finger foods at parties or bars. It's said that the the cumin helps allow you to pound back more drinks without consequence. Probably an urban legend made up to encourage people to buy more food at bars I say! Haha!
 
 <br>
 {% include image.html
@@ -57,15 +58,15 @@ caption="" %}
 
 ### Recipe for Geera Chicken
 
-* 1&frac12; lbs of chicken or pork (I used bone in stewing pieces but you can use boneless meat cut up into cubes) cleaned
+* 1½ lbs of chicken or pork (I used bone in stewing pieces but you can use boneless meat cut up into cubes) cleaned
 * 2-3 tbsp of green seasoning
 * 1 tsp each of salt and pepper
 * 2 tbsp curry powder split in half
 * 3 tbsp geera powder split in half
 * 3 cloves garlic minced
 * 1 tbsp garam masala
-* &frac12; tsp ground clove
-* &frac12; tsp ground cinnamon
+* ½ tsp ground clove
+* ½ tsp ground cinnamon
 * 1 tsp cayenne powder
 * A couple tsps of water plus 1/4 cup
 * 2-3 tbsp of coconut oil or EVOO
@@ -79,22 +80,15 @@ caption="" %}
 
 ### Directions
 
-1. In a large bowl toss meat with green seasoning, salt and pepper, 1 tbsp of curry powder, and 1&frac12; tbsp of geera (I usually add a little extra geera cause I love my geera to be a little intense) &mdash; cover and refrigerate and marinate for at least an hour but I like to marinate overnight.
-
-1. Once ready to cook mix all the remaining spices in a small bowl with the couple tsps of water into a runny paste and set aside.
-
-1. Heat oil in a deep pan to medium heat and add your garlic and cook for a minute or two to infuse the oil with garlic but do not burn the garlic.
-
-1. Add the runny paste into the pot and sauté for a minute or two while stirring it around the pan/pot until it's super thick and hard to stir around
-
-1. At this point add your chicken and sauté for a few minutes while scraping the bottom of the pot and stirring the chicken until is nicely coated with the geera.
-
-1. I add the remaining water and bring everything to a boil and then lower the heat and cover the pot and allow it to simmer for approx 20-30 minutes, stirring and checking it periodically to see if it needs more water.  
-
-1. After it cooks for that amount of time I stir in the garam masala keep the lid off, and let it continue to simmer until meat is completely cooked through and you have the desired thickness of sauce or lack
-of sauce according to your taste.
-
-1. Serve over a bed of rice or with hops or plate the pieces on a platter and stick some toothpicks in them to serve as cutters or finger food. Perfect for appetizers or snacks at a party!
+1. In a large bowl toss meat with green seasoning, salt and pepper, 1 tbsp of curry powder, and 1½ tbsp of geera (I usually add a little extra geera cause I love my geera to be a little intense) — cover and refrigerate and marinate for at least an hour but I like to marinate overnight.
+2. Once ready to cook mix all the remaining spices in a small bowl with the couple tsps of water into a runny paste and set aside.
+3. Heat oil in a deep pan to medium heat and add your garlic and cook for a minute or two to infuse the oil with garlic but do not burn the garlic.
+4. Add the runny paste into the pot and sauté for a minute or two while stirring it around the pan/pot until it's super thick and hard to stir around
+5. At this point add your chicken and sauté for a few minutes while scraping the bottom of the pot and stirring the chicken until it's nicely coated with the geera.
+6. I add the remaining water and bring everything to a boil and then lower the heat and cover the pot and allow it to simmer for approx 20-30 minutes, stirring and checking it periodically to see if it needs more water.
+7. After it cooks for that amount of time I stir in the garam masala keep the lid off, and let it continue to simmer until meat is completely cooked through and you have the desired thickness of sauce or lack
+   of sauce according to your taste.
+8. Serve over a bed of rice or with hops or plate the pieces on a platter and stick some toothpicks in them to serve as cutters or finger food. Perfect for appetizers or snacks at a party!
 
 <br>
 {% include image.html
