@@ -18,20 +18,15 @@ caption="" %}
 <br>
 
 I will be ordering her Unforgettable book to my parents house and picking it up when I'm next home because this cake is just a sampling of how wonderful her recipes are. I'm super happy I found this recipe online though.  This is another reason I love to join in on [@rainydaybites](https://www.instagram.com/rainydaybites) cookbook club. I get try recipes that I would normally not make. I shy away from very complex recipes not only because of lack of confidence and time, but also a lack of certain ingredients that aren't easily available here. These challenges have helped me build confidence and try new things and push me to find alternative ingredients and to be more adaptable when recipes call for ingredients I either cant get here or are way over my cooking budget.
-<br>
-<br>
-{% include image.html
-img="/img/JUNE2017/walnut_roll_cake_3.jpg"
-title="Gluten free walnut roll cake"
-caption="" %}
-<br>
+
+> it's very light and creamy and because it's chilled I think it tastes like an ice cream cake
 
 Ok let me get into a few details about this cake recipe. The actual ingredients and prep are pretty easy. What I was nervous about was the rolling part. You really need to make sure the cake has completely cooled before even attempting to turn it over and roll it.  I think it's also crucial to do the damp towel over it while it cools because it will keep it from drying out and cracking too much while you roll it. Just take a nice deep breath and then gently roll. I had my husband cheering me on, so some encouragement goes a long way! Also make sure to have your eggs at room temp which with help get your egg whites to beat better.  Feel free to add a pinch of cream of tartar to them to get those peaks even stiffer. Those are pretty much the only tips I would give to go along with this recipe.  It's pretty straight forward but I'm just a chicken when it comes to rolling, flipping and you name it! Haha! I am totally getting better though and becoming a bit more adventurous!
 <br>
 <br>
 {% include image.html
-img="/img/JUNE2017/walnut_roll_cake_4.jpg"
-title="Powdered sugar"
+img="/img/JUNE2017/walnut_roll_cake_3.jpg"
+title="Gluten free walnut roll cake"
 caption="" %}
 <br>
 
