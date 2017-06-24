@@ -11,7 +11,8 @@ excerpt: >-
   <p>This gluten free cake is practically made of only walnuts. Creamy, crunchy
   and scrumptious</p>
 ---
-I made this walnut cake for #rainydaybitescookbookclub. Deborah from [@rainydaybites](https://www.instagram.com/rainydaybites) selected another excellent book this time featuring Paula Wolfert's recipes in a book called Unforgettable. This book was not available to download to purchase, and I wasn't going to receive it in time for the recipe challenge if I ordered it through Amazon.  I definitely was disappointed but I did find this particular recipe online on kitchenriffs.com. The blogger on this website said that it's 'adapted' from Paula Wolfert's book World of Food. I checked with someone who has the book for the challenge and they said it's exactly the same so there's no adaptation here friends — this is the original recipe.\
+I made this walnut cake for #rainydaybitescookbookclub. Deborah from [@rainydaybites](https://www.instagram.com/rainydaybites) selected another excellent book this time featuring Paula Wolfert's recipes in a book called Unforgettable. This book was not available to download to purchase, and I wasn't going to receive it in time for the recipe challenge if I ordered it through Amazon.  I definitely was disappointed but I did find this particular recipe online on kitchenriffs.com. The blogger on this website said that it's 'adapted' from Paula Wolfert's book World of Food. I checked with someone who has the book for the challenge and they said it's exactly the same so there's no adaptation here friends — this is the original recipe.
+<br>
 <br>
 {% include image.html
 img="/img/JUNE2017/walnut_roll_cake_2.jpg"
@@ -32,7 +33,7 @@ title="Gluten free walnut roll cake"
 caption="" %}
 <br>
 
-Why is this cake so darn good? Well it's very light and creamy and because it's chilled I think it tastes like an ice cream cake. It was fabulous and my husband who is not a fan of walnuts, couldn't get enough of it.  It's also gluten free. This is the kind of gluten free cake I like and am willing to make because I don't have to go out and find tapioca flour or chickpea flour or whatever alternative interesting (and expensive) flours there are out there. I have several friends and family who are gluten intolerant and one of them in particular isn't a fan of chocolate either, so I'm always trying to figure out what to make for dessert for her other then ice cream and fruit.
+Why is this cake so darn good? Well it's very light and creamy and because it's chilled I think it tastes like an ice cream cake. It was fabulous and my husband who is not a fan of walnuts, couldn't get enough of it.  It's also gluten free. This is the kind of gluten free cake I like and am willing to make because I don't have to go out and find tapioca flour or chickpea flour or whatever alternative interesting (and expensive) flours there are out there. I have several friends and family who are gluten intolerant and one of them in particular isn't a fan of chocolate either, so I'm always trying to figure out what to make for dessert for her other then ice cream and fruit. So this is definitely a great recipe and a keeper for me and I'm sure you will love it too!
 <br>
 <br>
 {% include image.html
@@ -41,7 +42,7 @@ title="Gluten free walnut roll cake"
 caption="" %}
 <br>
 
-So this is definitely a great recipe and a keeper for me and I'm sure you will love it too! I love walnuts and this cake was just perfect.  It's great for summer BBQs and family gatherings.  The perfect cold treat! Someone mentioned that they can't have walnuts when I originally  posted a pic of it on IG but I think you could definitely make this with almonds too if that's a concern. It would alter the flavour slightly but I think it will be just as wonderful with almonds.  I will be making this again in the near future and glad I have the recipe to reference! Hope you guys give it a try!
+I love walnuts and this cake was just perfect.  It's great for summer BBQs and family gatherings.  The perfect cold treat! Someone mentioned that they can't have walnuts when I originally  posted a pic of it on IG but I think you could definitely make this with almonds too if that's a concern. It would alter the flavour slightly but I think it will be just as wonderful with almonds.  I will be making this again in the near future and glad I have the recipe to reference! Hope you guys give it a try!
 <br>
 <br>
 {% include image.html
