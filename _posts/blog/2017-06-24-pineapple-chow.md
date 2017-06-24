@@ -11,7 +11,7 @@ excerpt: >-
   <p>Two fabulous ways to eat pineapple whether you like it savoury or sweet. </p>
 ---
 
-This super easy recipe for the pineapple and mint salad  is perfect for the warm months. It's refreshing and has loads of flavour.  I got the idea to try it from a chef featured in a seriouseats.com article and it actually reminded me of chow.  Chow is a delicious way prepare and to eat fruit.  I was introduced to chow years and years ago on my very first trip to maracas bay Trinidad.  My first trip here visiting my husband's family.  We picked some up along with some sugar cake which is another one of my favourites at the food stall on the lookout before heading into maracas. I had mango chow and I was hooked after my first bite! So so delicious.
+This super easy recipe for the pineapple and mint salad  is perfect for the warm months. It's refreshing and has loads of flavour.  I got the idea to try it from a chef featured in a seriouseats.com article and it actually reminded me of chow.  Chow is a delicious way prepare and to eat fruit.  I was introduced to chow years and years ago on my very first trip to maracas bay Trinidad.  My first trip here visiting my husband's family.  We picked some up along with some sugar cake which is another one of my favourites at the [food stall on the lookout](https://www.oliveandmango.com/maracas-bay) before heading into maracas. I had mango chow and I was hooked after my first bite! So so delicious.
 <br>
 <br>
 {% include image.html
