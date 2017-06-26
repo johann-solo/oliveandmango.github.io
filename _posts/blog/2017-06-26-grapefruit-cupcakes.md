@@ -72,7 +72,7 @@ caption="" %}
 * 1&frac12; tsp baking powder
 * &frac12; tsp salt
 * 3 eggs
-* &frac34; cup yoghurt plain full fat or Greek
+* &frac34; cup yoghurt (plain,full fat or Greek)
 * 1 cup coconut sugar or brown sugar
 * &frac12; cup coconut oil
 * &frac14; cup of freshly squeezed grapefruit juice
@@ -81,7 +81,7 @@ caption="" %}
 
 ### Directions
 
-1. Preheat oven to 350 degrees F and line or grease you cupcake tin
+1. Preheat oven to 350 degrees F and line or grease your cupcake tin
 
 1. Whisk the flour, baking powder, and salt together in a medium sized bowl
 
@@ -143,4 +143,5 @@ caption="" %}
 img="/img/JUNE2017/grapefruit_cupcakes_9.jpg"
 title="Grapefruit cupcakes"
 caption="" %}
+
 
