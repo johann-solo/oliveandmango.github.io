@@ -3,11 +3,13 @@ layout: post
 title: Simply Scrumptious Grapefruit Cupcakes
 date: '2017-06-26 7:30:35 -0400'
 author: Joanne
-thumbnail:
+thumbnail: /images/uploads/IMG_2483.JPG
 image: JUNE2017/grapefruit_cupcakes_1.jpg
 categories: blog
 tags: food
-excerpt: <p>Bright and cheery with a delectable grapefruit cream cheese frosting and decorated with Rosemary infused candied grapefruit</p>
+excerpt: >-
+  <p>Bright and cheery with a delectable grapefruit cream cheese frosting and
+  decorated with Rosemary infused candied grapefruit</p>
 ---
 
 I was a little sad when I made these cupcakes because it was with my last batch of grapefruits for the season. Always sad to see the season go! I juiced so many grapefruits this season and I was loving it. I decided that I wanted to bake something with them. I decided on cupcakes because I was actually making them for a friend's game night. I thought cupcakes would be easier to feed a crowd playing games than having to slice cake and serve it out.
@@ -19,7 +21,7 @@ title="Grapefruit cupcakes"
 caption="" %}
 <br>
 
-I actually love getting invited to things because obviously I love to be around friends but I also love using them as opportunities to try out new recipes. Sometimes they are a total fail (and that means picking something up from the grocery store on the way) and sometimes they are a win. These were a win for more reasons than one.  First they are really delicious especially if you're a fan of all things citrus! They are also super simple to make. The batter gets mixed with a spatula and the whole recipe is made of very basic ingredients. The yogurt and oil makes them moist with a slight crumble and a little more dense than your regular cupcake.
+I actually love getting invited to things because obviously I love to be around friends but I also love using them as opportunities to try out new recipes. Sometimes they are a total fail (and that means picking something up from the grocery store on the way) and sometimes they are a win. These were a win for more reasons than one.  First they are really delicious especially if you're a fan of all things citrus! They are also super simple to make. The batter gets mixed with a spatula and the whole recipe is made of very basic ingredients. The yogurt and coconut oil makes them moist with a slight crumble and a little more dense than your regular cupcake.
 <br>
 <br>
 {% include image.html
@@ -63,7 +65,7 @@ title="Grapefruit cupcakes"
 caption="" %}
 <br>
 
-## Cupcake base
+## Cupcake base (makes 12-14 cupcakes)
 ### Ingredients
 
 * 1&frac12; cups AP (all purpose) flour
@@ -96,7 +98,7 @@ caption="" %}
 ### Ingredients
 * 8 oz of cream cheese at room temperature
 * &frac12; cup powdered sugar
-* 1 tbsp grapefruit
+* 1 tbsp freshly squeezed grapefruit juice
 * &frac12; tsp vanilla
 * &frac12; tsp grapefruit zest plus more for garnish (optional)
 <br>
@@ -134,11 +136,11 @@ caption="" %}
 
 1. Reduce heat to a very low simmer let the slices simmer (not boil) for 1 hour
 
-1. Remove the slices from the syrup and set them on a cooling rack over a cookie sheet or paper towels to cool and complete dry which could take from
-12 to 24 hours so plan ahead if using to decorate cakes or anything else
+1. Remove the slices from the syrup and set them on a cooling rack over a cookie sheet or paper towels to cool and complete dry which could take from 12 to 24 hours so plan ahead if using to decorate cakes or anything else
 
 <br>
 {% include image.html
 img="/img/JUNE2017/grapefruit_cupcakes_9.jpg"
 title="Grapefruit cupcakes"
 caption="" %}
+
