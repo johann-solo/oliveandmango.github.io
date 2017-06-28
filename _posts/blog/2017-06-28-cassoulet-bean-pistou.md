@@ -3,12 +3,13 @@ layout: post
 title: White bean Cassoulet and Sausage with Pistou
 date: '2017-06-28 7:30:35 -0400'
 author: Joanne
-thumbnail:
+thumbnail: /images/uploads/cassoulet_pistou_5.jpg
 image: JUNE2017/cassoulet_pistou_1.jpg
 categories: blog
 tags: food
 excerpt: >-
-  <p>A satiating peasant dish packed with flavour and comfort. This white bean cassoulet and sausage will prove to be a hit. Don't forget the pistou! </p>
+  <p>A satiating peasant dish packed with flavour and comfort. This white bean
+  cassoulet and sausage will prove to be a hit. Don't forget the pistou! </p>
 ---
 
 I can honesty say that we (my hubby and I) can live on peasant food like this. Peasant food is really scraps or leftovers and usually includes accessible inexpensive foods that are cooked down and made to taste so good.  Originally cassoulet was really that kind of food. Beans cooked in some form of broth and with some sort of meat or even preserved meat from chicken, duck to mutton.
@@ -123,3 +124,4 @@ caption="" %}
 img="/img/JUNE2017/cassoulet_pistou_10.jpg"
 title="White Bean Cassoulet Pistou"
 caption="" %}
+
