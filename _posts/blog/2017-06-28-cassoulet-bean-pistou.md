@@ -30,7 +30,7 @@ title="White Bean Cassoulet Pistou"
 caption="" %}
 <br>
 
-Let's talk about the beans first off. Any white beans would work beautifully.  I love butter beans and that's why I use them for so many of my bean recipes like fasolatha and gigantes plaki. You can tell I'm a bean girl! Cannellini beans also work very well here too though.  Using canned makes this dish super quick and easy. But I will admit that using dried and soaked beans is always more flavourful.  So use whichever option you prefer. I use the canned if I'm making this during the week. But if it's the weekend and I have more time, I will use the dry, soaking them overnight and slow cooking them with the rest of the ingredients until nice and tender.  
+Let's talk about the beans first off. Any white beans would work beautifully.  I love butter beans and that's why I use them for so many of my bean recipes like [fasolatha](https://www.oliveandmango.com/fasolatha) and [gigantes plaki](https://www.oliveandmango.com/gigantes). You can tell I'm a bean girl! Cannellini beans also work very well here too though.  Using canned makes this dish super quick and easy. But I will admit that using dried and soaked beans is always more flavourful.  So use whichever option you prefer. I use the canned if I'm making this during the week. But if it's the weekend and I have more time, I will use the dry, soaking them overnight and slow cooking them with the rest of the ingredients until nice and tender.  
 <br>
 {% include image.html
 img="/img/JUNE2017/cassoulet_pistou_4.jpg"
@@ -124,4 +124,5 @@ caption="" %}
 img="/img/JUNE2017/cassoulet_pistou_10.jpg"
 title="White Bean Cassoulet Pistou"
 caption="" %}
+
 
