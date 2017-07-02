@@ -51,3 +51,4 @@ Makes 4-6 medium popsicles
 1. In a small bowl mix the cocoa and oil until smooth and drizzle the pops with it 
 
 1. Sprinkle pops with the almonds nibs and enjoy!! 
+
