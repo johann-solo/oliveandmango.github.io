@@ -67,6 +67,7 @@ caption="" %}
 
 ## Recipe
 Makes 4-6 medium popsicles  
+  
 
 ### Ingredients
 
@@ -99,3 +100,4 @@ img="/img/JUL2017/vegan_mocha_popsicles_8.jpg"
 title="Vegan mocha fudge popsicles"
 caption="" %}
 <br>
+
