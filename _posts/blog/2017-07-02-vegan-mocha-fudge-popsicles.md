@@ -8,7 +8,7 @@ image: JUL2017/vegan_mocha_popsicles_1.jpg
 categories: Blog
 tags: Food
 excerpt: >-
-  <p>Put a spring in your step with these sweet and light popsicle that are sure
+  <p>Put a spring in your step with these sweet and light popsicles that are sure
   to keep you cool on those hot days</p>
 ---
 These icy pops will put a spring in your step or as I like to put it &mdash; pep in your step from the added dose of coffee in them. I literally need coffee and chocolate on a daily basis &mdash; not as much as my 2 litres of water a day but definitely, they tie for second place.  These deliver on both the coffee and chocolate deliciously!
@@ -67,6 +67,7 @@ caption="" %}
 
 ## Recipe
 Makes 4-6 medium popsicles  
+<br>
 
 ### Ingredients
 
