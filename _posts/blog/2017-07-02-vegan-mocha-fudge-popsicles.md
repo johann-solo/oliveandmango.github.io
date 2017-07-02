@@ -11,7 +11,7 @@ excerpt: >-
   <p>Put a spring in your step with these sweet and light popsicle that are sure
   to keep you cool on those hot days</p>
 ---
-These icy pops will put a spring in your step or as I like to put it &mdash; pep in your step from the added dose of coffee in them. I literally need coffee and chocolate on a daily basis &mdash; not as much as my 2 litres of water a day but definitely, they tie for second place.  These deliver on both the coffee and chocolate deliciously!
+These icy pops will put a spring in your step or as I like to put it &mdash; pep in your step from the added dose of coffee in them. I literally need coffee and chocolate on a daily basis &mdash; not as much as my 2 litres of water a day but they tie for second place.  These deliver on both the coffee and chocolate deliciously!
 
 <br>
 {% include image.html
@@ -86,13 +86,13 @@ Makes 4-6 medium popsicles
 * 2 tbsp of cocoa (I used Cocobel)
 * 2 tbsp of extra virgin coconut oil (I used cgaltd)
 * 2 tbsp of chopped almonds
-* 1 tbsp cacao nibs ( I used Eatsoular)
+* 1 tbsp cacao nibs (I used Eatsoular)
 
 ### Directions
 
 1. In a small bowl mix the cocoa and oil until smooth and drizzle the pops with it
 
-1. Sprinkle pops with the almonds nibs and enjoy!!  
+1. Sprinkle pops with the almonds and nibs and enjoy!!  
 
 <br>
 {% include image.html
@@ -100,4 +100,5 @@ img="/img/JUL2017/vegan_mocha_popsicles_8.jpg"
 title="Vegan mocha fudge popsicles"
 caption="" %}
 <br>
+
 
