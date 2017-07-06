@@ -3,11 +3,13 @@ layout: post
 title: Comforting Chicken Vegetable Farro soup
 date: 2017-07-06T07:41:47.081Z
 author: Joanne
-thumbnail:
+thumbnail: /images/uploads/chicken_farro_soup_2.jpg
 image: JUL2017/chicken_farro_soup_1.jpg
 categories: Blog
 tags: Food
-excerpt: <p>Chock-full of fresh herbs, sweet leeks and peas &mdash; a good-for-the-soul kind of soup</p>
+excerpt: >-
+  <p>Chock-full of fresh herbs, sweet leeks and peas &mdash; a good-for-the-soul
+  kind of soup</p>
 ---
 
 So why farro or maybe I should start by talking about what farro actually is because I had a few of you ask me about that.  Farro is a food made up of the grains of certain wheat species &mdash; three in particular: spelt, emmer, and einkorn. It's an ancient grain and said to also be a super food, high in fiber (higher even than rice and quinoa) and an excellent source of protein and also nutritionally dense - with B vitamins, zinc, magnesium and iron.  
@@ -83,3 +85,4 @@ img="/img/JUL2017/chicken_farro_soup_7.jpg"
 title="Chicken Farro Soup"
 caption="" %}
 <br>
+
