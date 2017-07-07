@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watermelon Slushies
+title: Watermelon Slushy Cocktails
 date: 2017-07-07T12:21:26.516Z
 author: Joanne
 thumbnail: /images/uploads/2017_07_07_watermelon_slushie_1.jpg
