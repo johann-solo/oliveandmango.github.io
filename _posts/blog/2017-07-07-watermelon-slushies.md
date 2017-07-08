@@ -24,7 +24,7 @@ You technically do not have to strain the watermelon to separate the pulp from t
 ![Watermelon Slushie](/images/uploads/2017_07_07_watermelon_slushie_4.jpg)  
 <br>
 
-Not a fan of Campari — that is OK. Feel free to sub in white wine or even some prosecco.  I like the Campari because it brings a hint of citrus to it — very subtle and goes well with the lime and watermelon too!  Feel free to experiment with what you add. These slushies are super fun to make and a real hit when served at a BBQ or outdoor event! We loved them and they will be on repeat all year long over here because every day is like summer in Trinidad!  
+Not a fan of Triple Sec — that is OK. Feel free to sub in white wine or even some prosecco.  I like the Triple Sec because it brings a hint of citrus to it — very subtle and goes well with the lime and watermelon too!  Feel free to experiment with what you add. These slushies are super fun to make and a real hit when served at a BBQ or outdoor event! We loved them and they will be on repeat all year long over here because every day is like summer in Trinidad!  
 <br>
 ![Watermelon Slushie](/images/uploads/2017_07_07_watermelon_slushie_5.jpg)  
 <br>
@@ -39,14 +39,14 @@ Makes approx 4 medium sized slushies
 * ½-1 cup water plus more if needed to thin out mixture (p.s my blender is a weakling so its needs a little extra moisture to blend)
 * Juice of two limes
 * 4oz vodka (approx 1oz per drink)
-* 3oz Campari
+* 3oz Triple Sec
 * Extra watermelon slices and lime wedges for garnish
 
 ### Directions
 
 1. Blend your watermelon chunks with water and then strain to remove most if not all the pulp
 2. Pour the liquid remaining into ice cube trays and freeze, should fill approx two trays if not more, and freeze for at least 4 hours or until frozen solid
-3. When ready to make drinks place the watermelon cubes in the blender, pour in the vodka, Campari  and the lime juice and blend adding  a little more water or vodka if required to thin it out to desired texture
+3. When ready to make drinks place the watermelon cubes in the blender, pour in the vodka, Triple Sec  and the lime juice and blend adding  a little more water or vodka if required to thin it out to desired texture
 4. Pour into glasses and ​garnish with watermelon slices and lime wedges and enjoy.  
 <br>
 
