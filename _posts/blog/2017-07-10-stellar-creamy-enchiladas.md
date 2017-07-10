@@ -5,41 +5,48 @@ date: 2017-07-10T11:09:18.654Z
 author: Joanne
 thumbnail: /images/uploads/2017_07_10_ enchiladas_4.jpg
 image: null
-categories: bog
+categories: blog
 tags: food
 excerpt: >-
   The perfect midweek meal. These enchiladas are simple to prepare and easy to
   make ahead of time.</p>
 ---
 I can't even tell you how beloved these enchiladas are in my home! We adore them and my husband always reminds me that we don't make them enough. I have brought them to many potlucks and they are quick to get eaten and the recipe for them is always requested.
-
+<br>
 ![Enchiladas](/images/uploads/2017_07_10_ enchiladas_5.jpg)
+<br>
 
 This is no surprise though. They hit a lot of high points - cheesiness factor, creaminess, they even have some greens in there. Just enough to trick your brain into thinking it's totally fine to eat half the baking dish on your own. True story! The chicken component is optional and you can leave it out if you want them meatless but I love to include it not just for extra flavour but they are so much more filling.  More details about what to add in as a meat replacement below.
-
+<br>
 ![Enchiladas](/images/uploads/2017_07_10_ enchiladas_2.jpg)
+<br>
 
 They are super easy to make — all basic ingredients and believe it or not I can find the canned chillies here all the time. I find that truly suspicious. There are times I can't find Nutella but these little bad boys are always in stock.
-
+<br>
 ![Enchiladas](/images/uploads/2017_07_10_ enchiladas_3.jpg)
+<br>
 
 If you can't get them where you are - have no fear I have an alternative that I have used on other occasions (p.s. I also feel your pain). What I do is I will sub in a few jalapeño peppers or pimentos or any other fresh chilli peppers or I have even used a sweet green pepper. I will chop them up and sauté half of the peppers with the chicken and the other half I will sauté as well until tender and add them to the cream mixture. Definitely not the same as the canned chillies but the dish will still taste wonderful.
-
+<br>
 ![Enchiladas](/images/uploads/2017_07_10_ enchiladas_1.jpg)
+<br>
 
 I don't usually add any onions or garlic to it but if you would like to for extra flavour go ahead and sauté a chopped onion and a couple cloves of garlic with the chicken.
-
+<br>
 ![Enchiladas](/images/uploads/2017_07_10_ enchiladas_6.jpg)
+<br>
 
 I like to serve this up with a simple Salad some extra cheese, in this case, a sprinkle of crumbled homemade queso fresco and some fresh parsley.  This is totally optional but more cheese is just such a no-brainer right?!?! The recipe I used for it is below.
-
+<br>
 ![Enchiladas](/images/uploads/2017_07_10_ enchiladas_7.jpg)
+<br>
 
 I love to make it ahead like the night before if I'm having people over for lunch or dinner and then pop them in the oven just before dinner time. So easy to prep and a great make ahead to keep things simple for when it's just you and your family or if you're having people over for dinner.
 
 A pretty solid recipe that I think you will be making over and over just like us. Enjoy!
-
+<br>
 ![Enchiladas](/images/uploads/2017_07_10_ enchiladas_8.jpg)
+<br>
 
 ### Ingredients
 
@@ -110,7 +117,6 @@ Prep the enchiladas the exact same way only do not sprinkle with the last half c
 
 **Vegetarian option**\
 Omit the chicken altogether and enjoy as is or sub the chicken for sautéed  or  roasted veggies that you can sauté with the taco  mix.  
+<br>
 
 ![Enchiladas](/images/uploads/2017_07_10_ enchiladas_9.jpg)
-
-
