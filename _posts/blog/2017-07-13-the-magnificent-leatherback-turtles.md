@@ -13,11 +13,11 @@ We are not alone. There are giant creatures from another realm that invade our w
 
 > Grand Rivère is the second largest leatherback turtle nesting site in the world
 
-Trinidad and Tobago is one of best places to catch sight of leatherback turtles as large numbers come to lay eggs every year on these shores. One of the best places to see them in either the laying or the hatching stage is in Grand Rivière in the North East part of Trinidad. Other areas such as Matura or Tobago are also viable options but there are advantages to making the journey to the Grand Rivière. There are usually more options for accommodation and Grand Rivière the second largest leatherback turtle nesting site in the world, which makes your chances of success at spotting them greater. During the peak season, you are pretty much guaranteed to see several during the night.
+Trinidad and Tobago is one of best places to catch sight of leatherback turtles as large numbers come to lay eggs every year on these shores. One of the best places to see them in either the laying or the hatching stage is in Grand Rivière in the North East part of Trinidad. Other areas such as Matura or Tobago are also viable options but there are advantages to making the journey to the Grand Rivière. There are usually more options for accommodation and Grand Rivière is the second largest leatherback turtle nesting site in the world, which makes your chances of success at spotting them greater. During the peak season, you are pretty much guaranteed to see several during the night.
 
 ## When to go
 
-The turtle season generally ranges from March to September. This will include the nesting as well as the hatching stages. The earlier months being best for seeing the laying process and the latter better for watching the young trying to make their way into the ocean. To get the best of both try going around June to get a glimpse of both.
+The turtle season generally ranges from **March to September**. This will include the nesting as well as the hatching stages. The earlier months being best for seeing the laying process and the latter better for watching the young trying to make their way into the ocean. To get the best of both try going around June to get a glimpse of both.
 
 ## Where to stay
 
@@ -38,6 +38,7 @@ The tour takes approximately 2 hours to complete and within that time we able to
 Following the direction of the guide you can actually get close and make contact with the mothers as they lay up to a hundred eggs at a time. The leatherback turtles go into a trance-like state when laying and can be safely approched during the process. Up close is where you really get to appreciate their size. It's amazing the think that something so large and lumbering on land can outswim whales and sharks. After the tour concludes you will be taken back towards the centre where the tour starts. However if you are staying at Mt Plaisir Estate Hotel you can simply walk to your room &mdash; another perk of staying there. From our room we could still watch as many more turtles made their way onto land all through the night. Some just a few feet from the hotel. 
 
 Seeing the leatherback turtles in Trinidad and Tobago is a special experience that you would not want to miss. On your next visit why not plan a trip to see them. You won't be disappointed!
+
 
 
 
