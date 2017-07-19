@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Magnificent Leatherback Turtles
-date: 07/19/2017 11:03 AM
+date: 2017-07-19
 author: Johann
 thumbnail: /images/uploads/2017_07_19_leatherbacks_1.jpg
 image: null
@@ -11,7 +11,7 @@ excerpt: >-
   <p>Get up close and personal with the threatened but beautiful leatherback
   turtles in Trinidad and Tobago</p>
 ---
-We are not alone. There are giant creatures from another realm that invade our world. That's how it may feel seeing the mammoth yet shy leatherback turtles emerging onto a beach in the dead of night. These gentle creatures are the largest of all living turtles, and seeing these amazing animals is not something to be missed &mdash; especially if you are a nature lover. 
+We are not alone. There are giant creatures from another realm that invade our world. That's how it may feel seeing the mammoth yet shy leatherback turtles emerging onto a beach in the dead of night. These gentle creatures are the largest of all living turtles, and seeing these amazing animals is not something to be missed &mdash; especially if you are a nature lover.
 
 ![Leatherback turtle](/images/uploads/2017_07_19_leatherbacks_6.jpg)
 
@@ -45,7 +45,7 @@ The tour takes approximately 2 hours to complete and within that time we able to
 
 ![Leatherback Turtle](/images/uploads/2017_07_19_leatherbacks_5.jpg)
 
-Following the direction of the guide, you can actually get close and make contact with the mothers as they lay up to a hundred eggs at a time. The leatherback turtles go into a trance-like state when laying and can be safely approached during the process. Up close is where you really get to appreciate their size. It's amazing to think that something so large and lumbering on land can outswim whales and sharks. After the tour concludes you will be taken back towards the centre where the tour began. However, if you are staying at Mt Plaisir Estate Hotel you can simply walk to your room &mdash; another perk of staying there. From our room, we could still watch as many more turtles made their way onto land all through the night. Some just a few feet from the hotel. 
+Following the direction of the guide, you can actually get close and make contact with the mothers as they lay up to a hundred eggs at a time. The leatherback turtles go into a trance-like state when laying and can be safely approached during the process. Up close is where you really get to appreciate their size. It's amazing to think that something so large and lumbering on land can outswim whales and sharks. After the tour concludes you will be taken back towards the centre where the tour began. However, if you are staying at Mt Plaisir Estate Hotel you can simply walk to your room &mdash; another perk of staying there. From our room, we could still watch as many more turtles made their way onto land all through the night. Some just a few feet from the hotel.
 
 > Grand Rivère is the second largest leatherback turtle nesting site in the world
 
@@ -54,17 +54,3 @@ If you are trying to see the hatchlings, I recommend getting there​ earlier in
 Seeing the leatherback turtles in Trinidad and Tobago is a special experience that you would not want to miss. On your next visit why not plan a trip to see them. You won't be disappointed!
 
 ![Leatherback Turtle](/images/uploads/2017_07_19_leatherbacks_3.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
