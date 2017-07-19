@@ -33,16 +33,14 @@ Since the leatherback turtles are on the threatened species list, human interact
 
 ## On the beach
 
-The tour takes approximately 2 hours to complete and within that time we able to see 12-20 turtles easily at that time. The tour guides are quite knowledgeable about the leatherbacks and provide fascinating details about their physiology, behaviour and habits, even though much of the sea life still remains a mystery to scientists. Following the direction of the guide you can actually get close and make contact with the mothers as they lay up to a hundred eggs at a time. The leatherback turtles go into a trance-like state when laying and can be safely approched at this time.   
+The tour takes approximately 2 hours to complete and within that time we able to see 12-20 turtles easily at that time. The tour guides are quite knowledgeable about the leatherbacks and provide fascinating details about their physiology, behaviour and habits, even though much of the sea life still remains a mystery to scientists. 
+
+Following the direction of the guide you can actually get close and make contact with the mothers as they lay up to a hundred eggs at a time. The leatherback turtles go into a trance-like state when laying and can be safely approched during the process. Up close is where you really get to appreciate their size. It's amazing the think that something so large and lumbering on land can outswim whales and sharks. After the tour concludes you will be taken back towards the centre where the tour starts. However if you are staying at Mt Plaisir Estate Hotel you can simply walk to your room &mdash; another perk of staying there. From our room we could still watch as many more turtles made their way onto land all through the night. Some just a few feet from the hotel. 
+
+Seeing the leatherback turtles in Trinidad and Tobago is a special experience that you would not want to miss. On your next visit why not plan a trip to see them. You won't be disappointed!
 
 
 
-Their tear-dropped shaped body along with large flippers make them perfectly adapted for swimming in the open ocean. 
-
-In spite of the leatherback's great size, they are definitely not at the top of the food chain or the predator chain. In fact, not only do the young have a precarious and grim life prospects (more on that later) but unfortunately the adults have been targets for poachers. As a result, the recorded numbers of nesting females has dropped to almost 20% in the last 30-40 years.
-
-
-Since the trek up 
 
 
 
