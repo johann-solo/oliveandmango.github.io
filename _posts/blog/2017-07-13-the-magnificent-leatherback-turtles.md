@@ -21,9 +21,9 @@ The turtle season generally ranges from March to September. This will include th
 
 ### Where to stay
 
-As mentioned, Grand Rivère is the where I would recommend you make your stay. The turtles only come after dark, so it is better to rent a hotel overnight to avoid the stress driving in the dark. The roads can be narrow and rough, plus it is a 3-hour​ trek from Port of Spain. Save yourself the hassle and check in for a night (you can also go with a tour bus if you want, but that means a round trip of at least 6 hours as they arrive and depart in the evening).
+As mentioned, Grand Rivère is the where I would recommend you make your stay. The turtles only come after dark, so it is better to rent a hotel overnight to avoid the stress that comes with driving in the dark. The roads can be narrow and rough, plus it is a 3-hour​ trek from Port of Spain. Save yourself the hassle and check in for a night (you can also go with a tour bus if you want, but that means a round trip of at least 6 hours as they arrive and depart in the evening).
 
-There are several options in Grand Rivère that range from the upper scale to rust, but when it comes to getting a great experience for seeing the leatherback turtles
+There are several options in Grand Rivère that range from the upper scale to rustic, but when it comes to getting a great experience for seeing the leatherback turtles I really recommend [Mt Plaisir Estate Hotel](http://mtplaisir.com). It's located right on the beach where you can literally see the leatherbacks come ashore from your room or balcony. You can learn more about the hotel from our [review of it](https://www.oliveandmango.com/mtplaisir).
 
 
 Their tear-dropped shaped body along with large flippers make them perfectly adapted for swimming in the open ocean. 
@@ -32,6 +32,7 @@ In spite of the leatherback's great size, they are definitely not at the top of 
 
 
 Since the trek up 
+
 
 
 
