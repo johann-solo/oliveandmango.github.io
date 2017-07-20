@@ -10,7 +10,7 @@ tags: food
 excerpt: <p>Tender saucy shrimp and noodles. The perfect midweek meal which comes together quickly and will satisfy the whole family!</p>
 ---
 
-I'm going to keep this one brief guys.  At least about the recipe itself. It's a great recipe that has a good little kick of heat in it and includes a good amount of veggies.  Totally satisfy and the sauce is absolutely lick the bowl clean good.  
+I'm going to keep this one brief guys.  At least about the recipe itself. It's a great recipe that has a good little kick of heat in it and includes a good amount of veggies.  It's totally satisfying and the sauce is absolutely 'lick the bowl clean' good.  
 <br>
 
 Both my husband and I love soba noodles and this right here is one of our favourite combos. The shrimp is not only tender and dripping of that delicious sauce but it also cooks up really fast meaning this dish comes together really quickly making it perfect for a midweek meal.
@@ -24,7 +24,7 @@ I mentioned already about that kick of heat. To make it kid friendly or wimp fri
 <br>
 <br>
 
-I enjoyed shooting this a lot. Putting together food or smoothie bowls is probably my favourite thing to cook/make, plate, decorate and shoot. The smoothie bowls are trickier because of the chronic heat in this country- but I still have fun making them.
+I enjoyed shooting this a lot. Putting together food or smoothie bowls is probably my favourite thing to cook/make, plate, decorate and shoot. The smoothie bowls are trickier because of the chronic heat in this country but I still have fun making them.
 <br>
 <br>
 ![Maple Ginger Chili Shrimp Soba Bowls](/images/uploads/2017_07_20_maple_ginger_soba_3.jpg)
@@ -49,7 +49,7 @@ Meat is sometimes the hardest thing to photograph but keeping the whole basting 
 <br>
 <br>
 
-A good camera obviously helps but you don't need one to get decent shots. There are tons of bloggers out there that use there cell phones to shoot.  Just try to get clear shots in good lighting and try to make your food look as appealing as possible.  
+A good camera obviously helps but you don't need one to get decent shots. There are tons of bloggers out there that use their cellphones to shoot.  Just try to get clear shots in good lighting and try to make your food look as appealing as possible.  
 <br>
 
 I loved sharing these simple little tips and will share more as I remember and as I learn more.  Hope you enjoyed them and hope they helped.  If you have any to share I would love to hear about them in your comments!!
