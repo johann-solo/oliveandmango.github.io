@@ -1,16 +1,18 @@
 ---
 layout: post
 title: Maple Ginger Chili Shrimp Soba Bowls
-date: 2017-07-20
+date: 2017-07-20T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_07_20_maple_ginger_soba_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: <p>Tender saucy shrimp and noodles. The perfect midweek meal which comes together quickly and will satisfy the whole family!</p>
+excerpt: >-
+  <p>Tender saucy shrimp and noodles. The perfect midweek meal which comes
+  together quickly and will satisfy the whole family!</p>
 ---
 
-I'm going to keep this one brief guys.  At least about the recipe itself. It's a great recipe that has a good little kick of heat in it and includes a good amount of veggies.  Totally satisfy and the sauce is absolutely lick the bowl clean good.  
+I'm going to keep this one brief guys.  At least about the recipe itself. It's a great recipe that has a good little kick of heat in it and includes a good amount of veggies.  Totally satisfying and the sauce is absolutely lick the bowl clean good.  
 <br>
 
 Both my husband and I love soba noodles and this right here is one of our favourite combos. The shrimp is not only tender and dripping of that delicious sauce but it also cooks up really fast meaning this dish comes together really quickly making it perfect for a midweek meal.
@@ -35,7 +37,7 @@ Here's a few things I have learned from others and along the way by trial and er
 <br>
 <br>
 
-Plate your noodles and don't overfill your bowl with them. Then build around your noodles. I put the shrimp on the noodles but I don't baste them with sauce until right before I take my shot and I keep basting them right through the shoot.  I always have a brush and small bowl with a bit of olive oil in it close by when I'm shooting  and I brush what needs to be brushed to keep it looking moist. So I brushed oil on the noodles so they don't look dry and I mist my veggies if needed or baste them with oil or water to keep them from looking dry as well.
+Plate your noodles and don't overfill your bowl with them. Then build around your noodles. I put the shrimp on the noodles but I don't baste them with sauce until right before I take my shot and I keep basting them right through the shoot.  I always have a brush and small bowl with a bit of olive oil in it close by when I'm shooting and I brush what needs to be brushed to keep it looking moist. I brushed oil on the noodles so they don't look dry and I mist my veggies if needed or baste them with oil or water to keep them from looking dry as well.
 <br>
 <br>
 ![Maple Ginger Chili Shrimp Soba Bowls](/images/uploads/2017_07_20_maple_ginger_soba_4.jpg)
@@ -102,9 +104,10 @@ Serves 4
 
 1. Add the shrimp and sauté until they are nice and tender and cooked through - flipping to cook both sides.
 
-1. Once the shrimp is cooked pour in the sauce and heat through. Take of the heat and set aside
+1. Once the shrimp is cooked pour in the sauce and heat through. Take off the heat and set aside
 
 1. Plate noodles and top with shrimp and sauce and garnish with all the veggies and chives and cilantro and a squeeze of lime and enjoy!!
 
 <br>
 ![Maple Ginger Chili Shrimp Soba Bowls](/images/uploads/2017_07_20_maple_ginger_soba_6.jpg)
+
