@@ -36,3 +36,7 @@ Version 1.5.0 (starch)
 JULY 13 2017
 Version 1.5.1 (starch)
 - Netlify CMS Admin React link update
+
+JULY 20 2017
+Version 1.6.0 (starch)
+- Headers for HTTP2 Optimisation
