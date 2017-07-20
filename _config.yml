@@ -38,7 +38,3 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-
-# Header For HTTP2
-include:
-  - _headers
