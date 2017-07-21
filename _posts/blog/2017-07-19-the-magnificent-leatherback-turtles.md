@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Magnificent Leatherback Turtles
-date: 2017-07-20
+date: 2017-07-19
 author: Johann
 thumbnail: /images/uploads/2017_07_19_leatherbacks_1.jpg
 image: null
