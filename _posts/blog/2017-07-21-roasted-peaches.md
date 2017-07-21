@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Vanilla Maple Roasted peaches with Mascarpone
-date: 2017-07-21
+date: 2017-07-21T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_07_21_roasted_peaches_2.jpg
 image: null
 categories: blog
 tags: food
-excerpt: <p>Summer dessert made easy and delicious. A beautiful take on peaches and cream</p>
+excerpt: >-
+  <p>Summer dessert made easy and delicious. A beautiful take on peaches and
+  cream</p>
 ---
 
 Peaches and nectarines are my jam!  I miss Ontario peaches tremendously and this year was the first time in 5 years living in Trinidad that I decided to just get some! I really don't know where they were imported from. Probably somewhere in the US.  They weren't as expensive as I thought they would be but then again, the quality wasn't exactly great either. But they smelled heavenly.  My head was literally in the bag the whole way home from the little market I picked them up from &mdash; breathing them in!
@@ -70,3 +72,4 @@ I think this would be a great anytime dessert but would look kind of special ser
 
 <br>
 ![Roasted Peaches](/images/uploads/2017_07_21_roasted_peaches_6.jpg)
+
