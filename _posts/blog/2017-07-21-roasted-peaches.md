@@ -54,7 +54,7 @@ I think this would be a great anytime dessert but would look kind of special ser
 
 ### Directions
 
-1. Preheat oven to 400 degrees F
+1. Preheat oven to 400 &deg; F
 
 1. Cut peaches in half, remove pit and set aside
 
