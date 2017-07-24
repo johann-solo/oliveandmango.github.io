@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Black-eyed Peas with Greens
-date: 2017-07-24
+date: 2017-07-24T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_07_24_black_eyed_peas_greens_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: <p>A delicious, nourishing and Mediterranean take on a bean salad. Perfect side or a main as I like it &mdash; served either warm or cold</p>
+excerpt: >-
+  <p>A delicious, nourishing and Mediterranean take on a bean salad. Perfect
+  side or a main as I like it &mdash; served either warm or cold</p>
 ---
 
 This dish is probably more Mediterranean than Greek but we Greeks sure love it! Traditionally its made with beet greens or some kind of wild green.  But when all you have is kale you make it with kale, but this would be equally delicious with spinach, Swiss chard  and all sorts of other leafy greens.  You can even use a combo of them in the recipe.
@@ -69,3 +71,4 @@ Drain and rinse and place them in a large saucepan covered with water at least b
 
 <br>
 ![Black-eyed Peas and Greens](/images/uploads/2017_07_24_black_eyed_peas_greens_5.jpg)
+
