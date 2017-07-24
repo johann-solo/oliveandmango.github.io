@@ -31,6 +31,9 @@ Our local dill that we have access to here is not like traditional lemony dill I
 This is a great way to eat your greens and an extra bean salad recipe to have in your arsenal packed with fresh flavors! Hope you enjoy this Mediterranean classic!
 <br>
 <br>
+![Black-eyed Peas and Greens](/images/uploads/2017_07_24_black_eyed_peas_greens_4.jpg)
+<br>
+<br>
 
 ### Ingredients
 
