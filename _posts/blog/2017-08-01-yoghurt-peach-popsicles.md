@@ -55,7 +55,7 @@ Makes at least 6 medium sized popsicles
 * 1-1&frac12; cups of chopped fresh or frozen peaches and a few extra pieces chopped to top yoghurt with
 * 2-3 tbsp of maple syrup or honey or your choice of sweetener plus more if you want them sweeter
 * &frac12; tsp vanilla extract
-* &frac12; cup of granola of your choice (my homemade granola would be perfect with these pops)
+* &frac12; cup of granola of your choice (<span class="highlight">[my homemade granola](https://www.oliveandmango.com/vanilla-almond-granola)</span> would be perfect with these pops)
 <br>
 
 ### Directions
