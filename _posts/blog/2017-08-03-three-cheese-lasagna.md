@@ -24,7 +24,7 @@ It's rich and filling and so full of goodness. There's a lot of hidden veggies i
 <br>
 <br>
 
-Let's start with the ricotta part. Leaving the ricotta plain with just the egg and nutmeg is totally acceptable but I love to add the spinach and mushrooms for a little to veg and also a little extra flavour in it. So it's up to you if you want to add them in or not, but we love the extra veggies in it. You can lose the egg too if you're completely opposed to adding it, but I always find that the egg makes the ricotta layer fluffier and it helps is hold up as a layer.  If you can't get your hands on some ricotta at the grocery store why not try making your own. That's what I do when I'm in jam. Check out the recipe I use for fresh homemade ricotta.
+Let's start with the ricotta part. Leaving the ricotta plain with just the egg and nutmeg is totally acceptable but I love to add the spinach and mushrooms for a little to veg and also a little extra flavour in it. So it's up to you if you want to add them in or not, but we love the extra veggies in it. You can lose the egg too if you're completely opposed to adding it, but I always find that the egg makes the ricotta layer fluffier and it helps is hold up as a layer.
 <br>
 <br>
 ![Three Cheese Lasagna](/images/uploads/2017_08_03_cheese_lasagna_4.jpg)
