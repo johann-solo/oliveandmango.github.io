@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 3 Cheese Loaded Lasagna with Herb and Garlic Cheesy Bread
-date: 2017-08-03
+date: 2017-08-03T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_03_cheese_lasagna_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: <p>The perfect family dinner &mdash; hearty, cheesy and so satisfying!</p>
+excerpt: '<p>The perfect family dinner &mdash; hearty, cheesy and so satisfying!</p>'
 ---
 ​
 Let me start by saying this isn't an authentic Italian lasagna. It's just one that I have been making for years and me and hubby love it and it's my go to recipe that I use whenever I'm making it for a crowd or for company.  I make it a lot and I know it seems like a lot of ingredients and steps but really I have made it so much that I don't even notice, I sort of have a system down when I make it and it doesn't seem like too much effort.  If I'm making it for just us then I will make two and freeze one to have in a pinch at a later day. If I'm tight for time the day I want to make it for company I will make the sauce the night before and refrigerate it until I need it and that saves me a ton of time and then I just have to remember to thaw the frozen spinach. If you don't want to use frozen spinach then definitely use fresh and just chop and sauté it with the mushrooms.
@@ -24,7 +24,7 @@ It's rich and filling and so full of goodness. There's a lot of hidden veggies i
 <br>
 <br>
 
-Let's start with the ricotta part. Leaving the ricotta plain with just the egg and nutmeg is totally acceptable but I love to add the spinach and mushrooms for a little to veg and also a little extra flavour in it. So it's up to you if you want to add them in or not, but we love the extra veggies in it. You can lose the egg too if you're completely opposed to adding it, but I always find that the egg makes the ricotta layer fluffier and it helps is hold up as a layer.  If you can't get your hands on some ricotta at the grocery store why not try making your own. That's what I do when I'm in jam. Check out the recipe I use for fresh homemade ricotta.
+Let's start with the ricotta part. Leaving the ricotta plain with just the egg and nutmeg is totally acceptable but I love to add the spinach and mushrooms for a little to veg and also a little extra flavour in it. So it's up to you if you want to add them in or not, but we love the extra veggies in it. You can lose the egg too if you're completely opposed to adding it, but I always find that the egg makes the ricotta layer fluffier and it helps is hold up as a layer.  If you can't get your hands on some ricotta at the grocery store why not try making your own. That's what I do when I'm in jam.
 <br>
 <br>
 ![Three Cheese Lasagna](/images/uploads/2017_08_03_cheese_lasagna_4.jpg)
@@ -150,3 +150,4 @@ Makes 1 large dish of lasagna or two smaller 8X11 ones
 
 <br>
 ![Three Cheese Lasagna](/images/uploads/2017_08_03_cheese_lasagna_10.jpg)
+
