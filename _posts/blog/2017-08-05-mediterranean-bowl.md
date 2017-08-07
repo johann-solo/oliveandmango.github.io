@@ -35,6 +35,7 @@ I know I may post a lot of treats and some decadent foods and desserts, but that
 * 3 tbsp dill chopped finely
 * 2 sprigs of chive(green onion)
 * 1 large white onion
+* 1-2 cloves of garlic, minced
 * 2-3 cups of spinach chopped (or i also use about halve a bag of frozen)
 * 1 1/2 cups of brown rice
 * 3 cups broth(or water if you don’t have broth on hand)
