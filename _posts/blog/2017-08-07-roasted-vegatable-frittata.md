@@ -1,16 +1,18 @@
 ---
 layout: post
 title: Roasted Vegetable Frittata &mdash; a must  have on your brunch list.
-date: 2017-08-07
+date: 2017-08-07T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_07_vegetable_frittata_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: <p>Creamy, sweet from roasting the veggies and savory with the added cheese and bacon!</p>
+excerpt: >-
+  <p>Creamy, sweet from roasting the veggies and savory with the added cheese
+  and bacon!</p>
 ---
 ​
-I will be keeping this post pretty simple and short folks.  I make this frittata a lot. And for obvious reasons. My love for roasted veggies and how darn delicious it is! It's perfect for brunch and slow holiday or weekend mornings. When I do make it there's usually leftovers when it's just the two of us and I absolutely love having it for dinner too with a glass of white wine and some green!  And it's great on toast the next day  as well slathered with some hot sauce.
+I will be keeping this post pretty simple and short folks.  I make this frittata a lot. And for obvious reasons. My love for roasted veggies and how darn delicious it is! It's perfect for brunch and slow holiday or weekend mornings. When I do make it there's usually leftovers when it's just the two of us and I absolutely love having it for dinner too with a glass of white wine and some greens!  And it's great on toast the next day  as well slathered with some hot sauce.
 <br>
 <br>
 ![Roasted Vegetable Frittata](/images/uploads/2017_08_07_vegetable_frittata_2.jpg)
@@ -24,7 +26,7 @@ If I'm making this for a crowd I will usually do two of them and will prep and r
 <br>
 <br>
 
-I love to see this little frittata puff up out of the oven! It makes me soo giddy, jut like watching a dutch baby rise!! It's short lived but I love it and it definitely has a wow factor if your bringing it too the breakfast table immediately out of the oven. It's a fabulous frittata and hope you give it a try!!
+I love to see this little frittata puff up out of the oven! It makes me soo giddy, just like watching a dutch baby rise!! It's short lived but I love it and it definitely has a wow factor if you're bringing it too the breakfast table immediately out of the oven. It's a fabulous frittata and hope you give it a try!!
 <br>
 <br>
 ![Roasted Vegetable Frittata](/images/uploads/2017_08_07_vegetable_frittata_4.jpg)
@@ -34,6 +36,7 @@ I love to see this little frittata puff up out of the oven! It makes me soo gidd
 Adapted from Ina Garten
 
 ### Ingredients
+
 <br>
 
 **For the roasted Veggies:**
@@ -43,18 +46,18 @@ Adapted from Ina Garten
 * 1 small zucchini washed, ends trimmed and chopped
 * 1 red onion chopped
 * 2 cloves of garlic minced
-* &frac14; cup olive oil plus 1 tbsp extra to fry then bacon with
+* ¼ cup olive oil plus 1 tbsp extra to fry the bacon with
 * Salt and pepper to taste
-<br>
+  <br>
 
 **For the frittata:**
 
 * 12 large eggs
 * 1 cup of half and half or cooking cream
-* &frac14; cup grated Parmesan cheese
+* ¼ cup grated Parmesan cheese
 * 1 tbsp of butter
 * 3 stems of chive or green onions chopped finely
-* &frac12; cup grated white cheddar cheese
+* ½ cup grated white cheddar cheese
 * 1 pkg of bacon approx 8oz chopped
 
 <br>
@@ -64,21 +67,14 @@ Adapted from Ina Garten
 
 ### Directions
 
-1. Preheat oven to 425 &deg; F
-
-1. Toss all the veggies excluding the garlic on a sheet pan with the olive oil and salt and pepper.
-
-1. Roast for 15 minutes then remove and toss the veggies and add the garlic and roast for another 15 minutes or until the veggies are nice and golden brown. Remove from the oven once done and set aside and REDUCE oven temp to 350 &deg; F after the veggies are out of the oven.  
-
-1. In the meantime heat up a medium sized skillet to medium heat and add the chopped bacon and pan-fry until golden and crispy, then remove with slotted spoon and set on plate lined with a paper towel.  Set aside.
-
-1. In a large mixing bowl whisk together the eggs, cream, Parmesan, and the salt and pepper.
-
-1. In a 10 inch oven proof sauté pan, melt the butter on medium-low heat and sauté the chive/green onions for a minute and then add the roasted veggies and bacon and toss well.
-
-1. Pour in the egg mixture and cook for 2 minutes without stirring. Then transfer to oven and bake for 20-30 minutes until frittata is set and puffy. Remove and sprinkle with the cheddar cheese and bake for another 2-3 minutes until cheese is melted. Once cheese is melted I like to turn the oven to broil for a few minutes to get it nice and browned and a little crisp around the edges.
-
-1. Remove and cut into wedges.
+1. Preheat oven to 425 ° F
+2. Toss all the veggies excluding the garlic on a sheet pan with the olive oil and salt and pepper.
+3. Roast for 15 minutes then remove and toss the veggies and add the garlic and roast for another 15 minutes or until the veggies are nice and golden brown. Remove from the oven once done and set aside and REDUCE oven temp to 350 ° F after the veggies are out of the oven.
+4. In the meantime heat up a medium sized skillet to medium, add the remaining 1 tbsp of olive oil and the chopped bacon and pan-fry until golden and crispy, then remove with slotted spoon and set on plate lined with a paper towel.  Set aside.
+5. In a large mixing bowl whisk together the eggs, cream, Parmesan, and the salt and pepper.
+6. In a 10 inch oven proof sauté pan, melt the butter on medium-low heat and sauté the chive/green onions for a minute and then add the roasted veggies and bacon and toss well.
+7. Pour in the egg mixture and cook for 2 minutes without stirring. Then transfer to oven and bake for 20-30 minutes until frittata is set and puffy. Remove and sprinkle with the cheddar cheese and bake for another 2-3 minutes until cheese is melted. Once cheese is melted I like to turn the oven to broil for a few minutes to get it nice and browned and a little crisp around the edges.
+8. Remove and cut into wedges.
 
 <br>
 ![Roasted Vegetable Frittata](/images/uploads/2017_08_07_vegetable_frittata_6.jpg)
