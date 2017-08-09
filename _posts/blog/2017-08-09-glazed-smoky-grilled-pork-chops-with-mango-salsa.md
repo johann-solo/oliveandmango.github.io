@@ -55,3 +55,5 @@ excerpt: Placeholder
 1. Let meat sit in brine for approx 30 minutes
 
 1. Remove meat when ready pat dry and season
+
+
