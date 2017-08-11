@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beef bulgogi &mdash; Korean style beef perfection
-date: 2017-08-10
+date: 2017-08-10T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_10_beef_bulgogi_1.jpg
 image: null
@@ -28,7 +28,7 @@ His recipe for bulgogi really pulled the veil on it and it was no longer mysteri
 <br>
 <br>
 
-I think the grated pear (authentically bocsh pear is used according to my research &mdash; insert nerd emoji) not only gives the meat that unique sweet and 'something else' factor but I feel it has a great deal in the beef caramelizing very nicely little quicker in the pan.  I'm sure the honey has a lot to do with that too but definitely the pear is involved.  I made this twice already and used different veggies.  So feel free to switch things up with maybe some sprouts, mushrooms or whatever you fancy. It's great with sesame noodles too! And my husband and I can literally eat the beef hot out of the pan on its own &mdash; it's just too good!
+I think the grated pear(authentically Bosc pear is used according to my research &mdash; insert nerd emoji) not only gives the meat that unique sweet and 'something else' factor but I feel it plays a big part in the beef caramelizing very nicely and a little quicker in the pan.  I'm sure the honey has a lot to do with that too but definitely the pear is involved.  I made this twice already and used different veggies.  So feel free to switch things up with maybe some sprouts, mushrooms or whatever you fancy. It's great with sesame noodles too! And my husband and I can literally eat the beef hot out of the pan on its own &mdash; it's just too good!
 <br>
 <br>
 ![Beef Bulgogi](/images/uploads/2017_08_10_beef_bulgogi_4.jpg)
@@ -86,3 +86,4 @@ Definitely try this guys! You won't regret it and we have yet to go back to our 
 
 <br>
 ![Beef Bulgogi](/images/uploads/2017_08_10_beef_bulgogi_6.jpg)
+
