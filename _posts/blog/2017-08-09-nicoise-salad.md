@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Classic Niçoise salad &mdash; a little piece of the south of France on a plate
-date: 2017-08-09
+date: 2017-08-09T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_08_nicoise_salad_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: <p>Laid back dinner or lunch that is so easy to put together and absolutely delicious and refreshing!</p>
+excerpt: >-
+  <p>Laid back dinner or lunch that is so easy to put together and absolutely
+  delicious and refreshing!</p>
 ---
 ​
 We were in Paris last September and Im truly missing it and Europe on the whole! I wish I could visit every year but that's not possible so the best way to get my fix is to bring Europe to me by making and enjoying some of the fabulous dishes we enjoyed over seas and bringing them right to our dinner table.
@@ -50,7 +52,7 @@ The dressing varies as well from just olive oil and salt and pepper to a full bl
 <br>
 <br>
 
-One great thing about this salad is that you can make or prep most of it in advance. This is great if your planning a dinner party or having people over for lunch. You can prep things like the vinaigrette and precook the potatoes, eggs and green beans in advance and have it already to toss and arrange before serving.  Simple and sophisticated is how it looks but it's absolutely delicious! Great with some crusty baguette or bread of your choice and a crisp chilled wine. Rosé would be nice but I opted for a white this time.  Here's how to prep it!
+One great thing about this salad is that you can make or prep most of it in advance. This is great if your planning a dinner party or having people over for lunch. You can prep things like the vinaigrette and precook the potatoes, eggs and green beans in advance and have it already to toss and arrange before serving.  Simple and sophisticated is how it looks and it's absolutely delicious! Great with some crusty baguette or bread of your choice and a crisp chilled wine. Rosé would be nice but I opted for a white this time.  Here's how to prep it!
 <br>
 <br>
 ![Nicoise Salad](/images/uploads/2017_08_08_nicoise_salad_8.jpg)
@@ -74,7 +76,7 @@ Serves at least two or more
 
 * 1 cup baby tomatoes sliced in half or regular tomatoes chopped in quarters
 
-* A few forkfuls of marinated red onions (a red onion sliced thinly and packed in olive oil with lots of salt pepper and oregano &mdash; let it marinate for an hour and will last covered and unrefrigerated for up  to two days) optional
+* A few forkfuls of marinated red onions (a red onion sliced thinly and packed in olive oil with lots of salt pepper and oregano &mdash; let it marinate for an hour and will last covered and unrefrigerated for up to two days) optional
 
 * &frac12; cup sliced roasted red peppers packed in oil or brine or you can roast them yourself too and then peel
 
@@ -112,8 +114,9 @@ Serves at least two or more
 
 1. For the dressing combine all the ingredients in a jar and store in the fridge until you need it.
 
-1. Before plating all the items on a platter individually toss each part of the salad with a couple tsps of the dressing and then plate the items, and that way everything is well coated.  You can keep the dressing on the side and drizzle more on as needed.
+1. Before plating all the items on a platter individually toss each part of the salad with a couple tsps of the dressing and then plate the items, and that way everything is well coated.  You can keep the rest of the dressing on the side and drizzle more on as needed.
 
 
 <br>
 ![Nicoise Salad](/images/uploads/2017_08_08_nicoise_salad_9.jpg)
+
