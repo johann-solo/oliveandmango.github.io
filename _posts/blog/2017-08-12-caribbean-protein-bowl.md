@@ -1,7 +1,7 @@
 ---
 layout: post
 title: High Protein Caribbean Bowl
-date: 2017-08-12
+date: 2017-08-12T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_12_caribbean_bowl_1.jpg
 image: null
@@ -10,7 +10,7 @@ tags: food
 excerpt: <p>A protein packed taste of island life</p>
 ---
 ​
-Yes yes yes I know I said not all the bowls I will be making in collaboration with the [@trainingpad](https://www.instagram.com/trainingpad) will be made with grilled chicken. I did not lie I promise. This is the last grilled chicken bowl. The other two will have something other than chicken.  But I had to share this recipe for jerk chicken since I last made it using Dennis Prescott's recipe from Eat Delicious that we did last month for rainy day bites cookbook club. It was fabulous untouched but I wanted to further 'caribbeanise' it or 'Trinify' it. I did and it was fabulous.
+Yes yes yes I know I said not all the bowls I will be making in collaboration with my friends at the [@trainingpad](https://www.instagram.com/trainingpad) will be made with grilled chicken. I did not lie I promise. This is the last grilled chicken bowl. The other two will have something other than chicken.  But I had to share this recipe for jerk chicken since I last made it using Dennis Prescott's recipe from Eat Delicious that we did last month for rainy day bites cookbook club. It was fabulous untouched but I wanted to further 'caribbeanise' it or 'Trinify' it. I did and it was fabulous.
 <br>
 <br>
 ![Caribbean Protein Bowl](/images/uploads/2017_08_12_caribbean_bowl_2.jpg)
@@ -24,21 +24,21 @@ Why did I decide to do that to a perfectly good recipe?  Well I had leftovers th
 <br>
 <br>
 
-So I marinated the chicken in [green seasoning](https://www.oliveandmango.com/green-seasoning), a very typical seasoning that I season all meats with when I'm cooking anything Trini-style. It's absolutely fabulous and if you don't make it fresh just grab an inexpensive bottle of it in the ethnic section of your nearest grocery store like No Frills for my Toronto people. At least that is where I remember them being but things could very well have changed since 5 years ago when I was still living in Canada. It's super simple to make if you don't get the bottled stuff.
+So I marinated the chicken in [green seasoning](https://www.oliveandmango.com/green-seasoning), a very typical seasoning that I season all meats with when I'm cooking anything Trini-style. It's absolutely fabulous and if you don't make it fresh just grab an inexpensive bottle of it in the ethnic section of your nearest grocery store like No Frills for my Toronto people. At least that is where I remember them being but things could very well have changed since 5 years ago when I was still living in Canada. It's super simple to make if you don't get the bottled stuff though.
 <br>
 <br>
 ![Caribbean Protein Bowl](/images/uploads/2017_08_12_caribbean_bowl_4.jpg)
 <br>
 <br>
 
-When I made it for the cook book club it was for a burger as you can see from some pics of the shoot we did for it and it's absolutely delicious in burger form  but I thought it would also be great as a full meal with Caribbean style rice and peas. My take on rice and peas has even more protein (high already from the peas)because I made it with quinoa. My husband said he preferred it over rice so it's a winner over here.  I used pigeon peas in the recipe but you can definitely sub in black beans or red beans too.
+When I made it for the cook book club it was for a burger as you can see from some pics of the shoot we did for it on IG and it's absolutely delicious in burger form  but I thought it would also be great as a full meal with Caribbean style rice and peas. My take on rice and peas has even more protein (high already from the peas)because I made it with quinoa. My husband said he preferred it over rice so it's a winner over here.  I used pigeon peas in the recipe but you can definitely sub in black beans or red beans too.
 <br>
 <br>
 ![Caribbean Protein Bowl](/images/uploads/2017_08_12_caribbean_bowl_5.jpg)
 <br>
 <br>
 
-Pineapple chow or salsa is one of my favourites and thought it would add a bit of natural sweetness to the dish plus it tastes fabulous and you will love it not to mention the vitamin C boost they provide. I added avocado for some good fat and extra nutrients.  Put it all together and you have a bit of a Caribbean dream! Now all you need is the palm trees and sandy beach! Hope you enjoy this bowl of sunshine! It comes together in under 30 minutes and is chalk full of protein and nutrients and also some spice and sweetness!
+Pineapple chow or salsa is one of my favourites and thought it would add a bit of natural sweetness to the dish plus it tastes fabulous and you will love it not to mention the vitamin C boost it provides. I added avocado for some good fat and extra nutrients.  Put it all together and you have a bit of a Caribbean dream! Now all you need is the palm trees and sandy beach! Hope you enjoy this bowl of sunshine! It comes together in under 30 minutes and is chalk full of protein and nutrients and also some spice and sweetness!
 <br>
 <br>
 ![Caribbean Protein Bowl](/images/uploads/2017_08_12_caribbean_bowl_6.jpg)
@@ -86,7 +86,7 @@ Pineapple chow or salsa is one of my favourites and thought it would add a bit o
 
 1. Massage the chicken breasts with the oil green seasoning and marinate for at least one hour but best overnight. Once ready to grill remove chicken from seasoning, and then rub each piece with the dry rub.
 
-1. Heat the grill to medium or pan sear on medium high heat until they are cooked through and  lightly charred on each side. Remove from heat and plate and tent with foil and let them rest for a few minutes and then slice and serve.
+1. Heat the grill to medium or pan sear on medium high heat until they are cooked through and lightly charred on each side. Remove from heat and plate and tent with foil and let them rest for a few minutes and then slice and serve.
 
 
 ## Caribbean style 'rice' and peas using quinoa and pigeon peas
@@ -99,7 +99,7 @@ Pineapple chow or salsa is one of my favourites and thought it would add a bit o
 * 1 clove of garlic minced
 * 2 tbsp of olive oil or coconut oil
 * Salt to taste
-* 3 cups of water (some people also use the liquid from the canned peas but that’s optional)
+* 3 cups of water or broth (some people also use the liquid from the canned peas but that’s optional)
 * 1 can or approx. 1 cup of pigeon peas or beans of choice (must be pre-cooked if using dried peas or beans)  
 
 ### Directions 
@@ -129,3 +129,4 @@ Pineapple chow or salsa is one of my favourites and thought it would add a bit o
 
 <br>
 ![Caribbean Protein Bowl](/images/uploads/2017_08_12_caribbean_bowl_7.jpg)
+
