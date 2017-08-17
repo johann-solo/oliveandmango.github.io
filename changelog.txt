@@ -40,3 +40,7 @@ Version 1.5.1 (starch)
 AUGUST 05 2017
 Version 1.5.2 (starch)
 - Updated admin CSS
+
+AUGUST 17 2017
+Version 1.5.3 (starch)
+- Updated admin CSS
