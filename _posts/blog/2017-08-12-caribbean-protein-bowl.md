@@ -1,7 +1,7 @@
 ---
 layout: post
 title: High Protein Caribbean Bowl
-date: 2017-08-12T00:00:00.000Z
+date: 2017-08-12
 author: Joanne
 thumbnail: /images/uploads/2017_08_12_caribbean_bowl_1.jpg
 image: null
@@ -129,4 +129,3 @@ Pineapple chow or salsa is one of my favourites and thought it would add a bit o
 
 <br>
 ![Caribbean Protein Bowl](/images/uploads/2017_08_12_caribbean_bowl_7.jpg)
-
