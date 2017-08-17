@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pineapple Rum Punch Granita
-date: 2017-08-17
+date: 2017-08-17T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_17_pineapple_granita_1.jpg
 image: null
@@ -69,11 +69,12 @@ Makes an 8x11 sized dish of granita
 
 1. Transfer to bowl and stir in the rest of the ingredients until sugar is dissolved
 
-1. Pour the mixture into and 8x11 dish or pan and put into the freezer for approx 3 hours until almost set BUT whisking mixture every hour.
+1. Pour the mixture into and 8x11 dish or pan and put into the freezer for approx 3 hours until almost set BUT remove from freezer and whisk mixture and put back in the freezer every hour.
 
 1. After 3 hours remove from the freezer and scrape with a fork a few times until the texture is like shave ice or snow cone. Return to freezer and seal off in airtight container for up to 2 weeks
 
-1. Serve garnished wth some more pineapple and a dash of bitters along with a sprinkle of freshly grated nutmeg
+1. Serve garnished with some more pineapple and a dash of bitters along with a sprinkle of freshly grated nutmeg
 
 <br>
 ![Pineapple Rum Granita](/images/uploads/2017_08_17_pineapple_granita_9.jpg)
+
