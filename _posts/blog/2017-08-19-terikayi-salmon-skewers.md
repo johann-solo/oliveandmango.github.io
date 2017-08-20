@@ -7,8 +7,9 @@ thumbnail: /images/uploads/2017_08_19_terikayi_salmon_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: <p>From the salmon to the gluten free noodles, sprouts and snow peas, this is a
-  tasty bowl full of protein and other nutrients</p>
+excerpt: >-
+  <p>From the salmon to the gluten free noodles, sprouts and snow peas, this is
+  a tasty bowl full of protein and other nutrients</p>
 ---
 
 It feels like I haven't blogged in so long but it's only been a few days.  Those few days were packed with so much activity though.  Work has been busy, life has been busy and just about everything else.  Today was a day I was looking forward to for a long time.  My first Saturday morning off in months! I was so excited I could barely sleep and was running on hyper-mode adrenaline all day and a lot of caffeine!  I had a doctors appt first thing but my husband and I decided to use this day to celebrate our anniversary which is actually in a couple of weeks so we decided to go have a nice little breakfast after my appointment and after that, I treated myself to a pedicure.  It's been since about 2014 that I had a pro pedicure and it felt so good I wanted to cry (sleep deprivation has me emotional over everything)! I'm usually way too cheap and too busy to sit for an hour or longer to let someone do what I can do, and do for myself.  That doesn't sound right but I think you get what I mean. My husband insisted though, and I'm super glad he did! My feet look soo pretty!
@@ -72,6 +73,7 @@ Serves 4
 * 3 tbsp rice wine or rice vinegar
 * 1 tbsp of grated Ginger
 * 1 clove of garlic grated
+* Zest and juice of one small lime
 
 ### Directions
 
@@ -106,3 +108,4 @@ Serves 4
 4. Plate and top with sliced scallions and sesame seeds, top with 2 salmon skewers and a handful of sprouts  
 
 ![Terikayi Salmon Skewers](/images/uploads/2017_08_19_terikayi_salmon_11.jpg)
+
