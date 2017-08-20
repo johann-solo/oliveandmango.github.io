@@ -9,7 +9,7 @@ categories: blog
 tags: food
 excerpt: >-
   From the salmon to the gluten free noodles, sprouts and snow peas, this is a
-  tasty bowl full of protein and other nutrients 
+  tasty bowl full of protein and other nutrients
 ---
 ## For the salmon
 Serves 4 
@@ -21,7 +21,7 @@ Serves 4
 
 * 4 boneless skinless salmon fillets sliced or cut in chunks (cut while still slightly frozen or place in the freezer for 10-15 min to freeze the fillets slightly which will make slicing easier) 
 
-* &frac13; cup Tamari or soya sauce 
+* &frac13; cup Tamari or soy sauce 
 
 * &frac14; cup honey 
 
@@ -82,7 +82,8 @@ Serves 4
 
 1. Add the soba noodles and toss while adding in the sauce a tbsp at a time until everything is well coated. Taste and adjust the ​amount of tamari or soy sauce and sesame oil to your liking. 
 
-1. Plate and top with sliced scallions and sesame seeds, top with 2 salmon skewers of and a portion of sprouts 
+1. Plate and top with sliced scallions and sesame seeds, top with 2 salmon skewers and a handful of sprouts 
+
 
 
 
