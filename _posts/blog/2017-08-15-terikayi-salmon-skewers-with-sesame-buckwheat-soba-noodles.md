@@ -103,9 +103,11 @@ Serves 4
 1. In a small bowl combine and whisk together the sesame oil, honey, tamari or soy sauce, and rice vinegar and set aside
 2. In a large-sized​ skillet or wok heat the olive oil to a medium heat and stir fry the onion, garlic, Ginger, carrots, peppers and snow peas for approx 4 minutes
 3. Add the soba noodles and toss while adding in the sauce a tbsp at a time until everything is well coated. Taste and adjust the ​amount of tamari or soy sauce and sesame oil to your liking.
-4. Plate and top with sliced scallions and sesame seeds, top with 2 salmon skewers and a handful of sprouts
+4. Plate and top with sliced scallions and sesame seeds, top with 2 salmon skewers and a handful of sprouts  
+
 <br>
 <br>
 ![Terikayi Salmon Skewers](/images/uploads/2017_08_19_terikayi_salmon_11.jpg)
+
 
 
