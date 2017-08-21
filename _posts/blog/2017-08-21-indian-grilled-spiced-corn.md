@@ -1,17 +1,16 @@
 ---
 layout: post
 title: Indian Grilled Spiced Corn (Street Style Bhutta Masala Corn)
-date: 2017-08-15T19:56:29.282Z
+date: 2017-08-21
 author: Joanne
 thumbnail: /images/uploads/2017_08_21_indian_grilled_spiced_corn_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: >-
-  Otherwise know as street style Bhutta masala corn &mdash; a great alternative
-  flavour to spice up your grilled corn
+excerpt: <p>Otherwise know as street style Bhutta masala corn &mdash; a great alternative
+  flavour to spice up your grilled corn<p>
 ---
-When it comes to grilled corn I love all ways of preparing it. From a simple smear of butter and sprinkle of salt to Mexican style grilled corn with lots of yummy cheese and a creamy herby sauce. This recipe is an alternative way to have your grilled corn.  
+When it comes to grilled corn I love all ways of preparing it. From a simple smear of butter and sprinkle of salt to Mexican style grilled corn with lots of yummy cheese and a creamy herby sauce. This recipe is an alternative way to have your grilled corn.
 <br>
 <br>
 ![Indian Grilled Spiced Corn](/images/uploads/2017_08_21_indian_grilled_spiced_corn_2.jpg)
@@ -57,7 +56,7 @@ In the meantime, we were quite happy and able to reminisce about little India as
 * 6-8 cobs of corn
 * 1 tbsp Ground Cumin
 * 1 tbsp paprika
-* ½ Tsp chili​ powder/ cayenne
+* ½ Tsp chili​ powder/cayenne
 * 1 tbsp garam masala
 * 1½ Tsp salt
 * 1 lime cut in wedges
@@ -72,7 +71,6 @@ In the meantime, we were quite happy and able to reminisce about little India as
 4. Grill your corn turning it occasional until is nicely charred and cooked
 5. Remove from grill when done and rub corn with the lime wedges hard enough to squeeze the juice out of the limes as you rub
 6. Then brush your corn very generously with the butter or ghee and sprinkle then with the salt.
-7. Liberally sprinkle the spice blend over the corn finishing them off with a little more lime juice squeezed over them and a sprinkle of chopped cilantro/chadon beni. 
+7. Liberally sprinkle the spice blend over the corn finishing them off with a little more lime juice squeezed over them and a sprinkle of chopped cilantro/chadon beni.
 
 ![Indian Grilled Spiced Corn](/images/uploads/2017_08_21_indian_grilled_spiced_corn_9.jpg)
-
