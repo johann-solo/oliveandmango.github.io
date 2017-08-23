@@ -23,7 +23,7 @@ I kind of wish there were 5 extra hours in a day. That way I could sleep for one
 <br>
 <br>
 
-But what you will know if you make this cheesecake is just how good it is!  I love cheesecake but in moderation. I like small junior sized pieces because cheesecake is usually a rich and decadent dessert perfect for sharing. That's my take on it but not everyone feels that way about cheesecake, like my husband for example.  
+But what you will know if you make this cheesecake is just how good it is! I love cheesecake but in moderation. I like small junior sized pieces because cheesecake is usually a rich and decadent dessert perfect for sharing. That's my take on it but not everyone feels that way about cheesecake, like my husband for example.  
 <br>
 <br>
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_4.JPG)
