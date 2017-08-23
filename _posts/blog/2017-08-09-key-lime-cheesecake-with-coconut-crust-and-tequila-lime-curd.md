@@ -17,7 +17,7 @@ excerpt: Placeholder
 
 * &frac14; cup melted butter plus more if needed for mixture to be moistened 
 
-* &frac12; cup sweetened flaked coconut 
+* &frac12; cup sweetened flaked/shredded coconut 
 
 * 1 tsp pure coconut extract 
 
@@ -54,7 +54,7 @@ excerpt: Placeholder
 4. Blend in the eggs, one at a time, beating the batter well after each one. 
 5. Blend in heavy cream, lime zest and lime juice. At this point mix the filling only until completely blended. Be careful not to overmix the batter. 
 6. Gently spoon the cheese filling on top of the baked crust layer. 
-7. Place the springform pan in a large shallow pan containing hot water that comes about 1 inch up the side of the pan. 
+7. Place the springform pan in a large shallow pan containing hot water that comes about 1 inch up the side of the pan - water bath is optional but helps prevent cheesecake from cracking(make sure you wrap your pan tight with a few layers of foil to prevent water from seeping through). 
 8. Bake the cheesecake until the centre barely jiggles when you shake the pan, about 1 hour. 
 9. Cool the cake on a wire rack for 1 hour. 
 10. Then cover the cake with plastic wrap and refrigerate until it’s completely cold, at least 4 hours or overnight. 
@@ -91,7 +91,7 @@ excerpt: Placeholder
 
 1. Press plastic wrap directly on the surface of the curd to prevent skin from forming and refrigerate until needed. 
 
-1. Once the cheese cake is completely​ cool as well as the lime curd.  Spread the lime curd over the cheesecake and let is set go 10-20 minutes. 
+1. Once the cheese cake is completely​ cool as well as the lime curd.  Spread the lime curd over the cheesecake and let is set for 10-20 minutes. 
 
 
 **For the topping**
@@ -102,9 +102,10 @@ excerpt: Placeholder
 
 ### Directions 
 
-1. Place all ingredients In a large mixing bowl and Mix all ingredients with a mixer until light and fluffy 
+1. Place all ingredients in a large mixing bowl and mix all ingredients with a mixer until light and fluffy 
 
 1. Top cheesecake and curd with whipping cream and decorate with slice of lime or lime zest 
+
 
 
 
