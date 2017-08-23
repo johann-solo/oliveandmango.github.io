@@ -37,7 +37,7 @@ I literally only make cheesecake when we are having a big group over. I do this 
 <br>
 <br>
 
-Anyways where I'm getting at with all that is, I can only have a bite or two and I'm done-too rich after that.  Well folks not with this one, as soon as the shoot was over I had to taste it, as with all the food I shoot.
+Anyways where I'm getting at with all that is, I can only have a bite or two and I'm done-too rich after that. Well folks not with this one, as soon as the shoot was over I had to taste it, as with all the food I shoot.
 <br>
 <br>
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_6.JPG)
@@ -58,7 +58,7 @@ It's still rich and decadent but the lime in the cake and curd really brighten i
 <br>
 <br>
 
-The unsweetened whip cream on top really lightens it up and is a perfect balance to the sweetness of the cake.  The crust is made with graham crackers and shredded coconut and just the right amount of coconutty flavour adding another layer of goodness to the cake. 
+The unsweetened whip cream on top really lightens it up and is a perfect balance to the sweetness of the cake.  The crust is made with graham crackers and shredded coconut and just the right amount of coconutty flavour adding another layer of goodness to the cake.
 <br>
 <br>
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_9.JPG)
