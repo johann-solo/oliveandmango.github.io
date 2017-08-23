@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'Key Lime Cheesecake With Coconut Crust And Tequila Lime Curd '
-date: 2017-08-23T09:54:10-04:00
+date: 2017-08-23
 author: Joanne
 thumbnail: /images/uploads/2017_08_23_key_lime_cheesecake_1.JPG
 image: null
 categories: Blog
 tags: Food
-excerpt: 'A zesty, fresh cheesecake that is guaranteed to brighten your day'
+excerpt: <p>A zesty, fresh cheesecake that is guaranteed to brighten your day</p>
 ---
-Any procrastinators out there? Well, I'm having one of those procrastinating kind of evenings! I have so so so many things to do and yet I just want to sit and drink tea and scroll through my friend's posts on Instagram. 
+Any procrastinators out there? Well, I'm having one of those procrastinating kind of evenings! I have so so so many things to do and yet I just want to sit and drink tea and scroll through my friend's posts on Instagram.
 <br>
 <br>
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_2.JPG)
 <br>
 <br>
 
-I kind of wish there were 5 extra hours in a day. That way I could sleep for one extra hour or maybe two, have more time with friends and family and have more time to cook and bake beautiful things like this crazy good cheesecake!! We all know that would not happen if we had five extra hours in a day! Somehow we would end up working more and wasting more time! Guess we will never know. 
+I kind of wish there were 5 extra hours in a day. That way I could sleep for one extra hour or maybe two, have more time with friends and family and have more time to cook and bake beautiful things like this crazy good cheesecake!! We all know that would not happen if we had five extra hours in a day! Somehow we would end up working more and wasting more time! Guess we will never know.
 <br>
 <br>
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_3.JPG)
@@ -30,21 +30,21 @@ But what you will know if you make this cheesecake is just how good it is!  I lo
 <br>
 <br>
 
-I literally only make cheesecake when we are having a big group over. I do this purposely because if I make it just for us, my husband eats the entire cheesecake, spread over a week but still, a whole cheesecake! 
+I literally only make cheesecake when we are having a big group over. I do this purposely because if I make it just for us, my husband eats the entire cheesecake, spread over a week but still, a whole cheesecake!
 <br>
 <br>
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_5.JPG)
 <br>
 <br>
 
-Anyways where I'm getting at with all that is, I can only have a bite or two and I'm done-too rich after that.  Well folks not with this one, as soon as the shoot was over I had to taste it, as with all the food I shoot. 
+Anyways where I'm getting at with all that is, I can only have a bite or two and I'm done-too rich after that.  Well folks not with this one, as soon as the shoot was over I had to taste it, as with all the food I shoot.
 <br>
 <br>
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_6.JPG)
 <br>
 <br>
 
-That actually annoys my husband so much. He is always telling me,' Why don't we clean up and then eat?' And I reply 'impossible!' And carry on eating. I couldn't stop at one bite of this cheesecake and neither could he. There were no words about cleaning up. We sat quietly enjoying 1 and then for some of us 2 pieces of this cake. 
+That actually annoys my husband so much. He is always telling me,' Why don't we clean up and then eat?' And I reply 'impossible!' And carry on eating. I couldn't stop at one bite of this cheesecake and neither could he. There were no words about cleaning up. We sat quietly enjoying 1 and then for some of us 2 pieces of this cake.
 <br>
 <br>
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_7.JPG)
@@ -65,7 +65,7 @@ The unsweetened whip cream on top really lightens it up and is a perfect balance
 <br>
 <br>
 
-I think I have said enough about it and shared enough boring interactions between me and the hubby!  There is soo much yumminess in this cheesecake and I hope you give it a whirl! You won't be disappointed. Not a fan of citrus cheesecakes? Hmm, that's what I thought but apparently, I am. So no excuses - give it a try and you will see! 
+I think I have said enough about it and shared enough boring interactions between me and the hubby!  There is soo much yumminess in this cheesecake and I hope you give it a whirl! You won't be disappointed. Not a fan of citrus cheesecakes? Hmm, that's what I thought but apparently, I am. So no excuses - give it a try and you will see!
 <br>
 <br>
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_10.JPG)
@@ -144,6 +144,3 @@ I think I have said enough about it and shared enough boring interactions betwee
 2. Top cheesecake and curd with whipping cream and decorate with slice of lime or lime zest
 
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_11.JPG)
-
-
-
