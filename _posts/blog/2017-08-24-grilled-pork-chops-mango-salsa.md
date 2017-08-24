@@ -23,29 +23,41 @@ I strongly recommend brining your pork chops. It's totally essential and if you 
 ![Pork Chops](/images/uploads/2017_08_24_pork_chops_mango_salsa_3.JPG)
 <br>
 <br>
+![Mango Salsa](/images/uploads/2017_08_24_pork_chops_mango_salsa_4.JPG)
+<br>
+<br>
 
 The brine really helps the meat retain its moisture while it's being cooked. You can add all sorts of aromatics to the brine like peppercorns and herbs but the most basic ingredients are like I said, salt and water. It's a simple step that is just too easy not to include and you won't go back I promise.
+<br>
+<br>
+![Mango Salsa](/images/uploads/2017_08_24_pork_chops_mango_salsa_4_2.JPG)
+<br>
+<br>
 
 > The BBQ sauce adds a beautiful sweetness and the adobo brings the heat and smokiness but it is so much more complex than that
 
 The sauce which includes adobo sauce in it is fabulous! You can adjust the heat by adding a little adobo at a time from the tablespoon and a half that I have in the recipe.  That way you don't make it too hot and then can't enjoy your chops. We like a little heat so we always do the full tbsp and a half. Have no fear you can always add more BBQ sauce to the mix if you find it too hot. The BBQ sauce adds a beautiful sweetness and the adobo brings the heat and smokiness but it is so much more complex than that.  Smokiness is the best way to describe it. It has a lot of oomph behind it &ndash; not just heat wise but flavour wise too.
 <br>
 <br>
-![Mango Salsa](/images/uploads/2017_08_24_pork_chops_mango_salsa_4.JPG)
+![Mango Salsa](/images/uploads/2017_08_24_pork_chops_mango_salsa_5.JPG)
+<br>
+<br>
+![Mango Salsa](/images/uploads/2017_08_24_pork_chops_mango_salsa_6.JPG)
 <br>
 <br>
 
 Like I said you can spice up your brine with aromatics but I like to keep the spice rub after brining very simple. It's my basic spice rub that I use for all meat if I'm not using a marinade. You can use <span class="highlight">[green seasoning](https://www.oliveandmango.com/green-seasoning)</span> as well cause I know my fellow Trini's have a hard time parting with it, but I think green seasoning kind of jacks up the flavours too much in this recipe. You want to taste the smokiness and the meat as opposed to tons of other seasonings.  I prefer to keep this one simple with a classic salt, pepper, garlic and onion powder but you could also use an all purpose powdered seasoning too for the rub. Your choice!
 <br>
 <br>
-![Mango Salsa](/images/uploads/2017_08_24_pork_chops_mango_salsa_5.JPG)
+![Mango Salsa](/images/uploads/2017_08_24_pork_chops_mango_salsa_5_0.JPG)
 <br>
 <br>
+
 
 What better way to pair the smoky spicy flavours of these fabulous glazed pork chops than with a sweet and tangy mango salsa! It's perfect  beside or on top of the pork chops and I can actually eat it just on its own it's so good. It's super delicious and super easy to make! We loved this meal! It satisfied every one of our taste buds and and know it will yours too! Hope you enjoy it.
 <br>
 <br>
-![Mango Salsa](/images/uploads/2017_08_24_pork_chops_mango_salsa_6.JPG)
+![Mango Salsa](/images/uploads/2017_08_24_pork_chops_mango_salsa_5_1.JPG)
 <br>
 <br>
 
