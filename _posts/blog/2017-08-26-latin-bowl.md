@@ -32,17 +32,17 @@ It does takes a little time to prep everything but each component is pretty basi
 Another great thing about these recipes is that they are all vegetarian and vegan.  More and more people are refraining from meat these days for health and moral reasons and this is a great option if you are too. They pack plenty of protein and nutrients from the black beans to the salsa. They are also filling and absolutely fabulous and you will not miss the meat at all.
 <br>
 <br>
-![Vegan Fiesta Bowl](/images/uploads/2017_08_26_fiesta_bowl_5.JPG)
-<br>
-<br>
 ![Vegan Fiesta Bowl](/images/uploads/2017_08_26_fiesta_bowl_6.JPG)
+<br>
+<br>
+![Vegan Fiesta Bowl](/images/uploads/2017_08_26_fiesta_bowl_7.JPG)
 <br>
 <br>
 
 It's been so fun coming up with these 4 simple recipes that can be made quickly, are nutrient dense and also full of flavour. Meal prep never has to be boring and repetitive. There are so many awesome options out there and so many ethnic flavours to try. So i hope this along with the three others, give you guys some meal prep inspiration! To give you some more health and fitness inspiration make sure to follow along the @trainingpad. They always have some great food and nutrition tips and alternatives as well as some great recipes and of course some awesome workout tips and motivation! If you live in the Toronto area you must check out their studio!
 <br>
 <br>
-![Vegan Fiesta Bowl](/images/uploads/2017_08_26_fiesta_bowl_7.JPG)
+![Vegan Fiesta Bowl](/images/uploads/2017_08_26_fiesta_bowl_5.JPG)
 <br>
 <br>
 ![Vegan Fiesta Bowl](/images/uploads/2017_08_26_fiesta_bowl_8.JPG)
@@ -183,7 +183,6 @@ Hope you enjoy these recipes as much as we did!! Let me know if you try any of t
 ### Directions
 
 * In a large bowl toss all the ingredients together until well incorporated and serve
- 
+
 
 ![Vegan Fiesta Bowl](/images/uploads/2017_08_26_fiesta_bowl_13.JPG)
-
