@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Vegan And Vegetarian Fiesta Bowl
-date: 2017-08-26
+date: 2017-08-26T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_26_fiesta_bowl_1.JPG
 image: null
 categories: Blog
 tags: Food
-excerpt: <p>Fabulous Latin American flavours that with keep you full and satisfied and counting gains</p>
+excerpt: >-
+  <p>Fabulous Latin American flavours that with keep you full and satisfied and
+  counting gains</p>
 ---
 
 This is by far my favourite of the four recipes I did in collaboration with the @trainingpad! Don't get me wrong I loved them all but I have a special sort of love for Latin flavours and this meal really delivers in that department. Those flavours (plural cause Latin flavours include many) are probably on my list of top three fav flavours ever and can't get enough. If you are the same make sure to make a double batch of each recipe because you will love each component. If not-  what is wrong with you? Joking- but this meal may make you a convert!
@@ -47,7 +49,7 @@ It's been so fun coming up with these 4 simple recipes that can be made quickly,
 <br>
 <br>
 
-Hope you enjoy these recipes as much as we did!! Let me know if you try any of them and definitely let me know if you make any of them differently and why you prefer them that way. I love learning how people do things! It's helps me grow in knowledge of other cultures and ways of preparing food.  So don't hold back!!
+Hope you enjoy these recipes as much as we did!! Let me know if you try any of them and definitely let me know if you make any of them differently and why you prefer them that way. I love learning how people do things! It helps me grow in knowledge of other cultures and ways of preparing food.  So don't hold back!!
 <br>
 <br>
 
@@ -184,3 +186,4 @@ Hope you enjoy these recipes as much as we did!! Let me know if you try any of t
  
 
 ![Vegan Fiesta Bowl](/images/uploads/2017_08_26_fiesta_bowl_13.JPG)
+
