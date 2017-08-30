@@ -9,14 +9,14 @@ categories: blog
 tags: food
 excerpt: 'A great way to eat your salad and a perfect side for anything grilled '
 ---
-Hope the grills are still hot you guys cause this grilled romaine lettuce is just the change you want in a salad. Still on the crisp side but with a brilliant smokiness. The dressing gives it a lovely little fresh zing and it's also the easiest thing to make on the grill!
+Hope the grills are still hot you guys cause this grilled romaine lettuce is just the change you want in a salad. Still on the crisp side but with a brilliant smokiness. The dressing gives it a lovely little fresh zing and it's also the easiest thing to make on the grill!  
 <br>
 <br>
 ![Grilled Romaine Lettuce](/images/uploads/2017_08_30_grilled_romaine_lettuce2.jpg)
 <br>
 <br>
 
-The best part of it is that I used locally grown romaine lettuce. The variety I found is slightly more delicate than the usual romaine you get at the grocery store so it didn't stand up as well to the heat but that didn't change the taste of it and it still had some crunch. 
+The best part of it is that I used locally grown romaine lettuce. The variety I found is slightly more delicate than the usual romaine you get at the grocery store so it didn't stand up as well to the heat but that didn't change the taste of it and it still had some crunch.  
 <br>
 <br>
 ![Grilled Romaine Lettuce](/images/uploads/2017_08_30_grilled_romaine_lettuce3.jpg)
@@ -75,5 +75,6 @@ About this dressing. You can also whizz up all the Ingredients for it in a food 
 ![Grilled Romaine Lettuce](/images/uploads/2017_08_30_grilled_romaine_lettuce7.jpg)
 <br>
 <br>
+
 
 
