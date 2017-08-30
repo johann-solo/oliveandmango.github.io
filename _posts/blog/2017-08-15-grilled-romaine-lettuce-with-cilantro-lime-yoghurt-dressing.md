@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grilled Romaine Lettuce With Cilantro Lime Yoghurt Dressing
-date: 2017-08-29T16:05:49-04:00
+date: 2017-08-29T20:05:49.000Z
 author: Joanne
 thumbnail: /images/uploads/joanne-sunset.jpg
 image: null
@@ -16,7 +16,7 @@ Hope the grills are still hot you guys cause this grilled romaine lettuce is jus
 <br>
 <br>
 
-The best part of it is that I used locally brown romaine lettuce. The variety I found is slightly more delicate than the usual romaine you get at the grocery store so it didn't stand up as well to the heat but that didn't change the taste of it and it still had some crunch. 
+The best part of it is that I used locally grown romaine lettuce. The variety I found is slightly more delicate than the usual romaine you get at the grocery store so it didn't stand up as well to the heat but that didn't change the taste of it and it still had some crunch. 
 <br>
 <br>
 
@@ -37,7 +37,7 @@ This recipe is perfect with any kind of romaine lettuce and I hope you give it a
 <br>
 <br>
 
-About this dressing. You can also whizz up all the Ingredients for it in a food processor or blender for a greener dressing but I left it as is and both ways would be perfectly delicious! Hope you enjoy this simple way of prepping salad! The perfect side to all your grilled goodies! 
+About this dressing. You can also whizz up all the Ingredients for it in a food processor or blender for a greener dressing but I left it as is and both ways would be perfectly delicious! I also charred my limes a bit on the grill which also gives them a hint of smokiness too. Hope you enjoy this simple way of prepping salad! The perfect side to all your grilled goodies! 
 <br>
 <br>
 
@@ -63,15 +63,16 @@ About this dressing. You can also whizz up all the Ingredients for it in a food 
 
 ### Directions
 
-1. Combine all the ingredients for the dressing and set aside as is but if you would like a more green dressing then process all the ingredients in a food processor or intensify the colour and flavour of the cilantro
+1. Combine all the ingredients for the dressing and set aside as is but if you would like a more green dressing then process all the ingredients in a food processor to intensify the colour and flavour of the cilantro
 2. Heat up your grill to medium/high
 3. Cut the romaine hearts in half if they are large or leave as is if they are small and on the thinner side
 4. Drizzle the romaine with olive oil and grill cut side down for about 5 minutes or so until the edges are wilted and charred
 5. Grill the lime cut side down as well for a few minutes to give it a smoky flavour.
-6. Plate the romaine, squeeze ​juice from the grilled limes and sprinkle with salt and pepper and serve with the cilantro like dressing
+6. Plate the romaine, squeeze ​juice from the grilled limes and sprinkle with salt and pepper and serve with the cilantro lime dressing
 
 <br>
 <br>
 
 <br>
 <br>
+
