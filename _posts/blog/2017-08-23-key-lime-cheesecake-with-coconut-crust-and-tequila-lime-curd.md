@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Key Lime Cheesecake With Coconut Crust And Tequila Lime Curd '
-date: 2017-08-23T08:00:00-04:00
+date: 2017-08-23T12:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_23_key_lime_cheesecake_1.JPG
 image: null
@@ -81,7 +81,7 @@ I think I have said enough about it and shared enough boring interactions betwee
 * ½ cup sweetened flaked/shredded coconut
 * 1 tsp pure coconut extract
 * 1 pinch of salt
-* Preheat oven to 350 &deg F
+* Preheat oven to 350 &deg; F
 * Combine all ingredients in a bowl and stir until crumbs are moistened and can hold together if pressed into side of bowl
 * Transfer mixture to your springform pan and press evenly across the bottom of the pan
 * Bake for 10-15 minutes until golden
@@ -144,5 +144,6 @@ I think I have said enough about it and shared enough boring interactions betwee
 2. Top cheesecake and curd with whipping cream and decorate with slice of lime or lime zest
 
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_11.JPG)
+
 
 
