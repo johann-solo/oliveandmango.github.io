@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Mango Ginger Galette
-date: 2017-09-04
+date: 2017-09-04T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_09_04_mango_ginger_galette_1.jpg
-image: null
 categories: blog
 tags: food
-excerpt: '<p>The perfect and most delicious way to use up all your ripe and half ripe mangoes</p> '
+excerpt: >-
+  <p>The perfect and most delicious way to use up all your ripe and half ripe
+  mangoes</p> 
 ---
 
 It's been mango madness over here because both me and my husband love mangoes and we are now at the tail end of mango season.  We are super fortunate to have family with a mango tree so when it's the season there is an abundance. I love to eat them just as they are and I also like to add them to my oats or over yoghurt. When I have a lot of ripe ones at one given time I remove all the pulp from them and freeze them and add them to smoothies.
@@ -45,7 +46,7 @@ Liquid is needed for the dough to form into a ball. When liquids are added to th
 <br>
 <br>
 
-So there you have it, there's a good reason to add booze to your dough! For those who are worried about the alcohol instilling too much flavour into the crust - have no fear, you barely notice it's there. If you still have your concerns than stick to adding the vodka which almost leaves little no trace after it's been baked.
+So there you have it, there's a good reason to add booze to your dough! For those who are worried about the alcohol instilling too much flavour into the crust - have no fear, you barely notice it's there. If you still have your concerns than stick to adding the vodka which almost leaves little to no trace after it's been baked.
 <br>
 <br>
 ![Mango Ginger Galette](/images/uploads/2017_09_04_mango_ginger_galette_7.jpg)
@@ -70,7 +71,7 @@ This recipe is fabulously easy and that is saying a lot coming from me! I'm goin
 * 1 tbsp granulated sugar
 * Zest of 1 lime
 * &frac14; tsp of salt
-* 3 tbsp of chilled Rum (I used dark)
+* 3 to 4tbsp of chilled Rum (I used dark)
 * 1 stick of butter (frozen for approx an hour)
 
 ## Mango Ginger filling
@@ -83,7 +84,7 @@ This recipe is fabulously easy and that is saying a lot coming from me! I'm goin
 * Zest of 2 small limes or one medium to large
 * 1 tsp pure vanilla extract
 * 1 egg
-* 1 tsp brown sugar
+* 1 tbsp brown sugar
 
 <br>
 ![Mango Ginger Galette](/images/uploads/2017_09_04_mango_ginger_galette_10.jpg)
@@ -113,3 +114,4 @@ smoother transition.
 
 <br>
 ![Mango Ginger Galette](/images/uploads/2017_09_04_mango_ginger_galette_11.jpg)
+
