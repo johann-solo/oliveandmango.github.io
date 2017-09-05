@@ -44,3 +44,7 @@ Version 1.5.2 (starch)
 AUGUST 17 2017
 Version 1.5.3 (starch)
 - Updated admin CSS
+
+SEPTEMBER 04 2017
+Version 1.5.4 (starch)
+- Updated custom email
