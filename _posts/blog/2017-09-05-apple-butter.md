@@ -50,6 +50,7 @@ I also made a spice cake with it (sharing that soon too) and you can definitely 
 <br>
 
 ### Ingredients
+Yields approx 1 to 1&frac12; cups of apple butter
 
 * 2-2&frac12; lbs apples (approx 8-10 small apples)
 * &frac12; cup Apple cider vinegar
@@ -79,4 +80,3 @@ I also made a spice cake with it (sharing that soon too) and you can definitely 
 
 <br>
 ![Apple Butter](/images/uploads/2017_09_05_apple_butter_9.jpg)
-
