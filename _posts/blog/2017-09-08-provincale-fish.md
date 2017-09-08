@@ -51,7 +51,7 @@ I will definitely be purchasing this fish if they do decide to stock it at Fresh
 
 1. Transfer to baking sheet and roast fish until it's done and opaque in the centre.  (This took approx 30-40 minutes with this size fish)
 
-1. Transfer fish to platter, tent with foil  for a few minutes while you make the Provençal sauce.  
+1. Transfer fish to platter, tent with foil  for a few minutes while you make the Provençale sauce.  
 
 ## For the sauce
 
