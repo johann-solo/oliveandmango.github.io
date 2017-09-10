@@ -20,11 +20,25 @@ I'm actually very excited to share this bowl with you guys. I have 3 more in sto
 
 > These types of meals really fuel our bodies to take on the day
 
-I know I may post a lot of treats and some decadent foods and desserts, but that is not how I eat everyday. My everyday meals look more like this bowl, including lots of oats, protein smoothies, and tons of greens.  The other stuff is 15-20 percent of my diet or less some weeks. It's important to make good food choices but also to maintain a balance. These types of meals really fuel our bodies to take on the day and to stay satiated longer and they also taste darn good! Definitely stay tuned for the next three coming each Sunday for the rest of the August.  
+I know I may post a lot of treats and some decadent foods and desserts, but that is not how I eat everyday. My everyday meals look more like this bowl, including lots of oats, protein smoothies, and tons of greens.  The other stuff is 15-20 percent of my diet or less some weeks. It's important to make good food choices but also to maintain a balance. These types of meals really fuel our bodies to take on the day and to stay satiated longer and they also taste darn good! Definitely stay tuned for the next three coming each Sunday for the rest of the August.
+​<br>
+​<br>
+
+Here are the links to the other bowls:
+​<br>  
+
+* [Terikayi Salmon Skewers With Sesame Buckwheat Soba Noodles](https://www.oliveandmango.com/terikayi-salmon-skewers)
+
+* [Vegan And Vegetarian Fiesta Bowl](https://www.oliveandmango.com/latin-bowl)
+
+* [High Protein Caribbean Bowl](https://www.oliveandmango.com/caribbean-protein-bowl)
+
+* [Nutrient Dense Mediterranean Bowl](https://www.oliveandmango.com/mediterranean-bowl)
+
 <br>
 ![Mediterranean Protein Bowl](/images/uploads/2017_08_05_mediterranean_bowl_3.jpg)
-<br>   
-<br>   
+<br>
+<br>
 
 ## Spinach rice
 
