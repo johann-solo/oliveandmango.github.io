@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Pumpkin Tahini Date And Nut Bread
-date: 2017-09-14
+date: 2017-09-14T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_09_14_pumpkin_bread_1.jpg
 categories: blog
 tags: food
-excerpt: '<p>Date and nut bread with a twist </p>'
+excerpt: <p>Date and nut bread with a twist </p>
 ---
 ![Pumpkin Bread](/images/uploads/2017_09_14_pumpkin_bread_4.jpg)
 <br>
@@ -31,7 +31,7 @@ The pumpkin makes this the ultimate moist bread and the tahini paste although ju
 <br>
 <br>
 
-I always use my own homemade pumpkin purée which is super simple to whip up in this recipe and so many others. I make my own instead of getting it in canned because it's got no additives, preservatives, tastes a lot better, and is way way way cheaper in Trinidad to make it then to buy it canned. I usually make a huge batch and measure it out in cups and I freeze it so I always have some on hand for soup, this bread, muffins and whatever else I want to add it in. We were loving this bread just as it was but also toasted with more tahini over it! Hope you give it a try!
+I always use my own homemade pumpkin purée which is super simple to whip up in this recipe and so many others. I make my own instead of getting it in a can because it's got no additives, preservatives, tastes a lot better, and is way way way cheaper in Trinidad to make it then to buy it canned. I usually make a huge batch and measure it out in cups and I freeze it so I always have some on hand for soup, this bread, muffins and whatever else I want to add it in. We were loving this bread just as it was but also toasted with more tahini over it! Hope you give it a try!
 <br>
 <br>
 ![Pumpkin Bread](/images/uploads/2017_09_14_pumpkin_bread_3.jpg)
@@ -62,7 +62,7 @@ I always use my own homemade pumpkin purée which is super simple to whip up in 
 ### Directions
 
 1. Preheat oven to 350 degrees F and lightly grease a 9 by 5-inch loaf pan.
-2. In a large bowl, combine the flour, baking soda, and salt; set aside.
+2. In a large bowl, combine the flour, baking soda, spices and salt; set aside.
 3. With an electric mixer mix the pumpkin purée and sugar together for a couple of minutes.
 4. Add the oil, tahini, eggs, and vanilla; beat well and scrape down the sides of the bowl.
 5. Mix in the dry ingredients just until incorporated.
@@ -71,9 +71,6 @@ I always use my own homemade pumpkin purée which is super simple to whip up in 
 8. Sprinkle bread with pumpkin and sesame seeds (optional)
 9. Bake for approx 1 hour, until golden brown and a toothpick inserted into the center of the loaf comes out clean.
 10. Cool the bread in the pan for 10 minutes or so, and then turn out onto a wire rack to cool completely before slicing.
-
-<br>
-![Pumpkin Bread](/images/uploads/2017_09_14_pumpkin_bread_2.jpg)
 <br>
 <br>
 
@@ -105,3 +102,5 @@ Preheat oven to 400 &deg; F
 
 <br>
 ![Pumpkin Bread](/images/uploads/2017_09_14_pumpkin_bread_9.jpg)
+
+
