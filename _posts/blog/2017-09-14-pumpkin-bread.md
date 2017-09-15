@@ -71,9 +71,6 @@ I always use my own homemade pumpkin purée which is super simple to whip up in 
 8. Sprinkle bread with pumpkin and sesame seeds (optional)
 9. Bake for approx 1 hour, until golden brown and a toothpick inserted into the center of the loaf comes out clean.
 10. Cool the bread in the pan for 10 minutes or so, and then turn out onto a wire rack to cool completely before slicing.
-
-<br>
-![Pumpkin Bread](/images/uploads/2017_09_14_pumpkin_bread_2.jpg)
 <br>
 <br>
 
@@ -105,4 +102,5 @@ Preheat oven to 400 &deg; F
 
 <br>
 ![Pumpkin Bread](/images/uploads/2017_09_14_pumpkin_bread_9.jpg)
+
 
