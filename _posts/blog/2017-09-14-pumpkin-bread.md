@@ -34,7 +34,7 @@ The pumpkin makes this the ultimate moist bread and the tahini paste although ju
 I always use my own homemade pumpkin purée which is super simple to whip up in this recipe and so many others. I make my own instead of getting it in a can because it's got no additives, preservatives, tastes a lot better, and is way way way cheaper in Trinidad to make it then to buy it canned. I usually make a huge batch and measure it out in cups and I freeze it so I always have some on hand for soup, this bread, muffins and whatever else I want to add it in. We were loving this bread just as it was but also toasted with more tahini over it! Hope you give it a try!
 <br>
 <br>
-![Pumpkin Bread](/images/uploads/2017_09_14_pumpkin_bread_3.jpg)
+![Pumpkin Bread](/images/uploads/2017_09_14_pumpkin_bread_2.jpg)
 <br>
 <br>
 
@@ -102,5 +102,3 @@ Preheat oven to 400 &deg; F
 
 <br>
 ![Pumpkin Bread](/images/uploads/2017_09_14_pumpkin_bread_9.jpg)
-
-
