@@ -96,7 +96,12 @@ Preheat oven to 400 &deg; F
 
 1. Let sheet cool on cooling rack until you pumpkin can be handled and then transfer it all to a food processor and process until the flesh is smooth. Store in the fridge for up to one week and freeze for up to 3 months.
 
-1. You can also cut the whole pumpkin in half and roast pieces whole but this takes longer to roast and more work to scrape off the flesh from the skin after. I do both and result is the same it just depends on how much time I have on hand and how lazy I am to chop and peel the pumpkin.
+&#42; You can also cut the whole pumpkin in half and roast pieces whole but this takes longer to roast and more work to scrape off the flesh from the skin after. I do both and result is the same it just depends on how much time I have on hand and how lazy I am to chop and peel the pumpkin.
+<br>
+<br>
+
+&#42; you can also boil the pumpkin in water until softened and water evaporates but I prefer roasting it because it develops a unique sweetness and a nuttiness as well
+
 
 <br>
 ![Pumpkin Bread](/images/uploads/2017_09_14_pumpkin_bread_9.jpg)
