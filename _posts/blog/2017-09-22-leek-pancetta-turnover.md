@@ -49,9 +49,9 @@ The original recipe calls for using store bought puff pastry and I do it all the
 
 * 2 tbsp olive oil
 * 1 large leek, white and light green parts only thinly slices
-* 1&fract12;-2 cups of chopped button or cremini mushrooms sliced
-* &fract12; cup frozen or fresh green peas
-* &fract12; cup frozen of fresh corn kernels
+* 1&frac12;-2 cups of chopped button or cremini mushrooms sliced
+* &frac12; cup frozen or fresh green peas
+* &frac12; cup frozen of fresh corn kernels
 * 1 carrot peeled and chopped finely
 * 1-2 stalks of celery chopped finely
 * 3 cloves garlic minced
@@ -64,7 +64,7 @@ The original recipe calls for using store bought puff pastry and I do it all the
 * 2 tbsp butter
 * 2 tbsp all purpose flour
 * 1 cup milk at room temperature
-* &fract13; cup grated Parmesan cheese
+* ⅓ cup grated Parmesan cheese
 * Salt and pepper to taste
 * Pinch of ground nutmeg
 
@@ -88,11 +88,11 @@ The original recipe calls for using store bought puff pastry and I do it all the
 
 1. Meanwhile lightly flour a surface to roll out the pastry into a 10x10 square or as close as possible to one.
 
-1. Transfer half on the baking sheet and half off resting on the floured surface. Spoon all the filling on the side that is on the baking sheet leaving &fract12;-1 inch off the edge free of filling.
+1. Transfer half on the baking sheet and half off resting on the floured surface. Spoon all the filling on the side that is on the baking sheet leaving &frac12;-1 inch off the edge free of filling.
 
 1. Lightly brush the edges of the pastry with egg. Fold over the side that is off the baking sheet to cover and meet the other edge. Fold edges or crimp them with a fork and brush the whole top with the egg wash.  
 
-1. Cut three small slits in the top of the pie using a sharp knife and bake until puffed and golden approx 30-35 minutes. Cool for 15 once out of the oven and slice and serve.
+1. Cut three small slits in the top of the pie using a sharp knife and bake until puffed and golden approx 30-35 minutes. Cool for 15 min once out of the oven and slice and serve.
 
 <br>
 ![Leek and pancetta turnovers](/images/uploads/2017_09_22_leek_pancetta_turnover_9.jpg)
