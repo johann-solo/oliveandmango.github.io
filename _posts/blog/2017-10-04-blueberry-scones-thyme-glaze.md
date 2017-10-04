@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buttery Blueberry Scones With A Thyme Glaze
-date: 2017-10-05
+date: 2017-10-04
 author: Joanne
 thumbnail: /images/uploads/2017_09_29_blueberry_scones_thyme_1.jpg
 categories: blog
