@@ -88,7 +88,7 @@ The glaze was influenced by searching what flavours go well with which fruits, a
 
 1. With the rubber spatula scoop out dough onto a very heavily flour dusted surface. Flour your hands and knead dough 6-8 times until it just holds together in a ragged ball adding flour as needed to prevent it from sticking
 
-1. Flour your rolling pin and roll dough out into approx 12 inch square. Fold it into third like you would a letter, scrape with a bench scrapper or a metal spatula if needed. Lift the short ends and fold into thirds to form a square and then transfer dough to a plate that was lightly dusted with flour and put in the freezer to chill for 5 minutes.
+1. Flour your rolling pin and roll dough out into approx 12 inch square. Fold it into thirds like you would a letter, scrape with a bench scrapper or a metal spatula if needed. Lift the short ends and fold into thirds to form a square and then transfer dough to a plate that was lightly dusted with flour and put in the freezer to chill for 5 minutes.
 
 1. Transfer dough to floured surface and using a floured rolling pin roll into a 12 inch square again
 
