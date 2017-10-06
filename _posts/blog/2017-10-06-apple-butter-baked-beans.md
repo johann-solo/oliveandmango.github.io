@@ -6,7 +6,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_10_06_apple_butter_baked_beans_1.jpg
 categories: blog
 tags: food
-excerpt: <p>Sweet, salty, rich in flavour, with a slight bit of heat. You won't regret making it. That's a promise!</p>
+excerpt: <p>Sweet, savoury, rich in flavour, with a slight bit of heat. You won't regret making it. That's a promise!</p>
 ---
 
 We ate these beans as pictured, with lots of biscuits but days later we were still eating them with eggs and toast &ndash; they were so good and we were sad when we finally ate the last of them.
@@ -38,7 +38,7 @@ Pancetta or salt-pork even too. I love how the pork gives the beans a salty, smo
 <br>
 <br>
 
-They are sweet, salty, rich in flavour, with a slight bit of heat. A great recipe for baked beans. You will not regret making it!! That is a promise!
+They are sweet, savoury, rich in flavour, with a slight bit of heat. A great recipe for baked beans. You will not regret making it!! That is a promise!
 <br>
 <br>
 ![Apple Butter Bourbon Baked Beans](/images/uploads/2017_10_06_apple_butter_baked_beans_6.jpg)
