@@ -52,6 +52,7 @@ They are sweet, savoury, rich in flavour, with a slight bit of heat. A great rec
 * &frac14; cup BBQ sauce (store bought or make my fab homemade one below)
 * &frac14; cup tomato ketchup
 * 2 tbsp maple syrup
+* 3 tbsp bourbon
 * 1 tbsp prepared mustard of choice
 * &frac14; tsp paprika
 * &frac14; tsp cumin
@@ -69,7 +70,7 @@ They are sweet, savoury, rich in flavour, with a slight bit of heat. A great rec
 
 1. Rinse the salted pigtail or pork with water a few times and then place in a small pot covered with water and boil for 10-15 minutes on medium, drain and rinse and let cool. Once cool enough to handle cut away any fatty pieces or grizzle if you want and cut up into smaller pieces if needed and set aside.  
 
-1. In a large bowl combine the apple butter, BBQ sauce, ketchup, maple syrup, mustard, paprika, cumin, molasses, tomato paste and set aside.
+1. In a large bowl combine the apple butter, BBQ sauce, ketchup, maple syrup, bourbon, mustard, paprika, cumin, molasses, tomato paste and set aside.
 
 1. In a medium sized pot heat oil at medium heat and add the onions garlic, jalapeño, and pigtail or salt pork and sauté everything until the onions are translucent and the pork starts to brown slightly.  
 
