@@ -23,7 +23,7 @@ You have waited way too long for this brownie recipe! I am so happy to share it.
 <br>
 <br>
 
-A few things I have learned about brownies is cooking time matters and the fat you use matters, as well as the sugar you use. If you want this kind of texture in your brownies the key is to not over bake then.  You want to get them out of the oven as soon as the middle is set but still moist but not gooey.  The longer you bake then the more cake’y they will be and less chewy.
+A few things I have learned about brownies is cooking time matters and the fat you use matters, as well as the sugar you use. If you want this kind of texture in your brownies the key is to not over bake them.  You want to get them out of the oven as soon as the middle is set but still moist but not gooey.  The longer you bake then the more cake’y they will be and less chewy.
 <br>
 <br>
 ![Chocolate Hazelnut Espresso Brownies](/images/uploads/2017_10_11_chocolate_hazelnut_espresso_brownies_5.jpg)
