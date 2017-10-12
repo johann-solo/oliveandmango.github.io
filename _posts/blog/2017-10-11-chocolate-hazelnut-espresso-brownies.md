@@ -46,7 +46,7 @@ I personally love the texture and flavour of using butter. In doing my research 
 <br>
 <br>
 
-I also learned that mixing sugars plays a role in texture also.  The brown sugar adds to the chewiness and the white sugar add to the crispy outer layer which you just got to have!
+I also learned that mixing sugars plays a role in texture also.  The brown sugar adds to the chewiness and the white sugar adds to the crispy outer layer which you just got to have!
 <br>
 <br>
 ![Chocolate Hazelnut Espresso Brownies](/images/uploads/2017_10_11_chocolate_hazelnut_espresso_brownies_10.jpg)
@@ -116,7 +116,7 @@ If you like a chewy better-than-the-box brownie, you have to try this recipe. It
 
 1. Bake the brownies for approx 25-30min until the edges are crisp and toothpick comes out with just a few crumbs. Centre should be a little moist still
 
-1. Immediately transfer baking dish to the fridge and refrigerate for and hour before slicing and serving
+1. Immediately transfer baking dish to the fridge and refrigerate for an hour before slicing and serving
 
 <br>
 ![Chocolate Hazelnut Espresso Brownies](/images/uploads/2017_10_11_chocolate_hazelnut_espresso_brownies_16.jpg)
