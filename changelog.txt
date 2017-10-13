@@ -48,3 +48,8 @@ Version 1.5.3 (starch)
 SEPTEMBER 04 2017
 Version 1.5.4 (starch)
 - Updated custom email
+
+OCTOBER 13 2017
+Version 1.6.0 (starch)
+- Removed Apple News Button
+- Added Pintrest Site Verification
