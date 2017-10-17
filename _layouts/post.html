@@ -12,9 +12,9 @@ layout: default
     </span>
   </header>
 
-  <!-- {% if page.image %}
-  <img src="{{ site.baseurl }}/img/{{ page.image }}" alt="" />
-  {% endif %} -->
+  {% if page.image %}
+  <img  itemprop="image" src="{{ site.baseurl }}/img/{{ page.image }}" alt="" />
+  {% endif %}
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
