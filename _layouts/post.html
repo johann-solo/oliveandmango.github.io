@@ -12,8 +12,8 @@ layout: default
     </span>
   </header>
 
-  {% if page.image %}
-  <img itemprop="thumbnail" src="{{ site.baseurl }}/img/{{ page.thumbnail }}" alt="" />
+  {% if page.thumbnail %}
+  <img itemprop="image" src="{{ site.baseurl }}/img/{{ page.thumbnail }}" alt="" />
   {% endif %}
   <div class="post-content" itemprop="articleBody">
     {{ content }}
