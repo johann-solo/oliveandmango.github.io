@@ -13,7 +13,7 @@ layout: default
   </header>
 
   {% if page.thumbnail %}
-  <img itemprop="image" src="{{ site.baseurl }}/images/{{ page.thumbnail }}" alt="" />
+  <img style="display: none" itemprop="image" src="{{ site.baseurl }}{{ page.thumbnail }}" alt="" />
   {% endif %}
   <div class="post-content" itemprop="articleBody">
     {{ content }}
