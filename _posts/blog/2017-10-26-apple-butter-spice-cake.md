@@ -16,14 +16,14 @@ This cake is truly that! Lovely scents of sweet apple and spice run through the 
 <br>
 <br>
 
-If you are stumped on the Apple butter thing you can sub the Apple butter with apple sauce. Same goes if you don’t have any apple butter or don’t have the time to make it. I strongly suggest you make the time to make the apple butter. You will love it and can use it in so many things like this fabulous spice cake and even in some bourbon baked beans! It’s also great slathered on some toast with a sprinkle of cinnamon. So you see &ndash; totally worth it!!
+If you are stumped on the Apple butter thing you can sub the Apple butter with apple sauce. Same goes if you don’t have any apple butter or don’t have the time to make it. I strongly suggest you make the time to make the apple butter though. You will love it and can use it in so many things like this fabulous spice cake and even in some [bourbon baked beans](https://www.oliveandmango.com/apple-butter-baked-beans)! It’s also great slathered on some toast with a sprinkle of cinnamon. So you see &ndash; totally worth it!!
 <br>
 <br>
 ![Apple Butter Spice Cake](/images/uploads/2017_10_26_apple_butter_spice_cake_3.jpg)
 <br>
 <br>
 
-So about this spice cake. It goes well with a nice big cup of tea and somehow instantly you get all the cozy feels which of course has a lot to do with all the delicious and warm spices in it. When I made it was 35 &deg; F out and the sun was blazing so we didn’t really need warm and cozy feels that day but we definitely enjoyed them! We actually had this cake on the beach in Tobago. It made for a great beach snack too! Who says you can’t have a taste of fall in the Caribbean?
+So about this spice cake. It goes well with a nice big cup of tea and somehow instantly you get all the cozy feels which of course has a lot to do with all the delicious and warm spices in it. When I made it was 35 &deg; C out and the sun was blazing so we didn’t really need warm and cozy feels that day but we definitely enjoyed them! We actually had this cake on the beach in Tobago. It made for a great beach snack too! Who says you can’t have a taste of fall in the Caribbean?
 <br>
 <br>
 ![Apple Butter Spice Cake](/images/uploads/2017_10_26_apple_butter_spice_cake_4.jpg)
@@ -47,7 +47,7 @@ It’s a super moist cake and the orange honey glaze is a fabulous one and reall
 * 1 tsp ginger
 * &frac12; tsp cardamom
 * &frac12; tsp salt  
-* 1 cup apple butter (recipe below &ndash; can sub with apple sauce but would be a little less sweet)
+* 1 cup <span class="highlight">[apple butter](https://www.oliveandmango.com/apple-butter)</span> (recipe below &ndash; can sub with apple sauce but would be a little less sweet)
 * &frac12; cup Greek yoghurt
 * &frac12; cup butter at room temp
 * &frac34; cup brown sugar or coconut sugar
@@ -58,9 +58,9 @@ It’s a super moist cake and the orange honey glaze is a fabulous one and reall
 
 1. Preheat oven to 350 &deg; F and grease a loaf pan
 
-1. In a bowl whisk together all the dry ingredients
+1. In a bowl whisk together all the dry ingredients and set aside
 
-1. In a a large bowl cream the butter and sugar then add the eggs one at a time mix well and then &frac12; the yoghurt and mix
+1. In a a large bowl cream the butter and sugar then add the eggs one at a time and mix well. Then add &frac12; the yoghurt and mix well
 
 1. Add half the dry ingredients to the wet and mix then add the rest of the yoghurt and mix. Add the rest of the flour mixture and mix until just combined then fold in the apple butter until well incorporated.
 
