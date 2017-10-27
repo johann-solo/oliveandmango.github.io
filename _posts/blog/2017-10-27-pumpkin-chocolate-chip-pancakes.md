@@ -39,7 +39,7 @@ These were excellent and the perfect addition to a fall breakfast!! Like you kno
 <br>
 <br>
 
-You can get pumpkin purée in a can here &ndash; it’s at some specialty shops her but you can imagine the price for one can! That’s why I make it and the pumpkin is quite inexpensive here and perfect for anything  you would use the canned stuff for. That being said if you have canned pumpkin purée at your disposal definitely use it! Hope you give these a try!! We absolutely crave these all the time and know you will too after you make your first batch!
+You can get pumpkin purée in a can here &ndash; it’s at some specialty shops here but you can imagine the price for one can! That’s why I make it and the pumpkin is quite inexpensive here and perfect for anything  you would use the canned stuff for. That being said if you have canned pumpkin purée at your disposal definitely use it! Hope you give these a try!! We absolutely crave these all the time and know you will too after you make your first batch!
 <br>
 <br>
 ![Pumpkin Chocolate Chip Pancakes](/images/uploads/2017_10_27_pumpkin_chocolate_chip_pancakes_8.jpg)
@@ -57,7 +57,7 @@ You can get pumpkin purée in a can here &ndash; it’s at some specialty shops 
 * &frac12; tsp ground ginger
 * &frac14; tsp nutmeg
 * 2 eggs
-* 1 &frac12; cups buttermilk (no buttermilk no prob make your own with this recipe)
+* 1 &frac12; cups buttermilk
 * &frac34; cup pumpkin purée canned or homemade (I always use my homemade recipe below)
 * &frac14; cup melted unsalted butter, plus some for frying
 * 1 cup chocolate chips
