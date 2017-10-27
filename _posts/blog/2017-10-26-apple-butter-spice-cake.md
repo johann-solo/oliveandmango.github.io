@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple Butter Spice Cake
-date: 2017-10-26
+date: 2017-10-26T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_10_26_apple_butter_spice_cake_1.jpg
 categories: blog
@@ -51,7 +51,7 @@ It’s a super moist cake and the orange honey glaze is a fabulous one and reall
 * &frac12; cup Greek yoghurt
 * &frac12; cup butter at room temp
 * &frac34; cup brown sugar or coconut sugar
-* &frac12; cup of nuts of your choice to sprinkle on top (optional)
+* &frac12; cup of chopped nuts of your choice to sprinkle on top (optional)
 <br>
 
 ### Directions
@@ -62,9 +62,9 @@ It’s a super moist cake and the orange honey glaze is a fabulous one and reall
 
 1. In a a large bowl cream the butter and sugar then add the eggs one at a time and mix well. Then add &frac12; the yoghurt and mix well
 
-1. Add half the dry ingredients to the wet and mix then add the rest of the yoghurt and mix. Add the rest of the flour mixture and mix until just combined then fold in the apple butter until well incorporated.
+1. Add half the dry ingredients to the wet and mix, then add the rest of the yoghurt and mix. Add the rest of the flour mixture and mix until just combined then fold in the apple butter until well incorporated.
 
-1. Pour batter into loaf pan and bake for 50 min to an hour
+1. Pour batter into loaf pan and bake for 50 mins to an hour or until golden brown and tester comes out clean
 
 *Recipe for cake adapted from thekitchn*
 <br>
