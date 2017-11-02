@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pumpkin Chocolate Chip Pancakes
-date: 2017-10-27
+date: 2017-10-27T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_10_27_pumpkin_chocolate_chip_pancakes_1.jpg
 categories: blog
@@ -9,7 +9,7 @@ tags: food
 excerpt: <p>Probably the best combo of flavours since PB and jelly</p>
 ---
 
-I had to try some of these pancakes after I saw my Instagram feed get completely flooded with them and everything pumpkin. So many delicious version of these out there. I played around with my buttermilk pancake recipe and I also referred to Half Baked Harvest’s (Tieghan) version for a little guidance when it came to pumpkin quantities per batch until I got these ones right and they are pretty fab!!
+I had to try some of these pancakes after I saw my Instagram feed get completely flooded with them and everything pumpkin. So many delicious version of these out there. I played around with my buttermilk pancake recipe and I also referred to Half Baked Harvest’s (Tieghan) version for a little guidance when it came to pumpkin quantities per batch until I got these ones right and they are pretty fab!!!
 <br>
 <br>
 ![Pumpkin Chocolate Chip Pancakes](/images/uploads/2017_10_27_pumpkin_chocolate_chip_pancakes_2.jpg)
