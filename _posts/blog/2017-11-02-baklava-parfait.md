@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Heavenly Baklava Parfaits
-date: 2017-11-02
+title: Apple Baklava Parfaits
+date: 2017-11-02T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_11_02_baklava_parfait_1.jpg
 categories: blog
 tags: food
 excerpt: <p>A delicious twist to the classic flavours of baklava without the phyllo</p>
-
 ---
 
 I love baklava! Who doesn’t though &ndash; probably those of you with bad nut allergies but you know what I mean. What if I told you you could have the flavours of baklava in a fabulous dessert without as much effort and no phyllo involved? Plus any leftovers can double as breakfast the next day! A sweet deal I would say. This is the situation here with these parfaits.
