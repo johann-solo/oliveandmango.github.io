@@ -66,7 +66,7 @@ Makes 4-6 parfaits depending on size of cups you use
 <br>
 
 **For the whip cream**
-* 1 cup heavy whipping cream or coconut cream  (recipe here for coconut whip)
+* 1 cup heavy whipping cream or whipped coconut cream
 * &frac14; tsp vanilla
 * &frac14; tsp orange blossom  water (optional)  
 <br>
