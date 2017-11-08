@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Pan Seared Sausages, Apples With Honey And Greens
-date: 2017-11-08
+title: 'Pan Seared Sausages And Apples With Honey, Thyme And Greens'
+date: 2017-11-08T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_11_09_pan_seared_sausages_apples_1.jpg
 categories: blog
 tags: food
-excerpt: <p>This sweet and luscious one-pan-dish is under thirty minutes and a guaranteed hit</p>
+excerpt: >-
+  <p>This sweet and luscious one-pan-dish is under thirty minutes and a
+  guaranteed hit</p>
 ---
 
 I have always loved the combination of pork chops and apples so its only natural to pair apples with sausages! This is a great way to use up any apples that might be a little on the sad side - you know the ones. The ones you took to work planning to eat but came back home with you, are a little bruised and on the soft but you feel too guilty to throw out.  Those bruised softies are perfect for this meal. They cook down to being nice and fork tender with a nice browned edge. Just mouthwatering!
