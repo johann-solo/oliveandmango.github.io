@@ -11,7 +11,7 @@ excerpt: >-
   guaranteed hit</p>
 ---
 
-I have always loved the combination of pork chops and apples so its only natural to pair apples with sausages! This is a great way to use up any apples that might be a little on the sad side - you know the ones. The ones you took to work planning to eat but came back home with you, are a little bruised and on the soft but you feel too guilty to throw out.  Those bruised softies are perfect for this meal. They cook down to being nice and fork tender with a nice browned edge. Just mouthwatering!
+I have always loved the combination of pork chops and apples so its only natural to pair apples with sausages! This is a great way to use up any apples that might be a little on the sad side - you know the ones. The ones you took to work planning to eat but came back home with you, are a little bruised and on the softer side but you feel too guilty to throw out.  Those bruised softies are perfect for this meal. They cook down to being nice and fork tender with a nice browned edge. Just mouthwatering!
 <br>
 <br>
 ![Pan Seared Sausages, Apples With Honey And Greens ](/images/uploads/2017_11_09_pan_seared_sausages_apples_2.jpg)
@@ -25,7 +25,7 @@ I like getting a piece of everything in each bite when I eat this dish so you ge
 <br>
 <br>
 
-It’s a wonderful midweek meal that is done in under thirty minutes.  It can be a stand alone meal or you can pair it with a grain like some buttery rice or quinoa or some roasted potatoes would be wonderful as well. Its kind of a crowd pleaser too both in taste and visually so it’s also great for a diner party. The fact that its quick and easy makes it even more appealing for stress free entertaining. You can switch up the sausage in it as well.  You can have it with any other sausage even a vegan sausage if you prefer. We wanted to use the spicy Italian because it has a mild kick that adds another dimension of flavour.  I’m sure whichever route you go you will love this simple and delicious dish! Enjoy!!
+It’s a wonderful midweek meal that is done in under thirty minutes.  It can be a stand alone meal or you can pair it with a grain like some buttery rice or quinoa or some roasted potatoes would be wonderful as well. Its kind of a crowd pleaser too both in taste and visually so it’s also great for a diner party. The fact that its quick and easy makes it even more appealing for stress free entertaining. You can switch up the sausage in it as well.  You can have it with any other sausage even a vegan sausage if you prefer. We wanted to use the spicy Italian because it has a mild kick that adds another dimension of flavour.  I’m sure whichever route you take, you will love this simple and delicious dish! Enjoy!!
 <br>
 <br>
 ![Pan Seared Sausages, Apples With Honey And Greens ](/images/uploads/2017_11_09_pan_seared_sausages_apples_4.jpg)
@@ -56,5 +56,7 @@ It’s a wonderful midweek meal that is done in under thirty minutes.  It can be
 
 1. Remove from heat and toss in greens if you wish or serve over a bed of greens spooning over some of the pan juices  
 
+Adapted by Bon Appétit
+<br>
 <br>
 ![Pan Seared Sausages, Apples With Honey And Greens ](/images/uploads/2017_11_09_pan_seared_sausages_apples_5.jpg)
