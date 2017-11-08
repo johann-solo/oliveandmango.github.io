@@ -36,7 +36,7 @@ It’s a wonderful midweek meal that is done in under thirty minutes.  It can be
 
 * 1 tbsp butter
 * 1 tbsp olive oil
-* 4-6 small Apple scrubbed and cut in half or quartered if large
+* 4-6 small apples scrubbed and cut in half or quartered if large
 * 1-1&frac12; lbs of Italian sausage (I used spicy because we like a little spice )
 * 1/4 cup white wine
 * 2 tbsp Apple cider vinegar
