@@ -56,6 +56,7 @@ I love olive oil cakes and this one did not disappoint. I’m always impressed b
 
 \* If not frosting it the same day I wrap the cake in plastic wrap and store in the fridge
 <br>
+<br>
 
 ## Chocolate Mascarpone Icing
 
