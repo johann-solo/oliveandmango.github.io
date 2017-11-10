@@ -31,6 +31,7 @@ I love olive oil cakes and this one did not disappoint. I’m always impressed b
 <br>
 <br>
 
+## Chocolate Olive Oil Cake
 ### Ingredients
 
 * 1&frac12; cups of all purpose flour
@@ -52,6 +53,29 @@ I love olive oil cakes and this one did not disappoint. I’m always impressed b
 1. Pour into prepared pan and bake for 30-35 minutes until the top is springy and a tester comes out mostly clean. A few sticky crumbs is ok.
 
 1. Remove from oven and allow to cool in pan on a wire rack for ten minutes then loosen edges with a knife and flip it out onto a cooling rack to cool the rest of they way
+
+\* If not frosting it the same day I wrap the cake in plastic wrap and store in the fridge
+<br>
+
+## Chocolate Mascarpone Icing
+
+### Ingredients
+
+* 1 tub of mascarpone approx 8 ounces
+* 2 tbsp Butter softened
+* 1 cup Icing sugar
+* 2 tbsp Coffee or milk
+* 3 tbsp Unsweetened cocoa powder
+* &frac12; tsp vanilla extract
+<br>
+
+### Directions
+
+* In a large bowl with a mixer cream the butter and mascarpone and gradually add the cocoa powder and rest of ingredients until creamy and smooth adding a little more coffee or milk if needed
+<br>
+
+Cake adapted from Smittenkitchen  
+Frosting adapted from Sprouted Kitchen  
 
 <br>
 ![Chocolate Olive Oil Cake](/images/uploads/2017_11_10_chocolate_olive_oil_cake_5.jpg)
