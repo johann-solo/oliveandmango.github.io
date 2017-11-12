@@ -48,13 +48,13 @@ I love olive oil cakes and this one did not disappoint. I’m always impressed b
 
 1. Preheat oven to 350 &deg; F and grease line and grease again and lightly dust with a little cocoa powder a 8-9 inch round cake pan
 
-1. In a large bowl whisk together the flour, baking soda, cocoa, salt and just the granulated sugar. Then did the brown sugar and olive oil and whisk well to combine. Add the coffee and vinegar and whisk until smooth
+1. In a large bowl whisk together the flour, baking soda, cocoa, salt and just the granulated sugar. Then add the brown sugar and olive oil and whisk well to combine. Add the coffee and vinegar and whisk until smooth
 
 1. Pour into prepared pan and bake for 30-35 minutes until the top is springy and a tester comes out mostly clean. A few sticky crumbs is ok.
 
 1. Remove from oven and allow to cool in pan on a wire rack for ten minutes then loosen edges with a knife and flip it out onto a cooling rack to cool the rest of they way
 
-\* If not frosting it the same day I wrap the cake in plastic wrap and store in the fridge
+\* If not frosting it the same day I wrap the cake in plastic wrap and store in the fridge until ready to frost
 <br>
 <br>
 
