@@ -6,7 +6,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_11_12_harissa_glazed_carrots_1.jpg
 categories: blog
 tags: food
-excerpt: <p>A combination of spice, sweetness and tanginess - a side for all occassions</p>
+excerpt: <p>A combination of spice, sweetness and tanginess &ndash; a side for all occassions</p>
 ---
 
 I am on a harissa kick and you guys are probably sick of it. But I do love it and have been trying it in different ways and I’m happy to say that it went really well with these heirloom carrots. I don’t usually buy these in Trinidad because they are imported and I almost always buy local ones. I wanted a little treat so I bought these organic ones from Fresh cause sometimes ‘you gots to treat yo self’.  The colours are remarkable in these carrots and I have to admit I stared at them for a while before and after cutting them because you must take time admire the beauty around you. This recipe will work with whatever carrots you have so don’t stress about getting your hands on fancy ones! Unless of course ya need to treat yo self as well!
