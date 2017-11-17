@@ -23,7 +23,7 @@ The usual meatsauce I make and also always have a batch frozen and ready for a r
 <br>
 <br>
 
-This is a whole new type of sauce which brings some different and delicious flavours to the table.  Harissa is a wonderful paste or sauce that is made with roasted red peppers, a variety of hot peppers, spices and seasoning that give it an intense flavour. I used Mina in this recipe which gives a more subtle heat but a wonderful flavor from the variety of peppers and spices. The recipe calls for the addition of roasted red peppers and I do recommend going through the ordeal of roasting them on the bbq or under the broiler as outlined In the recipe. They don’t require a lot of time to broil and very little time needed to rest tented until cool enough to touch, and the skin literally peels right off easily and this will add so much smokey delicious flavours to your sauce. The jarred or canned ones will not add as much smokiness but will still add the nice roasted red pepper flavour but in a less intense way.
+This is a whole new type of sauce which brings some different and delicious flavours to the table.  [Harissa](https://www.casablancafoods.com/products/mina-harissa) is a wonderful paste or sauce that is made with roasted red peppers, a variety of hot peppers, spices and seasoning that give it an intense flavour. I used Mina in this recipe which gives a more subtle heat but a wonderful flavor from the variety of peppers and spices. The recipe calls for the addition of roasted red peppers and I do recommend going through the ordeal of roasting them on the bbq or under the broiler as outlined In the recipe. They don’t require a lot of time to broil and very little time needed to rest tented until cool enough to touch, and the skin literally peels right off easily and this will add so much smokey delicious flavours to your sauce. The jarred or canned ones will not add as much smokiness but will still add the nice roasted red pepper flavour but in a less intense way.
 <br>
 <br>
 ![Lamb And Harissa Ragu](/images/uploads/2017_11_17_lamb_harissa_ragu_4.jpg)
@@ -37,7 +37,7 @@ Stewing the sauce for the length of time it calls for makes it a rich sauce pack
 <br>
 <br>
 
-There are so many wonderful ways to make a ragu and meat suace and I do hope you add this delicious one to your recipe collection of them. We were very disappointed to have the last of it the day after and I will definitely make a double batch to freeze or for more leftovers next time I make it! Give it a go and you will know what I mean. This is also another fabulous way to use harissa. Check out my honey harissa carrots and smashed potatoes for more harissa ideas as well as a homemade harissa if you don’t have access to harissa paste near you. Stay tuned to my Instagram through the weekend though because I will be giving away two Mina harissa pepper sauces to one of my North American followers. Be sure to qualify!
+There are so many wonderful ways to make a ragu and meat sauce and I do hope you add this delicious one to your recipe collection of them. We were very disappointed to have the last of it the day after and I will definitely make a double batch to freeze or for more leftovers next time I make it! Give it a go and you will know what I mean. This is also another fabulous way to use harissa. Check out my [honey harissa glazed carrots](https://www.oliveandmango.com/honey-harissa-carrots) and [smashed potatoes](https://www.oliveandmango.com/smashed-potatoes-harissa) for more harissa ideas as well as a homemade harissa if you don’t have access to harissa paste near you. Stay tuned to my Instagram through the weekend though because I will be giving away two Mina harissa pepper sauces to one of my North American followers. Be sure to qualify!
 <br>
 <br>
 ![Lamb And Harissa Ragu](/images/uploads/2017_11_17_lamb_harissa_ragu_6.jpg)
@@ -60,7 +60,7 @@ Serves 4-6
 * 3-4 tbsp of tomato paste
 * 1 can of crushed tomatoes or diced
 * 2-3 roasted red peppers if roasting or 1 cup worth if your using canned or bottled (roast on the grill or in the oven on broil until blackened and blistered all around, allow to rest in foil for a few minutes to steam and cool and then peel and remove seeds and chop)
-* 5 tbsp of Mina harissa sauce
+* 5 tbsp of <span class="highlight">[Mina harissa](https://www.casablancafoods.com/products/mina-harissa)</span> sauce
 * 1 tsp ground cinnamon
 * &frac12; tsp of ground clove
 * &frac12; tsp of ground cumin
