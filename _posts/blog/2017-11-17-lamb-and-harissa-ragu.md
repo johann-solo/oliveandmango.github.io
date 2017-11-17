@@ -8,44 +8,44 @@ categories: Blog
 tags: Food
 excerpt: 'Excerpt '
 ---
-In my last post I mentioned that as a child I wasn’t a fan of stewed beef or large pieces of meat. I got over that pretty quickly although I still don’t eat a ton of meat. There is one type of meat that I crave and can have anytime and that is ground meat - typically beef or lamb. I love it in meat sauce like this ragu, in burgers or patties or meatballs. Always has and always will be one of my favorite ways to eat meat. Some say it’s the worse type meat you could have but not if you get a good quality cut of meat to grind! 
+In my last post I mentioned that as a child I wasn’t a fan of stewed beef or large pieces of meat. I got over that pretty quickly although I still don’t eat a tonne of meat. There is one type of meat that I crave and can have anytime and that is ground meat - typically beef or lamb. I love it in meat sauce like this ragu, in burgers or patties or meatballs. Always has and always will be one of my favorite ways to eat meat. Some say it’s the worse type meat you could have but not if you get a good quality cut of meat to grind! 
+<br>
+<br>
+[Lamb And Harissa Ragu]()
 <br>
 <br>
 
+The usual meatsauce I make and also always have a batch frozen and ready for a rainy day or a hectic one, is basic meat sauce with lots of onions and garlic and usually some carrots celery, wine, tomato paste, broth and of course my three favorite spices to add; cinnamon and clove and oregano. They warm up the flavours of the sauce and give a greek twist to classic meat sauce. Those spices work particularly beautifully with beef and lamb. 
 <br>
 <br>
-
-The usual meatsauce I make and also always have a batch frozen and ready for a rainy day or a hectic one, is basic meat sauce with lots of onions and garlic and usually some carrots celery, wine, tomato paste, broth and ofcourse my three favorite spices to add; cinnamon and clove and oregano. They warm up the flavours of the sauce and give a greek twist to classic meat sauce. Those spices work particularly beautifully with beef and lamb. 
-<br>
-<br>
-
+[Lamb And Harissa Ragu]()
 <br>
 <br>
 
 This is a whole new type of sauce which brings some different and delicious flavours to the table.  Harissa is a wonderful paste or sauce that is made with roasted red peppers, a variety of hot peppers, spices and seasoning that give it an intense flavour. I used Mina in this recipe which gives a more subtle heat but a wonderful flavor from the variety of peppers and spices. The recipe calls for the addition of roasted red peppers and I do recommend going through the ordeal of roasting them on the bbq or under the broiler as outlined In the recipe. They don’t require a lot of time to broil and very little time needed to rest tented until cool enough to touch, and the skin literally peels right off easily and this will add so much smokey delicious flavours to your sauce. The jarred or canned ones will not add as much smokiness but will still add the nice roasted red pepper flavour but in a less intense way.
 <br>
 <br>
-
+[Lamb And Harissa Ragu]()
 <br>
 <br>
 
 Stewing the sauce for the length of time it calls for makes it a rich sauce packed with lovely aromas and flavours and all of them get married together and are even better the next day if you have leftovers!
 <br>
 <br>
-
+[Lamb And Harissa Ragu]()
 <br>
 <br>
 
 There are so many wonderful ways to make a ragu and meat suace and I do hope you add this delicious one to your recipe collection of them. We were very disappointed to have the last of it the day after and I will definitely make a double batch to freeze or for more leftovers next time I make it! Give it a go and you will know what I mean. This is also another fabulous way to use harissa. Check out my honey harissa carrots and smashed potatoes for more harissa ideas as well as a homemade harissa if you don’t have access to harissa paste near you. Stay tuned to my Instagram through the weekend though because I will be giving away two Mina harissa pepper sauces to one of my North American followers. Be sure to qualify!
 <br>
 <br>
-
+[Lamb And Harissa Ragu]()
 <br>
+<br> 
+
+### Ingredients
+Serves 4-6
 <br>
-
-Serves 4-6 
-
-### Ingredients 
 
 * 4 tbsp of olive oil 
 * 1-1 1/2 lbs of ground lamb
@@ -89,6 +89,5 @@ Serves 4-6
 \* This makes a chunkier ragu. If you want to make a creamy more uniform ragu then you can process the veggies including the peppers and onion in a food processor, brown your meat and then add the veggie mixture to it after it browns and sauté and sweat the veggies for a few minutes then add the garlic and chili flakes and sauté for a couple more minutes and proceed with the rest as normal.
 <br>
 <br>
-
-<br>
+[Lamb And Harissa Ragu]()
 
