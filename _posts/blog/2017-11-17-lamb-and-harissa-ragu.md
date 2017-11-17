@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Roasted Red Pepper Harissa Lamb Ragu
-date: 2017-11-17T13:12:38.482Z
+date: 2017-11-18T09:12:38-04:00
 author: Joanne
 thumbnail: /images/uploads/2017_11_17_lamb_harissa_ragu_1.jpg
 categories: Blog
