@@ -3,7 +3,7 @@ layout: post
 title: Roasted Red Pepper Harissa Lamb Ragu
 date: 2017-11-17T13:12:38.482Z
 author: Joanne
-thumbnail: /images/uploads/2017_07_07_watermelon_slushie_3.jpg
+thumbnail: /images/uploads/2017_11_17_lamb_harissa_ragu_1.jpg
 categories: Blog
 tags: Food
 excerpt: >-
@@ -13,7 +13,7 @@ excerpt: >-
 In my last post I mentioned that as a child I wasn’t a fan of stewed beef or large pieces of meat. I got over that pretty quickly although I still don’t eat a tonne of meat. There is one type of meat that I crave and can have anytime and that is ground meat - typically beef or lamb. I love it in meat sauce like this ragu, in burgers or patties or meatballs. Always has and always will be one of my favorite ways to eat meat. Some say it’s the worse type meat you could have but not if you get a good quality cut of meat to grind! 
 <br>
 <br>
-[Lamb And Harissa Ragu]()
+
 <br>
 <br>
 
