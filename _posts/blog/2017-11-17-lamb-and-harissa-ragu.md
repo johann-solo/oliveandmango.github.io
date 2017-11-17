@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Lamb And Harissa Ragu
+title: Roasted Red Pepper Harissa Lamb Ragu
 date: 2017-11-17T13:12:38.482Z
 author: Joanne
 thumbnail: /images/uploads/2017_07_07_watermelon_slushie_3.jpg
 categories: Blog
 tags: Food
-excerpt: 'Excerpt '
+excerpt: >-
+  Up your meat sauce game with this harissa lamb ragu that's smokey with a hint
+  of spice
 ---
 In my last post I mentioned that as a child I wasn’t a fan of stewed beef or large pieces of meat. I got over that pretty quickly although I still don’t eat a tonne of meat. There is one type of meat that I crave and can have anytime and that is ground meat - typically beef or lamb. I love it in meat sauce like this ragu, in burgers or patties or meatballs. Always has and always will be one of my favorite ways to eat meat. Some say it’s the worse type meat you could have but not if you get a good quality cut of meat to grind! 
 <br>
@@ -87,6 +89,9 @@ Serves 4-6
 1. Pour sauce over your choice of pasta, sprinkle with a little mint and cheese and enjoy. 
 
 \* This makes a chunkier ragu. If you want to make a creamy more uniform ragu then you can process the veggies including the peppers and onion in a food processor, brown your meat and then add the veggie mixture to it after it browns and sauté and sweat the veggies for a few minutes then add the garlic and chili flakes and sauté for a couple more minutes and proceed with the rest as normal.
+<br>
+<br>
+Inspired by Serious Eats and Tasting  Table
 <br>
 <br>
 [Lamb And Harissa Ragu]()
