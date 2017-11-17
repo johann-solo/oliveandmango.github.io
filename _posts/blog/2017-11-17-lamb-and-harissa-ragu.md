@@ -48,23 +48,23 @@ Serves 4-6
 <br>
 
 * 4 tbsp of olive oil 
-* 1-1 1/2 lbs of ground lamb
+* 1-1&frac12; lbs of ground lamb
 * 1 large onion chopped 
 * 2 carrots peeled and chopped finely 
 * 2 stalks celery chopped finely 
 * 3 cloves of garlic 
-* 1/4 tsp of red chili flakes 
-* 1/2 cup of red wine 
+* &frac14; tsp of red chili flakes 
+* &frac12; cup of red wine 
 * 3-4 tbsp of tomato paste
 * 1 can of crushed tomatoes or diced 
 * 2-3 roasted red peppers if roasting or 1 cup worth if your using canned or bottled (roast on the grill or in the oven on broil until blackened and blistered all around, allow to rest in foil for a few minutes to steam and cool and then peel and remove seeds and chop) 
 * 5 tbsp of Mina harissa sauce 
 * 1 tsp ground cinnamon
-* 1/2 tsp of ground clove 
-* 1/2 tsp of ground cumin 
+* &frac12; tsp of ground clove 
+* &frac12; tsp of ground cumin 
 * 1 thyme stem
 * 1 bay leaf 
-*3-4 cups of broth or water plus more of needed 
+* 3-4 cups of broth or water plus more of needed 
 * Salt and pepper to taste 
 * Chopped mint for garnish 
 * And grated Parmesan cheese to serve with
@@ -82,7 +82,7 @@ Serves 4-6
 
 1. Bring to a boil and then reduce to a simmer, cover and let simmer for 1 hour checking and stirring it occasionally. 
 
-1. Remove lid after an hour and allow to continue to simmer for another 20-30minutes or until most of the liquid has cooked off and sauce is nice and thick. 
+1. Remove lid after an hour and allow to continue to simmer for another 20-30 minutes or until most of the liquid has cooked off and sauce is nice and thick. 
 
 1. Pour sauce over your choice of pasta, sprinkle with a little mint and cheese and enjoy. 
 
