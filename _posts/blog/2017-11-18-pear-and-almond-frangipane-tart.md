@@ -55,7 +55,7 @@ The best thing about this tart recipe is that all components of it can be made a
 * 1/3 cup of powdered sugar
 * 1 large egg yolk at room temperature
 * &frac12; tsp salt
-* 1&fract14; cups of all purpose flour
+* 1&frac14; cups of all purpose flour
 * 1 tbsp milk &ndash; to add to the dough if needed
 
 For GF replace AP flour with:
