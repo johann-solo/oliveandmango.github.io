@@ -60,7 +60,7 @@ Serves 4-6
 * 3-4 tbsp of tomato paste
 * 1 can of crushed tomatoes or diced
 * 2-3 roasted red peppers if roasting or 1 cup worth if your using canned or bottled (roast on the grill or in the oven on broil until blackened and blistered all around, allow to rest in foil for a few minutes to steam and cool and then peel and remove seeds and chop)
-* 5 tbsp of <span class="highlight">[Mina harissa](https://www.casablancafoods.com/products/mina-harissa)</span> sauce
+* 5 tbsp of <span class="highlight">Mina [harissa](https://www.casablancafoods.com/products/mina-harissa)</span> sauce
 * 1 tsp ground cinnamon
 * &frac12; tsp of ground clove
 * &frac12; tsp of ground cumin
