@@ -6,7 +6,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_11_18_pear_almond_frangipane_tart_1.jpg
 categories: Blog
 tags: food
-excerpt: <p>This buttery tart crust is home to the creamiest almond cream with the most
+excerpt: <p>This buttery tart crust is home to the richest almond cream with the most
   fragrant pears - simple and delectable</p>
 ---
 Pear and almond seem to pretty much belong together and in this tart they work perfectly. I have always wanted to make a tart like this and was geared up to make one when I got my tart pan. I thought this classic French tart was going to be incredibly hard and complex to make (probably because of the fancy unfamiliar names of the crust and filling) but it turned out to be easier than I thought and a lot more forgiving than I thought also.
@@ -21,7 +21,7 @@ Let’s start with the crust. Pâte sablée is a classic French shortcrust pastr
 ![Pear and Almond Frangipane Tart](/images/uploads/2017_11_18_pear_almond_frangipane_tart_3.jpg)
 <br>
 <br>
-Some recipes do not call for partially baking or blind baking the tart like this one.  Because the filling needs to be baked the tart should be partially baked. If I was using a filling like mascarpone or a no bake filing then you would have to fully bake it before filling. I also chose to use pie weights or dried beans instead of just pricking the dough when blind baking because I wanted to ensure the crust would not puff up.
+Some recipes do not call for partially baking or blind baking the tart like this one.  Because the filling needs to be baked the tart should be partially baked. If I was using a filling like mascarpone or a no bake filling then you would have to fully bake it before filling. I also chose to use pie weights or dried beans instead of just pricking the dough when blind baking because I wanted to ensure the crust would not puff up.
 <br>
 <br>
 ![Pear and Almond Frangipane Tart](/images/uploads/2017_11_18_pear_almond_frangipane_tart_4.jpg)
@@ -69,10 +69,10 @@ For GF replace AP flour with:
 2. Add the flour and salt just enough for all the flour to be incorporated. No need to over-mix
 3. Scrape the dough out of bowl onto a piece of plastic wrap and gather the dough and form it into a circular disc or a rectangular one depending on which pan you are using. Wrap it tight and refrigerate for at least one hour up to 2 days. Can also be frozen for up to a month.  If using from frozen, allow to thaw overnight in the fridge before using.  
 4. Remove the dough from fridge and let it rest for a few minutes to make it easier to roll.
-5. Remove the dough from the plastic and place it between to sheets of parchment or wax paper to roll it with ease. Roll it out evenly to the size of the tart pan &dash; use the removable bottom as a guide
+5. Remove the dough from the plastic and place it between to sheets of parchment or wax paper to roll it with ease. Roll it out evenly to the size of the tart pan &ndash; use the removable bottom as a guide
 6. Once rolled out peel the top layer of paper off and invert the dough into the pan. Peel away the last layer of paper and fit the dough into the pan pressing it into the shape of the pan all around. Trim any edges off and reshape dough by pressing it if needed if there is a tear or a thin part.
 7. Wrap the pan and refrigerate for 30 minutes and in the meantime preheat the oven to 375 &deg; F
-8. Place the tart on a baking sheet.  Line the top of the tart with parchment and fill with pie weights (or dry beans like I used) and blind bake for approx 20 minutes or until the edges begin to turn golden then remove and place on a cooling rack and allow to cool while you make your filling (tart has not finished baking &ndash; will finish baking with the filing)  
+8. Place the tart on a baking sheet.  Line the top of the tart with parchment and fill with pie weights (or dry beans like I used) and blind bake for approx 20 minutes or until the edges begin to turn golden then remove and place on a cooling rack and allow to cool while you make your filling (tart has not finished baking &ndash; will finish baking with the filling)  
 
 ![Pear and Almond Frangipane Tart](/images/uploads/2017_11_18_pear_almond_frangipane_tart_8.jpg)
 <br>
@@ -97,7 +97,8 @@ For GF replace AP flour with:
 
 1. In a small pot set on medium heat combine the sugar, liquids and spices. When the sugar has melted, add the pears and bring to a boil turning the pears then reduce heat to a very low simmer, cover and simmer for 10 minutes until pears are tender. Remove the pears with a slotted spoon and allow to cool and then slice them thinly in preparation for the tart. Reserve the poaching liquid
 2. Once the tart is in the oven bring the syrup to boil and reduce by at least half and set aside. As soon as the tart comes out of the oven brush pears with the reduced glaze/syrup.
-3. Pears can be made ahead and stored in the fridge for up to two days in an airtight container in the poaching liquid.
+
+\* Pears can be made ahead and stored in the fridge for up to two days in an airtight container in the poaching liquid.
 
 <br>
 
@@ -116,8 +117,12 @@ For GF replace AP flour with:
 ### Directions
 
 1. Preheat oven to 350 &deg; F
-2. In a large bowl cream the butter and sugar until it’s light and fluffy, then add the rest of the ingredients and mix until smooth.  Spread the thick mixture evenly into the cooked and cooled tart shell and then gentlygently press the pears into it in the pattern of your choice. And bake the tart for approx 30-40 minutes or until the filling has puffed and browned.
+2. In a large bowl cream the butter and sugar until it’s light and fluffy, then add the rest of the ingredients and mix until smooth.  Spread the thick mixture evenly into the cooked and cooled tart shell and then gently press the pears into it in the pattern of your choice. And bake the tart for approx 30-40 minutes or until the filling has puffed and browned.
 3. Remove from oven and allow to cool on cooling rack. Serve at room temperature or chilled with a dusting of powdered sugar
-4. The frangipane can be made ahead and stored in the fridge for up to two days.  Just allow to come to room temp before attempting to spread it in the tart.  
+
+\* The frangipane can be made ahead and stored in the fridge for up to two days.  Just allow to come to room temp before attempting to spread it in the tart.  
+
+Adapted from Martha Stewart and The Kitchn
+<br>
 
 ![Pear and Almond Frangipane Tart](/images/uploads/2017_11_18_pear_almond_frangipane_tart_9.jpg)
