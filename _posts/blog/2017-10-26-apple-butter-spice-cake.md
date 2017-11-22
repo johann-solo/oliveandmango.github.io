@@ -50,6 +50,7 @@ It’s a super moist cake and the orange honey glaze is a fabulous one and reall
 * 1 cup <span class="highlight">[apple butter](https://www.oliveandmango.com/apple-butter)</span> (recipe below &ndash; can sub with apple sauce but would be a little less sweet)
 * &frac12; cup Greek yoghurt
 * &frac12; cup butter at room temp
+* 2 eggs
 * &frac34; cup brown sugar or coconut sugar
 * &frac12; cup of chopped nuts of your choice to sprinkle on top (optional)
 <br>
