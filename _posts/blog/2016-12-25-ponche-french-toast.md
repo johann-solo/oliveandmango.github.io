@@ -12,12 +12,11 @@ excerpt: "<p>A boozy twist to a brunch staple</p>"
 ---
 
 ---
-French toast is one of my husbands favourite breakfast foods. He has a long history of making and eating it from the age 11 in fact. I on the other hand am not as big a fan. It's not that I don't like it, because I do but it's just not my favourite thing to eat for breakfast. I find it time consuming to make and and a bit to decadent for an everyday kind of breakfast. I'm also not a fan of making it because i think it's messy and too much trouble. If I had a choice I would rather make pancakes from scratch than make
+French toast is one of my husbands favourite breakfast foods. He has a long history of making and eating it from the age 11 in fact. I on the other hand am not as big a fan. It's not that I don't like it, because I do but it's just not my favourite thing to eat for breakfast. I find it time consuming to make and a bit to decadent for an everyday kind of breakfast. I'm also not a fan of making it because I think it's messy and too much trouble. If I had a choice I would rather make pancakes from scratch than make
 French toast. That is why I love making overnight French toast.  
 <br>
 
-The beauty of it is that It's the same French toast but you can make it ahead of time. No need to dip toast individually and Stand by he stove and cook each piece, and it feeds and pleases a crowd or in my husbands case it can feed him for a few days.  
-I love to make it on holidays when your having a slow morning and can actually sit and enjoy a long breakfast and a few cups of coffee.  It's the perfect thing to make if you have guests staying with you too. Always a great treat to wake up smelling this beautiful French toast baking.  I also love to make it when we are away with a group for the weekend.  It makes for a wonderful addition to a brunch menu. Just add a fruit salad and lots of maple syrup, bacon and strong coffee and you have the most perfect brunch and you didn't have to slave over a hot oven for an hour dipping and flipping your toast.
+The beauty of it is that It's the same French toast but you can make it ahead of time. No need to dip toast individually and stand by he stove and cook each piece, and it feeds and pleases a crowd or in my husbands case it can feed him for a few days. I love to make it on holidays when you are having a slow morning and can actually sit and enjoy a long breakfast and a few cups of coffee.  It's the perfect thing to make if you have guests staying with you too. Always a great treat to wake up smelling this beautiful French toast baking.  I also love to make it when we are away with a group for the weekend.  It makes for a wonderful addition to a brunch menu. Just add a fruit salad and lots of maple syrup, bacon and strong coffee and you have the most perfect brunch and you didn't have to slave over a hot stove for an hour dipping and flipping your toast.
 <br><br>
 
 {% include image.html
