@@ -10,6 +10,7 @@ layout: default
     <span class="pintrest__button">
         <a data-pin-do="buttonPin" data-pin-count="beside" data-pin-tall="true" data-pin-save="true" href="https://www.pinterest.com/pin/create/button/"></a>
     </span>
+    <div class="social_share_button" style="padding-top:5px;"><a class="blsdk-follow" href="https://www.bloglovin.com/blogs/olive-mango-18415085" target="_blank" data-blsdk-type="button">Follow</a></div>
   </header>
 
   {% if page.thumbnail %}
@@ -18,7 +19,7 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-
+  <script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s);js.id = id;js.src = "https://www.bloglovin.com/widget/js/loader.js?v=1";fjs.parentNode.insertBefore(js, fjs);}(document, "script", "bloglovin-sdk"))</script>
 </article>
 
 {% include disqus.html disqus_identifier=page.disqus_identifier %}
