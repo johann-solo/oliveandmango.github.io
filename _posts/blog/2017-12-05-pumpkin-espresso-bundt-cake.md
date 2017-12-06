@@ -135,6 +135,6 @@ Inspired by Pastry Affair
 \* You can also cut the whole pumpkin in half and roast pieces whole but this takes longer to roast and more work to scrape off the flesh from the skin after. I do both and result is the same it just depends on how much time I have on hand and how lazy I am to chop and peel the pumpkin.
 
 \# you can also boil the pumpkin in water until softened and water evaporates but I prefer roasting it because it develops a unique sweetness and a nuttiness as well
-<br>
+<br> 
 
 ![Pumpkin Espresso Bundt Cake With A Chocolate Espresso Rum Glaze](/images/uploads/2017_12_05_pumpkin_esspresso_bundt_cake_8.jpg)
