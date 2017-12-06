@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Pumpkin Espresso Bundt Cake With A Chocolate Espresso Rum Glaze
-date: 2017-12-05
+date: 2017-12-05T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_12_05_pumpkin_esspresso_bundt_cake_1.jpg
 categories: Blog
 tags: food
-excerpt: <p>A simple to make bundt with a touch of spice and espresso and an unforgettable glaze</p>
+excerpt: >-
+  <p>A simple to make bundt with a touch of spice and espresso and an
+  unforgettable glaze</p>
 ---
 
 This was a wonderful bundt cake that we really enjoyed. The combo of it and that luscious glaze was on point.  I did have to make it three times to get it right and the way I wanted it though.  There was just something wrong with it texturally.  Nothing wrong with the recipe at all but I think sometimes variations in flours can make a difference. One of the biggest differences too was that I used homemade pumpkin purée. Maybe the slight extra moisture in the pumpkin was what was throwing off the texture.  Anyways with some very minor tweaks the third time really was a charm and it turned out just the way I wanted.
@@ -16,7 +18,7 @@ This was a wonderful bundt cake that we really enjoyed. The combo of it and that
 <br>
 <br>
 
-The original recipe called for the sugar – coffee swirl to be almost tossed in streusel like – that didn’t work for me because that was another factor affecting the texture.  The pictures of it in the original recipe looked perfect and had a beautiful swirl though the cake.  I couldn’t achieve that at all with the way the recipe instructed. I don’t know why and I likely was doing something wrong but whatever it was it wasn’t working for me so I mixed the sugar coffee mixture into some of the batter and then layered it and it turned in not the swirl effect I wanted and the texture was just right.
+The original recipe called for the sugar – coffee swirl to be almost tossed in streusel like – that didn’t work for me because that was another factor affecting the texture.  The pictures of it in the original recipe looked perfect and had a beautiful swirl through the cake.  I couldn’t achieve that at all with the way the recipe instructed. I don’t know why and I likely was doing something wrong but whatever it was it wasn’t working for me so I mixed the sugar coffee mixture into some of the batter and then layered it and it turned in not the swirl effect I wanted and the texture was just right.
 <br>
 <br>
 ![Pumpkin Espresso Bundt Cake With A Chocolate Espresso Rum Glaze](/images/uploads/2017_12_05_pumpkin_esspresso_bundt_cake_3.jpg)
@@ -72,7 +74,7 @@ Makes one 10 cup bundt cake or 3 minis
 * 1 tbsp of espresso powder or instant coffee powder
 * &frac12; tsp ground cinnamon
 * 1 tsp of cocoa powder
-* 1 cup of cake mix
+* 1 cup of cake batter
 <br>
 
 **for the chocolate espresso rum glaze**
@@ -89,7 +91,7 @@ Makes one 10 cup bundt cake or 3 minis
 
 1. In a medium sized bowl whisk together the flour, baking powder, baking soda, salt and spices and set aside
 
-1. In a small bowl whisk together all the  ingredients for the espresso filling and set aside
+1. In a small bowl whisk together all the dry ingredients for the espresso filling and set aside
 
 1. In a large mixing bowl beat together the pumpkin purée, eggs, oil, both sugars, and the vanilla extract until well blended. Slowly beat in the dry ingredients until you have a smooth batter and everything is incorporated.
 
