@@ -1,0 +1,8 @@
+<ul>
+  {{ range .Data.Pages }}
+     <li>
+       <a href="{{ .Permalink }}">{{ .Title }}</a>
+       {{ .Params.categories }}
+     </li>
+  {{ end }}
+</ul>

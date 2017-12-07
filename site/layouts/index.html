@@ -1,0 +1,35 @@
+{{ partial "home-head" . }}
+{{ partial "header" . }}
+
+  <div class="splash">
+      <div class="main__text">
+          <h1>Olive &amp; Mango</h1>
+          <p>a budget conscious life style blog on food, travel and well-being</p>
+      </div>
+  </div>
+  <div class="page-content home">
+    <div class="container">
+
+      <ul class="post-list">
+      <!-- Ranges through content/post/*.md -->
+      {{ range where (.Paginator 5).Pages "Type" "blog"  }}
+
+        <li>
+          <div class="line"></div>
+          <div class="post__meta--home">
+            <a class="post-link" href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
+            <p class="post__date">{{ .Date.Format "2 January 2006" }}</p>
+          </div>
+          <a href="{{ .Permalink }}"><img src="{{ .Params.Thumbnail }}" alt=""></a>
+          <div class="post-link post__excerpt">{{ .Params.excerpt }}</div>
+          <a href="{{ .Permalink }}"><div class="btn__main">continue reading</div></a>
+        </li>
+      {{ end }}
+      <div class="pagination_container">{{ template "_internal/pagination.html" . }}</div>
+      </ul>
+      <h3>Instagram Feed</h3>
+      <div id="instafeed"></div>
+      <p class="rss-subscribe">subscribe <a href="#">via RSS</a></p>
+    </div>
+  </div>
+{{ partial "footer" . }}

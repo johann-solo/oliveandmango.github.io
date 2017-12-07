@@ -1,0 +1,16 @@
+
+{{ range (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+  {{ $.Scratch.Set "has_related" true }}
+{{ end }}
+
+{{ if $.Scratch.Get "has_related" }}
+  <aside>
+    <header>You may also like:</header>
+    <ul class="related_posts">
+      {{ $num_to_show := .Site.Params.related_content_limit | default 4 }}
+      {{ range first $num_to_show (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+        <li><a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </aside>
+{{ end }}

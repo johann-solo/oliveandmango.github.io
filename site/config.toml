@@ -1,0 +1,35 @@
+baseurl = "/"
+languageCode = "en-us"
+languageLang = "en"
+title = "Olive & Mango"
+disqusShortname = "disqus_Ci8qqqEWpn"
+
+[params]
+  description = "A budget-conscious lifestyle blog on food, travel, and well-being"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[[menu.main]]
+  name = "Home"
+  url  = "/"
+  weight = 1
+[[menu.main]]
+  name = "Recipes"
+  url  = "/blog"
+  weight = 2
+[[menu.main]]
+  name = "About"
+  url  = "/about"
+  weight = 3
+
+[algolia]
+  index = "olive-mango"
+  key = "HRBO4CU3NQ"
+  appID = "72dc5eb31124694164a13ea54d64d115"
+
+
+# RSS, categories and tags disabled for an easy start
+# See configuration options for more details:
+# https://gohugo.io/getting-started/configuration/#toml-configuration

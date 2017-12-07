@@ -1,0 +1,41 @@
+{{ partial "head" . }}
+{{ partial "header" . }}
+<div class="recipe_content">
+  <div class="container">
+    <h1 class="cat_heading">Recipes</h1>
+    <div class="line taxonomy_line"></div>
+    <h2 class="cat_heading">Mains</h2>
+    <ul class="related_taxonomy">
+
+      {{ range first 4 .Site.Taxonomies.categories.mains }}
+        <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
+      {{ end }}
+    </ul>
+    <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/mains"><div class="btn__main--recipe ">Show more</div></a></span>
+    <div class="line taxonomy_line"></div>
+    <h2 class="cat_heading">Sides</h2>
+    <ul class="related_taxonomy">
+      {{ range first 4 .Site.Taxonomies.categories.sides }}
+        <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
+      {{ end }}
+    </ul>
+    <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/sides"><div class="btn__main--recipe ">Show more</div></a></span>
+    <div class="line taxonomy_line"></div>
+    <h2 class="cat_heading">Desserts</h2>
+    <ul class="related_taxonomy">
+      {{ range first 4 .Site.Taxonomies.categories.desserts }}
+        <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
+      {{ end }}
+    </ul>
+    <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/desserts"><div class="btn__main--recipe ">Show more</div></a></span>
+    <!-- <h2>drinks</h2>
+    <ul class="related_taxonomy">
+      {{ range first 4 .Site.Taxonomies.categories.drinks }}
+        <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
+      {{ end }}
+      <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/mains"><div class="btn__main--recipe ">Show more</div></a></span>
+    </ul> -->
+  </div>
+
+</div>
+{{ partial "footer" . }}

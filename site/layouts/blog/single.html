@@ -1,0 +1,30 @@
+{{ partial "head" . }}
+{{ partial "header" . }}
+
+  <div class="page-content">
+    <div class="wrapper">
+      <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+        <div class="post-content" itemprop="articleBody">
+          <h1 class="post-title">{{ .Title }}</h1>
+          <div class="post-meta">
+            <time>{{ .Date.Format "2 Jan, 2006" }}</time>
+            <div>{{ if .Params.tags }}
+              <i class="fa fa-tags"></i> {{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+              {{ end }}
+            </div>
+            <div class="social_share_button"><a data-pin-do="buttonPin" data-pin-count="beside" data-pin-tall="true" data-pin-save="true" href="https://www.pinterest.com/pin/create/button/"></a></div>
+            <div class="social_share_button"><a class="blsdk-follow" href="https://www.bloglovin.com/blogs/olive-mango-18415085" target="_blank" data-blsdk-type="button">Follow</a></div>
+          </div>
+
+          <div class="post-content" itemprop="articleBody">
+            {{ .Content }}
+          </div>
+        </div>
+      </article>
+      <!-- show related posts -->
+      {{ partial "related" . }}
+      {{ partial "disqus" . }}
+      <script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s);js.id = id;js.src = "https://www.bloglovin.com/widget/js/loader.js?v=1";fjs.parentNode.insertBefore(js, fjs);}(document, "script", "bloglovin-sdk"))</script>
+    </div>
+  </div>
+{{ partial "footer" . }}

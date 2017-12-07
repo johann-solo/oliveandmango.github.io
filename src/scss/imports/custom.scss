@@ -1,0 +1,420 @@
+$accent-color: #e74c3c;
+$tablet-width: 600px;
+$desktop-width: 800px;
+
+@mixin main__text ($color, $font-size) {
+    color: $color;
+    font-size: $font-size;
+}
+
+@mixin post__thumbnail ($width, $padding){
+    max-width: $width;
+    padding-right: $padding;
+}
+
+// BASE STYLES
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.page-content {
+    flex: 1;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:visited {
+    text-decoration: none;
+}
+
+.post-link a:link,
+a:visited {
+    color: black;
+}
+
+a:hover {
+  color: gray;
+  transition: 0.65s;
+}
+
+.post-meta {
+    padding: 10px 0 20px;
+}
+
+
+
+p a:link,
+p a:visited {
+    color: $accent-color;
+}
+
+h1, h2, h3, p, li {
+    margin: 0 !important;
+}
+
+h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+}
+
+// .post-link h3, .h2 {
+//   font-style: italic;
+// }
+
+.highlight a {
+    color: $accent-color !important;
+}
+
+.btn__main {
+    background: #F3F3F3;
+    padding: 10px;
+    color: $accent-color !important;
+    text-transform: uppercase;
+}
+
+.social_share_button {
+    padding-top: 10px;
+}
+
+.icon,
+.icon--twitter {
+    color: #55ACEE !important;
+}
+
+blockquote {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    color: black;
+    border-left: 4px solid $accent-color;
+    font-size: 1.5em;
+    margin: 30px 0;
+    padding: 0 30px 0;
+    @media screen and (min-width: $tablet-width) {
+        font-size: 2em;
+        padding: 0 60px 0;
+    }
+}
+
+caption {
+    font-size: 0.5em;
+}
+
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+        padding-bottom: 10px;
+        font-size: 16px;
+    }
+}
+
+// MENU STYLES
+
+.om_logo {
+    float: left;
+    max-width: 45px;
+    padding-right: 15px;
+    margin-top: 10px;
+}
+
+
+
+// HOME STYLES
+
+.container {
+    margin: 0 15px;
+
+    @media screen and (min-width: $desktop-width){
+        max-width: 1000px;
+        margin: 0;
+        margin: auto;
+    }
+}
+
+.splash {
+    h1 {
+        @include main__text(black, 2.5em);
+        margin-bottom: 0;
+        @media screen and (min-width: $tablet-width) {
+            @include main__text(black, 5em);
+        }
+    }
+}
+
+.main__text {
+    text-align: center;
+    padding: 50px 0;
+    max-width: 350px;
+    margin: auto;
+    @media screen and (min-width: $tablet-width) {
+        max-width: 600px;
+    }
+    p {
+        font-family: 'Life Savers', cursive;
+        @include main__text(black, 1.1em);
+        @media screen and (min-width: $tablet-width)  {
+            @include main__text(black, 1.5em);
+        }
+    }
+    h1 {
+        font-family: 'Life Savers', cursive;
+    }
+}
+
+.home {
+    text-align: center;
+    margin: auto;
+    .post-list {
+        margin-bottom: 60px;
+    }
+    // h2 {
+    //     font-family: 'Life Savers', cursive;
+    // }
+}
+
+.line {
+    height: 0px;
+    // width: 300px;
+    border-top: 1px #ccc solid;
+    margin: auto;
+    // @media screen and (min-width: $tablet-width) {
+    //     width: 500px;
+    // }
+}
+.post-list li {
+    padding-bottom: 100px;
+}
+
+.post-list h3 {
+    // text-transform: uppercase;
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+.post-list h2 {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.post__meta--home {
+    padding: 50px 0 0px;
+    @media screen and (min-width: $desktop-width){
+        padding: 20px 0 0px;
+    }
+}
+
+.post__excerpt {
+    font-size: 1.2em;
+    padding: 30px 0 20px;
+}
+
+.post__thumbnail {
+    @media screen and (min-width: $desktop-width) {
+        @include post__thumbnail (200px, 20px) ;
+        float: left;
+    }
+}
+
+.post-title {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.post-content h2 {
+  font-style: italic;
+}
+
+.post-list p {
+    padding-bottom: 20px;
+}
+
+#instafeed img {
+    max-width: 150px;
+}
+
+.apple__news__logo {
+    text-align: center;
+}
+
+
+// BLOG STYLES
+
+.blog__post__list li {
+    padding-bottom: 15px;
+}
+
+.blog__post__list .btn__main {
+    background: none;
+    padding: 0;
+}
+
+.blog__post__list h1 {
+    font-size: 2em;
+    padding-bottom: 60px;
+}
+
+.blog__post__list .om__search__form {
+    padding-bottom: 30px;
+}
+
+.related_posts {
+  margin: 0;
+  margin: 5px 0 20px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  @media screen and (min-width: $tablet-width) {
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-between;
+  }
+  li {
+    margin-bottom: 20px !important;
+    font-size: 0.75em;
+  }
+}
+
+// .related_posts > li {
+//   @media screen and (min-width: $tablet-width) {
+//     box-sizing: border-box;
+//     margin-bottom: 20px;
+//     width: calc(1/4*100% - (1 - 1/4)*10px);
+//   }
+// }
+
+.related_posts {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(1, 1fr);
+  list-style-type: none;
+  margin: 0;
+  @media screen and (min-width: $tablet-width) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+
+// FOOTER
+
+.social__icons {
+  font-size: 1.2em;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px !important;
+  margin-left: 0px !important; }
+
+.social__icons--footer {
+  color: black;
+  padding: 0 5px; }
+
+.copyright {
+  font-size: 0.65em;
+  text-align: center }
+
+.search {
+    padding: 20px 0;
+}
+/*pagination*/
+.pagination {
+  display: flex;
+}
+
+.pagination_container {
+  display: flex;
+  justify-content: center;
+}
+
+.pagination li {
+  list-style-type: none;
+  padding: 0 10px;
+}
+
+// Tags List Pages
+// .related_taxonomy {
+//   margin: 0;
+//   margin: 5px 0 20px;
+//   list-style-type: none;
+//   display: flex;
+//   flex-direction: column;
+//   @media screen and (min-width: $tablet-width) {
+//       flex-direction: row;
+//       flex-wrap: wrap;
+//       justify-content: space-between;
+//   }
+//   li {
+//     margin-bottom: 20px !important;
+//     font-size: 0.75em;
+//   }
+// }
+//
+// .related_taxonomy > li {
+//   @media screen and (min-width: $tablet-width) {
+//     box-sizing: border-box;
+//     margin-bottom: 20px;
+//     width: calc(1/4*100% - (1 - 1/4)*10px);
+//   }
+// }
+.related_taxonomy {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(1, 1fr);
+  list-style-type: none;
+  margin: 0;
+  padding-bottom: 30px;
+  @media screen and (min-width: $tablet-width) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.heading_taxonomy {
+  padding-bottom: 30px;
+}
+
+
+
+// RECIPE Page
+
+.cat_heading {
+  text-align: center;
+}
+
+.recipe_content h2 {
+  font-style: italic;
+}
+
+.recipe_content h1 {
+  padding: 60px 0 20px;
+}
+
+.recipe_content h2 {
+  padding: 60px 0 20px;
+}
+
+// .recipe_content .btn_container {
+//   margin: 0 auto;
+// }
+
+
+.btn__main--recipe {
+    background: #F3F3F3;
+    padding: 7px;
+    font-size: 0.75em;
+    color: $accent-color !important;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 100px;
+    margin-bottom: 60px;
+}

@@ -3,7 +3,7 @@ backend:
   repo: oliveandmango/oliveandmango.github.io # Path to your Github repository
   branch: master # Branch to update
 
-media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
+media_folder: "./site/static/images/uploads" # Media files will be stored in the repo under images/uploads
 publish_mode: editorial_workflow
 
 collections:

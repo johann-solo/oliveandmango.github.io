@@ -1,0 +1,14 @@
+{{ partial "head" . }}
+<title>{{ .Page.Title }} | {{ $.Site.Title }}</title>
+
+
+{{ partial "header" . }}
+<h1>recipes</h1>
+{{ range $name, $items := .Site.Taxonomies.categories }}
+<li><a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}">{{ $name }} &nbsp;<span>({{ len $items }})</span></a>
+
+</li>
+{{ end }}
+
+
+{{ partial "footer" . }}

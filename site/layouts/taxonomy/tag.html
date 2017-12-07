@@ -1,0 +1,12 @@
+{{ partial "taxonomy-head" . }}
+{{ partial "header" . }}
+
+<div class="container">
+<h1 class="heading_taxonomy">Other posts related to "{{ .Title }}"</h1>
+<ul class="related_taxonomy">
+{{ range .Data.Pages }}
+    <li><a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+</div>
+{{ partial "footer" . }}

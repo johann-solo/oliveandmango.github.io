@@ -53,3 +53,7 @@ OCTOBER 13 2017
 Version 1.6.0 (starch)
 - Removed Apple News Button
 - Added Pintrest Site Verification
+
+DECEMBER 07 2017
+Version 2.0.0 (kalamata)
+- Switch to Hugo
