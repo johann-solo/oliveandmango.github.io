@@ -68,6 +68,7 @@ Makes one 10 cup bundt cake or 3 minis
 <br>
 
 **for the espresso filling**
+
 * 1/3 cup of coconut sugar or brown sugar
 * 1 tbsp of espresso powder or instant coffee powder
 * &frac12; tsp ground cinnamon
@@ -76,6 +77,7 @@ Makes one 10 cup bundt cake or 3 minis
 <br>
 
 **for the chocolate espresso rum glaze**
+
 * 2/3 cup semisweet chocolate chips
 * &frac14; cup heavy cream
 * 1 &frac12; tbsp of dark rum
@@ -85,6 +87,7 @@ Makes one 10 cup bundt cake or 3 minis
 
 ### Directions
 **for the bundt**
+
 1. Preheat oven to 350 &deg; F and heavily grease your pan or pans (every nook and cranny) and lightly dust with a bit of flour and set aside
 
 1. In a medium sized bowl whisk together the flour, baking powder, baking soda, salt and spices and set aside
@@ -102,6 +105,7 @@ Makes one 10 cup bundt cake or 3 minis
 <br>
 
 **for the glaze**
+
 1. In a small sauce pan over low heat melt the chocolate chips and whisk  together with the cream, coffee and vanilla extract.
 1. Once it’s smooth take off the heat and stir in the rum.
 1. Allow to cool for a few minutes before pouring it over the cake so that it has a thicker consistency and is easier to pour.  
@@ -118,10 +122,10 @@ Inspired by Pastry Affair
 
 ### Ingredients
 *	1 whole pumpkin 4-6 lbs or cut pumpkin pieces
-*	Pinch of salt<br>
+*	Pinch of salt
 <br>
 
-## Directions
+### Directions
 
 1. Preheat oven to 400 ° F
 1. Line one or two baking sheets with parchment paper
@@ -133,6 +137,7 @@ Inspired by Pastry Affair
 \* You can also cut the whole pumpkin in half and roast pieces whole but this takes longer to roast and more work to scrape off the flesh from the skin after. I do both and result is the same it just depends on how much time I have on hand and how lazy I am to chop and peel the pumpkin.
 
 \# you can also boil the pumpkin in water until softened and water evaporates but I prefer roasting it because it develops a unique sweetness and a nuttiness as well.
+<br>
 <br>
 
 ![Pumpkin Espresso Bundt Cake With A Chocolate Espresso Rum Glaze](/images/uploads/2017_12_05_pumpkin_esspresso_bundt_cake_8.jpg)
