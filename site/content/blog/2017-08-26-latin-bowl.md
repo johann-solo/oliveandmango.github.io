@@ -4,7 +4,7 @@ date: 2017-08-26T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_26_fiesta_bowl_1.JPG
 image: null
-categories: ["bowls"]
+categories: ["mains"]
 tags: ["vegetarian", "vegan"]
 excerpt: Fabulous Latin American flavours that with keep you full and satisfied and
   counting gains

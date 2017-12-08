@@ -4,7 +4,7 @@ date: "2017-01-19 7:30:35 -0400"
 author: Joanne
 permalink: spaghetti-meatballs
 thumbnail: /img/JAN2017/spaghetti_meatballs_1.jpg
-categories: ["dinners"]
+categories: ["mains"]
 tags: ["Italian"]
 excerpt: The tastiest meatballs and marinara sauce made the Italian way
 ---

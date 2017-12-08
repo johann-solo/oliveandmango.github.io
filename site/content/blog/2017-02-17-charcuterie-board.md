@@ -3,8 +3,8 @@ title: Awesome platters for entertaining your guests
 date: "2017-02-17 7:30:35 -0400"
 author: Joanne
 permalink: charcuterie-board
-thumbnail: /img/FEB2017/charcuterie_1.jpg
-categories: ["How-to's"]
+thumbnail: /img/FEB2017/charcuterie_2.jpg
+categories: ["How-to"]
 tags: ["platters"]
 excerpt: Make a great charcuterie board to fit any budget
 ---

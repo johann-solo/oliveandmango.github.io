@@ -4,7 +4,7 @@ date: 2017-08-12
 author: Joanne
 thumbnail: /images/uploads/2017_08_12_caribbean_bowl_1.jpg
 image: null
-categories: ["bowls"]
+categories: ["mains"]
 tags: ["Caribbean", "protein"]
 excerpt: A protein packed taste of island life
 ---

@@ -4,7 +4,7 @@ date: 2017-08-19T19:45:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_19_terikayi_salmon_1.jpg
 image: null
-categories: ["dinners"]
+categories: ["mains"]
 tags: ["Asian", "salmon"]
 excerpt: From the salmon to the gluten free noodles, sprouts and snow peas, this is
   a tasty bowl full of protein and other nutrients

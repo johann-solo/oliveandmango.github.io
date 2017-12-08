@@ -4,7 +4,7 @@ date: "2017-01-17 7:30:35 -0400"
 author: Joanne
 permalink: trini-curry
 thumbnail: /img/JAN2017/trini_curry_1.jpg
-categories: ["dinners"]
+categories: ["mains"]
 tags: ["Caribbean", "chicken"]
 excerpt: Make your curry the Caribbean way
 ---

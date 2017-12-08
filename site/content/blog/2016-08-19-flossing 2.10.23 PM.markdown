@@ -4,7 +4,7 @@ date:   2016-08-18 07:00:35 -0400
 author: Joanne
 permalink: flossing
 categories: ["wellness"]
-thumbnail: /img/AUG2016/dental_supplies.jpg
+thumbnail: /img/AUG2016/dental_tools.jpg
 tags: ["teeth"]
 excerpt: To floss or not to floss, that is the question
 ---

@@ -4,7 +4,7 @@ date: '2017-06-28 7:30:35 -0400'
 author: Joanne
 thumbnail: /images/uploads/cassoulet_pistou_5.jpg
 image: JUNE2017/cassoulet_pistou_1.jpg
-categories: ["dinners"]
+categories: ["mains"]
 tags: ["sausage"]
 excerpt: A satiating peasant dish packed with flavour and comfort. This white bean
   cassoulet and sausage will prove to be a hit. Don't forget the pistou!

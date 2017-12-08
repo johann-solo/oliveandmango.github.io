@@ -3,7 +3,7 @@ title: Dark Chocolate Coconut Banana Muffins
 date: 2017-09-19
 author: Joanne
 thumbnail: /images/uploads/2017_09_19_chocolate_coconut_banana_muffins_1.jpg
-categories: ["baking"]
+categories: ["desserts"]
 tags: ["muffins", "chocolate", "bananas", "coconut"]
 excerpt: A delicious way to make use of your ripened bananas
 ---

@@ -2,9 +2,9 @@
 title: Picnic essentials
 date: 2017-07-01T19:04:29.986Z
 author: 'Joanne '
-thumbnail: /images/uploads/IMG_3944.JPG
+thumbnail: /img/JUL2017/picnics_2.jpg
 image: JUL2017/picnics_1.jpg
-categories: ["How-to's"]
+categories: ["How-to"]
 tags: ["picnics"]
 excerpt: Keeping things simple is key to making the picnic experience fun for all
 ---

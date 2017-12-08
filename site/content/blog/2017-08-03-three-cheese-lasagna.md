@@ -4,7 +4,7 @@ date: 2017-08-03
 author: Joanne
 thumbnail: /images/uploads/2017_08_03_cheese_lasagna_1.jpg
 image: null
-categories: ["dinners"]
+categories: ["mains"]
 tags: ["Italian"]
 excerpt: The perfect family dinner &mdash; hearty, cheesy and so satisfying!
 ---

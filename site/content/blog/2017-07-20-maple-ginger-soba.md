@@ -4,7 +4,7 @@ date: 2017-07-20
 author: Joanne
 thumbnail: /images/uploads/2017_07_20_maple_ginger_soba_1.jpg
 image: null
-categories: ["bowls"]
+categories: ["mains"]
 tags: ["Asian"]
 excerpt: Tender saucy shrimp and noodles. The perfect midweek meal which comes together quickly and will satisfy the whole family!
 ---
