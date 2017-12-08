@@ -21,6 +21,14 @@
     </ul>
     <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/sides"><div class="btn__main--recipe ">Show more</div></a></span>
     <div class="line taxonomy_line"></div>
+    <h2 class="cat_heading">Breakfast</h2>
+    <ul class="related_taxonomy">
+      {{ range first 4 .Site.Taxonomies.categories.breakfast }}
+        <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
+      {{ end }}
+    </ul>
+    <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/breakfast"><div class="btn__main--recipe ">Show more</div></a></span>
+    <div class="line taxonomy_line"></div>
     <h2 class="cat_heading">Desserts</h2>
     <ul class="related_taxonomy">
       {{ range first 4 .Site.Taxonomies.categories.desserts }}
