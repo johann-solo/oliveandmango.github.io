@@ -50,6 +50,7 @@ The flavour was still the same and this will be on repeat for sure. Could not ge
 <br>
 
 **for the filling**
+
 * 15-ounce can or just under 2 cups of pumpkin puree (homemade recipe below)
 * ¾ cup packed dark brown sugar
 * ¼ cup bourbon or orange juice
@@ -60,6 +61,7 @@ The flavour was still the same and this will be on repeat for sure. Could not ge
 
 ### Directions
 **for the crust**
+
 1. In a large bowl beat the sugar and butter until well combined and then add the yolk and continue to mix until well incorporated
 1. Add the flour and salt just enough for all the flour to be incorporated. No need to over-mix
 1. Scrape the dough out of bowl onto a piece of plastic wrap and gather the dough and form it into a circular disc or a rectangular one depending on which pan you are using. Wrap it tight and refrigerate for at least one hour up to 2 days. Can also be frozen for up to a month. If using from frozen, allow to thaw overnight in the fridge before using.
@@ -71,6 +73,7 @@ The flavour was still the same and this will be on repeat for sure. Could not ge
 <br>
 
 **for the filling**
+
 1. While the tart crust bakes, in a medium nonstick skillet over medium-high heat, combine the pumpkin and brown sugar. Cook, stirring frequently, until the mixture is thickened, dark and leaves a film on the pan, about 10 minutes. Transfer to a 2-cup liquid measuring cup and the total mixture should be 1½ cups.
 1. **Once the tart bakes remove and set aside on a cooling rack and reduce oven temperature to 325 &deg; F**
 1. Add the bourbon or orange juice to the skillet, return to medium-high heat and stir, scraping up any browned bits; add to the pumpkin mixture.
