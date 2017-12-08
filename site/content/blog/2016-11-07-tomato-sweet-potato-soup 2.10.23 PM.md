@@ -4,8 +4,8 @@ date: "2016-11-07 09:30:35 -0400"
 author: Joanne
 permalink: tomato-sweet-potato-soup
 thumbnail: /img/NOV2016/tomato_sweet_potato_soup.jpg
-categories: ["sides"]
-tags: ["soups"]
+categories: ["soups"]
+tags: ["sweet potato"]
 excerpt: It's soup season, try this amazing combo of roasted tomatoes, basil and sweet potatoes
 ---
 

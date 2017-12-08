@@ -5,7 +5,7 @@ author: Joanne
 permalink: greek-beets
 thumbnail: /img/JAN2017/greek_beets_1.jpg
 categories: ["sides"]
-tags: ["Greek", "salad"]
+tags: ["Greek", "salads"]
 excerpt: For the love of beets
 ---
 

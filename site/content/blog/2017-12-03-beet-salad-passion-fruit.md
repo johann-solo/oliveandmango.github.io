@@ -4,7 +4,7 @@ date: 2017-12-03
 author: Joanne
 thumbnail: /images/uploads/2017_12_03_beet_salad_passionfruit_1.jpg
 categories: ["sides"]
-tags: ["salad", "beets", "passionfruit" ]
+tags: ["salads", "beets", "passionfruit" ]
 excerpt: These earthy jewels are turned into a bright sophisticated salad with this fabulous passion fruit dressing
 ---
 

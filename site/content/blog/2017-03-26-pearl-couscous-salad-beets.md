@@ -5,7 +5,7 @@ author: Joanne
 permalink: pearl-couscous-salad
 thumbnail: /img/MAR2017/couscous_salad_1.jpg
 categories: ["sides"]
-tags: ["salad"]
+tags: ["salads"]
 excerpt: A salad bursting with flavours of Spring and Summmer
 
 ---
