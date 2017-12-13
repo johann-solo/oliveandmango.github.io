@@ -3,9 +3,9 @@ title:  "Have your grapefruit roasted"
 date:   2016-11-01 09:30:35 -0400
 author: Joanne
 permalink: roasted-grapefruit
-thumbnail: /img/NOV2016/roasted_grapefruit.jpg
+thumbnail: /img/NOV2016/roasted_grapefruit_3.jpg
 categories: ["sides"]
-tags: ["fruit"]
+tags: ["grapefruit"]
 excerpt: Why not add a twist to your citrus the next time you need some natural Vitamin C
 
 ---
@@ -13,12 +13,12 @@ excerpt: Why not add a twist to your citrus the next time you need some natural 
 I have been feeling really run down the last few days.  I hear something is going around and it must be true because friends, workmates, and patients alike have been sick with some sort of flu bug.  I have been downing all my chicken and rice soup. I'm a big believer in vitamin C and echinacea too, but if I can have the real deal I will do that too. That's why I thought it would be perfect to roast some grapefruit and oranges that I still had around from the market just the other day.
 <br>
 <br>
-![Roasted grapefruit](/img/NOV2016/roasted_grapefruit_3.jpg)  
+![Roasted grapefruit](/img/NOV2016/roasted_grapefruit.jpg)  
 <br>
 <br>
 
-Grapefruits are so intense in flavour and I love them fresh or roasted. Roasting them just deepens the flavour and gives them a certain bitter-sweet smokiness.
-<br><br>
+Grapefruits are so intense in flavour and I love them fresh or roasted. Roasting them just deepens the flavour and gives them a certain bitter-sweet smokiness.  
+<br>
 
 Everyone knows grapefruits are great weight loss inducers because they charge up your metabolism and they are also full of vitamin C which makes them great for your immune system but did you know they can help reduce free radicals and even help with gum disease due to their vitamin C content?  
 
