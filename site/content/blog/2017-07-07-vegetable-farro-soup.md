@@ -6,7 +6,7 @@ thumbnail: /images/uploads/chicken_farro_soup_2.jpg
 image: JUL2017/chicken_farro_soup_1.jpg
 categories: ["soups"]
 tags: ["chicken"]
-excerpt: Chock-full of fresh herbs, sweet leeks and peas &mdash; a good-for-the-soul
+excerpt: Chock-full of fresh herbs, sweet leeks and peas – a good-for-the-soul
   kind of soup
 ---
 
