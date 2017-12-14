@@ -29,7 +29,7 @@ That word moderation is key.  Maybe eating loads of it daily is not a great idea
 <br>
 <br>
 
-The tart crust is crisp and rich in chocolate flavour thanks to the double chocolate gluten free and vegan cookies I used to make it with from GoGo quinoa.  Let’s talk about the cookies themselves - I will talk them up a bit not just cause they are totally delicious but they are a Canadian based product and my inner Canuck is quite proud of that fact to! My husband hates all things gluten free and he loved these cookies. They have a delicious crisp texture with a great crumble and the chocolate is a wonderful deep rich chocolate - me and my husband both could not stop eating them. So you can imagine how fabulous the tart crust tastes.
+The tart crust is crisp and rich in chocolate flavour thanks to the double chocolate gluten free and vegan cookies I used to make it with from GoGo quinoa.  Let’s talk about the cookies themselves – I will talk them up a bit not just cause they are totally delicious but they are a Canadian based product and my inner Canuck is quite proud of that fact to! My husband hates all things gluten free and he loved these cookies. They have a delicious crisp texture with a great crumble and the chocolate is a wonderful deep rich chocolate – me and my husband both could not stop eating them. So you can imagine how fabulous the tart crust tastes.
 <br>
 <br>
 
@@ -43,7 +43,7 @@ If you don’t already know this about me – I bleed chocolate hazelnut. I’m 
 <br>
 <br>
 
-This is a fabulous tart in general – not for being vegan or gluten free but all in all. This is great if you have vegan guests. It’s the only dessert you have to make.  You wouldn’t even need a separate one because every single person would enjoy it and would not know at all that it was gluten free or vegan. So definitely include this little festive tart for any occasion! You will fall in love with it!
+This is a fabulous tart in general – not for being vegan or gluten free but as a whole. This is great if you have vegan guests. It’s the only dessert you have to make.  You wouldn’t even need a separate one because every single person would enjoy it and would not know at all that it was gluten free or vegan. So definitely include this little festive tart for any occasion! You will fall in love with it!
 <br>
 <br>
 
