@@ -11,42 +11,42 @@ excerpt: Sinfully decadent without any guilt
 This is a decadent dessert that no one will believe is gluten free and vegan. No one will believe there is tofu in it either.  I have tried a few other vegan fillings for this tart and I have to say none were as smooth and creamy in texture as this one nor could they hold up as well as the tofu. They ended up melting a way sort of.
 <br>
 <br>
-
+![Vegan Chocolate Hazelnut Tart ](/images/uploads/2017_12_14_chocolate_vegan_tart_2.jpg)
 <br>
 <br>
 
 Let’s lay all the cards out on the table shall we. Let’s talk about tofu right off the bat. I have already received some bad reviews on this tart before people have even tasted it for the mere fact that they learned there’s tofu in it. I don’t totally blame them. Tofu has gotten a bit of a bad rep over the last few years I find. I don’t know if it’s just over done or people becoming allergic/sensitive to it,  or because of the way it’s produced and processed, or whatever the case many be.  My opinion of it has even been affected by the stigma of it.  That being said though, it is a high source of protein and an excellent source of protein for vegans and many enjoy it in moderation.
 <br>
 <br>
-
+![Vegan Chocolate Hazelnut Tart ](/images/uploads/2017_12_14_chocolate_vegan_tart_3.jpg)
 <br>
 <br>
 
 That word moderation is key.  Maybe eating loads of it daily is not a great idea just like eating loads of cheese daily is not so much of a good idea either. That is my two cents on the matter. I absolutely love the filling with the tofu and would not change it one bit. I will continue to test and search for other vegan alternatives but so far this is the tastiest and the best textured one I have tried. You won’t be disappointed and no one would ever guess it’s made of tofu.
 <br>
 <br>
-
+![Vegan Chocolate Hazelnut Tart ](/images/uploads/2017_12_14_chocolate_vegan_tart_4.jpg)
 <br>
 <br>
 
 The tart crust is crisp and rich in chocolate flavour thanks to the double chocolate gluten free and vegan cookies I used to make it with from GoGo quinoa.  Let’s talk about the cookies themselves – I will talk them up a bit not just cause they are totally delicious but they are a Canadian based product and my inner Canuck is quite proud of that fact to! My husband hates all things gluten free and he loved these cookies. They have a delicious crisp texture with a great crumble and the chocolate is a wonderful deep rich chocolate – me and my husband both could not stop eating them. So you can imagine how fabulous the tart crust tastes.
 <br>
 <br>
-
+![Vegan Chocolate Hazelnut Tart ](/images/uploads/2017_12_14_chocolate_vegan_tart_5.jpg)
 <br>
 <br>
 
 If you don’t already know this about me – I bleed chocolate hazelnut. I’m basically 20 (maybe 15 and 5 coffee) percent Nutella inside so my flavour of choice to combine chocolate with is hazelnut and coffee. You can definitely swap out the hazelnut liqueur out for coffee liqueur or some cold brew coffee itself if you don’t want the alcohol in it. All of those options would be wonderful but I love Frangelico so adding it was a no brainer.  
 <br>
 <br>
-
+![Vegan Chocolate Hazelnut Tart ](/images/uploads/2017_12_14_chocolate_vegan_tart_6.jpg)
 <br>
 <br>
 
 This is a fabulous tart in general – not for being vegan or gluten free but as a whole. This is great if you have vegan guests. It’s the only dessert you have to make.  You wouldn’t even need a separate one because every single person would enjoy it and would not know at all that it was gluten free or vegan. So definitely include this little festive tart for any occasion! You will fall in love with it!
 <br>
 <br>
-
+![Vegan Chocolate Hazelnut Tart ](/images/uploads/2017_12_14_chocolate_vegan_tart_7.jpg)
 <br>
 <br>
 
@@ -109,6 +109,4 @@ This is a fabulous tart in general – not for being vegan or gluten free but as
 \* You may need more coconut oil if you are using regular chocolate wafer biscuits.  The ones I used have oil in them already and chocolate chips which moisten the crumbs slightly even before you add the oil to them that’s why I was conservative with the oil in this recipe.
 <br>
 <br>
-
-<br>
-<br>
+![Vegan Chocolate Hazelnut Tart ](/images/uploads/2017_12_14_chocolate_vegan_tart_8.jpg)
