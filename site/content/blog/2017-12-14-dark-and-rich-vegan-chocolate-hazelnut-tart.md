@@ -1,11 +1,10 @@
 ---
-layout: post
 title: 'Dark And Rich Vegan Chocolate Hazelnut Tart '
 date: 2017-12-14T12:55:59.514Z
 author: Joanne
-thumbnail: /site/static/images/uploads/2017_12_14_chocolate_vegan_tart_1.jpg
-categories: '["desserts"]'
-tags: '["chocolate", "vegan", "gluten free",]'
+thumbnail: /images/uploads/2017_12_14_chocolate_vegan_tart_1.jpg
+categories: ["desserts"]
+tags: ["chocolate", "vegan", "gluten free"]
 excerpt: Sinfully decadent without any guilt
 ---
 This is a decadent dessert that no one will believe is gluten free and vegan. No one will believe there is tofu in it either.  I have tried a few other vegan fillings for this tart and I have to say none were as smooth and creamy in texture as this one nor could they hold up as well as the tofu. They ended up melting a way sort of.
@@ -36,7 +35,7 @@ The tart crust is crisp and rich in chocolate flavour thanks to the double choco
 <br>
 <br>
 
-If you don’t already know this about me – I bleed chocolate hazelnut. I’m basically 20 (maybe 15 and 5 coffee) percent Nutella inside so my flavour of choice to combine chocolate with is hazelnut and coffee. You can definitely swap out the hazelnut liqueur out for coffee liqueur or some cold brew coffee itself if you don’t want the alcohol in it. All of those options would be wonderful but I love Frangelico so adding it was a no brainer.  
+If you don’t already know this about me – I bleed chocolate hazelnut. I’m basically 20 (maybe 15 and 5 coffee) percent Nutella inside so my flavour of choice to combine chocolate with is hazelnut and coffee. You can definitely swap out the hazelnut liqueur out for coffee liqueur or some cold brew coffee itself if you don’t want the alcohol in it. All of those options would be wonderful but I love Frangelico so adding it was a no brainer.
 <br>
 <br>
 ![Vegan Chocolate Hazelnut Tart ](/images/uploads/2017_12_14_chocolate_vegan_tart_6.jpg)
@@ -50,62 +49,62 @@ This is a fabulous tart in general – not for being vegan or gluten free but as
 <br>
 <br>
 
-### Ingredients 
+### Ingredients
 
 **for the chocolate biscuit crust**
 
-* 9-10 ounces (approx 16 cookies) of chocolate wafer cookies - I used GoGo Quinoa’s double chocolate cookies 
+* 9-10 ounces (approx 16 cookies) of chocolate wafer cookies - I used GoGo Quinoa’s double chocolate cookies
 
-* 1&frac12; tbsp coconut sugar or brown sugar 
+* 1&frac12; tbsp coconut sugar or brown sugar
 
 * &frac14; cup of coconut oil plus  a couple of extra tbsp if needed \*
 
 
 **for the filling**
 
-* 13 ounces of dark chocolate or semisweet vegan chocolate or chocolate chips (dark chocolate for a richer filling) 
+* 13 ounces of dark chocolate or semisweet vegan chocolate or chocolate chips (dark chocolate for a richer filling)
 
-* 1/3 cup of hazelnut liquor ( I used Frangelico) 
+* 1/3 cup of hazelnut liquor ( I used Frangelico)
 
-* 1 tsp pure vanilla extract 
+* 1 tsp pure vanilla extract
 
-* 1 lb of silken tofu - drained 
+* 1 lb of silken tofu - drained
 
-* 1 tbsp of maple syrup 
+* 1 tbsp of maple syrup
 
-* Chopped hazelnuts to garnish tart with and make it even more festive with some pomegranate (I also like to serve it plain with some coconut whip) 
+* Chopped hazelnuts to garnish tart with and make it even more festive with some pomegranate (I also like to serve it plain with some coconut whip)
 <br>
 <br>
 
-### Directions 
+### Directions
 
 1. Place a few layers of paper towels on top of a cutting board or you can use a clean dish towel. Place the tofu over it. Them place a large plate over the tofu and one or two cans of tomatoes or beans on top as weights and let the tofu drain like that while you prep the crust.
 
-1. Preheat oven to 350 &deg; F 
+1. Preheat oven to 350 &deg; F
 
-1. In a food processor or high speed blender process the pulse the cookies and sugar combined until they are a fine textured crumbs. (No electronic gadgets around no problem – stick them in a sealable plastic bag and use a rolling pin to crush them into crumbs) 
+1. In a food processor or high speed blender process the pulse the cookies and sugar combined until they are a fine textured crumbs. (No electronic gadgets around no problem – stick them in a sealable plastic bag and use a rolling pin to crush them into crumbs)
 
-1. Drizzle in the coconut oil and pulse to combine or stir it in if doing manually. Test the texture. When pressed to the side of the food processor or bowl they should hold.  If they don’t then add more coconut oil 1 tbsp at a time until you get the consistency you want. 
+1. Drizzle in the coconut oil and pulse to combine or stir it in if doing manually. Test the texture. When pressed to the side of the food processor or bowl they should hold.  If they don’t then add more coconut oil 1 tbsp at a time until you get the consistency you want.
 
 1. Pour mixture out into tart pan and press it firmly and evenly along the bottom of pan and up the sides of it
 
-1. Bake for approx 15-20 minutes until it’s appears dry.  It may still be soft but it will harden as it cools.  Remove from the oven when done and let cool completely. 
+1. Bake for approx 15-20 minutes until it’s appears dry.  It may still be soft but it will harden as it cools.  Remove from the oven when done and let cool completely.
 
 **While the tart crust cools prepare the filling**
 
-1. Prepare a double broiler (metal bowl set over simmering water) to melt your chocolate chips along with the liqueur and vanilla extract. Stir continuously until chocolate is melted and smooth.  Remove from heat and set aside. 
+1. Prepare a double broiler (metal bowl set over simmering water) to melt your chocolate chips along with the liqueur and vanilla extract. Stir continuously until chocolate is melted and smooth.  Remove from heat and set aside.
 
-1. Place your tofu, maple syrup along with the chocolate mixture in a food processor or high speed blender and process until smooth for approx 1 minutes. 
+1. Place your tofu, maple syrup along with the chocolate mixture in a food processor or high speed blender and process until smooth for approx 1 minutes.
 
-1. Pour the filling into the tart crust and smooth with a metal spatula. 
+1. Pour the filling into the tart crust and smooth with a metal spatula.
 
 1. Refrigerate for at least two hours or until the filing is firmly set.  
 
-1. Serve garnished with chopped hazelnuts. 
+1. Serve garnished with chopped hazelnuts.
 <br>
 <br>
 
-### Recipe Notes 
+### Recipe Notes
 \* You may need more coconut oil if you are using regular chocolate wafer biscuits.  The ones I used have oil in them already and chocolate chips which moisten the crumbs slightly even before you add the oil to them that’s why I was conservative with the oil in this recipe.
 <br>
 <br>
