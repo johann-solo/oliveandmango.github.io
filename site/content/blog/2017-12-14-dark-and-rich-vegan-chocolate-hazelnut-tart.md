@@ -72,7 +72,9 @@ This is a fabulous tart in general – not for being vegan or gluten free but as
 
 * 1 tbsp of maple syrup
 
-* Chopped hazelnuts to garnish tart with and make it even more festive with some pomegranate (I also like to serve it plain with some coconut whip)
+* Chopped hazelnuts to garnish tart with and make it even more festive with some pomegranate (I also like to serve it plain with some coconut whip)  
+
+![Vegan Chocolate Hazelnut Tart ](/images/uploads/2017_12_14_chocolate_vegan_tart_8.jpg)
 <br>
 <br>
 
@@ -108,4 +110,4 @@ This is a fabulous tart in general – not for being vegan or gluten free but as
 \* You may need more coconut oil if you are using regular chocolate wafer biscuits.  The ones I used have oil in them already and chocolate chips which moisten the crumbs slightly even before you add the oil to them that’s why I was conservative with the oil in this recipe.
 <br>
 <br>
-![Vegan Chocolate Hazelnut Tart ](/images/uploads/2017_12_14_chocolate_vegan_tart_8.jpg)
+![Vegan Chocolate Hazelnut Tart ](/images/uploads/2017_12_14_chocolate_vegan_tart_9.jpg)
