@@ -3,7 +3,7 @@ layout: post
 title: 'Dark And Rich Vegan Chocolate Hazelnut Tart '
 date: 2017-12-14T12:55:59.514Z
 author: Joanne
-thumbnail: /site/static/images/uploads/2017_07_07_watermelon_slushie_2.jpg
+thumbnail: /site/static/images/uploads/2017_12_14_chocolate_vegan_tart_1.jpg
 categories: '["desserts"]'
 tags: '["chocolate", "vegan", "gluten free",]'
 excerpt: Sinfully decadent without any guilt
