@@ -28,7 +28,7 @@ That word moderation is key.  Maybe eating loads of it daily is not a great idea
 <br>
 <br>
 
-The tart crust is crisp and rich in chocolate flavour thanks to the double chocolate gluten free and vegan cookies I used to make it with from GoGo quinoa.  Let’s talk about the cookies themselves – I will talk them up a bit not just cause they are totally delicious but they are a Canadian based product and my inner Canuck is quite proud of that fact to! My husband hates all things gluten free and he loved these cookies. They have a delicious crisp texture with a great crumble and the chocolate is a wonderful deep rich chocolate – me and my husband both could not stop eating them. So you can imagine how fabulous the tart crust tastes.
+The tart crust is crisp and rich in chocolate flavour thanks to the double chocolate gluten free and vegan cookies I used to make it with from [GoGo Quinoa](https://www.gogoquinoa.com/products/double-chocolate-quinoa-cookies/).  Let’s talk about the cookies themselves – I will talk them up a bit not just cause they are totally delicious but they are a Canadian based product and my inner Canuck is quite proud of that fact to! My husband hates all things gluten free and he loved these cookies. They have a delicious crisp texture with a great crumble and the chocolate is a wonderful deep rich chocolate – me and my husband both could not stop eating them. So you can imagine how fabulous the tart crust tastes.
 <br>
 <br>
 ![Vegan Chocolate Hazelnut Tart ](/images/uploads/2017_12_14_chocolate_vegan_tart_5.jpg)
@@ -53,7 +53,7 @@ This is a fabulous tart in general – not for being vegan or gluten free but as
 
 **for the chocolate biscuit crust**
 
-* 9-10 ounces (approx 16 cookies) of chocolate wafer cookies - I used GoGo Quinoa’s double chocolate cookies
+* 9-10 ounces (approx 16 cookies) of chocolate wafer cookies - I used <span class="highlight">[GoGo Quinoa's](https://www.gogoquinoa.com/products/double-chocolate-quinoa-cookies/)</span> double chocolate cookies
 
 * 1&frac12; tbsp coconut sugar or brown sugar
 
