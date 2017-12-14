@@ -28,14 +28,14 @@ That word moderation is key.  Maybe eating loads of it daily is not a great idea
 <br>
 <br>
 
-The tart crust is crisp and rich in chocolate flavour thanks to the double chocolate gluten free and vegan cookies I used to make it with from [GoGo Quinoa](https://www.gogoquinoa.com/products/double-chocolate-quinoa-cookies/).  Let’s talk about the cookies themselves – I will talk them up a bit not just cause they are totally delicious but they are a Canadian based product and my inner Canuck is quite proud of that fact to! My husband hates all things gluten free and he loved these cookies. They have a delicious crisp texture with a great crumble and the chocolate is a wonderful deep rich chocolate – me and my husband both could not stop eating them. So you can imagine how fabulous the tart crust tastes.
+The tart crust is crisp and rich in chocolate flavour thanks to the double chocolate gluten free and vegan cookies I used to make it with from [GoGo Quinoa](https://www.gogoquinoa.com/products/double-chocolate-quinoa-cookies/).  Let’s talk about the cookies themselves – I will talk them up a bit not just cause they are totally delicious but they are a Canadian based product and my inner Canuck is quite proud of that fact too! My husband hates all things gluten free and he loved these cookies. They have a delicious crisp texture with a great crumble and the chocolate is a wonderful deep rich chocolate – me and my husband both could not stop eating them. So you can imagine how fabulous the tart crust tastes.
 <br>
 <br>
 ![Vegan Chocolate Hazelnut Tart ](/images/uploads/2017_12_14_chocolate_vegan_tart_5.jpg)
 <br>
 <br>
 
-If you don’t already know this about me – I bleed chocolate hazelnut. I’m basically 20 (maybe 15 and 5 coffee) percent Nutella inside so my flavour of choice to combine chocolate with is hazelnut and coffee. You can definitely swap out the hazelnut liqueur out for coffee liqueur or some cold brew coffee itself if you don’t want the alcohol in it. All of those options would be wonderful but I love Frangelico so adding it was a no brainer.
+If you don’t already know this about me – I bleed chocolate hazelnut. I’m basically 20 (maybe 15 and 5 coffee) percent Nutella inside so my flavour of choice to combine chocolate with is hazelnut and coffee. You can definitely swap out the hazelnut liqueur for coffee liqueur or some cold brew coffee itself if you don’t want the alcohol in it. All of those options would be wonderful but I love Frangelico so adding it was a no brainer.
 <br>
 <br>
 ![Vegan Chocolate Hazelnut Tart ](/images/uploads/2017_12_14_chocolate_vegan_tart_6.jpg)
@@ -64,7 +64,7 @@ This is a fabulous tart in general – not for being vegan or gluten free but as
 
 * 13 ounces of dark chocolate or semisweet vegan chocolate or chocolate chips (dark chocolate for a richer filling)
 
-* 1/3 cup of hazelnut liquor ( I used Frangelico)
+* 1/3 cup of hazelnut liqueur ( I used Frangelico)
 
 * 1 tsp pure vanilla extract
 
@@ -80,13 +80,13 @@ This is a fabulous tart in general – not for being vegan or gluten free but as
 
 ### Directions
 
-1. Place a few layers of paper towels on top of a cutting board or you can use a clean dish towel. Place the tofu over it. Them place a large plate over the tofu and one or two cans of tomatoes or beans on top as weights and let the tofu drain like that while you prep the crust.
+1. Place a few layers of paper towels on top of a cutting board or you can use a clean dish towel. Place the tofu over it. Then place a large plate over the tofu and one or two cans of tomatoes or beans on top as weights and let the tofu drain like that while you prep the crust.
 
 1. Preheat oven to 350 &deg; F
 
-1. In a food processor or high speed blender process the pulse the cookies and sugar combined until they are a fine textured crumbs. (No electronic gadgets around no problem – stick them in a sealable plastic bag and use a rolling pin to crush them into crumbs)
+1. In a food processor or high speed blender pulse the cookies and sugar combined until they are a fine textured crumbs. (No electronic gadgets around no problem – stick them in a sealable plastic bag and use a rolling pin to crush them into crumbs)
 
-1. Drizzle in the coconut oil and pulse to combine or stir it in if doing manually. Test the texture. When pressed to the side of the food processor or bowl they should hold.  If they don’t then add more coconut oil 1 tbsp at a time until you get the consistency you want.
+1. Drizzle in the coconut oil and pulse to combine or stir it in if doing manually. Test the texture. When pressed to the side of the food processor or bowl they should hold. If they don’t then add more coconut oil 1 tbsp at a time until you get the consistency you want.
 
 1. Pour mixture out into tart pan and press it firmly and evenly along the bottom of pan and up the sides of it
 
@@ -96,7 +96,7 @@ This is a fabulous tart in general – not for being vegan or gluten free but as
 
 1. Prepare a double broiler (metal bowl set over simmering water) to melt your chocolate chips along with the liqueur and vanilla extract. Stir continuously until chocolate is melted and smooth.  Remove from heat and set aside.
 
-1. Place your tofu, maple syrup along with the chocolate mixture in a food processor or high speed blender and process until smooth for approx 1 minutes.
+1. Place your tofu, maple syrup along with the chocolate mixture in a food processor or high speed blender and process until smooth for approx 1 minute.
 
 1. Pour the filling into the tart crust and smooth with a metal spatula.
 
