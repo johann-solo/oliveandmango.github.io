@@ -15,14 +15,14 @@ If you want a creamy delicious baked pasta dish sans the cheeses and gluten you 
 <br>
 <br>
 
-I have partnered up with an awesome Canadian company that has fabulous gluten free and vegan products. I particularly the love the texture of quinoa pasta and Gogo quinoa’s pasta does not disappoint. It works wonderfully with this pasta bake.
+I have partnered up with an awesome Canadian company that has fabulous gluten free and vegan products. I particularly love the texture of quinoa pasta and [GoGo Quinoa's](https://www.gogoquinoa.com/products/fusilli-quinoa/) pasta does not disappoint. It works wonderfully with this pasta bake.
 <br>
 <br>
 ![Creamy Vegan Sundried Tomato Baked Pasta](/images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_3.jpg)
 <br>
 <br>
 
-You noticed that I give you two ways of preparing the pasta in the directions.  I read in a Food 52 article on baked pastas that the best way to achieve a great textured pasta for baked pastas is to soak the pasta in hot water as opposed to boiling it.  Either way is fine with this recipe but I personally love to soak mine. You don’t have to bring a huge pot of pasta water to boil- also one less huge pot you have to clean.  Simple and by the time your sauces are made for this the pasta will be ready.
+You noticed that I give you two ways of preparing the pasta in the directions.  I read in a Food 52 article on baked pastas that the best way to achieve a great textured pasta for baked pastas is to soak the pasta in hot water as opposed to boiling it. Either way is fine with this recipe but I personally love to soak mine. You don’t have to bring a huge pot of pasta water to boil – also one less huge pot you have to clean. Simple and by the time your sauces are made for this, the pasta will be ready.
 <br>
 <br>
 ![Creamy Vegan Sundried Tomato Baked Pasta](/images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_4.jpg)
@@ -40,21 +40,21 @@ The red sauce has so much flavour it’s unbelievable! It had notes of pesto fro
 
 > I particularly the love the texture of quinoa pasta and Gogo Quinoa’s pasta does not disappoint
 
-This entire dish is a real mash up of several recipes and ideas I had. I mentioned the one above and then Eatwithinyourmeans for a take on their cashew sauce and Foodwithmyfamily inspired the red sauce – which I have made many times before.  I wanted the same great flavours of some of the most delicious baked pasta dishes I have made into this vegan and gluten free dish. Fully achieved with the super flavour packed red sauce, the creamy vegan cashew cream. I needed to add some crunch though and that’s why I decided to add the bread crumbs between layers and on top.  It’s perfect. I love all the textures in this dish.
+This entire dish is a real mash up of several recipes and ideas I had. I mentioned the one above and then Eatwithinyourmeans for a take on their cashew sauce and Foodwithmyfamily inspired the red sauce – which I have made many times before.  I wanted the same great flavours of some of the most delicious baked pasta dishes I have made into this vegan and gluten free dish. Fully achieved with the super flavour packed red sauce and the creamy vegan cashew cream. I needed to add some crunch though and that’s why I decided to add the bread crumbs between layers and on top.  It’s perfect. I love all the textures in this dish.
 <br>
 <br>
 ![Creamy Vegan Sundried Tomato Baked Pasta](/images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_7.jpg)
 <br>
 <br>
 
-I have to say we did not miss the cheese or the creamy béchamel sauce of our regular baked pasta or Mac and cheese at all. We loved this! This would be perfect on any occasion and for anyone. A great dish for entertaining and all would enjoy it regardless of whether they have food allergies or intolerances.
+I have to say we did not miss the cheese or the creamy béchamel sauce from my regular baked pasta or Mac and cheese at all. We loved this! This would be perfect on any occasion and for anyone. A great dish for entertaining and all would enjoy it regardless of whether they have food allergies or intolerances.
 <br>
 <br>
 ![Creamy Vegan Sundried Tomato Baked Pasta](/images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_8.jpg)
 <br>
 <br>
 
-I have a giveaway going on in partnership with [GoGo Quinoa](https://www.gogoquinoa.com/products/fusilli-quinoa/) and you can win the pasta for this dish as well as the cookies I used for the [chocolate hazelnut tart](https://www.oliveandmango.com/dark-and-rich-vegan-chocolate-hazelnut-tart/) I made in partnership with them. So do check it out on my IG and qualify to win!!
+I have a giveaway going on in partnership with [GoGo Quinoa](https://www.gogoquinoa.com/products/fusilli-quinoa/) and you can win the pasta for this dish as well as the cookies I used for the [chocolate hazelnut tart](https://www.oliveandmango.com/dark-and-rich-vegan-chocolate-hazelnut-tart/) I made in partnership with them. So do check it out on my [Instsgram Post](https://www.instagram.com/p/Bc0HWLmlGvO/?taken-by=theoliveandmango) and qualify to win!!
 <br>
 <br>
 ![Creamy Vegan Sundried Tomato Baked Pasta](/images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_9.jpg)
@@ -86,7 +86,7 @@ I have a giveaway going on in partnership with [GoGo Quinoa](https://www.gogoqui
 
 * 1 can of diced tomatoes
 * 1 cup of vegetable broth or water
-* 1 heaping tbsp of tomatoe paste
+* 1 heaping tbsp of tomato paste
 * 1 roasted red pepper (roast on the grill or in the oven on broil until blackened and blistered all around, allow to rest in foil for a few minutes to steam and cool and then peel and remove seeds and chop)***
 * &frac12; cup basil
 * Pinch of chili flakes
@@ -102,7 +102,7 @@ I have a giveaway going on in partnership with [GoGo Quinoa](https://www.gogoqui
 
 1. Grate the zucchini and put in a large bowl and set aside
 
-1. Soak your pasta in hot water from a kettle (place pasta in large bowl and cover with hot water stirring every so often until al dente - approx 10-15 minutes depending on which pasta your use) or boil until al dente then drain and add he pasta to the bowl of zucchini along with 2 tbsp of olive oil and season with salt and pepper to taste tossing well until zucchini is fully mixed in with the pasta. Set aside.
+1. Soak your pasta in hot water from a kettle (place pasta in large bowl and cover with hot water stirring every so often until al dente - approx 10-15 minutes depending on which pasta you use) or boil until al dente then drain and add the pasta to the bowl of zucchini along with 2 tbsp of olive oil and season with salt and pepper to taste tossing well until zucchini is fully mixed in with the pasta. Set aside.
 
 1. While the pasta is soaking make your sauces
 
@@ -135,7 +135,7 @@ Homemade GF bread crumbs:
 * Process them in a food processor until they are bread crumb.
 <br>
 
-\* You can also used the bottle kind of related red pepper too. Either works well but the roasted ones usually have a nice smokier flavour that they add to the dish.
+\* You can also used the bottle kind of roasted red pepper too. Either works well but the roasted ones usually have a nice smokier flavour that they add to the dish.
 <br>
 <br>
 ![Creamy Vegan Sundried Tomato Baked Pasta](/images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_10.jpg)
