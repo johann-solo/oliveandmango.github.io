@@ -1,93 +1,141 @@
 ---
-title: Chocolate Mint Crinkle Cookies
-date: 2017-12-16
+title: Creamy Vegan Sundried Tomato Baked Pasta
+date: 2017-12-17
 author: Joanne
-thumbnail: /images/uploads/2017_12_16_chocolate_crinkle_cookies_1.jpg
-categories: ["desserts"]
-tags: ["chocolate", "mint", "cookies"]
-excerpt: Dark chocolate mint addictive flavour bombs
+thumbnail: /images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_1.jpg
+categories: ["mains"]
+tags: ["gluten free", "vegan", "pasta"]
+excerpt: A baked pasta with an unbelievably flavoured red sauce
 ---
 
-I have never made these crinkle cookies before but have had them many times. We had a patient at one of the offices I use to work at back home who use to bake and bring them in for us girls and I loved them and since I moved here I haven’t had any nor have I thought about them. That is until I received a big bunch of fresh mint. I wondered what to do with it. I used a lot of it in my fasolatha and I also made some cocktails using it too. But then I remembered these moist chewy cookies that I adored and couldn’t get enough of and started to search my way through dozens of recipes on how to incorporate fresh mint into them and then also try to locate a solid basic crinkle cookie recipe too, and this is what I came up with.
+If you want a creamy delicious baked pasta dish sans the cheeses and gluten you have come to the right place.  Give up none of the comfy cozy flavours of a pasta bake with this vegan one that you will not be able to stop eating.
 <br>
 <br>
-![Chocolate Mint Crinkle Cookies](/images/uploads/2017_12_16_chocolate_crinkle_cookies_2.jpg)
-<br>
-<br>
-
-Why use fresh mint instead of peppermint extract? Excellent question. Before I attempted to try using the fresh I did the rounds to all the groceries and specialty shops and could not find some. This was before the holiday season though. Now I have found some at 3 different places and needless to say stocked up on a bottle or two of it. I prefer to use pure extract not just a mint or vanilla essence. It makes a huge difference in flavour and taste and the quality of baked goods you use it in. That is the first reason, and the second reason was purely a want to experiment and use the whole lot of fresh mint I had just received.
-<br>
-<br>
-![Chocolate Mint Crinkle Cookies](/images/uploads/2017_12_16_chocolate_crinkle_cookies_3.jpg)
-<br>
-<br>
-![Chocolate Mint Crinkle Cookies](/images/uploads/2017_12_16_chocolate_crinkle_cookies_4.jpg)
+![Creamy Vegan Sundried Tomato Baked Pasta](/images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_2.jpg)
 <br>
 <br>
 
-Many recipes call for getting the flavour and oils from the mint and then discarding it, but there was one that used the whole darn thing and I thought that was brave and wonderful so that is what I did! The amazing thing about it is that when you process the sugar and mint together they become one. It seems like the oils melt through the leafy bits of it and you are left with a green dusty sugar. It’s amazing and there are no chunks of mint in the cookies. You end up with intense peppermint chocolate crinkle cookie bombs of flavour.  Mint bursting into each bite you take.  Chewy delicious rich chocolate flavored cookies.
+I have partnered up with an awesome Canadian company that has fabulous gluten free and vegan products. I particularly the love the texture of quinoa pasta and Gogo quinoa’s pasta does not disappoint. It works wonderfully with this pasta bake.
 <br>
 <br>
-![Chocolate Mint Crinkle Cookies](/images/uploads/2017_12_16_chocolate_crinkle_cookies_5.jpg)
-<br>
-<br>
-![Chocolate Mint Crinkle Cookies](/images/uploads/2017_12_16_chocolate_crinkle_cookies_6.jpg)
+![Creamy Vegan Sundried Tomato Baked Pasta](/images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_3.jpg)
 <br>
 <br>
 
-I took them to a little gathering not knowing what to expect and everyone loved them.  They served them on their own and with ice cream and they were awesome with the ice cream. I strongly recommend it in fact. Whichever way you make them with the fresh mint or extract I know you will enjoy these cookies. One thing I did notice when using the fresh mint and I thought it was kind of cool although subtle – if you look closely enough you will notice that a very slight green tone pushes through the sugar. You are using fresh mint after all!!
+You noticed that I give you two ways of preparing the pasta in the directions.  I read in a Food 52 article on baked pastas that the best way to achieve a great textured pasta for baked pastas is to soak the pasta in hot water as opposed to boiling it.  Either way is fine with this recipe but I personally love to soak mine. You don’t have to bring a huge pot of pasta water to boil- also one less huge pot you have to clean.  Simple and by the time your sauces are made for this the pasta will be ready.
 <br>
 <br>
-![Chocolate Mint Crinkle Cookies](/images/uploads/2017_12_16_chocolate_crinkle_cookies_7.jpg)
+![Creamy Vegan Sundried Tomato Baked Pasta](/images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_4.jpg)
 <br>
 <br>
 
-They are like a rich chocolatey fudgey After eight thin mints or sticks. You all know what I mean.  Those sticks of mint chocolate that I use to roll my eyes at when someone would come over for dinner at my parents house and would bring them as a host gift. Then I would find myself days later watching tv and eating the whole box of them cause you just can’t stop at one. These are just as addictive.  You have one and then you just keep going back for more!! Definitely add them to your cookie list – you will love them and how surprisingly simple they are to make!
+Another tip I learned from somebody else, I cannot remember who, but a great little tip for if you forget to soak your cashews and don’t have 2-4 hours to wait just soak the cashews in barely boiling (not boiling though) hot water for 15-20 minutes. I had to do that the first time I made this dish when I was testing it out because I completely forgot about the cashews.
 <br>
 <br>
-![Chocolate Mint Crinkle Cookies](/images/uploads/2017_12_16_chocolate_crinkle_cookies_8.jpg)
+![Creamy Vegan Sundried Tomato Baked Pasta](/images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_5.jpg)
+<br>
+<br>
+
+The red sauce has so much flavour it’s unbelievable! It had notes of pesto from the basil and some smokiness from the peppers and the sun dried tomatoes add a sweetness and slight bitterness that are a great balance. The onion and garlic get pulverized into the sauce and cook while baking so you don’t have to worry about them going in raw. The same goes for the finely grated zucchini.  I got the idea for the zucchini from Healthy blended recipes and I love the addition of it. You get a little texture and you also get more veggies packed into the dish.
+
+> I particularly the love the texture of quinoa pasta and Gogo Quinoa’s pasta does not disappoint
+
+This entire dish is a real mash up of several recipes and ideas I had. I mentioned the one above and then Eatwithinyourmeans for a take on their cashew sauce and Foodwithmyfamily inspired the red sauce – which I have made many times before.  I wanted the same great flavours of some of the most delicious baked pasta dishes I have made into this vegan and gluten free dish. Fully achieved with the super flavour packed red sauce, the creamy vegan cashew cream. I needed to add some crunch though and that’s why I decided to add the bread crumbs between layers and on top.  It’s perfect. I love all the textures in this dish.
+<br>
+<br>
+![Creamy Vegan Sundried Tomato Baked Pasta](/images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_7.jpg)
+<br>
+<br>
+
+I have to say we did not miss the cheese or the creamy béchamel sauce of our regular baked pasta or Mac and cheese at all. We loved this! This would be perfect on any occasion and for anyone. A great dish for entertaining and all would enjoy it regardless of whether they have food allergies or intolerances.
+<br>
+<br>
+![Creamy Vegan Sundried Tomato Baked Pasta](/images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_8.jpg)
+<br>
+<br>
+
+I have a giveaway going on in partnership with [GoGo Quinoa](https://www.gogoquinoa.com/products/fusilli-quinoa/) and you can win the pasta for this dish as well as the cookies I used for the [chocolate hazelnut tart](https://www.oliveandmango.com/dark-and-rich-vegan-chocolate-hazelnut-tart/) I made in partnership with them. So do check it out on my IG and qualify to win!!
+<br>
+<br>
+![Creamy Vegan Sundried Tomato Baked Pasta](/images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_9.jpg)
 <br>
 <br>
 
 ### Ingredients
 
-* 1&frac12; cups all purpose flour
-* &frac12; cup unsweetened cocoa powder
-* 2 tsp baking powder
-* &frac12; tsp salt
-* 1 whole stick of butter, softened
-* &frac34; cup brown sugar
-* 1 cup very loosely packed fresh mint leaves (alternatively 1 tsp of pure peppermint extract)
-* 2 large eggs
-* 8 ounces semisweet chocolate
-* 1 tsp pure vanilla extract
-* &frac12; cup granulated sugar
-* 1 cup powdered sugar
+**For the pasta**
+
+* Approx 16 oz of pasta (I used <span class="highlight">[GoGo Quinoa](https://www.gogoquinoa.com/products/fusilli-quinoa/)</span>)
+* 2 tbsp of olive oil
+* 1 grated zucchini
+* Salt and pepper to taste
+* Gluten free bread crumbs **
+<br>
+
+**For the cashew cream**
+
+* 2 cups of cashew (soaked in cold water for 2-4 hours then drained and rinsed)
+* 1 cup water
+* 1 heaping tbsp of nutritional yeast
+* 1 tsp GF miso paste
+* 1 tsp white vinegar
+* Salt and pepper to taste
+<br>
+
+**For the sauce**
+
+* 1 can of diced tomatoes
+* 1 cup of vegetable broth or water
+* 1 heaping tbsp of tomatoe paste
+* 1 roasted red pepper (roast on the grill or in the oven on broil until blackened and blistered all around, allow to rest in foil for a few minutes to steam and cool and then peel and remove seeds and chop)***
+* &frac12; cup basil
+* Pinch of chili flakes
+* 3 cloves of garlic
+* 1 chopped onion
+* 8 oz of sundried tomatoes packed in oil
+* &frac34; cup of cashew cream
 <br>
 
 ### Directions
 
-1. Preheat oven to 350 &deg; F when ready to roll the cookies
+1. Preheat over to 450 &deg; F and grease a 9 x 13 baking dish
 
-1. In a large bowl whisk together the flour, cocoa powder, baking powder and salt and set aside
+1. Grate the zucchini and put in a large bowl and set aside
 
-1. Place the sugar and mint in a food processor and blend until the mixture resembles green wet coarse sand (skip this step if using peppermint extract)
+1. Soak your pasta in hot water from a kettle (place pasta in large bowl and cover with hot water stirring every so often until al dente - approx 10-15 minutes depending on which pasta your use) or boil until al dente then drain and add he pasta to the bowl of zucchini along with 2 tbsp of olive oil and season with salt and pepper to taste tossing well until zucchini is fully mixed in with the pasta. Set aside.
 
-1. In a medium saucepan over low heat melt the butter and the semisweet chocolate stirring often. REMOVE from heat when melted and transfer to a large mixing bowl then add the mint sugar mixture or peppermint extract and then the vanilla and incorporate the eggs whisking the mixture vigorously to incorporate them.
+1. While the pasta is soaking make your sauces
 
-1. Add and stir in a third of the dry ingredients into the chocolate mixture. Repeat until all the dry ingredients have been incorporated. Cover bowl with plastic wrap and refrigerate for an hour in ok firm or over night if making ahead.
+1. In a food processor or high speed blender add the cashews, water, nutritional yeast, miso paste and white vinegar and process until smooth periodically stopping to scrape the sides of bowl down.  Taste and season with salt and pepper as needed. Empty into a bowl and remove &frac34; cups of it to add to the red sauce.
 
-1. Remove the dough from the refrigerator and line a baking sheet with parchment paper
+1. In the same processor add the diced tomatoes, vegetable broth or water, tomato paste, roasted red pepper, basil, chili flakes, garlic, onion, sun-dried tomatoes packed in oil and process until smooth.  Add the reserved &frac34; cup of cashew cream and pulse a few times until incorporated into the sauce.
 
-1. Place the granulated sugar and powdered sugar in two separate bowls near the bowl of cookie dough. Scoop one tbsp of the dough into your hand, roll and shape it into a ball and place on a plate. Repeat with all the remaining dough.
+1. Place half of the pasta zucchini mixture in the greased dish.  Add half the rosé sauce to it and toss it well so that all the pasta is wet from the sauce. Spread it into an even layer.
 
-1. Roll each ball into the granulated sugar first and then roll them into the powdered sugar to coat well.
+1. Dollop half of the remaining cashew cream sauce and evenly spread it over the pasta
 
-1. Place them on a baking sheet approx 1-2 inches apart and bake them for 10-12 minutes until the cookie tops begin to split. Remove from oven and cool in pan for a few minutes and then transfer cookies from pan to cooling rack.
+1. Sprinkle with half of the gluten free bread crumbs.
 
-1. Cookies will keep in an airtight container for approx 1 week
+1. Toss the rest of the pasta zucchini mixture in the bowl with the rest of the sauce and then layer it over the bread crumbs evenly
 
-Inspired by Simply Scratch for using fresh peppermint and adapted by the Kitchn’s classic crinkle cookie recipe
+1. Spread the rest of the cashew cream of the pasta and top with the remaining bread crumbs.
+
+1. Bake on a baking sheet for approx 30 minutes until golden and bubbling.
+
+1. Let cool for 10 minutes and serve topped with torn basil.
+<br>
+
+### Receipe Notes
+
+Homemade GF bread crumbs:
+
+* Tear 4-5 pieces of your favourite GF bread (I used Ezekiel sesame bread) into pieces and toss with 1 tbsp of olive oil and some salt and pepper to taste.
+* Place on to a baking sheet and bake at 350 &deg; for approx 10-15 minutes until golden tossing them once halfway though.  
+* Remove when done and set aside to cool complete and harden.
+* Process them in a food processor until they are bread crumb.
+<br>
+
+\* You can also used the bottle kind of related red pepper too. Either works well but the roasted ones usually have a nice smokier flavour that they add to the dish.
 <br>
 <br>
-![Chocolate Mint Crinkle Cookies](/images/uploads/2017_12_16_chocolate_crinkle_cookies_9.jpg)
+![Creamy Vegan Sundried Tomato Baked Pasta](/images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_10.jpg)
