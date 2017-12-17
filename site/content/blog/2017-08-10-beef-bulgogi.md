@@ -1,5 +1,5 @@
 ---
-title: Beef bulgogi &mdash; Korean style beef perfection
+title: Beef bulgogi – Korean style beef perfection
 date: 2017-08-10T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_10_beef_bulgogi_1.jpg
