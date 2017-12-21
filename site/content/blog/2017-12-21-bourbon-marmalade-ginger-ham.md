@@ -36,7 +36,7 @@ Once you have your ham the fun part is finding a glaze for it.  So many options 
 <br>
 <br>
 
-My ham was just over 7 lbs and I cooked mine at 325 &deg; F. On average at 325 you should allow for approx 15 minutes per Lb/pound, but the best measurement of time is a meat thermometer.  After the first 1&frac12; of baking you can test the temperature of the ham and gauge how much more time is needed.  You want the internal temperature to reach approx 120-140 &deg; F.  When in doubt check the packaging that the ham comes in for exact cooking instructions and temperature it needs to reach but I wanted to share some guidelines in case your ham doesn’t come with any or like me you throw the packaging away or cut it on the directions and can’t read them anymore.
+My ham was just over 7 lbs and I cooked mine at 325 &deg; F. On average at 325 you should allow for approx 15 minutes per Lb/pound, but the best measurement of time is a meat thermometer.  After the first 1&frac12; hours of baking you can test the temperature of the ham and gauge how much more time is needed.  You want the internal temperature to reach approx 120-140 &deg; F.  When in doubt check the packaging that the ham comes in for exact cooking instructions and temperature it needs to reach but I wanted to share some guidelines in case your ham doesn’t come with any or like me you throw the packaging away or cut it on the directions and can’t read them anymore.
 <br>
 <br>
 ![Bourbon Marmalade And Ginger Ham](/images/uploads/2017_12_21_bourbon_marmalade_ginger_ham_6.jpg)
@@ -65,7 +65,7 @@ Overall this is such an approachable recipe to cooking a ham.  It really is the 
 
 ### Directions
 
-1. Preheat oven to 325 &deg; F and prepare a roasting pan with the bottom lines a few layers of foil and then fitted with rack big enough for the ham. Fill the pan approx 1 inch deep with cold water and set aside.
+1. Preheat oven to 325 &deg; F and prepare a roasting pan with the bottom lined with a few layers of foil and then fitted with rack big enough for the ham. Fill the pan approx 1 inch deep with cold water and set aside.
 
 1. Prepare the ham (remove rind by using a sharp knife to score the skin around it before using your fingers to remove and pull/peal away the skin from the ham) by scoring the fat of the ham in a diamond pattern and placing a clove in the centre of each diamond which is for flavour and it looks pretty too but the cuts also allow for the glaze to permeate into ham as well.
 
