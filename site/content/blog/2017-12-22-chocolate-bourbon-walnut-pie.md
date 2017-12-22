@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_12_22_chocolate_bourbon_walnut_pie_1.jpg
 categories: ["desserts"]
 tags: ["pies", "chocolate", "walnuts"]
-excerpt: A decadent pie with a custard base sweetened with pure cane syrup
+excerpt: A decadent pie with a custard base sweetened with pure sugarcane syrup
 ---
 
 A poor mans pecan pie? I should think not. This walnut pie is one ya dream about and definitely stands on its own. Walnuts are much loved by Greeks and others of course (hee hee!) I have got many memories of watching TV and cracking walnuts for my Mom - like bags of them so she can bake us some delicious goodies and so we can eat them as snacks. They are such a great source of good fats, possibly one of the best when it comes to nuts. So this pie is basically a health food! Let’s just go with it...
@@ -68,7 +68,7 @@ You and your family and friends will love this pie guaranteed!!! The pie crust i
 * 4 large eggs, at room temperature
 * 1 cup coconut or brown sugar, packed
 * 1 cup pure 100% sugarcane syrup (light corn syrup as an alternative)
-* 2&frac12; tbsp unsalted butter, and slightly cooled
+* 2&frac12; tbsp unsalted butter melted, and slightly cooled
 * 1&frac12; tbsp good bourbon
 * &frac12; tsp salt
 * &frac12; tsp ground cinnamon
@@ -88,7 +88,7 @@ You and your family and friends will love this pie guaranteed!!! The pie crust i
 
 1. Scatter the cubes of butter over the surface of the flour in the food processor and pulse 15 to 25 times until the mixture resembles cornmeal with pieces of butter no larger than a pea. Alternatively, cut the butter into the flour using a pastry cutter, a fork, or your fingertips but do not overwork.
 
-1. Sprinkle 4 tablespoons of ice water over the butter-flour mixture. Pulse a 4 to 5 times to combine. Check to see if the dough is holding together by squeezing a bit of it in your hand — if it holds together, it's ready; if it breaks apart easily, add a little more water one tbsp at a time. The final dough should not come together in as a typical dough, but you should see no more powdery flour and the dough should just be starting to clump together in large crumbs. Alternatively, sprinkle the water over the flour and use two forks to toss the flour to combine. Test the dough and add more water as described above, handling the dough as little as possible with your hands.
+1. Sprinkle 4 tablespoons of ice water over the butter-flour mixture. Pulse 4 to 5 times to combine. Check to see if the dough is holding together by squeezing a bit of it in your hand — if it holds together, it's ready; if it breaks apart easily, add a little more water one tbsp at a time. The final dough should not come together in as a typical dough, but you should see no more powdery flour and the dough should just be starting to clump together in large crumbs. Alternatively, sprinkle the water over the flour and use two forks to toss the flour to combine. Test the dough and add more water as described above, handling the dough as little as possible with your hands.
 
 1. Turn the pie dough out onto a clean work surface. Use your hands to very quickly gather and press the shaggy dough into a thick disk. Wrap in plastic and refrigerate for at least 30 minutes or up to 4 days (or freeze for up to 3 months; defrost in the fridge overnight before using).
 
@@ -96,8 +96,8 @@ You and your family and friends will love this pie guaranteed!!! The pie crust i
 
 1. Lay your rolling pin on one edge of the pie crust and begin gently rolling the pie crust over the rolling pin with the help of dough scraper if needed. When it's all rolled up, move it to the pie pan and gently unroll it into the pie plate and shape or ease it into the plate. Trim the pie dough edges and crimp them using your finger or a fork. Then place the dough in the fridge while you make the filling.
 1. Preheat oven to 350 &deg; F
-1. Make a double broiler with a pot of just barely boiling water with a metal bowl placed over it and place the chocolate into the bowl and stirring continuously until chocolate has melted and is smooth and then remove bowl from the pot and set aside.
-1. In a large mixing bowl, whisk the eggs until ver well combined. Then whisk in the brown sugar, breaking up any lumps in the mixture. Whisk in the sugar cane syrup, melted butter, bourbon, salt, cinnamon, and flour.
+1. Make a double broiler with a pot of just barely boiling water with a metal bowl placed over it and place the chocolate into the bowl and stir continuously until chocolate has melted and is smooth and then remove bowl from the pot and set aside.
+1. In a large mixing bowl, whisk the eggs until very well combined. Then whisk in the brown sugar, breaking up any lumps in the mixture. Whisk in the sugar cane syrup, melted butter, bourbon, salt, cinnamon, and flour.
 1. Fold in the the walnut and chocolate chips with a spatula. And then fold in the melted chocolate until well incorporated.
 1. Pour the filling into the prepared crust and transfer to preheated oven.
 1. Bake for 65 to 75 minutes, or until the centre is puffed, the edges are set, and the centre is just barely jiggly. If the top of your pie is getting too brown, loosely tent a piece of tin foil on top.
