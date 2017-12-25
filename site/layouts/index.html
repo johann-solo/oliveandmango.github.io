@@ -7,15 +7,15 @@
           <p>a budget conscious life style blog on food, travel and well-being</p>
       </div>
   </div>
-  <div class="page-content home">
-    <div class="container">
+  <div class="page-content content_wrapper flex_container">
+    <div class="home_container">
 
       <ul class="post-list">
       <!-- Ranges through content/post/*.md -->
       {{ range where (.Paginator 5).Pages "Type" "blog"  }}
 
         <li>
-          <div class="line"></div>
+          <!-- <div class="line"></div> -->
           <div class="post__meta--home">
             <a class="post-link" href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
             <p class="post__date">{{ .Date.Format "2 January 2006" }}</p>
@@ -27,8 +27,9 @@
       {{ end }}
       <div class="pagination_container">{{ template "_internal/pagination.html" . }}</div>
       </ul>
-      <h3>Instagram Feed</h3>
-      <div id="instafeed"></div>
     </div>
+
+    {{ partial "sidebar" . }}
+
   </div>
 {{ partial "footer" . }}

@@ -1,0 +1,8 @@
+<h2>Recent Posts</h2>
+  {{ range first 3 (after 5 .Site.Pages.ByPublishDate) }}
+  <section class="recent-article">
+    <a href="{{ .Permalink }}"><img src="{{ .Params.Thumbnail }}" alt=""></a>
+    <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
+    <p>{{.Description}}</p>
+  </section>
+  {{ end }}

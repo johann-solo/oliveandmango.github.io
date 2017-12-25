@@ -9,7 +9,7 @@ const userFeed = new Instafeed({
     userId: '3523664885',
     clientId: 'e32bd9b1f0c64d10b4bf114facbe4b92',
     resolution: 'thumbnail',
-    limit: '12',
+    limit: '20',
     accessToken: '3523664885.1677ed0.e10f00a4e9e342f09d38c15095bbe844'
 
 });
