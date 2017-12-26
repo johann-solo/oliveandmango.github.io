@@ -33,7 +33,7 @@ When it comes to making them I advise adding all the cocoa butter first and then
 <br>
 <br>
 
-The same goes for the milk.  I like to add half of it first and then gradually keep adding drizzles of it as I mix. It wasn’t the easiest to locate cocoa butter here.  The friends at cocoa bel came through with some from Ranch Quemado cocoa estate though. That estate is where you can buy some if you need some. We have some of the best cocoa in the world and so naturally our cocoa butter is first class rating too. Smooth buttery and of the highest quality. I was so happy I got my hands on the good stuff.
+The same goes for the milk.  I like to add half of it first and then gradually keep adding drizzles of it as I mix. It wasn’t the easiest to locate cocoa butter here.  The friends at cocoa bel came through with some from Rancho Quemado cocoa estate though. That estate is where you can buy some if you need some. We have some of the best cocoa in the world and so naturally our cocoa butter is first class rating too. Smooth buttery and of the highest quality. I was so happy I got my hands on the good stuff.
 <br>
 <br>
 ![White Chocolate Mashed Potatoes](/images/uploads/2017_12_24_white_chocolate_mashed_potatoes_5.jpg)
