@@ -1,21 +1,24 @@
 ---
 title: Split Pea Soup And Ham Bone
-date: 2017-12-27T12:17:12-04:00
+date: 2017-12-27T16:17:12.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_12_27_split_pea_soup_ham_1.jpg
-categories: ["soups"]
-tags: ["Ham", "split peas"]
+categories:
+  - soups
+tags:
+  - Ham
+  - split peas
 excerpt: The most delicious way to use up leftover ham and that flavourful hambone
 ---
 
-Baking a ham or a big ole turkey for that matter is such richest reward. It’s really the gift that keeps on giving.  Not only is there left over meat from the two but the bones are perfect for soups. Have no fear if you’re hammed out the day after and can’t think of eating another bite.  I usually freeze some of the meat and I definitely freeze the ham bone to use at a later date and it’s usually to make this delicious split pea soup.
+Baking a ham or a big ole turkey for that matter is such a rich reward. It’s really the gift that keeps on giving.  Not only is there left over meat from the two but the bones are perfect for soups. Have no fear if you’re hammed out the day after and can’t think of eating another bite.  I usually freeze some of the meat and I definitely freeze the ham bone to use at a later date and it’s usually to make this delicious split pea soup.
 <br>
 <br>
 ![Split Pea Soup And Ham Bone](/images/uploads/2017_12_27_split_pea_soup_ham_2.jpg)
 <br>
 <br>
 
-When using the frozen meat in something other than the soup I just thaw it in the fridge and I pan fry it to reheat with some of the reserved glaze. Oh yes I always reserve some glaze for leftovers.  It will keep at least a week in the fridge if not more.  If you saved it for the soup you don’t even need to thaw it - just throw it in frozen. When it comes to the ham bone I also don’t bother to thaw it. You can if you remember but if you are like me chances are you will forget or there’s not enough room in the fridge to thaw it in there overnight.
+When using the frozen meat in something other than the soup I just thaw it in the fridge and I pan fry it to reheat with some of the reserved glaze. Oh yes I always reserve some glaze for leftovers.  It will keep at least a week in the fridge if not more.  If you saved leftover meat for the soup you don’t even need to thaw it - just throw it in frozen. When it comes to the ham bone I also don’t bother to thaw it. You can if you remember but if you are like me chances are you will forget or there’s not enough room in the fridge to thaw it in there overnight.
 <br>
 <br>
 ![Split Pea Soup And Ham Bone](/images/uploads/2017_12_27_split_pea_soup_ham_3.jpg)
@@ -49,7 +52,7 @@ This is a very delicious way to use leftover meat from a baked ham. There are so
 * 2 celery ribs chopped
 * 2 onions chopped
 * 3 cloves of garlic minced
-* 2 small green onions chopped  other green and light parts
+* 2 small green onions/chives chopped 
 * 4 sprigs of fresh thyme (use approx 1 tsp of dry alternatively)
 * 2 bay leaves
 * Salt and pepper to taste
