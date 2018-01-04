@@ -58,7 +58,7 @@ Feel free to use any sausage you like in it. If you are able to use the local on
 * 1 tsp of fresh thyme
 * a pinch of red pepper flakes
 * 1 can of diced tomatoes
-* 1&frac14; of rinsed and picked over brown lentils
+* 1&frac14; cups of rinsed and picked over brown lentils
 * 6 cups of stock (chicken or vegetable) or water
 * 1&frac12; cups of chopped kale or Swiss chard (I used purple kale in these pictures thus the darker colour)
 * yoghurt, lemon wedges and chopped parsley or cilantro to top your lentils with
