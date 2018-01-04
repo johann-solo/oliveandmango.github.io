@@ -3,9 +3,9 @@ title:  "How to have your lentils (and eat them too)"
 date:   2016-09-12 09:30:35 -0400
 author: Joanne
 permalink: lentil-sweet-potato-stoup
-categories: ["sides"]
+categories: ["soups"]
 thumbnail: /img/SEPT2016/lentil_soup_1.jpg
-tags: ["vegetarian"]
+tags: ["lentils"]
 excerpt: Get warm and cozy with this hearty and thick soup
 ---
 
