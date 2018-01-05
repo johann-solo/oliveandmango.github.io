@@ -3,9 +3,6 @@ date = "2017-10-20"
 title = "About"
 +++
 
-<br>
-<br>
-<br>
 ## Just your typical Canadian born Greek girl living in Trinidad.
 <br>
 <br>

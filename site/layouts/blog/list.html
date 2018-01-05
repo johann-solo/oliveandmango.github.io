@@ -1,11 +1,13 @@
 {{ partial "recipe-head" . }}
 {{ partial "header" . }}
+{{ partial "splash" . }}
+
 <div class="recipe_content">
   <div class="recipe_container">
-    <h1 class="cat_heading">Recipes</h1>
+    <h2 class="">Recipes</h2>
 
     <div class="line taxonomy_line"></div>
-    <h2 class="cat_heading">Mains</h2>
+    <h3 class="cat_heading">Mains</h3>
     <ul class="related_taxonomy">
       {{ range first 4 .Site.Taxonomies.categories.mains }}
         <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
@@ -14,7 +16,7 @@
     <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/mains"><div class="btn__main--recipe ">Show more</div></a></span>
 
     <div class="line taxonomy_line"></div>
-    <h2 class="cat_heading">Sides</h2>
+    <h3 class="cat_heading">Sides</h3>
     <ul class="related_taxonomy">
       {{ range first 4 .Site.Taxonomies.categories.sides }}
         <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
@@ -23,7 +25,7 @@
     <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/sides"><div class="btn__main--recipe ">Show more</div></a></span>
 
     <div class="line taxonomy_line"></div>
-    <h2 class="cat_heading">Soups</h2>
+    <h3 class="cat_heading">Soups</h3>
     <ul class="related_taxonomy">
       {{ range first 4 .Site.Taxonomies.categories.soups }}
         <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
@@ -32,7 +34,7 @@
     <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/soups"><div class="btn__main--recipe ">Show more</div></a></span>
 
     <div class="line taxonomy_line"></div>
-    <h2 class="cat_heading">Breakfast</h2>
+    <h3 class="cat_heading">Breakfast</h3>
     <ul class="related_taxonomy">
       {{ range first 4 .Site.Taxonomies.categories.breakfast }}
         <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
@@ -41,7 +43,7 @@
     <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/breakfast"><div class="btn__main--recipe ">Show more</div></a></span>
 
     <div class="line taxonomy_line"></div>
-    <h2 class="cat_heading">Desserts</h2>
+    <h3 class="cat_heading">Desserts</h3>
     <ul class="related_taxonomy">
       {{ range first 4 .Site.Taxonomies.categories.desserts }}
         <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
@@ -50,7 +52,7 @@
     <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/desserts"><div class="btn__main--recipe ">Show more</div></a></span>
 
     <div class="line taxonomy_line"></div>
-    <h2 class="cat_heading">Snacks</h2>
+    <h3 class="cat_heading">Snacks</h3>
     <ul class="related_taxonomy">
       {{ range first 4 .Site.Taxonomies.categories.snacks }}
         <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
@@ -58,13 +60,16 @@
     </ul>
     <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/snacks"><div class="btn__main--recipe ">Show more</div></a></span>
 
-    <!-- <h2>drinks</h2>
+    <div class="line taxonomy_line"></div>
+    <h3 class="cat_heading">Drinks</h3>
     <ul class="related_taxonomy">
       {{ range first 4 .Site.Taxonomies.categories.drinks }}
         <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
       {{ end }}
-      <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/mains"><div class="btn__main--recipe ">Show more</div></a></span>
-    </ul> -->
+    </ul>
+    <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/drinks"><div class="btn__main--recipe ">Show more</div></a></span>
+
+
   </div>
 
 </div>
