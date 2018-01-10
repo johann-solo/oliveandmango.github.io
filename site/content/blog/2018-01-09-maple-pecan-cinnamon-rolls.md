@@ -4,18 +4,18 @@ date: 2018-01-09
 author: Joanne
 thumbnail: /images/uploads/2018_01_09_maple_pecan_cinnamon_rolls_1.jpg
 categories: ["desserts"]
-tags: ["pecans", "cinnamon" ]
+tags: ["pecans", "cinnamon"]
 excerpt: The best cinnamon rolls you will ever make in 1 hour
 ---
 
-We were having a conversation at work about cinnamon rolls. We were all in the mood for some and then we got to talking about how we would love to make some but we hate that every recipe calls for proofing for hours or overnight or days. We just wanted cinnamon rolls and we wanted them like now.  I felt the same way. I always wanted to make some that didn’t require so much effort and waiting! So I was on a mission to find a good one. One that is delicious and produces pillowy soft buns or rolls and a very simple recipe to execute. One that you could prep before having your first coffee in the morning.
+We were having a conversation at work about cinnamon rolls. We were all in the mood for some and then we got to talking about how we would love to make some but we hate that every recipe calls for proofing for hours or overnight or days. We just wanted cinnamon rolls and we wanted them like now.  I felt the same way. I always wanted to make some that didn’t require so much effort and waiting! So I was on a mission to find a good recipe. One that is delicious and produces pillowy soft buns or rolls and a very simple recipe to execute. One that you could prep before having your first coffee in the morning.
 <br>
 <br>
 ![Maple Pecan Cinnamon Rolls](/images/uploads/2018_01_09_maple_pecan_cinnamon_rolls_2.jpg)
 <br>
 <br>
 
-I always can rely on thektchn to give me some guidance and they didn’t fail me. I also sourced some Food 52 articles on cinnamon rolls and loved the one by Erin McDowell.  She gave some excellent tips on making fabulous rolls. A few things I learned about making good rolls from her article was not to over bake the rolls because they continue cooking or baking in the dish even after being pulled out of the oven. This is one of the biggest reasons we end up with dense and hard – for the lack of a better word- rolls. Also you can fill them with anything and glaze them with anything you want too.
+I always can rely on thektchn to give me some guidance and they didn’t fail me. I also sourced some Food 52 articles on cinnamon rolls and loved the one by Erin McDowell.  She gave some excellent tips on making fabulous rolls. A few things I learned about making good rolls from her article was not to over bake the rolls because they continue cooking or baking in the dish even after being pulled out of the oven. Over baking is one of the biggest reasons we end up with dense and hard – for the lack of a better word - rolls. Also you can fill them with anything and glaze them with anything you want too.
 <br>
 <br>
 ![Maple Pecan Cinnamon Rolls](/images/uploads/2018_01_09_maple_pecan_cinnamon_rolls_3.jpg)
@@ -54,7 +54,7 @@ When it comes to the glaze there are so many options there too. You can keep it 
 <br>
 <br>
 
-In the article Erin also assured us that you really can’t roll the buns or rolls too tightly so just roll them as tightly as possible. All great advice! The best though came from the article about using self rising flour. Thekitchn article provides the recipe which I have included for Self-Rising flour just in case you don’t have any on hand, using basic panty ingredients. (I did the math for you for the actual roll recipe though but feel free to double check my math cause I totally suck at it. Hee hee!) That is what gives your rolls that pillowy texture without the yeast and proofing.
+In the article Erin also assured us that you really can’t roll the buns or rolls too tightly so just roll them as tightly as possible. All great advice! The best though came from the article about using self rising flour. Thekitchn article provides the recipe which I have included for Self-Rising flour just in case you don’t have any on hand, using basic pantry ingredients. (I did the math for you for the actual roll recipe though but feel free to double check my math cause I totally suck at it. Hee hee!) That is what gives your rolls that pillowy texture without the yeast and proofing.
 <br>
 <br>
 ![Maple Pecan Cinnamon Rolls](/images/uploads/2018_01_09_maple_pecan_cinnamon_rolls_12.jpg)
