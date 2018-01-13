@@ -80,4 +80,4 @@ Cake adapted from Smittenkitchen\
 Frosting adapted from Sprouted Kitchen  
 
 <br>
-!\[Chocolate Olive Oil Cake](/images/uploads/2017_11_10_chocolate_olive_oil_cake_5.jpg)
+![Chocolate Olive Oil Cake](/images/uploads/2017_11_10_chocolate_olive_oil_cake_5.jpg)
