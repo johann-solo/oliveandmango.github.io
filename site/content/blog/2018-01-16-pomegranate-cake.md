@@ -29,7 +29,7 @@ When I saw this recipe in Delicious magazine I had to check it out. I was curiou
 <br>
 <br>
 
-The combination of the pomegranate molasses and orange water blossom give this cake a bright and fragrant flavour. The cake itself is a little on the heavier side.  The reason for that is that it’s a soaked cake. After it bakes and cools you poke holes into it and pour the molasses into it with giving it a syrupy moist texture and making it a little heavier like any other syrupy cake. I love these kind of cakes. Greeks make a couple of cakes this way and I adore them.  We soak ours in honey or a sugar water syrup. Lovely notes of citrus run through the syrup and make the cake so irresistibly delicious!  So you can imagine that I had to give this recipe a try.
+The combination of the pomegranate molasses and orange water blossom give this cake a bright and fragrant flavour. The cake itself is a little on the heavier side.  The reason for that is that it’s a soaked cake. After it bakes and cools you poke holes into it and pour the molasses into it giving it a syrupy moist texture and making it a little heavier like any other syrupy cake. I love these kind of cakes. Greeks make a couple of cakes this way and I adore them.  We soak ours in honey or a sugar water syrup. Lovely notes of citrus run through the syrup and make the cake so irresistibly delicious!  So you can imagine that I had to give this recipe a try.
 <br>
 <br>
 ![Pomegranate Cake](/images/uploads/2018_01_16_pomegranate_cake_5.jpg)
