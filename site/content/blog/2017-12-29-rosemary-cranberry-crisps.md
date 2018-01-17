@@ -8,7 +8,7 @@ tags: ["cranberies", "platters"]
 excerpt: The perfect homemade snack or addition to any dip or cheese board
 ---
 
-These crackers or crips plus a sharp creamy cheese or Boursin are literally my kryptonite! I can’t fully express the joy I had seeing Nagi post a video of making these on Recipe Tin on IG.  I saved the recipe immediately and made plans to make this simple recipe.  Why was I so hype about making these? You probably guessed it. I haven’t seen these around in Trinidad ever – well maybe once and I remember buying a pack and spending way too much on it but enjoying every bite of them. Then I didn’t see them again. Back home they were available everywhere and made by many brands all equally delicious. Probably still over priced but a least they were around if you were craving some or wanted to get some for your cheeseboard.
+These crackers or crisps plus a sharp creamy cheese or Boursin are literally my kryptonite! I can’t fully express the joy I had seeing Nagi post a video of making these on Recipe Tin on IG.  I saved the recipe immediately and made plans to make this simple recipe.  Why was I so hype about making these? You probably guessed it. I haven’t seen these around in Trinidad ever – well maybe once and I remember buying a pack and spending way too much on it but enjoying every bite of them. Then I didn’t see them again. Back home they were available everywhere and made by many brands all equally delicious. Probably still over priced but a least they were around if you were craving some or wanted to get some for your cheeseboard.
 <br>
 <br>
 ![Rosemary Cranberry Crisps](/images/uploads/2017_12_29_rosemary_cranberry_crisps_2.jpg)
@@ -29,7 +29,7 @@ I also love that you can really be creative when making these.  You can add more
 <br>
 <br>
 
-Not only are they a more cost effective way of enjoying these crackers but they are even more fresh and flavourful made at home by you! These will be on repeat!! I already made one other batch. We absolutely love them and know you will too! They are always part of my charcuterie board or cheese platers and make the perfect edible "plate". For more on making your own charcuterie board see my post [Awesome platters for entertaining your guests](https://www.oliveandmango.com/awesome-platters-for-entertaining-your-guests/).
+Not only are they a more cost effective way of enjoying these crackers but they are even more fresh and flavourful made at home by you! These will be on repeat!! I already made one other batch. We absolutely love them and know you will too! They are always part of my charcuterie board or cheese platters and make the perfect edible "plate". For more on making your own charcuterie board see my post [Awesome platters for entertaining your guests](https://www.oliveandmango.com/awesome-platters-for-entertaining-your-guests/).
 <br>
 <br>
 ![Rosemary Cranberry Crisps](/images/uploads/2017_12_29_rosemary_cranberry_crisps_5.jpg)
