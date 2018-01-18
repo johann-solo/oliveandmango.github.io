@@ -4,7 +4,7 @@ date: 2018-01-18T10:16:35-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_01_18_pomegranate_molasses_chicken_1.jpg
 categories: ["mains"]
-tags: ["chicken", "pomegranate", "one-pot-meals"]
+tags: ["chicken", "pomegranates", "one-pot-meals"]
 excerpt: Fall off the bone meat with a perfect balance of sweetness and tartness
 ---
 
@@ -29,14 +29,18 @@ He makes his with prunes and I swapped them out with dates as I prefer them over
 <br>
 <br>
 
-Speaking of cooking time, this dish does take a while to roast in the oven. It takes almost two hours but it’s not a fussy two hours.  I checked mine after the first 15 minutes when reducing the temperature and then again halfway through to baste and check the chicken and potatoes for doneness. The hands on part is really minimal. The sauce is simple to whip up and the onions and potatoes being chopped is the most labor intensive job in the recipe. I do recommend it as a weekend or holiday meal when you are  kicking around at home. One of the easiest Sunday lunches you will make. You just toss everything with the sauce in the pan seal it off and the magic happens while everything roasts.  The dates gets soft and almost melt into the sauce adding some body and texture to the sauce. The onions caramelized and do the same for the sauce.  The onion disintegrates into the sauce giving it all sorts of yummy flavour - sooo good! The chicken actually gets a lovely colour from the sauce – it doesn’t just steam cook under the foil but roasts to a lovely deep orange-reddish shade. To get a crispier skin, once it’s done cooking I put it under the broiler for a few minutes and done.
+Speaking of cooking time, this dish does take a while to roast in the oven. It takes almost two hours but it’s not a fussy two hours.  I checked mine after the first 15 minutes when reducing the temperature and then again halfway through to baste and check the chicken and potatoes for doneness. The hands on part is really minimal. The sauce is simple to whip up and the onions and potatoes being chopped is the most labor intensive job in the recipe. I do recommend it as a weekend or holiday meal when you are  kicking around at home.
+
+> One of the easiest Sunday lunches you will make
+
+You just toss everything with the sauce in the pan seal it off and the magic happens while everything roasts.  The dates get soft and almost melt into the sauce adding some body and texture to the sauce. The onions caramelized and do the same for the sauce.  The onion disintegrates into the sauce giving it all sorts of yummy flavour - sooo good! The chicken actually gets a lovely colour from the sauce – it doesn’t just steam cook under the foil but roasts to a lovely deep orange-reddish shade as do the potatoes. To get a crispier skin, once it’s done cooking I put it under the broiler for a few minutes and done.
 <br>
 <br>
 ![One Pan Pomegranate Molasses Chicken And Potatoes](/images/uploads/2018_01_18_pomegranate_molasses_chicken_5.jpg)
 <br>
 <br>
 
-I have made it several time since as my husband loves it. He loves the sauce and pan juices and he says the potatoes are addictive. They soak up all the wonderful flavours and in Greek I would say "σαν λουκούμι είναι" (san loukoumi eeen’eh) not a great word by word translation for what I’m trying to say but an expression that denotes melt in your mouth good.  Basically comparing it to Turkish delight – doesn’t translate well but if you’re Greek you get it. Bottom line this is a one pan dish that tastes like you spent hours and hours prepping and roasting when it takes minimal effort to make and you and everyone who tastes it will adore it. A definite must try if your looking for a different kind of roasted chicken dish.
+I have made it several time since as my husband loves it. He loves the sauce and pan juices and he says the potatoes are addictive. They soak up all the wonderful flavours and in Greek I would say "σαν λουκούμι είναι" (san loukoumi eeen’eh) not a great word by word translation for what I’m trying to say but an expression that denotes melt in your mouth good.  Basically comparing it to Turkish delight – doesn’t translate well but if you’re Greek you get it. Bottom line this is a one pan dish that tastes like you spent hours and hours prepping and roasting when it takes minimal effort to make and you and everyone who tastes it will adore it. A definite must try if you're looking for a different kind of roasted chicken dish.
 <br>
 <br>
 ![One Pan Pomegranate Molasses Chicken And Potatoes](/images/uploads/2018_01_18_pomegranate_molasses_chicken_6.jpg)
@@ -46,9 +50,9 @@ I have made it several time since as my husband loves it. He loves the sauce and
 ### Ingredients
 
 * 8 potatoes peeled and sliced
-* 6-8 Chicken thighs spending on the size – fat cleaned away but skin left on
-* Garlic 4 cloves peeled and halved
-* 4 red onions chopped in chunks or quartered if small
+* 6-8 Chicken thighs depending on the size – fat cleaned away but skin left on
+* 4 cloves of garlic peeled and halved
+* 4 red onions peeled, chopped in chunks or quartered if small
 * 1 cup of pitted dates
 
 **For the sauce**
@@ -56,7 +60,7 @@ I have made it several time since as my husband loves it. He loves the sauce and
 * 1 tbsp olive oil
 * 2 tbsp Sumac
 * 1 tbsp Mango powder or you can use a mango chutney
-* 100ml or approx &frac13;cup Pomegranate molasses
+* 100ml or approx &frac13;cup pomegranate molasses. (Find more about <span class="highlight">[pomegranate molasses](https://www.oliveandmango.com/pomegranate-cake-with-a-orange-blossom-whip-cream-frosting/)</span>)
 * 1 tbsp Honey
 * 1 tsp Oregano
 * 100ml or approx &frac13;cup of Soy sauce
