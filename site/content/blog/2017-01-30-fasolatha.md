@@ -1,5 +1,5 @@
 ---
-title: Fasolatha - quintessential Greek white bean soup
+title: Fasolatha – quintessential Greek white bean soup
 date: "2017-01-30 7:30:35 -0400"
 author: Joanne
 permalink: fasolatha
@@ -13,17 +13,16 @@ I have to be completely honest that growing up I wanted nothing to do with this 
 <br>
 <br>
 
-Fasolatha is a popular Greek dish and in fact in general Greeks are a soup loving and eating people.  This national dish isn't just simple to make but simple also when it comes to ingredients. So that makes it a staple meal in my kitchen.  Though simple, it's definitely not lacking in the flavour department. It's a very satisfying meal especially when paired with good crusty bread and olives and of course some feta.  This is perfect if your trying to incorporate some vegetarian meals into your week. Nutritionally high in protein and also is full of veggies so not only simple, flavourful, satisfying but also good for you.
+Fasolatha is a popular Greek dish and in fact in general Greeks are a soup loving and eating people.  This national dish isn't just simple to make but simple also when it comes to ingredients. So that makes it a staple meal in my kitchen.  Though simple, it's definitely not lacking in the flavour department. It's a very satisfying meal especially when paired with good crusty bread and olives and of course some feta.  This is perfect if you're trying to incorporate some vegetarian meals into your week. Nutritionally high in protein and also is full of veggies so not only simple, flavourful, satisfying but also good for you.
 <br>
 <br>
 ![Fasolatha](/img/JAN2017/fasolatha_2.jpg)  
-<br>
 <br>
 
 It's totally up to you what kind of white beans you would like to use and what form of them you use. I totally don't judge if you use dried or canned beans.  Of course cooked dried beans always have better flavour and texture but in a pinch I totally have no problem using canned. I love using butter beans but any white bean will do.
 <br>
 
-Traditionally there is no kale or spinach added to the soup.  That is all me. But as you know if I can add greens I will. So definitely leave them out if your opposed to the greens. You can also leave out the mint and just season with thyme and oregano also. Some people make it with mint and others don't.  I personally love it.  It's takes this dish to a whole new level! But if you don't like mint than leave it out and use the oregano and thyme.
+Traditionally there is no kale or spinach added to the soup.  That is all me. But as you know if I can add greens I will. So definitely leave them out if you're opposed to the greens. You can also leave out the mint and just season with thyme and oregano also. Some people make it with mint and others don't.  I personally love it.  It's takes this dish to a whole new level! But if you don't like mint than leave it out and use the oregano and thyme.
 
 > not only simple, flavourful and satisfying but also good for you too
 
@@ -35,7 +34,6 @@ I also like to sauté the veggies first and then add beans and water/broth as op
 <br>
 ![Fasolatha](/img/JAN2017/fasolatha_3.jpg)  
 <br>
-<br>
 
 It's one of those dishes that is also suitable for most diets. It's vegetarian friendly, vegan, gluten free....you get the picture, you can serve it up to just about everyone and I'm sure they will enjoy this hearty peasant like dish that Greeks are so fond of.  
 <br>
@@ -45,7 +43,7 @@ It's one of those dishes that is also suitable for most diets. It's vegetarian f
 
 ### Ingredients
 
-* 1/4 cup of olive oil
+* &frac14; cup of olive oil
 
 * 1 cup of white beans dried or one can (navy, butter beans, kidney beans ...etc) * If you're using dried beans there are a few extra steps.  First soak them for several hours or over night. Rinse them well and boil them in water for a few minutes until the water starts to foam up and then drain again and rinse them well.  Then the are ready to cook.
 
@@ -65,31 +63,28 @@ It's one of those dishes that is also suitable for most diets. It's vegetarian f
 
 * 1 small bunch of fresh mint chopped
 
-* 1/4 cup of fresh parsley
+* &frac14; cup of fresh parsley
 
 * 1 cup of chopped kale or spinach
 
-* 1/2 tsp paprika
+* &frac12; tsp paprika
 
 * 1 bay leaf
 
 * Salt and pepper to taste
 
 *  Optionally you could also season with some oregano and thyme &mdash; sometimes I will add both and other times I will just leave the mint as the star for seasonings.
-
 <br>
 
 ### Directions
 
-1. Heat a pot to medium heat and add the olive oil and sauté all the veggies and also the paprika and alternative dry spices if your using for a few minutes (onions, carrots, celery, garlic)
+1. Heat a pot to medium heat and add the olive oil and sauté all the veggies and also the paprika and alternative dry spices if you're using for a few minutes (onions, carrots, celery, garlic)
 
 1. Add the beans and broth or water and once the are boiling, lower the heat to a simmer and cover and cook for approx. 1 hour or until beans are cooked. The consistency is between a soup and a stew so check pot periodically to see if you need more water
 
 1. Once everything is cooked stir in the kale, mint and parsley and let simmer for another few minutes until kale is wilted.  
 
 1. Serve with fresh crusty bread, olives and definitely feta!
-I also like to drizzle a little olive oil over top when served and sometimes add a squeeze of lemon but that is totally optional.
+I also like to drizzle a little olive oil over top when served and sometimes add a squeeze of lemon but that is totally optional.  
 
-<br>
-<br>
 ![Fasolatha](/img/JAN2017/fasolatha_4.jpg)
