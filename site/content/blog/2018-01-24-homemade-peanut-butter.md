@@ -1,10 +1,12 @@
 ---
-title: Homemade Peanut Butter
-date: 2018-01-24T08:00:20-04:00
+title: How To Make The Creamiest Homemade Nut & Seed Butter
+date: 2018-01-24T12:00:20.000Z
 author: Joanne
 thumbnail: /images/uploads/2018_01_24_homemade_peanut_butter_1.jpg
-categories: ["how-to"]
-tags: ["spreads"]
+categories:
+  - how-to
+tags:
+  - spreads
 excerpt: Delicious nut butters – only one ingredient needed
 ---
 
@@ -15,7 +17,7 @@ There is so much irony in me writing this post this week. The week I’m out of 
 <br>
 <br>
 
-Making your own nut butter specifically peanut butter is way more cost effective and also healthier. Have you read the label of your favourite non organic peanut butter brand? I will not mention any names. Its a long list of additives and tons of powdered sugar, essentially its whipped peanut butter frosting.  Totally delicious no doubt,  but not the greatest for you especially if you enjoy it daily like I do. There organic brands out there with no additives are fantastic and I have many favourites but they are so expensive over here, like anything imported and good for you is naturally. Totally legit reasons for making my own. I use predominantly peanuts because they are the cheapest that I can buy here but the principles of making your own butter applies to any nuts or seeds you chose.
+Making your own nut butter specifically peanut butter is way more cost effective and also healthier. Have you read the label of your favourite non organic peanut butter brand? I will not mention any names. Its a long list of additives and tons of powdered sugar, essentially its whipped peanut butter frosting.  Totally delicious no doubt,  but not the greatest for you especially if you enjoy it daily like I do. The organic brands out there with no additives are fantastic and I have many favourites but they are so expensive over here, like anything imported and good for you is naturally. Totally legit reasons for making my own. I use predominantly peanuts because they are the cheapest that I can buy here but the principles of making your own butter applies to any nuts or seeds you chose.
 <br>
 <br>
 ![Homemade Peanut Butter](/images/uploads/2018_01_24_homemade_peanut_butter_3.jpg)
@@ -43,7 +45,7 @@ As for the speed and quality of your blades and blender or food processor – I 
 
 **Flavours and add-ins**
 
-Lastly there are add ins that you can totally add to flavour your nut butters and even sweeten them. I never sweeten mine unless I’m making a flavoured one.  The reason I don’t add is because I usually pair it with a jam or something sweet like bananas so I don’t need it to be sweetened but if you want it sweetened then definitely add some honey, maple syrup or agave or even some date syrup.  The caution when adding syrups and extracts and even chocolate or chocolate spreads to the butter is that it can seize up your nut butter mix. So I recommend that if you are adding the syrup or extract. Process your nut butter fully until creamy, add your syrup or extract and process again. If it seizes or starts to thicken into a weird consistency start adding a little oil a little at a time while you continue to process which will smooth it back out.  I usually use extra virgin coconut oil and it works like a charm. If you are adding flavour via powder and spices like pumpkin spice or cinnamon or cocoa powder, you don’t have to worry about it seizing up but if it does you can add the coconut oil in this instance also.
+Lastly there are add ins that you can totally add to flavour your nut butters and even sweeten them. I never sweeten mine unless I’m making a flavoured one.  The reason I don’t add the sweetener is because I usually pair it with a jam or something sweet like bananas so I don’t need it to be sweetened but if you want it sweetened then definitely add some honey, maple syrup or agave or even some date syrup.  The caution when adding syrups and extracts and even chocolate or chocolate spreads to the butter is that it can seize up your nut butter mix. So I recommend that if you are adding the syrup or extract, process your nut butter fully until creamy, add your syrup or extract and process again. If it seizes or starts to thicken into a weird consistency start adding a little oil a little at a time while you continue to process which will smooth it back out.  I usually use extra virgin coconut oil and it works like a charm. If you are adding flavour via powder and spices like pumpkin spice or cinnamon or cocoa powder, you don’t have to worry about it seizing up but if it does you can add the coconut oil in this instance also.
 <br>
 <br>
 ![Homemade Peanut Butter](/images/uploads/2018_01_24_homemade_peanut_butter_5.jpg)
@@ -58,7 +60,7 @@ I also love maple cinnamon - self explanatory as is salted honey. I also love sa
 <br>
 <br>
 
-Bottom line is you should definitely make your own if you possibly can. It’s easy and you only really need one ingredient.  It’s even worth borrowing a friends food processor to make it once or twice a month if you don’t own one yourself. You will love it and you really won’t go back to buying the  other stuff.
+Bottom line is you should definitely make your own if you possibly can. It’s easy and you only really need one ingredient.  It’s even worth borrowing a friends food processor to make it once or twice a month if you don’t own one yourself. You will love it and you really won’t go back to buying the other stuff.
 <br>
 <br>
 ![Homemade Peanut Butter](/images/uploads/2018_01_24_homemade_peanut_butter_7.jpg)
