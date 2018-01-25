@@ -5,11 +5,7 @@ title = "Olive & Mango"
 disqusShortname = "disqus_Ci8qqqEWpn"
 
 [params]
-<<<<<<< HEAD
-  description = "A blog on great, delicious and easy to make food with a dash of travel and well-being"
-=======
   description = "Inspiring ideas for delicious home cooking"
->>>>>>> bf744f4e70502f4f5f0f33ce76888c4a19f6e3a0
 
 [taxonomies]
   category = "categories"
