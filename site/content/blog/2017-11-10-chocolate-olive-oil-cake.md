@@ -1,13 +1,18 @@
 ---
 title: Chocolate Olive Oil Cake
-date: 2017-11-10
+date: 2017-11-10T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_11_10_chocolate_olive_oil_cake_1.jpg
-categories: ["desserts"]
-tags: ["chocolate", "cakes", "vegan"]
-excerpt: This chocolate olive oil cake has an intense, rich flavour and can easily be made fully vegan
+categories:
+  - desserts
+tags:
+  - chocolate
+  - cakes
+  - vegan
+excerpt: >-
+  This chocolate olive oil cake has an intense, rich flavour and can easily be
+  made fully vegan
 ---
-
 Want something very rich and chocolatey? You have come to the right place! This cake delivers in so many ways and the actual cake itself is vegan, so it’s perfect for all those in your  life that are vegan.  For me it’s my mother in law, so I’m always looking out for recipes that she might be interested in or ones I may want to make for her when she visits. It’s not often that I get to cook for her but still once you have someone vegan in your life, vegan recipes always seem to catch your eye.  This is also a vegan recipe that doesn’t require flax eggs or any such substitutions. It’s a basic pantry ingredient recipe that you can literally make in one bowl.
 <br>
 <br>
@@ -30,11 +35,12 @@ I love olive oil cakes and this one did not disappoint. I’m always impressed b
 <br>
 
 ## Chocolate Olive Oil Cake
+
 ### Ingredients
 
 * 1&frac12; cups of all purpose flour
 * &frac34; cup unsweetened good quality cocoa powder
-* 1&frac12; tsps baking sod
+* 1&frac12; tsps baking soda
 * &frac12; tsp salt
 * &frac34; cup granulated sugar
 * &frac34; cup brown sugar or coconut sugar
@@ -45,12 +51,9 @@ I love olive oil cakes and this one did not disappoint. I’m always impressed b
 ### Directions
 
 1. Preheat oven to 350 &deg; F and grease line and grease again and lightly dust with a little cocoa powder a 8-9 inch round cake pan
-
-1. In a large bowl whisk together the flour, baking soda, cocoa, salt and just the granulated sugar. Then add the brown sugar and olive oil and whisk well to combine. Add the coffee and vinegar and whisk until smooth
-
-1. Pour into prepared pan and bake for 30-35 minutes until the top is springy and a tester comes out mostly clean. A few sticky crumbs is ok.
-
-1. Remove from oven and allow to cool in pan on a wire rack for ten minutes then loosen edges with a knife and flip it out onto a cooling rack to cool the rest of they way
+2. In a large bowl whisk together the flour, baking soda, cocoa, salt and just the granulated sugar. Then add the brown sugar and olive oil and whisk well to combine. Add the coffee and vinegar and whisk until smooth
+3. Pour into prepared pan and bake for 30-35 minutes until the top is springy and a tester comes out mostly clean. A few sticky crumbs is ok.
+4. Remove from oven and allow to cool in pan on a wire rack for ten minutes then loosen edges with a knife and flip it out onto a cooling rack to cool the rest of they way
 
 \* If not frosting it the same day I wrap the cake in plastic wrap and store in the fridge until ready to frost
 <br>
@@ -66,14 +69,14 @@ I love olive oil cakes and this one did not disappoint. I’m always impressed b
 * 2 tbsp Coffee or milk
 * 3 tbsp Unsweetened cocoa powder
 * &frac12; tsp vanilla extract
-<br>
+  <br>
 
 ### Directions
 
 * In a large bowl with a mixer cream the butter and mascarpone and gradually add the cocoa powder and rest of ingredients until creamy and smooth adding a little more coffee or milk if needed
-<br>
+  <br>
 
-Cake adapted from Smittenkitchen  
+Cake adapted from Smittenkitchen\
 Frosting adapted from Sprouted Kitchen  
 
 <br>

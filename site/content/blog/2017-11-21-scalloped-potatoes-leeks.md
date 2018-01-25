@@ -18,11 +18,17 @@ If you’re  a fan of leek and potato soup (and really who isn’t) than you wil
 The best part about this recipe, is that you can prep it the night before serving, which makes it so much easier if your feeding a crowd and planning a big menu.  Just need to bake it the day of. As many items on that menu that you could make a head &ndash; the fewer headaches and anxiety attacks. And we all want fewer of those! Its also a versatile recipe which makes it a great one. If you add or substitute things in a recipe and it still turns out perfect every time &ndash; you got yourself a good recipe. This would be great with some crispy bacon laced through it as well and you can also switch up the potatoes with sweet ones too. You can also play around with the cheese combinations too.
 <br>
 <br>
-![Scalloped Potatoes With Leeks ](/images/uploads/2017_11_21_scalloped_potatoes_leek_3.jpg)
+![Scalloped Potatoes With Leeks ](/images/uploads/2017_11_21_scalloped_potatoes_leek_5.jpg)
+<br>
+<br>
+![Scalloped Potatoes With Leeks ](/images/uploads/2017_11_21_scalloped_potatoes_leek_6.jpg)
 <br>
 <br>
 
 Have fun with it and make it your own! This is a staple in our kitchen and when I don’t have leeks on hand or available I will use caramelised onions or I will use chives or green onions in place of the leeks. No matter what delicious add-in you use, these scalloped potatoes will always be tender creamy and cheesy and just what you want in a great side dish.
+<br>
+<br>
+![Scalloped Potatoes With Leeks ](/images/uploads/2017_11_21_scalloped_potatoes_leek_7.jpg)
 <br>
 <br>
 
@@ -36,7 +42,10 @@ Have fun with it and make it your own! This is a staple in our kitchen and when 
 * 1 garlic clove minced
 * &frac12; tsp nutmeg
 * 2-3 sprigs of fresh thyme
-* Salt and pepper to taste
+* Salt and pepper to taste  
+
+![Scalloped Potatoes With Leeks ](/images/uploads/2017_11_21_scalloped_potatoes_leek_3.jpg)
+<br>
 <br>
 
 ### Directions
