@@ -57,3 +57,7 @@ Version 1.6.0 (starch)
 DECEMBER 07 2017
 Version 2.0.0 (kalamata)
 - Switch to Hugo
+
+JANUARY 26 2018
+Version 2.1.0 (kalamata)
+- Pinterest Verification
