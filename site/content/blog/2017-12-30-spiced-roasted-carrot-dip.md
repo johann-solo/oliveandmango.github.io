@@ -22,7 +22,7 @@ I love a little bit of heat in my dips and that is why I loved adding the ground
 <br>
 <br>
 
-This dip has a nice natural sweetnesses and is perfect served up with crispy pita bread or pita chips and perfect with some crispy crackers. Nut thins are super crispy and salty and I loved having it with those.  I also love it in my sandwich and on toast with some cloves tomatoes.  My husband loved it with my homemade Rosemary Cranberry crisps that have a slight sweetness to them as well.
+This dip has a nice natural sweetnesses and is perfect served up with crispy pita bread or pita chips and perfect with some crispy crackers. Nut thins are super crispy and salty and I loved having it with those.  I also love it in my sandwich and on toast with some cloves tomatoes.  My husband loved it with my [homemade Rosemary Cranberry crisps](https://www.oliveandmango.com/rosemary-cranberry-crisps/) that have a slight sweetness to them as well.
 <br>
 <br>
 ![Spiced Roasted Carrot Dip](/images/uploads/2017_12_30_spiced_roasted_carrot_dip_5.jpg)
