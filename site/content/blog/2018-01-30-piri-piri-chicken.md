@@ -83,23 +83,23 @@ I just can’t talk this recipe up enough.  You just need to try it! Hope the su
 
 1. In a food processor or blender combine the New Mexico chilies and two tablespoons of their soaking liquid, the lemon zest and juice, garlic, ginger, bird peppers if using and jalapeño, onion, paprika, coriander, 1 tbsp of cilantro, and &frac34; teaspoon of salt. Process until all combined and then while processing drizzle in two tbsp of the olive oil to form a thin paste.
 
-1. Separate three tablespoons of the paste and and gently push the paste under the skin of the chicken, then run your hands over the outside of the skin to squeeze it and distribute it into every knoll and cranny of that chicken
+1. Separate three tablespoons of the paste and and gently push the paste under the skin of the chicken, then run your hands over the outside of the skin to squeeze it and distribute it into every nook and cranny of that chicken
 
-1. Put the chicken in a resealable bag and pour the remainder of the paste onto the bag over the chicken. Seal the bag making sure to press all the air out of it.  Wash your hands. Then rub the outside of the bag to work the paste all of the chicken. Let the chicken sit at room temperature for one hour if baking it the same day.  If not marinate in the refrigerator overnight. Allow the chicken to come to room temp before roasting though.
+1. Put the chicken in a resealable bag and pour the remainder of the paste into the bag over the chicken. Seal the bag making sure to press all the air out of it.  Wash your hands. Then rub the outside of the bag to work the paste all over the chicken. Let the chicken sit at room temperature for one hour if baking it the same day.  If not marinate in the refrigerator overnight. Allow the chicken to come to room temp before roasting though.
 
 1. Preheat oven to 425&deg;F. Put a 9X13 roasting pan in the oven while it preheats and heat pan for 10minutes.
 
 1. Toss the potatoes in a large bowl with the rest of the olive oil and a generous amount of salt and pepper.
 
-1. Remove the chicken out of bag into a plate and reserve the paste from the bag.  Spread half the paste over the top of the chicken and sprinkle salt and pepper over it too.
+1. Remove the chicken out of bag onto a plate and reserve the paste from the bag.  Spread half the paste over the top of the chicken and sprinkle salt and pepper over it too.
 
-1. Remove hot pan from  the oven and toss the potatoes and any oil from the bowl into it. Place the chicken on top of it breast side down and spread the remaking paste.
+1. Remove hot pan from the oven and toss the potatoes and any oil from the bowl into it. Place the chicken on top of the potatoes, breast side down and spread the remaining paste.
 
 1. Place back into the oven and roast 15 minutes and then remove and flip the chicken over breast side up and roast for another 10 minutes and baste the potatoes and chicken with pan juices that have already formed. Tuck the lemon slices between the potatoes and chicken and under and around the chicken as well.
 
 1. Return to oven and continue roasting until done and deeply roasted skin. Took approx 30 more minutes of roasting for me but it depends on the size of the chicken. Use a thermometer to ensure doneness and it should read 165 degrees and juices should run clear when thigh of chicken is pierced.
 
-1. Let chicken rest for ten minutes before cutting. And serve with potatoes and lemon slices and pan juices and some hopped cilantro.
+1. Let chicken rest for ten minutes before cutting. And serve with potatoes and lemon slices and pan juices and some chopped cilantro.
 
 <br>
 ![Piri Piri Chicken](/images/uploads/2018_01_30_piri_piri_chicken_11.jpg)
