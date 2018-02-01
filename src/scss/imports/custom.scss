@@ -411,7 +411,6 @@ caption {
   }
 }
 .profile_pic {
-  max-width: 80%;
   border-radius: 50%;
   padding: 0 0 20px 0;
 }
@@ -450,7 +449,7 @@ caption {
     font-size: 0.9em;
   }
   @media screen and (min-width: $tablet-width) {
-    max-width: 25%;
+    max-width: 20%;
     padding: 0;
     font-size: 0.8em;
   }
@@ -459,4 +458,12 @@ caption {
 .sidebar h2 {
   font-style: italic;
   padding: 15px 0 20px;
+  text-align: center;
+}
+
+.sidebar ul {
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  font-size: 1.2em;
 }
