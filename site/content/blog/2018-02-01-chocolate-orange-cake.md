@@ -79,7 +79,8 @@ We loved this cake and it felt like a special occasion kind of cake without the 
 
 * 2&frac12; cups Powdered sugar (approx 340 grams)
 * 8 tbsp of butter or one stick at room temperature
-* &frac12; cup Unsweetened cocoa powder (approx 50 grams) 4 tbsp of very hot orange juice
+* &frac12; cup Unsweetened cocoa powder (approx 50 grams)
+* 4 tbsp of very hot orange juice
 * &frac14; tsp vanilla extract
 * &frac14; tsp of orange extract (optional but gives the frosting a little more pronounced orange flavour)
 * 4 oz of cream cheese at room temperature‐ can add a little more to suit taste and texture of frosting (approx half or &frac34; of a regular pack)
@@ -125,7 +126,7 @@ Decorate with candied orange slices if you wish and sprinkle cake with shaved da
 
 ### Directions
 
-1. Blanch the grapefruit slices in boiling water for 1 to 2 minutes and then drain and plunge them
+1. Blanch the orange slices in boiling water for 1 to 2 minutes and then drain and plunge them
 into an ice bath (bowl of ice and cold water)
 1. Let them cool in ice bath for a few minutes and carefully remove them and set them aside
 1. In a shallow large pot or pan combine the sugar and water and heat to medium and stir until sugar
