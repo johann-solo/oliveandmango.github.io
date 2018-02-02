@@ -16,27 +16,36 @@ If you want to switch up your dipping game, this muhammara dip is one you need i
 <br>
 
 My husband and I really love roasted red peppers. He can’t remember how or when he was introduced to roasted red peppers, but he can’t get enough of them in anything. He loves my feta and roasted red pepper dip which I haven’t shared on here yet but I think the recipe is in my IG feed somewhere. Anyways making a mental note to myself right now to make and photograph and put up the recipe to that dip as well. Moving on though. My love for them comes from my parent’s love for them.  Roasted red peppers marinating in olive oil and garlic were a staple growing up.  They were placed on the table for every meal, like a condiment. I could literally live on them with bread and feta. So there was no doubt that I was going to make and love this dip.
-
-> It has a wonderful natural sweetness and smokiness from the peppers which I love
-
-It has a wonderful natural sweetness and smokiness from the peppers which I love. Using jarred ones is totally ok but it’s worth the time and effort to roast them yourself. The bread crumbs (and you can use any kind of bread crumbs including GF- I used panko for more texture) give it more body and texture. The toasted walnuts add to the earthy and nutty flavour as well as add a wonderful texture. Adding the pomegranate molasses is a must and gives it a distinct sweetness and a slight edge of acidity along with the lemon juice.
 <br>
 <br>
 ![Muhammara Dip](/images/uploads/2018_02_02_muhammara_dip_3.jpg)
-<br>
-<br>
-
-This dip gets better after a day sitting in the fridge allowing the flavours to meld together just like a chili or stew. That is why I like to make mine a day ahead if I’m serving it at a dinner party. Leftovers can be stored in the fridge for a few days.  It’s great to dip veggies and toasted pita chips into. But I also love it as a spread for your sandwich or on toast or flatbread. It makes a great sauce for skewered veggies or meat and totally acceptable to eat it by the spoonful as well.
 <br>
 <br>
 ![Muhammara Dip](/images/uploads/2018_02_02_muhammara_dip_4.jpg)
 <br>
 <br>
 
-This is a great healthy option to add to your table of snacks for Super Bowl and basically any occasion. If you have never heard of it or tried it before - it’s a must! We couldn’t get enough and it’s a lot different in taste and texture to a hummus or any other dip I would say. It’s closer to a harissa dip but without that much heat and a little sweeter. You will just have to give it a try to formulate your own option on it. Trust me you won’t regret it. Enjoy!
+It has a wonderful natural sweetness and smokiness from the peppers which I love. Using jarred ones is totally ok but it’s worth the time and effort to roast them yourself. The bread crumbs (and you can use any kind of bread crumbs including GF- I used panko for more texture) give it more body and texture. The toasted walnuts add to the earthy and nutty flavour as well as add a wonderful texture. Adding the pomegranate molasses is a must and gives it a distinct sweetness and a slight edge of acidity along with the lemon juice.
 <br>
 <br>
 ![Muhammara Dip](/images/uploads/2018_02_02_muhammara_dip_5.jpg)
+<br>
+<br>
+![Muhammara Dip](/images/uploads/2018_02_02_muhammara_dip_6.jpg)
+<br>
+<br>
+
+This dip gets better after a day sitting in the fridge allowing the flavours to meld together just like a chili or stew. That is why I like to make mine a day ahead if I’m serving it at a dinner party. Leftovers can be stored in the fridge for a few days.  It’s great to dip veggies and toasted pita chips into. But I also love it as a spread for your sandwich or on toast or flatbread. It makes a great sauce for skewered veggies or meat and totally acceptable to eat it by the spoonful as well.
+<br>
+<br>
+![Muhammara Dip](/images/uploads/2018_02_02_muhammara_dip_7.jpg)
+<br>
+<br>
+
+This is a great healthy option to add to your table of snacks for Super Bowl and basically any occasion. If you have never heard of it or tried it before - it’s a must! We couldn’t get enough and it’s a lot different in taste and texture to a hummus or any other dip I would say. It’s closer to a harissa dip but without that much heat and a little sweeter. You will just have to give it a try to formulate your own option on it. Trust me you won’t regret it. Enjoy!
+<br>
+<br>
+![Muhammara Dip](/images/uploads/2018_02_02_muhammara_dip_8.jpg)
 <br>
 <br>
 
@@ -78,4 +87,4 @@ This is a great healthy option to add to your table of snacks for Super Bowl and
 Adapted from *Thekitchn*
 
 <br>
-![Muhammara Dip](/images/uploads/2018_02_02_muhammara_dip_6.jpg)
+![Muhammara Dip](/images/uploads/2018_02_02_muhammara_dip_9.jpg)
