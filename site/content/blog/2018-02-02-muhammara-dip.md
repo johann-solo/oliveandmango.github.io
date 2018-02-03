@@ -63,7 +63,7 @@ This is a great healthy option to add to your table of snacks for Super Bowl and
 * &frac14; cup olive oil plus 1-2 tbsp more for drizzling over dip after
 * 2 tbsp pomegranate molasses
 * &frac14; cup tomato paste
-* &frac14; cup warm water if need to thin out the dip
+* &frac14; cup warm water if needed to thin out the dip
 * Salt and pepper to taste
 <br>
 
@@ -82,7 +82,7 @@ This is a great healthy option to add to your table of snacks for Super Bowl and
 
 1. In a food processor or high speed blender process the chili flakes, cumin, walnuts, lemon juice, breadcrumbs, olive oil, garlic, tomato paste, garlic if using, and red peppers until nice and smooth. Then drizzle with warm water to reach desired texture and pulse a few more times.  I didn’t need the water.
 
-1. Stir in and season with salt and pepper to your liking and serve with the cauliflower bites. I topped mine with a drizzle of olive oil, dusting of cumin and cumin seeds and some chopped parsley  
+1. Stir in and season with salt and pepper to your liking and serve with the cauliflower bites. I topped mine with a drizzle of olive oil, dusting of cumin, cumin seeds, chopped walnuts and some chopped parsley  
 
 Adapted from *Thekitchn*
 
