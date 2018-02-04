@@ -20,9 +20,13 @@ disqusShortname = "disqus_Ci8qqqEWpn"
   url  = "/blog"
   weight = 2
 [[menu.main]]
+  name = "Workshops"
+  url  = "/workshops"
+  weight = 3
+[[menu.main]]
   name = "About"
   url  = "/about"
-  weight = 3
+  weight = 4
 
 [permalinks]
   blog = "/:slug/"
