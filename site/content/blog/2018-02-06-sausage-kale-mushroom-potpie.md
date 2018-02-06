@@ -25,7 +25,7 @@ It’s rich and creamy and you get to decide how rich and creamy you want it. Ad
 <br>
 <br>
 
-Pot pies are really the best enjoyed hot out the oven while the buttery crust is crisp and delicious, although I do reheat my leftovers in the oven and the crust doesn’t get soggy. So really it’s enjoyed at anytime! What’s better than hearing the crust crackle and flake away while you make your first cut into that pot pie? So good. I am also a fan of pot pies because of how easy and versatile they can be and can be made pretty quickly especially if you have some good puff pastry hanging around I your fridge or freezer. You can definitely keep this vegetarian by adding more veggies replacing the sausage, and you can make it GF by using a gluten free flour or thickening agent as well as a GF pastry.
+Pot pies are really the best enjoyed hot out the oven while the buttery crust is crisp and delicious, although I do reheat my leftovers in the oven and the crust doesn’t get soggy. So really it’s enjoyed at anytime! What’s better than hearing the crust crackle and flake away while you make your first cut into that pot pie? So good. I am also a fan of pot pies because of how easy and versatile they can be and can be made pretty quickly especially if you have some good puff pastry hanging around in your fridge or freezer. You can definitely keep this vegetarian by adding more veggies replacing the sausage, and you can make it GF by using a gluten free flour or thickening agent as well as a GF pastry.
 <br>
 <br>
 ![Sausage Kale And Mushroom Pot Pie](/images/uploads/2018_02_06_sausage_kale_mushroom_pot_pie_5.jpg)
