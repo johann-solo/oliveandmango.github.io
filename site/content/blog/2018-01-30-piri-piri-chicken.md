@@ -38,6 +38,9 @@ Let’s talk about chicken shall we. I literally hate touching raw chicken. Not 
 Finding the chilies was a bit of a challenge but I just did a little research on substitutions and used what was available. I found New Mexico dried chilies and they were quite affordable surprisingly for here. Ironically this week I went into the same store to see if I can get some saffron threads and saw they had brought in some anchos. Figures! I also used some locally grown tiny bird peppers for some extra flavour and used a jalapeño to substitute for a Serrano. All worked very well and the flavour outcome was incredible. The paste created with the chilies and the rest of the seasoning ingredients really seeps into the bird and makes it so flavourful. The peppers are not overly hot at all.  They just add a very subtle heat but tremendous smokiness. If you want more heat don’t remove the seeds from the fresh chilies.
 <br>
 <br>
+![Piri Piri Chicken](/images/uploads/2018_01_30_piri_piri_chicken_12.jpg)
+<br>
+<br>
 ![Piri Piri Chicken](/images/uploads/2018_01_30_piri_piri_chicken_7.jpg)
 <br>
 <br>
@@ -67,7 +70,7 @@ I just can’t talk this recipe up enough.  You just need to try it! Hope the su
 * 2 tbsp chopped cilantro or chadon beni
 * 4 tbsp of extra virgin olive oil divided
 * 1&frac14;lbs of washed baby potatoes or smaller sized ones if possible - larger ones can be cut in half
-* Salt and pepper  
+* Salt and pepper
 
 ![Piri Piri Chicken](/images/uploads/2018_01_30_piri_piri_chicken_10.jpg)
 <br>

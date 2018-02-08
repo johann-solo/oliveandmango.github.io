@@ -120,7 +120,7 @@ Makes approx 1 cup of purée
 
 1. Once the carrots are super tender drain any excess water if needed, transfer them to a blender or food processor, and blend until smooth. Allow to cool then transfer to a sealed container and can be stored in the fridge for a couple of days.
 
-1. Preheat the oven to 350 degrees F
+1. Preheat the oven to 350&deg;F
 
 1. Grease a 10x15 or 11x16 sheet pan/jelly roll pan and line with parchment paper and grease parchment paper as well and set aside
 
