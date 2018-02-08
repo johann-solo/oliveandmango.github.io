@@ -12,13 +12,13 @@ excerpt: A simple soup with dynamic flavours
 I was sitting waiting for someone in the community library here in St James one day a couple years ago. When I realised I was sitting in the cookbook/food section, I started to browse while I waited.  I came across a beautiful book called Cooking Kariwak Style: Taste of Tobago by Cynthia Hurd-Clovis.  Such a beautifully photographed book with equally beautiful recipes.  Of course I didn't have a card to sign it out at the time and for some reason never did after even when I did get a library card.
 <br>
 <br>
-![Roasted Tomato And Sweet Potato Soup](/images/uploads/2016_11_16_roasted_tomato_sweet_potato_soup_2.jpg)  
+![Roasted Tomato And Sweet Potato Soup](/images/uploads/2016_11_16_roasted_tomato_sweet_potato_soup_2.jpg)
 <br>
 
 Anyways, while I waited I came across some wonderful recipes but only two stuck or at least the basic concepts of them, and to this day I make both of them all the time.  The one is a beautiful coconut rice that is a staple which I switch up by adding veggies, peas or whatever I have to it, but the bones of the recipe always stays the same. More on that another time though. The other recipe that stood out to me was a tomato basil sweet potato soup.  When I read it, right away I could taste it!! So I tried to remember the basics of it and recreated it as soon as I could.
 <br>
 <br>
-![Roasted Tomato And Sweet Potato Soup](/images/uploads/2016_11_16_roasted_tomato_sweet_potato_soup_3.jpg)  
+![Roasted Tomato And Sweet Potato Soup](/images/uploads/2016_11_16_roasted_tomato_sweet_potato_soup_3.jpg)
 <br>
 
 I have never tasted the original at [Kariwak Village Hotel](http://www.kariwak.com), although I have eaten there before. It was around 5 years ago on a mini vacation from Canada.  I don't remember what I had, but I do remember that it was delicious!  That's why when I saw that book, I had to take a look at it.
@@ -55,7 +55,7 @@ All this has me feeling very nostalgic for Tobago.   I must go back to Kariwak f
 * &frac14; - &frac12; cup of fresh basil sliced and more for garnish if you would like
 * &frac12; cup of fresh chopped spinach or two to three cubes of frozen chopped spinach (because you know if I can add spinach to anything I will) &mdash; optional
 * salt and pepper to taste
-* olive oil  
+* olive oil
 
 ![Roasted Tomato And Sweet Potato Soup](/images/uploads/2016_11_16_roasted_tomato_sweet_potato_soup_7.jpg)
 <br>
@@ -72,12 +72,12 @@ All this has me feeling very nostalgic for Tobago.   I must go back to Kariwak f
 6. Add in your sliced spinach (if using) and simmer for a few more minutes until it's wilted
 7. Take the pot off the heat and using an immersion blender (could also do batches in a blender and then return to pot) blend soup to the consistency you desire (I like it smooth but with a few veggie stragglers left for a little more texture)
 8. Add and stir in your sliced basil
-9. Serve with crusty bread. I toasted mine topped with a basil pesto and cheese.
+9. Serve with crusty bread.
 <br>
 
 ### Recipe Notes:
 
-* You don't have to roast the tomatoes if you don't have the time.  But the roasted tomatoes and garlic are really what put this soup over the top.  
-* In a bind and don't have fresh basil? If you have a jar of Pesto you can add in a tsp or two to the soup at the end and it will give it a similar flavour but really and truly nothing beats fresh basil.  
+* You don't have to roast the tomatoes if you don't have the time.  But the roasted tomatoes and garlic are really what put this soup over the top.
+* In a bind and don't have fresh basil? If you have a jar of Pesto you can add in a tsp or two to the soup at the end and it will give it a similar flavour but really and truly nothing beats fresh basil.
 
 ![Roasted Tomato And Sweet Potato Soup](/images/uploads/2016_11_16_roasted_tomato_sweet_potato_soup_8.jpg)
