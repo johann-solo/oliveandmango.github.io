@@ -102,4 +102,7 @@ I hope the pictures help with the process and hope you give this a go! I would a
 
 1. Cover with a lid if using a sealed container or cover with plastic wrap and then a layer of foil and freeze for 4 hours or overnight.  
 
+Adapted by The Lemon Apron, Ful.Filled and Half-Baked Harvest  
+<br>
+
 ![Chestnut Ice Cream](/images/uploads/2018_01_31_chestnut_icecream_10.jpg)

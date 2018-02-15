@@ -2,8 +2,7 @@
 title:  "No fail banana bread"
 date:   2016-10-12 09:30:35 -0400
 author: Joanne
-permalink: delicious-moist-banana-bread
-categories: ["desserts"]
+categories: ["snacks"]
 thumbnail: /img/OCT2016/banana-bread.jpg
 tags: ["bread"]
 excerpt: Make amazing, moist and delicious banana bread every time
@@ -37,7 +36,37 @@ Here is why I think this one is the best banana bread recipe I have tried thus f
 <br>
 <br>
 
-The [original recipe](http://www.foodnetwork.com/recipes/tyler-florence/banana-bread-with-pecans-recipe.html) is from the food network by Tyler Florence.  I adapted it because I find the part of that recipe that says to separate the 4 bananas and prepare in two batches doesn't work for me.  The consistency doesn't come out the way I like it so I don't separate the bananas.  I blend all four together as you see in the recipe [here on the blog](http://oliveandmango.com/banana-bread-with-pecans). I also almost always add chocolate chips.  I love the crunch from the pecans or walnuts if your swapping, and the little surprise crunch and burst of sweetness when you bite into a chocolate chip.
+The [original recipe](http://www.foodnetwork.com/recipes/tyler-florence/banana-bread-with-pecans-recipe.html) is from the food network by Tyler Florence.  I adapted it because I find the part of that recipe that says to separate the 4 bananas and prepare in two batches doesn't work for me.  The consistency doesn't come out the way I like it so I don't separate the bananas.  I blend all four together as you see in the recipe. I also almost always add chocolate chips.  I love the crunch from the pecans or walnuts if your swapping, and the little surprise crunch and burst of sweetness when you bite into a chocolate chip.
 Definitely feel free to try the recipe on the food network website and compare for yourself.
 In the meantime I hope you enjoy this recipe which is my favourite banana bread recipe. A classic and a favourite of anyone I have made it for too.  Can't beat that right!
 Let me know if you have a favourite recipe for this classic.  I would love to know and I'm always willing to try other recipes for it.  
+<br>
+
+### Ingredients
+
+* 2 cups all-purpose flour
+* 1&frac12; teaspoons baking soda
+* &frac12; teaspoon salt
+* 4 overripe bananas
+* 1 cup sugar
+* &frac34; cup (1&frac12; sticks) unsalted butter, melted and cooled
+* 2 large eggs
+* 1 teaspoon pure vanilla extract
+* &frac12; cup pecans, finely chopped
+* &frac12; cup semi-sweet chocolate chips
+<br>
+
+### Directions
+
+1. Preheat oven to 350&deg;F and lightly grease a 9 by 5-inch loaf pan.
+1. In a large bowl, combine the flour, baking soda, and salt; set aside.
+1. With an electric mixer fitted with a wire whisk, whip all 4 bananas and sugar together for a good 3 minutes.
+1. Add the melted butter, eggs, and vanilla; beat well and scrape down the sides of the bowl.
+1. Mix in the dry ingredients just until incorporated.
+1. Fold in the nuts, chocolate chips and the mashed bananas with a rubber spatula.
+1. Pour the batter into the prepared loaf pan. Give the pan a good rap on the counter to get any air bubbles out.
+1. Slice a banana thinly lengthwise and lay down two pieces over banana bread cut side down and press gently.  (Optional and decorative)
+1. Bake for about 1 hour and 15 minutes, until golden brown and a toothpick inserted into the centre of the loaf comes out clean.
+1. Cool the bread in the pan for 10 minutes or so, and then turn out onto a wire rack to cool completely before slicing.  
+
+Adapted from *Tyler Florence's* banana bread with pecans.

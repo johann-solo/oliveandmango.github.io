@@ -400,6 +400,7 @@ caption {
 }
 
 
+<<<<<<< HEAD
 // SIDEBAR
 
 .sidebar_container {
@@ -466,4 +467,19 @@ caption {
   list-style-type: none;
   margin: 0;
   font-size: 1.2em;
+=======
+// WORKSHOP Pages
+
+input {
+  width: 100%;
+  height: 2em;
+  margin-bottom: 2em;
+  border-style: none;
+  border: 1px solid #e8e8e8;
+}
+textarea {
+  width: 100%;
+  height: 150px;
+  border: 1px solid #e8e8e8;
+>>>>>>> 489184c7f9b65a53e6ed299794a065c5873fbee4
 }
