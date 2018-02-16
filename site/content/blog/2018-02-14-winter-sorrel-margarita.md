@@ -16,7 +16,7 @@ I wanted to share one last recipe made with fresh sorrel and I’m glad it’s a
 </br>
 </br>
 
-Before I get into the recipe though, I wanted to tell you a little about the health benefits of sorrel. There’s a bit of a long list and one of my favorite benefits is that it’s very high in vitimin C making it immune Boosting and also perfect in a hot toddy (recipe for hot toddy here). I also learned that it’s beneficial for lowering blood pressure, normalizing blood sugar, regulating uric acid, lowering cholesterol, excellent for coughs (another benefit of using it in a hot toddy- just saying), great for skin, weight management and regulating metabolism. A long list indeed. It’s a super plant with a dazzling colour and a tart, subtly floral flavour that I have grown to love.
+Before I get into the recipe though, I wanted to tell you a little about the health benefits of sorrel. There’s a bit of a long list and one of my favorite benefits is that it’s very high in vitimin C making it immune Boosting and also perfect in a hot toddy (recipe for [hot toddy here](https://www.oliveandmango.com/sorrel-hibiscus-hot-toddy/)). I also learned that it’s beneficial for lowering blood pressure, normalizing blood sugar, regulating uric acid, lowering cholesterol, excellent for coughs (another benefit of using it in a hot toddy- just saying), great for skin, weight management and regulating metabolism. A long list indeed. It’s a super plant with a dazzling colour and a tart, subtly floral flavour that I have grown to love.
 </br>
 </br>
 ![Winter Hibiscus Margarita](/images/uploads/2018_02_14_winter_sorrel_margarita_3.jpg)
