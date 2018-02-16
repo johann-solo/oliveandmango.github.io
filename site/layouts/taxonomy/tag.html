@@ -1,7 +1,8 @@
 {{ partial "taxonomy-head" . }}
 {{ partial "header" . }}
+{{ partial "splash" . }}
 
-<div class="container">
+<div class="container container_taxonomy">
 <h1 class="heading_taxonomy">Other posts related to "{{ .Title }}"</h1>
 <ul class="related_taxonomy">
 {{ range .Data.Pages }}

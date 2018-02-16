@@ -2,8 +2,7 @@
 {{ partial "header" . }}
 {{ partial "splash" . }}
 
-  <div class="page-content home flex_container">
-    <div class="container">
+  <div class="page-content flex_container">
 
       <ul class="post-list">
       <!-- Ranges through content/post/*.md -->
@@ -22,7 +21,6 @@
       {{ end }}
       <div class="pagination_container">{{ template "_internal/pagination.html" . }}</div>
       </ul>
-    </div>
 
     {{ partial "sidebar" . }}
 

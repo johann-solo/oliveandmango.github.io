@@ -61,3 +61,7 @@ Version 2.0.0 (kalamata)
 JANUARY 26 2018
 Version 2.1.0 (kalamata)
 - Pinterest Verification
+
+FEBRUARY 15 2018
+Version 2.2.0 (kalamata)
+- Sidebar
