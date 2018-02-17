@@ -9,5 +9,5 @@ excerpt:
 ---
 
 
-<br>
-![](/images/uploads/{{ replace .TranslationBaseName "-" "_" }}_1.jpg)
+</br>
+![{{ .title }}](/images/uploads/{{ replace .TranslationBaseName "-" "_" }}_1.jpg)

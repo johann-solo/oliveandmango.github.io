@@ -2,6 +2,8 @@
 title = "Workshops"
 +++
 
+# An Introduction To Food Photography And Styling
+
 <div class="page-content">
   <div class="container">
   <h2>Sign up for our latest workshop</h2>
