@@ -8,7 +8,7 @@ tags: ["cookies", "ginger"]
 excerpt: Soft, chewy and deep in colour and flavour
 ---
 
-When it comes to cookies I’m a simple gal and very happy with a good chocolate chip/chunk one. Not that I don’t eat others but usually if there’s a selection those will be the ones I choose. I thought I should widen out when it comes to cookies so I started experimenting with ginger bread cookies. I do enjoy them too and I love the slight burn or sensation that ginger leaves behind, but I wanted a cookie that would be softer and chewier than a ginger snap. The reason being that I wanted to use them to make ice cream sandwiches with my chestnut ice cream (recipe here for that chestnut ice cream).
+When it comes to cookies I’m a simple gal and very happy with a good chocolate chip/chunk one. Not that I don’t eat others but usually if there’s a selection those will be the ones I choose. I thought I should widen out when it comes to cookies so I started experimenting with ginger bread cookies. I do enjoy them too and I love the slight burn or sensation that ginger leaves behind, but I wanted a cookie that would be softer and chewier than a ginger snap. The reason being that I wanted to use them to make ice cream sandwiches with my chestnut ice cream ([recipe here for that chestnut ice cream](https://www.oliveandmango.com/no-churn-roasted-chestnut-ice-cream/)).
 </br>
 </br>
 ![Ginger Spiced Molasses Cookies](/images/uploads/2018_02_17_ginger_spiced_molasses_cookies_2.jpg)
