@@ -65,3 +65,7 @@ Version 2.1.0 (kalamata)
 FEBRUARY 15 2018
 Version 2.2.0 (kalamata)
 - Sidebar
+
+FEBRUARY 15 2018
+Version 2.2.1 (kalamata)
+- Mobile padding
