@@ -15,7 +15,7 @@ There are some flavour combinations that I will never tire of and one of those i
 </br>
 </br>
 
-The topper is literally the topping. What makes it a Dutch Apple pie is that instead of doing the top layer using the crust you top the pie with a crumble or streusel topping for extra crunch and texture and it works so well. The recipe for the crust makes two, one for the bottom layer and one for the top so feel free to use that instead if you’re not a fan of a crumble. I saved the other pie crust for an apple tart tatin I was making, but it keeps well in the freezer and would also be perfect as a topper for a pot pie, a galette, hand pies or if you dare make this beauty again. It’s versatile and delicious and you will wonder why you never made all your pie crusts with the addition of cheese!
+The topper is literally the topping. What makes it a Dutch Apple pie is that instead of doing the top layer using the crust you top the pie with a crumble or streusel topping for extra crunch and texture and it works so well. The recipe for the crust makes two, one for the bottom layer and one for the top so feel free to use that instead if you’re not a fan of a crumble. I saved the other pie crust for an apple tarte tatin I was making, but it keeps well in the freezer and would also be perfect as a topper for a pot pie, a galette, hand pies or if you dare make this beauty again. It’s versatile and delicious and you will wonder why you never made all your pie crusts with the addition of cheese!
 </br>
 </br>
 ![Dutch Apple Pie Cheddar With A Cheddar Cheese Crust](/images/uploads/2018_02_21_dutch_apple_pie_cheddar_cheese_crust_3.jpg)
@@ -25,7 +25,7 @@ The topper is literally the topping. What makes it a Dutch Apple pie is that ins
 </br>
 </br>
 
-Do you taste the cheese? Yes and no, that’s not the first thing you taste in the crust. The cheese gives the crust extra fat (always a good thing in a pie crust) which makes it extra tender and flaky, and gives its a savoury hint of flavour that if you didn’t know there was cheese in it, you would wonder what it was that tastes different. It’s very buttery, with a hint of saltiness, and a hint of nuttiness, totally making cheese the perfect addiction to your pie crust whether your baking up something sweet or savory in it.
+Do you taste the cheese? Yes and no, that’s not the first thing you taste in the crust. The cheese gives the crust extra fat (always a good thing in a pie crust) which makes it extra tender and flaky, and gives its a savoury hint of flavour that if you didn’t know there was cheese in it, you would wonder what it was that tastes different. It’s very buttery, with a hint of saltiness, and a hint of nuttiness, totally making cheese the perfect addition to your pie crust whether your baking up something sweet or savoury in it.
 </br>
 </br>
 ![Dutch Apple Pie Cheddar With A Cheddar Cheese Crust](/images/uploads/2018_02_21_dutch_apple_pie_cheddar_cheese_crust_5.jpg)
