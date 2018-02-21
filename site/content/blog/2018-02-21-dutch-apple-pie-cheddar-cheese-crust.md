@@ -1,5 +1,5 @@
 ---
-title: Dutch Apple Pie Cheddar With A Cheddar Cheese Crust
+title: Dutch Apple Pie With A Cheddar Cheese Crust
 date: 2018-02-21T11:07:59-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_02_21_dutch_apple_pie_cheddar_cheese_crust_1.jpg
