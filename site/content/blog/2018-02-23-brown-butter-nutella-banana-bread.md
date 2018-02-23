@@ -8,7 +8,7 @@ tags: ["bananas", "Nutella"]
 excerpt: Enjoy swirls of sweet nutty, cocoa flavours in your banana bread
 ---
 
-You heard butter is better and that’s true but what’s even better is nutella. What’s even better than one or the other is combining the two in this banana bread.  This recipe combines those two things with yet another loved thing in our home - banana bread! Banda bread is one of those baked goods that I never tire of and is pretty hard to mess up if you have a good recipe. This banana bread is a spin on my classic recipe which yields a crowd pleasing loaf every time. It’s a pretty basic recipe that I have been using and adapting recipes from for years. [More on that recipe here](https://www.oliveandmango.com/no-fail-banana-bread/).
+You heard butter is better and that’s true but what’s even better is nutella. What’s even better than one or the other is combining the two in this banana bread.  This recipe combines those two things with yet another loved thing in our home - banana bread! Banana bread is one of those baked goods that I never tire of and is pretty hard to mess up if you have a good recipe. This banana bread is a spin on my classic recipe which yields a crowd pleasing loaf every time. It’s a pretty basic recipe that I have been using and adapting recipes from for years. [More on that recipe here](https://www.oliveandmango.com/no-fail-banana-bread/).
 </br>
 </br>
 ![Brown Butter Nutella Banana Bread](/images/uploads/2018_02_23_brown_butter_nutella_banana_bread_2.jpg)
