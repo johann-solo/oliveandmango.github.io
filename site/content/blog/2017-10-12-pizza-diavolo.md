@@ -51,12 +51,14 @@ I used spicy pepperoni and it was perfect! You can take the heat down by using r
 <br>
 
 **For the toppings**
+
 * 12 ounces mozzarella slices
 * Sliced spicy pepperoni or spicy salami of your choice and as meaty as you prefer
 * A little more chili oil to drizzle before serving and fresh basil to garnish
 <br>
 
 **For the dough**
+
 * 2 tsp active dry yeast
 * 1 tbsp honey
 * 1 cup plus 5 tbsp of lukewarm water
