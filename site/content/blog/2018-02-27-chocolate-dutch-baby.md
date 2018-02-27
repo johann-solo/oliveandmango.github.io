@@ -99,4 +99,4 @@ It might be a little fussy to make but it’s also worth it because its totally 
 Adapted from _thekitchn_
 
 </br>
-!\[Chocolate Dutch Baby](/images/uploads/2018_02_27_chocolate_dutch_baby_9.jpg)
+![Chocolate Dutch Baby](/images/uploads/2018_02_27_chocolate_dutch_baby_9.jpg)
