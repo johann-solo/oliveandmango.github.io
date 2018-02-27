@@ -1,13 +1,15 @@
 ---
-title: Chocolate Dutch Baby With Homemade Strawberry And Chocolate Sauce 
-date: 2018-02-27T11:42:13-04:00
+title: Chocolate Dutch Baby With Homemade Strawberry And Chocolate Sauce
+date: 2018-02-27T15:42:13.000Z
 author: Joanne
 thumbnail: /images/uploads/2018_02_27_chocolate_dutch_baby_1.jpg
-categories: ["desserts"]
-tags: ["chocolate", "strawberries"]
+categories:
+  - desserts
+tags:
+  - chocolate
+  - strawberries
 excerpt: A light and airy cocoa delight
 ---
-
 I made my first Dutch baby during a Rainydaybites cookbook challenge and so glad I was in on that month’s challenge. I always wanted to make one but just never got around to it and for some reason I thought that making them would be overly complex. The opposite was true. But before I get into the important features of making a Dutch baby let me tell those of you who don’t know what it is a little more about it.
 </br>
 </br>
@@ -29,7 +31,7 @@ You all know by now that chocolate is basically my middle name if I had one, so 
 </br>
 </br>
 
-At the outset I mentioned there are a couple MUST do’s when making a Dutch baby no mater which kind you’re making and here they are. Firstly, I like to use a food processor or blender when making mine because you achieve the smoothest batter this way. Let the machine do the work. Secondly, I learned from experimentation that you need to let the batter sit for a while before pouring it into the pan which allows the flour to absorb all the liquid.
+At the outset I mentioned there are a couple MUST do’s when making a Dutch baby no matter which kind you’re making and here they are. Firstly, I like to use a food processor or blender when making mine because you achieve the smoothest batter this way. Let the machine do the work. Secondly, I learned from experimentation that you need to let the batter sit for a while before pouring it into the pan which allows the flour to absorb all the liquid.
 </br>
 </br>
 ![Chocolate Dutch Baby](/images/uploads/2018_02_27_chocolate_dutch_baby_5.jpg)
@@ -57,7 +59,7 @@ It might be a little fussy to make but it’s also worth it because its totally 
 </br>
 </br>
 
-### Ingredients 
+### Ingredients
 
 **For the Dutch Baby**
 
@@ -72,12 +74,10 @@ It might be a little fussy to make but it’s also worth it because its totally 
 * 2 tbsp of butter 
 * Powdered sugar for serving 
 
-
 **For the strawberry sauce**
 
 * 1 (16 oz) package or approx 2 cups of frozen strawberries. Can use fresh hulled ones too
 * 1-2 tbsp of maple syrup depending on how sweet you want it 
-
 
 **For the chocolate sauce**
 
@@ -88,22 +88,15 @@ It might be a little fussy to make but it’s also worth it because its totally 
 ### Directions
 
 1. Combine frozen strawberries and maple syrup in medium sauce pan. Bring the mixture to a boil and then reduce heat to medium-low and simmer for 10-15 minutes until the sauce reaches a syrupy consistency. As the sauce simmers, break apart the whole berries with a wooden spoon or fork.  Set aside once done. 
+2. In a separate small sauce pan place the chocolate, cream and coffee on low heat and allow chocolate to melt, stirring frequently until chocolate is melted and mixture is smooth and creamy. Once done set aside 
+3. Combine milk, eggs, flour, cocoa powder, salt, vanilla, and sugar in a blender and blend for approx 1 minute until smooth. Leave the batter in the blender and set aside to rest 20 to 25 minutes. This gives the flour time to absorb the liquid.
+4. Meanwhile, place the oven-safe skillet you're using on a middle rack to warm along with the oven. Heat the oven to 425°F. 
+5. When ready to make the pancake, remove the skillet from the oven using oven mitts and place it on top of the stove. Add the butter and swirl the pan to melt the butter and coat the bottom and sides of the pan.
+6. Pour the batter on top of the butter. Tilt the pan if needed so that the batter runs evenly to all sides. Place the skillet in the oven.
+7. Bake until the Dutch baby is puffed, lightly browned across the top, and darker brown on the sides and edges, 15 to 20 minutes.
+8. Serve immediately. You can either serve from the pan or transfer the Dutch baby to a serving platter. Dust with powdered sugar. Cut into wedges and serve with strawberry sauce and a good drizzle of chocolate sauce.  
 
-1. In a separate small sauce pan place the chocolate, cream and coffee on low heat and allow chocolate to melt, stirring frequently until chocolate is melted and mixture is smooth and creamy. Once done set aside 
-
-1. Combine milk, eggs, flour, cocoa powder, salt, vanilla, and sugar in a blender and blend for approx 1 minute until smooth. Leave the batter in the blender and set aside to rest 20 to 25 minutes. This gives the flour time to absorb the liquid.
-
-1. Meanwhile, place the oven-safe skillet you're using on a middle rack to warm along with the oven. Heat the oven to 425°F. 
-
-1. When ready to make the pancake, remove the skillet from the oven using oven mitts and place it on top of the stove. Add the butter and swirl the pan to melt the butter and coat the bottom and sides of the pan.
-
-1. Pour the batter on top of the butter. Tilt the pan if needed so that the batter runs evenly to all sides. Place the skillet in the oven.
-
-1. Bake until the Dutch baby is puffed, lightly browned across the top, and darker brown on the sides and edges, 15 to 20 minutes.
-
-1. Serve immediately. You can either serve from the pan or transfer the Dutch baby to a serving platter. Dust with powdered sugar. Cut into wedges and serve with strawberry sauce and a good drizzle of chocolate sauce.  
-
-Adapted from *thekitchn*
+Adapted from _thekitchn_
 
 </br>
-![Chocolate Dutch Baby](/images/uploads/2018_02_27_chocolate_dutch_baby_9.jpg)
+!\[Chocolate Dutch Baby](/images/uploads/2018_02_27_chocolate_dutch_baby_9.jpg)
