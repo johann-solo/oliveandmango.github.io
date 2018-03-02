@@ -8,7 +8,7 @@ tags: ["chocolate", "bananas"]
 excerpt: The quickest pie you will ever make full of creamy textures and sweetness 
 ---
 
-This pie was the first experience I ever had with anything ‘banoffee’.  There’s no particular reason for  avoiding it, it just never happened. When I saw the opportunity to make it for Rainydaybites cookbook challenge I knew I had to take it and make it.
+This pie was the first experience I ever had with anything ‘banoffee’.  There’s no particular reason for  avoiding it, it just never happened. When I saw the opportunity to make it for _Rainydaybites_ cookbook challenge I knew I had to take it and make it.
 </br>
 </br>
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_2.jpg)
@@ -28,7 +28,7 @@ Banoffee pie is typically layers of bananas, toffee, and cream all on a base of 
 </br>
 </br>
 
-The dulce de leche is also super simple to make at home. Gail Simmons method kind of scared me - with the possibility of the can exploding if you don’t monitor the water levels throughout the whole process, so I opted to use an old method I have been using from Food 52. It’s a no fail method and no real monitoring required.  Even if your dulce de leche gets a little thick from baking, you can thin it out with a little milk or water. It’s easy and all fears of explosion and cleaning up condescend milk from your walls and ceiling are removed. If you don’t feel like DIYing your dulce de leche or have a storebought bottle you have been looking for an excuse to open and use, definitely use it in this recipe.  Either would be perfect.
+The dulce de leche is also super simple to make at home. Gail Simmons method kind of scared me - with the possibility of the can exploding if you don’t monitor the water levels throughout the whole process, so I opted to use an old method I have been using from _Food52_. It’s a no fail method and no real monitoring required.  Even if your dulce de leche gets a little thick from baking, you can thin it out with a little milk or water. It’s easy and all fears of explosion and cleaning up condescend milk from your walls and ceiling are removed. If you don’t feel like DIYing your dulce de leche or have a storebought bottle you have been looking for an excuse to open and use, definitely use it in this recipe.  Either would be perfect.
 </br>
 </br>
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_6.jpg)
@@ -101,6 +101,7 @@ You will love this pie and you will wonder why you never made it sooner. Whether
 
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_16.jpg)
 </br>
+</br>
 
 ## Homemade Dulce de Leche
 
@@ -116,6 +117,7 @@ You will love this pie and you will wonder why you never made it sooner. Whether
 3. Set plate in a roasting pan and add enough hot water to pan to reach halfway up pie plate. 
 4. Bake milk in middle of oven 45 minutes. Check water level and add additional, if necessary, then continue to bake 30-45 minutes more, or until milk is thick and brown. 
 5. Remove pie plate from water bath and cool, uncovered. Makes about 1&frac14; cups.  
+</br>
 
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_17.jpg)
 </br>
@@ -143,6 +145,7 @@ You will love this pie and you will wonder why you never made it sooner. Whether
 
 1. Arrange the banana slices in overlapping circles in 2 layers over the dulce de leche and peanuts. 
 
-1. In a large mixing bowl, whip the cream until it hits hold stiff peaks. Spoon the whip cream over the bananas, covering the pie to form a mound. With a vegetable peeler, shave the chocolate over the whip cream and sprinkle over the last bit of peanuts.  Refrigerate until chilled, at least 15 minutes before slicing and serving. 
-</br>
+1. In a large mixing bowl, whip the cream until it hits hold stiff peaks. Spoon the whip cream over the bananas, covering the pie to form a mound. With a vegetable peeler, shave the chocolate over the whip cream and sprinkle over the last bit of peanuts.  Refrigerate until chilled, at least 15 minutes before slicing and serving.  
+
+
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_18.jpg)
