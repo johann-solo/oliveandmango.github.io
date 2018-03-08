@@ -98,9 +98,9 @@ __For the Toppings__
 
 1. Add the onions and allow them to sauté until very soft and starting to caramelise.  Approx 10 minutes 
 
-1. Add the tomatoes and chili and cook for a few minutes until they are cooked down, stirring and mashing the tomatoes with the back of your wooden spoon to help them cook. 
+1. Add the tomatoes and chili and cook for a few minutes until they are cooked down, stirring and mashing the tomatoes with the back of your wooden spoon to help them break down. 
 
-1. Add the tomato paste and cook stirring it for a minutes to cook of any bitterness, then add the grated ginger and garlic along with the coriander powder and stir cooking for another minute until very fragrant and then turn the heat to low. 
+1. Add the tomato paste and cook stirring it for a minute to cook off any bitterness, then add the grated ginger and garlic along with the coriander powder and stir cooking for another minute until very fragrant and then turn the heat to low. 
 
 1. Add the chicken, turn the heat back up to medium and cook chicken stirring gently and continually for 4-5 minutes then reduce heat and cover allowing chicken to simmer away for 5 minutes, stirring occasionally. Add a splash of water if needed and if the sauce needs to be thinned out. 
 
