@@ -36,7 +36,7 @@ Fast forward a few years to living in Trinidad where getting authentic tasting b
 </br>
 </br>
 
-I found it quite easy to find the rest of the ingredients here on Trinidad. There was only one that I couldn’t find in a regular grocery store here and that was the ground coriander. My friend got some for me at a spice shop near to where she works so that was perfect. It is quite easy to find dried coriander here so I could have also easily done that and ground it myself in my coffee grinder. Everything else was pretty easy to find or substitute, making this recipe ‘easy’. I’m so happy I came across it and I know you will love it too! Hope you enjoy it!
+I found it quite easy to find the rest of the ingredients here on Trinidad. There was only one that I couldn’t find in a regular grocery store here and that was the ground coriander. My friend got some for me at a spice shop near to where she works so that was perfect. It is quite easy to find coriander seeds here so I could have also easily used those and ground them myself in my coffee grinder. Everything else was pretty easy to find or substitute, making this recipe ‘easy’. I’m so happy I came across it and I know you will love it too! Hope you enjoy it!
 </br>
 </br>
 ![Quick And Easy Chicken Biryani](/images/uploads/2018_03_06_quick_easy_chicken_biryani_6.jpg)
