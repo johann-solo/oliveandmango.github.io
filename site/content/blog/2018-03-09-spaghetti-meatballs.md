@@ -74,9 +74,11 @@ The meatballs are super flavorful so nice and fork-tender. I love them.  My frie
 
 * Salt and pepper to taste
 
+* 1 heaping tbsp of tomato paste
+
 * 2 cans crushed tomatoes (or diced if you don't have crushed- with a tbsp of tomato paste if using diced)
 
-* 1 cup plus extra of chicken broth or water
+* 3 cup plus extra of chicken broth or water
 
 * 1 small bunch of basil chopped and stirred in after blending (optional)
 
@@ -87,7 +89,7 @@ The meatballs are super flavorful so nice and fork-tender. I love them.  My frie
 
 1. Add the garlic and sauté for a minute until fragrant and the rest of the veggies and sauté for 5-10 min until they are soft.  
 
-1. Add your tomatoes and broth or water and bring to a boil then turn down heat to low and simmer for 1 hour. Stir occasionally and check to see if it needs more broth or water.   
+1. Add your tomato paste and cooking, stiring for 1 minute. Then add the canned tomatoes, bay leaf and broth or water and bring to a boil then turn down heat to low and simmer for 1 hour. Stir occasionally and check to see if it needs more broth or water.  
 
 1. Once done you can check for seasoning and add more salt and pepper if needed.  You can leave the sauce chunky like it is or I like to use my immersion blender and smooth it out a bit.  Up to your personal taste.
 
@@ -124,9 +126,12 @@ Makes approx 12-15 medium sized meatballs
 
 * &frac12; tsp pepper or to taste
 
-* 4 tbsps of olive oil plus one tbsp
+* 4 tbsps of olive oil plus one tbsp  
 
-You could also add &frac12; tsp of oregano &frac12; tsp of thyme for extra aromatics  (totally optional)
+### Recipe Notes
+
+* You could also add &frac12; tsp of oregano &frac12; tsp of thyme for extra aromatics (totally optional)
+* Also optional is dusting the meatbals with fine bread crumbs or flour before baking or pan frying.
 </br>
 </br>
 

@@ -82,7 +82,7 @@ You and your family and friends will love this pie guaranteed!!! The pie crust i
 
 ### Directions
 
-1. Combine the flour and salt in a food processor and pulse a few times to combine. Alternatively, if making crust by hand, whisk the flour and salt together in a mixing bowl.
+1. Combine the flour, sugar and salt in a food processor and pulse a few times to combine. Alternatively, if making crust by hand, whisk the flour and salt together in a mixing bowl.
 
 1. Remove the butter from the fridge and cut it into several small cubes.
 
