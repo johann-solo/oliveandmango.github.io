@@ -128,12 +128,6 @@ Makes approx 12-15 medium sized meatballs
 
 * 4 tbsps of olive oil plus one tbsp  
 
-### Recipe Notes
-
-* You could also add &frac12; tsp of oregano &frac12; tsp of thyme for extra aromatics (totally optional)
-* Also optional is dusting the meatbals with fine bread crumbs or flour before baking or pan frying.
-</br>
-</br>
 
 ### Directions
 
@@ -152,7 +146,10 @@ Place the meatballs on a baking sheet drizzle with a little olive oil and bake u
 
 ### Recipe Notes
 
-You can also grate the onion and add it to the meat without pan frying as well  
+* You can also grate the onion and add it to the meat without pan frying as well  
+* You could also add &frac12; tsp of oregano &frac12; tsp of thyme for extra aromatics (totally optional)
+* Also optional is dusting the meatbals with fine bread crumbs or flour before baking or pan frying.
+</br>
 
 Adapted from _Giada De Laurentiis_
 </br>
