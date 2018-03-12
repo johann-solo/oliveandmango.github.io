@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_03_12_light_crisp_waffles_1.jpg
 categories: ["breakfast"]
 tags: ["waffles"]
-excerpt: THe only waffle recipe you'll ever need
+excerpt: The only waffle recipe you'll ever need
 ---
 
 Waffles are probably one of my husbands favourite breakfast foods. If we are out for breakfast he always likes to order them and test them out and always compares them to other places he has had them at or homemade ones. Homemade usually wins out because you can totally customise your homemade waffles and you never have to be self conscious about how much maple syrup your pouring over them either.  No eye rolls when you ask for more too.
