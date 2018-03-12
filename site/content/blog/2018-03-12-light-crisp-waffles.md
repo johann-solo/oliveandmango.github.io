@@ -34,11 +34,7 @@ They key to the fluffiness is the eggs whites that you mix separately adding cre
 ![Crisp Waffles](/images/uploads/2018_03_12_light_crisp_waffles_6.jpg)
 </br>
 </br>
-</br>
-</br>
 ![Crisp Waffles](/images/uploads/2018_03_12_light_crisp_waffles_7.jpg)
-</br>
-</br>
 </br>
 </br>
 ![Crisp Waffles](/images/uploads/2018_03_12_light_crisp_waffles_8.jpg)
