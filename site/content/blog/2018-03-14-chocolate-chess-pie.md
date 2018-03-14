@@ -32,7 +32,7 @@ I knew what kind of pie I was making way before as I was planning for Pi day. It
 </br>
 </br>
 
-I knew the texture I wanted mine to have and I used _Katie Clova’s_ recipe as a guide along with the _thekitchn’s_ version and closely compared the both of them to my salty honey pie.  I have to say it turned out delicious! I think delicious doesn’t even cut it though - every bite was buttery smooth and creamy, with different layers of creaminess too. Just could not get enough of this pie.
+I knew the texture I wanted mine to have and I used _Katie Clova’s_ recipe as a guide along with the _thekitchn’s_ version and closely compared the both of them to my [salty honey pie](https://www.oliveandmango.com/salty-honey-pie/).  I have to say it turned out delicious! I think delicious doesn’t even cut it though - every bite was buttery smooth and creamy, with different layers of creaminess too. Just could not get enough of this pie.
 
 > The best part is that it’s so easy to make
 
