@@ -63,7 +63,7 @@ Anyways the point of all that is so that you understand that when I say I can ea
 * &frac14; cup reserved cooking water from pasta 
 * 1 tablespoon olive oil
 * 1 tbsp butter 
-* &frac14; pound bacon or sausage, removed from the casing and crumbled or chopped
+* &frac14; pound bacon, pancetta or sausage, removed from the casing and crumbled or chopped
 * 1 onion 
 * &frac12; teaspoon salt
 * A pinch of crushed chili pepper flakes
