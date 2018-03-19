@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_03_19_weeknight_chili_1.jpg
 categories: ["mains"]
 tags: ["Mexican", "spicy"]
-excerpt: 
+excerpt: Smokey, delicious and super easy chili
 ---
 
 I’m writing this post as I sit in the beautiful lobby of _Magdalena Grand Resort_ in Tobago. I’m overlooking the pool and the beautiful beach. I’m feeling totally relaxed and sipping on some ice cold infused water digesting the ginormous breakfast that we had.  Why am I sitting in the lobby? I’m keeping hubby company while he finishes up some work. His day job not the blog. I decided I should get a little head start to next week and do a little writing while I keep him company cause that is just the way I roll. Johann thinks I’m crazy and totally trying to encourage me to procrastinate and enjoy the view and relaxation.  Part of me thinks he’s right but the bigger part knows how busy next week will be and knows I should be writing - so here I am - still doing what I love and doing it in a fabulous setting.
