@@ -65,10 +65,10 @@ The chili itself tastes fantastic even though it’s a quick midweek one and not
 * 1 tsp dried oregano 
 * 1-2 chipotle chili’s in adobo sauce, seeds scraped out for less heat and finely chopped
 * 2 anchovy fillets mashed into a paste 
-* &frac12;-&frac34; cup of chili paste or &frac14; cup of chili powder alternatively 
+* &frac12;-&frac34; cup of chili paste (recipe below) or &frac14; cup of chili powder alternatively 
 * 1 tbsp ground cumin
 * &frac12; cup tomato paste 
-* 2 lbs of ground meat of choice (I usually used beef) 
+* 2 lbs of ground meat of choice (I usually use beef) 
 * 28 oz. an of crushed tomatoes 
 * 15 oz. can of red kidney beans drained and rinsed (if organic add the liquids too and do not add broth below) 
 * 1 cup of chicken broth or water (skip of adding bean liquid) 
@@ -82,7 +82,7 @@ The chili itself tastes fantastic even though it’s a quick midweek one and not
 
 1. Add the chipotles, anchovies, chili paste and cumin and cook stirring for a minute until fragrant. Then stir in the tomato paste and cook for another minute. 
 
-1. Add the ground beef and cook breaking it up and stirring it until no longer pink. Doesn’t need to be browned because it will continue to cook though as the chili simmers. 
+1. Add the ground beef and cook breaking it up and stirring it until no longer pink. Doesn’t need to be browned because it will continue to cook through as the chili simmers. 
 
 1. Add the crushed tomatoes, beans and stock if using along with the cornmeal, and stir well to combine. 
 
