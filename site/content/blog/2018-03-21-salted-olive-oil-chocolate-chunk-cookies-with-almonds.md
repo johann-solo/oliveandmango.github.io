@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_1.jpg
 categories: ["desserts"]
 tags: ["cookies", "chocolate", "almonds"]
-excerpt: Loaded rich and thick chocolate chunk cookies will keeping you coming back for more 
+excerpt: Loaded rich and thick chocolate chunk cookies will keep you coming back for more 
 ---
 
 I’m always in search of a great cookie and especially a chocolate chip one. There are so many variations out there and I want to try them all. Everyone has very different tastes when it comes to what they like in there chocolate chip cookies, probably the reason for all the variations.
