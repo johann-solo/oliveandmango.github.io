@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/almond_granola_2.jpg
 image: MAY2017/almond_granola_1.jpg
 categories: ["breakfast"]
-tags: ["almond", "granola"]
+tags: ["almonds", "granola"]
 excerpt: Know exactly what's in your granola by making it yourself
 ---
 
