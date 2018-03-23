@@ -63,7 +63,7 @@ This will totally get devoured very quickly! I am warning you. Definitely make a
 * 1&frac14; cup Monterrey jack freshly grated 
 * 1 tbsp of cornstarch 
 * 1 large cloves of garlic minced 
-* 1 small shallot of very small onion finely chopped 
+* 1 small shallot or a very small onion finely chopped 
 * 1 13oz can of full fat evaporated milk 
 * 1 small tomato chopped finely 
 * &frac14; tsp of onion powder
