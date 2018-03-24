@@ -35,7 +35,7 @@ The only thing I modify when I make it is that I don't bake it in Bundt pan. I b
 </br>
 </br>
 
-The change in pan makes for a change in time in the oven. I split the batter between the two pans and baking time is 30-35 minutes depending on your oven, which is different form the original recipe using a Bundt and baking for 50 minutes.
+The change in pan makes for a change in time in the oven. I split the batter between the two pans and baking time is 30-35 minutes depending on your oven, which is different form the original recipe using a Bundt and baking for 50 minutes. The recipe makes 2 nine inch cakes. To make this layered one I made this recipe twice (you can double the recipe if you have 4 pans or make it once and half the recipe for a single cake) and froze one of the layers because I thought 4 layers would be way too much. I also doubled the icing recipe because you can never have too much icing!!
 </br>
 </br>
 ![Carrot cake](/images/uploads/2018_03_24_carrot_cake_7.jpg)
