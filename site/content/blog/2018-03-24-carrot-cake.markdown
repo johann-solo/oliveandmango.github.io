@@ -8,7 +8,7 @@ tags: ["cakes", "carrots"]
 excerpt: What's the best thing about carrot cake? The cream cheese frosting!!
 ---
 
-What's the best thing about carrot cake? The cream cheese frosting!! Am I right!?!? I love a moist carrot cake with a little crunch and not to much add ons. Save the raisins and pineapple for another cake (My hubby would pick each and every one of them out). Bring on the pecan or walnuts though. At least that's how I like mine. I have tried several recipes but a few years ago I found a total winner courtesy of Ree Drummond (Sigrid's Carrot Cake recipe). No surprise, her recipes never disappoint.
+What's the best thing about carrot cake? The cream cheese frosting!! Am I right!?!? I love a moist carrot cake with a little crunch and not to much add ons. Save the raisins and pineapple for another cake (My hubby would pick each and every one of them out). Bring on the pecan or walnuts though. At least that's how I like mine. I have tried several recipes but a few years ago I found a total winner courtesy of _Ree Drummond_ (Sigrid's Carrot Cake recipe). No surprise, her recipes never disappoint.
 </br>
 </br>
 ![Carrot cake](/images/uploads/2018_03_24_carrot_cake_2.jpg)
