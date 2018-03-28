@@ -104,7 +104,8 @@ __for prepping the lamb before roasting__
 1. Coat with remaining 2 tbsp of oil and sprinkle with salt and pepper.
 1. Line a roasting pan with a few layers of foil, place a rack over foil and transfer the lamb to rack. 
 1. Pour the marinade kept from the lamb into the pan for aromatics and steam.
-1. Roast, uncovered, at 400&deg;F for 15 minutes to brown and then reduce heat to 375&deg;F approx 1½ hours, turn lamb over to make a crust on the other side, and continue to roast for another 45 minutes (total roasting time is approx 2 hours and 15 minutes and roughly 20 minutes per lb).
-1. Once done let lamb rest tented with foil for at least ten minutes then squeezed lemon juice over it, slice and serve.  
+1. Roast, uncovered, at 400&deg;F for 15 minutes to brown and then reduce heat to 375&deg;F approx 1½ hours, turn lamb over to make a crust on the other side, and continue to roast for another 45 minutes (total roasting time is approx 2 hours and 15 minutes and roughly 20 minutes per lb. Internal temp for medium to well done should be approx 160-170&degF)
+1. Once done let lamb rest tented with foil for at least ten minutes then squeeze lemon juice over it, slice and serve. Slice and serve with the extra lemon wedges.
+
 
 ![Greek Style Roasted Lamb](/images/uploads/2018_03_25_greek_style_roasted_lamb_12.jpg)
