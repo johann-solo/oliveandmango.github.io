@@ -1,67 +1,67 @@
 ---
-title: Vegan Sheppard's Pie
+title: Vegan Shepherd's Pie
 date: 2018-03-28T10:08:42-04:00
 author: Joanne
-thumbnail: /images/uploads/2018_03_28_vegan_sheppards_pie_1.jpg
+thumbnail: /images/uploads/2018_03_28_vegan_shepherds_pie_1.jpg
 categories: ["mains"]
 tags: ["vegan", "vegetarian", "one-pot-meals"]
 excerpt: A delicious vegan version of this classic that you will love
 ---
 
-I have experimented with a few vegan Sheppard’s pie recipes and all of them were alright but lacked a certain something in the flavour department. Without the meat, I think when your cooking something like this, you need to compound flavours to make it truly appealing and flavourful than just a meal that is going to fill you up.
+I have experimented with a few vegan Shepherd’s pie recipes and all of them were alright but lacked a certain something in the flavour department. Without the meat, I think when your cooking something like this, you need to compound flavours to make it truly appealing and flavourful than just a meal that is going to fill you up.
 </br>
 </br>
-![Vegan Sheppard's Pie](/images/uploads/2018_03_28_vegan_sheppards_pie_2.jpg)
-</br>
-</br>
-
-I tried a version of _Jamie Oliver’s_ Sheppard’s pie because I noticed he used a little extra spice along with a wonderful herby and citrusy topping that I think truly made the dish. I used a different combination of veggies according to what I had and I also used green peas instead of adding chickpeas. The chickpeas would be great though, as they will bring a different texture to the pie and that is definitely what you want in a vegan one. You need a variety of textures in it to give it body and also amp up the flavours.
-</br>
-</br>
-![Vegan Sheppard's Pie](/images/uploads/2018_03_28_vegan_sheppards_pie_3.jpg)
-</br>
-</br>
-![Vegan Sheppard's Pie](/images/uploads/2018_03_28_vegan_sheppards_pie_4.jpg)
+![Vegan Shepherd's Pie](/images/uploads/2018_03_28_vegan_shepherds_pie_2.jpg)
 </br>
 </br>
 
-Another thing Jamie adds that I didn’t have at the time but is a great add in is sun dried tomatoes and some of the oil they are packed in. I think that would be a fabulous idea to add in to the filling if you have them on hand. They would add a certain chewiness and ofcourse a bit of a flavour too. They pack sweetness and a bit of tartness that would go well with the dish. Another thing that is worth exploring is adding some harissa paste and also some sweet peppers and chili peppers to the filling.  I think it would give this Sheppard’s pie a fabulous and delicious North African twist. I will be trying that the next time.
+I tried a version of _Jamie Oliver’s_ Shepherd’s pie because I noticed he used a little extra spice along with a wonderful herby and citrusy topping that I think truly made the dish. I used a different combination of veggies according to what I had and I also used green peas instead of adding chickpeas. The chickpeas would be great though, as they will bring a different texture to the pie and that is definitely what you want in a vegan one. You need a variety of textures in it to give it body and also amp up the flavours.
 </br>
 </br>
-![Vegan Sheppard's Pie](/images/uploads/2018_03_28_vegan_sheppards_pie_5.jpg)
+![Vegan Shepherd's Pie](/images/uploads/2018_03_28_vegan_shepherds_pie_3.jpg)
 </br>
 </br>
-![Vegan Sheppard's Pie](/images/uploads/2018_03_28_vegan_sheppards_pie_6.jpg)
+![Vegan Shepherd's Pie](/images/uploads/2018_03_28_vegan_shepherds_pie_4.jpg)
+</br>
+</br>
+
+Another thing Jamie adds that I didn’t have at the time but is a great add in is sun dried tomatoes and some of the oil they are packed in. I think that would be a fabulous idea to add in to the filling if you have them on hand. They would add a certain chewiness and ofcourse a bit of a flavour too. They pack sweetness and a bit of tartness that would go well with the dish. Another thing that is worth exploring is adding some harissa paste and also some sweet peppers and chili peppers to the filling.  I think it would give this Shepherd’s pie a fabulous and delicious North African twist. I will be trying that the next time.
+</br>
+</br>
+![Vegan Shepherd's Pie](/images/uploads/2018_03_28_vegan_shepherds_pie_5.jpg)
+</br>
+</br>
+![Vegan Shepherd's Pie](/images/uploads/2018_03_28_vegan_shepherds_pie_6.jpg)
 </br>
 </br>
 
 Ok let’s talk mushrooms next. Why does practically every vegan recipe include mushrooms? You guessed it - texture! They bulk up vegan and vegetarian dishes and add a chewy texture.  Many of you hate mushrooms though so an alternative could easily be cubed extra firm tofu or even some diced eggplant. Although I think if you hate the texture of mushrooms you likely hate the texture of eggplant. Another note about the mushrooms though.  I dump them into the veggie mix raw but if you like a firmer texture in your mushrooms you can pan fry them separately in a bit of oil or vegan butter in batches until golden brown and then add the balsamic to them before adding them into the veggie mix. Sometimes doing that helps with the slimy texture that is off putting to some. If it’s the actual flavour you hate, then definitely replace them with any of the alternatives above or extra veggies. The key is to bulk up the filling with delicious things, so feel free to be creative.
 </br>
 </br>
-![Vegan Sheppard's Pie](/images/uploads/2018_03_28_vegan_sheppards_pie_7.jpg)
+![Vegan Shepherd's Pie](/images/uploads/2018_03_28_vegan_shepherds_pie_7.jpg)
 </br>
 </br>
-![Vegan Sheppard's Pie](/images/uploads/2018_03_28_vegan_sheppards_pie_8.jpg)
+![Vegan Shepherd's Pie](/images/uploads/2018_03_28_vegan_shepherds_pie_8.jpg)
 </br>
 </br>
 
-The ground coriander seed and the thyme really add warmth to the dish and the herby lemon topping over the mashed potatoes adds a nice brightness to the dish and extra flavour and crispy texture.  I love it and will use it in my meaty sheppard’s pie as well.
+The ground coriander seed and the thyme really add warmth to the dish and the herby lemon topping over the mashed potatoes adds a nice brightness to the dish and extra flavour and crispy texture.  I love it and will use it in my meaty shepherd’s pie as well.
 </br>
 </br>
-![Vegan Sheppard's Pie](/images/uploads/2018_03_28_vegan_sheppards_pie_9.jpg)
+![Vegan Shepherd's Pie](/images/uploads/2018_03_28_vegan_shepherds_pie_9.jpg)
 </br>
 </br>
-![Vegan Sheppard's Pie](/images/uploads/2018_03_28_vegan_sheppards_pie_10.jpg)
+![Vegan Shepherd's Pie](/images/uploads/2018_03_28_vegan_shepherds_pie_10.jpg)
 </br>
 </br>
 
 Let’s talk about those mashed potatoes. I love using a combo of regular white potatoes and sweet potatoes which not only adds a little sweetness to the mash but also gives it a nice colour. As I mention in the recipe though feel free to use one or the other or both. Just keep in mind if you go all sweet potato it will sweeten up the dish quite a bit which is totally fine but just saying so you can expect it. That being said that would be a wonderful thing to play up using some maple syrup and sage in the mash and filing.  Basically you can see where I’m going with all these options. This recipe is so versatile and can be made into all sorts of versions with many flavour and texture combinations. This is a classic combo and one of my favorites thus far although that harissa version is begging to be made. Do give it a try and be sure to add your twist to it! Enjoy!
 </br>
 </br>
-![Vegan Sheppard's Pie](/images/uploads/2018_03_28_vegan_sheppards_pie_11.jpg)
+![Vegan Shepherd's Pie](/images/uploads/2018_03_28_vegan_shepherds_pie_11.jpg)
 </br>
 </br>
-![Vegan Sheppard's Pie](/images/uploads/2018_03_28_vegan_sheppards_pie_12.jpg)
+![Vegan Shepherd's Pie](/images/uploads/2018_03_28_vegan_shepherds_pie_12.jpg)
 </br>
 </br>
 
@@ -146,4 +146,4 @@ __for the filling__
 1. Remove from oven and let it sit for 10 min to cool and set slightly before spooning it out. I’m usually impatient and dig right in and that’s totally ok too! 
 
 </br>
-![Vegan Sheppard's Pie](/images/uploads/2018_03_28_vegan_sheppards_pie_13.jpg)
+![Vegan Shepherd's Pie](/images/uploads/2018_03_28_vegan_shepherds_pie_13.jpg)
