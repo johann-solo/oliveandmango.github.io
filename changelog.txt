@@ -69,3 +69,7 @@ Version 2.2.0 (kalamata)
 FEBRUARY 15 2018
 Version 2.2.1 (kalamata)
 - Mobile padding
+
+MARCH 29 2018
+Version 2.3.0 (kalamata)
+- Workshop page
