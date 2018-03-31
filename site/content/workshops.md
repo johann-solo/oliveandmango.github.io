@@ -22,7 +22,7 @@ title = "Workshops"
 
   <ul>
     <li>Date: Sunday 6th May 2018</li>
-    <li>Location: 121A Long Circular Rd, Maraval. 2nd Floor</li>
+    <li>Location: 121A Long Circular Rd, Maraval. 2nd Floor, Trinidad</li>
     <li>Time: 1:00 - 4:00 PM</li>
     <li>Cost: $300 TTD</li>
     <li>Bonus: Each student will get a starter kit from some of our favourite local brands and companies. We would like to thank our sponsors: Roastel, Del Mano, Amare, D’Market Movers</li>
