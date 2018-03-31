@@ -64,7 +64,7 @@ The beach is perhaps too rough to swim because of being on the Atlantic side but
 </br>
 </br> 
 
-If you want a bit of a beach experience there are plenty of serene and picturesque beaches to choose from in Tobago. The hotel also has a free shuttle service to one on the best beaches on the island, _Pigeon Point_ , with multiple pick up and drop of times during the day. A trip that only takes 15 mins or so to make. There are many beautiful beaches on the island but Pigeon Point offers bathroom facilities as well as secured lockers and plenty of food and drink options. If you want the all inclusive experience Pigeon point is the best for that. There is a 20TT dollar entrance fee and it’s extra to rent chairs and use the lockers as well. Just a head up if you are visiting for the first time. 
+If you want a bit of a beach experience there are plenty of serene and picturesque beaches to choose from in Tobago. The hotel also has a free shuttle service to one on the best beaches on the island, _Pigeon Point_ , with multiple pick up and drop of times during the day. A trip that only takes 15 mins or so to make. There are many beautiful beaches on the island but Pigeon Point offers bathroom facilities as well as secured lockers and plenty of food and drink options. If you want the all inclusive experience Pigeon point is the best for that. There is a 20TT dollar entrance fee and it’s extra to rent chairs and use the lockers as well. Just a heads up if you are visiting for the first time. 
 </br>
 </br>
 ![Magdalena Grand Beach and Golf Resort](/images/uploads/2018_03_31_magdalena_grand_beach_and_golf_resort_14.jpg)
@@ -87,7 +87,7 @@ The staff was well trained and courteous. From the cleaning ladies and front des
 </br>
 </br>
 
-All of this is overseen by Executive Chef _Eduardo Zarraga_. Chef Eduardo brings an impressive pedigree of talent and experience to Magdalena. Originally from Mexico, he has been classically trained in French cuisine, tutored under Japanese masters, all the while able to draw on his rich Mexican heritage for further food inspiration, just to scratch the surface. Chef Eduardo has a real natural talent, he is passionate about food and possess a quiet strength. Although he is quite well known and famous in the culinary circles having been head chef in many top resorts, hoets and cruiselines.
+All of this is overseen by Executive Chef _Eduardo Zarraga_. Chef Eduardo brings an impressive pedigree of talent and experience to Magdalena. Originally from Mexico, he has been classically trained in French cuisine, tutored under Japanese masters, all the while able to draw on his rich Mexican heritage for further food inspiration, just to scratch the surface. Chef Eduardo has a real natural talent, he is passionate about food and possess a quiet strength. Although he is quite well known and famous in the culinary circles having been head chef in many top resorts, hotels and cruiselines.
 </br>
 </br>
 ![Magdalena Grand Beach and Golf Resort](/images/uploads/2018_03_31_magdalena_grand_beach_and_golf_resort_19.jpg)
