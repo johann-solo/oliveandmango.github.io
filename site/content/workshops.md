@@ -25,7 +25,7 @@ title = "Workshops"
     <li>Location: 121A Long Circular Rd, Maraval. 2nd Floor, Trinidad</li>
     <li>Time: 1:00 - 4:00 PM</li>
     <li>Cost: $300 TTD</li>
-    <li>Bonus: Each student will get a starter kit from some of our favourite local brands and companies. We would like to thank our sponsors: Roastel, Del Mano, Amare, D’Market Movers</li>
+    <li class="highlight">Bonus: Each student will get a starter kit from some of our favourite local brands and companies. We would like to thank our sponsors: <a href="https://www.amareprobiotics.com" target="_blank">Amare Probiotics</a>, <a href="http://www.dmarketmovers.com" target="_blank">D’Market Movers</a>, <a href="http://www.delmanofood.com" target="_blank">Del Mano Food</a>, <a href="http://freshorganicstt.com" target="_blank">Fresh Organics TT</a> and <a href="https://www.roastel.com" target="_blank">Roastel</a></li>
   </ul>
 
   <h3>Sign up below to receive a confirmation email with instructions to enrol. We look forward to meeting you!</h3>
