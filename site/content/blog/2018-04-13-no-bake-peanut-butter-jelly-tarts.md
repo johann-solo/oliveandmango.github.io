@@ -84,7 +84,7 @@ __For the chocolate layer__
 
 1. Grease each cupcake holder with coconut oil generously or alternatively you can line the pan with plastic wrap or use cupcake baking liners 
 
-S1. poon approx 1 tsp to up to a tbsp of the crust into each muffin round and using your fingers press it down and up the round slightly. 
+1. Spoon approx 1 tsp to up to a tbsp of the crust into each muffin round and using your fingers press it down and up the round slightly. 
 
 1. Pour and spread approx 1 tbsp of peanut butter into each cup and freeze for 15-20 minutes until the peanut butter is set and slightly hardened which will make spreading the chia jam over it in a single layer a lot easier. 
 
