@@ -1,10 +1,10 @@
 ---
-title: No Bake Peanut Butter Jelly Tarts
+title: No Bake Vegan Peanut Butter Jelly Tarts
 date: 2018-04-13T19:48:57-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_04_13_no_bake_peanut_butter_jelly_tarts_1.jpg
 categories: ["snacks"]
-tags: ["peanuts"]
+tags: ["peanuts", "vegan"]
 excerpt: Simple and delicious protein packed snacks
 ---
 
