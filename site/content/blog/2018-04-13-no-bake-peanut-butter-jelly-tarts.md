@@ -1,13 +1,15 @@
 ---
 title: No Bake Vegan Peanut Butter Jelly Tarts
-date: 2018-04-13T19:48:57-04:00
+date: 2018-04-13T23:48:57.000Z
 author: Joanne
 thumbnail: /images/uploads/2018_04_13_no_bake_peanut_butter_jelly_tarts_1.jpg
-categories: ["snacks"]
-tags: ["peanuts", "vegan"]
+categories:
+  - snacks
+tags:
+  - peanuts
+  - vegan
 excerpt: Simple and delicious protein packed snacks
 ---
-
 Another day another snack! Why is it that we need snacks to get us through the day? Is it that we were primed from primary school to have mid morning and mid afternoon snacks or is it just that we love to eat? Maybe a little bit of both I’m thinking.
 </br>
 </br>
@@ -50,19 +52,19 @@ We loved these little protein packed treats and I think you guys will too! Make 
 </br>
 </br>
 
-
-### Ingredients 
+### Ingredients
 
 Makes 12 cups in a standard size muffin tin (sometimes a couple extra depending on how thick your layers are) 
 
-__For the crust__
+**For the crust**
 
 * 2 cups pitted dates
 * &frac12; cup almonds 
 * &frac12; cup shredded coconut
 * &frac12; cup rolled oats 
+* 2 tbsps of extra virgin coconut oil (plus more if needed to get the texture you need for crust to come together)
 
-__For the blackberry chia jam/jelly__
+**For the blackberry chia jam/jelly**
 
 * 1 cup blackberries (I used frozen) 
 * 1&frac12; tablespoons lemon juice, from half a lemon
@@ -70,27 +72,20 @@ __For the blackberry chia jam/jelly__
 * 2 tablespoons chia seeds
 * 1 cup of PB plus more if you want a thicker layer at room temperature or warmed in the microwave or in a small pot over low heat until it’s a little pourable which makes it easier to work with (I use a plain homemade one but you can use any (recipe for homemade PB) 
 
-__For the chocolate layer__
+**For the chocolate layer**
 
-* 8 oz of dark or semi sweet chocolate melted on very low heat or a double broiler until pourable. 
+* 8 oz of dark or semi sweet chocolate melted on very low heat or a double broiler until pourable. (Vegan chocolate chips world be great - I usully use dark chocolate and sweeten it with maple syrup to keep it vegan) 
 
 ### Directions
 
 1. In a small saucepan over medium heat, combine the blackberries, and lemon juice. As the fruit heats up and the juices bubble and boil, smash the berries using the back of a fork until they break down. This should take 3 to 5 minutes.
-
-1. Sweeten the mashed fruit with 1 to 2 tablespoons of honey or maple syrup to your liking. Add the chia seeds and stir once. Remove from the heat and let the jam set for about 5 minutes to thicken and allow to cool to room temperature (This jam will keep for 2 weeks in the fridge If you are making extra) 
-
-1. While the jam cools make the crust. Combine crust ingredients in a food processor and process until incorporated and test the texture so that when you press the mixture between your fingers it holds its shape. 
-
-1. Grease each cupcake holder with coconut oil generously or alternatively you can line the pan with plastic wrap or use cupcake baking liners 
-
-1. Spoon approx 1 tsp to up to a tbsp of the crust into each muffin round and using your fingers press it down and up the round slightly. 
-
-1. Pour and spread approx 1 tbsp of peanut butter into each cup and freeze for 15-20 minutes until the peanut butter is set and slightly hardened which will make spreading the chia jam over it in a single layer a lot easier. 
-
-1. Spread approx 1 tbsp of the chia jam evenly into each cup over the peanut butter layer followed immediately by the chocolate layer (I also sprinkle some sea salt over mine at this point but that is totally optional) and then freeze for 15-20 minutes until set or refrigerate for an hour or overnight. 
-
-1. Loosen the plastic wrap to pop out the cups if using or use a butter knife to loosen the edges all around the cups and then help them out gently and the cups should slide right out. I store mine in the fridge in a sealed container and they are good refrigerated for up to 5 days. They won’t last that long though.
+2. Sweeten the mashed fruit with 1 to 2 tablespoons of honey or maple syrup to your liking. Add the chia seeds and stir once. Remove from the heat and let the jam set for about 5 minutes to thicken and allow to cool to room temperature (This jam will keep for 2 weeks in the fridge If you are making extra) 
+3. While the jam cools make the crust. Combine all the crust ingredients in a food processor except for the coconut oil and process until incorporated. Drizzle in coconut oil 1 tbsp at a time and process in between drizzles. Test the texture so that when you press the mixture between your fingers it holds its shape. 
+4. Grease each cupcake holder with coconut oil generously or alternatively you can line the pan with plastic wrap or use cupcake baking liners 
+5. Spoon approx 1 tsp to up to a tbsp of the crust into each muffin round and using your fingers press it down and up the bottom of the mold slightly. 
+6. Pour and spread approx 1 tbsp of peanut butter into each cup and freeze for 15-20 minutes until the peanut butter is set and slightly hardened which will make spreading the chia jam over it in a single layer a lot easier. 
+7. Spread approx 1 tbsp of the chia jam evenly into each cup over the peanut butter layer followed immediately by the chocolate layer (I also sprinkle some sea salt over mine at this point but that is totally optional) and then freeze for 15-20 minutes until set or refrigerate for an hour or overnight. (I usual do not freeze in between jam and chocolate layer but you can if you think it will make the chocolate spread more easily.)
+8. Loosen the plastic wrap to pop out the cups if using or use a butter knife to loosen the edges all around the cups and then help them out gently and the cups should slide right out. I store mine in the fridge in a sealed container and they are good refrigerated for up to 5 days. They won’t last that long though.
 
 </br>
-![No Bake Peanut And Butter Jelly Tarts](/images/uploads/2018_04_13_no_bake_peanut_butter_jelly_tarts_8.jpg)
+!\[No Bake Peanut And Butter Jelly Tarts](/images/uploads/2018_04_13_no_bake_peanut_butter_jelly_tarts_8.jpg)
