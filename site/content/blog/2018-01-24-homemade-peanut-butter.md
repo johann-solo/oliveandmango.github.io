@@ -5,8 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_01_24_homemade_peanut_butter_1.jpg
 categories:
   - how-to
-tags:
-  - spreads
+tags: ["spreads", "peanuts"]
 excerpt: Delicious nut butters – only one ingredient needed
 ---
 

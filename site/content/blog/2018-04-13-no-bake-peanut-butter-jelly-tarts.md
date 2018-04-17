@@ -70,7 +70,7 @@ Makes 12 cups in a standard size muffin tin (sometimes a couple extra depending 
 * 1&frac12; tablespoons lemon juice, from half a lemon
 * 1 to 2 tablespoons honey or maple syrup 
 * 2 tablespoons chia seeds
-* 1 cup of PB plus more if you want a thicker layer at room temperature or warmed in the microwave or in a small pot over low heat until it’s a little pourable which makes it easier to work with (I use a plain homemade one but you can use any (recipe for homemade PB) 
+* 1 cup of PB plus more if you want a thicker layer at room temperature or warmed in the microwave or in a small pot over low heat until it’s a little pourable which makes it easier to work with (I use a plain homemade one but you can use any <span class="highlight">[recipe for homemade PB](https://www.oliveandmango.com/how-to-make-the-creamiest-homemade-nut--seed-butter/)</span>
 
 **For the chocolate layer**
 
