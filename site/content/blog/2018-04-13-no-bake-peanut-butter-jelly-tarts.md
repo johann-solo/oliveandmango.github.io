@@ -88,4 +88,4 @@ Makes 12 cups in a standard size muffin tin (sometimes a couple extra depending 
 8. Loosen the plastic wrap to pop out the cups if using or use a butter knife to loosen the edges all around the cups and then help them out gently and the cups should slide right out. I store mine in the fridge in a sealed container and they are good refrigerated for up to 5 days. They won’t last that long though.
 
 </br>
-!\[No Bake Peanut And Butter Jelly Tarts](/images/uploads/2018_04_13_no_bake_peanut_butter_jelly_tarts_8.jpg)
+![No Bake Peanut And Butter Jelly Tarts](/images/uploads/2018_04_13_no_bake_peanut_butter_jelly_tarts_8.jpg)
