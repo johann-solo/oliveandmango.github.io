@@ -4,7 +4,7 @@ date: '2017-04-16 8:30:35 -0400'
 author: Joanne
 thumbnail: /img/APR2017/kefir_popsicles_1.jpg
 categories: ["desserts"]
-tags: ["strawberry", "kefir"]
+tags: ["strawberries", "kefir"]
 excerpt: Tasty popsicles with probiotic goodness
 
 ---

@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/strawberry_tiramisu_1.jpg
 image: JUNE2017/strawberry_tiramisu_1.jpg
 categories: ["desserts"]
-tags: ["strawberry", "eggless"]
+tags: ["strawberries", "eggless"]
 excerpt: This refreshing spin on your typical tiramisu will not disappoint
 ---
 
