@@ -13,6 +13,9 @@ I have to say that when I was planning on making this cake, which is actually a 
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_2.jpg)
 <br>
 <br>
+![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_4.jpg)
+<br>
+<br>
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_3.jpg)
 <br>
 <br>
@@ -20,7 +23,7 @@ I have to say that when I was planning on making this cake, which is actually a 
 Let's just put it this way – I am not one for cakes (maybe a bite here and there because I always want to taste them), but this one had me going for a whole piece and then some.  I actually think it's because I don't have a sweet tooth when it comes to cakes.  I find they are always super sweet and I can only really handle a bite or two- probably the reason I'm so fond of cupcakes. This cake differs in that it's not overly sweet. It smells sweet and tastes sweet without the zing or sugar rush to your taste buds.
 </br>
 </br>
-![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_4.jpg)
+![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_5.jpg)
 </br>
 </br>
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_6.jpg)
@@ -31,6 +34,9 @@ Let's just put it this way – I am not one for cakes (maybe a bite here and the
 </br>
 
 I have never tried it with all almond flour. I have only used the almond meal and AP flour version as well as the gluten free version using all almond meal or ground almonds.  The difference with that gluten free version is that the cake isn't as light.  It's a little denser but the flavours are still exactly the same.  I am not gluten free so I haven't experimented with any other gluten free flours but I'm sure this would work beautifully with all almond flour or possibly even coconut flour. If you have any alterantives i would love to get your input. 
+</br>
+</br>
+![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_7.jpg)
 </br>
 </br>
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_8.jpg)
@@ -49,11 +55,14 @@ The reaction between the acidity of the orange juice and the baking soda and pow
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_11.jpg)
 </br>
 </br>
+![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_12.jpg)
+</br>
+</br>
 
 I serve this dusted with some powdered sugar and with coconut whip cream (recipe below) and extra berries. A quick and easy recipe! Simply, perfect for Spring and Summer when fresh berries are in abundance! If you live in a place where fresh berries are not in abundace like I do at the moment, then definity use frozen. That is what I use and it always turns out fabulously. This time around making it, I garnished with strawberry chips, which are really over the top but I was inspired by my friend Jennifer over at The lemon apron and used Martha Stewart's recipe for them. I used frozen berries to make the chips which took a little more time to dry and dehydrate but they turned out soo good and looked so pretty. The recipe I used is included below. You just need a bit of patience to make them but its so worth the extra effort I promise. Enjoy!
 </br>
 </br>
-![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_12.jpg)
+![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_13.jpg)
 </br>
 </br>
 
@@ -95,7 +104,7 @@ I serve this dusted with some powdered sugar and with coconut whip cream (recipe
 
 1. Before serving dust with a little powdered sugar and serve with coconut cream (recipe below) and more strawberries. I have served it with coconut ice cream and it's a hit with ice cream as well!  
 
-![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_13.jpg)
+![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_14.jpg)
 </br>
 </br>
 
@@ -119,7 +128,7 @@ mix until well combined - I don't usually sweeten; I leave as is because I find 
 
 *  A note about the coconut whip. I learned from experimenting that the milk fats must be pretty solid when you remove them from the can so that they whip up well. Also if you're having trouble getting it to whip try a different brand of coconut cream or milk.  You really need a thicker kind of coconut milk not the really watery ones without a lot of fat.  
 
-![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_14.jpg)
+![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_15.jpg)
 </br>
 </br>
 
@@ -135,4 +144,4 @@ mix until well combined - I don't usually sweeten; I leave as is because I find 
 1. Preheat oven to 200 degrees. Slice strawberries lengthwise as thinly as possible. Dip slices in cooled syrup; place on parchment-lined baking sheet. Bake until dry but still bright red, about 2 hours.
 1. Immediately transfer chips to a wire rack to cool completely.  
 
-![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_15.jpg)
+![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_16.jpg)
