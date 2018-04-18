@@ -135,7 +135,7 @@ Makes 1 large dish of lasagna or two smaller 8X11 ones
 
 1. Then a layer of pasta and a generous layer of meat sauce then sprinkle with a little  mozzarella and then layer again with pasta and ricotta and repeat with meat and mozzarella and until you run out of ingredients remembering that the final layer of lasagna sheets need a thick layer of sauce over them to end with.  
 
-1. Sprinkle the top layer of meat generously with the remaining mozzarella and all of the Parmesan cheese. Wrap tightly with foil  and bake for 30 minutes then remove foil and continue baking for another 15-20 minutes or until golden and bubbling
+1. Sprinkle the top layer of meat generously with the remaining mozzarella and all of the Parmesan cheese. Tent with a layer of parchment/baking paper (this pervents the cheese from sticking to the foil) followed by wrappping tightly with a layer of foil. Then bake for 30 minutes, remove parchment and foil and continue baking for another 15-20 minutes or until golden and bubbling
 
 1. Remove from oven when done (keep oven on for cheesy bread) Let stand for 20 minutes before cutting to allow it to set a bit which makes it easier to serve  
 
