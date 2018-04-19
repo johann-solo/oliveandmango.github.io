@@ -29,9 +29,6 @@ Let's just put it this way – I am not one for cakes (maybe a bite here and the
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_6.jpg)
 </br>
 </br>
-![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_7.jpg)
-</br>
-</br>
 
 I have never tried it with all almond flour. I have only used the almond meal and AP flour version as well as the gluten free version using all almond meal or ground almonds.  The difference with that gluten free version is that the cake isn't as light.  It's a little denser but the flavours are still exactly the same.  I am not gluten free so I haven't experimented with any other gluten free flours but I'm sure this would work beautifully with all almond flour or possibly even coconut flour. If you have any alterantives i would love to get your input. 
 </br>
