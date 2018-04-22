@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_04_22_pineapple_citrus_ginger_green_smoothie_1.jpg
 categories: ["drinks"]
 tags: ["smoothies", "pineapples"]
-excerpt: 
+excerpt: A refreshing, tropical take on your usual smoothie
 ---
 
 I’m very much a smoothie girl! I don’t know when my love for them started but I’m glad it did. They have literally saved my life in the morning especially since I’m a grab and go kind of person especially on work days. I have a smoothie for breakfast 3-4 times a week. I’m a creature of habit with many things and smoothies are included in that. I usually have the same variation pretty much all the time and it just works and I never tire of it. In fact I crave it. My smoothies must include lots of greens and for that I usually do frozen spinach.  I also have some frozen bananas that I add along with frozen blueberries, almond milk and for bulk I add hemp seeds, flax meal and a flax chia blend, and sometimes I will add my collagen powder to it too. That is my typical smoothie. I do switch things up depending on what I have available. This type of smoothie is nutrient and calorie dense meaning it’s a meal. It’s not a sit by the beach kind of fruit smoothie that’s just fruit and ice. I love those too but I’m just clarifying what type of smoothie I usually have in the midweek. 
