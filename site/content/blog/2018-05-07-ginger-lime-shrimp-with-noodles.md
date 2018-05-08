@@ -29,7 +29,7 @@ You can totally switch up the veggies in the meal as well. I love to add mushroo
 </br>
 </br>
 
-We love the taste and texture of soba noodles and we tend to use those more frequently but you can use any noodle you like. One benefit of using soba noodles is that the cook up in just a couple minutes making them ideal for quick dinner prep which I love.
+We love the taste and texture of soba noodles and we tend to use those more frequently but you can use any noodle you like. One benefit of using soba noodles is that they cook up in just a couple minutes making them ideal for quick dinner prep which I love.
 </br>
 </br>
 ![Ginger Lime Shrimp With Noodles](/images/uploads/2018_05_07_ginger_lime_shrimp_with_noodles_5.jpg)

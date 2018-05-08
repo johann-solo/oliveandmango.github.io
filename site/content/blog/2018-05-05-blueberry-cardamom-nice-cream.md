@@ -8,7 +8,7 @@ tags: ["blueberries", "vegan"]
 excerpt: A simple 4 ingredient nice cream that makes a perfect snack
 ---
 
-This super simple 4 ingredient nice cream is one of my favorite things to make and snack on. Nice cream is basically ice cream made very creamy by using frozen bananas. It’s obviously dairy free and naturally plant based and vegan. It’s also naturally sweetened from the ripened bananas as well as the other fruits involved in making it.
+This super simple 4 ingredient nice cream is one of my favorite things to make and snack on. Nice cream is very creamy like traditional ice cream but made by using frozen bananas. It’s obviously dairy free and naturally plant based and vegan. It’s also naturally sweetened from the ripened bananas as well as the other fruits involved in making it.
 </br>
 </br>
 ![Blueberry Cardamom Nice Cream](/images/uploads/2018_05_05_blueberry_cardamom_nice_cream_2.jpg)
@@ -18,7 +18,7 @@ This super simple 4 ingredient nice cream is one of my favorite things to make a
 </br>
 </br>
 
-Recently I received as a gift several maple syrups to try from Runamok maple and came up with some very simple smoothie recipes with their wonderful infused maple syrups. Their syrups are fantastic and they are not flavoured syrups, they are truly infused syrups. That meaning the flavours are intense and wonderful and use actual ingredients to infuse not essences. I made a green smoothie that I shared recently using their ginger infused maple syrup and it was wonderful.
+Recently I received as a gift several maple syrups to try from Runamok maple and came up with some very simple smoothie recipes with their wonderful infused maple syrups. Their syrups are fantastic and they are not flavoured syrups, they are truly infused syrups. That meaning the flavours are intense and wonderful and use actual ingredients to infuse not essences. I made a [green smoothie](https://www.oliveandmango.com/pineapple-citrus-ginger-green-smoothie/) that I shared recently using their ginger infused maple syrup and it was wonderful.
 </br>
 </br>
 ![Blueberry Cardamom Nice Cream](/images/uploads/2018_05_05_blueberry_cardamom_nice_cream_4.jpg)

@@ -80,11 +80,11 @@ __For the spinach mixture__
 
 * 1 tbsp of olive oil 
 * 4 cups fresh baby spinach chopped or 2 cups frozen spinach water squeezed out of it 
-* 3 whole green onions cleaned and chopped green an white parts included 
+* 3 whole green onions cleaned and chopped green and white parts included 
 * 1 tsp lemon juice and zest of &frac12; a lemon
 * 1 teaspoon dried oregano
 * salt and pepper
-&frac14; cup fresh dill (can also mix with fresh organo or fresh mint as well) 
+&frac14; cup fresh dill (can also mix with fresh oregano or fresh mint as well) 
 
 __For the rest of the topping__
 
@@ -99,7 +99,7 @@ __For the rest of the topping__
 	
 ### Directions
 
-1. In a small frying pan heat oil to to medium and the green onions and sauté for a couple
+1. In a small frying pan heat oil to medium and the green onions and sauté for a couple
 Minutes until softened. Then add the spinach and continue to sauté until wilted and all excess liquids has evaporated. 
 
 1. Remove from heat and transfer to bowl and stir in the dill, oregano, lemon zest and juice, and season with salt and pepper to taste (add the other herbs as well if using) then set aside. 

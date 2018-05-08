@@ -8,7 +8,7 @@ tags: ["pasta", "kale", "sausage"]
 excerpt: A pasta that's creamy, delicious and full of veggies. 
 ---
 
-This past dish has just the right amount of greens and the right amount of comfort! Pasta is my kryptonite, or more accurately a degree of my kryptonite. Basically I love all savoury doughy things and pasta is high up on the list. Add cheese and cream and its a triple threat. I don’t eat that combo often but when I do I want it rich creamy and delicious. This is exactly what this dish offers. The lemon brighten this dish up and makes it feel like a lighter version of itself.
+This past dish has just the right amount of greens and the right amount of comfort! Pasta is my kryptonite, or more accurately a degree of my kryptonite. Basically I love all savoury doughy things and pasta is high up on the list. Add cheese and cream and its a triple threat. I don’t eat that combo often but when I do I want it rich creamy and delicious. This is exactly what this dish offers. The lemon brightens this dish up and makes it feel like a lighter version of itself.
 </br>
 </br>
 ![Creamy Sausage Kale And Snap Pea Farfalle](/images/uploads/2018_05_01_creamy–sausage–kale–and–snap_pea_farfalle_2.jpg)
@@ -29,7 +29,7 @@ You can use any pasta you like for this dish as well. We love bow tie past or fa
 </br>
 </br>
 
-I love the flavours the sausage adds to the dish but you can keep it completely vegetarian if you would like or you can substitute bacon if you wanted to as well. I served this dish with more greens. My friend in Tobago who run a pizza shop gifted me this bottle of rapini which I absolutely love and can eat it straight from the jar. I added a splash more lemon juice too it and it become our side salad with this dish along with a glass of wine.
+I love the flavours the sausage adds to the dish but you can keep it completely vegetarian if you would like or you can substitute bacon if you wanted to as well. I served this dish with more greens. My friend in Tobago who runs a pizza shop gifted me this bottle of rapini which I absolutely love and can eat it straight from the jar. I added a splash more lemon juice too it and it become our side salad with this dish along with a glass of wine.
 </br>
 </br>
 ![Creamy Sausage Kale And Snap Pea Farfalle](/images/uploads/2018_05_01_creamy–sausage–kale–and–snap_pea_farfalle_5.jpg)
@@ -74,7 +74,7 @@ This is the kind of meal that when it’s completed you feel totally satisfied a
 
 1. Next add the heavy cream and bring to a simmer and allow to simmer stirring occasionally until reduced by a third, 5-7 minutes.
 
-1. Then stir in Parmesan, juice and zest, nutmeg, clove if using and season with salt and pepper
+1. Then stir in Parmesan, juice and lemon zest, nutmeg, clove if using and season with salt and pepper
 
 1. Add both pasta and water to reserved sauce and cook for a few minutes until pasta is heated through and serve with more Parmesan cheese and garnished with parsley.
 
