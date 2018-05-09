@@ -15,7 +15,7 @@ I’m very much a smoothie girl! I don’t know when my love for them started bu
 </br>
 </br>
 
-I was sent some maple syrup from a fabulous company called Runamuk. You all must know by now that I love maple syrup and always have. It’s one of my favorite things to use to sweeten things from my salad dressing to my bliss balls and beyond. I love honey too but I save honey for things that I can taste it in or on especially since our local honey here is so fragrant and delicious.
+I was sent some maple syrup from a fabulous company called Runamok. You all must know by now that I love maple syrup and always have. It’s one of my favorite things to use to sweeten things from my salad dressing to my bliss balls and beyond. I love honey too but I save honey for things that I can taste it in or on especially since our local honey here is so fragrant and delicious.
 </br>
 </br>
 ![Pineapple Citrus Ginger Green Smoothie](/images/uploads/2018_04_22_pineapple_citrus_ginger_green_smoothie_3.jpg)
