@@ -4,7 +4,7 @@ title = "Workshops"
 
 <div class="workshop_title">
   <h1>Workshop</h1>
-  <h2>An Introduction To Food Photography And Styling</h3>
+  <h2>An Introduction To Food Photography And Styling</h2>
 </div>  
 </br>
 
