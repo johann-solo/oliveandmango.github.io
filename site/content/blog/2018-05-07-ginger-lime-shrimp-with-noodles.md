@@ -96,7 +96,7 @@ __Garnishes (all optional but definitely recommended)__
 
 1. Add peppers and the broccoli to the pan and saute until soft, about 6-8 minutes. 
 
-1. Add garlic and and stir for 30 seconds. 
+1. Add garlic and ginger, stir for 30 seconds. 
 
 1. Add shrimp to pan and cook on each side for about 2-3 minutes until cooked though. 
 
