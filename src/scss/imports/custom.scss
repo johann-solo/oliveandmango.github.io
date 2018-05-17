@@ -438,6 +438,29 @@ caption {
     padding-right: 0;
   }
 }
+
+.placeholder_text {
+    padding: 5px 10px;
+}
+
+.btn {
+	background: #FFF;
+	padding: 10px;
+	color: $accent-color !important;
+	text-transform: uppercase;
+	border: 1px solid #e8e8e8;
+}
+.btn:hover {
+	background: $accent-color;
+	transition: 0.5s;
+	color: #FFF !important; 
+	border: 1px solid $accent-color;
+}
+
+.sidebar_subscribe {
+	padding-bottom: 45px;
+}
+
 .profile_pic {
   border-radius: 50%;
   padding: 0 0 20px 0;
@@ -507,9 +530,9 @@ caption {
 }
 
 input {
-  width: 100%;
+  width: 90%;
   height: 2em;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
   border-style: none;
   border: 1px solid #e8e8e8;
 }

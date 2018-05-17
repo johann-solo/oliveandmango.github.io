@@ -27,6 +27,7 @@ title = "Workshops"
     <li>Cost: $400 TTD</li>
     <li class="highlight">Bonus: Each student will get a starter kit from some of our favourite local brands and companies. We would like to thank our sponsors: 
     <a href="https://kaiandpixie.com"target="_blank">Kai &amp; Pixie</a>, 
+    <a href="http://www.dmarketmovers.com"target="_blank">D'Market Movers</a>
   </ul>
 
   <h3>Sign up below to receive a confirmation email with instructions to enrol. We look forward to meeting you!</h3>
@@ -34,16 +35,16 @@ title = "Workshops"
 
   <form name="workshops" netlify>
     <p>
-      <label>Your Name: <input type="text" name="name"></label>
+      <input class="placeholder_text" type="text" placeholder="Your Name" type="text" name="name">
     </p>
     <p>
-      <label>Your Email: <input type="email" name="email"></label>
+      <input class="placeholder_text" type="email" placeholder="Your Email" name="email"></label>
     </p>
     <p>
-      <label>Message: <textarea name="message"></textarea></label>
+      <textarea class="placeholder_text" placeholder="Anything you want to tell us? "name="message"></textarea>
     </p>
     <p>
-      <button class="btn__main" type="submit">Send</button>
+      <button class="btn" type="submit">Submit</button>
     </p>
   </form>
   </div>

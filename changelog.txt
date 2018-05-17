@@ -73,3 +73,9 @@ Version 2.2.1 (kalamata)
 MARCH 29 2018
 Version 2.3.0 (kalamata)
 - Workshop page
+
+May 16 2018
+Version 2.4.0 (kalamata)
+- Workshop updates
+- subscribe button
+- lazyload
