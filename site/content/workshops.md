@@ -4,7 +4,8 @@ title = "Workshops"
 
 <div class="workshop_title">
   <h1>Workshop</h1>
-  <h2>An Introduction To Food Photography And Styling</h2>
+  <h2>May 27th SOLD OUT</h2>
+  <!-- <h2>An Introduction To Food Photography And Styling</h2> -->
 </div>  
 </br>
 
@@ -30,10 +31,11 @@ title = "Workshops"
     <a href="http://www.dmarketmovers.com"target="_blank">D'Market Movers</a>
   </ul>
 
-  <h3>Sign up below to receive a confirmation email with instructions to enrol. We look forward to meeting you!</h3>
+  <!-- <h3>Sign up below to receive a confirmation email with instructions to enrol. We look forward to meeting you!</h3> -->
+  <h3>Due to high demand the May 27th workshop is completely booked. If you would like notification of of future workshops, as well as the latest news and updates, please fill out the form below to be part of the mailing list</h3>
   </br>
 
-  <form name="workshops" netlify>
+  <form class="workshop_form" name="workshops" netlify>
     <p>
       <input class="placeholder_text" type="text" placeholder="Your Name" type="text" name="name">
     </p>
