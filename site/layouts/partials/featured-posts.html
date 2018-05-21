@@ -1,0 +1,8 @@
+<h2>Featured Posts</h2>
+   {{ range first 4 .Site.Taxonomies.tags.tahini }}
+  <section>
+    <a href="{{ .Permalink }}"><img src="{{ .Params.Thumbnail }}" alt=""></a>
+    <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
+    <p>{{.Description}}</p>
+  </section>
+  {{ end }}

@@ -25,15 +25,7 @@
     </ul>
   </div>
   <div class="sidebar_featured">
-    <h2>Featured Posts</h2>
-    <ul>
-      {{ range first 4 .Site.Taxonomies.tags.tahini }}
-      <li>
-        <a href="{{ .Page.RelPermalink }}">
-          <img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a>
-      </li>
-      {{ end }}
-    </ul>
+    {{ partial "featured-posts" . }}
   </div>
   <div class="sidebar_resources">
     <h2>Other resources</h2>
