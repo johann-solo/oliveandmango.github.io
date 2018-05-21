@@ -4,7 +4,7 @@ date: 2018-05-17
 author: Joanne
 thumbnail: /images/uploads/2018_05_17_crispy_chocolate_tahini_cups_1.jpg
 categories: ["desserts"]
-tags: ["chocolate", "vegan"]
+tags: ["chocolate", "vegan", "tahini"]
 excerpt: Fancy little cups of chocolate goodness
 ---
 

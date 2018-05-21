@@ -4,7 +4,7 @@ date: 2017-09-14T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_09_14_pumpkin_bread_1.jpg
 categories: ["bread"]
-tags: ["dates", "pumpkin"]
+tags: ["dates", "pumpkin", "tahini"]
 excerpt: Date and nut bread with a twist
 ---
 ![Pumpkin Bread](/images/uploads/2017_09_14_pumpkin_bread_4.jpg)

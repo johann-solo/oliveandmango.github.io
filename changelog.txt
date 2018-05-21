@@ -79,3 +79,7 @@ Version 2.4.0 (kalamata)
 - Workshop updates
 - subscribe button
 - lazyload
+
+May 21 2018
+Version 2.5.0 (kalamata)
+- Featured post in sidebar

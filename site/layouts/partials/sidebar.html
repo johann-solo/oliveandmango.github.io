@@ -24,9 +24,20 @@
       <li><a href="mailto:info@oliveandmango.com"><i class="social__icons--footer fa fa-envelope" aria-hidden="true"></i></a></li>
     </ul>
   </div>
+  <div class="sidebar_featured">
+    <h2>Featured Posts</h2>
+    <ul>
+      {{ range first 4 .Site.Taxonomies.tags.tahini }}
+      <li>
+        <a href="{{ .Page.RelPermalink }}">
+          <img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
   <div class="sidebar_resources">
     <h2>Other resources</h2>
-      <ul>
+    <ul>
         <li><a href="{{ .Site.BaseURL }}categories/travel">Travel</a></li>
         <li><a href="https://www.johannheadley.com">Photography</a></li>
         <li><a href="{{ .Site.BaseURL }}workshops">Workshops</a></li>
