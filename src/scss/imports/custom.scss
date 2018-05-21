@@ -416,14 +416,10 @@ caption {
 }
 
 .btn__main--recipe {
-    background: #F3F3F3;
     padding: 7px;
     font-size: 0.75em;
-    color: $accent-color !important;
-    text-transform: uppercase;
-    text-align: center;
     margin: 0 auto;
-    max-width: 100px;
+    max-width: 150px;
     margin-bottom: 60px;
 }
 
@@ -449,12 +445,15 @@ caption {
 	color: $accent-color !important;
 	text-transform: uppercase;
 	border: 1px solid #e8e8e8;
+    transition: background-color all 0.85s ease-in-out;
+    transition: letter-spacing 0.65s ease-in-out;
 }
 .btn:hover {
 	background: $accent-color;
-	transition: 0.5s;
 	color: #FFF !important; 
-	border: 1px solid $accent-color;
+    border: 1px solid $accent-color;
+    letter-spacing: 5px;
+    transition: background-color all 0.85s ease;
 }
 
 .sidebar_subscribe {

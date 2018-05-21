@@ -83,3 +83,7 @@ Version 2.4.0 (kalamata)
 May 21 2018
 Version 2.5.0 (kalamata)
 - Featured post in sidebar
+
+May 21 2018
+Version 2.5.1 (kalamata)
+- Uniform button transitions

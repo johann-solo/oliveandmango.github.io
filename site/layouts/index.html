@@ -16,7 +16,7 @@
           </div>
           <a href="{{ .Permalink }}"><img src="{{ .Params.Thumbnail }}" alt=""></a>
           <div class="post-link post__excerpt">{{ .Params.excerpt }}</div>
-          <a href="{{ .Permalink }}"><div class="btn__main">continue reading</div></a>
+          <a href="{{ .Permalink }}"><div class="btn">continue reading</div></a>
         </li>
       {{ end }}
       <div class="pagination_container">{{ template "_internal/pagination.html" . }}</div>
