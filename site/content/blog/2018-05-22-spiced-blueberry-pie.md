@@ -143,8 +143,27 @@ __For the filling__
 1. In a large bowl toss together the blueberries, lemon juice, sugar, salt, coriander, cinnamon , all spice, vanilla extract and tapioca starch in a large bowl, folding with a flexible spatula until well combined.
 
 1. Sprinkle pie crust with a dusting of tapioca starch and then scrape the berry mixture into a prepared pie shell and top with remaining dough, using a solid sheet, cutouts, or a simple lattice-top design. 
-2. Trim away excess dough and press in the edges with a fork or your fingers and refrigerate to ensure top crust is completely chilled, about 30 minutes.
+1. Trim away excess dough and press in the edges with a fork or your fingers and refrigerate to ensure top crust is completely chilled, about 30 minutes.
 1. Meanwhile, adjust oven rack to lower-middle position and preheat to 400°F
+1. In a small bowl whisk together the egg and cream for your egg wash. Brush over chilled top crust in a thin, even layer. Sprinkle brown sugar evenly over crust. 
+2. Place chilled pie on a parchment-lined rimmed baking sheet. Bake until crust is golden, about 1 hour then loosely cover with tented foil. My edges were getting dark fast so I made a foil ring by cutting out the center of a piece of foil the size of the center of the pie and placed it over the edges of the pie so the edges did not burn. (Alternatively, an empty baking sheet can be placed on the topmost rack of the oven to serve as a shield.) 
+1. Continue baking until filling is bubbling even in the very center of the pie, about 15 minutes longer. The time can vary considerably depending on the thickness and type of pie plate. Mine usually takes 1hr 15-20 minutes and I use my thicker ceramic pie plate. 
+1. Cool pie on a cooling rack until the pie plate is no longer warm to the touch (approx 3 hours) and then serve or refrigerate if serving later. 
+1. Wrapped in foil, leftovers will keep up to 3 days at room temperature; warm 10 minutes in a 350°F oven to revive crust before serving.
+
+
+__For simple Lattice instructions__
+ 
+1. Prepare the top lattice crust: Roll out the second pie crust to a roughly 11-inch diameter (slightly smaller than the bottom crust). 
+1. Using a pizza cutter or sharp knife, cut the crust into even strips roughly &frac34;-inch wide. (It's fine to make thinner or thicker strips if you'd like, I chose thicker and fewer strips to keep things simple)
+1. Lay half the strips horizontally across the pie: Lay half the strips horizontally over the pie, using the longer strips in the middle of the pie and shorter strips toward the edges. Space the strips a little apart.
+1. Fold half the strips back on themselves: Fold every other strip back on itself.
+1. Lay one strip of pie crust vertically over the pie: Lay one of the remaining strips of pie crust vertically over the pie so that it lays across the unfolded horizontal strips. Snug it up against the folded strips.
+1. Begin latticing one side of the pie crust: Swap the folded and unfolded horizontal strips: unfold the folded horizontal strips so they lay over the vertical strip and fold the strips running under the vertical strip back over top. Lay another vertical strip of pie crust over the pie, snugging it up as closely as possible to the preceding vertical strip. 
+1. Continue swapping the folded and unfolded horizontal strips and adding one new vertical strip each time. Continue until one half of the pie is completely latticed.
+1. Lattice the second half of the pie: Lattice the second half of the pie following the same pattern. Use the longer strips of pie dough in the middle of the pie and save the shorter strips for the edges.
+1. If the crust starts to soften too much while you're creating the lattice, put the whole pie and any remaining strips of dough in the fridge for about 15 minutes to chill and firm up before continuing.
+1. Crimp the edges: Trim the edges with a sharp knife if needed, then roll them inwards toward the center of the pie. Firmly crimp the edges to seal. Use your egg wash and prepare to bake as normal.
 
 </br>
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_22.jpg)
