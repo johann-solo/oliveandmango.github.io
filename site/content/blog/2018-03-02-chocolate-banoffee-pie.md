@@ -4,7 +4,7 @@ date: 2018-03-02T11:51:14-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_03_02_chocolate_banoffee_pie_1.jpg
 categories: ["desserts"]
-tags: ["chocolate", "bananas"]
+tags: ["chocolate", "bananas", "pies"]
 excerpt: The quickest pie you will ever make full of creamy textures and sweetness 
 ---
 
