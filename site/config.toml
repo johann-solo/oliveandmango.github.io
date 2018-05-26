@@ -1,11 +1,13 @@
-baseurl = "/"
+baseurl = "https://www.oliveandmango.com/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Olive & Mango"
 disqusShortname = "disqus_Ci8qqqEWpn"
 
+
 [params]
   description = "Inspiring ideas for delicious home cooking"
+   AuthorName = "Joanne"
 
 [taxonomies]
   category = "categories"
