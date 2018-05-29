@@ -4,7 +4,7 @@ date: 2018-05-29T15:02:22-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_05_29_chipotle_loaded_chicken_lettuce_wraps_1.jpg
 categories: ["mains"]
-tags: ["chicken", "wraps"]
+tags: ["chicken", "wraps", "tacos"]
 excerpt: A lighter low carb option
 ---
 
@@ -64,7 +64,7 @@ They are totally delicious and hope you add this quick, easy and versatile recip
 * &frac14; cup of water
 * 1 lb of ground chicken or turkey (ground beef can also be used as well)
 * Salt and pepper to taste
-* 2 small heads of bibb or bitter lettuce or any leafy lettuce that will hold up cleaned and dried
+* 2 small heads of bibb or butter lettuce or any leafy lettuce that will hold up cleaned and dried
 * Avocado cream to serve (recipe below
 * Toppings of choice for serving
 
@@ -85,7 +85,7 @@ __For avocado cream__
 1. While that is cooking heat remaining oil in another skillet at medium heat and toss in the green pepper and red onions and sauté until edges are golden and veggies are softened then add the garlic and sauté for a minute and remove from heat.
 1. Once chicken is cooked add the veggies to the chicken along with the corn and beans stirring and cooking together until everything is warmed though.
 1. Sprinkle the taco seasoning over the meat and veggies and 1/4 cup of water and stir everything well and continue cooking for a few minutes until liquid has reduced and thickened slightly. 
-1. Season well with salt and pepper to taste and take of heat while preparing the avocado cream and chop up the rest of your toppings.
+1. Season well with salt and pepper to taste and take off heat while preparing the avocado cream and chop up the rest of your toppings.
 1. To make the avocado cream mash the avocado in a bowl with a fork and stir in yogurt, lime juice, garlic powder, and salt. You could do this by hand or you could also do this in the food processor for a very creamy texture.
 
 __To assemble__
