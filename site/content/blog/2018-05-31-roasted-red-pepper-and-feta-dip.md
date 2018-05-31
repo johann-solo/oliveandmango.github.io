@@ -72,7 +72,7 @@ Just before I share I should tell you what I usually serve it with. We love it w
 
 ### Ingredients
 
-* 6oz or 1&frac14; cup crumbled feta 
+* 6oz or 1&frac14; cup crumbled feta (I couldn't find my usual plain feta, this one had herbs)
 * 4 roasted red peppers. I used canned or in a jar, strained and seeds removed (check notes for roasting peppers)
 * &frac14; cup olive oil - more or less according to the consistency you like 
 * &frac12; tsp of chili flakes 
