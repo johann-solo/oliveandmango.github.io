@@ -52,7 +52,8 @@ Now that that’s out of the way, back to these delicious potatoes. Don’t skim
 * 4 tbsp of butter
 * 1 clove of garlic minced
 * &frac14; cup dill chopped
-* 1 tsp lemon zest and juice of half of a lemon
+* 1 tsp lemon zest
+* Juice of half of a lemon
 * Salt and pepper to taste
 * Toasted pine nuts to garnish 
 
@@ -60,7 +61,10 @@ Now that that’s out of the way, back to these delicious potatoes. Don’t skim
 
 1. Place potatoes in a medium size pot and fill with water covering potatoes and a few inches above them. Bring them to a boil and reduce to simmer. Cook for about 7-8 minutes or until fork tender. Alternatively steam potatoes until they are fork tender.
 1. Add peas to potatoes and cook or steam for 1 minute more or until they turn bright green. Drain peas and potatoes carefully without crushing peas. 
-1. Melt butter in same pot that you boiled the potatoes in (or a medium sized pot if you steamed them) and add potatoes and peas back to pot. Season with salt and pepper, sprinkle with dill, lemon zest and lemon juice, toss gently to combine and serve immediately with a sprinkle of roasted pine nuts.
+1. Whisk together the lemon juice and olive in a small bowl and set aside.
+1. Melt butter in same pot that you boiled the potatoes in (or a medium sized pot if you steamed them) and add potatoes and peas back to pot. 
+1. Season with salt and pepper, sprinkle with dill, and lemon zest.
+1. Drizzle over the lemony dressing and toss gently to combine and serve immediately with a sprinkle of roasted pine nuts.
 
 Adapated from _Buzzfeed_
 
