@@ -54,6 +54,7 @@ Now that that’s out of the way, back to these delicious potatoes. Don’t skim
 * &frac14; cup dill chopped
 * 1 tsp lemon zest
 * Juice of half of a lemon
+* 1 tbsp of olive oil
 * Salt and pepper to taste
 * Toasted pine nuts to garnish 
 
@@ -64,7 +65,7 @@ Now that that’s out of the way, back to these delicious potatoes. Don’t skim
 1. Whisk together the lemon juice and olive in a small bowl and set aside.
 1. Melt butter in same pot that you boiled the potatoes in (or a medium sized pot if you steamed them) and add potatoes and peas back to pot. 
 1. Season with salt and pepper, sprinkle with dill, and lemon zest.
-1. Drizzle over the lemony dressing and toss gently to combine and serve immediately with a sprinkle of roasted pine nuts.
+2. Drizzle over the lemony dressing and toss gently to combine and serve immediately with a sprinkle of toasted pine nuts.
 
 Adapated from _Buzzfeed_
 
