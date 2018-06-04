@@ -87,3 +87,7 @@ Version 2.5.0 (kalamata)
 May 21 2018
 Version 2.5.1 (kalamata)
 - Uniform button transitions
+
+June 3 2018
+Version 2.5.2 (kalamata)
+- Jump to recipe button

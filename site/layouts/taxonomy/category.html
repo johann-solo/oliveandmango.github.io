@@ -6,7 +6,9 @@
 <h1 class="heading_taxonomy">Other posts related to "{{ .Title }}"</h1>
 <ul class="related_taxonomy">
 {{ range .Data.Pages }}
-    <li><a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Title }}</a></li>
+    <li><a href="{{ .RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Title }}</a>
+      <!-- <div>{{ .Date.Format "2 January 2006" }}</div>  -->
+    </li>
   {{ end }}
 </ul>
 </div>

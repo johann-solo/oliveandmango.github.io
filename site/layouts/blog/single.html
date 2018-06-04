@@ -7,14 +7,14 @@
     <div class="post-content" itemprop="articleBody">
       <h1 class="post-title">{{ .Title }}</h1>
       <div class="post-meta">
-        <time>{{ .Date.Format "2 Jan, 2006" }}</time>
-        <div>{{ if .Params.tags }}
-          <i class="fa fa-tags"></i> {{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
-          {{ end }}
+        <div class="post-meta-meta">
+          <span><time> {{ .Date.Format "2 Jan, 2006" }}</time></span>
+          <span>{{ if .Params.tags }}<i class="fa fa-tags"></i> {{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+            {{ end }}</span>
         </div>
         <div class="social_share_button"><a data-pin-do="buttonPin" data-pin-count="beside" data-pin-tall="true" data-pin-save="true" href="https://www.pinterest.com/pin/create/button/"></a></div>
-        <div class="social_share_button">
-        <a class="blsdk-follow" href="https://www.bloglovin.com/blogs/olive-mango-19217695" target="_blank" data-blsdk-type="button">Follow</a></div>
+        <div class="social_share_button"><a class="blsdk-follow" href="https://www.bloglovin.com/blogs/olive-mango-19217695" target="_blank" data-blsdk-type="button">Follow</a></div>
+        <div class="jump_btn"><a href="{{ .Permalink }}/#ingredients"><span class="btn_recipe">Jump to Recipe</span></a></div>
       </div>
 
       <div>
