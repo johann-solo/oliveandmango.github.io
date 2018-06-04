@@ -4,7 +4,7 @@ date: 2018-06-03T14:57:00-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_06_03_buttery_dilled_red_potatoes_and_peas_1.jpg
 categories: ["sides"]
-tags: ["potatoes", "peas", "dill"]
+tags: ["potatoes", "peas", "dill", "salads"]
 excerpt: A simple Summer side, perfect for BBQ & picnic season 
 ---
 
