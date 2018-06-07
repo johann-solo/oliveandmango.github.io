@@ -15,7 +15,7 @@ How fabulous is it to be able to serve a tart for dessert that is healthy enough
 </br>
 </br>
 
-The base is a lovely blend of oats and nuts sweetened with maple syrup. It’s baked for a short time which helps it keep it’s integrity. It itself is so delicious and so fragrant when baking. The original recipe calls for a mix of hazelnut and almonds but feel free to use one or the other to make up the full amount. The addition of the citrus is wonderful. It doesn’t over power but adds a nice bright note to the crust and the filling. It would work just as well with lemon or lime if your prefer.
+The base is a lovely blend of oats and nuts sweetened with maple syrup. It’s baked for a short time which helps it keep it’s integrity. It itself is so delicious and so fragrant when baking. The original recipe calls for a mix of hazelnut and almonds but feel free to use one or the other to make up the full amount. The addition of the citrus is wonderful. It doesn’t overpower but adds a nice bright note to the crust and the filling. It would work just as well with lemon or lime if your prefer.
 </br>
 </br>
 ![Greek Yoghurt Tart With a Poached Fruit Topping](/images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_3.jpg)
@@ -36,8 +36,6 @@ Let’s talk about that delicious topping. Pomerac also known as rose apple, Jam
 </br>
 </br>
 ![Greek Yoghurt Tart With a Poached Fruit Topping](/images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_6.jpg)
-</br>
-</br>
 </br>
 </br>
 ![Greek Yoghurt Tart With a Poached Fruit Topping](/images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_7.jpg)
