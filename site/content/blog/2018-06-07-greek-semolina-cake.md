@@ -77,6 +77,7 @@ When I say there are many version of this cake I really mean it and not only in 
 * 3 eggs separated
 * 1 tsp. vanilla extract
 * Zest of 1 lemon
+* &frac12; tsp rose water or orange blossom water 
 * 1 cup milk
 * Pinch of salt
 
