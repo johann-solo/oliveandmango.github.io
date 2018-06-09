@@ -5,7 +5,7 @@ author: Johann
 thumbnail: /images/uploads/2017_07_19_leatherbacks_1.jpg
 image: null
 categories: ["travel"]
-tags: ["Trinidad"]
+tags: ["Trinidad & Tobago"]
 excerpt: Get up close and personal with the threatened but beautiful leatherback
   turtles in Trinidad and Tobago
 ---

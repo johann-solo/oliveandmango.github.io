@@ -5,7 +5,7 @@ author: Johann
 permalink: angostura-tour
 categories: ["travel"]
 thumbnail: /img/AUG2016/angostura_bottles.jpg
-tags: ["Trinidad", "rum"]
+tags: ["Trinidad & Tobago", "rum"]
 excerpt: Take a tour of one of the world's most famous rum distilleries
 ---
 

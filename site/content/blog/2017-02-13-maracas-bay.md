@@ -5,7 +5,7 @@ author: Joanne
 permalink: maracas-bay
 thumbnail: /img/FEB2017/maracas_1.jpg
 categories: ["travel"]
-tags: ["Trinidad", "beaches"]
+tags: ["Trinidad & Tobago", "beaches"]
 excerpt: Get the most out of Trinidad's most popular beach
 ---
 

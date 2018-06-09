@@ -4,7 +4,7 @@ date: 2018-03-31T12:51:59-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_03_31_magdalena_grand_beach_and_golf_resort_1.jpg
 categories: ["travel"]
-tags: ["Tobago"]
+tags: ["Trinidad & Tobago"]
 excerpt: Enjoy an excellent culinary experience in serene Tobago
 ---
 
