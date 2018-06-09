@@ -55,7 +55,7 @@ The staff is helpful and friendly and goes the extra mile. We were warmly welcom
 </br>
 </br>
 
-The pool area is pristine and also welcoming. There is a swim up barb if you want to enjoy a cocktail by the pool. The beach is a nice and short stroll away from the resort and the resort has changing facilities as well as dining facilities right on the beach. Chair and umbrellas are set up for guest and you can laze away all day with all the conveniences of the resort just a few steps away. You can also enjoy other beach activities and rent snorkelling and diving gear arranged by the resort and even excursions around the island.
+The pool area is pristine and also welcoming. There is a swim up bar if you want to enjoy a cocktail by the pool. The beach is a nice and short stroll away from the resort and the resort has changing facilities as well as dining facilities right on the beach. Chair and umbrellas are set up for guest and you can laze away all day with all the conveniences of the resort just a few steps away. You can also enjoy other beach activities and rent snorkelling and diving gear arranged by the resort and even excursions around the island.
 </br>
 </br>
 ![Mt Irvine Bay Resort](/images/uploads/2018_06_09_mt_irvine_bay_resort_12.jpg)
@@ -87,7 +87,7 @@ The resort has one main eating area outside of the beach facility and also has r
 </br>
 </br>
 
-We had a tremendous culinary experience thanks to the resort and management staff. We arrived and enjoyed a full dinner sampling some of the classics and favourites of the resorts newly revised menu. We were welcomed to dinner with a spritz which we happily sipped on it as we enjoyed our appetiser which was a creamy buttery chicken liver pate infused with peppercorns and a well aged rum. I think that I could live off eating just that and bread.
+We had a tremendous culinary experience thanks to the resort and management staff. We arrived and enjoyed a full dinner sampling some of the classics and favourites of the resorts newly revised menu. We were welcomed to dinner with a spritz which we happily sipped on as we enjoyed our appetiser which was a creamy buttery chicken liver pate infused with peppercorns and a well aged rum. I think that I could live off eating just that and bread.
 </br>
 </br>
 ![Mt Irvine Bay Resort](/images/uploads/2018_06_09_mt_irvine_bay_resort_20.jpg)
@@ -190,7 +190,7 @@ We spent the rest of the last day there relaxing by the pool, enjoyed a latte at
 </br>
 </br>
 
-The hotel organised transportation for us to the airport. They were punctual to pick us up and then we were back in Trinidad and reality, wondering when the next time we will visit the welcoming and serene Mt Irvine Bay resort will be. Hopefully soon!
+The hotel organised transportation for us to the airport. They were punctual to pick us up and then we were back in Trinidad and reality, wondering when the next visit to the welcoming and serene Mt Irvine Bay resort will be. Hopefully soon!
 </br>
 </br>
 ![Mt Irvine Bay Resort](/images/uploads/2018_06_09_mt_irvine_bay_resort_48.jpg)

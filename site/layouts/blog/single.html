@@ -14,7 +14,7 @@
         </div>
         <div class="social_share_button"><a data-pin-do="buttonPin" data-pin-count="beside" data-pin-tall="true" data-pin-save="true" href="https://www.pinterest.com/pin/create/button/"></a></div>
         <div class="social_share_button"><a class="blsdk-follow" href="https://www.bloglovin.com/blogs/olive-mango-19217695" target="_blank" data-blsdk-type="button">Follow</a></div>
-        <div class="jump_btn"><a href="{{ .Permalink }}/#ingredients"><span class="btn_recipe">Jump to Recipe</span></a></div>
+        {{ if not (or (in .Params.categories "travel") (in .Params.categories "how to")) }}<div class="jump_btn"><a href="{{ .Permalink }}/#ingredients"><span class="btn_recipe">Jump to Recipe</span></a></div>{{ end }}
       </div>
 
       <div>

@@ -4,7 +4,7 @@ date: 2017-07-01T19:04:29.986Z
 author: 'Joanne '
 thumbnail: /img/JUL2017/picnics_2.jpg
 image: JUL2017/picnics_1.jpg
-categories: ["How-to"]
+categories: ["how to"]
 tags: ["picnics"]
 excerpt: Keeping things simple is key to making the picnic experience fun for all
 ---

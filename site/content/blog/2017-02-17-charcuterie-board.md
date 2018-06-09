@@ -4,7 +4,7 @@ date: "2017-02-17 7:30:35 -0400"
 author: Joanne
 permalink: charcuterie-board
 thumbnail: /img/FEB2017/charcuterie_2.jpg
-categories: ["How-to"]
+categories: ["how to"]
 tags: ["platters"]
 excerpt: Make a great charcuterie board to fit any budget
 ---
@@ -13,13 +13,13 @@ Charcuterie boards are one of my favourite things to create.  There are endless 
 <br>
 <br>
 
-## Basics:
+### Basics
 
 * Dips
 * Soft cheese
 * Hard cheese
 * Jam/jelly
-* Fruit &mdash; fresh and dried
+* Fruit – fresh and dried
 * Cured meat
 * Marinated veggies
 * Crackers/bread or any mode to eat cheese
