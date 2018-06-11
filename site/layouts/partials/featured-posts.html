@@ -1,7 +1,7 @@
 <h2>Featured Posts</h2>
    {{ range first 4 .Site.Taxonomies.tags.salads }}
   <section>
-    <a href="{{ .Permalink }}"><img src="{{ .Params.Thumbnail }}" alt=""></a>
+    <a href="{{ .Permalink }}"><img src="{{ .Params.scaled_thumbnail }}" alt=""></a>
     <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
     <p>{{.Description}}</p>
   </section>
