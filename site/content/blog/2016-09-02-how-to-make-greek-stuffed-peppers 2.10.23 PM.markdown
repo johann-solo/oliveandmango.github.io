@@ -3,7 +3,7 @@ title:  "How To Make Authentic Greek Stuffed Peppers"
 date:   2016-09-02 07:00:35 -0400
 author: Joanne
 permalink: how-to-make-greek-stuffed-peppers
-categories: ["sides"]
+categories: ["mains"]
 thumbnail: /img/SEPT2016/yemista_meal.jpg
 tags: ["Greek", "peppers"]
 excerpt: Try one of the staples of Greek comfort food
