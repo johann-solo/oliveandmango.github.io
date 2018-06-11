@@ -3,6 +3,7 @@ title: Deliciously Light And Airy Pumpkin Tart
 date: 2017-12-07
 author: Joanne
 thumbnail: /images/uploads/2017_12_07_pumpkin_tart_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_07_pumpkin_tart_0.jpg
 categories: ["desserts"]
 tags: ["pumpkin", "tarts"]
 excerpt: A fresh take on a Fall classic. This fresh pumpkin tart will be your new favourite

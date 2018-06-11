@@ -3,6 +3,7 @@ title: Ginger Spiced Molasses Cookies
 date: 2018-02-17T14:35:08-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_02_17_ginger_spiced_molasses_cookies_1.jpg
+scaled_thumbnail: /images/uploads/2018_02_17_ginger_spiced_molasses_cookies_0.jpg
 categories: ["desserts"]
 tags: ["cookies", "ginger"]
 excerpt: Soft, chewy and deep in colour and flavour

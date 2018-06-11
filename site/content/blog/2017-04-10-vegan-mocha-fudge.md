@@ -4,6 +4,7 @@ date: '2017-04-10 7:30:35 -0400'
 author: Joanne
 permalink: vegan-mocha-fudge
 thumbnail: /img/APR2017/vegan_mocha_fudge_1.jpg
+scaled_thumbnail: /img/APR2017/vegan_mocha_fudge_0.jpg
 categories: ["desserts"]
 tags: ["vegan", "mocha"]
 excerpt: Small bites of explosive flavour

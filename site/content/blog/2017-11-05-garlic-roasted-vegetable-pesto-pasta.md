@@ -3,6 +3,7 @@ title: Garlic Roasted Vegetable Pesto Pasta
 date: 2017-11-05
 author: Joanne
 thumbnail: /images/uploads/2017_11_05_garlic_roasted_vegetable_pesto_pasta_1.jpg
+scaled_thumbnail: /images/uploads/2017_11_05_garlic_roasted_vegetable_pesto_pasta_0.jpg
 categories: ["mains"]
 tags: ["vegetarian", "Italian"]
 excerpt: Quick and easy meatless meal with loads of flavour

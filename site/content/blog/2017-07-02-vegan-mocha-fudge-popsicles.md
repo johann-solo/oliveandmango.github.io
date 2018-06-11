@@ -3,6 +3,7 @@ title: Vegan mocha fudge popsicles
 date: 2017-07-02T17:41:47.081Z
 author: Joanne
 thumbnail: /images/uploads/vegan_mocha_popsicles_1.jpg
+scaled_thumbnail: /images/uploads/vegan_mocha_popsicles_0.jpg
 image: JUL2017/vegan_mocha_popsicles_1.jpg
 categories: ["desserts"]
 tags: ["mocha", "fudge"]

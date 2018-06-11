@@ -3,6 +3,7 @@ title: Vegan Shepherd's Pie
 date: 2018-03-28T10:08:42-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_03_28_vegan_shepherds_pie_1.jpg
+scaled_thumbnail: /images/uploads/2018_03_28_vegan_shepherds_pie_0.jpg
 categories: ["mains"]
 tags: ["vegan", "vegetarian", "one-pot-meals"]
 excerpt: A delicious vegan version of this classic that you will love

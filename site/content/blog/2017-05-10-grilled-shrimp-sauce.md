@@ -3,6 +3,7 @@ title: Grilled shrimp with homemade Sriracha BBQ sauce
 date: '2017-05-10 7:30:35 -0400'
 author: Joanne
 thumbnail: /images/uploads/grilled_shrimp_sauce_1.jpg
+scaled_thumbnail: /images/uploads/grilled_shrimp_sauce_0.jpg
 image: MAY2017/grilled_shrimp_sauce_1.jpg
 categories: ["mains"]
 tags: ["shrimp", "BBQ"]

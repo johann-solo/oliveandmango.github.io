@@ -3,6 +3,7 @@ title: Spiced Roasted Carrot Dip
 date: 2017-12-30T14:07:08-04:00
 author: Joanne
 thumbnail: /images/uploads/2017_12_30_spiced_roasted_carrot_dip_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_30_spiced_roasted_carrot_dip_0.jpg
 categories: ["snacks"]
 tags: ["carrots", "dips"]
 excerpt: A creamy and sweet carrot dip perfect for any occasion

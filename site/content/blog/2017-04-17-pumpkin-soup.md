@@ -3,6 +3,7 @@ title: Roasted Pumpkin Soup
 date: '2017-04-17 7:30:35 -0400'
 author: Joanne
 thumbnail: /img/APR2017/pumpkin_soup_1.jpg
+scaled_thumbnail: /img/APR2017/pumpkin_soup_0.jpg
 categories: ["soups"]
 tags: ["pumpkin"]
 excerpt: A classic soup that's simple and quick to whip up

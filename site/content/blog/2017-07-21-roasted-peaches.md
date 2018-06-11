@@ -3,6 +3,7 @@ title: Vanilla Maple Roasted peaches with Mascarpone
 date: 2017-07-21T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_07_21_roasted_peaches_2.jpg
+scaled_thumbnail: /images/uploads/2017_07_21_roasted_peaches_0.jpg
 image: null
 categories: ["desserts"]
 tags: ["peaches"]

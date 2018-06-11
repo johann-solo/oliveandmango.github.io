@@ -3,6 +3,7 @@ title: Picnic essentials
 date: 2017-07-01T19:04:29.986Z
 author: 'Joanne '
 thumbnail: /img/JUL2017/picnics_2.jpg
+scaled_thumbnail: /img/JUL2017/picnics_0.jpg
 image: JUL2017/picnics_1.jpg
 categories: ["how to"]
 tags: ["picnics"]

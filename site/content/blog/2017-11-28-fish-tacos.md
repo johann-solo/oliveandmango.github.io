@@ -3,6 +3,7 @@ title: Smoky Fish Tacos With Tangy Slaw And A Coconut Lime Cilantro Sauce
 date: 2017-11-28
 author: Joanne
 thumbnail: /images/uploads/2017_11_28_fish_tacos_1.jpg
+scaled_thumbnail: /images/uploads/2017_11_28_fish_tacos_0.jpg
 categories: ["mains"]
 tags: ["tacos", "seafood"]
 excerpt: A quick, easy and mouthwateringly delicious taco meal for any day of the week

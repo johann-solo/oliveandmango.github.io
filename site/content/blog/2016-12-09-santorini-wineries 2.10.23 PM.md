@@ -4,6 +4,7 @@ date: "2016-12-09 7:30:35 -0400"
 author: Joanne
 permalink: santorini-wineries
 thumbnail: /img/DEC2016/santorini_winery_7.jpg
+scaled_thumbnail: /img/DEC2016/santorini_winery_0.jpg
 categories: ["travel"]
 tags: ["Greece"]
 excerpt: Explore the often overlooked rich wine tradition of Santorini

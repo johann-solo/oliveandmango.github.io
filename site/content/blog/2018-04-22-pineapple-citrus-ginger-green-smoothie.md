@@ -3,6 +3,7 @@ title: Pineapple Citrus Ginger Green Smoothie
 date: 2018-04-22T12:25:18-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_04_22_pineapple_citrus_ginger_green_smoothie_1.jpg
+scaled_thumbnail: /images/uploads/2018_04_22_pineapple_citrus_ginger_green_smoothie_0.jpg
 categories: ["drinks"]
 tags: ["smoothies", "pineapples"]
 excerpt: A refreshing, tropical take on your usual smoothie

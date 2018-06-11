@@ -3,6 +3,7 @@ title: Sweet pineapple mint salad and pineapple chow
 date: '2017-06-24 7:30:35 -0400'
 author: Joanne
 thumbnail: /img/JUNE2017/pineapple_chow_4.jpg
+scaled_thumbnail: /img/JUNE2017/pineapple_chow_0.jpg
 image: JUNE2017/pineapple_chow_1.jpg
 categories: ["snacks"]
 tags: ["pineapple"]

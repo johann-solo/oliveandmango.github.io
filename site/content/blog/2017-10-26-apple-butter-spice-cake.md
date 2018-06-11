@@ -3,6 +3,7 @@ title: Apple Butter Spice Cake
 date: 2017-10-26T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_10_26_apple_butter_spice_cake_1.jpg
+scaled_thumbnail: /images/uploads/2017_10_26_apple_butter_spice_cake_0.jpg
 categories: ["desserts"]
 tags: ["apples", "cakes"]
 excerpt: A taste of Fall that goes perfectly with a nice cup of something warm

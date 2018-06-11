@@ -4,6 +4,7 @@ date: "2016-11-27 10:30:35 -0400"
 author: Joanne
 permalink: scalloped-sweet-potato
 thumbnail: /img/NOV2016/scallop_sweet_potato_1.jpg
+scaled_thumbnail: /img/NOV2016/scallop_sweet_potato_0.jpg
 categories: ["sides"]
 tags: ["potatoes"]
 excerpt: Need a change from your regular scalloped potatoes?

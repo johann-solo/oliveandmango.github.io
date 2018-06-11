@@ -5,6 +5,7 @@ author: Guest Post - Johann (aka the hubby)
 permalink: a-tropical-twist-on-a-classic
 categories: ["desserts"]
 thumbnail: /img/JUN2016/cheeesecake_passionfruit_2.jpg
+scaled_thumbnail: /img/JUN2016/cheeesecake_passionfruit_0.jpg
 tags: ["cakes"]
 excerpt: This little tweak proves to be a winner. With just the right amount of fruit, it turned out to be a refreshing glaze
 ---

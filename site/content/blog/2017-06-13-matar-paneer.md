@@ -3,6 +3,7 @@ title: Matar Paneer Masala
 date: '2017-06-13 7:30:35 -0400'
 author: Joanne
 thumbnail: /images/uploads/matar_paneer_3.jpg
+scaled_thumbnail: /images/uploads/matar_paneer_0.jpg
 image: JUNE2017/matar_paneer_2.jpg
 categories: ["sides"]
 tags: ["Indian", "vegetarian"]

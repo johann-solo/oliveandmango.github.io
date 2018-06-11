@@ -3,6 +3,7 @@ title: Grilled Romaine Lettuce With Cilantro Lime Yoghurt Dressing
 date: 2017-08-29T20:05:49.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_30_grilled_romaine_lettuce1.jpg
+scaled_thumbnail: /images/uploads/2017_08_30_grilled_romaine_lettuce0.jpg
 image: null
 categories: ["sides"]
 tags: ["salads"]

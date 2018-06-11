@@ -3,6 +3,7 @@ title: Black-eyed Peas with Greens
 date: 2017-07-24T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_07_24_black_eyed_peas_greens_1.jpg
+scaled_thumbnail: /images/uploads/2017_07_24_black_eyed_peas_greens_0.jpg
 image: null
 categories: ["sides"]
 tags: ["vegetarian"]

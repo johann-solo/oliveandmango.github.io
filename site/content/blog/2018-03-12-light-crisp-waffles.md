@@ -3,6 +3,7 @@ title: Perfectly Light And Crisp Waffles
 date: 2018-03-12T11:10:26.000Z
 author: Joanne
 thumbnail: /images/uploads/2018_03_12_light_crisp_waffles_1.jpg
+scaled_thumbnail: /images/uploads/2018_03_12_light_crisp_waffles_0.jpg
 categories:
   - breakfast
 tags:

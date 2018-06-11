@@ -3,6 +3,7 @@ title: Easy To Make Fresh Guacamole
 date: 2017-12-01
 author: Joanne
 thumbnail: /images/uploads/2017_12_01_guacamole_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_01_guacamole_0.jpg
 categories: ["sides"]
 tags: ["Latin", "avocado"]
 excerpt: Make the perfect guacamole dip the way you like it

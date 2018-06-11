@@ -3,6 +3,7 @@ title: Chipotle Loaded Chicken Lettuce Wraps
 date: 2018-05-29T15:02:22-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_05_29_chipotle_loaded_chicken_lettuce_wraps_1.jpg
+scaled_thumbnail: /images/uploads/2018_05_29_chipotle_loaded_chicken_lettuce_wraps_0.jpg
 categories: ["mains"]
 tags: ["chicken", "wraps", "tacos"]
 excerpt: A lighter low carb option

@@ -3,6 +3,7 @@ title: Indian Grilled Spiced Corn (Street Style Bhutta Masala Corn)
 date: 2017-08-21
 author: Joanne
 thumbnail: /images/uploads/2017_08_21_indian_grilled_spiced_corn_1.jpg
+scaled_thumbnail: /images/uploads/2017_08_21_indian_grilled_spiced_corn_0.jpg
 image: null
 categories: ["sides"]
 tags: ["corn", "Indian"]

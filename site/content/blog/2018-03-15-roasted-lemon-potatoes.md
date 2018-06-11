@@ -4,6 +4,7 @@ date: 2018-03-15
 author: Joanne
 permalink: roasted-lemon-potatoes
 thumbnail: /images/uploads/2018_03_15_greek_potatoes_1.jpg
+scaled_thumbnail: /images/uploads/2018_03_15_greek_potatoes_0.jpg
 categories: ["sides"]
 tags: ["Greek", "potatoes"]
 excerpt: Skip the restaurant and make this delicious side yourself

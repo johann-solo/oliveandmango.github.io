@@ -3,6 +3,7 @@ title: Maple Ginger Chili Shrimp Soba Bowls
 date: 2017-07-20
 author: Joanne
 thumbnail: /images/uploads/2017_07_20_maple_ginger_soba_1.jpg
+scaled_thumbnail: /images/uploads/2017_07_20_maple_ginger_soba_0.jpg
 image: null
 categories: ["mains"]
 tags: ["Asian"]

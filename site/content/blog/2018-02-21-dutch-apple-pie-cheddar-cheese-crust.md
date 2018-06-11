@@ -3,6 +3,7 @@ title: Dutch Apple Pie With A Cheddar Cheese Crust
 date: 2018-02-21T11:07:59-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_02_21_dutch_apple_pie_cheddar_cheese_crust_1.jpg
+scaled_thumbnail: /images/uploads/2018_02_21_dutch_apple_pie_cheddar_cheese_crust_0.jpg
 categories: ["desserts"]
 tags: ["pies", "apples", "cheese"]
 excerpt: Add a hint of savory and a little crunch to your typical apple pie

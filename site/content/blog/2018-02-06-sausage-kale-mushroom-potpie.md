@@ -3,6 +3,7 @@ title: Sausage Kale And Mushroom Pot Pie
 date: 2018-02-06T10:55:01-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_02_06_sausage_kale_mushroom_pot_pie_1.jpg
+scaled_thumbnail: /images/uploads/2018_02_06_sausage_kale_mushroom_pot_pie_0.jpg
 categories: ["mains"]
 tags: ["kale", "mushrooms", "sausage"]
 excerpt: A hearty and comforting dish that will quickly become a family favourite

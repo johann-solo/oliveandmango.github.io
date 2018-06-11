@@ -3,6 +3,7 @@ title: The Magnificent Leatherback Turtles
 date: 2017-07-19
 author: Johann
 thumbnail: /images/uploads/2017_07_19_leatherbacks_1.jpg
+scaled_thumbnail: /images/uploads/2017_07_19_leatherbacks_0.jpg
 image: null
 categories: ["travel"]
 tags: ["Trinidad & Tobago"]

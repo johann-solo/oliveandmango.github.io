@@ -3,6 +3,7 @@ title: Lemon Herb Chicken And Vegetable Skewers With A Green Goddess Sauce
 date: 2017-12-10
 author: Joanne
 thumbnail: /images/uploads/2017_12_10_lemon_herb_chicken_skewers_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_10_lemon_herb_chicken_skewers_0.jpg
 categories: ["mains"]
 tags: ["chicken", "skewers"]
 excerpt: A versatile meal with the freshest flavours

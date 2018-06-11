@@ -3,6 +3,7 @@ title: Horiatiki Salad (Greek village salad)
 date: 2016-07-25
 author: Joanne
 thumbnail: /images/uploads/2016_07_25_village_salad_1.jpg
+scaled_thumbnail: /images/uploads/2016_07_25_village_salad_0.jpg
 categories: ["salads"]
 tags: ["Greek"]
 excerpt: This salad is a classic and is great if you prefer less lettuce and more chunking vegetables in your salad

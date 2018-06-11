@@ -3,6 +3,7 @@ title: 5 Ingredient Crispy Chocolate Nut Butter Bars
 date: 2017-12-12
 author: Joanne
 thumbnail: /images/uploads/2017_12_12_cripsy_chocolate_nut_butters_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_12_cripsy_chocolate_nut_butters_0.jpg
 categories: ["desserts"]
 tags: ["chocolate", "nuts", "gluten free"]
 excerpt: Full of protein, gluten free, easy to make and totally amazing

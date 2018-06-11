@@ -3,6 +3,7 @@ title: Cumin Spiced Lentils With Sausage And Kale
 date: 2018-01-03T11:11:02-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_01_03_spiced_lentils_sausage_kale_1.jpg
+scaled_thumbnail: /images/uploads/2018_01_03_spiced_lentils_sausage_kale_0.jpg
 categories: ["soups"]
 tags: ["lentils", "kale"]
 excerpt: A hearty soup full of warm spices and plenty vegetables

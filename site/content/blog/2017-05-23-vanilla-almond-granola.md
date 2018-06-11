@@ -3,6 +3,7 @@ title: Super Simple Vanilla Almond Granola
 date: '2017-05-23 7:30:35 -0400'
 author: Joanne
 thumbnail: /images/uploads/almond_granola_2.jpg
+scaled_thumbnail: /images/uploads/almond_granola_0.jpg
 image: MAY2017/almond_granola_1.jpg
 categories: ["breakfast"]
 tags: ["almonds", "granola"]

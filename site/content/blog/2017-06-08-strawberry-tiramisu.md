@@ -3,6 +3,7 @@ title: Strawberry Tiramisu (eggless)
 date: '2017-06-08 7:30:35 -0400'
 author: Joanne
 thumbnail: /images/uploads/strawberry_tiramisu_1.jpg
+scaled_thumbnail: /images/uploads/strawberry_tiramisu_0.jpg
 image: JUNE2017/strawberry_tiramisu_1.jpg
 categories: ["desserts"]
 tags: ["strawberries", "eggless"]

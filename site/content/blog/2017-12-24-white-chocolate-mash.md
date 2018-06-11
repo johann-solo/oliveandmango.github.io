@@ -3,6 +3,7 @@ title: White Chocolate Mashed Potatoes
 date: 2017-12-24T13:16:38-04:00
 author: Joanne
 thumbnail: /images/uploads/2017_12_24_white_chocolate_mashed_potatoes_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_24_white_chocolate_mashed_potatoes_0.jpg
 categories: ["sides"]
 tags: ["potatoes", "chocolate"]
 excerpt: Elevating the humble spud to new heights

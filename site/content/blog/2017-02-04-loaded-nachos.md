@@ -4,6 +4,7 @@ date: "2017-02-04 7:30:35 -0400"
 author: Joanne
 permalink: loaded-nachos
 thumbnail: /img/FEB2017/loaded_nachos_1.jpg
+scaled_thumbnail: /img/FEB2017/loaded_nachos_0.jpg
 categories: ["snacks"]
 tags: ["Latin"]
 excerpt: Game day or any day is a good excuse to whip these up

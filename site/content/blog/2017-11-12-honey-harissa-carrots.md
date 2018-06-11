@@ -3,6 +3,7 @@ title: Honey And Harissa Glazed Carrots
 date: 2017-11-12
 author: Joanne
 thumbnail: /images/uploads/2017_11_12_harissa_glazed_carrots_1.jpg
+scaled_thumbnail: /images/uploads/2017_11_12_harissa_glazed_carrots_0.jpg
 categories: ["sides"]
 tags: ["carrots", "vegetarian"]
 excerpt: A combination of spice, sweetness and tanginess – a side for all occassions

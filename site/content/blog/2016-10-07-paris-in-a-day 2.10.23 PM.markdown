@@ -5,6 +5,7 @@ author: Johann
 permalink: paris-in-a-day
 categories: ["travel"]
 thumbnail: /img/OCT2016/eiffel_tower.jpg
+scaled_thumbnail: /img/OCT2016/eiffel_tower_0.jpg
 tags: ["Paris"]
 excerpt: Enjoy the City of Light even if you are pressed for time
 ---

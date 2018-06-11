@@ -3,6 +3,7 @@ title: 'Key Lime Cheesecake With Coconut Crust And Tequila Lime Curd '
 date: 2017-08-23T12:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_23_key_lime_cheesecake_1.JPG
+scaled_thumbnail: /images/uploads/2017_08_23_key_lime_cheesecake_0.JPG
 image: null
 categories: ["desserts"]
 tags: ["pies"]

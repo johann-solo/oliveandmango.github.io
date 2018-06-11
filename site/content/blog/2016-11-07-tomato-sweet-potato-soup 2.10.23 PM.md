@@ -4,6 +4,7 @@ date: "2016-11-07 09:30:35 -0400"
 author: Joanne
 permalink: tomato-sweet-potato-soup
 thumbnail: /images/uploads/2016_11_16_roasted_tomato_sweet_potato_soup_1.jpg
+scaled_thumbnail: /images/uploads/2016_11_16_roasted_tomato_sweet_potato_soup_0.jpg
 categories: ["soups"]
 tags: ["sweet potatoes", "tomatoes"]
 excerpt: A simple soup with dynamic flavours

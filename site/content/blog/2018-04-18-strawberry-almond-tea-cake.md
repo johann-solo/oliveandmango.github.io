@@ -3,6 +3,7 @@ title: Strawberry Almond Tea Cake
 date: 2018-04-18
 author: Joanne
 thumbnail: /images/uploads/2018_04_18_strawberry_almond_tea_cake_1.jpg
+scaled_thumbnail: /images/uploads/2018_04_18_strawberry_almond_tea_cake_0.jpg
 categories: ["desserts"]
 tags: ["cakes", "strawberries", "almonds"]
 excerpt: The perfect cake for Spring and Summer

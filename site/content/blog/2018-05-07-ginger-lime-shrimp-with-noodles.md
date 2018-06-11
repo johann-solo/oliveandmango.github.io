@@ -3,6 +3,7 @@ title: Ginger Lime Shrimp With Noodles
 date: 2018-05-07T14:23:31-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_05_07_ginger_lime_shrimp_with_noodles_1.jpg
+scaled_thumbnail: /images/uploads/2018_05_07_ginger_lime_shrimp_with_noodles_0.jpg
 categories: ["mains"]
 tags: ["Asian", "shrimp", "noodles"]
 excerpt: Quick and easy never tasted so good

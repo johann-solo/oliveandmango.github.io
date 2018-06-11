@@ -3,6 +3,7 @@ title: Chocolate Chess Pie
 date: 2018-03-14T09:11:45-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_03_14_chocolate_chess_pie_1.jpg
+scaled_thumbnail: /images/uploads/2018_03_14_chocolate_chess_pie_0.jpg
 categories: ["desserts"]
 tags: ["chocolate", "pies"]
 excerpt: I dare you to not eat this pie all in one sitting

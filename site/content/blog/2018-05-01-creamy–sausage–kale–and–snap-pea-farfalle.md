@@ -3,6 +3,7 @@ title: Creamy Sausage Kale And Snap Pea Farfalle
 date: 2018-05-01T13:20:53-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_05_01_creamy–sausage–kale–and–snap_pea_farfalle_1.jpg
+scaled_thumbnail: /images/uploads/2018_05_01_creamy–sausage–kale–and–snap_pea_farfalle_0.jpg
 categories: ["mains"]
 tags: ["pasta", "kale", "sausage"]
 excerpt: A pasta that's creamy, delicious and full of veggies. 

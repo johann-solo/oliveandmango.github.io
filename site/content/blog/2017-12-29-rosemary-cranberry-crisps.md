@@ -3,6 +3,7 @@ title: Rosemary Cranberry Crisps
 date: 2017-12-29T07:33:23-04:00
 author: Joanne
 thumbnail: /images/uploads/2017_12_29_rosemary_cranberry_crisps_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_29_rosemary_cranberry_crisps_0.jpg
 categories: ["how to"]
 tags: ["cranberies", "platters"]
 excerpt: The perfect homemade snack or addition to any dip or cheese board

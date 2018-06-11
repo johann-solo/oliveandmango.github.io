@@ -3,6 +3,7 @@ title: Vanilla Beet Spice Latte
 date: 2017-11-24
 author: Joanne
 thumbnail: /images/uploads/2017_11_24_vanilla_beet_latte_1.jpg
+scaled_thumbnail: /images/uploads/2017_11_24_vanilla_beet_latte_0.jpg
 categories: ["drinks"]
 tags: ["vanilla", "beets", "latte"]
 excerpt: A warm cozy nutrient dense cup of goodness

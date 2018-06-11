@@ -3,6 +3,7 @@ title: Salted Olive Oil Chocolate Chunk Cookies With Almonds
 date: 2018-03-21T09:25:08-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_1.jpg
+scaled_thumbnail: /images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_0.jpg
 categories: ["desserts"]
 tags: ["cookies", "chocolate", "almonds"]
 excerpt: Loaded rich and thick chocolate chunk cookies will keep you coming back for more 

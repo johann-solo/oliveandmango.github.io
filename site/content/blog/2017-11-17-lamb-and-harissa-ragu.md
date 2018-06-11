@@ -3,6 +3,7 @@ title: Roasted Red Pepper Harissa Lamb Ragu
 date: 2017-11-17
 author: Joanne
 thumbnail: /images/uploads/2017_11_17_lamb_harissa_ragu_1.jpg
+scaled_thumbnail: /images/uploads/2017_11_17_lamb_harissa_ragu_0.jpg
 categories: ["mains"]
 tags: ["Greek", "lamb"]
 excerpt: Up your meat sauce game with this harissa lamb ragu that's smokey with a hint

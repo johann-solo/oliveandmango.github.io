@@ -3,6 +3,7 @@ title: One Pan Pomegranate Molasses Chicken And Potatoes
 date: 2018-01-18T10:16:35-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_01_18_pomegranate_molasses_chicken_1.jpg
+scaled_thumbnail: /images/uploads/2018_01_18_pomegranate_molasses_chicken_0.jpg
 categories: ["mains"]
 tags: ["chicken", "pomegranates", "one-pot-meals"]
 excerpt: Fall off the bone meat with a perfect balance of sweetness and tartness

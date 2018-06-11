@@ -3,6 +3,7 @@ title: Homemade Irish Cream
 date: 2017-12-31T13:12:43-04:00
 author: Joanne
 thumbnail: /images/uploads/2017_12_31_homemade_irish_cream_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_31_homemade_irish_cream_0.jpg
 categories: ["drinks"]
 tags: ["liqueur"]
 excerpt: Enjoy this sweet boozy treat over ice, added to your coffee or even in your frosting

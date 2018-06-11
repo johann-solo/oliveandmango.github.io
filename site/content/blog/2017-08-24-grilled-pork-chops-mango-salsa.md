@@ -3,6 +3,7 @@ title: Glazed Smoky Grilled Pork Chops With Mango Salsa
 date: 2017-08-24
 author: Joanne
 thumbnail: /images/uploads/2017_08_24_pork_chops_mango_salsa_1.JPG
+scaled_thumbnail: /images/uploads/2017_08_24_pork_chops_mango_salsa_0.JPG
 image: null
 categories: ["mains"]
 tags: ["pork"]

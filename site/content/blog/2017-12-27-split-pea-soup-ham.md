@@ -3,6 +3,7 @@ title: Split Pea Soup And Ham Bone
 date: 2017-12-27T16:17:12.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_12_27_split_pea_soup_ham_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_27_split_pea_soup_ham_0.jpg
 categories:
   - soups
 tags:

@@ -5,6 +5,7 @@ author: Joanne
 permalink: how-to-make-greek-stuffed-peppers
 categories: ["mains"]
 thumbnail: /img/SEPT2016/yemista_meal.jpg
+scaled_thumbnail: /img/SEPT2016/yemista_meal_0.jpg
 tags: ["Greek", "peppers"]
 excerpt: Try one of the staples of Greek comfort food
 ---

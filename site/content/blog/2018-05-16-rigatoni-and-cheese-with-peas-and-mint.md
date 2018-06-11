@@ -3,6 +3,7 @@ title: Rigatoni and Cheese With Peas and Mint
 date: 2018-05-16T09:38:39-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_1.jpg
+scaled_thumbnail: /images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_0.jpg
 categories: ["sides"]
 tags: ["peas", "cheese", "pasta"]
 excerpt: A ridiculously delicious baked pasta that is so great for feeding a crowd

@@ -3,6 +3,7 @@ title: Chocolate Bourbon Walnut Pie
 date: 2017-12-22T16:17:52-04:00
 author: Joanne
 thumbnail: /images/uploads/2017_12_22_chocolate_bourbon_walnut_pie_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_22_chocolate_bourbon_walnut_pie_0.jpg
 categories: ["desserts"]
 tags: ["pies", "chocolate", "walnuts"]
 excerpt: A decadent pie with a custard base sweetened with pure sugarcane syrup

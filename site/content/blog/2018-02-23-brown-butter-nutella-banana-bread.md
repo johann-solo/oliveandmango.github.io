@@ -3,6 +3,7 @@ title: Brown Butter Nutella Banana Bread
 date: 2018-02-23T12:24:26-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_02_23_brown_butter_nutella_banana_bread_1.jpg
+scaled_thumbnail: /images/uploads/2018_02_23_brown_butter_nutella_banana_bread_0.jpg
 categories: ["bread"]
 tags: ["bananas", "Nutella"]
 excerpt: Enjoy swirls of sweet nutty, cocoa flavours in your banana bread

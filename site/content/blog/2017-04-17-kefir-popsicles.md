@@ -3,6 +3,7 @@ title: Strawberry goat milk kefir popsicles
 date: '2017-04-16 8:30:35 -0400'
 author: Joanne
 thumbnail: /img/APR2017/kefir_popsicles_1.jpg
+scaled_thumbnail: /img/APR2017/kefir_popsicles_0.jpg
 categories: ["desserts"]
 tags: ["strawberries", "kefir"]
 excerpt: Tasty popsicles with probiotic goodness

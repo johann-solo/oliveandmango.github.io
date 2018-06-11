@@ -3,6 +3,7 @@ title: Pumpkin Espresso Bundt Cake With A Chocolate Espresso Rum Glaze
 date: 2017-12-05T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_12_05_pumpkin_esspresso_bundt_cake_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_05_pumpkin_esspresso_bundt_cake_0.jpg
 categories: ["desserts"]
 tags: ["pumpkin", "cakes", "chocolate"]
 excerpt: A simple to make bundt with a touch of spice and espresso and an

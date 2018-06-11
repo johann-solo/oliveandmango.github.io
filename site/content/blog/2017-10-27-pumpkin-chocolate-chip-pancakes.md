@@ -3,6 +3,7 @@ title: Pumpkin Chocolate Chip Pancakes
 date: 2017-10-27
 author: Joanne
 thumbnail: /images/uploads/2017_10_27_pumpkin_chocolate_chip_pancakes_1.jpg
+scaled_thumbnail: /images/uploads/2017_10_27_pumpkin_chocolate_chip_pancakes_0.jpg
 categories: ["breakfast"]
 tags: ["pancakes", "pumpkin"]
 excerpt: Probably the best combo of flavours since PB and jelly

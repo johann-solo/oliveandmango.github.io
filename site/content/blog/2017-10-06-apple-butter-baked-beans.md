@@ -3,6 +3,7 @@ title: Apple Butter Bourbon Baked Beans
 date: 2017-10-06
 author: Joanne
 thumbnail: /images/uploads/2017_10_06_apple_butter_baked_beans_1.jpg
+scaled_thumbnail: /images/uploads/2017_10_06_apple_butter_baked_beans_0.jpg
 categories: ["sides"]
 tags: ["apples"]
 excerpt: Sweet, savoury, rich in flavour, with a slight bit of heat. You won't regret making it. That's a promise!

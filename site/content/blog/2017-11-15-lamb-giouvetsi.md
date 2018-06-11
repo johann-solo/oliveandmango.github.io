@@ -3,6 +3,7 @@ title: Lamb Giouvetsi
 date: 2017-11-15
 author: Joanne
 thumbnail: /images/uploads/2017_11_15_lamb_giouvetsi_1.jpg
+scaled_thumbnail: /images/uploads/2017_11_15_lamb_giouvetsi_0.jpg
 categories: ["mains"]
 tags: ["Greek", "lamb"]
 excerpt: Greek comfort food at its best – tender meat and tiny pasta cooked in the most mouthwatering sauce

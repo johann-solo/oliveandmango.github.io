@@ -3,6 +3,7 @@ title: Pineapple Rum Punch Granita
 date: 2017-08-17T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_17_pineapple_granita_1.jpg
+scaled_thumbnail: /images/uploads/2017_08_17_pineapple_granita_0.jpg
 image: null
 categories: ["drinks"]
 tags: ["iced drinks"]

@@ -4,6 +4,7 @@ date: '2017-03-14 7:30:35 -0400'
 author: Joanne
 permalink: callaloo-soup
 thumbnail: /img/MAR2017/callaloo_soup_1.jpg
+scaled_thumbnail: /img/MAR2017/callaloo_soup_0.jpg
 categories: ["soups"]
 tags: ["Caribbean"]
 excerpt: This soup is packed with all green leafy goodness

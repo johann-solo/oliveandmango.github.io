@@ -3,6 +3,7 @@ title: Pizza Diavolo
 date: 2017-10-12
 author: Joanne
 thumbnail: /images/uploads/2017_10_12_pizza_diavolo_1.jpg
+scaled_thumbnail: /images/uploads/2017_10_12_pizza_diavolo_0.jpg
 categories: ["mains"]
 tags: ["Italian"]
 excerpt: My classic favourite pepperoni and cheese pizza with a little extra heat

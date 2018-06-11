@@ -3,6 +3,7 @@ title: Top things to see and do in Santorini
 date: '2017-06-17 7:30:35 -0400'
 author: Joanne
 thumbnail: /images/uploads/santorini_21.jpg
+scaled_thumbnail: /images/uploads/santorini_0.jpg
 categories: ["travel"]
 tags: ["Greece"]
 excerpt: Don't miss a thing on your next visit to one of the most picturesque

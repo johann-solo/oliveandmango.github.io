@@ -3,6 +3,7 @@ title: Leek And Potato Soup
 date: 2017-12-19
 author: Joanne
 thumbnail: /images/uploads/2017_12_19_leek_potato_soup_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_19_leek_potato_soup_0.jpg
 categories: ["soups"]
 tags: ["leeks", "potatoes"]
 excerpt: A velvety and luscious classic soup

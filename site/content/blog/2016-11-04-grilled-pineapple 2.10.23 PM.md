@@ -4,6 +4,7 @@ date:   2016-11-04 09:30:35 -0400
 author: Joanne
 permalink: grilled-pineapple
 thumbnail: /img/NOV2016/grilled_pinapple.jpg
+scaled_thumbnail: /img/NOV2016/grilled_pinapple_0.jpg
 categories: ["sides"]
 tags: ["pineapple"]
 excerpt: There is no such thing as grilling season, enjoy a tropical meal any day of the year

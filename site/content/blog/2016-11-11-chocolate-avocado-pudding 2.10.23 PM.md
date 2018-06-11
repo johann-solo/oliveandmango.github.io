@@ -4,6 +4,7 @@ date: "2016-11-11 10:30:35 -0400"
 author: Joanne
 permalink: chocolate-avocado-pudding
 thumbnail: /img/NOV2016/avocado_chocolate_pudding_3.jpg
+scaled_thumbnail: /img/NOV2016/avocado_chocolate_pudding_0.jpg
 categories: ["desserts"]
 tags: ["pudding", "chocolate", "avocado"]
 excerpt: One of my favourites way to have an avocado? Chocolatey

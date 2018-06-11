@@ -3,6 +3,7 @@ title: Classic Niçoise salad – a little piece of the south of France on a pla
 date: 2017-08-09T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_08_nicoise_salad_1.jpg
+scaled_thumbnail: /images/uploads/2017_08_08_nicoise_salad_0.jpg
 image: null
 categories: ["sides"]
 tags: ["French", "salads"]

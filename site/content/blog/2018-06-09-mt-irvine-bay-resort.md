@@ -3,6 +3,7 @@ title: Mt Irvine Bay Resort
 date: 2018-06-09T14:35:42-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_06_09_mt_irvine_bay_resort_1.jpg
+scaled_thumbnail: /images/uploads/2018_06_09_mt_irvine_bay_resort_0.jpg
 categories: ["travel"]
 tags: ["Trinidad & Tobago"]
 excerpt: A serene retreat nestled in the warmth of Tobago

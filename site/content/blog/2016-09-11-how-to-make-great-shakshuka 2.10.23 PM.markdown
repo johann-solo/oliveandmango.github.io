@@ -5,6 +5,7 @@ author: Joanne
 permalink: how-to-make-great-shakshuka
 categories: ["mains"]
 thumbnail: /img/SEPT2016/shakshuka.jpg
+scaled_thumbnail: /img/SEPT2016/shakshuka_0.jpg
 tags: ["Middle Eastern"]
 excerpt: Add some flavour with spicy and garlic herbed Shakshuka
 ---

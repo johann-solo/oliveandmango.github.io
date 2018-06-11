@@ -3,6 +3,7 @@ title: Dark And Rich Vegan Chocolate Hazelnut Tart
 date: 2017-12-14T12:55:59.514Z
 author: Joanne
 thumbnail: /images/uploads/2017_12_14_chocolate_vegan_tart_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_14_chocolate_vegan_tart_0.jpg
 categories:
   - desserts
 tags:

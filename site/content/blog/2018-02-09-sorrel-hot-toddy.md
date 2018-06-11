@@ -3,6 +3,7 @@ title: Sorrel (Hibiscus) Hot Toddy
 date: 2018-02-09T15:04:02-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_02_09_sorrel_hot_toddy_1.jpg
+scaled_thumbnail: /images/uploads/2018_02_09_sorrel_hot_toddy_0.jpg
 categories: ["drinks"]
 tags: ["sorrel"]
 excerpt: A warm and soothing drink – bright in colour and cozy in flavours

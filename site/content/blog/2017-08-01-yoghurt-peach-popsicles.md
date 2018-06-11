@@ -3,6 +3,7 @@ title: Peaches and cream yoghurt popsicles
 date: 2017-08-01
 author: Joanne
 thumbnail: /images/uploads/2017_08_01_yoghurt_popsicles_1.jpg
+scaled_thumbnail: /images/uploads/2017_08_01_yoghurt_popsicles_0.jpg
 image: null
 categories: ["desserts"]
 tags: ["yoghurt"]

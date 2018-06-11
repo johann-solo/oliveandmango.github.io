@@ -3,6 +3,7 @@ title: 3 Cheese Loaded Lasagna with Herb and Garlic Cheesy Bread
 date: 2017-08-03
 author: Joanne
 thumbnail: /images/uploads/2017_08_03_cheese_lasagna_1.jpg
+scaled_thumbnail: /images/uploads/2017_08_03_cheese_lasagna_0.jpg
 image: null
 categories: ["mains"]
 tags: ["Italian"]

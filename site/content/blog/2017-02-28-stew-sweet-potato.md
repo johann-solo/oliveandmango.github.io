@@ -4,6 +4,7 @@ date: "2017-02-28 7:30:35 -0400"
 author: Joanne
 permalink: stew-sweet-potato
 thumbnail: /img/FEB2017/stew_sweet_potato_1.jpg
+scaled_thumbnail: /img/FEB2017/stew_sweet_potato_0.jpg
 categories: ["lunch"]
 tags: ["Caribbean"]
 excerpt: This dish will be a repeat request on your dinner table

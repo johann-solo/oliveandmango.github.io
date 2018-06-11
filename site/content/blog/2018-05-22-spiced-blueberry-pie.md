@@ -3,6 +3,7 @@ title: Spiced Blueberry Pie
 date: 2018-05-23T09:27:37-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_05_22_spiced_blueberry_pie_1.jpg
+scaled_thumbnail: /images/uploads/2018_05_22_spiced_blueberry_pie_0.jpg
 categories: ["desserts"]
 tags: ["blueberries", "pies"]
 excerpt: Totally delicious blueberry pie with the easiest filling recipe

@@ -5,6 +5,7 @@ author: Joanne
 permalink: mezethes-to-meals
 categories: ["sides"]
 thumbnail: /img/OCT2016/mezethes.jpg
+scaled_thumbnail: /img/OCT2016/mezethes_0.jpg
 tags: ["Greek", "meatballs"]
 excerpt: Have a Greek party at home with these classic and easy to make appetizers
 ---

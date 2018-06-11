@@ -3,6 +3,7 @@ title: Maple Pecan Cinnamon Rolls
 date: 2018-01-09
 author: Joanne
 thumbnail: /images/uploads/2018_01_09_maple_pecan_cinnamon_rolls_1.jpg
+scaled_thumbnail: /images/uploads/2018_01_09_maple_pecan_cinnamon_rolls_0.jpg
 categories: ["desserts"]
 tags: ["pecans", "cinnamon"]
 excerpt: The best cinnamon rolls you will ever make in 1 hour

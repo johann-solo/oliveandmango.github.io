@@ -3,6 +3,7 @@ title: Chocolate Coconut Banana Muffins
 date: 2017-09-19
 author: Joanne
 thumbnail: /images/uploads/2017_09_19_chocolate_coconut_banana_muffins_1.jpg
+scaled_thumbnail: /images/uploads/2017_09_19_chocolate_coconut_banana_muffins_0.jpg
 categories: ["desserts"]
 aliases: [chocolate-coconut-banana-muffins]
 tags: ["muffins", "chocolate", "bananas", "coconut"]

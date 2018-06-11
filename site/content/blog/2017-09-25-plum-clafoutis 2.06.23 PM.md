@@ -3,6 +3,7 @@ title: Plum Clafoutis
 date: 2017-09-25
 author: Joanne
 thumbnail: /images/uploads/2017_09_25_plum_clafoutis_1.jpg
+scaled_thumbnail: /images/uploads/2017_09_25_plum_clafoutis_0.jpg
 categories: ["desserts"]
 tags: ["plum", "pies"]
 excerpt: An elegant tender almost custard-like dessert that’s quick and easy to make and pleases the masses

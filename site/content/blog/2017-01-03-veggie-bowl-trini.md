@@ -4,6 +4,7 @@ date: "2017-01-03 7:30:35 -0400"
 author: Joanne
 permalink: veggie-bowl-trini
 thumbnail: /img/JAN2017/veggie_bowl_1.jpg
+scaled_thumbnail: /img/JAN2017/veggie_bowl_0.jpg
 categories: ["mains"]
 tags: ["Caribbean", "vegetarian"]
 excerpt: Get a healthy start to your year

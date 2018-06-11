@@ -5,6 +5,7 @@ author: Joanne
 permalink: market-day
 categories: ["travel"]
 thumbnail: /img/JUL2016/market-pinapples.jpg
+scaled_thumbnail: /img/JUL2016/market-pinapples_0.jpg
 tags: ["Trinidad & Tobago", "markets"]
 excerpt: Saving money, eating healthy and great tasting food doesn&apos;t have to be difficult. Local markets are the key
 ---

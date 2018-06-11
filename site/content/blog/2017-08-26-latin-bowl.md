@@ -3,6 +3,7 @@ title: Vegan And Vegetarian Fiesta Bowl
 date: 2017-08-26T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_26_fiesta_bowl_1.JPG
+scaled_thumbnail: /images/uploads/2017_08_26_fiesta_bowl_0.JPG
 image: null
 categories: ["mains"]
 tags: ["vegetarian", "vegan"]

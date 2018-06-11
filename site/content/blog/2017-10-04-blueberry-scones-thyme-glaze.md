@@ -3,6 +3,7 @@ title: Buttery Blueberry Scones With A Thyme Glaze
 date: 2017-10-04
 author: Joanne
 thumbnail: /images/uploads/2017_09_29_blueberry_scones_thyme_1.jpg
+scaled_thumbnail: /images/uploads/2017_09_29_blueberry_scones_thyme_0.jpg
 categories: ["breakfast"]
 tags: ["blueberries"]
 excerpt: This pairing of blueberry and thyme will make you wonder why you made scones any other way

@@ -4,6 +4,7 @@ date: "2016-11-09 10:30:35 -0400"
 author: Joanne
 permalink: chicken-rice-soup
 thumbnail: /img/NOV2016/chicken_rice_soup_2.jpg
+scaled_thumbnail: /img/NOV2016/chicken_rice_soup_0.jpg
 categories: ["soups"]
 tags: ["chicken"]
 excerpt: Don't let the flu season get you down, fight back with this hearty soup

@@ -3,6 +3,7 @@ title: Winter Sorrel (Hibiscus) Margarita
 date: 2018-02-14T09:28:17-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_02_14_winter_sorrel_margarita_1.jpg
+scaled_thumbnail: /images/uploads/2018_02_14_winter_sorrel_margarita_0.jpg
 categories: ["drinks"]
 tags: ["cocktails"]
 excerpt: Brighten up your margarita with floral and spicy notes

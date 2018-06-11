@@ -3,6 +3,7 @@ title: Penne Alla Vodka
 date: 2018-03-16T13:16:06-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_03_16_penne_alla_vodka_1.jpg
+scaled_thumbnail: /images/uploads/2018_03_16_penne_alla_vodka_0.jpg
 categories: ["mains"]
 tags: ["Italian", "pasta"]
 excerpt: Super simple, super delicious

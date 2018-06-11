@@ -3,6 +3,7 @@ title: Greek-style potato salad
 date: "2018-03-08 10:30:35 -0400"
 author: Joanne
 thumbnail: /images/uploads/2018_03_08_greek_potatoes_1.jpg
+scaled_thumbnail: /images/uploads/2018_03_08_greek_potatoes_0.jpg
 categories: ["sides"]
 tags: ["Greek", "salads", "vegan", "vegetarian"]
 excerpt: A salad full fresh herbs and just the right amount of lemony tang

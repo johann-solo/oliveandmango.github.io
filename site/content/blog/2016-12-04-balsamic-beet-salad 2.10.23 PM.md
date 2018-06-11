@@ -4,6 +4,7 @@ date: "2016-12-04 8:30:35 -0400"
 author: Joanne
 permalink: balsamic-beet-salad
 thumbnail: /img/DEC2016/balsamic_beet_salad_1.jpg
+scaled_thumbnail: /img/DEC2016/balsamic_beet_salad_0.jpg
 categories: ["sides"]
 tags: ["salads", "beets"]
 excerpt: The perfect beet salad

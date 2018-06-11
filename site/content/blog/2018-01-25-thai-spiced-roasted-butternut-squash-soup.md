@@ -3,6 +3,7 @@ title: Thai Spiced Roasted Butternut Squash Soup
 date: 2018-01-25T11:52:48-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_01_25_thai_spiced_roasted_butternut_squash_soup_1.jpg
+scaled_thumbnail: /images/uploads/2018_01_25_thai_spiced_roasted_butternut_squash_soup_0.jpg
 categories: ["soups"]
 tags: ["Thai", "spicy", "butternut squash"]
 excerpt: One of the quickest most flavourful soups you can make in 30 minutes

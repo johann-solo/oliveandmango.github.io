@@ -3,6 +3,7 @@ title: Vegan Chocolate Mousse
 date: 2018-04-17T19:45:55-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_04_17_vegan_chocolate_mousse_1.jpg
+scaled_thumbnail: /images/uploads/2018_04_17_vegan_chocolate_mousse_0.jpg
 categories: ["desserts"]
 tags: ["chocolate", "vegan"]
 excerpt: Light, airy and rich chocolate delights

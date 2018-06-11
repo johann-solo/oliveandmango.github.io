@@ -3,6 +3,7 @@ title: Stellar Creamy Enchiladas
 date: 2017-07-10T11:09:18.654Z
 author: Joanne
 thumbnail: /images/uploads/2017_07_10_ enchiladas_4.jpg
+scaled_thumbnail: /images/uploads/2017_07_10_ enchiladas_0.jpg
 image: null
 categories: ["mains"]
 tags: ["Latin"]

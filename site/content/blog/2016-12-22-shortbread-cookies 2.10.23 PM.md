@@ -4,6 +4,7 @@ date: "2016-12-22 7:30:35 -0400"
 author: Joanne
 permalink: shortbread-cookies
 thumbnail: /img/DEC2016/almond_short_bread_cookies_1.jpg
+scaled_thumbnail: /img/DEC2016/almond_short_bread_cookies_0.jpg
 categories: ["desserts"]
 tags: ["Greek", "cookies"]
 excerpt: These light shortbread cookies pair perfectly with your tea or coffee

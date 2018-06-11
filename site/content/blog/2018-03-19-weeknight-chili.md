@@ -3,6 +3,7 @@ title: Weeknight Chili With Homemade Chili Paste
 date: 2018-03-19T14:57:11-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_03_19_weeknight_chili_1.jpg
+scaled_thumbnail: /images/uploads/2018_03_19_weeknight_chili_0.jpg
 categories: ["mains"]
 tags: ["Mexican", "spicy"]
 excerpt: Smokey, delicious and super easy chili

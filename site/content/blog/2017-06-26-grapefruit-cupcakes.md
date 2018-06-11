@@ -3,6 +3,7 @@ title: Simply Scrumptious Grapefruit Cupcakes
 date: 2017-06-26
 author: Joanne
 thumbnail: /img/JUNE2017/grapefruit_cupcakes_2.jpg
+scaled_thumbnail: /img/JUNE2017/grapefruit_cupcakes_0.jpg
 categories: ["desserts"]
 tags: ["grapefruit", "cupcakes"]
 excerpt: Bright and cheery with a delectable grapefruit cream cheese frosting and decorated with rosemary infused candied grapefruit

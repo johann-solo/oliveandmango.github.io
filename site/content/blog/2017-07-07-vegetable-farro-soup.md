@@ -3,6 +3,7 @@ title: Comforting Chicken Vegetable Farro soup
 date: 2017-07-06T07:41:47.081Z
 author: Joanne
 thumbnail: /images/uploads/chicken_farro_soup_2.jpg
+scaled_thumbnail: /images/uploads/chicken_farro_soup_0.jpg
 image: JUL2017/chicken_farro_soup_1.jpg
 categories: ["soups"]
 tags: ["chicken"]

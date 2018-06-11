@@ -3,6 +3,7 @@ title: Carrot Cake Roll
 date: 2018-02-07T13:04:47-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_02_07_carrot_cake_roll_1.jpg
+scaled_thumbnail: /images/uploads/2018_02_07_carrot_cake_roll_0.jpg
 categories: ["desserts"]
 tags: ["cakes", "carrots", "rolls"]
 excerpt: A delicious classic literally with a twist

@@ -4,6 +4,7 @@ date: "2017-01-15 7:30:35 -0400"
 author: Joanne
 permalink: roasted-broccoli
 thumbnail: /img/JAN2017/roasted_broccoli_1.jpg
+scaled_thumbnail: /img/JAN2017/roasted_broccoli_0.jpg
 categories: ["sides"]
 tags: ["vegetarian"]
 excerpt: Perfectly done whether fresh or from frozen

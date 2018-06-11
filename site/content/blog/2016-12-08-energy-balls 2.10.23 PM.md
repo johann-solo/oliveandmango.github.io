@@ -4,6 +4,7 @@ date: "2016-12-06 7:30:35 -0400"
 author: Joanne
 permalink: energy-balls
 thumbnail: /img/DEC2016/energy_balls_1.jpg
+scaled_thumbnail: /img/DEC2016/energy_balls_0.jpg
 categories: ["snacks"]
 tags: ["chocolate"]
 excerpt: A delicious pick me up

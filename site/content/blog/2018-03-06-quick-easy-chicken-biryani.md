@@ -3,6 +3,7 @@ title: Quick And Easy Chicken Biryani
 date: 2018-03-06T14:23:14-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_03_06_quick_easy_chicken_biryani_1.jpg
+scaled_thumbnail: /images/uploads/2018_03_06_quick_easy_chicken_biryani_0.jpg
 categories: ["mains"]
 tags: ["Indian", "chicken", "rice"]
 excerpt: A delicious cheat biryani recipe that doesn’t sacrifice its authentic flavours 

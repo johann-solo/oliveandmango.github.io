@@ -3,6 +3,7 @@ title: Bourbon Marmalade And Ginger Ham
 date: 2017-12-21T08:47:57-04:00
 author: Joanne
 thumbnail: /images/uploads/2017_12_21_bourbon_marmalade_ginger_ham_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_21_bourbon_marmalade_ginger_ham_0.jpg
 categories: ["mains"]
 tags: ["pork"]
 excerpt: A tender juicy roast with a delicious glaze and minimal fuss

@@ -3,6 +3,7 @@ title: Terikayi Salmon Skewers With Sesame Buckwheat Soba Noodles
 date: 2017-08-19T19:45:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_19_terikayi_salmon_1.jpg
+scaled_thumbnail: /images/uploads/2017_08_19_terikayi_salmon_0.jpg
 image: null
 categories: ["mains"]
 tags: ["Asian", "salmon"]

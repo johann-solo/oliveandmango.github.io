@@ -3,6 +3,7 @@ title: Spicy Roasted Pumpkin With Honey Thyme And Feta
 date: 2017-10-01
 author: Joanne
 thumbnail: /images/uploads/2017_10_01_roasted_pumpkin_honey_thyme_feta_1.jpg
+scaled_thumbnail: /images/uploads/2017_10_01_roasted_pumpkin_honey_thyme_feta_0.jpg
 categories: ["sides"]
 tags: ["pumpkin"]
 excerpt: Look no further for a delicious and caramelised pumpkin side with a spicy kick

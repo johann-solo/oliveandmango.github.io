@@ -3,6 +3,7 @@ title: Creamy One Pan Lemon Garlic Chicken And Orzo Risotto
 date: 2018-04-11T13:32:47-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_04_11_garlic_chicken_orzo_risotto_1.jpg
+scaled_thumbnail: /images/uploads/2018_04_11_garlic_chicken_orzo_risotto_0.jpg
 categories: ["mains"]
 tags: ["chicken", "one-pot-meals"]
 excerpt: Take a night off with a perfect "date night" meal

@@ -3,6 +3,7 @@ title: Dina’s Tiropitakia (Feta Cheese filled hand pies)
 date: 2017-10-20
 author: Joanne
 thumbnail: /images/uploads/2017_10_19_feta_cheese_filled_hand_pies_1.jpg
+scaled_thumbnail: /images/uploads/2017_10_19_feta_cheese_filled_hand_pies_0.jpg
 categories: ["snacks"]
 tags: ["cheese", "Greek"]
 excerpt: Perfect little pockets of feta that are hard to resist especially fresh out of the oven

@@ -3,6 +3,7 @@ title: Nutrient Dense Mediterranean Bowl
 date: 2017-08-05
 author: Joanne
 thumbnail: /images/uploads/2017_08_05_mediterranean_bowl_1.jpg
+scaled_thumbnail: /images/uploads/2017_08_05_mediterranean_bowl_0.jpg
 image: null
 categories: ["mains"]
 tags: ["Mediterranean"]

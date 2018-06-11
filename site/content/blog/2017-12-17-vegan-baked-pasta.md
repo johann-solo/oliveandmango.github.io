@@ -3,6 +3,7 @@ title: Creamy Vegan Sundried Tomato Baked Pasta
 date: 2017-12-17
 author: Joanne
 thumbnail: /images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_17_creamy_vegan_sundried_tomato_baked_pasta_0.jpg
 categories: ["mains"]
 tags: ["gluten free", "vegan", "pasta"]
 excerpt: A baked pasta with an unbelievably flavoured red sauce

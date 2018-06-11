@@ -4,6 +4,7 @@ date: "2017-02-12 7:30:35 -0400"
 author: Joanne
 permalink: spicy-broccolini
 thumbnail: /img/FEB2017/spicy_broccolini_1.jpg
+scaled_thumbnail: /img/FEB2017/spicy_broccolini_0.jpg
 categories: ["sides"]
 tags: ["vegetarian", "spicy"]
 excerpt: A fancy looking side made simply

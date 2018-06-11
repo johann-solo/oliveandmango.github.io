@@ -3,6 +3,7 @@ title: Mom's Roasted Chicken And Rice
 date: 2017-10-16
 author: Joanne
 thumbnail: /images/uploads/2017_10_16_moms_roasted_chicken_rice_1.jpg
+scaled_thumbnail: /images/uploads/2017_10_16_moms_roasted_chicken_rice_0.jpg
 categories: ["mains"]
 tags: ["chicken", "rice"]
 excerpt: A Simple and versatile classic

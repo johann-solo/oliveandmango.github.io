@@ -4,6 +4,7 @@ date: "2016-12-02 8:30:35 -0400"
 author: Joanne
 permalink: coconut-raspberry-cupcakes
 thumbnail: /img/DEC2016/coconut_raspberry_cupcakes_1.jpg
+scaled_thumbnail: /img/DEC2016/coconut_raspberry_cupcakes_0.jpg
 categories: ["desserts"]
 tags: ["cupcakes"]
 excerpt: Powder pink swirls and coconut confetti

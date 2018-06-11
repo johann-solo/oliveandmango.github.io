@@ -3,6 +3,7 @@ title: No Churn Roasted Chestnut Ice Cream
 date: 2018-01-31T09:27:03-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_01_31_chestnut_icecream_1.jpg
+scaled_thumbnail: /images/uploads/2018_01_31_chestnut_icecream_0.jpg
 categories: ["desserts"]
 tags: ["ice cream", "chestnuts"]
 excerpt: The perfect "Winter" ice cream

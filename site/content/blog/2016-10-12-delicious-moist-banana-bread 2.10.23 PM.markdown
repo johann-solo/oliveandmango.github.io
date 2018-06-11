@@ -4,6 +4,7 @@ date:   2016-10-12 09:30:35 -0400
 author: Joanne
 categories: ["bread"]
 thumbnail: /img/OCT2016/banana-bread.jpg
+scaled_thumbnail: /img/OCT2016/banana-bread_0.jpg
 tags: ["bananas"]
 excerpt: Make amazing, moist and delicious banana bread every time
 ---

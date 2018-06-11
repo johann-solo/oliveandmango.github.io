@@ -3,6 +3,7 @@ title: Chocolate Mint Crinkle Cookies
 date: 2017-12-16
 author: Joanne
 thumbnail: /images/uploads/2017_12_16_chocolate_crinkle_cookies_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_16_chocolate_crinkle_cookies_0.jpg
 categories: ["desserts"]
 tags: ["chocolate", "mint", "cookies"]
 excerpt: Dark chocolate mint addictive flavour bombs

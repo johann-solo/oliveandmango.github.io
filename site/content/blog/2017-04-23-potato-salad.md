@@ -4,6 +4,7 @@ date: '2017-04-23 7:30:35 -0400'
 author: Joanne
 permalink: potato-salad
 thumbnail: /img/APR2017/potato_salad_1.jpg
+scaled_thumbnail: /img/APR2017/potato_salad_0.jpg
 categories: ["sides"]
 tags: ["salads"]
 excerpt: A lighter delicious version of a creamy potato salad

@@ -3,6 +3,7 @@ title: Golden Chai Latte
 date: 2017-12-26T08:42:49-04:00
 author: Joanne
 thumbnail: /images/uploads/2017_10_26_golden_chai_latte_1.jpg
+scaled_thumbnail: /images/uploads/2017_10_26_golden_chai_latte_0.jpg
 categories: ["drinks"]
 tags: ["chai", "latte"]
 excerpt: A spicy twist on the classic turmeric latte

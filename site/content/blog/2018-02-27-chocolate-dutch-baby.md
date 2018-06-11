@@ -3,6 +3,7 @@ title: Chocolate Dutch Baby With Homemade Strawberry And Chocolate Sauce
 date: 2018-02-27T15:42:13.000Z
 author: Joanne
 thumbnail: /images/uploads/2018_02_27_chocolate_dutch_baby_1.jpg
+scaled_thumbnail: /images/uploads/2018_02_27_chocolate_dutch_baby_0.jpg
 categories:
   - desserts
 tags:

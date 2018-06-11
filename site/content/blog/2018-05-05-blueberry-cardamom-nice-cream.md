@@ -3,6 +3,7 @@ title: Blueberry Cardamom Nice Cream
 date: 2018-05-05T14:32:51-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_05_05_blueberry_cardamom_nice_cream_1.jpg
+scaled_thumbnail: /images/uploads/2018_05_05_blueberry_cardamom_nice_cream_0.jpg
 categories: ["desserts"]
 tags: ["blueberries", "vegan"]
 excerpt: A simple 4 ingredient nice cream that makes a perfect snack

@@ -4,6 +4,7 @@ date: "2016-12-28 7:30:35 -0400"
 author: Joanne
 permalink: curry-chana
 thumbnail: /img/DEC2016/curry_chana_2.jpg
+scaled_thumbnail: /img/DEC2016/curry_chana_0.jpg
 categories: ["sides"]
 tags: ["curry"]
 excerpt: Complex flavours without the complex ingredients

@@ -3,6 +3,7 @@ title: King Fish Roasted In Butter Served With A Delicious Provençale Sauce
 date: 2017-09-08
 author: Joanne
 thumbnail: /images/uploads/2017_09_08_provencale_fish_1.jpg
+scaled_thumbnail: /images/uploads/2017_09_08_provencale_fish_0.jpg
 categories: ["mains"]
 tags: ["fish"]
 excerpt: 'Beautiful herbs, soft succulent meat and sublime flavours make this fish recipe a keeper'

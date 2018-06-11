@@ -3,6 +3,7 @@ title: Chocolate Olive Oil Cake
 date: 2017-11-10T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_11_10_chocolate_olive_oil_cake_1.jpg
+scaled_thumbnail: /images/uploads/2017_11_10_chocolate_olive_oil_cake_0.jpg
 categories:
   - desserts
 tags:

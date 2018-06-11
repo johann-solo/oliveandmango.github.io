@@ -3,6 +3,7 @@ title: Greek Yoghurt Tart With A Poached Fruit Topping
 date: 2018-06-05T13:29:49-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_1.jpg
+scaled_thumbnail: /images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_0.jpg
 categories: ["desserts"]
 tags: ["yoghurt", "tarts", "fruit"]
 excerpt: A tart that is light, delicious and perfect as a dessert but can also double as breakfast

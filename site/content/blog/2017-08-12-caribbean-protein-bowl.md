@@ -3,6 +3,7 @@ title: High Protein Caribbean Bowl
 date: 2017-08-12
 author: Joanne
 thumbnail: /images/uploads/2017_08_12_caribbean_bowl_1.jpg
+scaled_thumbnail: /images/uploads/2017_08_12_caribbean_bowl_0.jpg
 image: null
 categories: ["mains"]
 tags: ["Caribbean", "protein"]

@@ -3,6 +3,7 @@ title: Pomegranate Cake With A Orange Blossom Whip Cream Frosting
 date: 2018-01-16T21:37:54-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_01_16_pomegranate_cake_1.jpg
+scaled_thumbnail: /images/uploads/2018_01_16_pomegranate_cake_0.jpg
 categories: ["desserts"]
 tags: ["cakes", "pomegranates"]
 excerpt: A cake full of fragrant flavours and an addictive slight sharp pomegranate edge

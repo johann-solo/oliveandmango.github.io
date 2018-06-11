@@ -3,6 +3,7 @@ title: Spiced Coffee Cake with a Caramel Rum Glaze
 date: '2017-04-26 7:30:35 -0400'
 author: Joanne
 thumbnail: /img/APR2017/spiced_coffee_cake_1.jpg
+scaled_thumbnail: /img/APR2017/spiced_coffee_cake_0.jpg
 categories: ["desserts"]
 tags: ["cakes"]
 excerpt: The perfect accompaniment to any hot beverage!!

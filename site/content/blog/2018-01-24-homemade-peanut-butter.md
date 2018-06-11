@@ -3,6 +3,7 @@ title: How To Make The Creamiest Homemade Nut & Seed Butter
 date: 2018-01-24T12:00:20.000Z
 author: Joanne
 thumbnail: /images/uploads/2018_01_24_homemade_peanut_butter_1.jpg
+scaled_thumbnail: /images/uploads/2018_01_24_homemade_peanut_butter_0.jpg
 categories:
   - how to
 tags: ["spreads", "peanuts"]

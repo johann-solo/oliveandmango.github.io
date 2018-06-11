@@ -4,6 +4,7 @@ date:   2018-03-24 07:00:35 -0400
 author: Joanne
 categories: ["desserts"]
 thumbnail: /images/uploads/2018_03_24_carrot_cake_1.jpg
+scaled_thumbnail: /images/uploads/2018_03_24_carrot_cake_0.jpg
 tags: ["cakes", "carrots"]
 excerpt: What's the best thing about carrot cake? The cream cheese frosting!!
 ---

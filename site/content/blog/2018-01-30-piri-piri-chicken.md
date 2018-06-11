@@ -3,6 +3,7 @@ title: Piri Piri Chicken
 date: 2018-01-30T15:37:56-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_01_30_piri_piri_chicken_1.jpg
+scaled_thumbnail: /images/uploads/2018_01_30_piri_piri_chicken_0.jpg
 categories: ["mains"]
 tags: ["Portuguese", "chicken", "potatoes"]
 excerpt: One of best homemade piri piri recipes I have ever come across

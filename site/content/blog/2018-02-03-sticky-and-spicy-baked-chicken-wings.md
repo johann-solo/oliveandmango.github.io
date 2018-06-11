@@ -3,6 +3,7 @@ title: Sticky And Spicy Baked Chicken Wings
 date: 2018-02-03T13:20:47-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_02_03_sticky_spicy_baked_chicken_wings_1.jpg
+scaled_thumbnail: /images/uploads/2018_02_03_sticky_spicy_baked_chicken_wings_0.jpg
 categories: ["snacks"]
 tags: ["chicken", "spicy"]
 excerpt: Restaurant style wings without the deep fryer and without leaving home

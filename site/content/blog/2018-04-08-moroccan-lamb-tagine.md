@@ -3,6 +3,7 @@ title: Moroccan Lamb Tagine (Tajine)
 date: 2018-04-08T13:24:36-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_04_08_moroccan_lamb_tagine_1.jpg
+scaled_thumbnail: /images/uploads/2018_04_08_moroccan_lamb_tagine_0.jpg
 categories: ["mains"]
 tags: ["Moroccan", "lamb"]
 excerpt: Get a taste of Morocco with simple pantry ingregients

@@ -3,6 +3,7 @@ title: Watermelon Slushy Cocktails
 date: 2017-07-07T12:21:26.516Z
 author: Joanne
 thumbnail: /images/uploads/2017_07_07_watermelon_slushie_1.jpg
+scaled_thumbnail: /images/uploads/2017_07_07_watermelon_slushie_0.jpg
 image: null
 categories: ["drinks"]
 tags: ["watermelon", "cocktails"]

@@ -3,6 +3,7 @@ title: Sausage And Peas Spaghetti Alla Carbonara
 date: 2018-01-05T14:30:32-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_sausage_peas_spaghetti_carbonara_1.jpg
+scaled_thumbnail: /images/uploads/2018_sausage_peas_spaghetti_carbonara_0.jpg
 categories: ["mains"]
 tags: ["Italian"]
 excerpt: This homestyle carbonara will be a hit for date night or any other night

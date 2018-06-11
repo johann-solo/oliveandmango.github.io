@@ -3,6 +3,7 @@ title: Crispy Chocolate Tahini Cups
 date: 2018-05-17
 author: Joanne
 thumbnail: /images/uploads/2018_05_17_crispy_chocolate_tahini_cups_1.jpg
+scaled_thumbnail: /images/uploads/2018_05_17_crispy_chocolate_tahini_cups_0.jpg
 categories: ["desserts"]
 tags: ["chocolate", "vegan", "tahini"]
 excerpt: Fancy little cups of chocolate goodness

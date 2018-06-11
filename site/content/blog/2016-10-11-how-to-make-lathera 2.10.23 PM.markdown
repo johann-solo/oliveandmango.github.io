@@ -5,6 +5,7 @@ author: Joanne
 permalink: how-to-make-lathera
 categories: ["sides"]
 thumbnail: /img/OCT2016/lathera_2.jpg
+scaled_thumbnail: /img/OCT2016/lathera_0.jpg
 tags: ["Greek", "vegetarian"]
 excerpt: A classic Greek vegetarian peasant-styled dish
 ---

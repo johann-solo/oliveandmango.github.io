@@ -4,6 +4,7 @@ date: '2017-03-12 7:30:35 -0400'
 author: Joanne
 permalink: grilled-asparagus
 thumbnail: /img/MAR2017/grilled_asparagus_1.jpg
+scaled_thumbnail: /img/MAR2017/grilled_asparagus_0.jpg
 categories: ["sides"]
 tags: ["vegetarian"]
 excerpt: Spring is in the air with this simple asapargus side dish

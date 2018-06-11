@@ -3,6 +3,7 @@ title: Butter Cream Chocolate Cake
 date: 2016-09-04
 author: Joanne
 thumbnail: /images/uploads/2016_09_04_butter_cream_chocolate_cake_1.jpg
+scaled_thumbnail: /images/uploads/2016_09_04_butter_cream_chocolate_cake_0.jpg
 categories: ["desserts"]
 tags: ["cakes", "chocolate"]
 excerpt: Delicious and creamy chocolate cake

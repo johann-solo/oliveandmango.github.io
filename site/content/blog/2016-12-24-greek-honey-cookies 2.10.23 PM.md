@@ -4,6 +4,7 @@ date: "2016-12-24 7:30:35 -0400"
 author: Joanne
 permalink: greek-honey-cookies
 thumbnail: /img/DEC2016/honey_cookies_1.jpg
+scaled_thumbnail: /img/DEC2016/honey_cookies_0.jpg
 categories: ["desserts"]
 tags: ["Greek", "cookies"]
 excerpt: Greek cookies get the Trini treatment with local honey

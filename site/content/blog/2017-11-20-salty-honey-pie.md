@@ -3,6 +3,7 @@ title: Salty Honey Pie
 date: 2017-11-20
 author: Joanne
 thumbnail: /images/uploads/2017_11_20_salty_honey_pie_1.jpg
+scaled_thumbnail: /images/uploads/2017_11_20_salty_honey_pie_0.jpg
 categories: ["desserts"]
 tags: ["pies", "honey"]
 excerpt: You will be dreaming of this creamy custard pie after just one bite

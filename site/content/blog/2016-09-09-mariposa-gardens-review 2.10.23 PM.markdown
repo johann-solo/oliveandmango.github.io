@@ -5,6 +5,7 @@ author: Johann
 permalink: mariposa-gardens-review
 categories: ["travel"]
 thumbnail: /img/SEPT2016/mariposa_cafe_food_1.jpg
+scaled_thumbnail: /img/SEPT2016/mariposa_cafe_food_0.jpg
 tags: ["Trinidad", "hummingbirds"]
 excerpt: Mariposa Gardens offers a uniquely Caribbean experience. It's a food revelation, a getaway and an adventure all in one
 ---

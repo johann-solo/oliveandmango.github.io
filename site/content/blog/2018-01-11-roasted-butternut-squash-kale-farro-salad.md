@@ -3,6 +3,7 @@ title: Roasted Butternut Squash Kale And Farro Salad With A Za’atar Dressing
 date: 2018-01-11T13:59:14-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_01_11_roasted_butternut_squash_kale_farro_salad_1.jpg
+scaled_thumbnail: /images/uploads/2018_01_11_roasted_butternut_squash_kale_farro_salad_0.jpg
 categories: ["sides"]
 tags: ["salads", "farro", "kale", "butternut squash"]
 excerpt: A 'power' salad that is substantial, delicious and filling

@@ -4,6 +4,7 @@ date: "2017-01-08 7:30:35 -0400"
 author: Joanne
 permalink: garlic-maple-carrots
 thumbnail: /img/JAN2017/garlic_maple_carrots_1.jpg
+scaled_thumbnail: /img/JAN2017/garlic_maple_carrots_0.jpg
 categories: ["sides"]
 tags: ["carrots"]
 excerpt: Brown butter and maple syrup make these carrots something to die for

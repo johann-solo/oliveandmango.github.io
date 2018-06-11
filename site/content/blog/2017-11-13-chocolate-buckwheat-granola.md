@@ -3,6 +3,7 @@ title: Chocolate Buckwheat Loaded Granola
 date: 2017-11-13
 author: Joanne
 thumbnail: /images/uploads/2017_11_13_chocolate_buckwheat_granola_1.jpg
+scaled_thumbnail: /images/uploads/2017_11_13_chocolate_buckwheat_granola_0.jpg
 categories: ["breakfast"]
 tags: ["chocolate", "granola"]
 excerpt: The chocolatey pick me up you will be craving for every meal

@@ -3,6 +3,7 @@ title: Scalloped Potatoes With Leeks
 date: 2017-11-21
 author: Joanne
 thumbnail: /images/uploads/2017_11_21_scalloped_potatoes_leek_1.jpg
+scaled_thumbnail: /images/uploads/2017_11_21_scalloped_potatoes_leek_0.jpg
 categories: ["sides"]
 tags: ["potatoes", "leeks"]
 excerpt: A flavourful creamy and cheesy classic that you need on your sides menu

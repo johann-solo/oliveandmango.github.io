@@ -4,6 +4,7 @@ date: "2018-03-09 7:30:35 -0400"
 author: Joanne
 permalink: spaghetti-meatballs
 thumbnail: /images/uploads/2018_03_09_spaghetti_meatballs_1.jpg
+scaled_thumbnail: /images/uploads/2018_03_09_spaghetti_meatballs_0.jpg
 categories: ["mains"]
 tags: ["Italian", "pasta"]
 excerpt: Fork-tender meatballs in a deliciously flavourful marinara sauce

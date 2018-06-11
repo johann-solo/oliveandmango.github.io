@@ -3,6 +3,7 @@ title: Magdalena Grand Beach and Golf Resort
 date: 2018-03-31T12:51:59-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_03_31_magdalena_grand_beach_and_golf_resort_1.jpg
+scaled_thumbnail: /images/uploads/2018_03_31_magdalena_grand_beach_and_golf_resort_0.jpg
 categories: ["travel"]
 tags: ["Trinidad & Tobago"]
 excerpt: Enjoy an excellent culinary experience in serene Tobago

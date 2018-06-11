@@ -3,6 +3,7 @@ title: Spanakopizza
 date: 2018-04-27T14:07:18-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_04_27_spanakopizza_1.jpg
+scaled_thumbnail: /images/uploads/2018_04_27_spanakopizza_0.jpg
 categories: ["mains"]
 tags: ["Greek", "Italian", "pizza"]
 excerpt: This combination of Italian and Greek flavours makes for a fresh delcious pizza

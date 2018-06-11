@@ -5,6 +5,7 @@ author: Joanne
 permalink: things-to-do-in-socal
 categories: ["travel"]
 thumbnail: /img/OCT2016/santa_monica_sunset.jpg
+scaled_thumbnail: /img/OCT2016/santa_monica_sunset_0.jpg
 tags: ["California"]
 excerpt: With so much to do in Southern California, here are some of our favourites
 ---

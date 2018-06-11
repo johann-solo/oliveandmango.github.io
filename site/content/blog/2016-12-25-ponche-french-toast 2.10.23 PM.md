@@ -4,6 +4,7 @@ date: "2016-12-25 7:30:35 -0400"
 author: Joanne
 permalink: ponche-french-toast
 thumbnail: /img/DEC2016/ponche_toast_1.jpg
+scaled_thumbnail: /img/DEC2016/ponche_toast_0.jpg
 categories: ["breakfast"]
 tags: ["toast"]
 excerpt: A boozy twist to a brunch staple

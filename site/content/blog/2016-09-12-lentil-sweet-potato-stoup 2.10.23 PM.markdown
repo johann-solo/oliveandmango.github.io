@@ -5,6 +5,7 @@ author: Joanne
 permalink: lentil-sweet-potato-stoup
 categories: ["soups"]
 thumbnail: /img/SEPT2016/lentil_soup_1.jpg
+scaled_thumbnail: /img/SEPT2016/lentil_soup_0.jpg
 tags: ["lentils"]
 excerpt: Get warm and cozy with this hearty and thick soup
 ---

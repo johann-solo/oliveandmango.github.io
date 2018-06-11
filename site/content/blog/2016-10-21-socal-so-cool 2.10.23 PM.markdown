@@ -5,6 +5,7 @@ author: Joanne
 permalink: socal-so-cool
 categories: ["travel"]
 thumbnail: /img/OCT2016/santa_monica_palms.jpg
+scaled_thumbnail: /img/OCT2016/santa_monica_palms_0.jpg
 tags: ["SoCal"]
 excerpt: A local's guide to the top 5 budget-friendly things to do in LA
 ---

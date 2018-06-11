@@ -4,6 +4,7 @@ date: "2017-01-10 7:30:35 -0400"
 author: Joanne
 permalink: bake-buljol
 thumbnail: /img/JAN2017/bake_buljol_1.jpg
+scaled_thumbnail: /img/JAN2017/bake_buljol_0.jpg
 categories: ["breakfast"]
 tags: ["Caribbean", "seafood"]
 excerpt: A classic Caribbean breakfast with salt fish and coconut bread

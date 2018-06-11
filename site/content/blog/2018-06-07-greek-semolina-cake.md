@@ -3,6 +3,7 @@ title: Greek Semolina Cake (Revani)
 date: 2018-06-07T12:33:41-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_06_07_greek_semolina_cake_1.jpg
+scaled_thumbnail: /images/uploads/2018_06_07_greek_semolina_cake_0.jpg
 categories: ["desserts"]
 tags: ["Greek", "cakes"]
 excerpt: The simple sponge cake is taken to the next level with an aromatic simple syrup 

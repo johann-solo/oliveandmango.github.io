@@ -4,6 +4,7 @@ date: "2016-12-12 7:30:35 -0400"
 author: Joanne
 permalink: macaroni-stew-chicken
 thumbnail: /img/DEC2016/macaroni_stew_chicken_6.jpg
+scaled_thumbnail: /img/DEC2016/macaroni_stew_chicken_0.jpg
 categories: ["lunch"]
 tags: ["Caribbean"]
 excerpt: If you cant escape to the Caribbean, at least you can eat the food and imagine you're there

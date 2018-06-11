@@ -3,6 +3,7 @@ title: Apple Baklava Parfaits
 date: 2017-11-02T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_11_02_baklava_parfait_1.jpg
+scaled_thumbnail: /images/uploads/2017_11_02_baklava_parfait_0.jpg
 categories: ["desserts"]
 tags: ["Greek", "fusion", "apples"]
 excerpt: A delicious twist to the classic flavours of baklava without the phyllo

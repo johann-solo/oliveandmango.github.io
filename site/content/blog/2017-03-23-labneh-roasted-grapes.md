@@ -4,6 +4,7 @@ date: '2017-03-23 7:30:35 -0400'
 author: Joanne
 permalink: labneh-roasted-grapes
 thumbnail: /img/MAR2017/labneh_grapes_1.jpg
+scaled_thumbnail: /img/MAR2017/labneh_grapes_0.jpg
 categories: ["breakfast"]
 tags: ["yoghurt"]
 excerpt: Simple and addictive

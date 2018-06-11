@@ -3,6 +3,7 @@ title: Blueberry Pancakes
 date: 2016-06-04T12:28:51-04:00
 author: Joanne
 thumbnail: /images/uploads/2016_06_04_blueberry_pancakes_1.jpg
+scaled_thumbnail: /images/uploads/2016_06_04_blueberry_pancakes_0.jpg
 categories: ["breakfast"]
 tags: ["pancakes", "blueberries"]
 excerpt: Fluffy, sweet and delicious

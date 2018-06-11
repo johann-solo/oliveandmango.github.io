@@ -3,6 +3,7 @@ title: Greek Style Roasted Lamb
 date: 2018-03-25T12:59:31-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_03_25_greek_style_roasted_lamb_1.jpg
+scaled_thumbnail: /images/uploads/2018_03_25_greek_style_roasted_lamb_0.jpg
 categories: ["mains"]
 tags: ["lamb", "Greek"]
 excerpt: A Greek classic that is tender and full of flavour and a must for big family dinners 

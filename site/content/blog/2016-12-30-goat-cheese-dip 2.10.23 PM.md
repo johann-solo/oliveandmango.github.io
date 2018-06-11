@@ -4,6 +4,7 @@ date: "2016-12-28 7:30:35 -0400"
 author: Joanne
 permalink: goat-cheese-dip
 thumbnail: /img/DEC2016/goat_cheese_dip_1.jpg
+scaled_thumbnail: /img/DEC2016/goat_cheese_dip_0.jpg
 categories: ["snacks"]
 tags: ["dips"]
 excerpt: The perfect easy to make party appetiser

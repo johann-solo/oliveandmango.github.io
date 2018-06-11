@@ -5,6 +5,7 @@ author: Joanne
 permalink: stress-free-vacation-planning
 categories: ["travel"]
 thumbnail: /img/SEPT2016/greece_beach.jpg
+scaled_thumbnail: /img/SEPT2016/greece_beach_0.jpg
 tags: ["How-to's"]
 excerpt: Vacation shouldn't be stressful. These simple tips will help you to get the most out of yours
 ---

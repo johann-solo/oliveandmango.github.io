@@ -3,6 +3,7 @@ title: Chocolate Ginger Bars
 date: 2017-12-23T20:03:29-04:00
 author: Joanne
 thumbnail: /images/uploads/2017_12_23_chocolate_ginger_bars_1.jpg
+scaled_thumbnail: /images/uploads/2017_12_23_chocolate_ginger_bars_0.jpg
 categories: ["desserts"]
 tags: ["chocolate", "ginger"]
 excerpt: Chocolate ginger bars with a fudgey icing and sprinkled with some homeade crystallized ginger

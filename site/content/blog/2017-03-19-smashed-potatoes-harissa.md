@@ -4,6 +4,7 @@ date: '2017-03-19 7:30:35 -0400'
 author: Joanne
 permalink: smashed-potatoes-harissa
 thumbnail: /img/MAR2017/smashed_potatoes_harissa_1.jpg
+scaled_thumbnail: /img/MAR2017/smashed_potatoes_harissa_0.jpg
 categories: ["sides"]
 tags: ["potatoes"]
 excerpt: Turn 'boring potatoes' into something bright, quick and delicious
