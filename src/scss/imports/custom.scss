@@ -1,6 +1,7 @@
 $accent-color: #e74c3c;
 $tablet-width: 769px;
 $desktop-width: 1025px;
+$widepanel-width: 1800px;
 
 @mixin main__text ($color, $font-size) {
     color: $color;
@@ -545,13 +546,18 @@ caption {
 .sidebar {
   text-align: center;
   padding: 30px 15px 30px;
-  @media screen and (min-width: $desktop-width) {
-    font-size: 0.9em;
-  }
   @media screen and (min-width: $tablet-width) {
     padding: 0 90px 0 0px;
-    max-width: 20%;
+    flex: 1 0 250px;
     font-size: 0.8em;
+  }
+   @media screen and (min-width: $widepanel-width) {
+    flex: 1 0 400px;
+    font-size: 1em;
+  }
+   @media screen and (min-width: $desktop-width) {
+    flex: 1 0 300px;
+    font-size: 0.9em;
   }
 }
 
