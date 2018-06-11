@@ -44,7 +44,7 @@ Lets talk a little about the stuffing. I will mainly use mined beef but you can 
 <br>
 <br>
 
-I usually use arborio rice but really any rice or grain can be used.  For this recipe I used quinoa just because I wanted to switch it up and get a little more protein in. I cooked a cup of quinoa separately and added it to the meat after.  That's isolated to the quinoa otherwise with any kind of rice I usually wash it and add it to the sauce as its simmering and it gets 1/2 or 3/4 way cooked and then cooks down the rest of the way in the oven in the peppers for simplicity. I'm sure you could do that with the quinoa too but I just did it separately this time.  
+I usually use arborio rice but really any rice or grain can be used.  For this recipe I used quinoa just because I wanted to switch it up and get a little more protein in. I cooked a cup of quinoa separately and added it to the meat after.  That's isolated to the quinoa otherwise with any kind of rice I usually wash it and add it to the sauce as its simmering and it gets &frac12; or 3/4 way cooked and then cooks down the rest of the way in the oven in the peppers for simplicity. I'm sure you could do that with the quinoa too but I just did it separately this time.  
 <br>
 
 The variety is endless for vegan and vegetarian options, but I really like using green peas.  I make the sauce like I would make [Lathera](http://oliveandmango.com/lathera). Which is basically stewing them in a lot of EVOO oil, chopped tomato and the same herbs and add then for stuffing you just  add your grain into that sauce instead of the meat sauce.  That would literally be combining two of my favourite recipes!!!!!! Lathera and stuffed peppers!! Yum!!
@@ -66,4 +66,49 @@ This recipe is very flexible with what you can do.  Perhaps you hate mint and di
 I love to serve this up with a beautiful [horiatiki salad](http://oliveandmango.com/village-salad), or a [maroulosalata](http://oliveandmango.com/maroulosalata) and some hearty crusty bread to sop up the salad juices and the sauce from the cooked down stuffed peppers. Hope you enjoy this as much as me and please tell me what you thought of them!
 <br><br>
 
-For the full yemista recipe follow this [link](http://oliveandmango.com/yemsita).
+### Ingredients
+* 8 small to medium size peppers washed well and tops cut off ready to stuff(clean away seeds)
+* 1 cup cooked quinoa
+* 1 lb of ground beef/turkey or your choice of meet
+* Small Bunch of parsley chopped
+* A few springs of Mint chopped
+* Small bunch dill chopped
+* 4 cloves of garlic minced
+* 1 large onion chopped
+* 1 carrot chopped
+* 2 celery chopped
+* Lots of salt and pepper to season
+* 1 heaping tablespoon of tomato paste
+* 1 can of crushed tomatoes
+* &frac12; to 1 cup water or broth
+* A good glug of EVOO for sautéing the vegetables
+* Another good glug for over the peppers when they are stuffed and ready to go into the oven
+
+
+### Directions
+1. Cook your quinoa. It's a 1:2 ratio like rice, so for this recipe it's &frac12; cup of quinoa to 1 cup of water to make approximately 1 cup of cooked quinoa. Not the end of the world if you have a little less or a little more.
+
+2. While the quinoa is being cooked heat a tablespoon or two of EVOO and sauté onion and all vegetables for a few min
+
+3. Add your garlic and herbs and season generously with S&P
+
+4. Add your meat, or if you prefer brown your meat first in a separate pan and then add it  (I add it to the vegetables and brown it with them because I find it gets more flavor that way but either way is fine) and season with S&P to taste
+
+5. Reserve &frac14; cup of diced tomatoes and then add remaining  diced tomatoes or crushed and your heaping tablespoon of tomato  paste and your broth or water to the pan (add more if sauce is too thick and still needed) stir well, check and season with S&P to taste and let simmer on medium low for 5-10 min until it's a little thicker
+
+6. Meanwhile clean and cut the tops off the peppers and de-seed them.
+
+7. Prepare your pan or casserole dish. Pour the reserved sauce on the bottom of pan and then place the peppers into pan open side up so that they are ready to stuff
+
+8. Stir in the quinoa to meat mixture when it's ready, take of heat( you basically want it a little wet but not too runny so let the quinoa absorbs a little of the liquid and allow almost all of the liquid to simmer off)
+
+9. Stuff all the peppers. In fact overstuff them because even if they are overfilled it will just add to the sauce at the bottom of pan ( if you have extra stuffing it makes a great lunch bowl so don't stress if you have any left over)
+
+10. Put the tops on the peppers
+
+11. Drizzle with a little EVOO and sprinkle some salt over them too
+
+12. Cover with lid or foil and cook for approximately 45min to an hour depending on size of peppers. Check occasionally after 30 min.  Once they are soft and withered and you can cut through them easily (do knife poke test) then take the lid/foil off and cook for another 10 min to brown the tops or if you prefer broil for a few min but really keep an eye on them when broiling so they don't burn.
+
+13. Remove from oven, let cool for a few min and serve drizzled with some of the wonderful sauce at the bottom of the pan
+
