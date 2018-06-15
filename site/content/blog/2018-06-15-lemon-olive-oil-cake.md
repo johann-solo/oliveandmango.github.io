@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2018_06_15_lemon_olive_oil_cake_1.jpg
 scaled_thumbnail: /images/uploads/2018_06_15_lemon_olive_oil_cake_0.jpg
 categories: ["desserts"]
 tags: ["cakes", "lemon"]
-excerpt: Do you want a fabulously tart and lemony loaf in your recipe collection?
+excerpt: Get ready to make the perfect lemon loaf
 ---
 
 Do you want a fabulously tart and lemony loaf in your recipe collection? This is definitely the one! It has a wonderful fluffy crumb texture, a very lemony zing from the syrup and the glaze plus the cake itself. It’s moist from the syrup and has a wonderful richness from the olive oil. I’m telling you - you do not need to look any further for a perfect lemon olive oil loaf!
