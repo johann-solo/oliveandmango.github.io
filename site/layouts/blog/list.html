@@ -55,7 +55,7 @@
     <h3 class="cat_heading">Snacks</h3>
     <ul class="related_taxonomy">
       {{ range first 4 .Site.Taxonomies.categories.snacks }}
-        <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
+        <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.scaled_thumbnail }}" alt="">{{ .Page.Title }}</a></li>
       {{ end }}
     </ul>
     <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/snacks"><div class="btn__main--recipe btn">Show more</div></a></span>
@@ -64,7 +64,7 @@
     <h3 class="cat_heading">Drinks</h3>
     <ul class="related_taxonomy">
       {{ range first 4 .Site.Taxonomies.categories.drinks }}
-        <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
+        <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.scaled_thumbnail }}" alt="">{{ .Page.Title }}</a></li>
       {{ end }}
     </ul>
     <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/drinks"><div class="btn__main--recipe btn">Show more</div></a></span>
