@@ -1,11 +1,11 @@
 ---
-title: Lemon Pan-Seared Halibut With Avocado Risotto
+title: Pan-Seared Halibut With Avocado Risotto
 date: 2018-06-18T14:51:08-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_06_18_lemon_pan_seared_halibut_with_avocado_risotto_1.jpg
 scaled_thumbnail: /images/uploads/2018_06_18_lemon_pan_seared_halibut_with_avocado_risotto_0.jpg
 categories: ["mains"]
-tags: ["Seafood", "halibut", "avocado", "lemon"]
+tags: ["Seafood", "halibut", "avocado"]
 excerpt: Perfectly cooked halibut over a creamy bed of green risotto
 ---
 
