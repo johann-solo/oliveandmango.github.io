@@ -47,11 +47,11 @@ It’s a well balanced delicious meal that I served up with some steamed buttery
 If you are not a fish fan still make the risotto. You will love it and will wonder why you never thought to add avocado to your risotto before. I can’t wait to explore the rest of the seafood recipes in the book and the rest of the recipes in general. One day I may get to the actual scenic hotel and restaurant myself and enjoy freshly caught and cooked seafood and dine with the beautiful view of the pacific. One can dream.
 </br>
 </br>
- 
+
 ### Ingredients
 _Serves 4_
- 
-__For the risotto __
+
+__For the risotto__
 
 * 4 cups (1 L) chicken stock
 * 2 Tbsp (30 mL) olive oil
@@ -62,14 +62,15 @@ __For the risotto __
 * 2 Tbsp (30 g) butter
 * ¼ cup (25 g) grated Parmesan cheese, or to taste
 * 1 Tbsp (3 g) chopped chives Salt and cracked black pepper
-  
+
 __For the halibut__
 
 * 1 Tbsp (15 mL) olive oil, plus additional for garnish
 * 4 fillets fresh halibut, 5 oz (140 g) each
-Salt and cracked black pepper
- 
- ### Directions
+* Salt and cracked black pepper
+
+
+### Directions
 
 1. Preheat the oven to 350°F (180°C).
 
