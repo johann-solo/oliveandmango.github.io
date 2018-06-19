@@ -91,4 +91,5 @@ Excerpted from The Wickaninnish Cookbook: Rustic Elegance on Nature’s Edge by 
 </br>
 
 </br>
-!\[Lemon Pan-Seared Halibut With Avocado Risotto](/images/uploads/2018_06_18_lemon_pan_seared_halibut_with_avocado_risotto_7.jpg)
+
+![Lemon Pan-Seared Halibut With Avocado Risotto](/images/uploads/2018_06_18_lemon_pan_seared_halibut_with_avocado_risotto_7.jpg)
