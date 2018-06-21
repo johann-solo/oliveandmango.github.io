@@ -29,7 +29,7 @@ I came home and was ready to make something yummy out of them. Roasted was the w
 </br>
 </br>
 
-Why mascarpone over whip cream or ice cream? These would be awesome with either of those options but I am a huge fan of mascarpone. Whip is great but I thought it was a little too light for this dessert. Ice cream is also great but super sweet, and the sweetness of the peaches almost gets lost, and of course it melts instantly next to the warm peaches. Here’s where the mascarpone wins. It’s basically very thick whipping cream — although I’m sure it’s more complex than that, but to me that’s what it tastes like. I love it and can literally eat it from the tub. (Check out my go-to homemade recipe for mascarpone) I didn’t sweeten it with anything so it didn’t take away from the peaches but added a beautiful creaminess to the desert and was a delicious match. The toasted pecans added a nice crunch and the cinnamon just enhances the sweetness of the peaches!
+Why mascarpone over whip cream or ice cream? These would be awesome with either of those options but I am a huge fan of mascarpone. Whip is great but I thought it was a little too light for this dessert. Ice cream is also great but super sweet, and the sweetness of the peaches almost gets lost, and of course it melts instantly next to the warm peaches. Here’s where the mascarpone wins. It’s basically very thick whipping cream — although I’m sure it’s more complex than that, but to me that’s what it tastes like. I love it and can literally eat it from the tub. (Check out [my go-to homemade recipe for mascarpone](https://www.oliveandmango.com/strawberry-tiramisu-eggless/)) I didn’t sweeten it with anything so it didn’t take away from the peaches but added a beautiful creaminess to the desert and was a delicious match. The toasted pecans added a nice crunch and the cinnamon just enhances the sweetness of the peaches!
 </br>
 </br>
 ![Grilled Peaches With Vanilla Maple Mascarpone](/images/uploads/2018_06_20_grilled_peaches_with_vanilla_maple_mascarpone_6.jpg)
@@ -47,9 +47,6 @@ I think this would be a great anytime dessert but would look kind of special ser
 </br>
 
 __UPDATE__: So yes that was me last year while still living in Trinidad coveting everyone’s beautiful peaches on instagram. This year living in Canada again nothing has changed. I’m still dreaming of Ontario peaches that aren’t quite ready for the picking yet. They are just the best!! I’m still very much appreciating the imported ones from out neighbor country (USA) and had to reshoot these for the blog. I decided to grill mine so that you have a grilled version along with a roasted oven version Both are so delicious and both versions utilize the same flavours. I know you will love both. The roasted one creates the loveliest syrup to drizzle over the peaches and cream and in the grilled one the flavours of the peach stand alone and are a little smoky from the grill and the mascarpone is what gives the maple vanilla flavour to the dish. You can’t go wrong with either method! Enjoy!
-</br>
-</br>
-![Grilled Peaches With Vanilla Maple Mascarpone](/images/uploads/2018_06_20_grilled_peaches_with_vanilla_maple_mascarpone_8.jpg)
 </br>
 </br>
 
