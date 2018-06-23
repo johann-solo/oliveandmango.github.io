@@ -1,15 +1,20 @@
 ---
 title: Brown Butter Earl Grey Chocolate Chip Cookie Bars
-date: 2018-06-22T14:40:29-04:00
+date: 2018-06-22T18:40:29.000Z
 author: Joanne
-thumbnail: /images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_1.jpg
-scaled_thumbnail: /images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_0.jpg
-categories: ["desserts"]
-tags: ["chocolate chips", "bars", "cookies"]
-excerpt: Chewy centers, crackly top, and crispy edges with a subtle earthy sweet hint of bergamot
+thumbnail: >-
+  /images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_1.jpg
+categories:
+  - desserts
+tags:
+  - chocolate chips
+  - bars
+  - cookies
+excerpt: >-
+  Chewy centers, crackly top, and crispy edges with a subtle earthy sweet hint
+  of bergamot
 ---
-
-I had been seeing a lot of tea infused baked goods on instagram lately and I really wanted to have a go at it. t the same time I also wanted to make some blondies or chocolate chip cookie bars and I thought those would be great infused with some tea. Cookies and tea are just perfect together so why not in this scenario too right?
+I had been seeing a lot of tea infused baked goods on instagram lately and I really wanted to have a go at it. At the same time I also wanted to make some blondies or chocolate chip cookie bars and I thought those would be great infused with some tea. Cookies and tea are just perfect together so why not in this scenario too right?
 </br>
 </br>
 ![Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_2.jpg)
@@ -73,23 +78,22 @@ Chewy centers, crackly top, crispy edges basically the perfect weekend simple ba
 * &frac12; teaspoon fine salt
 * 1&frac12; cups dark or semi sweet chocolate chips plus &frac14; cup more to toss on before baking
 
-
 ### Directions
 
 1. In a small saucepan over medium-low to medium heat, melt the butter. Leave it alone at first, then when the milk solids rise to the top (it will look foamy) begin to gently stir. 
-1. Remove from heat when the butter begins to smell nutty and the bits on the bottom are a light amber. Continue to stir and scrape the bottom of the pan until the butter is to your liking. 
-1. Pour into a glass jar or liquid measuring cup and drop in the tea bag. Let it steep for 10 to 15 minutes, then discard the bag, squeezing out any butter it has soaked up.
-1. Preheat oven to 350°F and line a 9x13-inch metal, glass, or ceramic baking dish with parchment paper, leaving a 2-inch overhang on two opposite sides to easily remove the cookie bars after they are baked.
-1. Lightly grease the pan and parchment with cooking spray or butter.
-1. Place the earl grey infused brown butter, granulated sugar, and brown sugar in a large bowl and use a wooden spoon or mixer to stir/mix until well-combined (the mixture will not be smooth), about 30 seconds.
-1. Mix in the eggs, and vanilla until completely combined.
-1. Add the flour, baking powder, and salt, and mix until just combined.
-1. Fold in chocolate chips and then spread the batter into the prepared pan, using a spatula or your hands to press it into an even layer. Sprinkle on the extra chocolate chips if using.
-1. Bake until a tester inserted in the center comes out with just a few crumbs, 20 to 25 minutes in a metal pan or up to 30 minutes in a glass or ceramic pan.
-1. The edges should look firm and well-baked; the center should be moist but not gooey. 
-2. Cool completely in the pan on a wire rack. 
-3. Remove grasping the excess parchment and lift the cookie slab out of the pan and onto a cutting board. 
-4. Cut into whatever shape or size you would like.
+2. Remove from heat when the butter begins to smell nutty and the bits on the bottom are a light amber. Continue to stir and scrape the bottom of the pan until the butter is to your liking. 
+3. Pour into a glass jar or liquid measuring cup and drop in the tea bag. Let it steep for 10 to 15 minutes, then discard the bag, squeezing out any butter it has soaked up.
+4. Preheat oven to 350°F and line a 9x13-inch metal, glass, or ceramic baking dish with parchment paper, leaving a 2-inch overhang on two opposite sides to easily remove the cookie bars after they are baked.
+5. Lightly grease the pan and parchment with cooking spray or butter.
+6. Place the earl grey infused brown butter, granulated sugar, and brown sugar in a large bowl and use a wooden spoon or mixer to stir/mix until well-combined (the mixture will not be smooth), about 30 seconds.
+7. Mix in the eggs, and vanilla until completely combined.
+8. Add the flour, baking powder, and salt, and mix until just combined.
+9. Fold in chocolate chips and then spread the batter into the prepared pan, using a spatula or your hands to press it into an even layer. Sprinkle on the extra chocolate chips if using.
+10. Bake until a tester inserted in the center comes out with just a few crumbs, 20 to 25 minutes in a metal pan or up to 30 minutes in a glass or ceramic pan.
+11. The edges should look firm and well-baked; the center should be moist but not gooey. 
+12. Cool completely in the pan on a wire rack. 
+13. Remove grasping the excess parchment and lift the cookie slab out of the pan and onto a cutting board. 
+14. Cut into whatever shape or size you would like.
 
 </br>
-![Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_12.jpg)
+!\[Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_12.jpg)
