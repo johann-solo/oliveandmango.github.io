@@ -2,18 +2,17 @@
 title: Brown Butter Earl Grey Chocolate Chip Cookie Bars
 date: 2018-06-22T18:40:29.000Z
 author: Joanne
-thumbnail: >-
-  /images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_1.jpg
+thumbnail: /images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_1.jpg
 categories:
   - desserts
 tags:
   - chocolate chips
   - bars
   - cookies
-excerpt: >-
-  Chewy centers, crackly top, and crispy edges with a subtle earthy sweet hint
+excerpt: Chewy centers, crackly top, and crispy edges with a subtle earthy sweet hint
   of bergamot
 ---
+
 I had been seeing a lot of tea infused baked goods on instagram lately and I really wanted to have a go at it. At the same time I also wanted to make some blondies or chocolate chip cookie bars and I thought those would be great infused with some tea. Cookies and tea are just perfect together so why not in this scenario too right?
 </br>
 </br>
@@ -96,4 +95,4 @@ Chewy centers, crackly top, crispy edges basically the perfect weekend simple ba
 14. Cut into whatever shape or size you would like.
 
 </br>
-!\[Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_12.jpg)
+![Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_12.jpg)
