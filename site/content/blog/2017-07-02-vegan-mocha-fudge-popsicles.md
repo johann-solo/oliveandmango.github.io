@@ -3,10 +3,10 @@ title: Vegan mocha fudge popsicles
 date: 2017-07-02T17:41:47.081Z
 author: Joanne
 thumbnail: /images/uploads/2017_07_02_vegan_mocha_popsicles_1.jpg
-scaled_thumbnail: /images/uploads/2017_07_02_vegan_mocha_popsicles_0.jpg
-image: JUL2017/vegan_mocha_popsicles_1.jpg
+scaled_thumbnail: /img/JUL2017/vegan_mocha_popsicles_0.jpg
+image: /img/JUL2017/vegan_mocha_popsicles_1.jpg
 categories: ["desserts"]
-tags: ["mocha", "fudge"]
+tags: ["mocha", "fudge", "popsicles"]
 excerpt: Put a spring in your step with these sweet and light popsicles that are sure
   to keep you cool on those hot days
 ---

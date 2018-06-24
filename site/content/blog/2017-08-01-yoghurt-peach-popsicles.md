@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2017_08_01_yoghurt_popsicles_1.jpg
 scaled_thumbnail: /images/uploads/2017_08_01_yoghurt_popsicles_0.jpg
 image: null
 categories: ["desserts"]
-tags: ["yoghurt"]
+tags: ["yoghurt", "popsicles"]
 excerpt: ​Best way to eat popsicles for breakfast &mdash; a perfect hot weather treat with only the good stuff in it!
 ---
 ​
