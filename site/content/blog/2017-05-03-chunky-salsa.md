@@ -3,8 +3,8 @@ title: Keep-ya-coming back chunky tomato salsa
 date: '2017-05-03 7:30:35 -0400'
 author: Joanne
 thumbnail: /images/uploads/chunky_salsa_2.jpg
-scaled_thumbnail: /images/uploads/chunky_salsa_0.jpg
-image: MAY2017/chunky_salsa_1.jpg
+scaled_thumbnail: /img/MAY2017/chunky_salsa_0.jpg
+image: /img/MAY2017/chunky_salsa_1.jpg
 categories: ["snacks"]
 tags: ["Latin"]
 excerpt: A salsa that truly lives up to it's name

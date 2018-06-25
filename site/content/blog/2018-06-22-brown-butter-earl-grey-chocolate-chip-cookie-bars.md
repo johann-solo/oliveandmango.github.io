@@ -3,6 +3,7 @@ title: Brown Butter Earl Grey Chocolate Chip Cookie Bars
 date: 2018-06-22T18:40:29.000Z
 author: Joanne
 thumbnail: /images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_1.jpg
+scaled_thumbnail: /images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_0.jpg
 categories:
   - desserts
 tags:
