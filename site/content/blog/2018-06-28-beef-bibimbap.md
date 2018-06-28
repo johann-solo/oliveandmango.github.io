@@ -44,16 +44,16 @@ There are other sauces that you can add and also fermented cabbage or as it’s 
 </br>
 </br>
 
-Believe it or not my first Korean food experience was not beef bulgogi or bibimbap but Korean spicy beef soup. They served it scalding hot and with an egg on the side. A raw one that you crack open or they crack open for you upon serving. The broth is so hot it cooks the egg. It was a fabulous experience. The broth is spicy and very complex and funky cause there are so many flavours that go into it. Although I loved the soup what kept me going back was the bibimbap and bulgogi and I usually got a small soup or broth on the side With some simple prep I knew it could be made at home so here is the recipe for this healthy and delicious meal so you can make it and enjoy it from your own home as well.
+Believe it or not my first Korean food experience was not beef bulgogi or bibimbap but Korean spicy beef soup. They served it scalding hot and with an egg on the side. A raw one that you crack open or they crack open for you upon serving. The broth is so hot it cooks the egg. It was a fabulous experience. The broth is spicy and very complex and funky cause there are so many flavours that go into it. Although I loved the soup what kept me going back was the bibimbap and bulgogi and I usually got a small soup or broth on the side with some simple prep I knew it could be made at home so here is the recipe for this healthy and delicious meal so you can make it and enjoy it from your own home as well.
 </br>
 </br>
 ![Beef Bibimbap](/images/uploads/2018_06_28_beef_bibimbap_7.jpg)
 </br>
 </br> 
 
-### Ingredients
+### Ingredients &amp; Directions
 
-* Steamed white rice cooked according to package (I used Jasmin)
+* 2 cups white rice cooked according to package (I used Jasmin)
 * Beef Bulgogi – see recipe below
 * 1 medium zucchini’s julienned, Lay it out flat on a plate, and generously sprinkle it with salt. Let it sit for about 10–15 minutes and then squeeze out excess liquid and sauté in a little sesame oil and salt
 * 1 carrot, julienned, sauteed in peanut oil and seasoned with salt and set aside
@@ -66,14 +66,14 @@ Believe it or not my first Korean food experience was not beef bulgogi or bibimb
 * Soy sauce, to taste
 * Gochuchang Paste, recipe below
 
-### Directions
+### Assembly
 
 1. Put cooked rice in large slightly shallow bowl. 
 2. Place bulgogi (with juices from cooked meat) and veggies on top of rice but place separately so you can see each ingredient beautifully placed on rice. 
 3. Put egg on top. 
 4. Sprinkle with sesame seeds and drizzle with sesame oil and soy sauce and also a dollop of gochujang.
 
-
+</br>
 ## Beef Bulgogi
 
 ### Ingredients
