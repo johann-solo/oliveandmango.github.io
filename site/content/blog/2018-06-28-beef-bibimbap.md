@@ -52,13 +52,14 @@ Believe it or not my first Korean food experience was not beef bulgogi or bibimb
 </br> 
 
 ### Ingredients &amp; Directions
+(Serves 4)
 
 * 2 cups white rice cooked according to package (I used Jasmin)
 * Beef Bulgogi – see recipe below
 * 1 medium zucchini’s julienned, Lay it out flat on a plate, and generously sprinkle it with salt. Let it sit for about 10–15 minutes and then squeeze out excess liquid and sauté in a little sesame oil and salt
 * 1 carrot, julienned, sauteed in peanut oil and seasoned with salt and set aside
 * Cooked bean sprouts, sauteed in a little sesame oil or peanut oil and seasoned with salt and set aside
-* 1 cup spinach, sauteed in a little sesame or peanut oil and seasoned with salt (if using frozen:Bring a pot of water to a boil. Add the spinach and cook for only about half a minute. Strain, run under cold water, and squeeze out all of the excess water - before sautéing)
+* 1 cup spinach, sauteed in a little sesame or peanut oil and seasoned with salt (if using frozen:Bring a pot of water to a boil. Add the spinach and cook for only about half a minute. Strain, run under cold water, and squeeze out all of the excess water – before sautéing)
 * 4 shiitake mushrooms, thinly sliced and sauteed in peanut oil and seasoned with salt and set aside
 * 1 egg per serving, cooked over easy (optional)
 * 1 tablespoon sesame seeds
@@ -72,6 +73,7 @@ Believe it or not my first Korean food experience was not beef bulgogi or bibimb
 2. Place bulgogi (with juices from cooked meat) and veggies on top of rice but place separately so you can see each ingredient beautifully placed on rice. 
 3. Put egg on top. 
 4. Sprinkle with sesame seeds and drizzle with sesame oil and soy sauce and also a dollop of gochujang.
+5. When ready to eat, mix all ingredients together with some gochuchang sauce and enjoy. The bibimpap should be moist and not dry. Add more sesame oil and gochuchang sauce to taste.
 
 </br>
 ## Beef Bulgogi
