@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2018_06_29_double_chocolate_tahini_skillet_cookie_1.j
 scaled_thumbnail: /images/uploads/2018_06_29_double_chocolate_tahini_skillet_cookie_0.jpg
 categories: ["desserts"]
 tags: ["chocolate", "tahini", "cookies"]
-excerpt: 
+excerpt: Crispy edges, chewy centre with a tahini twist
 ---
 
 Skillet cookies are so fun to eat. It’s like eating a giant chewy cookie! This is a great little twist to a chocolate one. The addition of the tahini gives this giant cookie a richness and a bit of savoury flavour that we loved.
@@ -16,7 +16,7 @@ Skillet cookies are so fun to eat. It’s like eating a giant chewy cookie! This
 </br>
 </br>
 
-I originally saw this tahini skillet cookie recipe on the Fine Cooking site and had bookmarked it to try it eventually. I came across it when I was cleaning the my pantry shelf and discovered a huge unopened jar of tahini that I had forgotten about. I wanted to make something other than hummus with it and so I was looking for inspiration and I definitely found it in a few recipes, this one being one of them.
+I originally saw this tahini skillet cookie recipe on the _Fine Cooking_ site and had bookmarked it to try it eventually. I came across it when I was cleaning the my pantry shelf and discovered a huge unopened jar of tahini that I had forgotten about. I wanted to make something other than hummus with it and so I was looking for inspiration and I definitely found it in a few recipes, this one being one of them.
 </br>
 </br>
 ![Double Chocolate Tahini Skillet Cookie](/images/uploads/2018_06_29_double_chocolate_tahini_skillet_cookie_3.jpg)
@@ -26,13 +26,16 @@ I originally saw this tahini skillet cookie recipe on the Fine Cooking site and 
 </br>
 </br>
 
-Im glad I saved it because this was such a great recipe! It’s very simple to put together and it looks great with the tahini swirls in it too, and who doesn’t love chocolate! It doesn’t take a lot of time to bake up and is also perfect with ice cream!!
+I'm glad I saved it because this was such a great recipe! It’s very simple to put together and it looks great with the tahini swirls in it too, and who doesn’t love chocolate! It doesn’t take a lot of time to bake up and is also perfect with ice cream!!
 </br>
 </br>
 ![Double Chocolate Tahini Skillet Cookie](/images/uploads/2018_06_29_double_chocolate_tahini_skillet_cookie_5.jpg)
 </br>
 </br>
 ![Double Chocolate Tahini Skillet Cookie](/images/uploads/2018_06_29_double_chocolate_tahini_skillet_cookie_6.jpg)
+</br>
+</br>
+![Double Chocolate Tahini Skillet Cookie](/images/uploads/2018_06_29_double_chocolate_tahini_skillet_cookie_7.jpg)
 </br>
 </br>
 
