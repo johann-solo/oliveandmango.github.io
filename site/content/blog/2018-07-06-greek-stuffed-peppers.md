@@ -3,6 +3,7 @@ title: Greek Stuffed Peppers (Yemista)
 date: 2018-07-05T22:34:33.000Z
 author: Joanne
 thumbnail: /images/uploads/2018_07_06_greek_stuffed_peppers_1.jpg
+scaled_thumbnail: /images/uploads/2018_07_06_greek_stuffed_peppers_0.jpg
 categories:
   - mains
 tags:
@@ -22,7 +23,7 @@ Naturally a favourite classic I grew up on was roasted red peppers and my mom's 
 </br>
 </br>
 
-I think the slight bitter taste of the green peppers was what turned me off, but I did get over that cause I love all things bitter now and just adore related red peppers in any colour. Naturally the red ones are a little sweeter but I like variety when I’m making these. Looks pretty and gives a variety in flavour too.  
+I think the slight bitter taste of the green peppers was what turned me off, but I did get over that cause I love all things bitter now and just adore related red peppers in any colour. Naturally the red ones are a little sweeter but I like variety when I’m making these. Looks pretty and gives a variety in flavour too.
 </br>
 </br>
 ![Greek Stuffed Peppers](/images/uploads/2018_07_06_greek_stuffed_peppers_3.jpg)
@@ -63,14 +64,14 @@ Lets talk a little about the stuffing. I will mainly use mined beef but you can 
 </br>
 </br>
 
-I usually use arborio rice but really any rice or grain can be used. i have even made them with quinoa just to switch things up and get a little more protein in. I feel I am using quinoa I use a cooked cup of quinoa and add it to the meat after.  That's isolated to the quinoa otherwise with any other kind of rice I usually wash it and add it to the sauce as its simmering and it gets &frac12; or 3/4 way cooked and then cooks down the rest of the way in the oven in the peppers for simplicity. I'm sure you could do that with the quinoa too but I just usually precook it separately.
+I usually use arborio rice but really any rice or grain can be used. i have even made them with quinoa just to switch things up and get a little more protein in. I feel I am using quinoa I use a cooked cup of quinoa and add it to the meat after.  That's isolated to the quinoa otherwise with any other kind of rice I usually wash it and add it to the sauce as its simmering and it gets &frac12; or &frac34; way cooked and then cooks down the rest of the way in the oven in the peppers for simplicity. I'm sure you could do that with the quinoa too but I just usually precook it separately.
 </br>
 </br>
 ![Greek Stuffed Peppers](/images/uploads/2018_07_06_greek_stuffed_peppers_8.jpg)
 </br>
 </br>
 
-The variety is endless for vegan and vegetarian options, but I really like using green peas.  I make the sauce like I would make [Lathera](http://oliveandmango.com/lathera). Which is basically stewing them in a lot of EVOO oil, chopped tomato and the same herbs and add then for stuffing you just add your grain into that sauce instead of the meat sauce.  That would literally be combining two of my favourite recipes-Lathera and stuffed peppers! A totally fabulous vegan option. 
+The variety is endless for vegan and vegetarian options, but I really like using green peas.  I make the sauce like I would make [Lathera](https://www.oliveandmango.com/lathera---make-green-peas-exciting/). Which is basically stewing them in a lot of EVOO oil, chopped tomato and the same herbs and add then for stuffing you just add your grain into that sauce instead of the meat sauce.  That would literally be combining two of my favourite recipes-Lathera and stuffed peppers! A totally fabulous vegan option. 
 </br>
 </br>
 ![Greek Stuffed Peppers](/images/uploads/2018_07_06_greek_stuffed_peppers_9.jpg)
@@ -84,7 +85,7 @@ Many other recipes add feta or other hard Greek cheeses or even Parmesan cheese 
 </br>
 </br>
 
-As for the herbs in the recipe well you can't mess with the trifecta of dill, mint and parsley.  I go heavy with the Oregano in my horiatiki salad and don't usually add it to the mix but it definitely would be fine to add in as well if you’re  a fan. I just like the flavour the other herbs produce on their own without the oregano.
+As for the herbs in the recipe well you can't mess with the trifecta of dill, mint and parsley.  I go heavy with the oregano in my horiatiki salad and don't usually add it to the mix but it definitely would be fine to add in as well if you’re  a fan. I just like the flavour the other herbs produce on their own without the oregano.
 </br>
 </br>
 ![Greek Stuffed Peppers](/images/uploads/2018_07_06_greek_stuffed_peppers_11.jpg)
@@ -98,7 +99,7 @@ This recipe is very versatile. Perhaps you hate mint and dill, then feel free to
 </br>
 </br>
 
-I love to serve this up with a beautiful [horiatiki salad](http://oliveandmango.com/village-salad), or a [maroulosalata](http://oliveandmango.com/maroulosalata) and some hearty crusty bread to sop up the salad juices and the sauce from the cooked down stuffed peppers. Hope you enjoy this as much as me and please tell me what you thought of them!
+I love to serve this up with a beautiful _horiatiki salad_, or a _maroulosalata_ and some hearty crusty bread to sop up the salad juices and the sauce from the cooked down stuffed peppers. Hope you enjoy this as much as me and please tell me what you thought of them!
 </br>
 </br>
 ![Greek Stuffed Peppers](/images/uploads/2018_07_06_greek_stuffed_peppers_13.jpg)
@@ -106,7 +107,7 @@ I love to serve this up with a beautiful [horiatiki salad](http://oliveandmango.
 </br>
 
 ### Ingredients
-* 8 small to medium size peppers washed well and tops cut off ready to stuff(clean away seeds)
+* 8 small to medium size peppers washed well and tops cut off ready to stuff (clean away seeds)
 * 2 tbsp of olive oil plus more for over the peppers when they are stuffed and ready to go into the oven
 * 1 cup aborio rice or grain of choice
 * 1 lb of ground beef/turkey or your choice of meet
@@ -140,7 +141,7 @@ I love to serve this up with a beautiful [horiatiki salad](http://oliveandmango.
 
 7. Prepare your pan or casserole dish. Pour the reserved sauce on the bottom of pan and then place the peppers into pan open side up so that they are ready to stuff
 
-8. Stuff all the peppers. In fact overstuff them because even if they are overfilled it will just add to the sauce at the bottom of pan ( if you have extra stuffing it makes a great lunch bowl so don't stress if you have any left over)
+8. Stuff all the peppers. In fact overstuff them because even if they are overfilled it will just add to the sauce at the bottom of pan (if you have extra stuffing it makes a great lunch bowl so don't stress if you have any left over)
 
 9. Put the tops on the peppers and toss in the chopped potatoes around the peppers 
 
@@ -149,8 +150,6 @@ I love to serve this up with a beautiful [horiatiki salad](http://oliveandmango.
 11. Cover with lid or foil and cook for approximately 45min to an hour depending on size of peppers. Check occasionally after 30 min.  Once they are soft and withered and you can cut through them easily (do knife poke test) then take the lid/foil off and cook for another 10-15 min to brown the tops or if you prefer broil for a few min but really keep an eye on them when broiling so they don't burn. a little charr on the edges is alright and welcome 
 
 12. Remove from oven, let cool for a few min and serve drizzled with some of the wonderful sauce at the bottom of the pan
-
-
 
 </br>
 ![Greek Stuffed Peppers](/images/uploads/2018_07_06_greek_stuffed_peppers_14.jpg)
