@@ -28,6 +28,8 @@ This cake has so many delicious textures in it.  You get the light and delicious
 
 It’s also super simple to put together and also pretty quick to make. We loved it and also shared it with others who loved it as well. One of them being my sweet little nephew who I miss dearly! This was one of the last cakes I made while in Trinidad.  In fact I had some the last day we were at our apartment. I gave some to him and his mom and dad and he wanted to try some. So I warned him about the poppy seeds cause he had never had any before. I just told him it may be a little crunchy from some super special and yummy tiny seeds in the cake. He loved it but he started doing the cutest thing. He started picking out of his mouth every crunchy part and showing it to me and asking if that was the seed - which made me laugh so hard cause it was the cutest thing! You had to be there. Anyways this cake pleased a 5 year old so if it could do that you know there’s definitely something yummy about it. I know you will love it and it’s a great little cake to showcase your raspberries! Enjoy!
 
+![Raspberry Lemon Poppy Seed Cake ](/site/static/images/uploads/7cfec4d3-8e36-40b0-85bc-111238df49f3.jpeg)
+
 ## Recipe
 
 Makes a 9 inch cake
@@ -69,3 +71,5 @@ Makes a 9 inch cake
 7. Let cool for at least 15 minutes before removing from pan and can be served warm or  cold. 
 
 Adapted from _Yossy Arefi_
+
+![Raspberry Lemon Poppy Seed Cake ](/site/static/images/uploads/2e387ac3-845d-48e7-878f-eb2e0eccd00e.jpeg)
