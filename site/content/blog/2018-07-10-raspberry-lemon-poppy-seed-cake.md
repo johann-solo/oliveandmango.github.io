@@ -1,14 +1,15 @@
 ---
 layout: post
-title: 'Raspberry Lemon Poppy Seed Cake '
-date: '2018-07-10T10:59:02-04:00'
+title: Raspberry Lemon Poppy Seed Cake
+date: 2018-07-10T10:59:02-04:00
 author: Joanne
 thumbnail: /site/static/images/uploads/4e932872-1daa-41f4-9ff4-b67dc63ecb79.jpeg
-image: /site/static/images/uploads/4e932872-1daa-41f4-9ff4-b67dc63ecb79.jpeg
-categories: desserts
-tags: lemons
+scaled_thumbnail: /site/static/images/uploads/4e932872-1daa-41f4-9ff4-b67dc63ecb79.jpeg
+categories: "desserts"
+tags: ["lemons", "poppy seeds", "raspberries"]
 excerpt: A simple to make light and delicious poppy seed cake
 ---
+
 It’s raspberry season here in Ontario and I’m dying to go pick some! I just went and picked some strawberries a few days ago and it was magical.  That may seem a little over dramatic but if you knew how long it’s been since I picked strawberries you would understand. It has been over 25 years if not more. I have bought market berries since then but nothing beats the experience of picking your own. What was exciting about it this time was seeing my husband experience it for the very first time. He brought his camera with him and the attitude of “how long is this going to take and let’s make it snappy”. Let’s just say by the time I started picking he had his own basket and was picking and eating his way through the patch! As soon as we got there he could smell the berries in the air and he couldn’t believe it. The air was sweet smelling and we couldn’t have picked a better day or time! It was golden hour and there was a beautiful breeze. Ideal picking conditions and photography conditions.
 
 ![Raspberry Lemon Poppy Seed Cake ](/site/static/images/uploads/5af4116c-1546-4ecd-8787-6e1bcc59fd90.jpeg)
