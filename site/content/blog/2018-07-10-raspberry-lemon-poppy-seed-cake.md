@@ -5,7 +5,7 @@ date: 2018-07-10T10:59:02-04:00
 author: Joanne
 thumbnail: /site/static/images/uploads/4e932872-1daa-41f4-9ff4-b67dc63ecb79.jpeg
 scaled_thumbnail: /site/static/images/uploads/4e932872-1daa-41f4-9ff4-b67dc63ecb79.jpeg
-categories: "desserts"
+categories: ["desserts"]
 tags: ["lemons", "poppy seeds", "raspberries"]
 excerpt: A simple to make light and delicious poppy seed cake
 ---
