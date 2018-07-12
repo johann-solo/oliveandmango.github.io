@@ -2,8 +2,8 @@
 title: Chocolate Dipped Tahini Shortbread Cookies
 date: 2018-07-11
 author: Joanne
-image: images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_1.jpg
-scaled_image: images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_0.jpg
+thumbnail: images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_1.jpg
+scaled_thumbnail: images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_0.jpg
 categories: ["desserts"]
 tags: ["cookies", "tahini", "chocolate", "sesame seeds"]
 excerpt: Buttery, nutty and addictive bites of goodness
@@ -45,6 +45,7 @@ As far as short bread cookies go these have a wonderful crumb with a melt in you
 ## Recipe
 Makes approx 20 medium sized cookies (more or less depending on size you make them)
 </br>
+</br>
 
 ### Ingredients 
 
@@ -76,7 +77,7 @@ Makes approx 20 medium sized cookies (more or less depending on size you make th
 
 1. Transfer the dry ingredients to the tahini mixture and beat until incorporated. Scrape the sides of the bowl to keep the mixture uniform. Cover bowl with plastic wrap and refrigerate for at least an hour or overnight. (Dough can be wrapped and frozen for a few months) 
 
-1. Once ready to bake preheat oven to 350 degrees and line two large baking sheets with parchment paper
+1. Once ready to bake preheat oven to 350&deg;F and line two large baking sheets with parchment paper
 
 1. Scoop out batter using a cookie scoop place in hand and roll into a ball and place the rolled dough on the baking sheet. Continue, leaving a little space in between balls to allow room for the cookies to expand. 
 
@@ -92,6 +93,5 @@ Makes approx 20 medium sized cookies (more or less depending on size you make th
 
 Adapted from _Food52_
 
-</br>
 </br>
 ![Chocolate Dipped Tahini Shortbread Cookies](images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_8.jpg)
