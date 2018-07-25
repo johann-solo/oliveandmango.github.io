@@ -65,7 +65,7 @@ The fritters themselves are light and so flavourful being packed with the fresh 
 ### Ingredients
 
 * 4 cups grated/shredded zucchini about 2-3 medium
-* 5 tbsp of all purpose flour plus more if needed (see notes)
+* 5 tbsp of all purpose flour plus more if needed and also to dust with, which is optional (see notes)
 * 2 large eggs whisked
 * &frac12; tsp onion powder
 * &frac14; tsp garlic powder
@@ -73,7 +73,8 @@ The fritters themselves are light and so flavourful being packed with the fresh 
 * &frac14; cup chopped parsley
 * &frac14; cup chopped fresh dill
 * &frac14; cup chopped fresh mint 
-* 2 scallions chopped finely 
+* 2 scallions chopped finely
+* 1 small onion chopped very finely (optional)
 * 2-3 tbsp of olive oil or coconut oil
 </br>
 
@@ -81,11 +82,11 @@ The fritters themselves are light and so flavourful being packed with the fresh 
 
 1. Once your zucchini is grated squeeze/wring out the water from it using paper towels, or a clean dish towel or cheesecloth. This is a very important step to avoid soggy fritters. Squeeze out as much water as possible, then squeeze one more time for good measure.
 
-2. In a large bowl, mix together the ‘dry’ zucchini, flour (see notes), eggs, onion powder, garlic powder, and pepper and just a pinch of salt as salt will draw more water from the zucchini. (I usually sprinkle a little salt on them after they come out of the frying pan not before)
+2. In a large bowl, mix together the ‘dry’ zucchini, flour (see notes), eggs, onion powder, garlic powder, scallions, onions if using, all the fresh herbs and pepper and just a pinch of salt as salt will draw more water from the zucchini. (I usually sprinkle a little salt on them after they come out of the frying pan not before)
 
 3. Heat a large skillet over medium heat (non-stick is helpful), then add 1 Tbsp of olive oil or coconut or or cooking fat of choice (you’ll use 1 Tbsp per batch)
 
-4. Scoop the mixture in a heaping Tbsp, roll into a ball and then flatten in your hands to make a patty (you can use a cookie scoop for consistency as well) 
+4. Scoop the mixture in a heaping Tbsp, roll into a ball and then flatten in your hands to make a patty (you can use a cookie scoop for consistency as well). Dust with flour and it's ready to be pan fried (this is optional)
 
 5. Gently place them into the hot skillet and then gently press down to flatten further with a wide spatula. Pan fry until golden brown approx 2-3 minutes and then carefully flip using a wide spatula. Fry on the second side another 2-3 minutes until golden brown, lowering heat a bit if necessary. 
 
