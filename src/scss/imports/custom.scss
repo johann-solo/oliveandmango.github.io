@@ -16,7 +16,8 @@ $widepanel-width: 1800px;
 // BASE STYLES
 
 body {
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -58,11 +59,15 @@ p a:visited {
 }
 
 h1, h2, h3, p, li {
-    margin: 0 !important;
+  margin: 0 !important;
 }
 
 h1, h2, h3 {
-font-family: 'Playfair Display', serif;
+	font-family: 'Playfair Display', serif;
+}
+
+h4 {
+  font-weight: lighter;
 }
 
 

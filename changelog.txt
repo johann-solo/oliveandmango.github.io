@@ -99,3 +99,7 @@ Version 2.5.3 (kalamata)
 June 11 2018
 Version 2.5.3 (kalamata)
 - Scaled thumbnail
+
+July 26 2018
+Version 2.5.4 (kalamata)
+- Body font changed to Open Sans
