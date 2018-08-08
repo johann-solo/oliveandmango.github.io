@@ -110,6 +110,9 @@ __For the toasts (optional)__
 6. Before serving, stir the gazpacho and taste again for seasoning. Then serve ice cold with gazpacho ice cubes if you made some (see post above), sprinkled with chopped basil, an extra drizzle of olive oil, some chopped tomatoes and the toasts alongside, if using and enjoy!  
 
 </br>
+Adapted from _The Kitchn_
+</br>
+</br>
 
 This is a sponsored post in collaboration with KitchenAid. All ideas and opinions expressed are all my own.
 

@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_07_31_nutella_cupcakes_1.jpg
 scaled_thumbnail: /images/uploads/2018_07_31_nutella_cupcakes_0.jpg
 categories: ["desserts"]
-tags: ["cupcakes", "chocolate", "nutella", gluten free"]
+tags: ["cupcakes", "chocolate", "nutella", "gluten free"]
 excerpt: Gluten free cupcakes exploding with pure decadence
 ---
 
@@ -124,4 +124,8 @@ __To assemble__
 1. Pipe the filling into all of the cupcakes and then frost the tops of the cups cakes as desired.  
 
 </br>
+Inspired by _Akis Petretziks_
+</br>
+</br>
+
 ![Nutella Cupcakes](/images/uploads/2018_07_31_nutella_cupcakes_14.jpg)
