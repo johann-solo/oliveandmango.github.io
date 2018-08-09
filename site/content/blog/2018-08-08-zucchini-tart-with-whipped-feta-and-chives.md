@@ -9,7 +9,7 @@ tags: ["zucchini", "tarts", "feta"]
 excerpt: A savoury tart filled with the taste of Summer
 ---
 
-Two things that are great to have on hand at anytime are puff pastry and whipped feta. Both are so perfect for last minute dinner parties or guests and can be topped with either savoury things or sweet. Both are so versatile and they also go extremely well together too! If you do have the time to make your own - that is awesome and I have a great recipe that I use when I have the time (which is almost never) here. If not than definitely feel free to use the store bought stuff! There is absolutely no shame in it.
+Two things that are great to have on hand at anytime are puff pastry and whipped feta. Both are so perfect for last minute dinner parties or guests and can be topped with either savoury things or sweet. Both are so versatile and they also go extremely well together too! If you do have the time to make your own - that is awesome and I have a great recipe that I use when I have the time (which is almost never) [here](https://www.oliveandmango.com/leek-and-pancetta-turnover/). If not than definitely feel free to use the store bought stuff! There is absolutely no shame in it.
 </br>
 </br>
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_2.jpg)
@@ -22,7 +22,7 @@ Two things that are great to have on hand at anytime are puff pastry and whipped
 </br>
 </br>
 
-There are plenty of zucchini’s everywhere and although our garden is scant of them this year, our friends gardens are not and we have been veery happy recipients of large amounts of them from them. I decided to make a few recipes with all the zucchini. This is one of three recipes I made. The first was zucchini fritters which are actually a childhood favourite of mine and are on the blog here. This tart was the second and the third is a ridiculously good dark and rich chocolate chunk zucchini bread that is going to be up on the blog soon. In the meantime let’s talk about this super easy and delicious tart of mine.
+There are plenty of zucchini’s everywhere and although our garden is scant of them this year, our friends gardens are not and we have been veery happy recipients of large amounts of them from them. I decided to make a few recipes with all the zucchini. This is one of three recipes I made. The first was zucchini fritters which are actually a childhood favourite of mine and are [on the blog here](https://www.oliveandmango.com/zucchini-fritters/). This tart was the second and the third is a ridiculously good dark and rich chocolate chunk zucchini bread that is going to be up on the blog soon. In the meantime let’s talk about this super easy and delicious tart of mine.
 </br>
 </br>
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_5.jpg)
