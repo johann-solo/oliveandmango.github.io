@@ -6,7 +6,7 @@ thumbnail: /images/uploads/strawberry_tiramisu_1.jpg
 scaled_thumbnail: /img/JUNE2017/strawberry_tiramisu_0.jpg
 image: /imgJUNE2017/strawberry_tiramisu_1.jpg
 categories: ["desserts"]
-tags: ["strawberries", "eggless"]
+tags: ["strawberries", "berries", "eggless"]
 excerpt: This refreshing spin on your typical tiramisu will not disappoint
 ---
 

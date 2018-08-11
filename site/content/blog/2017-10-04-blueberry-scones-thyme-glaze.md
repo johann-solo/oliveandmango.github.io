@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_09_29_blueberry_scones_thyme_1.jpg
 scaled_thumbnail: /images/uploads/2017_09_29_blueberry_scones_thyme_0.jpg
 categories: ["breakfast"]
-tags: ["blueberries"]
+tags: ["berries", "blueberries", "scones"]
 excerpt: This pairing of blueberry and thyme will make you wonder why you made scones any other way
 ---
 

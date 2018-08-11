@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2016_06_04_blueberry_pancakes_1.jpg
 scaled_thumbnail: /images/uploads/2016_06_04_blueberry_pancakes_0.jpg
 categories: ["breakfast"]
-tags: ["pancakes", "blueberries"]
+tags: ["pancakes", "berries", "blueberries"]
 excerpt: Fluffy, sweet and delicious
 ---
 

@@ -9,6 +9,8 @@ categories:
 tags:
   - chocolate
   - strawberries
+  - berries
+  
 excerpt: A light and airy cocoa delight
 ---
 I made my first Dutch baby during a Rainydaybites cookbook challenge and so glad I was in on that month’s challenge. I always wanted to make one but just never got around to it and for some reason I thought that making them would be overly complex. The opposite was true. But before I get into the important features of making a Dutch baby let me tell those of you who don’t know what it is a little more about it.

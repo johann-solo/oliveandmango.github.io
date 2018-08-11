@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_05_22_spiced_blueberry_pie_1.jpg
 scaled_thumbnail: /images/uploads/2018_05_22_spiced_blueberry_pie_0.jpg
 categories: ["desserts"]
-tags: ["blueberries", "pies"]
+tags: ["berries", "blueberries", "pies"]
 excerpt: Totally delicious blueberry pie with the easiest filling recipe
 ---
 

@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_05_05_blueberry_cardamom_nice_cream_1.jpg
 scaled_thumbnail: /images/uploads/2018_05_05_blueberry_cardamom_nice_cream_0.jpg
 categories: ["desserts"]
-tags: ["blueberries", "vegan"]
+tags: ["berries", "blueberries", "vegan"]
 excerpt: A simple 4 ingredient nice cream that makes a perfect snack
 ---
 

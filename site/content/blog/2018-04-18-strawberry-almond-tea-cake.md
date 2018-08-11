@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_04_18_strawberry_almond_tea_cake_1.jpg
 scaled_thumbnail: /images/uploads/2018_04_18_strawberry_almond_tea_cake_0.jpg
 categories: ["desserts"]
-tags: ["cakes", "strawberries", "almonds"]
+tags: ["cakes", "berries", "strawberries", "almonds"]
 excerpt: The perfect cake for Spring and Summer
 ---
 I have to say that when I was planning on making this cake, which is actually a compilation of three different cakes and recipes I have made, I didn't think it would be this good.  It's a really light and simple looking cake but it's one of those cakes that you just keep going back for more. The flavour of it is bright with subtle citrus notes. The vanilla in it makes it fragrant and sweet along with the almonds cooked into it and the ones on top that are slightly toasted. The strawberries aren't overpowering at all. They add beautiful moistness to every bite and a mellow strawberry fragrance.

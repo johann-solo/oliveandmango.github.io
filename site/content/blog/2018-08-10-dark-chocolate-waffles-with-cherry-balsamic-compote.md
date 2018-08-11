@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_08_10_dark_chocolate_waffles_with_cherry_balsamic_compote_1.jpg
 scaled_thumbnail: /images/uploads/2018_08_10_dark_chocolate_waffles_with_cherry_balsamic_compote_0.jpg
 categories: ["breakfast"]
-tags: ["chocolate", "waffles", "cherries"]
+tags: ["chocolate", "waffles", "berries", "cherries"]
 excerpt: Dark, decadent, waffles with a balsamic compote that makes the cherries sing
 ---
 

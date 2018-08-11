@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_05_10_blueberry_lavender_muffins_1.jpg
 scaled_thumbnail: /images/uploads/2018_05_10_blueberry_lavender_muffins_0.jpg
 categories: ["desserts"]
-tags: ["muffins", "blueberries", "lavender"]
+tags: ["muffins", "berries", "blueberries", "lavender"]
 excerpt: Muffins bursting with blueberry flavour with lovely notes of lavender
 ---
 
