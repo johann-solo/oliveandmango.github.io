@@ -65,7 +65,8 @@ __For the cake__
 
 * 3 Tbsp (45 mL) invert sugar or light corn syrup (see note)
 * 4 eggs
-* ⅞ cup (175 g) sugar 1¾ cups (220 g) flour
+* ⅞ cup (175 g) sugar 
+* 1¾ cups (220 g) flour
 * 2 tsp (10 g) baking powder
 * ½ tsp (2 g) salt
 * Finely grated zest of 1 lemon
