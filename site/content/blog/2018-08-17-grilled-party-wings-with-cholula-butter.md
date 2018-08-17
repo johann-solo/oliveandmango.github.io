@@ -9,7 +9,7 @@ tags: ["chicken", "spicy"]
 excerpt: Tangy buttery grilled wings that bring the heat
 ---
 
-I made these fabulous wings with a whole group of people involved in a virtual cookbook club. The book chosen for that particular month was _Food52_’s Any night grilling. It’s a book full of grilling recipes tips and ideas. I also love how it doesn’t limit grilling to meat but has some wonderful grilled vegetable recipes in it too among other things. Fabulous for grilling Inspiration. I would strongly recommend getting this book if you want to expand your own grilling abilities/repertoire and it would also make a great gift for someone you know who loves to grill.
+I made these fabulous wings with a whole group of people involved in a virtual cookbook club. The book chosen for that particular month was _Food52’s_ Any night grilling. It’s a book full of grilling recipe tips and ideas. I also love how it doesn’t limit grilling to meat but has some wonderful grilled vegetable recipes in it too among other things. Fabulous for grilling Inspiration. I would strongly recommend getting this book if you want to expand your own grilling abilities/repertoire and it would also make a great gift for someone you know who loves to grill.
 </br>
 </br>
 ![Grilled Party Wings With Cholula Butter](/images/uploads/2018_08_17_grilled_party_wings_with_cholula_butter_2.jpg)
