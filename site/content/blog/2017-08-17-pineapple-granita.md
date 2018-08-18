@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2017_08_17_pineapple_granita_1.jpg
 scaled_thumbnail: /images/uploads/2017_08_17_pineapple_granita_0.jpg
 image: null
 categories: ["drinks"]
-tags: ["iced drinks"]
+tags: ["frozen drinks"]
 excerpt: Summer cool down &mdash; Tropical style
 ---
 ​
