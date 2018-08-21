@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_07_03_double_chocolate_brownie_cookies_1.jpg
 scaled_thumbnail: /images/uploads/2018_07_03_double_chocolate_brownie_cookies_0.jpg
 categories: ["desserts"]
-tags: ["chocolate", "brownies", "cookies"]
+tags: ["chocolate", "brownies", "cookies", "feedfeed"]
 excerpt: Crisp edges and chewy chocolatey rich centres
 ---
 
@@ -93,4 +93,7 @@ These are very simple to make and if you are a chocolate lover like I am you wil
 11. The cookies can be stored in an airtight container at room temperature for up to 4 days.
 
 </br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
+</br>
+
 ![Double Chocolate Brownie Cookies](/images/uploads/2018_07_03_double_chocolate_brownie_cookies_11.jpg)

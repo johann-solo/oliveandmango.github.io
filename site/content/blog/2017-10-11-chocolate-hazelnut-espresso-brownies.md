@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_10_11_chocolate_hazelnut_espresso_brownies_1.jpg
 scaled_thumbnail: /images/uploads/2017_10_11_chocolate_hazelnut_espresso_brownies_0.jpg
 categories: ["desserts"]
-tags: ["chocolate"]
+tags: ["chocolate", "hazelnuts", "brownies", "feedfeed"]
 excerpt: Better-than-the-box one pot brownies that will knock your socks off!
 ---
 
@@ -119,4 +119,7 @@ If you like a chewy better-than-the-box brownie, you have to try this recipe. It
 1. Immediately transfer baking dish to the fridge and refrigerate for an hour before slicing and serving
 
 <br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
+<br>
+
 ![Chocolate Hazelnut Espresso Brownies](/images/uploads/2017_10_11_chocolate_hazelnut_espresso_brownies_16.jpg)

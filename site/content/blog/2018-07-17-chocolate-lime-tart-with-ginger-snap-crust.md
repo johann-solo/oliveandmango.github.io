@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_07_17_chocolate_lime_tart_with_ginger_snap_crust_1.jpg
 scaled_thumbnail: /images/uploads/2018_07_17_chocolate_lime_tart_with_ginger_snap_crust_0.jpg
 categories: ["desserts"]
-tags: ["chocolate", "ginger", "tarts", "limes"]
+tags: ["chocolate", "ginger", "tarts", "limes", "feedfeed"]
 excerpt: A crisp chocolate tart with a Caribbean flair
 ---
 
@@ -105,4 +105,7 @@ __For the chocolate lime filling__
 1. Remove tart from pan and slice and serve with whipped cream, a dusting of toasted coconut and some lime zest and lime wedges.
 
 </br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
+</br>
+
 ![Chocolate Lime Tart With A Ginger Snap Crust](/images/uploads/2018_07_17_chocolate_lime_tart_with_ginger_snap_crust_8.jpg)

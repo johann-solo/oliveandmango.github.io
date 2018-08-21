@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_02_01_chocolate_orange_cake_1.jpg
 scaled_thumbnail: /images/uploads/2018_02_01_chocolate_orange_cake_0.jpg
 categories: ["desserts"]
-tags: ["cakes", "chocolate", "oranges"]
+tags: ["cakes", "chocolate", "oranges", "feedfeed"]
 excerpt: A decadent and zesty twist to a classic chocolate cake
 ---
 
@@ -138,4 +138,7 @@ is dissolved.
 1. I made the orange twists by cutting the slices down the middle halfway through the slice and then twisting the edges of the slices to shape. Be creative and have some fun. The leftover slices make for great snacks!
 
 <br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
+<br>
+
 ![Chocolate Orange Cake](/images/uploads/2018_02_01_chocolate_orange_cake_11.jpg)

@@ -1,11 +1,11 @@
 ---
-title: Zucchini Tart With Whipped Feta and Chives
+title: Zucchini Tart With Whipped Feta and Chives 
 date: 2018-08-08
 author: Joanne
 thumbnail: /images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_1.jpg
 scaled_thumbnail: /images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_0.jpg
 categories: ["snacks"]
-tags: ["zucchini", "tarts", "feta"]
+tags: ["zucchini", "tarts", "feta", "feedfeed"]
 excerpt: A savoury tart filled with the taste of Summer
 ---
 
@@ -71,6 +71,7 @@ This tart bakes up quick and easy and will be loved by your family and whoever y
 ## Recipe
 Makes two medium sized puff pastry tarts or one large one
 </br>
+</br>
 
 ### Ingredients
 
@@ -113,4 +114,7 @@ Makes two medium sized puff pastry tarts or one large one
 2. Next add the cream cheese and puree for 4-5 minutes, scraping down the sides when needed, until feta is super creamy. Will keep in the fridge covered for several days if you wanted to make ahead.
 
 </br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
+</br>
+
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_15.jpg)

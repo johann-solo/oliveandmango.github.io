@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2017_09_19_chocolate_coconut_banana_muffins_1.jpg
 scaled_thumbnail: /images/uploads/2017_09_19_chocolate_coconut_banana_muffins_0.jpg
 categories: ["desserts"]
 aliases: [chocolate-coconut-banana-muffins]
-tags: ["muffins", "chocolate", "bananas", "coconut"]
+tags: ["muffins", "chocolate", "bananas", "coconuts", "feedfeed"]
 excerpt: A delicious way to make use of your ripened bananas
 ---
 
@@ -69,7 +69,10 @@ Ok thats it for the personal stuff for now. Lets get at these muffins.  Plain an
 1. Scoop out the batter evenly between the 12 cups in the tin, top with a little more chopped chocolate and the toasted coconut and then bake for 25 minutes or until tester inserted in them comes out clean
 
 1. Allow them to cool for a couple minutes and then remove from pan and allow them to cool completely on a wire rack.
-&#42; i also love to sprinkle any chocolatey baked goods with a little bit of coarse sea salt which is absolutely delicious but is also completely optional
+&#42; I also love to sprinkle any chocolatey baked goods with a little bit of coarse sea salt which is absolutely delicious but is also completely optional
 
 <br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
+<br>
+
 ![Dark Chocolate Coconut Banana Muffins](/images/uploads/2017_09_19_chocolate_coconut_banana_muffins_9.jpg)

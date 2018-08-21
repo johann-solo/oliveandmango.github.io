@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_05_17_crispy_chocolate_tahini_cups_1.jpg
 scaled_thumbnail: /images/uploads/2018_05_17_crispy_chocolate_tahini_cups_0.jpg
 categories: ["desserts"]
-tags: ["chocolate", "vegan", "tahini"]
+tags: ["chocolate", "vegan", "tahini", "feedfeed"]
 excerpt: Fancy little cups of chocolate goodness
 ---
 
@@ -93,4 +93,7 @@ You will love these pretty little things and do hope you give them a try! Those 
 1. Keep stored in the fridge or freezer until serving. They will soften up and melt at room temperature so I like to serve them right out of the fridge.
 
 </br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
+</br>
+
 ![Crispy Chocolate Tahini Cups](/images/uploads/2018_05_17_crispy_chocolate_tahini_cups_13.jpg)
