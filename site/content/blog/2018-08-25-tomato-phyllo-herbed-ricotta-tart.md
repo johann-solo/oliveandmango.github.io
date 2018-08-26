@@ -76,6 +76,7 @@ __For the creamy herbed ricotta__
 __For the phyllo__
 
 * 6 tablespoons extra-virgin olive oil, plus more for drizzling
+* 1 clove of garlic finely minced
 * 8 sheets of phyllo dough, thawed
 * &frac12; cup fine dry breadcrumbs
 * 1&frac12; pounds mixed heirloom tomatoes, thinly sliced
@@ -86,14 +87,15 @@ __For the phyllo__
 
 1. Preheat the oven to 375 &deg; F
 1. In a medium size bowl whisk together the ricotta, cream, lemon juice, herbs, salt and pepper until creamy and combined and set aside. Can be made ahead up to a day before and stored in a sealed container in the fridge.
-1. Brush a large rimmed baking sheet with 2 teaspoons of the olive oil. (Feel free to line it with parchment paper to easily transfer it to another dish if needed. 
-1. Lay 1 sheet of the phyllo dough on the baking sheet; keep the rest covered with damp paper towels. 
-1. Brush the phyllo with 2 teaspoons of olive oil and sprinkle all over with 1 tablespoon of the breadcrumbs. Repeat the layering with the remaining phyllo, olive oil and breadcrumbs. 
-1. Bake the crust for about 20-25 minutes, until golden and crisp (keep a close eye on it after the 20 minute mark as it can over cook easily); rotating the baking sheet halfway through cooking. Let cool completely.
-1. Spread the ricotta mixture in the center of the tart, leaving a &frac12; inch border all around. 
-1. Arrange the tomato slices on top and sprinkle with flaky sea salt and pepper. 
-1. Drizzle lightly with olive oil and garnish with basil leaves. 
-1. Cut into squares and serve immediately and enjoy. 
+2. In a small bowl combine the garlic with the olive oil.
+3. Brush a large rimmed baking sheet with 2 teaspoons of the olive oil. (Feel free to line it with parchment paper to easily transfer it to another dish if preferred). 
+4. Lay 1 sheet of the phyllo dough on the baking sheet; keep the rest covered with damp paper towels. 
+5. Brush the phyllo with 2 teaspoons of the olive oil and sprinkle all over with 1 tablespoon of the breadcrumbs. Repeat the layering with the remaining phyllo, olive oil and breadcrumbs. 
+6. Bake the crust for about 20-25 minutes, until golden and crisp (keep a close eye on it after the 20 minute mark as it can over cook easily); rotating the baking sheet halfway through cooking. Let cool completely.
+7. Spread the ricotta mixture in the center of the tart, leaving a &frac12; inch border all around. 
+8. Arrange the tomato slices on top and sprinkle with flaky sea salt and pepper. 
+9. Drizzle lightly with olive oil and garnish with basil leaves. 
+10. Cut into squares and serve immediately and enjoy. 
 
 Inspired by _Food and Wine_
 </br>
