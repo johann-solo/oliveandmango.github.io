@@ -103,3 +103,7 @@ Version 2.5.3 (kalamata)
 July 26 2018
 Version 2.5.4 (kalamata)
 - Body font changed to Open Sans
+
+August 27 2018
+Version 2.5.5 (kalamata)
+- Remaining images optimised

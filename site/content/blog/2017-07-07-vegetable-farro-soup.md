@@ -4,7 +4,6 @@ date: 2017-07-06T07:41:47.081Z
 author: Joanne
 thumbnail: /images/uploads/chicken_farro_soup_2.jpg
 scaled_thumbnail: /images/uploads/chicken_farro_soup_0.jpg
-image: JUL2017/chicken_farro_soup_1.jpg
 categories: ["soups"]
 tags: ["chicken"]
 excerpt: Chock-full of fresh herbs, sweet leeks and peas – a good-for-the-soul
@@ -59,9 +58,9 @@ I have been feeling really run down and some sort of vicious cold virus is going
 
 1. Heat up oil and butter to medium in a large stock pot and sauté leeks, carrots, celery and onion for approx 10 minutes or until tender and edges start to get golden
 
-1. Add garlic, herbs and farro and sauté for another couple of minutes until the garlic is nice and fragrant then add the broth and let simmer away on medium for 20 minutes checking once in a while to stir and check if it needs more broth  
+2. Add garlic, herbs and farro and sauté for another couple of minutes until the garlic is nice and fragrant then add the broth and let simmer away on medium for 20 minutes checking once in a while to stir and check if it needs more broth  
 
-1. Add the shredded chicken and peas and simmer for 10 more minutes and then serve garnished with fresh parsley and grated Parmesan
+3. Add the shredded chicken and peas and simmer for 10 more minutes and then serve garnished with fresh parsley and grated Parmesan
 
 <br>
 ![Chicken Farro Soup](/img/JUL2017/chicken_farro_soup_7.jpg)  
