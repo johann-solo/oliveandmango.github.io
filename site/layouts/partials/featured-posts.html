@@ -1,5 +1,5 @@
-<h2>Featured Posts – Blueberry Recipes</h2>
-   {{ range first 4 .Site.Taxonomies.tags.blueberries }}
+<h2>Featured Posts – Recipes With Tomatoes</h2>
+   {{ range first 4 .Site.Taxonomies.tags.tomatoes }}
   <section>
     <a href="{{ .Permalink }}"><img src="{{ .Params.scaled_thumbnail }}" alt=""></a>
     <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
