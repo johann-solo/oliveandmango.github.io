@@ -83,7 +83,7 @@ __For the Panna Cotta__
 
 __For the roasted peaches and nectarines__
 
-* 4 peaches
+* 4 peaches (I used 2 peaches and 2 nectarines but any stone fruit would work)
 * &frac12; cup balsamic vinegar
 * 1 tablespoon honey
 * Pinch of salt
