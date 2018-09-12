@@ -161,5 +161,8 @@ __For the filling and the figs__
 
 * I make my pavlovas when there is very little humidity and heat otherwise your pavlova cake will sink in before you even get your second layer on.
 
+Adapted from the _The Kitchn_
 </br>
+</br>
+
 ![Honey And Fig Pavlova](/images/uploads/2018_09_12_honey_and_fig_pavlova_19.jpg)
