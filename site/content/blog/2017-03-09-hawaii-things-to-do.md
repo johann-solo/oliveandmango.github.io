@@ -4,7 +4,7 @@ date: "2017-03-09 7:30:35 -0400"
 author: Joanne
 permalink: hawaii-things-to-do
 thumbnail: /img/MAR2017/hawaii_1.png
-scaled_thumbnail: /img/MAR2017/hawaii_0.png
+scaled_thumbnail: /img/MAR2017/hawaii_0.jpg
 categories: ["travel"]
 tags: ["Hawaii"]
 excerpt: Great food, stunning views and cool vibes await in the Pacific islands
