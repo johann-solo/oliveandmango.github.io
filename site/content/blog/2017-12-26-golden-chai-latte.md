@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_10_26_golden_chai_latte_1.jpg
 scaled_thumbnail: /images/uploads/2017_10_26_golden_chai_latte_0.jpg
 categories: ["drinks"]
-tags: ["chai", "latte"]
+tags: ["chai", "lattes"]
 excerpt: A spicy twist on the classic turmeric latte
 ---
 

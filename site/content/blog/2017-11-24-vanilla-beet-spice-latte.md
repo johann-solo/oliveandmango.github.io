@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_11_24_vanilla_beet_latte_1.jpg
 scaled_thumbnail: /images/uploads/2017_11_24_vanilla_beet_latte_0.jpg
 categories: ["drinks"]
-tags: ["vanilla", "beets", "latte"]
+tags: ["vanilla", "beets", "lattes"]
 excerpt: A warm cozy nutrient dense cup of goodness
 ---
 
