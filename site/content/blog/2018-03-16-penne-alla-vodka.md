@@ -58,36 +58,39 @@ Anyways the point of all that is so that you understand that when I say I can ea
 </br>
 </br>
 
+## Recipe
+Serves 4-6
+</br>
+</br>
+
 ### Ingredients
 
-* &frac14; pound spaghetti
-* &frac14; cup reserved cooking water from pasta 
+* 1 pound penne pasta
+* &frac12; cup reserved cooking water from pasta 
 * 1 tablespoon olive oil
-* 1 tbsp butter 
-* &frac14; pound bacon, pancetta or sausage, removed from the casing and crumbled or chopped
-* 1 onion 
+* 10 slices of bacon (375g). Can also use pancetta or sausage removed from the casing and crumbled or chopped
+* 1 cup chopped onions 
 * &frac12; teaspoon salt
-* A pinch of crushed chili pepper flakes
-* 3 cloves garlic minced 
-* 1 can crushed tomatoes
+* &frac12; tsp of crushed chili pepper flakes
+* 5 cloves garlic minced 
+* 1 can diced tomatoes (28oz) plus juices
+* 1 cup of crushes tomatoes/tomato passata
 * 1 tbsp tomato paste 
-* 3 tablespoons vodka
-* &frac14; cup heavy cream
-* 1 to 2 tablespoons of fresh chopped basil 
+* 1 cup of vodka
+* 1 cup heavy cream
+* &frac13; cup of torn of fresh basil 
 * Freshly grated Parmigiano-Reggiano, and more chopped fresh basil, for garnish
 
 ### Directions
 
-1. Bring a medium saucepan of salted water to a boil. Add the pasta and cook until just al dente, 5 to 6 minutes. Remove a &frac14; cup of cooking water and set aside. Drain in a colander and set aside. 
-1. Meanwhile, in a large skillet, heat the olive oil over medium heat. Add the sliced bacon and cook, stirring, until browned, 3 to 4 minutes. 
-1. Add the onions, and chili pepper flakes and cook, stirring, until the onions are soft and golden, about 5 minutes. 
-1. Add the garlic and cook until fragrant, about 30 seconds. 
-1. Add the crushed tomatoes and the tomato paste and cook, stirring, until thick, about 2 minutes. 
-1. Add the vodka and cook until the sauce reduced by half, 3 to 4 minutes then stir in the cream and cook until the sauce thickens, about 2 minutes. Stir in the basil and remove from the heat.
-1. Toss the sauce with the pasta to coat adding a bit of the reserved cooking water to get the desired texture. 
-1. Season well with salt and pepper and serve immediately topped with cheese and more fresh basil 
-
-Adapted from _Emeril Lagasse_
+1. Bring a medium saucepan of salted water to a boil. Add the pasta and cook until just al dente, 5 to 6 minutes. Remove a &frac12; cup of cooking water and set aside. Drain in a colander and set aside. 
+2. Meanwhile, in a large skillet, heat the olive oil over medium heat. Add the sliced bacon and cook, stirring, until browned, 5-8 minutes. 
+3. Add the onions, and chili pepper flakes and cook, stirring, until the onions are soft and golden, about 5-8 minutes. 
+4. Add the garlic and cook until fragrant, about 30 seconds. 
+5. Add the crushed tomatoes and the tomato paste and cook, stirring, until thick, about 2 minutes. 
+6. Add the vodka and cook until the sauce reduced by half, 10 minutes then stir in the cream and cook until the sauce thickens, about 5 minutes. Stir in the basil and remove from the heat.
+7. Toss the sauce with the pasta to coat adding a bit of the reserved cooking water to get the desired texture. 
+8. Season well with salt and pepper and serve immediately topped with cheese and more fresh basil 
 
 </br>
 ![Penne Alla Vodka](/images/uploads/2018_03_16_penne_alla_vodka_9.jpg)
