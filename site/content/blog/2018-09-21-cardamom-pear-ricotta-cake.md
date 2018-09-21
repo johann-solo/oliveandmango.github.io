@@ -83,5 +83,8 @@ Serves 6
 1. Scrape the batter into the prepared pan, smooth the top and bake for approx 40-45 minutes, until the cake is golden brown and the sides start to pull away from the pan.
 1. Cool in the pan on a wire rack for 10 minutes. Turn the cake out of the pan and cool completely on the rack. Sift confectioners' sugar over the top and serve. 
 
+Adpated by _Food 52_
 </br>
+</br>
+
 ![Cardamom Pear Ricotta Cake](/images/uploads/2018_09_21_cardamom_pear_ricotta_cake_8.jpg)
