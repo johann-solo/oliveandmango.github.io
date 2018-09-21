@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2018_09_21_cardamom_pear_ricotta_cake_1.jpg
 scaled_thumbnail: /images/uploads/2018_09_21_cardamom_pear_ricotta_cake_0.jpg
 categories: ["desserts"]
 tags: ["cakes", "pears", "cardamom"]
-excerpt: Light fragrant and delicate – the perfect cake intro Fall
+excerpt: Light fragrant and delicate – the perfect cake to kickoff your Fall
 ---
 
 I absolutely love ricotta cakes. I’m very surprised that I haven’t posted one earlier on the blog. I love a classic lemon ricotta one. The texture is light and fluffy and it’s the kind of cake that is perfect for any occasion. It also doesn’t need to be fluffed up too much to be enjoyed. It’s a humble little cake that just needs a very light dusting of powdered sugar if that, and is the perfect thing to enjoy with a cup of tea or coffee.
