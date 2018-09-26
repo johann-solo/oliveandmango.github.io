@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_07_31_nutella_cupcakes_1.jpg
 scaled_thumbnail: /images/uploads/2018_07_31_nutella_cupcakes_0.jpg
 categories: ["desserts"]
-tags: ["cupcakes", "chocolate", "nutella", "gluten free"]
+tags: ["cupcakes", "chocolate", "nutella", "gluten free", "feedfeed"]
 excerpt: Gluten free cupcakes exploding with pure decadence
 ---
 
@@ -126,6 +126,7 @@ __To assemble__
 </br>
 Inspired by _Akis Petretziks_
 </br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
 
 ![Nutella Cupcakes](/images/uploads/2018_07_31_nutella_cupcakes_14.jpg)

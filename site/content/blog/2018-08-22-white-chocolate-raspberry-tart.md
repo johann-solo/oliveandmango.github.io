@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_08_22_white_chocolate_raspberry_tart_1.jpg
 scaled_thumbnail: /images/uploads/2018_08_22_white_chocolate_raspberry_tart_0.jpg
 categories: ["desserts"]
-tags: ["raspberries", "berries", "tarts", "chocolate", "vegan"]
+tags: ["raspberries", "berries", "tarts", "chocolate", "vegan", "feedfeed"]
 excerpt: A lovely crisp tart with a vegan option
 ---
 
@@ -153,5 +153,7 @@ __For the white chocolate ganache__
 12. To assemble the tarts, spoon in enough raspberry coulis to coat the base of each tart shell well. 
 13. Fill each shell with ganache and refrigerate for at least 1-2 hours then serve with some more raspberries other fruit or berry you would like
 
+</br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
 ![White Chocolate Raspberry Tart](/images/uploads/2018_08_22_white_chocolate_raspberry_tart_15.jpg)
