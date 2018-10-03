@@ -60,18 +60,19 @@ Versatile, simple to make, wheat free, refined sugar free, soft, pillowy and che
 
 * 1&frac12; cups of almond butter 
 * &frac13; cup honey 
-* 2 tsp vanilla extract 
+* 2 tsp vanilla extract
+* &frac12; tsp cinnamon
+* A pinch of salt
 * 2 eggs at room temperature 
 * &frac12; tsp baking soda 
 * &frac13; cup of your fav trail mix blend (I used a blend of chopped almonds, cashews dried cranberries pumpkin seeds and sunflower seeds 
 * &frac13; cup of dark chocolate chopped into chunks 
-* A pinch of salt 
 
 ### Directions 
 
 1. Preheat oven to 350 &deg; F and line a large baking sheet with parchment paper. 
-2. In a large bowl mix together with a mixer the almond butter, honey, vanilla, eggs and baking soda until nice and smooth
-3. Fold in the trail mix blend and chocolate and salt. 
+2. In a large bowl mix together with a mixer the almond butter, honey, vanilla, salt, cinnamon, eggs and baking soda until nice and smooth
+3. Fold in the trail mix blend and chocolate. 
 4. Use tbsp measurement scoop to scoop out a tablespoon of the batter onto the cookies sheet, leaving a little room between each. Flatten slightly and bake for 8-10 minutes or until just golden. 
 5. Remove pan from oven and place on cooling rack to allow cookies to cool before devouring.
 </br>
