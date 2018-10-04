@@ -42,6 +42,7 @@ Makes 4-6 parfaits depending on size of cups you use
 <br>
 
 **For the granola**
+
 * 1&frac12; cups old fashion rolled oats
 * &frac14; cup pistachios chopped
 * &frac34; cup walnuts chopped
@@ -57,6 +58,7 @@ Makes 4-6 parfaits depending on size of cups you use
 <br>
 
 **For the apples**
+
 * 4 apples peeled cored and cut into chunks
 * 2 tbsp butter or coconut oil
 * 2 tbsp honey or maple syrup
@@ -66,12 +68,14 @@ Makes 4-6 parfaits depending on size of cups you use
 <br>
 
 **For the whip cream**
+
 * 1 cup heavy whipping cream or whipped coconut cream
 * &frac14; tsp vanilla
 * &frac14; tsp orange blossom  water (optional)  
 <br>
 
 **For the topping**
+
 * A couple of tbsp of honey or maple syrup, a sprinkle of granola and crushed nuts  
 
 ![Baklava Parfaits](/images/uploads/2017_11_02_baklava_parfait_6.jpg)
