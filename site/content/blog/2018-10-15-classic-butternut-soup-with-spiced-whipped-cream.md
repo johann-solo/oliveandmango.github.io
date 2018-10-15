@@ -46,7 +46,7 @@ I love the simplicity of the this spiced whip cream also from _Serious Eats_. It
 </br>
 </br>
 
-Whatever flavours you choose for your butternut squash soup or toppings there is one thing you should remember. The key to a fabulous butternut squash soup is roasting the squash until caramelised and nutty and fabulous! 
+Whatever flavours you choose for your butternut squash soup or toppings there is one thing you should remember. The key to a fabulous butternut squash soup is roasting the squash until caramelised and nutty and fabulous! I was super happy to be able to make and post this recipe and join in on the #virtualpumkinparty (4th annual) hosted by Sara Cornelius. Check out the hashtag on Instagram and for full details check out our [Sara’s blog](http://cakeoversteak.com/virtual-pumpkin-party/) for all the bloggers who contributed with a link to their recipes! This was so fun! Hope you check it out!
 </br>
 </br>
 ![Classic Butternut Soup With Spiced Whipped Cream](/images/uploads/2018_10_15_classic_butternut_soup_with_spiced_whipped_cream_9.jpg)
