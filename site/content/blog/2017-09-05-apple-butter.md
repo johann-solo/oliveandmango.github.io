@@ -4,8 +4,8 @@ date: 2017-09-05T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_09_05_apple_butter_1.jpg
 scaled_thumbnail: /images/uploads/2017_09_05_apple_butter_0.jpg
-categories: ["how to"]
-tags: ["apples"]
+categories: ["snacks"]
+tags: ["apples", "feedfeed"]
 excerpt: 'More than a purée, and delicious enough to eat by the spoonful'
 ---
 
@@ -78,5 +78,7 @@ Yields approx 1 to 1&frac12; cups of apple butter
 
 1. Remove from heat and let cool for a few minutes and transfer to a  sealed container and it can last for up to a month refrigerated.
 
-<br>
+</br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
+</br>
 ![Apple Butter](/images/uploads/2017_09_05_apple_butter_9.jpg)
