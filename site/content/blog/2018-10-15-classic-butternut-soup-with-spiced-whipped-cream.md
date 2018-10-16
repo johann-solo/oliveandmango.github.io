@@ -7,6 +7,8 @@ scaled_thumbnail: /images/uploads/2018_10_15_classic_butternut_soup_with_spiced_
 categories: ["soups"]
 tags: ["butternut", "squash"]
 excerpt: Look no further for your classic butternut squash soup this Fall
+keywords: ["soups", "fall", "fall cooking", "comfort food", "butternut", "squash"]
+description: Butternut squash soup to the rescue. Fall is here and that means cold weather. Stay warm and cosy with this rich and delicious butternut squash soup
 ---
 
 As you probably already know I am a big soup fan. I say that and yet I noticed I don’t have that many soups on the blog. It should really reflect my love for them. I am working on that I promise. I’m told not too many people love lentils so I need to calm it down with my lentil soups so this season with be all about the hearty and delicious soups sans the lentils. I’m working on several. I’m hoping to get a really good tortilla one up along with a tortellini one, and so many more. One thing I did promise I would put up is my go to recipe for a classic and very basic butternut squash soup. It’s very similar to the [pumpkin one](https://www.oliveandmango.com/roasted-pumpkin-soup/) I already have up but this time I wanted to share my go-to squash one that I have relied on for the last couple of years. It’s an easy one and it’s from _Serious Eats_.

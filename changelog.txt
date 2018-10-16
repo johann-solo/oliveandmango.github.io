@@ -107,3 +107,9 @@ Version 2.5.4 (kalamata)
 August 27 2018
 Version 2.5.5 (kalamata)
 - Remaining images optimised
+
+August 27 2018
+Version 2.6.0 (kalamata)
+- SEO upgrades
+- Dynamic descriptions and keywords for posts
+- descriptions for recipe and about page

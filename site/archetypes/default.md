@@ -7,6 +7,8 @@ scaled_thumbnail: /images/uploads/{{ replace .TranslationBaseName "-" "_" }}_0.j
 categories: [""]
 tags: [""]
 excerpt: 
+keywords: [""]
+description: 
 ---
 
 

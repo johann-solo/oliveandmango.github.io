@@ -7,6 +7,8 @@ scaled_thumbnail: /images/uploads/2018_08_22_white_chocolate_raspberry_tart_0.jp
 categories: ["desserts"]
 tags: ["raspberries", "berries", "tarts", "chocolate", "vegan", "feedfeed"]
 excerpt: A lovely crisp tart with a vegan option
+keywords: ["feedfeed", "featured recipe", "white chocolate", "raspberries", "tart"]
+description: A delicious white chocolate raspberry tart with the vegan option. This white chocolate raspberry tart was featured on the FeedFeed
 ---
 
 White chocolate and raspberries go together in the dessert world like chocolate and hazelnut. They are the perfect match. The white chocolate is rich and sweet and creamy and the raspberries have a very shy kind of sweetness overpowered by their more pronounced tartness. They cut through the richness of the white chocolate and wake up your taste buds with fruitiness. The base of both the vegan and non vegan tarts is wonderful. Buttery tasting and the perfect sweet, crispy, crumbly crust for these decadent tarts.

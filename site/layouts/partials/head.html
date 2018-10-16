@@ -3,15 +3,19 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <meta name="description" content= "{{ $.Site.Params.description }}">
+    <meta name="description" content= "{{ if ( .Params.description) }}{{ .Params.description }}{{ else }}{{ .Params.excerpt }}{{ end }}">
+    <meta content="{{ delimit .Keywords ", " }}" name="keywords">
     <!-- Open Graph -->
     <meta property="og:title" content="{{ .Title }} • Olive &amp; Mango">
     <meta property="og:url" content="{{ .URL }}">
     <meta property="og:type" content="blog" />
     <meta property="og:image" content="{{ .Params.thumbnail }}">
-    <meta property="og:description" content="{{ .Params.excerpt }}">
+    <!-- <meta property="og:description" content="{{ .Params.excerpt }}"> -->
+    <meta property="og:description" content="{{ if ( .Params.description) }}{{ .Params.description }}{{ else }}{{ .Params.excerpt }}{{ end }}">
+    <!-- <meta content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}{{ if eq $isHomePage false }} - {{ .Description }}{{ end }}"
+      property="og:description"> -->
     <!-- Twitter Card -->
-    <meta name="twitter:card" content="{{ $.Site.Params.description }}" />
+    <meta name="twitter:card" content="{{ if ( .Params.description) }}{{ .Params.description }}{{ else }}{{ .Params.excerpt }}{{ end }}" />
     <meta name="twitter:site" content="@oliveandmango" />
     <!-- Pinterest -->
     <meta name="p:domain_verify" content="6c62a0501e51fc1c9416f6cc648e788c"/>

@@ -1,6 +1,7 @@
 +++
 date = "2017-10-20"
 title = "About"
+description = "Get the story of Joanne Rappos – the woman behind the Olive & Mango food blog"
 +++
 
 ## Just your typical Canadian born Greek girl living in Trinidad.

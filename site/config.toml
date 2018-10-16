@@ -3,6 +3,8 @@ languageCode = "en-us"
 languageLang = "en"
 title = "Olive & Mango"
 disqusShortname = "disqus_Ci8qqqEWpn"
+enableRobotsTXT = true
+canonifyURLs = true
 
 
 [params]
