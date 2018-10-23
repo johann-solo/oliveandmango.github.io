@@ -8,7 +8,7 @@ categories: ["breakfast"]
 tags: ["puff pastry", "smoked salmon", "salmon", "goat cheese", "quiche"]
 excerpt: The easiest quiche you can make perfect for any meal from breakfast, brunch, to dinner
 keywords: ["puff pastry", "smoked salmon", "salmon", "goat cheese", "quiche"]
-description: 
+description: The easy smoked salmon quiche that's perfect for breakfast or dinner
 ---
 
 This recipe came out of necessity to eat out all of the smoked salmon we had in the fridge. When you buy a Costco pack of it you get creative with it. Although really and truly my husband is quite happy eating it out of the package standing by the fridge. He does absolutely love it in quiche form as well and that is why I ended up making this quiche.
