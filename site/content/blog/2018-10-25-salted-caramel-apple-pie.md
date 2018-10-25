@@ -6,9 +6,9 @@ thumbnail: /images/uploads/2018_10_25_salted_caramel_apple_pie_1.jpg
 scaled_thumbnail: /images/uploads/2018_10_25_salted_caramel_apple_pie_0.jpg
 categories: ["desserts"]
 tags: ["pies", "caramel", "apples"]
-excerpt: 
-keywords: [""]
-description: 
+excerpt: A classic Fall apple pie with sweet and salted twist
+keywords: ["pies", "caramel", "apples", "Fall", "apple pie"]
+description: What smells better than apple pie baking? This salted caramel apple pie adds a dimension of sweetness and flavour with that edge of saltiness that is just so good. This is an apple pie that everyone will enjoy.
 ---
 
 What can I say that hasn’t been already said about apple pie? Probably nothing new that is for sure. It’s such a classic dessert in general, not just in the fall and a beloved dessert of mine too. What smells better than apple pie baking? The aroma of the apples being cooked in warm spices, their natural juices and sugars breaking down making them even sweeter in a pie and the buttery dough baking. The smell of any pie baking is delicious but I’m focusing on apple as its the most iconic for fall, so I had to include a classic apple pie in all the apple related recipes on the blog.
@@ -21,7 +21,7 @@ What can I say that hasn’t been already said about apple pie? Probably nothing
 </br>
 </br>
 
-How is salted caramel apple pie classic? Well I think its as classic as a regular apple pie. One of the most popular apple pie combos that you can can find on line is caramel or salted caramel and rightly so, the two were made for each other. If you're not a fan of caramel with your apple pie, (I forgive you) no problem, just omit the caramel from the recipe and the added salt and ta-da you have yourself a very very classic apple pie.
+How is salted caramel apple pie classic? Well I think its as classic as a regular apple pie. One of the most popular apple pie combos that you can can find online is caramel or salted caramel and rightly so, the two were made for each other. If you're not a fan of caramel with your apple pie, (I forgive you) no problem, just omit the caramel from the recipe and the added salt and ta-da you have yourself a very very classic apple pie.
 </br>
 </br>
 ![Salted Caramel Apple Pie](/images/uploads/2018_10_25_salted_caramel_apple_pie_4.jpg)
