@@ -6,26 +6,26 @@ thumbnail: /images/uploads/2018_10_26_spiced_quinoa_pudding_with_baked_pears_wit
 scaled_thumbnail: /images/uploads/2018_10_26_spiced_quinoa_pudding_with_baked_pears_with_honey_and_nuts_0.jpg
 categories: ["breakfast"]
 tags: ["pears", "glutten-free", "vegan", "quinoa", "honey", "nuts", "sponsored"]
-excerpt: 
+excerpt: It's cold outside so warm up with this tasty and nutritious quinoa pudding
 keywords: ["pears", "gluten-free", "vegan", "quinoa", "honey", "nuts", "breakfast", "pudding"]
-description: 
+description: It's cold outside so warm up with this tasty and nutritious quinoa pudding for breakfast. Simple, creamy and delicous, this spiced quinoa pudding will warm you up and feed your soul
 ---
 
-I had the privilege of working with GoGo Quinoa again and i couldn’t be happier. They are a Canadian company that primarily focuses on quinoa. Their mission is to provide nutritious and flavourful products, which are ethically and responsibly sourced. I have had a wonderful time creating some simple and flavourful dishes using their wonderful products. The first of three that I’m featuring is their _Quinoa Royal_ - the Red quinoa specifically.  Its organic and non GMO, gluten free and vegan and i wanted to create something sweet with it as I usually make something savoury with quinoa.
+I had the privilege of working with GoGo Quinoa again and I couldn’t be happier. They are a Canadian company that primarily focuses on quinoa. Their mission is to provide nutritious and flavourful products, which are ethically and responsibly sourced. I have had a wonderful time creating some simple and flavourful dishes using their wonderful products. The first of three that I’m featuring is their _Quinoa Royal_ - the Red quinoa specifically. Its organic and non GMO, gluten free and vegan and I wanted to create something sweet with it as I usually make something savoury with quinoa.
 </br>
 </br>
 ![Spiced Quinoa Pudding With Baked Pears With Honey and Nuts](/images/uploads/2018_10_26_spiced_quinoa_pudding_with_baked_pears_with_honey_and_nuts_2.jpg)
 </br>
 </br>
 
-Quinoa cooks up similar to rice so I kept thinking of sweet recipes that rice is in and although there area quite of few ways to eat sweet rice there is one way that i kept going back to and that is rice pudding. Rice pudding was a staple dessert or treat in our home growing up and was especially beloved my my father. I remember the aroma of rice cooking away in warm sweet milk and it brings back all sorts of nostalgia. The rice pudding served in our home was sweetened with vanilla powder and that’s as far as the spices and flavourings went while it was cooking. A dash of cinnamon was added just before serving and thats about it. Simple, creamy and delicious. Classic comfort food in our home.
+Quinoa cooks up similar to rice so I kept thinking of sweet recipes that rice is in and although there area quite of few ways to eat sweet rice there is one way that I kept going back to and that is rice pudding. Rice pudding was a staple dessert or treat in our home growing up and was especially beloved my my father. I remember the aroma of rice cooking away in warm sweet milk and it brings back all sorts of nostalgia. The rice pudding served in our home was sweetened with vanilla powder and that’s as far as the spices and flavourings went while it was cooking. A dash of cinnamon was added just before serving and thats about it. Simple, creamy and delicious. Classic comfort food in our home.
 </br>
 </br>
 ![Spiced Quinoa Pudding With Baked Pears With Honey and Nuts](/images/uploads/2018_10_26_spiced_quinoa_pudding_with_baked_pears_with_honey_and_nuts_3.jpg)
 </br>
 </br>
 
-I thought i would recreate that cozy feeling especially as it is fall and the temperatures are dropping. My taste buds have matured a bit since my earliest memories of having moms rice pudding and so i thought i would do a spiced one with the lovely warm flavours of cinnamon and clove but also the slightly citrusy cardamom that is so fragrant and perfectly paired with the other two spices.
+I thought I would recreate that cozy feeling especially as it is fall and the temperatures are dropping. My taste buds have matured a bit since my earliest memories of having moms rice pudding and so i thought i would do a spiced one with the lovely warm flavours of cinnamon and clove but also the slightly citrusy cardamom that is so fragrant and perfectly paired with the other two spices.
 </br>
 </br>
 ![Spiced Quinoa Pudding With Baked Pears With Honey and Nuts](/images/uploads/2018_10_26_spiced_quinoa_pudding_with_baked_pears_with_honey_and_nuts_4.jpg)
