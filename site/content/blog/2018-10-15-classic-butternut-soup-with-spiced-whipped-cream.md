@@ -5,10 +5,10 @@ author: Joanne
 thumbnail: /images/uploads/2018_10_15_classic_butternut_soup_with_spiced_whipped_cream_1.jpg
 scaled_thumbnail: /images/uploads/2018_10_15_classic_butternut_soup_with_spiced_whipped_cream_0.jpg
 categories: ["soups"]
-tags: ["butternut", "squash"]
+tags: ["butternut", "squash", "feedfeed"]
 excerpt: Look no further for your classic butternut squash soup this Fall
 keywords: ["soups", "fall", "fall cooking", "comfort food", "butternut", "squash"]
-description: Butternut squash soup to the rescue. Fall is here and that means cold weather. Stay warm and cosy with this rich and delicious butternut squash soup
+description: Butternut squash soup to the rescue. Fall is here and that means cold weather. Stay warm and cosy with this rich and delicious butternut squash soup. This butternut squash soup was featured on The Feedfeed.
 ---
 
 As you probably already know I am a big soup fan. I say that and yet I noticed I don’t have that many soups on the blog. It should really reflect my love for them. I am working on that I promise. I’m told not too many people love lentils so I need to calm it down with my lentil soups so this season with be all about the hearty and delicious soups sans the lentils. I’m working on several. I’m hoping to get a really good tortilla one up along with a tortellini one, and so many more. One thing I did promise I would put up is my go to recipe for a classic and very basic butternut squash soup. It’s very similar to the [pumpkin one](https://www.oliveandmango.com/roasted-pumpkin-soup/) I already have up but this time I wanted to share my go-to squash one that I have relied on for the last couple of years. It’s an easy one and it’s from _Serious Eats_.
@@ -93,6 +93,8 @@ __For the spiced whip cream__
 13. Meanwhile, in a stand mixer, or using a handheld mixer or whisk, beat cream and sour cream with cinnamon, nutmeg, clove, and a pinch of salt, until stiff. Set aside.
 14. Ladle soup into warmed bowls, spoon dollops of spiced whipped cream into each one, and garnish with a few sprigs of fresh thyme.
 15. Serve right away.
-</br>
 
+</br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
+</br>
 ![Classic Butternut Soup With Spiced Whipped Cream](/images/uploads/2018_10_15_classic_butternut_soup_with_spiced_whipped_cream_10.jpg)
