@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_11_18_pear_almond_frangipane_tart_1.jpg
 scaled_thumbnail: /images/uploads/2017_11_18_pear_almond_frangipane_tart_0.jpg
 categories: ["desserts"]
-tags: ["tarts", "pear"]
+tags: ["tarts", "pears"]
 excerpt: This buttery tart crust is home to the richest almond cream with the most
   fragrant pears - simple and delectable
 ---
