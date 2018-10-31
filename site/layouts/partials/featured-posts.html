@@ -1,8 +1,8 @@
-<h2>Featured Posts – Recipes With Peaches</h2>
-   {{ range first 4 .Site.Taxonomies.tags.peaches }}
+<h2>Featured Posts – Fun with pears</h2>
+   {{ range first 4 .Site.Taxonomies.tags.pears }}
   <section>
-    <a href="{{ .Permalink }}"><img src="{{ .Params.scaled_thumbnail }}" alt=""></a>
+    <a href="{{ .Permalink }}"><img src="{{ .Params.scaled_thumbnail }}" alt="{{.Params.Title}}"></a>
     <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
-    <p>{{.Description}}</p>
+    <!-- <p>{{.Description}}</p> -->
   </section>
   {{ end }}

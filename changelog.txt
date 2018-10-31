@@ -113,3 +113,7 @@ Version 2.6.0 (kalamata)
 - SEO upgrades
 - Dynamic descriptions and keywords for posts
 - descriptions for recipe and about page
+
+October 31 2018
+Version 2.6.1 (kalamata)
+- Alt image text 
