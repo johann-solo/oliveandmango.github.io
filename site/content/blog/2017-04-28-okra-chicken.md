@@ -6,7 +6,7 @@ image: /APR2017/okra_chicken_2.jpg
 thumbnail: /img/APR2017/okra_chicken_2.jpg
 scaled_thumbnail: /img/APR2017/okra_chicken_0.jpg
 categories: ["mains"]
-tags: ["Greek", "chicken"]
+tags: ["Greek", "chicken", "okra"]
 excerpt: With warmer weather coming, enjoy a classic Greek summer dish
 
 ---
