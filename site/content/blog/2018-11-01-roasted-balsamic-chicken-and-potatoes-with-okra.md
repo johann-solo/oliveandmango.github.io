@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2018_11_01_roasted_balsamic_chicken_and_potatoes_with
 scaled_thumbnail: /images/uploads/2018_11_01_roasted_balsamic_chicken_and_potatoes_with_okra_0.jpg
 categories: ["mains"]
 tags: ["chicken", "one-pot-meals", "potatoes", "okra"]
-excerpt: Deliciously seasoned one pan dinner that the family will love 
+excerpt: A deliciously seasoned one pan dinner that the family will love 
 keywords: ["chicken", "one-pot-meals", "potatoes", "okra"]
 description: A deliciously seasoned one pan dinner that the family will love. This roasted balsamic chicken and potatoes with tender  but crisp okra is perfect for family gatherings.
 ---
