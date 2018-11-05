@@ -1,6 +1,6 @@
 ---
 title: Rosemary Lavender Cake With A Lavender Buttercream
-date: 2018-11-04T21:55:08-05:00
+date: 2018-11-05
 author: Joanne
 thumbnail: /images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_1.jpg
 scaled_thumbnail: /images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_0.jpg
@@ -18,7 +18,7 @@ Rosemary and lavender are two aromatics that are quite vivid and strong in scent
 </br>
 </br>
 
-A few months ago we had the opportunity to visit Terre Bleu, a family run farm which is Ontario’s largest lavender farm, and we had a wonderful time despite the rain. It only stopped raining as we were driving away and the farm was closing. That didn’t stop us from exploring the farm and purchasing some goodies from their store either. Their lavender is organically grown and the farmers work hard to plant, prune, and harvest lavender by hand and distill their oil in a traditional copper still to ensure a truly unique and authentic product. They are committed to education, sustainable farming and personal well-being. The farm is beautiful and you can smell the aroma of lavender wafting in the air once you arrive. It’s immaculately maintained and their store is just lovely. Make sure to visit [www.terrebleu.ca​](https://www.terrebleu.ca/) to learn more about the farm, the products they sell and also to shop all the products that they make from the lavender.
+A few months ago we had the opportunity to visit Terre Bleu, a family run farm which is Ontario’s largest lavender farm, and we had a wonderful time despite the rain. It only stopped raining as we were driving away and the farm was closing. That didn’t stop us from exploring the farm and purchasing some goodies from their store. Their lavender is organically grown and the farmers work hard to plant, prune, and harvest lavender by hand and distill their oil in a traditional copper still to ensure a truly unique and authentic product. They are committed to education, sustainable farming and your personal well-being. The farm is beautiful and you can smell the aroma of lavender wafting in the air once you arrive. It’s immaculately maintained and their store is just lovely. Make sure to visit [www.terrebleu.ca​](https://www.terrebleu.ca/) to learn more about the farm, the products they sell and also to shop all the products that they make from the lavender.
 </br>
 </br>
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_3.jpg)
@@ -41,7 +41,7 @@ I have teamed up with Terre Bleu to make a wonderful cake using some of their pr
 </br>
 </br>
 
-This cake is a perfect way to showcase their organic lavender and it pairs wonderfully with the rosemary. The cake itself is quite easy to make even for a novice baker. It bakes up quickly and the aroma of the vanilla and rosemary together while baking is totally wonderful. It’s a dense cake with a very fine crumb making it feel lighter than it is. When I first saw this recipe I worried about the texture of it as I usually cream the butter and sugar alone until light and airy. This recipe was different, the dry ingredients get whisked first then the butter is added and then the liquids separately. I was a bit skeptical but in the end the texture of the batter turned to a frothy and light one and baked up with the nicest texture. It reminded me of wedding cake - who doesn’t love wedding cake.
+This cake is a perfect way to showcase their organic lavender and it pairs wonderfully with the rosemary. The cake itself is quite easy to make even for a novice baker. It bakes up quickly and the aroma of the vanilla and rosemary together while baking is totally wonderful. It’s a dense cake with a very fine crumb making it feel lighter than it is. When I first saw this recipe I worried about the texture of it as I usually cream the butter and sugar alone until light and airy. This recipe was different, the dry ingredients get whisked first then the butter is added and then the liquids separately. I was a bit skeptical but in the end the texture of the batter turned to a frothy and light one and baked up with the nicest texture. It reminded me of wedding cake - who doesn’t love wedding cake?
 </br>
 </br>
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_8.jpg)
