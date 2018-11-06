@@ -79,13 +79,13 @@ It's one of those dishes that is also suitable for most diets. It's vegetarian f
 
 ### Directions
 
-1. Heat a pot to medium heat and add the olive oil and sauté all the veggies and also the paprika and alternative dry spices if you're using for a few minutes (onions, carrots, celery, garlic)
+1. Heat a pot to medium heat and add the olive oil and sauté all the veggies and also the paprika along with the parley and mint and the optional dry spices if you're using for a few minutes (onions, carrots, celery, garlic), then add the tomato paste and cook for another minute to cook off any bitterness from it. 
 
-1. Add the beans and broth or water and once the are boiling, lower the heat to a simmer and cover and cook for approx. 1 hour or until beans are cooked. The consistency is between a soup and a stew so check pot periodically to see if you need more water
+1. Add the crushed toamoes, beans and broth or water , along with the bay leaf and once they are boiling, lower the heat to a simmer and cover and cook for approx. 1 hour or until beans are cooked. The consistency is between a soup and a stew so check pot periodically to see if you need more water
 
-1. Once everything is cooked stir in the kale, mint and parsley and let simmer for another few minutes until kale is wilted.  
+1. Once everything is cooked stir in the kale, and let simmer for another few minutes until kale is wilted.  
 
 1. Serve with fresh crusty bread, olives and definitely feta!
-I also like to drizzle a little olive oil over top when served and sometimes add a squeeze of lemon but that is totally optional.  
+I also like to drizzle a little olive oil over top when served but that is totally optional.  
 
 ![Fasolatha](/img/JAN2017/fasolatha_4.jpg)
