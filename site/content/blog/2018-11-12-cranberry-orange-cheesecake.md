@@ -11,14 +11,14 @@ keywords: ["cheesecake", "cakes", "oranges", "cranberries"]
 description: Cheesecake is an all time favourite dessert. Make this particular cheesecake with seasonal cranberries and oranges. The best cheesecake recipe just got another mouthwatering variation.
 ---
 
-Cheesecake is THE all time favorite dessert in my home! Both my hubby and father are obsessed with it and it’s all they ask for. Not pie, not cake, (although the icecream cake was a big hit with them) only cheesecake and they love it plain as can be. My husband literally scrapes off the toppings if I make it for company and top it with fruit glaze or anything. I don’t blame them though as the one I have been making oh for the last 15 yrs is the best one I have ever made. It’s Junior’s famous cheesecake recipe and it never never fails me. I only use their filling recipe and usually use a graham cracker crust instead of a shortbread one. It turns out perfect every time and it’s a total crowd pleaser no matter what topping you use with it.
+Cheesecake is THE all time favorite dessert in my home! Both my hubby and father are obsessed with it and it’s all they ask for. Not pie, not cake, (although the icecream cake was a big hit with them) only cheesecake and they love it plain as can be. My husband literally scrapes off the toppings if I make it for company and top it with fruit glaze or anything. I don’t blame them though as this is the one I have been making oh for the last 15 yrs is the best one I have ever made. It’s Junior’s famous cheesecake recipe and it never never fails me. I only use their filling recipe and usually use a graham cracker crust instead of a shortbread one. It turns out perfect every time and it’s a total crowd pleaser no matter what topping you use with it.
 </br>
 </br>
 ![Cranberry Orange Cheesecake](/images/uploads/2018_11_12_cranberry_orange_cheesecake_2.jpg)
 </br>
 </br>
 
-When Paderno sent over some of their bakeware for me to try and use and their professional series 9”round spring form pan was included, I knew this had to be the recipe I made in it. Cheesecake has a special place in my heart too I must admit. I do love it but I can only handle a bite or two as it’s a bit too rich for my taste. I love it for more than the taste though. I usually make it for friends or family and I absolutely love serving it and unveiling it in front of their eyes - not for the oohs and ahhs but I love to see their glistening eyes staring at it while they watch me take off the side of the springform and allowing all the glaze to drip down and then the anticipation of getting their slice. It make me happy to see people enjoy food. I also absolutely love sharing my recipe with everyone after they have had their slice as that is usually what they ask for.
+When Paderno sent over some of their bakeware for me to try and use and their professional series 9”round spring form pan was included, I knew this had to be the recipe I made in it. Cheesecake has a special place in my heart too I must admit. I do love it but I can only handle a bite or two as it’s a bit too rich for my taste. I love it for more than the taste though. I usually make it for friends or family and I absolutely love serving it and unveiling it in front of their eyes - not for the oohs and ahhs but I love to see their glistening eyes staring at it while they watch me take off the side of the springform and allowing all the glaze to drip down and then the anticipation of getting their slice. It makes me happy to see people enjoy food. I also absolutely love sharing my recipe with everyone after they have had their slice as that is usually what they ask for.
 </br>
 </br>
 ![Cranberry Orange Cheesecake](/images/uploads/2018_11_12_cranberry_orange_cheesecake_3.jpg)
@@ -131,7 +131,7 @@ __Garnishes (optional)__
 21. Leave cranberries in place if you like them whole. My husband doesn’t like stewed fruit or the cranberry seeds at all so I cook down the cranberries for a few minutes longer until they have not only popped but have started to breakdown a little. 
 22. Once the cranberries are done remove them from the heat and pass them through a sieve. 
 23. Use a wooden spoon to push as much through the sieve pressing the liquid into a bowl. Make sure to scrape the bottom of the sieve as well to collect all the liquid/glaze
-24. Then pour the glaze and spread over cheesecake or reserve it to drizzling on each piece before serving. 
+24. Then pour the glaze and spread over cheesecake or reserve it for drizzling on each piece before serving. 
 
 ## For the candied/sugared cranberries
 
