@@ -72,7 +72,7 @@ If you know me, you know I’m very much a savoury food lover not so much of swe
 </br>
 </br>
 
-This is a sponsored post for _Club House’s_. All thoughts and views are my own.
+This is a sponsored post for _Club House_. All thoughts and views are my own.
 </br>
 </br>
 ![Stuffed Acorn Squash With Bacon And Kale Bread Pudding](/images/uploads/2018_11_14_stuffed_acorn_squash_with_bacon_and_kale_bread_pudding_13.jpg)
