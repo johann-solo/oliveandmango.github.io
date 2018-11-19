@@ -97,7 +97,9 @@ __Spiced Salted Pecan Caramel__
 9. Sprinkle over apples. Bake 60-70 minutes or until golden brown and apples are tender. Cool completely on a wire rack. 
 10. While the bars are baking, prepare the caramel. Place the pecan butter, maple syrup, vanilla, apple pie spice and sea salt into a small bowl and whisk. Add one or two tablespoons of warm water as needed to thin out, until you get a caramel-like texture
 11. Slice into squares and serve with a generous drizzle of the pecan caramel.
-12. To make your own pecan butter, toast pecans in the oven until golden brown. Let cool and blend in a food processor for a couple minutes, until it forms a creamy butter.
+
+### Recipe Notes
+To make your own pecan butter, toast pecans in the oven until golden brown. Let cool and blend in a food processor for a couple minutes, until it forms a creamy butter.
 	
 Adapted from _Taste of Home_ and _The Green Life_
 
