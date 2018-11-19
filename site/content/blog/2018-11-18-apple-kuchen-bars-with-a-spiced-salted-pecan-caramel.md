@@ -1,6 +1,6 @@
 ---
 title: Apple Kuchen Bars With A Spiced Salted Pecan Caramel
-date: 2018-11-18
+date: 2018-11-18 
 author: Joanne
 thumbnail: /images/uploads/2018_11_18_apple_kuchen_bars_with_a_spiced_salted_pecan_caramel_1.jpg
 scaled_thumbnail: /images/uploads/2018_11_18_apple_kuchen_bars_with_a_spiced_salted_pecan_caramel_0.jpg
