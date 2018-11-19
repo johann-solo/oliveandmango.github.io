@@ -1,6 +1,6 @@
 ---
 title: Classic Pumpkin Scones
-date: 2018-11-19
+date: 2018-11-19T13:21:53-05:00
 author: Joanne
 thumbnail: /images/uploads/2018_11_19_classic_pumpkin_scones_1.jpg
 scaled_thumbnail: /images/uploads/2018_11_19_classic_pumpkin_scones_0.jpg
