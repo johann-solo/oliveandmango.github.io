@@ -1,6 +1,6 @@
 ---
 title: Apple Cider Ginger Beer Punch
-date: 2018-11-19
+date: 2018-11-19T07:07:53-05:00
 author: Joanne
 thumbnail: /images/uploads/2018_11_19_apple_cider_ginger_beer_punch_1.jpg
 scaled_thumbnail: /images/uploads/2018_11_19_apple_cider_ginger_beer_punch_0.jpg
