@@ -8,7 +8,7 @@ categories: ["desserts"]
 tags: ["cakes", "cheesecakes", "pumpkins", "pecans", "tarts"]
 excerpt: Creamy pumpkin cheesecake with decadent chocolate swirls over a crispy caramel biscuit crust
 keywords: ["cakes", "cheesecakes", "pumpkins", "pecans", "tarts"]
-description: 
+description: Creamy pumpkin cheesecake with decadent chocolate swirls over a crispy caramel biscuit crust. This pumpkin cheesecake is super quick and super delicious.
 ---
 
 I will start by telling you that this tart is quite irresistible. Bite after bite you will keep going back for more. I am not a fan of a plain pumpkin pie at all. If it’s served to me I will eat it but I would never crave it or and never be caught eyeing someones slice across the table. I want to like it but I just don’t. Now a doctored up pumpkin pie or tart is a different story. I have had caramel pumpkin chess pie and a maple one and definitely a cheese cake one and those I love, but not the basic no frills one. Basically I need a little extra added to pumpkin pie for it to wow me. This marbled chocolate cheesecake tart and also the other [Deliciously Light And Airy Pumpkin Tart](https://www.oliveandmango.com/deliciously-light-and-airy-pumpkin-tart/) that I have on the blog are not lacking at all in the flavour department and that is why I love them.
