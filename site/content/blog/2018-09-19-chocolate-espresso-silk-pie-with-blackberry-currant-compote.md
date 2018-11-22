@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_09_19_chocolate_espresso_silk_pie_with_blackberry_currant_compote_1.jpg
 scaled_thumbnail: /images/uploads/2018_09_19_chocolate_espresso_silk_pie_with_blackberry_currant_compote_0.jpg
 categories: ["desserts"]
-tags: ["chocolate", "pies", "espresso", "currants", "berries", "blackberries"]
+tags: ["chocolate", "pies", "espresso", "currants", "berries", "blackberries", "feedfeed"]
 excerpt: Rich, chocolatey and silky smooth. Simple and so delicious
 ---
 
@@ -128,5 +128,7 @@ __For the blackberry currant compote__
 
 Adapted from _Food and Wine_
 
+</br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
 ![Chocolate Espresso Silk Pie](/images/uploads/2018_09_19_chocolate_espresso_silk_pie_with_blackberry_currant_compote_10.jpg)
