@@ -8,7 +8,7 @@ categories: ["soups"]
 tags: ["chicken", "tortillas", "Latin"]
 excerpt: A hearty, smokey soup with just the right amount of heat
 keywords: ["chicken", "tortillas", "Latin"]
-description: THis chicken tortilla soup with salsa and homemade tortillas is hearty, smokey soup with just the right amount of heat
+description: This chicken tortilla soup with salsa and homemade tortillas is hearty, smokey soup with just the right amount of heat
 ---
 
 Who can resist a hearty, smokey soup with just the right amount of heat that comes together quickly and tastes even better the next day. This is that soup. It’s warming and you will be craving it once a week if not more. It’s great for a quick weeknight meal but also great for entertaining as well. You can make a double batch to feed a crowd and it’s a pretty budget friendly and delicious way to entertain too.

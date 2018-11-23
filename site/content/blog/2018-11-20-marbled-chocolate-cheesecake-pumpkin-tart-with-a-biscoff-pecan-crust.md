@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_11_20_marbled_chocolate_cheesecake_pumpkin_tart_with_a_biscoff_pecan_crust_1.jpg
 scaled_thumbnail: /images/uploads/2018_11_20_marbled_chocolate_cheesecake_pumpkin_tart_with_a_biscoff_pecan_crust_0.jpg
 categories: ["desserts"]
-tags: ["cakes", "cheesecakes", "pumpkins", "pecans", "tarts"]
+tags: ["cakes", "cheesecakes", "pumpkin", "pecans", "tarts"]
 excerpt: Creamy pumpkin cheesecake with decadent chocolate swirls over a crispy caramel biscuit crust
 keywords: ["cakes", "cheesecakes", "pumpkins", "pecans", "tarts"]
 description: Creamy pumpkin cheesecake with decadent chocolate swirls over a crispy caramel biscuit crust. This pumpkin cheesecake is super quick and super delicious.
