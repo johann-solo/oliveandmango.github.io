@@ -121,7 +121,7 @@ I love to serve this up with a beautiful _horiatiki salad_, or a _maroulosalata_
 * Lots of salt and pepper to season
 * &frac14; cup of red wine (optional)
 * 1 heaping tablespoon of tomato paste
-* 1 can of crushed or diced tomatoes
+* A 28 oz can of crushed or diced tomatoes
 * &frac12; to 1 cup water or broth
 * 4 potaotoes peeled and chopped into large chunks (optional)
 
