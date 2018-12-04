@@ -3,7 +3,7 @@ title: Strapatsada – Greek Style Tomato And Feta Scramble
 date: 2018-12-02T07:52:10-05:00
 author: Joanne
 thumbnail: /images/uploads/2018_12_02_Strapastada_1.jpg
-scaled_thumbnail: /images/uploads/2018_12_2_Strapastada_0.jpg
+scaled_thumbnail: /images/uploads/2018_12_02_Strapastada_0.jpg
 categories: ["breakfast"]
 tags: ["Greek", "feta", "eggs", "sponsored"]
 excerpt: A luscious tomato based breakfast
