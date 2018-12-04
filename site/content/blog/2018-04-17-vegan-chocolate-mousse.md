@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_04_17_vegan_chocolate_mousse_1.jpg
 scaled_thumbnail: /images/uploads/2018_04_17_vegan_chocolate_mousse_0.jpg
 categories: ["desserts"]
-tags: ["chocolate", "vegan"]
+tags: ["chocolate", "vegan", "feedfeed"]
 excerpt: Light, airy and rich chocolate delights
 ---
 
@@ -92,5 +92,7 @@ You totally have to give this recipe a try. If you like dark and rich chocolatey
 
 * A note about the coconut whip. I learned from experimenting that the milk fats must be pretty solid when you remove them from the can so that they whip up well. Also if you’re having trouble getting it to whip try a different brand of coconut cream or milk. You really need a thicker kind of coconut milk not the really watery ones without a lot of fat.
 
+</br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
 ![Vegan Chocolate Mousse](/images/uploads/2018_04_17_vegan_chocolate_mousse_11.jpg)

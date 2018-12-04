@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_11_12_cranberry_orange_cheesecake_1.jpg
 scaled_thumbnail: /images/uploads/2018_11_12_cranberry_orange_cheesecake_0.jpg
 categories: ["desserts"]
-tags: ["cheesecake", "cakes", "oranges", "cranberries", "sponsored"]
+tags: ["cheesecake", "cakes", "oranges", "cranberries", "feedfeed", "sponsored"]
 excerpt: An all time favourite dessert made with seasonal cranberries and oranges
 keywords: ["cheesecake", "cakes", "oranges", "cranberries"]
 description: Cheesecake is an all time favourite dessert. Make this particular cheesecake with seasonal cranberries and oranges. The best cheesecake recipe just got another mouthwatering variation.
@@ -168,5 +168,7 @@ __Garnishes (optional)__
 
 Always bake the cheesecake in a water bath as they do at Junior’s. It keeps the heat in the oven moist and helps the cake bake slowly, gently, and evenly. It also helps to ensure that your cake will have a smooth top, with no large cracks.
 
+</br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
 ![Cranberry Orange Cheesecake](/images/uploads/2018_11_12_cranberry_orange_cheesecake_14.jpg)
