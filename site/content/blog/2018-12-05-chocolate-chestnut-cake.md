@@ -5,9 +5,9 @@ author: Joanne
 thumbnail: /images/uploads/2018_12_05_chocolate_chestnut_cake_1.jpg
 scaled_thumbnail: /images/uploads/2018_12_05_chocolate_chestnut_cake_0.jpg
 categories: ["desserts"]
-tags: ["chocolate", "chestnuts", "cakes", "flourless"]
+tags: ["chocolate", "chestnuts", "cakes", "flourless", "gluten-free"]
 excerpt: A lovely rich flourless cake with a nutty undertone
-keywords: ["chocolate", "chestnuts", "cakes", "flourless"]
+keywords: ["chocolate", "chestnuts", "cakes", "flourless", "gluten-free"]
 description: This chocolate chestnut cake is a perfect compliment to any joyous occasion. This cake has a rich and almost nutty flavour from its roasted chestnuts. This chocolate chestnut cake will make you never look at chestnuts the same way again.
 ---
 
