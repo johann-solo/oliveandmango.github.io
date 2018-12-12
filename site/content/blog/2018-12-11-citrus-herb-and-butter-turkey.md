@@ -36,7 +36,7 @@ aside 24 hours with the brine, but for the best flavor, you want the brine to wo
 
 #### Cheesecloth method
 
-This is my first time using this method for roasting my turkey and I will literally never roast it any other way. What does the cheesecloth do? The cheesecloth helps insulate the breast and slow down the cooking, which can help keep it from overcooking and drying out in the time needed to cook the dark meat through. It gets soaked in butter and flavorings and lays over the turkey almost protecting it in a way. You can remove the cheesecloth for the last half hour for the turkey to get a deeper brown colour but I didn’t do this and still got a deep golden brown bird. I baste the bird just before I peel it off to make sure it peels off easier. It’s a super simple step - too simple to skip and and sacrifice a super tender and perfectly roasted turkey.
+This is my first time using this method for roasting my turkey and I will literally never roast it any other way. What does the cheesecloth do? The cheesecloth helps insulate the breast and slow down the cooking, which can help keep it from overcooking and drying out in the time needed to cook the dark meat through. It gets soaked in butter and flavorings and lays over the turkey almost protecting it in a way. You can remove the cheesecloth for the last half hour for the turkey to get a deeper brown colour but I didn’t do this and still got a deep golden brown bird. I baste the bird just before I peel it off to make sure it peels off easier. It’s a super simple step - too simple to skip and sacrifice a super tender and perfectly roasted turkey.
 </br>
 </br>
 ![Roasting a turkey using cheesecloth](/images/uploads/2018_12_11_citrus_herb_and_butter_turkey_5.jpg)
@@ -47,7 +47,7 @@ This is my first time using this method for roasting my turkey and I will litera
 </br>
 
 #### The Pan
-I have been fortunate enough to be working with _Paderno_ and have been able to use some of their practical and excellent bakeware, including this stainless steel multi-roaster with removable rack. It’s a heavy duty durable roaster with an aluminum encapsulated base for even heat distribution meaning even roasting as well. It’s large enough to fit a big bird up to 22 lbs. Mine was only 23 lbs and had some great wriggle room in it. The removable rack with folding handles allows for easy drainage while in use as transferring the turkey in and out of the pan. What I appreciate the most about this roaster is the riveted or offset handles angled to fit most ovens. My first apartment after I got married, and several apartments after, had the tiniest ovens. So I basically said goodbye to almost all of my toasting pans because of the added bulk form the handles. My mom happily acquired my pans during that time. I enjoyed roasting my turkey in it and look forward to many more roasts. This beauty of a pan. 
+I have been fortunate enough to be working with _Paderno_ and have been able to use some of their practical and excellent bakeware, including this stainless steel multi-roaster with removable rack. It’s a heavy duty durable roaster with an aluminum encapsulated base for even heat distribution meaning even roasting as well. It’s large enough to fit a big bird up to 22 lbs. Mine was only 12 lbs and had some great wriggle room in it. The removable rack with folding handles allows for easy drainage while in use as well as transferring the turkey in and out of the pan. What I appreciate the most about this roasting pan is the riveted or offset handles angled to fit most ovens. My first apartment after I got married, and several apartments after, had the tiniest ovens. So I basically said goodbye to almost all of my toasting pans because of the added bulk form the handles. My mom happily acquired my pans during that time. I enjoyed roasting my turkey in it and look forward to many more roasts in this beauty of a pan. 
 </br>
 </br>
 ![Removing a roasted turkey form the pan](/images/uploads/2018_12_11_citrus_herb_and_butter_turkey_7.jpg)
@@ -61,7 +61,7 @@ I decided to do a classic combo of flavorings when it came to the herbs because 
 </br>
 </br>
 
-I can’t say enough about this turkey recipe, and neither can my family. My mom loved it and was so intrigued as she watched me drape over sopping cheese cloth over the turkey. It’s simple and flavourful and the most tender. I may switch up the flavouring the next time I make turkey but one thing I won’t change is my dry brine and my cheesecloth method! Why change a good thing - sorry a great thing? Give it a try yourself. I’m pretty sure you will love the result!!
+I can’t say enough about this turkey recipe, and neither can my family. My mom loved it and was so intrigued as she watched me drape over a sopping cheese cloth over the turkey. It’s simple and flavourful and the most tender. I may switch up the flavouring the next time I make turkey but one thing I won’t change is my dry brine and my cheesecloth method! Why change a good thing - sorry a great thing? Give it a try yourself. I’m pretty sure you will love the result!!
 </br>
 </br>
 ![Citrus Herb And Butter Turkey](/images/uploads/2018_12_11_citrus_herb_and_butter_turkey_9.jpg)
@@ -147,7 +147,7 @@ __Simple Pan Gravy__
 17. Once you have skimmed the fat, add enough broth to equal about 4-5 cups total of drippings/broth.
 18. Place the roasting pan over two burners and add wine (about &frac12; cup) to deglaze the pan scraping up all those brown bits on the bottom of the pan. 
 19. Once deglazed, add the butter and once melted, add the flour whisking to combine. 
-20. Cook stirring constantly, until the mixture is golden, nuts a couple of minutes.
+20. Cook stirring constantly, until the mixture is golden, just a couple of minutes.
 21. Increase heat to medium high and add the remaining &frac12; cup of white wine, whisking as you go to let the wine reduce down. 
 22. Slowly whisk in the reserved broth, stirring constantly, until the mixture is smooth. 
 23. Stir in the sage and the thyme and cook, continuing to stir, until the gravy has thickened to your desired thickness, around 8 to 10 minutes. 
