@@ -121,3 +121,7 @@ Version 2.6.1 (kalamata)
 November 08 2018
 Version 2.6.3 (kalamata)
 - Hugo upgrade to 5.0 
+
+December 13 2018
+Version 2.6.4 (kalamata)
+- H1 Changes 

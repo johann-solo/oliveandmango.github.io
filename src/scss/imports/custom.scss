@@ -164,6 +164,13 @@ caption {
             @include main__text(black, 5em);
         }
     }
+    .list_splash {
+        @include main__text(black, 2.5em);
+        margin-bottom: 0;
+        @media screen and (min-width: $tablet-width) {
+            @include main__text(black, 5em);
+        }
+    }
 }
 
 .main__text {
@@ -181,7 +188,7 @@ caption {
             @include main__text(black, 1.5em);
         }
     }
-    h1 {
+    h1, .list_splash {
         font-family: 'Life Savers', cursive;
     }
 }
