@@ -34,8 +34,7 @@ i.e. add `category`
 ...
   "contents":{{ .Content | plainify | jsonify }}
   {{ if .Params.tags }},
-  "tags":{{ .Params.tags | jsonify }}{{end}},
-  "categories" : {{ .Params.categories | jsonify }},
+  "tags":{{ .Params.tags | jsonify }}{{end}}
 ...
 \```
 
@@ -45,7 +44,6 @@ i.e. add `category`
 keys: [
   "title",
   "contents",
-  "tags",
-  "categories"
+  "tags"
 ]
 \```
