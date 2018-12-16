@@ -212,14 +212,17 @@ caption {
     padding: 0 15px 0;
     text-align: center;
     @media screen and (min-width: $tablet-width) {
-      padding: 0 90px;
+      padding: 0 180px;
     }
 }
 
 .post {
   padding: 0 15px 0;
     @media screen and (min-width: $tablet-width) {
-    padding: 0 90px;
+        padding: 0 90px;
+    }
+    @media screen and (min-width: $desktop-width) {
+        padding: 0 180px;
     }
 }
     
@@ -233,8 +236,11 @@ caption {
 }
 
 .post-list h3 {
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-style: italic;
+    @media screen and (min-width: $desktop-width){
+        font-size: 1.5em;
+    }
 }
 
 .post-list h2 {
@@ -264,6 +270,10 @@ caption {
 .post-title {
   font-style: italic;
   font-weight: bold;
+  font-size: 27px;
+  @media screen and (min-width: $tablet-width){
+    font-size: 36px;
+    }
 }
 
 // .post-content {
