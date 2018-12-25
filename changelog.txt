@@ -125,3 +125,7 @@ Version 2.6.3 (kalamata)
 December 13 2018
 Version 2.6.4 (kalamata)
 - H1 Changes 
+
+December 25 2018
+Version 2.7.0 (doux doux)
+- Work with me tab
