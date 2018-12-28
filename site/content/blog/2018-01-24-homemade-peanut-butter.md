@@ -4,8 +4,7 @@ date: 2018-01-24T12:00:20.000Z
 author: Joanne
 thumbnail: /images/uploads/2018_01_24_homemade_peanut_butter_1.jpg
 scaled_thumbnail: /images/uploads/2018_01_24_homemade_peanut_butter_0.jpg
-categories:
-  - how to
+categories: ["snacks"]
 tags: ["spreads", "peanuts"]
 excerpt: Delicious nut butters – only one ingredient needed
 ---
@@ -80,15 +79,15 @@ Yields approx 1&frac12; cups of nut butter
 
 1. Preheat oven to 350&deg;F
 
-1. Line a baking sheet with parchment and place the the raw nuts on top of it and roast for 10-15 minutes or until peanuts are golden in colour and glossy with oil tossing them a little in the pan half way though roasting. If using dry roasted ones just roast until fragrant and glossy which will only take 5-10 minutes max.  Keep a close eye on the dry roasted ones so that they don’t burn.
+2. Line a baking sheet with parchment and place the the raw nuts on top of it and roast for 10-15 minutes or until peanuts are golden in colour and glossy with oil tossing them a little in the pan half way though roasting. If using dry roasted ones just roast until fragrant and glossy which will only take 5-10 minutes max.  Keep a close eye on the dry roasted ones so that they don’t burn.
 
-1. Remove and allow to cool for only a couple minutes.
+3. Remove and allow to cool for only a couple minutes.
 
-1. Put them straight into your food processor and process non stop for 1 minutes. Remove lid and scrape down the side of the fitted bowl and continue to process until creamy and smooth stopping every minute or so to scrape down the sides of the bowl. Should take 5-10 minutes depending on all the factors I discuss above. Be patient it takes a little while but the magic eventually happens right in front of your eyes.
+4. Put them straight into your food processor and process non stop for 1 minutes. Remove lid and scrape down the side of the fitted bowl and continue to process until creamy and smooth stopping every minute or so to scrape down the sides of the bowl. Should take 5-10 minutes depending on all the factors I discuss above. Be patient it takes a little while but the magic eventually happens right in front of your eyes.
 
-1. Once smooth incorporate your add-ins to the PB and continue to process until smooth adding coconut oil a little at a time if mixture starts to seize as we discussed above.
+5. Once smooth incorporate your add-ins to the PB and continue to process until smooth adding coconut oil a little at a time if mixture starts to seize as we discussed above.
 
-1. Use immediately or it can be stored refrigerated in a sealed container for up to two weeks  
+6. Use immediately or it can be stored refrigerated in a sealed container for up to two weeks  
 
 ![Homemade Peanut Butter](/images/uploads/2018_01_24_homemade_peanut_butter_8.jpg)
 <br>
