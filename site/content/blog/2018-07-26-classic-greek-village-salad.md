@@ -6,6 +6,7 @@ thumbnail: /images/uploads/2018_07_26_classic_greek_village_salad_1.jpg
 scaled_thumbnail: /images/uploads/2018_07_26_classic_greek_village_salad_0.jpg
 categories: ["sides"]
 tags: ["salads", "Greek"]
+keywords: ["Greek", "easy salads", "easy Greek salad", "how to make a Greek salad"]
 excerpt: A glorious salad made from the fresh offerings of the garden
 ---
 
