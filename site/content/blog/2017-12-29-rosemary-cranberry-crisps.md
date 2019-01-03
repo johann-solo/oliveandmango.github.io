@@ -4,8 +4,8 @@ date: 2017-12-29T07:33:23-04:00
 author: Joanne
 thumbnail: /images/uploads/2017_12_29_rosemary_cranberry_crisps_1.jpg
 scaled_thumbnail: /images/uploads/2017_12_29_rosemary_cranberry_crisps_0.jpg
-categories: ["how to"]
-tags: ["cranberies", "platters"]
+categories: ["snacks"]
+tags: ["platters", "cranberries"]
 excerpt: The perfect homemade snack or addition to any dip or cheese board
 ---
 
@@ -63,18 +63,18 @@ Not only are they a more cost effective way of enjoying these crackers but they 
 ### Directions
 
 1. Preheat oven to 350&deg;F Grease and line a loaf pan with baking paper – the smaller the better for more height in the loaf/crackers  
-1. In a small bowl whisk together the milk, sugar and yoghurt.
-1. In a separate bowl, whisk the flours together and add the cranberries. Stir – use fingers to break up cranberries if needed.
-1. Add remaining ingredients, including Spices, plus the milk mixture. It will be a thick batter.  
-1. Pour into loaf pan and bake for approx 25-35 minutes or until a skewer inserted into the middle comes out clean. 
-1. Cool on rack for 10 minutes, remove from pan and place on rack to cool completely then wrap in cling wrap and freeze for at least 2 hours, up to 3 months.*
-1. Unwrap loaf when ready to use and allow to thaw partially for a few minutes so it’s easier to cut.  
-1. Preheat oven 250&deg;F.
-1. Use a sharp serrated bread knife to slice loaf thinly.
-1. Place biscuits on 2 large baking trays
-1. Bake for 50 minutes or until they are a light brown, rotating trays halfway.
-1. Leave biscuits on tray to cool – they will harden so they snap when you break them.
-1. Store in an airtight container for 4 weeks.  
+2. In a small bowl whisk together the milk, sugar and yoghurt.
+3. In a separate bowl, whisk the flours together and add the cranberries. Stir – use fingers to break up cranberries if needed.
+4. Add remaining ingredients, including Spices, plus the milk mixture. It will be a thick batter.  
+5. Pour into loaf pan and bake for approx 25-35 minutes or until a skewer inserted into the middle comes out clean. 
+6. Cool on rack for 10 minutes, remove from pan and place on rack to cool completely then wrap in cling wrap and freeze for at least 2 hours, up to 3 months.*
+7. Unwrap loaf when ready to use and allow to thaw partially for a few minutes so it’s easier to cut.  
+8. Preheat oven 250&deg;F.
+9. Use a sharp serrated bread knife to slice loaf thinly.
+10. Place biscuits on 2 large baking trays
+11. Bake for 50 minutes or until they are a light brown, rotating trays halfway.
+12. Leave biscuits on tray to cool – they will harden so they snap when you break them.
+13. Store in an airtight container for 4 weeks.  
 
 Adapted from Recipe tin eats
 <br>
