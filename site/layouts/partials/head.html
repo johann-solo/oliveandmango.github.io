@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <meta itemprop="description" content= "{{ if ( .Params.description) }}{{ .Params.description }}{{ else }}{{ .Params.excerpt }}{{ end }}">
+    <meta name="description" content= "{{ if ( .Params.description) }}{{ .Params.description }}{{ else }}{{ .Params.excerpt }}{{ end }}">
     <meta content="{{ delimit .Keywords ", " }}" name="keywords">
     <!-- Open Graph -->
     <meta property="og:title" content="{{ .Title }} • Olive &amp; Mango">
