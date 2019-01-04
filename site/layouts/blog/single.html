@@ -3,12 +3,15 @@
 {{ partial "splash" . }}
 
 <div class="flex_container post_wrapper">
-  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-    <div class="post-content" itemprop="articleBody">
-      <h1 class="post-title">{{ .Title }}</h1>
+  <article class="post" itemscope itemtype="https://schema.org/Recipe">
+    <div class="post-content">
+      <h1 class="post-title" itemprop="headline">{{ .Title }}</h1>
       <div class="post-meta">
         <div class="post-meta-meta">
-          <span><time> {{ .Date.Format "2 Jan, 2006" }}</time></span>
+          <span><time itemprop="datePublished"> {{ .Date.Format "2 Jan, 2006" }}</time></span>
+          <span class="schema" itemprop="author">Joanne Rappos</span>
+          <span class="schema" itemprop="recipeCategory">{{ delimit (index .Params.categories) ", " }}</span>
+          <img class="schema" itemprop="image" src="{{ .Params.scaled_thumbnail }}" alt="{{.Params.Title}}">
           <span>{{ if .Params.tags }}<i class="fa fa-tags"></i> {{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
             {{ end }}</span>
         </div>
@@ -17,7 +20,7 @@
         {{ if not (or (in .Params.categories "travel") (in .Params.categories "how to")) }}<div class="jump_btn"><a href="{{ .Permalink }}/#ingredients"><span class="btn_recipe">Jump to Recipe</span></a></div>{{ end }}
       </div>
 
-      <div>
+      <div itemprop="text">
         {{ .Content }}
       </div>
     </div>

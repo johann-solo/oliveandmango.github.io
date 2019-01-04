@@ -8,7 +8,7 @@ canonifyURLs = true
 
 
 [params]
-  description = "Inspiring ideas for delicious home cooking"
+  description = "Inspiring ideas for delicious home cooking."
    AuthorName = "Joanne"
 
 [taxonomies]
