@@ -59,14 +59,14 @@ Makes: one 9-inch pie crust or 6 tartlets
 
 ### Ingredients
 
-* 1 pinch of salt
-* 2 cups chestnut flour
-* &frac12; cup whole wheat flour
-* &frac12; lb. salted butter (2 sticks), left out of the refrigerator for 10 minutes (use cold if using a food processor and cut it into cubes) 
-* 1 tbsp bourbon vanilla extract (or plain vanilla extract) 
-* 2 tbsps sugar
-* 1 egg yolk
-* 1 egg, beaten
+* <span itemprop="ingredients">1 pinch of salt</span>
+* <span itemprop="ingredients">2 cups chestnut flour</span>
+* <span itemprop="ingredients">&frac12; cup whole wheat flour</span>
+* <span itemprop="ingredients">&frac12; lb. salted butter (2 sticks), left out of the refrigerator for 10 minutes (use cold if using a food processor and cut it into cubes)</span>
+* <span itemprop="ingredients">1 tbsp bourbon vanilla extract (or plain vanilla extract)</span>
+* <span itemprop="ingredients">2 tbsps sugar</span>
+* <span itemprop="ingredients">1 egg yolk</span>
+* <span itemprop="ingredients">1 egg, beaten</span>
 
 ### Directions
 
@@ -80,7 +80,7 @@ Makes: one 9-inch pie crust or 6 tartlets
 8. Pre-heat the oven to 350 and grease your pie/tartlet pan. 
 9. Lightly flour your work surface and roll out the dough until it's approx. &frac14; in thick. 
 10. Gently lift up the dough and place it into the pan. 
-11. Firmly press it into place, especially on the sides, (don’t worry amid any prices tear or break just press the dough together to reattach and bake blind for 15-20 minutes, until it begins to turn golden.
+11. Firmly press it into place, especially on the sides, (don’t worry amid any prices tear or break just press the dough together to reattach and bake blind for 15-20 minutes, until it begins to turn golden.</span>
 </br>    
 </br>
 
