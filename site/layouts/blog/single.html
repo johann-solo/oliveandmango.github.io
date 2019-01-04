@@ -9,8 +9,11 @@
       <div class="post-meta">
         <div class="post-meta-meta">
           <span><time itemprop="datePublished"> {{ .Date.Format "2 Jan, 2006" }}</time></span>
+          <span class="schema" itemprop="name">{{ .Title }}</span>
           <span class="schema" itemprop="author">Joanne Rappos</span>
           <span class="schema" itemprop="recipeCategory">{{ delimit (index .Params.categories) ", " }}</span>
+          <span class="schema" itemprop="description">{{ .Params.description }}</span>
+          <span class="schema" itemprop="keywords">{{ delimit .Keywords ", " }}</span>
           <img class="schema" itemprop="image" src="{{ .Params.scaled_thumbnail }}" alt="{{.Params.Title}}">
           <span>{{ if .Params.tags }}<i class="fa fa-tags"></i> {{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
             {{ end }}</span>
