@@ -27,10 +27,10 @@ canonifyURLs = true
   name = "Work with me"
   url  = "/work-with-me"
   weight = 3
-# [[menu.main]]
-#   name = "Workshops"
-#   url  = "/workshops"
-#   weight = 4
+[[menu.main]]
+  name = "Workshops"
+  url  = "/workshops"
+  weight = 4
 [[menu.main]]
   name = "About"
   url  = "/about"
