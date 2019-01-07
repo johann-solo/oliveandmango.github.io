@@ -16,6 +16,7 @@ userFeed.run();
 
 require("./bloglovin.js");
 require("./lazyload.js");
+require("./search.js");
 
 // var client = algoliasearch("HRBO4CU3NQ", "72dc5eb31124694164a13ea54d64d115");
 // var index = client.initIndex("olive_mango");

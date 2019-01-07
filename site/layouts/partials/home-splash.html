@@ -1,6 +1,13 @@
-<div class="splash">
-    <div class="main__text">
-        <h1>Olive &amp; Mango</h1>
-        <p>{{ $.Site.Params.description }}</p>
-    </div>
+<div class="splash hello">
+  <div class="main__text">
+    <h1>Olive &amp; Mango</h1>
+    <p>{{ $.Site.Params.description }}</p>
+  </div>
 </div>
+
+<section>
+  <form method="get" action="/search">
+    Search: <input type="text" name="query"><br>
+    <input type="submit" value="Submit">
+  </form>
+</section>
