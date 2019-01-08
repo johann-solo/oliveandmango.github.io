@@ -65,21 +65,21 @@ Serves 4-6
 
 ### Ingredients
 
-* 1 pound penne pasta
-* &frac12; cup reserved cooking water from pasta 
-* 1 tablespoon olive oil
-* 10 slices of bacon (375g). Can also use pancetta or sausage removed from the casing and crumbled or chopped
-* 1 cup chopped onions 
-* &frac12; teaspoon salt
-* &frac12; tsp of crushed chili pepper flakes
-* 5 cloves garlic minced 
-* 1 can diced tomatoes (28oz) plus juices
-* 1 cup of crushes tomatoes/tomato passata
-* 1 tbsp tomato paste 
-* 1 cup of vodka
-* 1 cup heavy cream
-* &frac13; cup of torn of fresh basil 
-* Freshly grated Parmigiano-Reggiano, and more chopped fresh basil, for garnish
+* <span itemprop="ingredients"> 1 pound penne pasta</span>
+* <span itemprop="ingredients"> &frac12; cup reserved cooking water from pasta </span>
+* <span itemprop="ingredients"> 1 tablespoon olive oil</span>
+* <span itemprop="ingredients"> 10 slices of bacon (375g). Can also use pancetta or sausage removed from the casing and crumbled or chopped</span>
+* <span itemprop="ingredients"> 1 cup chopped onions </span>
+* <span itemprop="ingredients"> &frac12; teaspoon salt</span>
+* <span itemprop="ingredients"> &frac12; tsp of crushed chili pepper flakes</span>
+* <span itemprop="ingredients"> 5 cloves garlic minced </span>
+* <span itemprop="ingredients"> 1 can diced tomatoes (28oz) plus juices</span>
+* <span itemprop="ingredients"> 1 cup of crushes tomatoes/tomato passata</span>
+* <span itemprop="ingredients"> 1 tbsp tomato paste </span>
+* <span itemprop="ingredients"> 1 cup of vodka</span>
+* <span itemprop="ingredients"> 1 cup heavy cream</span>
+* <span itemprop="ingredients"> &frac13; cup of torn of fresh basil </span>
+* <span itemprop="ingredients"> Freshly grated Parmigiano-Reggiano, and more chopped fresh basil, for garnish</span>
 
 ### Directions
 
