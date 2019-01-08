@@ -43,22 +43,22 @@ This is the kind of meal that when it’s completed you feel totally satisfied a
 
 ### Ingredients
 
-* 12 oz of farfalle pasta
-* 1 tbsp butter
-* &frac14; cup olive oil
-* 4 cloves garlic, finely chopped
-* 1 small onion, finely chopped
-* 1 tsp. crushed red chile flakes
-* 1 lb. sausage of choice, casing removed
-* 2&frac12; cups of kale loosely packed stemmed removed and roughly chopped
-* 1 cup of sugar snap peas, strings removed (left as is or blanched for a few seconds before adding to pan depending on how crunchy you prefer them)
-* 2&frac12; cups heavy cream or half and half
-* &frac13; cup grated Parmesan
-* Juice and zest of 1 lemon
-* A pinch of ground nutmeg (optional to taste)
-* A pinch of ground clove (optional to taste)
-* Salt and freshly ground black pepper, to taste
-* Chopped parsley for garnish as well as more freshly grated Parmesan
+* <span itemprop="ingredients">12 oz of farfalle pasta</span>
+* <span itemprop="ingredients">1 tbsp butter</span>
+* <span itemprop="ingredients">&frac14; cup olive oil</span>
+* <span itemprop="ingredients">4 cloves garlic, finely chopped</span>
+* <span itemprop="ingredients">1 small onion, finely chopped</span>
+* <span itemprop="ingredients">1 tsp. crushed red chile flakes</span>
+* <span itemprop="ingredients">1 lb. sausage of choice, casing removed</span>
+* <span itemprop="ingredients">2&frac12; cups of kale loosely packed stemmed removed and roughly chopped</span>
+* <span itemprop="ingredients">1 cup of sugar snap peas, strings removed (left as is or blanched for a few seconds before adding to pan depending on how crunchy you prefer them)</span>
+* <span itemprop="ingredients">2&frac12; cups heavy cream or half and half</span>
+* <span itemprop="ingredients">&frac13; cup grated Parmesan</span>
+* <span itemprop="ingredients">Juice and zest of 1 lemon</span>
+* <span itemprop="ingredients">A pinch of ground nutmeg (optional to taste)</span>
+* <span itemprop="ingredients">A pinch of ground clove (optional to taste)</span>
+* <span itemprop="ingredients">Salt and freshly ground black pepper, to taste</span>
+* <span itemprop="ingredients">Chopped parsley for garnish as well as more freshly grated Parmesan</span>
 
 
 ### Directions

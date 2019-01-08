@@ -59,29 +59,29 @@ The meatballs are super flavorful so nice and fork-tender. I love them.  My frie
 
 ### Ingredients
 
-* 1&frac14;-&frac12; cup olive oil
+* <span itemprop="ingredients"> 1&frac14;-&frac12; cup olive oil</span>
 
-* 1 large onion chopped finely
+* <span itemprop="ingredients"> 1 large onion chopped finely</span>
 
-* 3 cloves garlic chopped finely
+* <span itemprop="ingredients"> 3 cloves garlic chopped finely</span>
 
-* 2 carrots chopped finely
+* <span itemprop="ingredients"> 2 carrots chopped finely</span>
 
-* 2 stalks celery chopped finely
+* <span itemprop="ingredients"> 2 stalks celery chopped finely</span>
 
-* &frac12;-1 red sweet bell pepper chopped
+* <span itemprop="ingredients"> &frac12;-1 red sweet bell pepper chopped</span>
 
-* 1 bay leaf
+* <span itemprop="ingredients"> 1 bay leaf</span>
 
-* Salt and pepper to taste
+* <span itemprop="ingredients"> Salt and pepper to taste</span>
 
-* 1 heaping tbsp of tomato paste
+* <span itemprop="ingredients"> 1 heaping tbsp of tomato paste</span>
 
-* 2 cans crushed tomatoes (or diced if you don't have crushed- with a tbsp of tomato paste if using diced)
+* <span itemprop="ingredients"> 2 cans crushed tomatoes (or diced if you don't have crushed- with a tbsp of tomato paste if using diced)</span>
 
-* 3 cup plus extra of chicken broth or water
+* <span itemprop="ingredients"> 3 cup plus extra of chicken broth or water</span>
 
-* 1 small bunch of basil chopped and stirred in after blending (optional)
+* <span itemprop="ingredients"> 1 small bunch of basil chopped and stirred in after blending (optional)</span>
 
 
 ### Directions
