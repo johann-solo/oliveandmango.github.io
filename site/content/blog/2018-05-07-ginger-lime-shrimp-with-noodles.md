@@ -66,17 +66,17 @@ __For the marinade__
 
 __For the dish__
 
-* 1 tablespoon olive oil
-* 1 red pepper, thinly sliced
-* 1 cup of chopped broccoli
-* 2 cloves of garlic minced
-* &frac12; inch of ginger peeled and grated
-* 1 cup sugar snap peas tough stringy part trimmed or peeled back 
-* 1 tablespoon soy sauce
-* 1 tsp sesame oil
-* 1 tsp of fish sauce (optional)
-* &frac12; pound of soba noodles or noodles of your preference
-* Salt and pepper to taste
+* <span itemprop="ingredients"> 1 tablespoon olive oil</span>
+* <span itemprop="ingredients"> 1 red pepper, thinly sliced</span>
+* <span itemprop="ingredients"> 1 cup of chopped broccoli</span>
+* <span itemprop="ingredients"> 2 cloves of garlic minced</span>
+* <span itemprop="ingredients"> &frac12; inch of ginger peeled and grated</span>
+* <span itemprop="ingredients"> 1 cup sugar snap peas tough stringy part trimmed or peeled back </span>
+* <span itemprop="ingredients"> 1 tablespoon soy sauce</span>
+* <span itemprop="ingredients"> 1 tsp sesame oil</span>
+* <span itemprop="ingredients"> 1 tsp of fish sauce (optional)</span>
+* <span itemprop="ingredients"> &frac12; pound of soba noodles or noodles of your preference</span>
+* <span itemprop="ingredients"> Salt and pepper to taste</span>
 
 __Garnishes (all optional but definitely recommended)__
 

@@ -33,13 +33,13 @@ I will definitely be purchasing this fish if they do decide to stock it at Fresh
 ## For the fish
 ### Ingredients
 
-* 1-&frac12; lbs king fish whole fillet
-* 4 tbsp of butter at room temperature
-* 1 tbsp of paprika
-* 1 tbsp of chopped parsley and extra for garnish
-* 1 tbsp of lemon or lime juice
-* 1 tsp lemon or lime zest
-* Salt and pepper to your preference
+* <span itemprop="ingredients"> 1-&frac12; lbs king fish whole fillet</span>
+* <span itemprop="ingredients"> 4 tbsp of butter at room temperature</span>
+* <span itemprop="ingredients"> 1 tbsp of paprika</span>
+* <span itemprop="ingredients"> 1 tbsp of chopped parsley and extra for garnish</span>
+* <span itemprop="ingredients"> 1 tbsp of lemon or lime juice</span>
+* <span itemprop="ingredients"> 1 tsp lemon or lime zest</span>
+* <span itemprop="ingredients"> Salt and pepper to your preference</span>
 
 ### Directions
 
