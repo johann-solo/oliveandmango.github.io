@@ -7,11 +7,11 @@ scaled_thumbnail: /images/uploads/2019_01_10_creamy_chicken_and_wild_rice_soup_0
 categories: ["soups"]
 tags: ["chicken", "rice"]
 excerpt: A supremely hearty, comforting and filling bowl of soup
-keywords: ["chicken", "chicken soup", "comfort food", "winter food"]
-description: One of my favorites is a classic chicken and rice soup which I crave all through the winter
+keywords: ["chicken", "chicken soup", "comfort food", "winter food", "chicken soup recipe", "wild rice"]
+description: A classic chicken and rice soup which makes the perfect comfort food for the winter.
 ---
 
-You all know I love soup. One of my favorites is a classic chicken and rice soup which I crave all through the winter. I already have a fabulous classic chicken soup on the blog but I wanted to make a richer creamier version thus the creation of this one.
+You all know I love soup. One of my favourites is a classic chicken and rice soup which I crave all through the winter. I already have a fabulous [classic chicken soup](https://www.oliveandmango.com/chicken-soup-for-the-soul/) on the blog but I wanted to make a richer creamier version thus the creation of this one.
 </br>
 </br>
 ![Creamy Chicken And Wild Rice Soup](/images/uploads/2019_01_10_creamy_chicken_and_wild_rice_soup_2.jpg)
@@ -39,7 +39,7 @@ This recipe can make either a thicker soup or a thinner one. I like mine a littl
 </br>
 </br>
 
-This makes quite the pot of soup and is great for company. It’s my favorite to make for a nice Sunday lunch on a cold day with a big loaf of country style crusty bread and maybe a glass of Pinot and then off to bed for a Sunday afternoon nap afterwards. The beauty of it is it doesn’t take long to make at all especially if you are using up some leftover turkey or chicken and it makes such a delicious bowl of comfort food that you will be craving days after you finished it all off. Its loaded with veggies and lots of chicken and I love the bite and texture the wild rice adds to it too. It’s rich and delicious and I know it will be a hit with your family!!
+This makes quite the pot of soup and is great for company. It’s my favourite to make for a nice Sunday lunch on a cold day with a big loaf of country style crusty bread and maybe a glass of Pinot and then off to bed for a Sunday afternoon nap afterwards. The beauty of it is it doesn’t take long to make at all especially if you are using up some leftover turkey or chicken and it makes such a delicious bowl of comfort food that you will be craving days after you finished it all off. Its loaded with veggies and lots of chicken and I love the bite and texture the wild rice adds to it too. It’s rich and delicious and I know it will be a hit with your family!!
 </br>
 </br>
 ![Creamy Chicken And Wild Rice Soup](/images/uploads/2019_01_10_creamy_chicken_and_wild_rice_soup_6.jpg)
