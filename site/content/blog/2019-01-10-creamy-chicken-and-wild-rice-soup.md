@@ -59,9 +59,9 @@ Serves 6-8
 * <span itemprop="ingredients">2 large carrots peeled and chopped</span>
 * <span itemprop="ingredients">1 large onion peeled and finely chopped</span>
 * <span itemprop="ingredients">2 cloves of garlic minced</span>
-* <span itemprop="ingredients">1 1/2 tsp. fresh thyme </span>
+* <span itemprop="ingredients">1 &frac12; tsp. fresh thyme </span>
 * <span itemprop="ingredients">Salt and pepper to taste</span>
-* <span itemprop="ingredients">1/4 cup all-purpose flour</span>
+* <span itemprop="ingredients">&frac14; cup all-purpose flour</span>
 * <span itemprop="ingredients">1 cup wild rice</span>
 * <span itemprop="ingredients">8-10 cups chicken stock</span> or low-sodium broth (homemade or store bought) depending on the thickness you would like soup.
 * <span itemprop="ingredients">2 bay leaves</span>
