@@ -135,21 +135,22 @@ I love to serve this up with a beautiful _horiatiki salad_, or a _maroulosalata_
 
 4. Add your wine if using and continue to sauté and stir until it has reduced 
 
-5. Reserve &frac14; cup of diced/ crushed tomatoes and then add remaining  diced/crushed tomatoes and your heaping tablespoon of tomato  paste and your broth or water to the pan (add more if sauce is too thick as needed) stir well, check and season with S&P to taste and let simmer on medium low for 5-10 min until it's a little thicker and the rice is almost cooked through and remove from heat and set aside
+5. Reserve &frac14; cup of diced/crushed tomatoes and then add remaining  diced/crushed tomatoes and your heaping tablespoon of tomato paste, rice and your broth or water to the pan (add more if sauce is too thick as needed) stir well, check and season with S&P to taste and let simmer on medium low for 5-10 min until it's a little thicker and the rice is almost cooked through and remove from heat and set aside
 
 6. Meanwhile clean and cut the tops off the peppers and remove seeds.
+7. Preheat the oven to 350&deg;F
 
-7. Prepare your pan or casserole dish. Pour the reserved sauce on the bottom of pan and then place the peppers into pan open side up so that they are ready to stuff
+8. Prepare your pan or casserole dish. Pour the reserved sauce on the bottom of pan and then place the peppers into pan open side up so that they are ready to stuff
 
-8. Stuff all the peppers. In fact overstuff them because even if they are overfilled it will just add to the sauce at the bottom of pan (if you have extra stuffing it makes a great lunch bowl so don't stress if you have any left over)
+9. Stuff all the peppers. In fact overstuff them because even if they are overfilled it will just add to the sauce at the bottom of pan (if you have extra stuffing it makes a great lunch bowl so don't stress if you have any left over)
 
-9. Put the tops on the peppers and toss in the chopped potatoes around the peppers 
+10. Put the tops on the peppers and toss in the chopped potatoes around the peppers 
 
-10. Drizzle with a little EVOO and sprinkle some salt over them too
+11. Drizzle with a little EVOO and sprinkle some salt over them too
 
-11. Cover with lid or foil and cook for approximately 45min to an hour depending on size of peppers. Check occasionally after 30 min.  Once they are soft and withered and you can cut through them easily (do knife poke test) then take the lid/foil off and cook for another 10-15 min to brown the tops or if you prefer broil for a few min but really keep an eye on them when broiling so they don't burn. a little charr on the edges is alright and welcome 
+12. Cover with lid or foil and cook for approximately 45min to an hour depending on size of peppers. Check occasionally after 30 min.  Once they are soft and withered and you can cut through them easily (do knife poke test) then take the lid/foil off and cook for another 10-15 min to brown the tops or if you prefer broil for a few min but really keep an eye on them when broiling so they don't burn. a little charr on the edges is alright and welcome 
 
-12. Remove from oven, let cool for a few min and serve drizzled with some of the wonderful sauce at the bottom of the pan
+13. Remove from oven, let cool for a few min and serve drizzled with some of the wonderful sauce at the bottom of the pan
 
 </br>
 ![Greek Stuffed Peppers](/images/uploads/2018_07_06_greek_stuffed_peppers_14.jpg)
