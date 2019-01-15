@@ -54,6 +54,10 @@ The syrup is what brings the dessert together. It’s traditionally flavored wit
 The hardest part is waiting for it to cool to room temperature for the custard to set and make slicing it easy. I love mine just set and still slightly warm. But that is just me. The pieces shown in this post are just barely set and they was so so good! The cooler the pie gets the firmer the custard gets. Most people including my mom say it’s ok to leave this dessert out at room temperature uncovered or loosely covered for a few days which helps keep the custard stay light and the phyllo crisp, but if you aren’t comfortable doing that than feel free to store it in the fridge. The custard will be firmer and the phyllo may lose a bit of its crunch but the taste will still be delicious. Some actually prefer it cold. Either way I know you will love this traditional Greek pastry recipe. It's a lot simpler than you think to make and I hope that breaking down each layer of the pie like this helps. It’s perfect for entertaining because it can feed a crowd and everyone loves it. Enjoy!
 </br>
 </br>
+Recipe adapted by _BBC Food_ and _Akis Petretzikis_
+
+</br>
+</br>
 ![Galaktoboureko – Greek Custard Pie](/images/uploads/2019_01_15_galaktoboureko_7.jpg)
 </br>
 </br>
