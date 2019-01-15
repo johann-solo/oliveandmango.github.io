@@ -41,15 +41,15 @@ I just took this to a friends house over the holidays and it was well received t
 ## Recipe
 ### Ingredients
 
-* two 5 oz. pckgs. of spreadable goat cheese
-* &frac13; cup olive oil
-* 2-3 tbsp. balsamic vinegar
-* 1 tbsp. fresh thyme (or 1&frac12; tbsps of dried thyme)
-* 10 large black olives or kalmata olives (chopped)
-* 2 cloves garlic minced
-* Cracked black pepper
-* Zest of half lemon
-* &frac14; tsp chili flakes
+* <span itemprop="ingredients"> two 5 oz. pckgs. of spreadable goat cheese</span>
+* <span itemprop="ingredients"> &frac13; cup olive oil</span>
+* <span itemprop="ingredients"> 2-3 tbsp. balsamic vinegar</span>
+* <span itemprop="ingredients"> 1 tbsp. fresh thyme (or 1&frac12; tbsps of dried thyme)</span>
+* <span itemprop="ingredients"> 10 large black olives or kalmata olives (chopped)</span>
+* <span itemprop="ingredients"> 2 cloves garlic minced</span>
+* <span itemprop="ingredients"> Cracked black pepper</span>
+* <span itemprop="ingredients"> Zest of half lemon</span>
+* <span itemprop="ingredients"> &frac14; tsp chili flakes</span>
  
 ### Directions 
 

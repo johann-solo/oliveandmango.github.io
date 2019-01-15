@@ -11,6 +11,9 @@ tags:
   - halibut
   - avocado
 excerpt: Perfectly cooked halibut over a creamy bed of green risotto
+keywords: ["halibut", "seafood", "seafood dinners", "risotto", "pan-seared", "avocado", "avocado risotto"]
+description: A classy seafood dinner with pan-seared halibut and lovely avocado risotto. A perfect seafood meal for special ocasions.
+
 ---
 I am a seafood lover. I never say no to a fish option when I can get it but and it’s a big but, I have very little experience and confidence when called on to make a seafood dish. I tend to stick to seafood that I do feel comfortable with like pan seared seafood for fish tacos or curry and probably the easiest of the bunch - shrimp. I’m always up for a challenge and when I got the opportunity to cook from _The Wickanninish cookbook_, although a little intimidating, I ended up choosing a fish dish that was actually quite simple to make and thought it would be the perfect one to share with my followers.
 </br>
@@ -57,21 +60,21 @@ _Serves 4_
 
 **For the risotto**
 
-* 4 cups (1 L) chicken stock
-* 2 Tbsp (30 mL) olive oil
-* 1 small onion, diced small
-* 1 cup (200 g) uncooked arborio rice
-* ½ cup (35 g) chopped fresh morels (or dried and reconsti- tuted with hot water)
-* 1 avocado, diced
-* 2 Tbsp (30 g) butter
-* ¼ cup (25 g) grated Parmesan cheese, or to taste
-* 1 Tbsp (3 g) chopped chives Salt and cracked black pepper
+* <span itemprop="ingredients"> 4 cups (1 L) chicken stock</span>
+* <span itemprop="ingredients"> 2 Tbsp (30 mL) olive oil</span>
+* <span itemprop="ingredients"> 1 small onion, diced small</span>
+* <span itemprop="ingredients"> 1 cup (200 g) uncooked arborio rice</span>
+* <span itemprop="ingredients"> ½ cup (35 g) chopped fresh morels (or dried and reconsti- tuted with hot water)</span>
+* <span itemprop="ingredients"> 1 avocado, diced</span>
+* <span itemprop="ingredients"> 2 Tbsp (30 g) butter</span>
+* <span itemprop="ingredients"> ¼ cup (25 g) grated Parmesan cheese, or to taste</span>
+* <span itemprop="ingredients"> 1 Tbsp (3 g) chopped chives Salt and cracked black pepper</span>
 
 **For the halibut**
 
-* 1 Tbsp (15 mL) olive oil, plus additional for garnish
-* 4 fillets fresh halibut, 5 oz (140 g) each
-* Salt and cracked black pepper
+* <span itemprop="ingredients"> 1 Tbsp (15 mL) olive oil, plus additional for garnish</span>
+* <span itemprop="ingredients"> 4 fillets fresh halibut, 5 oz (140 g) each</span>
+* <span itemprop="ingredients"> Salt and cracked black pepper</span>
 
 ### Directions
 

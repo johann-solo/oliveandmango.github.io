@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_01_08_chocolate_hazelnut_florentine_cookies_1.jpg
 scaled_thumbnail: /images/uploads/2019_01_08_chocolate_hazelnut_florentine_cookies_0.jpg
 categories: ["desserts"]
-tags: ["chocolate", "cookies", "hazelnuts"]
+tags: ["chocolate", "cookies", "hazelnuts", "feedfeed"]
 excerpt: Crunchy, nutty and extra special with a layer of Nutella
 keywords: ["chocolate", "cookies", "hazelnuts", "nutella", "lace cookies", "biscuits"]
 description: These paper thing lace cookies are crunchy, nutty and extra special with the addition of that layer of Nutella between them.
@@ -81,5 +81,7 @@ Makes about 30 cookies
 16. You can make batches and freeze them without the Nutella in a sealed container with waxed paper between each cookie. 
 17. Thaw at room temperature before serving and assemble with Nutella after they have thawed.
 
+</br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
 ![Chocolate Hazelnut Florentine Cookies (Lace Cookies)](/images/uploads/2019_01_08_chocolate_hazelnut_florentine_cookies_7.jpg)
