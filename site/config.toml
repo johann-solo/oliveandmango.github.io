@@ -8,7 +8,7 @@ canonifyURLs = true
 
 
 [params]
-  description = "Inspiring ideas for delicious home cooking."
+  description = "A food blog about delicious home cooking that anyone can make. We create stunning food and drink photography that can tell a compelling culinary story"
    AuthorName = "Joanne"
 
 [taxonomies]
