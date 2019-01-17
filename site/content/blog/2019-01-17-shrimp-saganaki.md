@@ -63,26 +63,26 @@ Serves 4-6
 
 ### Ingredients 
 
-* 4 tbsp of Extra-virgin olive oil divided 
-* 1 small red onion, finely sliced
-* 4 garlic cloves, minced
-* Salt and pepper
-* 2 cups cherry tomatoes or 1 can (14&frac12; oz.) tomatoes, drained and finely chopped 
-* &frac12; tsp crushed red pepper flakes
-* &frac12; tsp sweet paprika 
-* 1 - 1&frac12; pounds large shrimp, peeled and deveined (thawed if frozen) 
-* &frac12; cup of Greek feta cheese, crumbled plus more for serving 
-* 1 tsp tsp dried oregano
-* 2 tbsp each roughly chopped mint and parsley plus extra for garnish while plating 
+* <span itemprop="ingredients"> 4 tbsp of Extra-virgin olive oil divided </span>
+* <span itemprop="ingredients"> 1 small red onion, finely sliced</span>
+* <span itemprop="ingredients"> 4 garlic cloves, minced</span>
+* <span itemprop="ingredients"> Salt and pepper</span>
+* <span itemprop="ingredients"> 2 cups cherry tomatoes </span>or 1 can (14&frac12; oz.) tomatoes, drained and finely chopped 
+* <span itemprop="ingredients"> &frac12; tsp crushed red pepper flakes</span>
+* <span itemprop="ingredients"> &frac12; tsp sweet paprika </span>
+* <span itemprop="ingredients"> 1 - 1&frac12; pounds large shrimp</span>, peeled and deveined (thawed if frozen) 
+* <span itemprop="ingredients"> &frac12; cup of Greek feta cheese</span>, crumbled plus more for serving </span>
+* <span itemprop="ingredients"> 1 tsp tsp dried oregano</span>
+* <span itemprop="ingredients"> 2 tbsp each roughly chopped mint and parsley </span>plus extra for garnish while plating 
 
 __For the lemon parsley orzo__
 
-* 1 tsp salt
-* 8 oz. orzo pasta (about 1&frac13; cups)
-* 2 tbsp butter
-* 1&frac12; tsps lemon zest
-* &frac12; tsp lemon juice
-* 2 tbsp fresh parsley, minced
+* <span itemprop="ingredients"> 1 tsp salt</span>
+* <span itemprop="ingredients"> 8 oz. orzo pasta (about 1&frac13; cups)</span>
+* <span itemprop="ingredients"> 2 tbsp butter</span>
+* <span itemprop="ingredients"> 1&frac12; tsps lemon zest</span>
+* <span itemprop="ingredients"> &frac12; tsp lemon juice</span>
+* <span itemprop="ingredients"> 2 tbsp fresh parsley, minced</span>
 
 ### Directions
 
