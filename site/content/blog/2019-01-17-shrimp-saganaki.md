@@ -94,8 +94,8 @@ __For the lemon parsley orzo__
 6. Arrange cherry tomatoes, garlic and onion on a rimmed baking sheet, then drizzle with remaining olive oil and toss. Season with salt and pepper.
 7. Arrange shrimp over tomato mixture in one layer. 
 8. Crumble cheese over surface
-9. Roast until the shrimp are opaque and the tomatoes begin to burst, 10-15 minutes.
-10. Finish with a generous squeeze of lemon and sprinkling of fresh mint and parsley along with extra cheese.
+9. Roast until the shrimp are opaque and the tomatoes begin to burst, 10-15 minutes. If you want a crispier edge to your shrimp you can put the oven on broil for the last minute or two 
+10. of baking (no more as you don’t want to overcook your shrimp) until the edges are browned and crisp. Remove them from the oven and finish them with a generous squeeze of lemon and sprinkling of fresh mint and parsley along with extra cheese if you would like.
 11. Serve with salad, bread, or pasta. I served mine with lemons parsley orzo and it was fantastic.
 
 </br>
