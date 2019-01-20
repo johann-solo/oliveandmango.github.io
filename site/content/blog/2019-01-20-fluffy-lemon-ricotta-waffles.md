@@ -44,6 +44,10 @@ Lemon ricotta is quite a classic combo for baked goods and it works beautifully 
 </br>
 </br>
 
+Recipe adpated from _The Food Network_ and _Joy the Baker_
+</br>
+</br>
+
 ## Recipe
 Makes 4-6 waffles depending on size of waffles 
 </br>
