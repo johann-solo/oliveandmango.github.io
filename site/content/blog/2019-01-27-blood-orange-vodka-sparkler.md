@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_01_27_blood_orange_vodka_sparkler_1.jpg
 scaled_thumbnail: /images/uploads/2019_01_27_blood_orange_vodka_sparkler_0.jpg
 categories: ["drinks"]
-tags: ["blood oranges", "vodka", "cocktails", "citrus"]
+tags: ["blood oranges", "vodka", "cocktails", "citrus", "feedfeed"]
 excerpt: A blood orange vodka cocktail that is easy to make and extremely refreshing
 keywords: ["blood orange", "vodka", "cocktails", "libations", "mixed drinks", "sparkler", "vodka drinks"]
 description: A blood orange vodka cocktail that is easy to make and extremely refreshing. This mixed vodka drink is fun and fizzy.
@@ -85,5 +85,7 @@ Serves 1
 2. Remove from heat and add the rosemary sprigs along with the bay leaf if using and allow to steep and cool to room temperature. 
 3. Discard the rosemary and bay leaf and store the simple syrup in a sealed container in the fridge until ready to use. Can be stored for at least two weeks and up to 6 months.
 
+</br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
 ![Blood Orange Vodka Sparkler](/images/uploads/2019_01_27_blood_orange_vodka_sparkler_6.jpg)
