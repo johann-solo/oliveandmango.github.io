@@ -19,7 +19,7 @@ Traditional advertising has changed a lot in the last few years. Many brands are
 </br>
 
 ### Recipe Development
-Do you have a fantastic product? Would you like to see who it can be incorporated into a delicious meal? Olive & Mango can provide a tailor-made recipe that can meet your needs.
+Do you have a fantastic product? Would you like to see how it can be incorporated into a delicious meal? Olive & Mango can provide a tailor-made recipe that can meet your needs.
 </br>
 </br>
 

@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_01_13_chestnut_bread_with_a_brown_butter_chocolate_whipped_ganache_1.jpg
 scaled_thumbnail: /images/uploads/2019_01_13_chestnut_bread_with_a_brown_butter_chocolate_whipped_ganache_0.jpg
 categories: ["bread"]
-tags: ["chestnuts", "chocolate", "ganache"]
+tags: ["chestnuts", "chocolate", "ganache", "feedfeed"]
 excerpt: A lovely and fragrant bread made with chestnut purée
 keywords: ["chestnut", "chocolate", "ganache", "chestnut bread", "bread"]
 description: A lovely and fragrant bread made with chestnut purée. This chestnut bread is nutty with a sweet fragrance
@@ -89,5 +89,7 @@ __Brown Butter Chocolate Ganache__
 
 Recipe adapted from __Go Bake Yourself__ and __Linda Lomelino__
 
+</br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
 ![Chestnut Bread With A Brown Butter Chocolate Whipped Ganache](/images/uploads/2019_01_13_chestnut_bread_with_a_brown_butter_chocolate_whipped_ganache_7.jpg)
