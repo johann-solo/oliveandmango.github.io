@@ -42,7 +42,7 @@ I love the herb dressing that gets drizzled over the fries before serving. It’
 
 ### Ingredients 
 
-* <span itemprop="ingredients">3 lbs baby potatoes or two packages of Little potato company potatoes (white, baby red potatoes, or a mix of the two)</span>
+* <span itemprop="ingredients">3 lbs baby potatoes (white, baby red potatoes, or a mix of the two)</span>
 * <span itemprop="ingredients">6 tbsps olive oil divided plus a little more for drizzling over baking pan</span>
 * <span itemprop="ingredients">1-1&frac12; tbsp of Italian seasoning (more if you want your potatoes extra herby </span>
 * <span itemprop="ingredients">1 tsp kosher salt</span>
@@ -52,7 +52,7 @@ I love the herb dressing that gets drizzled over the fries before serving. It’
 * <span itemprop="ingredients">&frac14; lb of pancetta chopped (bacon can be used as an alternative</span>
 * <span itemprop="ingredients">&frac14; cup chopped parsley </span>
 * <span itemprop="ingredients">&frac12; cup of crumbled feta (more to taste) </span>
-* <span itemprop="ingredients">1 cup of homemade or store bought tzatziki to dip or dollop (optional) - homage tzatziki recipe below </span>
+* <span itemprop="ingredients">1 cup of homemade or store bought tzatziki to dip or dollop (optional) - homemade tzatziki recipe below </span>
 * <span itemprop="ingredients">Lemon wedges to serve (optional)</span>
 
 
@@ -64,7 +64,7 @@ I love the herb dressing that gets drizzled over the fries before serving. It’
 4. Preheat oven to 400 &deg; F with baking sheet inside to get it nice and hot.
 5. After the half hour is up rinse the potatoes with clean cold water, and place into a kitchen towel or paper towels to dry thoroughly. 
 6. Transfer the dried potatoes into a large mixing bowl.
-7. Add 4 tbsps of the olive oil and toss to coat.  
+7. Add 4 tbsps of the olive oil and toss to coat.
 8. Add all seasonings and use your hands to rub the mixture into all the potatoes.
 9. Remove baking sheet from oven (very carefully as it will be HOT!!), and drizzle it lightly with a little bit of extra olive oil.  
 10. Add potatoes to hot baking sheet and spread carefully into an even layer.

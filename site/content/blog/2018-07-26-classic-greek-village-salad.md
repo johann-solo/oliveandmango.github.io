@@ -65,7 +65,7 @@ It’s a salad that I never tire of and is especially the best when you have the
 ### Ingredients
 
 * 4-5 medium sized ripe Tomatoes chopped into wedges 
-* 1 medium sized washed and chopped (peeling skin is optional)
+* 1 medium sized English cucumber or 3-4 mini seedless ones washed and chopped (peeling skin is optional)
 * 1 Sweet green pepper seeds and stem removed and sliced
 * 1 Small red onion sliced
 * Salt and pepper to taste
