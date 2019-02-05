@@ -56,16 +56,16 @@ This is perfect for parties and always a hit. It also looks fabulous with the we
 ## Recipe
 ### Ingredients
 
-* 8 oz. ground sweet or spicy Italian sausage
-* 1/2 cup prepared or homemade pizza sauce, plus more for serving (homemade sauce recipe below) 
-* Nonstick cooking spray, for greasing the pan
-* Two 8-ounce tubes refrigerated crescent roll dough
-* 4 oz. deli ham slices, cut in half
-* 16 slices pepperoni 
-* 5 slices Mozzarella or Provolone cheese, cut in half (about 5 oz.)
-* 2 tablespoons unsalted butter, melted
-* 1 teaspoon Italian seasoning
-* 1 tsp grated Parmesan cheese 
+* <span itemprop="ingredients"> 8 oz. ground sweet or spicy Italian sausage</span>
+* <span itemprop="ingredients"> &frac12; cup prepared or homemade pizza sauce, plus more for serving (homemade sauce recipe below) </span>
+* <span itemprop="ingredients"> Nonstick cooking spray, for greasing the pan</span>
+* <span itemprop="ingredients"> Two 8-ounce tubes refrigerated crescent roll dough</span>
+* <span itemprop="ingredients"> 4 oz. deli ham slices, cut in half</span>
+* <span itemprop="ingredients"> 16 slices pepperoni </span>
+* <span itemprop="ingredients"> 5 slices Mozzarella or Provolone cheese, cut in half (about 5 oz.)</span>
+* <span itemprop="ingredients"> 2 tablespoons unsalted butter, melted</span>
+* <span itemprop="ingredients"> 1 teaspoon Italian seasoning</span>
+* <span itemprop="ingredients"> 1 tsp grated Parmesan cheese </span>
 
 ### Directions 
 
