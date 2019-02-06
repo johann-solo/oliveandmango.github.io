@@ -48,6 +48,8 @@ This is a great staple recipe made with mostly pantry items. It’s one of those
 
 ## Recipe
 Serves 4
+</br>
+</br>
 
 ### Ingredients
 
@@ -79,7 +81,10 @@ Serves 4
 
 ### Recipe notes
 To freeze, portion out into meal prep containers, cool completely, then freeze for up to 2 months. Thaw overnight in the fridge, then reheat until steaming hot in the microwave or stove top.
-
 </br>
+</br>
+
+Recipe adapted from _Bon Appetit_
+
 </br>
 ![Curried Chickpeas With Spinach and Tomatoes](/images/uploads/2019_02_05_curried_chickpeas_with_spinach_and_tomatoes_7.jpg)
