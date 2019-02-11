@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_02_09_glazed_blood_orange_and_lavender_loaf_1.jpg
 scaled_thumbnail: /images/uploads/2019_02_09_glazed_blood_orange_and_lavender_loaf_0.jpg
 categories: ["bread"]
-tags: ["blood orange", "lavender"]
+tags: ["blood oranges", "lavender"]
 excerpt: A bright and citrusy twist on a classic sweet loaf to add to your book of favourites
 keywords: ["blood orange", "lavender", "glazed", "glazed loaf", "blood orange cake"]
 description: A classic citrus loaf with a blood orange punch of flavour both in the cake and in the glaze.
