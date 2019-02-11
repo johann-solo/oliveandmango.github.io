@@ -3,8 +3,8 @@ title = "Workshops"
 +++
 
 <div class="workshop_title">
-  <!-- <h1>Workshops</h1> -->
-  <h1>Workshops in Trinidad February 10th 2019!</h1>
+  <h1>Workshops</h1>
+  <!-- <h1>Workshops in Trinidad February 10th 2019!</h1> -->
   <!-- <h2>Food Photography And Styling – Beginner and Intermediate</h2> -->
 </div>  
 </br>
@@ -17,7 +17,7 @@ title = "Workshops"
 <div class="page-content">
   <div class="container">
 
-  <p>We are happy to announce our workshops – <i>An Introduction To Food Photography And Styling</i> as well as an all new <i>Intermediate Food Photography And Styling</i>.
+  <!-- <p>We are happy to announce our workshops – <i>An Introduction To Food Photography And Styling</i> as well as an all new <i>Intermediate Food Photography And Styling</i>.
   We will be exploring fundamental composition, colour theory, camera gear, props, Instagram and a whole lot more! This course will be interactive and focused.</p>
   </br>
 
@@ -30,7 +30,7 @@ title = "Workshops"
     <li>Limit: 10 persons</li>
     <!-- <li class="highlight">Bonus: Each student will get a starter kit from some of our favourite local brands and companies. We would like to thank our sponsors: 
     <a href="https://kaiandpixie.com"target="_blank">Kai &amp; Pixie</a>, 
-    <a href="http://www.dmarketmovers.com"target="_blank">D'Market Movers</a> -->
+    <a href="http://www.dmarketmovers.com"target="_blank">D'Market Movers</a> 
   </ul>
 
   <ul>
@@ -43,8 +43,8 @@ title = "Workshops"
   </ul>
   </br>
 
-  <h3>Sign up below to receive a confirmation email with instructions to enrol. We look forward to meeting you!</h3>
-  <!-- <h3>If you would like to be notified of future dates, giveaways and blog updates you can sign up below and indicate which country you would like to attend</h3> -->
+  <!-- <h3>Sign up below to receive a confirmation email with instructions to enrol. We look forward to meeting you!</h3> -->
+  <h3>If you would like to be notified of future dates, giveaways and blog updates you can sign up below</h3>
   </br>
 
   <form class="workshop_form" name="workshops" netlify>
@@ -55,7 +55,7 @@ title = "Workshops"
       <input class="placeholder_text" type="email" placeholder="Your Email" name="email"></label>
     </p>
     </br>
-    <p>
+    <!-- <p>
       <h4>Choose which workshop(s) you would like to attend</h4>
       <div class="checkbox">
         <div>
@@ -71,7 +71,7 @@ title = "Workshops"
     </p>
     <p>
       <textarea class="textarea_text" placeholder="Anything you want to tell us? "name="message"></textarea>
-    </p>
+    </p> -->
     <p>
       <button class="btn" type="submit">Submit</button>
     </p>
