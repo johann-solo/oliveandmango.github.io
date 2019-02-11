@@ -50,17 +50,17 @@ We really enjoyed shooting this loaf for obvious reasons. The glaze is just the 
 
 ### Ingredients
 
-* 1&frac12; cups granulated sugar
-* 2 tbsp blood orange zest
-* 1 tsp of edible (food grade) lavender buds chopped as fine as possible plus more for garnish 
-* 2&frac12; cups all-purpose flour
-* 1 tbsp baking powder
-* &frac12; tsp salt
-* 4 eggs
-* &frac23; cup coconut oil or you can use canola 
-* &frac13; cup Greek yoghurt 
-* 2 tsp vanilla
-* &frac14; cup blood orange juice, strained
+* <span itemprop="ingredients"> 1&frac12; cups granulated sugar</span>
+* <span itemprop="ingredients"> 2 tbsp blood orange zest</span>
+* <span itemprop="ingredients"> 1 tsp of edible (food grade) lavender buds chopped as fine as possible plus more for garnish </span>
+* <span itemprop="ingredients"> 2&frac12; cups all-purpose flour</span>
+* <span itemprop="ingredients"> 1 tbsp baking powder</span>
+* <span itemprop="ingredients"> &frac12; tsp salt</span>
+* <span itemprop="ingredients"> 4 eggs</span>
+* <span itemprop="ingredients"> &frac23; cup coconut oil or you can use canola </span>
+* <span itemprop="ingredients"> &frac13; cup Greek yoghurt </span>
+* <span itemprop="ingredients"> 2 tsp vanilla</span>
+* <span itemprop="ingredients"> &frac14; cup blood orange juice, strained</span>
 
 __For the glaze__
 
