@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_02_09_sorrel_hot_toddy_1.jpg
 scaled_thumbnail: /images/uploads/2018_02_09_sorrel_hot_toddy_0.jpg
 categories: ["drinks"]
-tags: ["sorrel"]
+tags: ["sorrel", "hibiscus"]
 excerpt: A warm and soothing drink – bright in colour and cozy in flavours
 ---
 

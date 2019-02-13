@@ -12,7 +12,14 @@ title = "Resources"
 <h4>Download our PDF guides</h4>
 <a download href="pdfs/an introduction to food photography and styling.pdf">
   <i class="resource_icon fa fa-file-pdf-o" aria-hidden="true"></i>
-  <p>Intro</p>
+  <p>Introduction to food photography and styling</p>
+</a>
+
+</br>
+</br>
+<a download href="pdfs/intermediate food photography and styling.pdf">
+  <i class="resource_icon fa fa-file-pdf-o" aria-hidden="true"></i>
+  <p>Intermediate food photography and styling</p>
 </a>
 
 </br>

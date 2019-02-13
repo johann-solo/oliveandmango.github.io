@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_02_14_winter_sorrel_margarita_1.jpg
 scaled_thumbnail: /images/uploads/2018_02_14_winter_sorrel_margarita_0.jpg
 categories: ["drinks"]
-tags: ["cocktails"]
+tags: ["cocktails", "hibiscus"]
 excerpt: Brighten up your margarita with floral and spicy notes
 
 ---
