@@ -95,8 +95,8 @@ Makes 1 shallow 9 inch pie/tart dish or 4 small to medium ramekins
 3. Add the prepared pears and poach at a very low simmer for 20-25 minutes, turning the pears frequently for an even colour, until tender but not too soft (a well poached pear should be easily sliced & eaten with just a spoon. The poaching time will vary depending on the ripeness of the pears).
 4. Take the pot off the heat and leave the pears to cool in the poaching liquid, turning them occasionally.
 5. Remove the pears from the liquid onto a plate, strain the liquid (don’t throw it away!) & discard the hibiscus flowers and spices. 
-6. Serve the pears at room temperature or warm with plain yoghurt and some extra poaching liquid spooned on top. If you prefer a thicker syrup to drizzle over the pears, return the poaching liquid to the pot after straining it and simmer until reduced to desired consistency. 
-7. Store leftovers in an airtight container in the fridge for up to 5 days. They are great for breakfast!
+6. Serve the pears at room temperature or warm with baked yoghurt and some extra poaching liquid spooned on top. I also topped mine with some chopped pistachios for a little crunch. If you prefer a thicker syrup to drizzle over the pears, return the poaching liquid to the pot after straining it and simmer until reduced to desired consistency. 
+7. Store leftovers in an airtight container in the fridge for up to 5 days. They are great for breakfast over your warm oats or your yoghurt breakfast bowl. Any leftover reserved poaching liquid can be used in cocktails or drinks.
 
 ### Recipe Notes
 &ast; Dried Hibiscus flowers or petals can be found in spice shops or health stores. If you cannot find the whole flowers or petals, you can use 2 hibiscus teabags.
