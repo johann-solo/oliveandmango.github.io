@@ -1,25 +1,29 @@
-console.log('hello')
-
 import Fuse from 'fuse.js'
 const list = require('../../dist/index.json')
 
 const options = {
   keys: ['title', 'tags'],
   minMatchCharLength: 3,
-  threshold: 0.4
+  threshold: 0.3
 }
-
-function getURLParameter(name) {
-  return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search) || [null, ''])[1].replace(/\+/g, '%20')) || null;
-}
-
-const query = getURLParameter('query')
 
 const fuse = new Fuse(list, options)
 
-const submitSearch = (query) => {
-  const results = fuse.search(query)
-  console.log(results)
+const button = document.getElementById('submitsearch')
+
+button.onclick = function () {
+  const search = searchquery.value
+  if (search) {
+    submitSearch(search)
+  }
 }
 
-submitSearch(query)
+function submitSearch(query) {
+  const results = fuse.search(query)
+  const resultsContainer = document.getElementById('results')
+  results.forEach(result => {
+    const li = document.createElement('li')
+    resultsContainer.appendChild(li)
+    li.innerHTML = `<a href="${result.permalink}">${result.title}</a>`
+  })
+}
