@@ -50,6 +50,11 @@ They are like a rich chocolatey fudgey After eight thin mints or sticks. You all
 <br>
 <br>
 
+## Recipe
+Makes aprox. 30-36 cookies if using tablespoon per cookie
+</br>
+</br>
+
 ### Ingredients
 
 * 1&frac12; cups all purpose flour
@@ -74,21 +79,21 @@ They are like a rich chocolatey fudgey After eight thin mints or sticks. You all
 
 1. Place the sugar and mint in a food processor and blend until the mixture resembles green wet coarse sand (skip this step if using peppermint extract)
 
-1. In a medium saucepan over low heat melt the butter and the semisweet chocolate stirring often. REMOVE from heat when melted and transfer to a large mixing bowl then add the mint sugar mixture or peppermint extract and then the vanilla and incorporate the eggs whisking the mixture vigorously to incorporate them.
+2. In a medium saucepan over low heat melt the butter and the semi-sweet chocolate stirring often. REMOVE from heat when melted and transfer to a large mixing bowl then add the mint sugar mixture or peppermint extract and then the vanilla and the eggs whisking the mixture vigorously to incorporate them.
 
-1. Add and stir in a third of the dry ingredients into the chocolate mixture. Repeat until all the dry ingredients have been incorporated. Cover bowl with plastic wrap and refrigerate for an hour in ok firm or over night if making ahead.
+3. Add and stir in a third of the dry ingredients into the chocolate mixture. Repeat until all the dry ingredients have been incorporated. Cover bowl with plastic wrap and refrigerate for an hour until firm, or overnight if making ahead.
 
-1. Remove the dough from the refrigerator and line a baking sheet with parchment paper
+4. Remove the dough from the refrigerator and line a baking sheet with parchment paper
 
-1. Place the granulated sugar and powdered sugar in two separate bowls near the bowl of cookie dough. Scoop one tbsp of the dough into your hand, roll and shape it into a ball and place on a plate. Repeat with all the remaining dough.
+5. Place the granulated sugar and powdered sugar in two separate bowls near the bowl of cookie dough. Scoop one tbsp of the dough into your hand, roll and shape it into a ball and place on a plate. Repeat with all the remaining dough.
 
-1. Roll each ball into the granulated sugar first and then roll them into the powdered sugar to coat well.
+6. Roll each ball into the granulated sugar first and then roll them into the powdered sugar to coat well.
 
-1. Place them on a baking sheet approx 1-2 inches apart and bake them for 10-12 minutes until the cookie tops begin to split. Remove from oven and cool in pan for a few minutes and then transfer cookies from pan to cooling rack.
+7. Place them on a baking sheet approx 1-2 inches apart and bake them for 10-12 minutes until the cookie tops begin to split. Remove from oven and cool in pan for a few minutes and then transfer cookies from pan to cooling rack.
 
-1. Cookies will keep in an airtight container for approx 1 week
+8. Cookies will keep in an airtight container for approx 1 week
 
-Inspired by Simply Scratch for using fresh peppermint and adapted by the Kitchn’s classic crinkle cookie recipe
+Inspired by _Simply Scratch_ for using fresh peppermint and adapted by the _Kitchn’s_ classic crinkle cookie recipe
 <br>
 <br>
 ![Chocolate Mint Crinkle Cookies](/images/uploads/2017_12_16_chocolate_crinkle_cookies_9.jpg)
