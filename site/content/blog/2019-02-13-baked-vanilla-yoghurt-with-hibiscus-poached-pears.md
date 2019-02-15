@@ -25,7 +25,7 @@ When we moved back to Canada from Trinidad last year in June, one of the things 
 </br>
 </br>
 
-I knew I would miss the sorrel season as I would be in Canada so I stocked up on a few packs. I just flew back from Trinidad after a whirlwind 6 day trip and I promised myself to would remember to bring back more but I totally forgot, so I’m totally kicking myself for forgetting. We will likely have to go back soon so it will be high on my list of things to get while I’m there.
+I knew I would miss the sorrel season as I would be in Canada so I stocked up on a few packs. I just flew back from Trinidad after a whirlwind 6 day trip and I promised myself that I would remember to bring back more but I totally forgot, so I’m totally kicking myself for forgetting. We will likely have to go back soon so it will be high on my list of things to get while I’m there.
 </br>
 </br>
 ![Baked Vanilla Yoghurt With Hibiscus Poached Pears](/images/uploads/2019_02_13_baked_vanilla_yoghurt_with_hibiscus_poached_pears_4.jpg)
@@ -46,7 +46,7 @@ Don’t be too intimidated when it comes to coring the pears. Coring them is opt
 </br>
 </br>
 
-This is such a tasty desert and those beautiful hibiscus poached pears make it quite the show stopping dessert. I call this winters Panna Cotta cause it’s baked and delicious and really and truly goes with any fruit you would like to add to it. It a hit at home as we are all lovers of yoghurt in our house and also cause it so darn simple to make and turns out delicious every time. Can’t recommend it enough. Hope you try it - I know you’ll love it!
+This is such a tasty dessert and those beautiful hibiscus poached pears make it quite the show stopping dessert. I call this a Winter Panna Cotta because it’s baked and delicious and really and truly goes with any fruit you would like to add to it. It's a hit at home as we are all lovers of yoghurt in our house and also because it is so darn simple to make and turns out delicious every time. Can’t recommend it enough. Hope you try it - I know you’ll love it!
 </br>
 </br>
 ![Baked Vanilla Yoghurt With Hibiscus Poached Pears](/images/uploads/2019_02_13_baked_vanilla_yoghurt_with_hibiscus_poached_pears_7.jpg)
@@ -58,18 +58,18 @@ Makes 1 shallow 9 inch pie/tart dish or 4 small to medium ramekins
 
 * 2 cups full fat Greek style yoghurt
 * 1 cup (1 x 380gm) tin condensed milk
-* &frac14; cup milk powder (powdered coconut milk)
+* &frac14; cup milk powder (I used powdered coconut milk)
 * 2 tbsp of heavy cream 
 * &frac12; tsp finely grated zest of an orange
 * 1 tsp pure vanilla extract
 
 ### Directions
 
-1. Pre-heat the oven to 180&deg;C. 
+1. Pre-heat the oven to 350&deg;F
 2. In a bowl combine all of the above ingredients and whisk well until very smooth and combined. 
 3. Pour into a wide flatish ceramic or cast iron oven proof dish or 4 ramekins. 
 4. Place the dish in a high sided roasting tray and fill the tray with hot water to approx &frac12;-&frac34; of the way up the sides creating a water bath 
-5. Bake for 40 minutes until starting to turn golden and set and then turn off the oven and allow to cool completely. If I make it at night I just leave it in the oven over night, otherwise remove it from the oven and  out the water bath and allow to cool to room temperature. 
+5. Bake for 40 minutes until starting to turn golden and set and then turn off the oven and allow to cool completely. If I make it at night I just leave it in the oven over night, otherwise remove it from the oven and take it out the water bath and allow it to cool to room temperature. 
 6. Cover and refrigerate until cold and serve. This can be made the day before.
 </br>
 </br>

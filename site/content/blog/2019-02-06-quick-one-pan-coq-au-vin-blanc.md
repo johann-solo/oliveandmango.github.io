@@ -73,7 +73,7 @@ Serves 4-6
 ### Directions
 
 1. Season chicken with salt and pepper and sprinkle with flour if using 
-2. Heat a large frying pan with the olive oil over medium-high heat. Add the bacon and cook until almost crisp, 2 to 3 min. 
+2. Heat a large frying pan with the olive oil over medium-high heat. Add the bacon and cook until almost crisp, 2 to 3 min. (Feel free to drain off some of the fat but ensure there are approx 2tbsp left in the pan to sauté the veggies with and brown the chicken) 
 3. Add mushrooms, celery, carrots, garlic and onion/shallots and continue cooking, stirring often, until bacon is crisp and mushrooms are browned, 7 to 8 min.
 4. Slide the vegetables and bacon to the side of pan, then add chicken, skin-side down, to other side of pan and cook until dark golden, about 4 min per side. May have to do this in batches if they all don’t fit in your pan. 
 5. Keep and eye on the veggies and stir them about while browning the chicken so you don’t have any burnt pieces.  
