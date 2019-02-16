@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2019_02_16_classic_butter_chicken_1.jpg
 scaled_thumbnail: /images/uploads/2019_02_16_classic_butter_chicken_0.jpg
 categories: ["mains"]
 tags: ["chicken", "Indian"]
-excerpt: A creamy and spicy Indian dish that is univerally loved
+excerpt: A creamy and spicy Indian dish that is universally loved
 keywords: ["chicken", "Indian food", "easy Indian food", "butter chicken recipe", "how to make butter chicken"]
 description: Easy to make butter chicken recipe from the talented Swayampurna Mishra. Classic Indian cuisine that you can make at home.
 ---
@@ -53,29 +53,29 @@ Makes 4 servings
 
 ### Ingredients
 
-* 1 tbsp vegetable oil
-* 3&frac12; tbsp butter, divided
-* 2 green cardamom pods
-* 1 (&frac12; inch) cinnamon stick
-* 2 cloves 
-* 1 (&frac12 inch) piece of fresh ginger, finely chopped
-* 8 cloves garlic, finely chopped
-* 1 green chili, deseeded and finely chopped
-* 1 large red onion, coarsely chopped 
-* 6 large tomatoes, puréed, or 1 cup tomato purée
-* Salt (as needed)
-* Water (as needed)
-* Pinch of asafetida (hing; optional)
-* 1 tsp Kashmiri red chili powder 
-* &frac12; tsp ground coriander
-* 1 tbsp tandoori chicken seasoning 
-* &frac14; tsp garam masala
-* 1 tbsp dried fenugreek leaves (kasuri methi)
-* 25 oz chicken breast and thigh meat, cut into 1&frac12; inch cubes
-* 2 tbsp room-temperature cream (plus for drizzling)
-* Fresh cilantro (for garnish)
-* &frac12; tsp honey
-* Rice, naan and Mango Saffron Lassi (for serving)
+* <span itemprop="ingredients"> 1 tbsp vegetable oil</span>
+* <span itemprop="ingredients"> 3&frac12; tbsp butter, divided</span>
+* <span itemprop="ingredients"> 2 green cardamom pods</span>
+* <span itemprop="ingredients"> 1 (&frac12; inch) cinnamon stick</span>
+* <span itemprop="ingredients"> 2 cloves </span>
+* <span itemprop="ingredients"> 1 (&frac12 inch) piece of fresh ginger, finely chopped</span>
+* <span itemprop="ingredients"> 8 cloves garlic, finely chopped</span>
+* <span itemprop="ingredients"> 1 green chili, deseeded and finely chopped</span>
+* <span itemprop="ingredients"> 1 large red onion, coarsely chopped </span>
+* <span itemprop="ingredients"> 6 large tomatoes, puréed, or 1 cup tomato purée</span>
+* <span itemprop="ingredients"> Salt (as needed)</span>
+* <span itemprop="ingredients"> Water (as needed)</span>
+* <span itemprop="ingredients"> Pinch of asafetida (hing; optional)</span>
+* <span itemprop="ingredients"> 1 tsp Kashmiri red chili powder </span>
+* <span itemprop="ingredients"> &frac12; tsp ground coriander</span>
+* <span itemprop="ingredients"> 1 tbsp tandoori chicken seasoning </span>
+* <span itemprop="ingredients"> &frac14; tsp garam masala</span>
+* <span itemprop="ingredients"> 1 tbsp dried fenugreek leaves (kasuri methi)</span>
+* <span itemprop="ingredients"> 25 oz chicken breast and thigh meat, cut into 1&frac12; inch cubes</span>
+* <span itemprop="ingredients"> 2 tbsp room-temperature cream (plus for drizzling)</span>
+* <span itemprop="ingredients"> Fresh cilantro (for garnish)</span>
+* <span itemprop="ingredients"> &frac12; tsp honey</span>
+* <span itemprop="ingredients"> Rice, naan and Mango Saffron Lassi (for serving)</span>
 
 ### Directions
 
