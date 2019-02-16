@@ -58,7 +58,7 @@ Makes 4 servings
 * <span itemprop="ingredients"> 2 green cardamom pods</span>
 * <span itemprop="ingredients"> 1 (&frac12; inch) cinnamon stick</span>
 * <span itemprop="ingredients"> 2 cloves </span>
-* <span itemprop="ingredients"> 1 (&frac12 inch) piece of fresh ginger, finely chopped</span>
+* <span itemprop="ingredients"> 1 (&frac12; inch) piece of fresh ginger, finely chopped</span>
 * <span itemprop="ingredients"> 8 cloves garlic, finely chopped</span>
 * <span itemprop="ingredients"> 1 green chili, deseeded and finely chopped</span>
 * <span itemprop="ingredients"> 1 large red onion, coarsely chopped </span>
