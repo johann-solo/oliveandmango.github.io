@@ -77,16 +77,16 @@ Makes 1 shallow 9 inch pie/tart dish or 4 small to medium ramekins
 ## Hibiscus poached pears 
 ### Ingredients
 
-* 1 cup dried hibiscus flowers* contents of two hibiscus tea bags 
-* 2 whole star anise
-* 5 cardamom pods
-* 1 cinnamon stick
-* 5 cloves
-* &frac13; cup honey or maple syrup or sugar (more to taste) 
-* Peel of one orange 
-* 1 litre water
-* &frac12; cup of wine or more of you want it boozy 
-* 6 small to medium firm pears, peeled and cored, leaving stems on**
+* <span itemprop="ingredients"> 1 cup dried hibiscus flowers* contents of two hibiscus tea bags </span>
+* <span itemprop="ingredients"> 2 whole star anise</span>
+* <span itemprop="ingredients"> 5 cardamom pods</span>
+* <span itemprop="ingredients"> 1 cinnamon stick</span>
+* <span itemprop="ingredients"> 5 cloves</span>
+* <span itemprop="ingredients"> &frac13; cup honey or maple syrup or sugar (more to taste) </span>
+* <span itemprop="ingredients"> Peel of one orange </span>
+* <span itemprop="ingredients"> 1 litre water</span>
+* <span itemprop="ingredients"> &frac12; cup of wine or more of you want it boozy </span>
+* <span itemprop="ingredients"> 6 small to medium firm pears, peeled and cored, leaving stems on**</span>
 
 ### Directions
 
