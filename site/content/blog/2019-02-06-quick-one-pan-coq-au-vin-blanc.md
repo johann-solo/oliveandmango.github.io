@@ -42,6 +42,10 @@ It’s a great dish that can be made even in the mid week. Because it’s a one 
 I do love the original version braised low and slow in red wine, but to be honest, I love this one more. White wine is less overpowering, adds a much brighter flavour and doesn’t affect the color of the chicken plus it takes way less time to make. I think you will feel the same about this one and hope you give it a try. 
 </br>
 </br>
+
+This post is in partnership with Black Cellar Wine. All thoughts and views are my own. Thanks for supporting the brands that make Olive & Mango possible.
+</br>
+</br>
 ![Quick One Pan Coq Au Vin Blanc](/images/uploads/2019_02_06_quick_one_pan_coq_au_vin_blanc_6.jpg)
 </br>
 </br>
