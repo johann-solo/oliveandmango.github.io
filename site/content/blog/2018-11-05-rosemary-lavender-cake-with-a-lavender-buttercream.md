@@ -86,26 +86,26 @@ I do hope you give this cake a try and do hop over to the Terre blue shop to che
 
 __For the cake__
 
-* 5 large egg whites at room temperature
-* 1 cup whole milk at room temperature
-* 2&frac12; tsps pure vanilla extract
-* 3 cups cake flour, sifted
-* 1&frac34; cups sugar
-* 1 tbsp + 1 tsp baking powder
-* &frac34; tsp salt
-* 12 tbsps unsalted butter, at room temperature and cut into cubes
-* 3-4 springs of fresh rosemary for garnish
-* 3-4 sprigs of fresh lavender for garnish (I used lavender from my Terre Bleu dried lavender bouquet)
-* 3 tsps fresh rosemary, chopped
+* <span itemprop="ingredients"> 5 large egg whites at room temperature</span>
+* <span itemprop="ingredients"> 1 cup whole milk at room temperature</span>
+* <span itemprop="ingredients"> 2&frac12; tsps pure vanilla extract</span>
+* <span itemprop="ingredients"> 3 cups cake flour, sifted</span>
+* <span itemprop="ingredients"> 1&frac34; cups sugar</span>
+* <span itemprop="ingredients"> 1 tbsp + 1 tsp baking powder</span>
+* <span itemprop="ingredients"> &frac34; tsp salt</span>
+* <span itemprop="ingredients"> 12 tbsps unsalted butter, at room temperature and cut into cubes</span>
+* <span itemprop="ingredients"> 3-4 springs of fresh rosemary for garnish</span>
+* <span itemprop="ingredients"> 3-4 sprigs of fresh lavender for garnish (I used lavender from my Terre Bleu dried lavender bouquet)</span>
+* <span itemprop="ingredients"> 3 tsps fresh rosemary, chopped</span>
 
 __For the frosting__
 
-* 1 cup unsalted butter, room temperature
-* 4-6 cups powdered sugar
-* &frac34; cup heavy cream
-* 1&frac12; tsps dried culinary lavender bud plus more to sprinkle over cake (I used Terre Bleu lavender culinary bud)
-* &frac14; tsp salt plus more to sprinkle over cake (I used Terre Bleu lavender sea salt) 
-* &frac12; tsp of vanilla extract 
+* <span itemprop="ingredients"> 1 cup unsalted butter, room temperature</span>
+* <span itemprop="ingredients"> 4-6 cups powdered sugar</span>
+* <span itemprop="ingredients"> &frac34; cup heavy cream</span>
+* <span itemprop="ingredients"> 1&frac12; tsps dried culinary lavender bud plus more to sprinkle over cake (I used Terre Bleu lavender culinary bud)</span>
+* <span itemprop="ingredients"> &frac14; tsp salt plus more to sprinkle over cake (I used Terre Bleu lavender sea salt) </span>
+* <span itemprop="ingredients"> &frac12; tsp of vanilla extract </span>
 
 ### Directions
 
