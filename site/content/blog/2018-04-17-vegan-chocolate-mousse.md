@@ -54,14 +54,14 @@ You totally have to give this recipe a try. If you like dark and rich chocolatey
 
 ### Ingredients 
 
-* &frac12; cup + 1 Tbsp unsweetened cocoa powder or cacao powder
-* optional: 1 tsp- tbsp of  instant espresso/coffee (optional but strongly recommend) 
-* &frac34; cup chopped cocoa butter (or sub vegan bittersweet/dark chocolate)
-* Pinch sea salt
-* 1 14-ounce can full-fat coconut milk, divided
-* 1 tsp pure vanilla extract
-* 1-2 tbsp of maple syrup to sweeten
-* 6-9 pitted medjool dates 
+* <span itemprop="ingredients"> &frac12; cup + 1 Tbsp unsweetened cocoa powder or cacao powder</span>
+* <span itemprop="ingredients"> optional: 1 tsp- tbsp of  instant espresso/coffee (optional but strongly recommend) </span>
+* <span itemprop="ingredients"> &frac34; cup chopped cocoa butter (or sub vegan bittersweet/dark chocolate)</span>
+* <span itemprop="ingredients"> Pinch sea salt</span>
+* <span itemprop="ingredients"> 1 14-ounce can full-fat coconut milk, divided</span>
+* <span itemprop="ingredients"> 1 tsp pure vanilla extract</span>
+* <span itemprop="ingredients"> 1-2 tbsp of maple syrup to sweeten</span>
+* <span itemprop="ingredients"> 6-9 pitted medjool dates </span>
 
 ### Directions 
 

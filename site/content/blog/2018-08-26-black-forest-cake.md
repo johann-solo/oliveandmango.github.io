@@ -88,18 +88,18 @@ My husband who doesn’t like cooked fruit in dessert (he’s one of those) abso
 
 __For the Dark Chocolate Cake layers (makes three 9 inch round cakes)__
 
-* 2 ½ cups all purpose flour
-* ⅔ cup + 3 tbsp unsweetened cocoa powder
-* 2 tsp baking powder
-* 2 tsp baking soda
-* Pinch of salt
-* 2 cups sugar
-* 2 large eggs, at room temperature
-* 1⅓ cup greek yoghurt, at room temperature
-* ½ cup or one stick of butter, melted and cooled
-* ⅔ cup + 3 tbsp boiling water
-* 1 tsp of instant coffee powder or &frac12; tsp of espresso powder mixed in with the boiling water (optional but recommended to accentuate the cocoa flavour)
-* 1 tsp vanilla extract
+* <span itemprop="ingredients"> 2 ½ cups all purpose flour</span>
+* <span itemprop="ingredients"> ⅔ cup + 3 tbsp unsweetened cocoa powder</span>
+* <span itemprop="ingredients"> 2 tsp baking powder</span>
+* <span itemprop="ingredients"> 2 tsp baking soda</span>
+* <span itemprop="ingredients"> Pinch of salt</span>
+* <span itemprop="ingredients"> 2 cups sugar</span>
+* <span itemprop="ingredients"> 2 large eggs, at room temperature</span>
+* <span itemprop="ingredients"> 1⅓ cup greek yoghurt, at room temperature</span>
+* <span itemprop="ingredients"> ½ cup or one stick of butter, melted and cooled</span>
+* <span itemprop="ingredients"> ⅔ cup + 3 tbsp boiling water</span>
+* <span itemprop="ingredients"> 1 tsp of instant coffee powder or &frac12; tsp of espresso powder mixed in with the boiling water (optional but recommended to accentuate the cocoa flavour)</span>
+* <span itemprop="ingredients"> 1 tsp vanilla extract</span>
 
 __For the Cherries__
 

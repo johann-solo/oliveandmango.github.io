@@ -74,21 +74,21 @@ We totally love this dessert and love how you can make the Panna Cotta ahead mak
 
 __For the Panna Cotta__
 
-* 4 tablespoons (60 ml) water
-* 2&frac12; teaspoons unflavoured gelatin
-* 2 cups plain whole-milk Greek yogurt
-* 2 cups (475 ml) whole milk or heavy cream divided 
-* &frac14; granulated sugar
-* 2 tablespoons freshly squeezed lemon juice (from about &frac12; lemon)
+* <span itemprop="ingredients"> 4 tablespoons (60 ml) water</span>
+* <span itemprop="ingredients"> 2&frac12; teaspoons unflavoured gelatin</span>
+* <span itemprop="ingredients"> 2 cups plain whole-milk Greek yogurt</span>
+* <span itemprop="ingredients"> 2 cups (475 ml) whole milk or heavy cream divided </span>
+* <span itemprop="ingredients"> &frac14; granulated sugar</span>
+* <span itemprop="ingredients"> 2 tablespoons freshly squeezed lemon juice (from about &frac12; lemon)</span>
 
 __For the roasted peaches and nectarines__
 
-* 4 peaches (I used 2 peaches and 2 nectarines but any stone fruit would work)
-* &frac12; cup balsamic vinegar
-* 1 tablespoon honey
-* Pinch of salt
-* Pinch of pepper
-* 2-3 sprigs of fresh thyme plus more for garnish 
+* <span itemprop="ingredients"> 4 peaches (I used 2 peaches and 2 nectarines but any stone fruit would work)</span>
+* <span itemprop="ingredients"> &frac12; cup balsamic vinegar</span>
+* <span itemprop="ingredients"> 1 tablespoon honey</span>
+* <span itemprop="ingredients"> Pinch of salt</span>
+* <span itemprop="ingredients"> Pinch of pepper</span>
+* <span itemprop="ingredients"> 2-3 sprigs of fresh thyme plus more for garnish </span>
 
 ### Directions
 

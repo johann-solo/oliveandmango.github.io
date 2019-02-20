@@ -54,12 +54,12 @@ __UPDATE__: So yes that was me last year while still living in Trinidad coveting
 
 ### Ingredients
 
-* 4 ripe(ish) peaches
-* 2 tbsp butter
-* 4 tbsp maple syrup (honey is a good alternative)
-* 1 tsp vanilla extract
-* Juice of one lime (I leave out the like when I grill them)
-* 1½ cups of mascarpone
+* <span itemprop="ingredients"> 4 ripe(ish) peaches</span>
+* <span itemprop="ingredients"> 2 tbsp butter</span>
+* <span itemprop="ingredients"> 4 tbsp maple syrup (honey is a good alternative)</span>
+* <span itemprop="ingredients"> 1 tsp vanilla extract</span>
+* <span itemprop="ingredients"> Juice of one lime (I leave out the like when I grill them)</span>
+* <span itemprop="ingredients"> 1½ cups of mascarpone</span>
 
 __Toppings__ 
 
