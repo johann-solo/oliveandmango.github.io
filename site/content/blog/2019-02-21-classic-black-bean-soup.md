@@ -11,7 +11,7 @@ keywords: ["beans", "bean soup", "black bean soup"]
 description: A smokey and rich bean soup with just right amount of heat. THis bean soup is similar to Mexican black bean soup.
 ---
 
-Spring is suppose to be around the corner but tell that my constantly cold extremities! It’s been freezing all week and its the end of February and I’m really hoping that march brings warmer temperatures. The likelihood of that happening is slim considering it is Canada, so let the soup season and all the cozy eats continue.
+Spring is suppose to be around the corner but tell that to my constantly cold extremities! It’s been freezing all week and its the end of February and I’m really hoping that march brings warmer temperatures. The likelihood of that happening is slim considering it is Canada, so let the soup season and all the cozy eats continue.
 </br>
 </br>
 ![Classic Black Bean Soup](/images/uploads/2019_02_21_classic_black_bean_soup_2.jpg)
@@ -40,7 +40,7 @@ The instructions on the back of the package are basically what I do when it come
 </br>
 </br>
 
-One of the favourite ways to cook bean is using a pressure cooker or any of the multi-cookers out there with the pressure cooker feature in them.  What usually takes two hours of simmer takes 20 minutes.  A pressure cooker is a life saver and brings this soup to the table in no time. I have the instructions below for stone top cooking with no pressure cooker if you don’t have on or if you just want to cook your bean soup low and slow.
+One of the favourite ways to cook bean soup is to use a pressure cooker or any of the multi-cookers out there with the pressure cooker feature in them.  What usually takes two hours of simmering takes 20 minutes.  A pressure cooker is a life saver and brings this soup to the table in no time. I have the instructions below for stove top cooking with no pressure cooker if you don’t have on or if you just want to cook your bean soup low and slow.
 </br>
 </br>
 ![Classic Black Bean Soup](/images/uploads/2019_02_21_classic_black_bean_soup_6.jpg)
@@ -71,22 +71,22 @@ Cook time 40 minutes
 
 ### Ingredients
 
-* 1 tbsp olive oil 
-* 8 oz. slab or thick-cut bacon, cut into ¼ inch pieces
-* 1 large red onion diced - plus and extra &frac12; of a red onion for pickled onions 
-* 2 medium carrots, peeled and chopped
-* 2 stalks of celery chopped 
-* 6 garlic cloves, peeled and chopped 
-* 2 plus &frac12; tsp salt divided 
-* 1 cup of red wine
-* 3 canned chipotle chiles in adobo, sliced plus any liquid/paste from them 
-* 2 tsp. dried oregano
-* 1 tsp. ground cumin
-* &frac12; tsp smoked paprika (2 tsp if not including bacon for extra smokiness) 
-* 2 bay leaves 
-* 1 lb. dried black beans, picked over, rinsed and soaked overnight 
-* 2 Tbsp. fresh lime juice
-* Sour cream, corn chips, cilantro leaves, lime wedges, avocado, and fresh chilli’s (for serving)
+* <span itemprop="ingredients"> 1 tbsp olive oil </span>
+* <span itemprop="ingredients"> 8 oz. slab or thick-cut bacon, cut into ¼ inch pieces</span>
+* <span itemprop="ingredients"> 1 large red onion diced - plus an extra &frac12; of a red onion for pickled onions </span>
+* <span itemprop="ingredients"> 2 medium carrots, peeled and chopped</span>
+* <span itemprop="ingredients"> 2 stalks of celery chopped </span>
+* <span itemprop="ingredients"> 6 garlic cloves, peeled and chopped </span>
+* <span itemprop="ingredients"> 2 plus &frac12; tsp salt divided </span>
+* <span itemprop="ingredients"> 1 cup of red wine</span>
+* <span itemprop="ingredients"> 3 canned chipotle chiles in adobo, sliced plus any liquid/paste from them </span>
+* <span itemprop="ingredients"> 2 tsp. dried oregano</span>
+* <span itemprop="ingredients"> 1 tsp. ground cumin</span>
+* <span itemprop="ingredients"> &frac12; tsp smoked paprika (2 tsp if not including bacon for extra smokiness) </span>
+* <span itemprop="ingredients"> 2 bay leaves </span>
+* <span itemprop="ingredients"> 1 lb. <span class="highlight">[dried black beans](https://www.bobsredmill.com/black-turtle-beans.html)</span>, picked over, rinsed and soaked overnight </span>
+* <span itemprop="ingredients"> 2 Tbsp. fresh lime juice</span>
+* <span itemprop="ingredients"> Sour cream, corn chips, cilantro leaves, lime wedges, avocado, and fresh chilli’s (for serving)</span>
 
 ### Directions
 
