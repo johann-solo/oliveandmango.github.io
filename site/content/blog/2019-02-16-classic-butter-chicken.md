@@ -39,7 +39,7 @@ I have also always been drawn to Swayampurna because of her love of food and her
 </br>
 </br>
 
-I chose butter chicken, actually I should say my husband chose the recipe that I was to make to feature on the blog as it’s his favourite and a no brainer to try. I thought it was also a perfect recipe to share with you guys on the blog because I know you love comforting dishes and thought you would love a staple butter chicken recipe, and guess what? That is what this one is. Look no further, this is it! The flavours, textures and spice is all on point. You will absolutely love it and will have it on repeat and I’m so happy I get to share it with you guys. Definitely give it a try and do check out _My Little Indian Kitchen_ by _Swayampurna Mishra_ for more of her delicious recipes.
+I chose butter chicken, actually I should say my husband chose the recipe that I was to make to feature on the blog as it’s his favourite and a no brainer to try. I thought it was also a perfect recipe to share with you guys on the blog because I know you love comforting dishes and thought you would love a staple butter chicken recipe, and guess what? That is what this one is. Look no further, this is it! The flavours, textures and spice is all on point. You will absolutely love it and will have it on repeat and I’m so happy I get to share it with you guys. Definitely give it a try and do check out _My Indian Kitchen_ by _Swayampurna Mishra_ for more of her delicious recipes.
 </br>
 </br>
 
