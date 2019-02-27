@@ -42,6 +42,10 @@ I love to serve my minestrone soup with a dollop or a swirl of pesto in it along
 If you are looking for a way to switch up your minestrone, this is it. Not only is it healthy and full of veggies and greens, but simple to make, super flavourful and filling.
 </br>
 </br>
+
+This post is in partnership with _GoGo Quinoa_. All thoughts and views are my own. Thanks for supporting the brands that make Olive & Mango possible. 
+</br>
+</br>
 ![One Pot Vegan Green Minestrone](/images/uploads/2019_02_26_one_pot_vegan_green_minestrone_6.jpg)
 </br>
 </br>
