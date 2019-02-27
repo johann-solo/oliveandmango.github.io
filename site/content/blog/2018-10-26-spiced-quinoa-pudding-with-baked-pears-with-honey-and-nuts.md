@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_10_26_spiced_quinoa_pudding_with_baked_pears_with_honey_and_nuts_1.jpg
 scaled_thumbnail: /images/uploads/2018_10_26_spiced_quinoa_pudding_with_baked_pears_with_honey_and_nuts_0.jpg
 categories: ["breakfast"]
-tags: ["pears", "glutten-free", "vegan", "quinoa", "honey", "nuts", "sponsored"]
+tags: ["pears", "gluten-free", "vegan", "quinoa", "honey", "nuts", "sponsored"]
 excerpt: It's cold outside so warm up with this tasty and nutritious quinoa pudding
 keywords: ["pears", "gluten-free", "vegan", "quinoa", "honey", "nuts", "breakfast", "pudding"]
 description: It's cold outside so warm up with this tasty and nutritious quinoa pudding for breakfast. Simple, creamy and delicous, this spiced quinoa pudding will warm you up and feed your soul
