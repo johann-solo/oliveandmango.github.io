@@ -41,7 +41,7 @@ I wanted a very very creamy and lemony filling and for this I turned to a French
 </br>
 </br>
 
-I decided to use [Bob’s Red Mill Finely Ground Tapioca Flour](https://www.bobsredmill.com/tapioca-flour.html) for both the filing and the meringue as it’s one of my favorite grain free thickeners. Tapioca flour is a much better substitute for corn starch when using it with citrus or anything with a strong acidic component or a high sugar one as well. It also provides a much more transparent and glossy appearance and finish to a cream like this. It’s also great for those who have corn allergies and want a good alternative to corn starch. It worked beautifully in the Swiss meringue as well. Speaking of that Swiss meringue, let's get to talking more about it.
+I decided to use [Bob’s Red Mill Finely Ground Tapioca Flour](https://www.bobsredmill.com/tapioca-flour.html) for both the filling and the meringue as it’s one of my favorite grain free thickeners. Tapioca flour is a much better substitute for corn starch when using it with citrus or anything with a strong acidic component or a high sugar one as well. It also provides a much more transparent and glossy appearance and finish to a cream like this. It’s also great for those who have corn allergies and want a good alternative to corn starch. It worked beautifully in the Swiss meringue as well. Speaking of that Swiss meringue, let's get to talking more about it.
 </br>
 </br>
 ![Gluten Free Lemon Custard Cream Tart With Swiss Meringue](/images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_6.jpg)
@@ -49,7 +49,7 @@ I decided to use [Bob’s Red Mill Finely Ground Tapioca Flour](https://www.bobs
 </br>
 
 ## The fluffy meringue topping 
-Choosing which type of meringue I would use for the tart was a no brainer. Swiss meringue is the most perfect meringue for tapping start or pie. It requires one extra step than a French meringue but its definitely the way to go.  Swiss Meringue is the most stable of all meringues. It is also more dense and glossier, almost marshmallow like. It pipes like a dream and holds its shape well without weeping (weeping is when a meringue releases droplets of liquid and doesn’t adhere to the filing) for a much longer time than French meringue. For this reason, it is great to use as a pie topping especially if you aren’t serving it immediately. The preparation of Swiss meringue also makes it safer to eat if you aren’t baking it because you heat the mixture during the preparation. This recipe really is a no fail one for a great Swiss meringue, perfect for this lemon tart and any other tart. I always follow it to a tee and it always turns out beautifully.
+Choosing which type of meringue I would use for the tart was a no brainer. Swiss meringue is the most perfect meringue for topping tarts or pies. It requires one extra step than a French meringue but its definitely the way to go.  Swiss Meringue is the most stable of all meringues. It is also more dense and glossier, almost marshmallow like. It pipes like a dream and holds its shape well without weeping (weeping is when a meringue releases droplets of liquid and doesn’t adhere to the filling) for a much longer time than French meringue. For this reason, it is great to use as a pie topping especially if you aren’t serving it immediately. The preparation of Swiss meringue also makes it safer to eat if you aren’t baking it because you heat the mixture during the preparation. This recipe really is a no fail one for a great Swiss meringue, perfect for this lemon tart and any other tart. I always follow it to a tee and it always turns out beautifully.
 </br>
 </br>
 ![Gluten Free Lemon Custard Cream Tart With Swiss Meringue](/images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_7.jpg)
@@ -77,7 +77,7 @@ For the almond flour pie crust
 
 ### Ingredients
 
-* <span itemprop="ingredients"> 1&frac12; cups <span class="highlight">[Bob’s superfine almond flour](https://www.bobsredmill.com/natural-almond-meal-flour.html)</span> </span>
+* <span itemprop="ingredients"> 1&frac12; cups <span class="highlight">[Bob’s Red Mill Superfine Almond Flour](https://www.bobsredmill.com/natural-almond-meal-flour.html)</span> </span>
 * <span itemprop="ingredients"> &frac14; cup powdered sugar (granulated as an alternative) </span>
 * <span itemprop="ingredients"> &frac14; tsp salt</span>
 * <span itemprop="ingredients"> &frac14; cup butter melted</span>
