@@ -105,7 +105,7 @@ For the almond flour pie crust
 * <span itemprop="ingredients"> 2 tbsp (25 g) of <span class="highlight">[Bob’s Red Mill Finely Ground Tapioca Flour](https://www.bobsredmill.com/tapioca-flour.html)</span> </span>
 * <span itemprop="ingredients"> &frac12; tsp of vanilla extract </span>
 * <span itemprop="ingredients"> 1 cup (200 ml) of heavy whipping cream</span>
-* <span itemprop="ingredients"> 5 tbsp (70 g) cut into pieces and at room temperature and softened </span>
+* <span itemprop="ingredients"> 5 tbsp (70 g) of butter cut into pieces and allowed to soften to room temperature  </span>
 
 ### Directions
 
@@ -120,7 +120,7 @@ For the almond flour pie crust
 9. Remove any excess foam that may form on the surface with a wire mesh or sieve as the mixture heats up while you whisk it. 
 10. Bring to a rolling boil, stirring constantly for 1 minutes until thick
 11. Turn heat off once thick
-12. Whisk in the cream to the mixture 
+12. Pour in the warm cream through a fine mesh sieve and whisk until smooth 
 13. Allow to cool to room temperature 
 14. Whisk in softened butter until fully incorporated and silky smooth. 
 15. Pour into prepared tart pan or pie crust and let set in the fridge for a couple of hours. 
