@@ -44,36 +44,35 @@ These were a total hit with my family - they were gone so fast. I was hoping to 
 
 __For the crust__
 
-* 1&frac14; cup all purpose flour
-* &frac14; cup powdered sugar
-* &frac14; cup granulated sugar 
-* pinch of salt
-* 10 Tbs. cold unsalted butter, cubed 
-* 1 tsp lemon zest 
+* <span itemprop="ingredients"> 1&frac14; cup all purpose flour</span>
+* <span itemprop="ingredients"> &frac14; cup powdered sugar</span>
+* <span itemprop="ingredients"> &frac14; cup granulated sugar </span>
+* <span itemprop="ingredients"> pinch of salt</span>
+* <span itemprop="ingredients"> 10 Tbs. cold unsalted butter, cubed </span>
+* <span itemprop="ingredients"> 1 tsp lemon zest </span>
 
 __For the filling__
 
-* 4 eggs
-* 1 egg yolk
-* &frac34; cup sugar 
-* 2 Tbs. powdered sugar plus more for dusting after they are baked 
-* &frac14; cup flour
-* 2 Tbs. Meyer lemon zest
-* &frac12; cup Meyer lemon juice
-* A pinch of salt 
+* <span itemprop="ingredients"> 4 eggs</span>
+* <span itemprop="ingredients"> 1 egg yolk</span>
+* <span itemprop="ingredients"> &frac34; cup sugar </span>
+* <span itemprop="ingredients"> 2 Tbs. powdered sugar plus more for dusting after they are baked </span>
+* <span itemprop="ingredients"> &frac14; cup flour</span>
+* <span itemprop="ingredients"> 2 Tbs. Meyer lemon zest</span>
+* <span itemprop="ingredients"> &frac12; cup Meyer lemon juice</span>
+* <span itemprop="ingredients"> A pinch of salt </span>
 
 ### Directions
 
-1. Preheat oven to 350&deg;F.
-2. Line an 8 x 8 square baking pan with parchment paper then spray with nonstick spray. 
-3. In the bowl of a food processor add the flour, the lemon zest, both sugars and salt and pulse to combine. 
-4. Add the butter and pulse until the dough comes together. 
-5. Empty out the dough from the food processor into the pan and gently press the dough into it and bake for 20 minutes. 
-6. While the crust is baking, make the filling. 
-7. In a medium bowl whisk together the eggs, egg yolk, sugar, powdered sugar, flour, meyer lemon zest, meyer lemon juice and pinch of salt. 
-8. Carefully pour the filling over the warm crust and bake for another 25 minutes or until the filling is just barely set. (If you don’t want the  lemon zest in the bar, after whisking pour the filling through a metal mesh sieve or leave it out completely
-9. Allow the lemon bars to cool at room temperature and then to cool and set completely in the fridge for at least 1-2 two hours or overnight before cutting and serving. 
-10. Cut the bars and allow them to come to room temperature before serving or serve right from the fridge dusted with powdered sugar and with slices of meyer lemon before serving. 
+1. Line an 8 x 8 square baking pan with parchment paper then spray with nonstick spray. 
+2. In the bowl of a food processor add the flour, the lemon zest, both sugars and salt and pulse to combine. 
+3. Add the butter and pulse until the dough comes together. 
+4. Empty out the dough from the food processor into the pan and gently press the dough into it and bake for 20 minutes. 
+5. While the crust is baking, make the filling. 
+6. In a medium bowl whisk together the eggs, egg yolk, sugar, powdered sugar, flour, meyer lemon zest, meyer lemon juice and pinch of salt. 
+7. Carefully pour the filling over the warm crust and bake for another 25 minutes or until the filling is just barely set. (If you don’t want the  lemon zest in the bar, after whisking pour the filling through a metal mesh sieve or leave it out completely
+8. Allow the lemon bars to cool at room temperature and then to cool and set completely in the fridge for at least 1-2 two hours or overnight before cutting and serving. 
+9.  Cut the bars and allow them to come to room temperature before serving or serve right from the fridge dusted with powdered sugar and with slices of meyer lemon before serving. 
 
 Adapted from _Chatelaine_ and _Amanda Frederickson_
 
