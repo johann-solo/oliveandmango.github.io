@@ -79,20 +79,19 @@ This is a fantastic meal to share with family and friends and a unique and delic
 * <span itemprop="ingredients">Torn basil for garnish and serving </span>
 
 ### Directions
-
-1. Preheat the oven to 350 &deg; F. 
-2. Grease a 9-10 inch springform pan, or a 9 inch deep-dish pie pan. If using a springform pan, make sure and wrap the outside in foil to avoid leakage when prepping and baking it. 
-3. In a separate saucepan or skillet, add the ground beef, sausage, onions, chili flakes if using and garlic. 
-4. Brown the meat over medium heat for about 5 minutes, breaking into small pieces with a wooden spoon. 
-5. Once the meat is cooked and the onions have softened, add the wine and cook for a minute or two until wine has reduced. 
-6. Then add the crushed tomatoes, tomato paste, Italian seasoning, bay leaf and salt and pepper to taste. 
-7. Stir and simmer on low while you cook the pasta and sauce has reduced and has thickened. 
-8. Bring a large pot of water to a rolling boil. 
-9. Cook noodles until a minute before al dente. 
-10. Drain and spread out on a baking sheet lined with paper towels to prevent them from sticking to each other. 
-11. Preheat oven to 375&deg;F.
-12. In a large bowl, combine the ricotta, egg, a few grates of fresh Parmesan and pesto with salt and pepper. 
-13. In a separate bowl, mix together the grated mozzarella and the grated fontina.
+ 
+1. Grease a 9-10 inch springform pan, or a 9 inch deep-dish pie pan. If using a springform pan, make sure and wrap the outside in foil to avoid leakage when prepping and baking it. 
+2. In a separate saucepan or skillet, add the ground beef, sausage, onions, chili flakes if using and garlic. 
+3. Brown the meat over medium heat for about 5 minutes, breaking into small pieces with a wooden spoon. 
+4. Once the meat is cooked and the onions have softened, add the wine and cook for a minute or two until wine has reduced. 
+5. Then add the crushed tomatoes, tomato paste, Italian seasoning, bay leaf and salt and pepper to taste. 
+6. Stir and simmer on low while you cook the pasta and sauce has reduced and has thickened. 
+7. Bring a large pot of water to a rolling boil. 
+8. Cook noodles until a minute before al dente. 
+9.  Drain and spread out on a baking sheet lined with paper towels to prevent them from sticking to each other. 
+10. Preheat oven to 375&deg;F.
+11. In a large bowl, combine the ricotta, egg, a few grates of fresh Parmesan and pesto with salt and pepper. 
+12. In a separate bowl, mix together the grated mozzarella and the grated fontina.
 
 __Assembly__
 
