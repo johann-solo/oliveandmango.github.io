@@ -64,6 +64,7 @@ __For the filling__
 
 ### Directions
 
+1. Preheat the oven to 350&deg;F
 1. Line an 8 x 8 square baking pan with parchment paper then spray with nonstick spray. 
 2. In the bowl of a food processor add the flour, the lemon zest, both sugars and salt and pulse to combine. 
 3. Add the butter and pulse until the dough comes together. 
