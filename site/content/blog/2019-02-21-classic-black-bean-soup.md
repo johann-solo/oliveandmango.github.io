@@ -25,7 +25,7 @@ You know how much I love soups and one soup that I didn’t have on the blog yet
 </br>
 </br>
 
-Let talk ingredients or more specifically the beans. I know you may be tempted to fast track and use canned beans, but if you want a super tasty soup do not use canned black beans. That really does go for any soup or stew that calls for beans. I know we are all busy and don’t have time to cook beans, but believe me when I tell you it’s worth it. I chose [Bob’s Red Mill Premium Quality Black Turtle Beans](https://www.bobsredmill.com/black-turtle-beans.html) for this soup because I love them. They cook up predictably delicious every time. Perfectly tender, mild and subtlety sweet, and  always a high quality product as expected when it comes to [Bob’s Red Mill](https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill). Bob’s Red Mill offers the largest lines of organic, whole grain food in the country. All of their products are certified Kosher and made with ingredients grown from non-GMO seeds.
+Let talk ingredients or more specifically the beans. I know you may be tempted to fast track and use canned beans, but if you want a super tasty soup do not use canned black beans. That really does go for any soup or stew that calls for beans. I know we are all busy and don’t have time to cook beans, but believe me when I tell you it’s worth it. I chose <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/black-turtle-beans.html"> Bob’s Red Mill Premium Quality Black Turtle Beans</a></span> for this soup because I love them. They cook up predictably delicious every time. Perfectly tender, mild and subtlety sweet, and  always a high quality product as expected when it comes to <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span>. Bob’s Red Mill offers the largest lines of organic, whole grain food in the country. All of their products are certified Kosher and made with ingredients grown from non-GMO seeds.
 </br>
 </br>
 ![Classic Black Bean Soup](/images/uploads/2019_02_21_classic_black_bean_soup_4.jpg)
@@ -51,7 +51,7 @@ This soup is delicious on its own but we know that a big part of it is all the t
 </br>
 </br>
 
-I have partnered up with [Bob’s Red Mill](https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill) to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting Olive & Mango.
+I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting Olive & Mango.
 </br>
 </br>
 ![Classic Black Bean Soup](/images/uploads/2019_02_21_classic_black_bean_soup_7.jpg)
@@ -84,7 +84,7 @@ Cook time 40 minutes
 * <span itemprop="ingredients"> 1 tsp. ground cumin</span>
 * <span itemprop="ingredients"> &frac12; tsp smoked paprika (2 tsp if not including bacon for extra smokiness) </span>
 * <span itemprop="ingredients"> 2 bay leaves </span>
-* <span itemprop="ingredients"> 1 lb. <span class="highlight">[dried black beans](https://www.bobsredmill.com/black-turtle-beans.html)</span>, picked over, rinsed and soaked overnight </span>
+* <span itemprop="ingredients"> 1 lb. <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/black-turtle-beans.html">dried black beans</a></span>, picked over, rinsed and soaked overnight </span>
 * <span itemprop="ingredients"> 2 Tbsp. fresh lime juice</span>
 * <span itemprop="ingredients"> Sour cream, corn chips, cilantro leaves, lime wedges, avocado, and fresh chilli’s (for serving)</span>
 
