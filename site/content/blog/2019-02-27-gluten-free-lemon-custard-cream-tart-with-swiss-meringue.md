@@ -18,15 +18,15 @@ This gluten free tart with the creamiest of lemon cream fillings is bright and d
 </br>
 </br>
 
-## The crust (The Easiest Gluten Free Almond Flour Tart Crust) 
-Going into making this tart I knew I wanted to keep the crust as simple and as no-fail as possible as I knew any lemon filling I chose would require quite a few steps to make a good one. That is why I wanted to keep the crust as simple as possible. I thought of doing a graham cracker crust or a biscuit crust but then I started reading about how easy it is to make an almond flour crust so I tested some of them out and decided this was my favourite because it had the least ingredients, didn’t require blind baking and also great with a filling that doesnt requires baking or one that does. Using [Bob’s Red Mill Super-fine almond flour](https://www.bobsredmill.com/natural-almond-meal-flour.html) from blanched whole almonds gave this tart exactly the crust I wanted and the flavour I wanted in a crust as well.
+## The Crust (The Easiest Gluten Free Almond Flour Tart Crust) 
+Going into making this tart I knew I wanted to keep the crust as simple and as no-fail as possible as I knew any lemon filling I chose would require quite a few steps to make a good one. That is why I wanted to keep the crust as simple as possible. I thought of doing a graham cracker crust or a biscuit crust but then I started reading about how easy it is to make an almond flour crust so I tested some of them out and decided this was my favourite because it had the least ingredients, didn’t require blind baking and also great with a filling that doesnt requires baking or one that does. Using <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/natural-almond-meal-flour.html">Bob’s Red Mill Superfine Almond Flour</a> from blanched whole almonds gave this tart exactly the crust I wanted and the flavour I wanted in a crust as well.
 </br>
 </br>
 ![Gluten Free Lemon Custard Cream Tart With Swiss Meringue](/images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_3.jpg)
 </br>
 </br>
 
-Using almond meal is interchangeable but almond meal is made with the whole almond including the skin, making a crust darker in colour and with a slightly coarser finish. I opted for [Bob’s superfine almond flour](https://www.bobsredmill.com/natural-almond-meal-flour.html) for a tender shortbread  kind of crust with a paler finish. A quality product that I love and use in my baking. For over three decades, Bob’s Red Mill has been committed to providing people everywhere with the best quality foods available and helping their customers live a life through better nutrition especially in providing products that fit into some of the most restrictive diets. Their almond flour being one of them. The best part about this crust is how simple it is to make. It’s just a matter of processing your ingredients, then pressing them into the pan, punching some wholes into the bottom of the crust and baking. Easy peasy and you got yourself a simple GF tart crust.
+Using almond meal is interchangeable but almond meal is made with the whole almond including the skin, making a crust darker in colour and with a slightly coarser finish. I opted for <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/natural-almond-meal-flour.html">Bob’s Red Mill Superfine Almond Flour</a> for a tender shortbread  kind of crust with a paler finish. A quality product that I love and use in my baking. For over three decades, Bob’s Red Mill has been committed to providing people everywhere with the best quality foods available and helping their customers live a life through better nutrition especially in providing products that fit into some of the most restrictive diets. Their almond flour being one of them. The best part about this crust is how simple it is to make. It’s just a matter of processing your ingredients, then pressing them into the pan, punching some wholes into the bottom of the crust and baking. Easy peasy and you got yourself a simple GF tart crust.
 </br>
 </br>
 ![Gluten Free Lemon Custard Cream Tart With Swiss Meringue](/images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_4.jpg)
@@ -41,7 +41,7 @@ I wanted a very very creamy and lemony filling and for this I turned to a French
 </br>
 </br>
 
-I decided to use [Bob’s Red Mill Finely Ground Tapioca Flour](https://www.bobsredmill.com/tapioca-flour.html) for both the filling and the meringue as it’s one of my favorite grain free thickeners. Tapioca flour is a much better substitute for corn starch when using it with citrus or anything with a strong acidic component or a high sugar one as well. It also provides a much more transparent and glossy appearance and finish to a cream like this. It’s also great for those who have corn allergies and want a good alternative to corn starch. It worked beautifully in the Swiss meringue as well. Speaking of that Swiss meringue, let's get to talking more about it.
+I decided to use <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/tapioca-flour.html">Bob’s Red Mill Finely Ground Tapioca Flour</a></span> for both the filling and the meringue as it’s one of my favorite grain free thickeners. Tapioca flour is a much better substitute for corn starch when using it with citrus or anything with a strong acidic component or a high sugar one as well. It also provides a much more transparent and glossy appearance and finish to a cream like this. It’s also great for those who have corn allergies and want a good alternative to corn starch. It worked beautifully in the Swiss meringue as well. Speaking of that Swiss meringue, let's get to talking more about it.
 </br>
 </br>
 ![Gluten Free Lemon Custard Cream Tart With Swiss Meringue](/images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_6.jpg)
@@ -63,7 +63,7 @@ We enjoyed this tart with friends at their home as they hosted a card game night
 </br>
 </br>
 
-I have partnered up with [Bob’s Red Mill](https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill) to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_. 
+I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/tapioca-flour.html](https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_. 
 </br>
 </br>
 ![Gluten Free Lemon Custard Cream Tart With Swiss Meringue](/images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_9.jpg)
@@ -77,7 +77,7 @@ For the almond flour pie crust
 
 ### Ingredients
 
-* <span itemprop="ingredients"> 1&frac12; cups <span class="highlight">[Bob’s Red Mill Superfine Almond Flour](https://www.bobsredmill.com/natural-almond-meal-flour.html)</span> </span>
+* <span itemprop="ingredients"> 1&frac12; cups <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/natural-almond-meal-flour.html">Bob’s Red Mill Superfine Almond Flour</a></span> </span>
 * <span itemprop="ingredients"> &frac14; cup powdered sugar (granulated as an alternative) </span>
 * <span itemprop="ingredients"> &frac14; tsp salt</span>
 * <span itemprop="ingredients"> &frac14; cup butter melted</span>
@@ -102,7 +102,7 @@ For the almond flour pie crust
 * <span itemprop="ingredients"> 3 whole eggs</span>
 * <span itemprop="ingredients"> 3 egg yolks (save the egg whites for the meringue</span>
 * <span itemprop="ingredients"> &frac14; cup (50 g) of sugar (to mix with the eggs)</span>
-* <span itemprop="ingredients"> 2 tbsp (25 g) of <span class="highlight">[Bob’s Red Mill Finely Ground Tapioca Flour](https://www.bobsredmill.com/tapioca-flour.html)</span> </span>
+* <span itemprop="ingredients"> 2 tbsp (25 g) of <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/tapioca-flour.html">Bob’s Red Mill Finely Ground Tapioca Flour</a></span></span>
 * <span itemprop="ingredients"> &frac12; tsp of vanilla extract </span>
 * <span itemprop="ingredients"> 1 cup (200 ml) of heavy whipping cream</span>
 * <span itemprop="ingredients"> 5 tbsp (70 g) of butter cut into pieces and allowed to soften to room temperature  </span>
@@ -136,7 +136,7 @@ For the almond flour pie crust
 * 8 large egg whites, room temperature. Save the yolks for the filling
 * Pinch of salt
 * 2 teaspoons pure vanilla extract
-* 2 teaspoons <span class="highlight">[Bob’s Red Mill Finely Ground Tapioca Flour](https://www.bobsredmill.com/tapioca-flour.html)</span>
+* 2 teaspoons <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/tapioca-flour.html">Bob’s Red Mill Finely Ground Tapioca Flour</a></span>
 
 ### Directions
 
@@ -145,7 +145,7 @@ For the almond flour pie crust
 3. Set bowl over (not in) simmering water, and whisk until mixture is warm to the touch and sugar dissolves, 2 to 3 minutes. (Test by rubbing mixture between your fingers; the mixture should be smooth and not grainy.) 
 4. Attach bowl to standing mixer fitted with the whisk attachment. 
 5. Whisk on high speed until stiff, glossy peaks form and mixture is cool, about 10 minutes. 
-6. Whisk in vanilla and <span class="highlight">[Bob’s Red Mill Finely Ground Tapioca Flour](https://www.bobsredmill.com/tapioca-flour.html)</span> until incorporated. 
+6. Whisk in vanilla and <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/tapioca-flour.html">Bob’s Red Mill Finely Ground Tapioca Flour</a></span> until incorporated. 
 7. Transfer meringue into a large pastry bag fitted with a large round tip; pipe meringue to cover filling, as desired. 
 8. Place under broiler or use a kitchen torch to brown. 
 9. Serve immediately.
