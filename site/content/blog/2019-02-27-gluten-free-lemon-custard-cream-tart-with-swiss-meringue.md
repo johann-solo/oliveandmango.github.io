@@ -63,7 +63,7 @@ We enjoyed this tart with friends at their home as they hosted a card game night
 </br>
 </br>
 
-I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/tapioca-flour.html](https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_. 
+I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_. 
 </br>
 </br>
 ![Gluten Free Lemon Custard Cream Tart With Swiss Meringue](/images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_9.jpg)
