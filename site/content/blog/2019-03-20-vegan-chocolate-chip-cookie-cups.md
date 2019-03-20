@@ -75,11 +75,15 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 </br>
 
 ## Recipe
+Makes approx. 12-16 
+</br>
+</br>
+
 ### Ingredients
 
 * <span itemprop="ingredients"> 2 cups <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/shop/flours-and-meals/organic-all-purpose-unbleached-white-flour.html">Bob's Red Mill unbleached white all-purpose organic flour</a></span> </span>
 * <span itemprop="ingredients"> 1 teaspoon baking powder </span>
-* <span itemprop="ingredients"> &frac14; teaspoon baking soda </span>
+* <span itemprop="ingredients"> &frac34; teaspoon baking soda </span>
 * <span itemprop="ingredients"> &frac12; teaspoon sea salt </span>
 * <span itemprop="ingredients"> 1 &frac14; cup of bittersweet or semi sweet vegan chocolate chips, chunks or discs (I used a mixture of each) </span>
 * <span itemprop="ingredients"> &frac12; cup white sugar</span>
@@ -91,7 +95,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 
 ### Directions
 
-1. In a medium size bowl whisk together the flour baking powder, baking soda and sea salt. 
+1. In a medium size bowl whisk together the flour, baking powder, baking soda and sea salt. 
 2. Add the chocolate chips to the flour mixture and toss to coat
 3. In a large mixing bowl whisk together the sugars with the oil, water and vanilla extract until very smooth and incorporated approximately two minutes making sure there are no clumps of sugar remaining. 
 4. Stir the flour mixture into the oil mixture just until combined and no streaks of flour remain then cover the bowl with plastic wrap and refrigerate the dough for at least 12 to 24 hours
