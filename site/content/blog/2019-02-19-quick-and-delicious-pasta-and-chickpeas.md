@@ -46,7 +46,7 @@ I have mentioned this before I’m sure, I usually have gluten free pasta if I 
 </br>
 </br>
 
-That being the case I’m super happy that my partnership with _GoGo Quinoa_ has continued and I got to use their pasta to make some of my favourite dishes. I used their [Organic Cauliflower Fusilli](https://www.gogoquinoa.com/products/cauliflower-fusilli/) for this one and I loved the texture (hubby did too and he is hard to please when it comes to GF goods) and it went really well with this dish. Bonus - this pasta is not just a great source of fiber and protein but there is a &frac12; portion of vegetables per 85 grams of it, so you get some veggies in per serving. I’m always pleased with all their products and always excited to try the different varieties of pastas they offer, and so very happy to be working with them.
+That being the case I’m super happy that my partnership with _GoGo Quinoa_ has continued and I got to use their pasta to make some of my favourite dishes. I used their <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/cauliflower-fusilli">GoGo Quinoa Organic Cauliflower Fusilli</a></span> for this one and I loved the texture (hubby did too and he is hard to please when it comes to GF goods) and it went really well with this dish. Bonus - this pasta is not just a great source of fiber and protein but there is a &frac12; portion of vegetables per 85 grams of it, so you get some veggies in per serving. I’m always pleased with all their products and always excited to try the different varieties of pastas they offer, and so very happy to be working with them.
 </br>
 </br>
 ![Quick and Delicious Pasta and Chickpeas (Pasta e Ceci)](/images/uploads/2019_02_19_quick_and_delicious_pasta_and_chickpeas_7.jpg)
@@ -78,7 +78,7 @@ This post is in partnership with _GoGo Quinoa_. All thoughts and views are my ow
 * <span itemprop="ingredients"> 1 small yellow onion, finely diced</span>
 * <span itemprop="ingredients"> 1 cup San Marzano whole tomatoes (about 4-5 tomatoes - approx half a 796ml can of whole canned tomatoes), crushed using your hands</span>
 * <span itemprop="ingredients"> Salt and black pepper, to taste</span>
-* <span itemprop="ingredients"> 227 gram pack of <span class="highlight">[GoGo Quinoa Organic Cauliflower Fusilli](https://www.gogoquinoa.com/products/cauliflower-fusilli/)</span></span>
+* <span itemprop="ingredients"> 227 gram pack of <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/cauliflower-fusilli">GoGo Quinoa Organic Cauliflower Fusilli</span></span>
 * <span itemprop="ingredients"> 2 &frac12; - 3 cups water or vegetable broth plus more to thin out sauce if needed </span>
 * <span itemprop="ingredients"> Chopped parsley and chili rosemary oil, for garnish</span>
 
