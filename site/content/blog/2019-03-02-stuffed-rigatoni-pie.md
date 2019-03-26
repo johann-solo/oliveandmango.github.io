@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_03_02_stuffed_rigatoni_bake_1.jpg
 scaled_thumbnail: /images/uploads/2019_03_02_stuffed_rigatoni_bake_0.jpg
 categories: ["mains"]
-tags: ["pasta", "Italian"]
+tags: ["pasta", "Italian", "feedfeed"]
 excerpt: A classic baked pasta dinner transformed into a show stopping pie
 keywords: ["pasta", "Italian"]
 description: A classic baked pasta dinner transformed into a show stopping pie. Meat and cheese filled pasta baked in a vertical pattern with a saucy top and bottom
