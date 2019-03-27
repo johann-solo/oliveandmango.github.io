@@ -25,7 +25,7 @@ Oat milk is a great diary alternative and is also great for those looking for a 
 ![Quick and Easy Homemade Oatmilk](/images/uploads/2019_03_25_quick_and_easy_homemade_oatmilk_3.jpg)
 </br>
 </br>
-n
+
 ### Why make rather than buy?
 The obvious reason for that is when you are making your oat milk you know exactly what you are putting into it. Many commercial varieties pump it full of additives, preservatives, and sugars. So naturally making it at home is a great option and it’s so easy to make that it really makes sense to make it at home. My oats of choice for making oat milk are <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/organic-regular-rolled-oats.html">Bob’s Red Mill Organic Old Fashioned Oats</a></span>. Bob’s Red Mill offers the largest lines of organic, whole grain foods in the country. All of their products are certified Kosher and made with ingredients grown from non-GMO seeds and that’s why I love using their oats in this oat milk as well as in my overnight  oats - warm cooked oats or any other oat needs I may have.
 </br>
