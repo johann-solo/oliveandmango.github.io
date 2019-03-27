@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_03_27_moroccan_style_roasted_vegetable_salad_with_a_tahini_dressing_1.jpg
 scaled_thumbnail: /images/uploads/2019_03_27_moroccan_style_roasted_vegetable_salad_with_a_tahini_dressing_0.jpg
 categories: ["sides"]
-tags: ["salads", "tahini", sponsored"]
+tags: ["salads", "tahini", "sponsored"]
 excerpt: A hearty salad with a hint of spice
 keywords: ["salads", "Moroccan food", "spice", "tahini"]
 description: A Moroccan style salad with a hint spice and a creamy dressing
