@@ -62,19 +62,19 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 
 __For the mousse__
 
-* 2 (400ml) cans coconut cream (cream only - liquid removed - see more about this in post) 
-* &frac12; cup raw cacao powder or cocoa powder
-* 4-6 tablespoons pure maple syrup, to taste 
-* 2/3 cup dairy-free chocolate chips or chopped dark chocolate
-* 2 teaspoon vanilla extract (optional)
-* A pinch of salt 
-* &frac14; tsp of espresso power (optional)
+* <span itemprop="ingredients"> 2 (400ml) cans coconut cream (cream only - liquid removed - see more about this in post) </span>
+* <span itemprop="ingredients"> &frac12; cup raw cacao powder or cocoa powder</span>
+* <span itemprop="ingredients"> 4-6 tablespoons pure maple syrup, to taste </span>
+* <span itemprop="ingredients"> 2/3 cup dairy-free chocolate chips or chopped dark chocolate</span>
+* <span itemprop="ingredients"> 2 teaspoon vanilla extract (optional)</span>
+* <span itemprop="ingredients"> A pinch of salt </span>
+* <span itemprop="ingredients"> &frac14; tsp of espresso power (optional)</span>
 
 __For the double chocolate cookie base__
 
-* 1 cup crumbs from approx. 6 GoGo Quinoa Double Chocolate cookies
-* 1-2 tablespoons coconut oil, melted and slightly cooled
-* Pinch of salt 
+* <span itemprop="ingredients"> 1 cup crumbs from approx. 6 GoGo Quinoa Double Chocolate cookies</span>
+* <span itemprop="ingredients"> 1-2 tablespoons coconut oil, melted and slightly cooled</span>
+* <span itemprop="ingredients"> Pinch of salt </span>
 
 ### Directions
 
