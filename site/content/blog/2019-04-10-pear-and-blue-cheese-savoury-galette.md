@@ -4,7 +4,7 @@ date: 2019-04-09T11:29:27-04:00
 author: Joanne
 thumbnail: /images/uploads/2019_04_10_pear_and_blue_cheese_savoury_galette_1.jpg
 scaled_thumbnail: /images/uploads/2019_04_10_pear_and_blue_cheese_savoury_galette_0.jpg
-categories: [""]
+categories: ["mains"]
 tags: ["galettes", "pears", "sponsored"]
 excerpt: A delightful savoury galette that's a slice of Paris 
 keywords: ["galettes", "pears"]
