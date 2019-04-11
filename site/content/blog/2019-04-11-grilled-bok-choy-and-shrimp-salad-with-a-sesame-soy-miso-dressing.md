@@ -57,6 +57,7 @@ __For the salad__
 * <span itemprop="ingredients">1 medium sized sweet red pepper, cored and chopped into chunks</span>
 * <span itemprop="ingredients">Toasted sesame seeds for garnishing </span>
 * <span itemprop="ingredients">Chopped fresh scallions for garnishing </span>
+* <span itemprop="ingredients">Chopped fresh cilantro and lemon wedges for garnishing </span>
 
 __For the dressing__
 
@@ -78,7 +79,7 @@ __For the dressing__
 4. Toss shrimp with 1-2 tbsp of the dressing in a bowl and set aside. 
 5. Grill bok choy wedges and sweet red pepper chunks turning to cook all sides, for about 3-5 minutes or until grill-marked and tender. 
 6. Grill shrimp in basket or on sheet, turning once, for about 2 minutes or until just pink and opaque. Transfer to separate plates. 
-7. To assemble, arrange bok choy wedges and red pepper chunks on a large platter or on each serving plate. Top with shrimp, and drizzle with the dressing to taste. Sprinkle over some toasted sesame seeds and chopped scallions and serve immediately.
+7. To assemble, arrange bok choy wedges and red pepper chunks on a large platter or on each serving plate. Top with shrimp, and drizzle with the dressing to taste. Sprinkle over some toasted sesame seeds, chopped scallions, chopped fresh cilantro and serve immediately with some lemon wedges.
 
 ### Recipe Tip
 If you don’t have a grilling basket or sheet which helps prevent shrimp from sticking or falling through the grill - feel free to thread the shrimp onto soaked skewers and grease grill well before grilling them.
