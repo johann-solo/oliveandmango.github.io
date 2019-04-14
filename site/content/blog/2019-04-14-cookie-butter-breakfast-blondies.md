@@ -4,8 +4,8 @@ date: 2019-04-14
 author: Joanne
 thumbnail: /images/uploads/2019_04_14_cookie_butter_breakfast_blondies_1.jpg
 scaled_thumbnail: /images/uploads/2019_04_14_cookie_butter_breakfast_blondies_0.jpg
-categories: ["breakfast", "sponsored"]
-tags: ["blondies"]
+categories: ["breakfast"]
+tags: ["blondies", "sponsored"]
 excerpt: Moist, fudgey breakfast bars with a hint of caramel
 keywords: ["blondies"]
 description: Moist, fudgey breakfast bars with a hint of caramel
