@@ -69,7 +69,7 @@ __Lemon Cream__
 
 * <span itemprop="ingredients">4 cups whipping cream</span>
 * <span itemprop="ingredients">&frac12; teaspoon vanilla extract</span>
-* <span itemprop="ingredients">1 (11-ounce) jar lemon curd or homemade lemon curd (I used <span class="highlight"><a rel="nofollow" href="https://www.google.ca/amp/s/www.foodnetwork.com/recipes/ina-garten/lemon-curd-recipe-1941910.amp">Ina Garten’s recipe</a></span> if I’m making homemade) </span>
+* <span itemprop="ingredients">1 (11-ounce) jar lemon curd or homemade lemon curd (I use <span class="highlight"><a rel="nofollow" href="https://www.google.ca/amp/s/www.foodnetwork.com/recipes/ina-garten/lemon-curd-recipe-1941910.amp">Ina Garten’s recipe</a></span> if I’m making homemade) </span>
 * <span itemprop="ingredients">1 homemade or store-bought tsoureki, sweet bread or brioche, sliced in &frac12;-inch thick cubes (store bought pound cake alternatively) </span>
 
 ### Directions 
