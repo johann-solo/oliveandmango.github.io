@@ -2,6 +2,15 @@
 {{ partial "header" . }}
 {{ partial "home-splash" . }}
 
-<ul id="results"></ul>
+<div class="page-content flex_container">
+  <div class="recipe_content">
+    <div class="recipe_container">
+      <div class="line taxonomy_line"></div>
+      <h2 class="">Search results</h2>
+      <ul class="related_taxonomy" id="results"></ul>
+    </div>
+  </div>
+  {{ partial "sidebar" . }}
+</div>
 
 {{ partial "footer" . }}

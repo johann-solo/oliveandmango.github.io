@@ -1,13 +1,65 @@
-{{ partial "head" . }}
-{{ partial "header" . }}
+{{/*  {{ partial "home-head" . }}
+{{ partial "home-header" . }}
 {{ partial "home-splash" . }}
-  <ul>
-  <!-- Ranges through content/post/*.md -->
-  {{ range .Data.Pages }}
+
+<div class="page-content flex_container">
+
+  <ul class="post-list">
+    <!-- Ranges through content/post/*.md -->
+    {{ range where (.Paginator 5).Pages "Type" "blog"  }}
+
     <li>
-      <a href="{{ .Permalink }}">{{ .Date.Format "2 Jan, 2006" }} | {{ .Title }}</a>
-      <img src="{{.Params.Thumbnail}}" alt="{{.Params.Title}}">
+      <!-- <div class="line"></div> -->
+      <div class="post__meta--home">
+        <a class="post-link" href="{{ .Permalink }}">
+          <h3>{{ .Title }}</h3>
+        </a>
+        <p class="post__date">{{ .Date.Format "2 January 2006" }}</p>
+      </div>
+      <a href="{{ .Permalink }}"><img src="{{ .Params.Thumbnail }}" alt="{{.Params.Title}}"></a>
+      <div class="post-link post__excerpt">{{ .Params.excerpt }}</div>
+      <a href="{{ .Permalink }}">
+        <div class="btn">continue reading</div>
+      </a>
     </li>
-  {{ end }}
+    {{ end }}
+    <div class="pagination_container">{{ template "_internal/pagination.html" . }}</div>
   </ul>
+
+  {{ partial "sidebar" . }}
+
+</div>
+{{ partial "footer" . }}  */}}
+
+{{ partial "home-head" . }}
+{{ partial "home-header" . }}
+{{ partial "home-splash" . }}
+
+<div class="page-content flex_container">
+
+  <ul class="post-list">
+    <!-- Ranges through content/post/*.md -->
+    {{ range where (.Paginator 5).Pages "Type" "blog"  }}
+
+    <li>
+      <!-- <div class="line"></div> -->
+      <div class="post__meta--home">
+        <a class="post-link" href="{{ .Permalink }}">
+          <h3>{{ .Title }}</h3>
+        </a>
+        <p class="post__date">{{ .Date.Format "2 January 2006" }}</p>
+      </div>
+      <a href="{{ .Permalink }}"><img src="{{ .Params.Thumbnail }}" alt="{{.Params.Title}}"></a>
+      <div class="post-link post__excerpt">{{ .Params.excerpt }}</div>
+      <a href="{{ .Permalink }}">
+        <div class="btn">continue reading</div>
+      </a>
+    </li>
+    {{ end }}
+    <div class="pagination_container">{{ template "_internal/pagination.html" . }}</div>
+  </ul>
+
+  {{ partial "sidebar" . }}
+
+</div>
 {{ partial "footer" . }}

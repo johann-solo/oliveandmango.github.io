@@ -442,6 +442,18 @@ caption {
 .search {
     padding: 20px 0;
 }
+
+.sidebar #searchquery {
+  height: 2em;
+  width: 70%;
+  padding: 5px 10px;
+}
+.sidebar .search-btn {
+  padding: 4px 16px;
+  height: 2.6em;
+}
+
+
 /*pagination*/
 .pagination {
   display: flex;

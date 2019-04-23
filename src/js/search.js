@@ -27,7 +27,7 @@ function submitSearch(query) {
   results.forEach(result => {
     const li = document.createElement('li')
     resultsContainer.appendChild(li)
-    li.innerHTML = `<img src="www.oliveandmango.com${result.thumbnail} alt="${result.title}"><a href="${result.permalink}">${result.title}</a>`
+    li.innerHTML = `<a href="${result.permalink}"><img src="${result.thumbnail}" alt="${result.title}"></a><a href="${result.permalink}">${result.title}</a>`
   })
 }
 
