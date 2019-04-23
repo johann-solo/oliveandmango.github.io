@@ -52,6 +52,11 @@ It's great for dinner parties, and potlucks. It's a crowd pleaser for sure. The 
 ![Carrot cake](/images/uploads/2018_03_24_carrot_cake_10.jpg)  
 </br>
 
+## Recipe
+Yields 1 bundt cake or 2 9-inch pan cakes
+</br>
+</br>
+
 ### Ingredients
 
 **For the cake**
@@ -86,7 +91,7 @@ It's great for dinner parties, and potlucks. It's a crowd pleaser for sure. The 
 
 1. Then add the carrots and mix well.
 
-1. Pour the batter into a greased and floured Bundt pan and bake until done, about 50 minutes.
+1. Pour the batter into a greased and floured Bundt pan and bake until done, about 50 minutes. If using 2 9-inch pans, bake for 30-35 minutes.
 
 1. Leave to cool completely.
 

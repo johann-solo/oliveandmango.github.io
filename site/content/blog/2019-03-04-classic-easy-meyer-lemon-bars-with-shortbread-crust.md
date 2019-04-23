@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_03_04_classic_easy_meyer_lemon_bars_with_shortbread_crust_1.jpg
 scaled_thumbnail: /images/uploads/2019_03_04_classic_easy_meyer_lemon_bars_with_shortbread_crust_0.jpg
 categories: ["desserts"]
-tags: ["lemons"]
+tags: ["lemons", "feedfeed"]
 excerpt: Crisp, buttery crust with a creamy lemon filling
 keywords: ["lemons"]
 description: Lemons bars with a crisp, buttery crust and a creamy lemon filling
