@@ -44,7 +44,6 @@ i.e. add `category`
 keys: [
   "title",
   "contents",
-  "thumbnail",
   "tags"
 ]
 \```
