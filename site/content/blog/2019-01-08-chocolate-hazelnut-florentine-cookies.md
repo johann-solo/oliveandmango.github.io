@@ -71,7 +71,7 @@ Makes about 30 cookies
 6. In a food processor, pulse the hazelnuts until they are the texture of corse cornmeal. Do not over process or you will end up with hazelnut butter.
 7. Melt the butter in a small sauce pan over low heat. 
 8. Add the sugar, flour and salt and stir just until the sugar is completely incorporated. 
-9. Add the ground almonds and then the milk and continue to stir until well combined and the mixture thickens a bit. 
+9. Add the ground hazelnuts and then the milk and continue to stir until well combined and the mixture thickens a bit. 
 10. Remove from heat and let the mixture cool for 1 minute.
 11. Using a tsp (I like to use an actual measuring spoon to keep the cookies consistent in size), drop the batter onto the baking sheets leaving room between (at least 3 inches apart as they will spread quite a lot). There will be 6 cookies in each baking sheet. If the batter gets to stiff at any point pop the sauce pan back on low heat for a minute to warm it slightly and soften it.
 12. Place both baking sheets in the oven and bake until golden brown, approx 6-8 minutes, rotating the baking sheets halfway through baking.

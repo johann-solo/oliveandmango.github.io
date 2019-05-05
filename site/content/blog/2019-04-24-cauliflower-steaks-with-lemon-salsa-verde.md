@@ -59,7 +59,7 @@ This book was a generous gift from _Penguin Canada_
 
 __Lemon Salsa Verde__
 
-* <span itemprop="ingredients">3 tablespoons diced Quick Preserved Lemons</span> (page 279)
+* <span itemprop="ingredients">3 tablespoons diced Quick Preserved Lemons</span> (recipe below)
 * <span itemprop="ingredients">¼ cup finely chopped parsley or basil</span>
 * <span itemprop="ingredients">2 teaspoons capers</span>
 * <span itemprop="ingredients">2 tablespoons toasted pine nuts</span>
