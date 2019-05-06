@@ -104,12 +104,13 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 * 1 teaspoon dreid oregano
 * &frac12; teaspoon lemon zest
 * &frac14; teaspoon red pepper flakes
+* Add &frac12; tsp of dry harissa seasoning as optional 
 
 ### Directions
 
 1. Fill a large pot with 1 inch of water and insert a steamer basket. Place the spinach and the garlic in the basket and bring to a boil. Cover and steam for 2 minutes, or until the spinach is wilted but still bright green. Remove the garlic and set aside. Scoop the spinach onto a kitchen towel or paper towels and squeeze out the excess water. Roughly chop.
 2. In a blender, place the garlic, cashews, water, lemon juice, salt, and a few grinds of black pepper. Porcess until creamy.
-3. In a medium bowl, mix together the tofu, steamed spinach, oregano, lemon zest, red pepper flakes, and a few grinds of black pepper. Stir in the cashew. Taste and add more salt, if desired.
+3. In a medium bowl, mix together the tofu, steamed spinach, oregano, lemon zest, red pepper flakes, harissa (if using) and a few grinds of black pepper.  Stir in the cashew. Taste and add more salt, if desired.
 
 Adapted from _Very Well Fit_ and _Love and Lemons_ 
 
