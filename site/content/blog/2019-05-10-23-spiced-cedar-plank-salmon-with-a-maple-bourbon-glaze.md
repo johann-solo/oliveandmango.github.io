@@ -40,7 +40,7 @@ As we learned from our very first time grilling on a cedar plank, you must soak 
 </br>
 </br>
 
-I have partnered up with __Metro__ to bring you this delicious recipe and I thought I would take a second to tell you about Metro. Metro is one of the many groceries stores around me. What sets it apart in my mind is the convenience of the hours, location and quality ingredients, especially when it comes to produce. I usually need a break in the evening after a long day of cooking and shooting before I have the energy to go do the groceries I need to for the next days shoots. Metro is always open at those times (like after 9pm) and almost always has everything I need - a thing I do not ever take for granted. So you see when I collaborate with a company to do sponsored content it’s always with a client or product that I use all the time.  I have another great collaboration with Metro coming soon and I can wait. In the meantime hope you enjoy this recipe!
+I have partnered up with __Metro__ to bring you this delicious recipe and I thought I would take a second to tell you about Metro. Metro is one of the many groceries stores around me. What sets it apart in my mind is the convenience of the hours, location and quality ingredients, especially when it comes to produce. I usually need a break in the evening after a long day of cooking and shooting before I have the energy to go do the groceries I need to for the next days shoots. Metro is always open at those times (like after 9pm) and almost always has everything I need - a thing I do not ever take for granted. So you see when I collaborate with a company to do sponsored content it’s always with a client or product that I use all the time.  I have another great collaboration with Metro coming soon and I can't wait. In the meantime hope you enjoy this recipe!
 
 </br>
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.metro.ca/en">Metro Ontario</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
@@ -50,8 +50,12 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 </br>
 </br>
 
+## Recipe
+</br>
+</br>
 
 ### Ingredients
+Serves 4-6
 
 * <span itemprop="ingredients">1 cedar plank (soaked overnight or at least 1 hour)</span>
 * <span itemprop="ingredients">&frac12; lb salmon, skin on </span>
@@ -73,7 +77,7 @@ __For the maple bourbon glaze__
 
 1. Plank: Make sure that the plank has soaked for at least 1 hour and up to 24 or according to package recommendations. 
 2. Season/rub the salmon with salt, pepper and granulated onion, garlic, chili powder and paprika spice mix. Let the salmon sit for 10 minutes at room temperature, until the rub is moistened.
-3. On the meantime make the glaze: Combine the whiskey and maple syrup in a small saucepan, bringing the mixture to a low boil and reduce by about half. You should have a thick syrup that coats the back of a spoon, approx ten minutes. 
+3. In the meantime make the glaze: Combine the whiskey and maple syrup in a small saucepan, bringing the mixture to a low boil and reduce by about half. You should have a thick syrup that coats the back of a spoon, approx ten minutes. 
 4. Preheat the grill on medium high heat for 5 - 10 minutes. Rinse the plank and place it on the cooking grate. Cover the grill and heat the plank for 4 - 5 minutes or until it starts to throw off a bit of smoke and crackles lightly.
 5. Reduce the heat to medium low. Carefully  place the salmon, skin side down, on the plank. Cover the grill and cook for 15-20 min, or until it is cooked and flakes, or to your desired doneness, brushing with glaze every 5 minutes or so.
 6. Remove from grill. Slide a thin spatula between the skin and flesh to easily separate fish from the skin. Serve immediately garnished with chopped chives and lemon slices. (You could also serve it right off the board with the skin still on) 
