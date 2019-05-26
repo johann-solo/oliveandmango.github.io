@@ -11,7 +11,7 @@ keywords: ["vegan", "chocolate", "buckwheat", "cakes", "gluten-free"]
 description: A gluten-free, quick and intensely chocolately mug cake
 ---
  
-I never tire of a chocolate treat. I hope you don’t either. This is one I crave every once in a while when I need and instant chocolate (you know what I mean ladies). You can’t beat a cake that is personal sized and done in 70 seconds. If you are opposed to using a microwave or want to make a batch in the oven, there are directions below on how to do that. If you do end up using an oven to make this I would recommend prepping a batch because preheating an oven for one mug cake just doesn’t make any sense. 
+I never tire of a chocolate treat. I hope you don’t either. This is one I crave every once in a while when I need an instant chocolate fix (you know what I mean ladies). You can’t beat a cake that is personal sized and done in 70 seconds. If you are opposed to using a microwave or want to make a batch in the oven, there are directions below on how to do that. If you do end up using an oven to make this I would recommend prepping a batch because preheating an oven for one mug cake just doesn’t make any sense. 
 </br>
 </br>
 ![Vegan Buckwheat Chocolate Mugcake](/images/uploads/2019_05_10_24_vegan_buckwheat_chocolate_mugcake_2.jpg)
@@ -83,7 +83,7 @@ This recipe makes 1 mug cake
 6. Add a dollop of coconut cream on top and serve right in the mug/ramekin while it’s nice and warm (icecream is also great on top) 
 
 ### Recipe Notes
-You can mix this whole thing in your mug or ramekin if you want to avoid washing up an extra bowl, but it will be easier to get rid of lumps in a bowl. Soft the cocoa if you find that it’s lumpy 
+You can mix this whole thing in your mug or ramekin if you want to avoid washing up an extra bowl, but it will be easier to get rid of lumps in a bowl. Sift the cocoa if you find that it’s lumpy 
 </br>
 </br>
 
