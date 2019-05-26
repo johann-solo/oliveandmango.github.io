@@ -57,18 +57,18 @@ Serves 6
 __Pancakes__
 Makes approx 20-22 Pancakes 
 
-* 4 cups Bob’s Red Mill Protein Pancake & Waffle Mix 
-* 3 cup of water 
-* Oil for greasing griddle 
+* <span itemprop="ingredients"> 4 cups Bob’s Red Mill <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/protein-pancake-mix.html">Protein Pancake & Waffle Mix</a></span> </span>
+* <span itemprop="ingredients"> 3 cup of water </span>
+* <span itemprop="ingredients"> Oil for greasing griddle </span>
 
 __Casserole__
 
-* 2 cups non dairy plant based milk (I used almond milk) 
-* 6 large eggs 
-* 1 teaspoon vanilla extract 
-* &frac14; teaspoon ground cinnamon 
-* &frac14; cup maple syrup plus more for serving  
-* 1&frac12; cup fresh blueberries or thawed frozen blueberries 
+* <span itemprop="ingredients"> 2 cups non dairy plant based milk (I used almond milk) </span>
+* <span itemprop="ingredients"> 6 large eggs </span>
+* <span itemprop="ingredients"> 1 teaspoon vanilla extract </span>
+* <span itemprop="ingredients"> &frac14; teaspoon ground cinnamon </span>
+* <span itemprop="ingredients"> &frac14; cup maple syrup plus more for serving  </span>
+* <span itemprop="ingredients"> 1&frac12; cup fresh blueberries or thawed frozen blueberries </span>
 
 ### Directions
 
