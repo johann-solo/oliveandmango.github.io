@@ -18,7 +18,7 @@ Who can resist a warm stack of pancakes drizzled with maple syrup? Definitely no
 </br>
 </br>
 
-Another great thing about this baked pancake French toast is that it’s loaded with protein and it’s not just cause it’s got 6 eggs in it either, although that does add quite a bit of protein to it. The pancakes are made from Bob’s Red Mill Protein Pancake & Waffle Mix. It is a protein-packed whole grain mix that's easy to make. It’s packed with a hearty 15 grams of protein per serving! This wholesome Protein Pancake & Waffle Mix is easy to prepare–the only ingredient you need from your kitchen is water. Featuring their own stone-ground whole wheat pastry flour, whey and pea proteins, and sweet cream buttermilk, it's the perfect recipe for a satisfying breakfast or snack that will fuel your body and keep hunger at bay. 
+Another great thing about this baked pancake French toast is that it’s loaded with protein and it’s not just cause it’s got 6 eggs in it either, although that does add quite a bit of protein to it. The pancakes are made from Bob’s Red Mill Protein Pancake & Waffle Mix. Bob’s Red Mill offers the largest lines of organic whole grain foods. All of their products are certified Kosher and made with ingredients grown from non-GMO seeds including this mix. It’s packed with a hearty 15 grams of protein per serving! This wholesome Protein Pancake & Waffle Mix is easy to prepare–the only ingredient you need from your kitchen is water. Featuring their own stone-ground whole wheat pastry flour, whey and pea proteins, and sweet cream buttermilk, it's the perfect recipe for a satisfying breakfast or snack that will fuel your body and keep hunger at bay. 
 </br>
 </br>
 ![Blueberry Pancake Breakfast Casserole](/images/uploads/2019_05_10_26_blueberry_pancake_breakfast_casserole_3.jpg)
@@ -26,7 +26,7 @@ Another great thing about this baked pancake French toast is that it’s loaded 
 </br>
 
 
-This recipe works well with any type of dairy or plant based milk. I used unsweetened almond and it was still nice and creamy and delicious. Although this delicious goodness is totally dessert worthy, it's nutritious enough for breakfast.  The eggs provide quality protein while also creating a custard-like texture. It’s makes for a great, delicious and protein packed start to the day.
+This recipe works well with any type of dairy or plant based milk. I used unsweetened almond and it was still nice and creamy and delicious. Although this delicious goodness is totally dessert worthy, it's nutritious enough for breakfast.  The eggs provide quality protein while also creating a custard-like texture. It makes for a great, delicious and protein packed start to the day.
 </br>
 </br>
 ![Blueberry Pancake Breakfast Casserole](/images/uploads/2019_05_10_26_blueberry_pancake_breakfast_casserole_4.jpg)
