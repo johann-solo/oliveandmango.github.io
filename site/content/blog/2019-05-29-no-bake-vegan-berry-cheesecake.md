@@ -5,9 +5,9 @@ author: Joanne
 thumbnail: /images/uploads/2019_05_29_no_bake_vegan_berry_cheesecake_1.jpg
 scaled_thumbnail: /images/uploads/2019_05_29_no_bake_vegan_berry_cheesecake_0.jpg
 categories: ["desserts"]
-tags: ["vegan", "berries", "sponsored"]
+tags: ["vegan", "berries", "gluten free", "sponsored"]
 excerpt: No bake vegan and gluten free berry cheesecake with a crunchy cereal date crust 
-keywords: ["vegan", "berries"]
+keywords: ["vegan", "berries", "gluten free"]
 description: No bake vegan and gluten free berry cheesecake with a crunchy cereal date crust 
 ---
  
