@@ -60,24 +60,24 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 ## Recipe
 ### Ingredients
 
-* 1 &frac12; cups of <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/gluten-free-1-to-1-baking-flour.html">Bob’s Red Mill Gluten Free 1 to 1 Baking Flour</a></span> 
-* 1 cup sugar
-* 2 teaspoons baking powder
-* &frac34; teaspoon salt
-* 3 large eggs
-* 1 &frac12; Greek yoghurt 
-* 1 tsp Lemon zest 
-* &frac12; teaspoon vanilla extract
-* &frac12; cup (1 stick) unsalted butter, melted plus more for greasing pan 
-* 1 cup fresh or frozen mixed berries 
+* <span itemprop="ingredients"> 1 &frac12; cups of <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/gluten-free-1-to-1-baking-flour.html">Bob’s Red Mill Gluten Free 1 to 1 Baking Flour</a></span> </span>
+* <span itemprop="ingredients"> 1 cup sugar</span>
+* <span itemprop="ingredients"> 2 teaspoons baking powder</span>
+* <span itemprop="ingredients"> &frac34; teaspoon salt</span>
+* <span itemprop="ingredients"> 3 large eggs</span>
+* <span itemprop="ingredients"> 1 &frac12; Greek yoghurt </span>
+* <span itemprop="ingredients"> 1 tsp Lemon zest </span>
+* <span itemprop="ingredients"> &frac12; teaspoon vanilla extract</span>
+* <span itemprop="ingredients"> &frac12; cup (1 stick) unsalted butter, melted plus more for greasing pan </span>
+* <span itemprop="ingredients"> 1 cup fresh or frozen mixed berries </span>
 
 __For the topping__
 
-* &frac13; cup sugar
-* &frac14; cup Bob’s Red Mill Gluten Free 1 to 1 Baking Flour 
-* &frac14; cup finely chopped walnuts (Pecans or almonds would also work) 
-* &frac12; teaspoon ground cinnamon
-* 3 tablespoons cold butter cubed 
+* <span itemprop="ingredients"> &frac13; cup sugar</span>
+* <span itemprop="ingredients"> &frac14; cup Bob’s Red Mill Gluten Free 1 to 1 Baking Flour </span>
+* <span itemprop="ingredients"> &frac14; cup finely chopped walnuts (Pecans or almonds would also work) </span>
+* <span itemprop="ingredients"> &frac12; teaspoon ground cinnamon</span>
+* <span itemprop="ingredients"> 3 tablespoons cold butter cubed </span>
 
 ### Directions
 
