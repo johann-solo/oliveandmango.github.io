@@ -75,6 +75,7 @@ Makes one 9 inch cake
 5. If not frosting it the same day I wrap the cake in plastic wrap once it’s cool and store in the fridge until ready to frost 
 
 __For the Chocolate Icing__
+
 Enough to ice one 9 inch cake 
 </br>
 
