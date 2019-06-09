@@ -6,9 +6,9 @@ thumbnail: /images/uploads/2019_06_09_redbud_sour_1.jpg
 scaled_thumbnail: /images/uploads/2019_06_09_redbud_sour_0.jpg
 categories: ["drinks"]
 tags: ["alcohol"]
-excerpt: A lovely flower cocktail recipe that can be used with any edible flower in season
+excerpt: A lovely floral cocktail recipe that can be used with any edible flower in season
 keywords: ["alcohol"]
-description: A lovely flower cocktail recipe that can be used with any edible flower in season
+description: A lovely floral cocktail recipe that can be used with any edible flower in season
 ---
 
 A lovely floral cocktail recipe that can be used with any edible flower in season.  This is a blush pink cocktail that is easy on the eyes and goes down with a subtle sweet floral flavour. A great spring/summer sipping cocktail with a hint of citrus and with just the right amount of sweet. 
