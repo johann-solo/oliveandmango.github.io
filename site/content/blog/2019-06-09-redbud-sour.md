@@ -25,7 +25,7 @@ This is the second cocktail I have on the blog that is floral. My first was usin
 </br>
 </br>
 
-I do miss the beauty of the flowers, fauna and trees in Trinidad quite a lot. There was a time and season for all of them. I miss the bright and fantastic bougainvillea, flamboyant and  the poui trees that would light the hills on fire with their bright colours. What a site. We have some beauties here in Canada that I missed while living a way and happy to see again too.  Redbud tree are among some of my favorite trees. Lilac and magnolias are definitely on the list.
+I do miss the beauty of the flowers, fauna and trees in Trinidad quite a lot. There was a time and season for all of them. I miss the bright and fantastic bougainvillea, flamboyant and  the poui trees that would light the hills on fire with their bright colours. What a site. We have some beauties here in Canada that I missed while living away and happy to see again too.  Redbud trees are among some of my favourite trees. Lilac and magnolias are definitely on the list.
 </br>
 </br>
 ![Redbud Sour](/images/uploads/2019_06_09_redbud_sour_4.jpg)
@@ -60,7 +60,7 @@ The syrup can be used in baked goods too and in virgin cocktails or tonics addin
 * <span itemprop="ingredients">Lemon slices and Redbud Flowers to garnish </span>
 
 ### Directions
-1. In a cocktail shaker filled with ice, add the Canadian whisky, lemon juice, maple syrup, maple syrup. 
+1. In a cocktail shaker filled with ice, add the Canadian whisky, lemon juice, redbud syrup, maple syrup. 
 2. Shake well and strain into a glass filled with ice. 
 3. Garnish with a slice of lemon and redbud flowers. 
 
@@ -81,7 +81,7 @@ The syrup can be used in baked goods too and in virgin cocktails or tonics addin
 1. Weigh the remaining redbud-infused water and add an equal amount of sugar (by weight).
 1. Bring the mixture to a boil and then reduce to a simmer, stirring occasionally. 
 2. Cook until desired thickness is reached. At about 25 minutes it will still be thin, but great for cocktails. 
-3. Keep it going another ten minutes or so for a thicker syrup. Once cool.
+3. Keep it going another ten minutes or so for a thicker syrup.
 4. Once cooled, store in refrigerator for up to 2 week in a sealed jar or bottle
 
 ### Recipe Notes
