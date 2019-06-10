@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_06_15_lemon_olive_oil_cake_1.jpg
 scaled_thumbnail: /images/uploads/2018_06_15_lemon_olive_oil_cake_0.jpg
 categories: ["desserts"]
-tags: ["cakes", "lemon"]
+tags: ["cakes", "lemons"]
 excerpt: Get ready to make the perfect lemon loaf
 ---
 
