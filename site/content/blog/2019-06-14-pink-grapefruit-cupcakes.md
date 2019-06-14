@@ -18,7 +18,7 @@ The last time I made these was In Trinidad two years ago at the end of grapefrui
 </br>
 </br>
 
-Getting invited or having people over is always a good excuse to try an new recipe and this is how I ended up making these. I never shy away from a new recipe even if you are trying it for the first time for company - worse case scenario it flops and you get take out or you pick up some brownies for dessert instead. These turned out to be really delicious though especially if you’re a fan of all things citrus! They are also super simple to make. The batter gets mixed with a spatula and the whole recipe is made from very basic ingredients. The yogurt and coconut oil/ vegetable oil makes them moist with a slight crumble and slightly more dense than your regular cupcake - like a said they resemble a little cake-let. 
+Getting invited or having people over is always a good excuse to try an new recipe and this is how I ended up making these. I never shy away from a new recipe even if you are trying it for the first time for company - worse case scenario it flops and you get take out or you pick up some brownies for dessert instead. These turned out to be really delicious though especially if you’re a fan of all things citrus! They are also super simple to make. The batter gets mixed with a spatula and the whole recipe is made from very basic ingredients. The yogurt and coconut oil/ vegetable oil makes them moist with a slight crumble and slightly more dense than your regular cupcake - like I said they resemble a little cake-let. 
 </br>
 </br>
 ![Pink Grapefruit Cupcakes](/images/uploads/2019_06_14_pink_grapefruit_cupcakes_3.jpg)
@@ -39,7 +39,7 @@ I originally decorated the cupcakes with  candied grapefruit infused with rosema
 </br>
 </br>
 
-This is a pretty basic recipe overall and I think you will enjoy adding it to your cupcake repertoire! When I decided to remake these I shared a story on them on Instagram with a poll or how you wanted me to make them - in cupcake form or cake for infused or simple.  By a long shot you guys chose simple and to leave the recipe in cupcake form. I listened and I left them super simple and without any infusion and in cupcake form. (But I left the alternative frosting recipe below along with the  the candied citrus) Hope you give them a try! 
+This is a pretty basic recipe overall and I think you will enjoy adding it to your cupcake repertoire! When I decided to remake these I shared a story on them on Instagram with a poll or how you wanted me to make them - in cupcake form or cake form infused or simple. By a long shot you guys chose simple and to leave the recipe in cupcake form. I listened and I left them super simple and without any infusion and in cupcake form. (But I left the alternative frosting recipe below along with the  the candied citrus) Hope you give them a try! 
 </br>
 </br>
 ![Pink Grapefruit Cupcakes](/images/uploads/2019_06_14_pink_grapefruit_cupcakes_6.jpg)
@@ -84,11 +84,10 @@ __For the cake__
 
 ### Directions
 
-1. In a stand mixer fitted with a paddle  attachment or using a hand mixer, beat the butter on high until its pale on colour and fluffy , and scraping down the bowl a couple of times. 
-
+1. In a stand mixer fitted with a paddle  attachment or using a hand mixer, beat the butter on high until its pale in colour and fluffy , and scraping down the bowl a couple of times. 
 1. Turn the mixer on low and start adding the sugar a little at a time (I usually add it a heaping tbsp at a time). 
-2. Once it’s all been incorporated drizzle in the grapefruit juice and sprinkle in the zest (food colouring included) and turn the speed back up to high and mix for another 5 minutes until butter cram is light and fluffy. 
-3. Pipe of frost as you wish.  
+2. Once it’s all been incorporated drizzle in the grapefruit juice and sprinkle in the zest (food colouring included if using) and turn the speed back up to high and mix for another 5 minutes until butter cream is light and fluffy. 
+3. Pipe or frost as you wish.  
 
 
 ### Recipe Notes 
