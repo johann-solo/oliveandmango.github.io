@@ -65,7 +65,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 * <span itemprop="ingredients"> 2 teaspoons baking powder</span>
 * <span itemprop="ingredients"> &frac34; teaspoon salt</span>
 * <span itemprop="ingredients"> 3 large eggs</span>
-* <span itemprop="ingredients"> 1 &frac12; Greek yoghurt </span>
+* <span itemprop="ingredients"> 1&frac12; cups Greek yoghurt </span>
 * <span itemprop="ingredients"> 1 tsp Lemon zest </span>
 * <span itemprop="ingredients"> &frac12; teaspoon vanilla extract</span>
 * <span itemprop="ingredients"> &frac12; cup (1 stick) unsalted butter, melted plus more for greasing pan </span>
