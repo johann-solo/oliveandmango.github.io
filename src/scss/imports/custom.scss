@@ -426,6 +426,23 @@ caption {
 .search {
     padding: 20px 0;
 }
+
+// SEARCH
+
+.search-btn {
+	background: $accent-color ;
+	padding: 4px 12px;
+	color: #FFF !important;
+	text-transform: uppercase;
+  border: 1px solid $accent-color;
+}
+
+#searchquery {
+  padding: 4px 0px;
+  border: 1px solid lightgrey;
+  border-right: none;
+}
+
 /*pagination*/
 .pagination {
   display: flex;
