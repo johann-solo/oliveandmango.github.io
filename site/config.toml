@@ -40,7 +40,7 @@ canonifyURLs = true
   blog = "/:slug/"
 
 [outputs]
-  home = ["json"]
+  home = ["html", "json"]
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
