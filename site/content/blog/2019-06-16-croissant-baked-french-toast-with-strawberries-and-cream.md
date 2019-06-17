@@ -74,7 +74,7 @@ The best thing about it is how easy it is to make and enjoy. Just assemble and c
 6. Spread &frac34; of the strawberries 
 7. Dip the remaining pieces in the egg milk mixture and arrange over the berries 
 8. Pour remaining milk and egg mixture over the casserole, gently pressing to absorb.
-9. Sprinkle the remaining berries over the top of the casserole. Cover the dish with plastic wrap and refrigerate for at least and hour and up to overnight 
+9. Sprinkle the remaining berries over the top of the casserole. Cover the dish with plastic wrap and refrigerate for at least an hour and up to overnight 
 10. Preheat oven to 375&deg;F. And remove the dish from the fridge and remove plastic wrap. 
 11. Lay the thinly sliced butter over the croissants and bake 40- 50minutes, or until the French toast is golden and crisp. If the tops of the croissants begin to brown too quickly, loosely cover the french toast with foil. 
 12. Let stand at room temperature for 10 minutes. Dust with powdered sugar, cut into wedges, and serve with maple syrup
