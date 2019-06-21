@@ -25,7 +25,7 @@ Individual strawberry shortcakes are one thing but a layered strawberry shortcak
 </br>
 </br>
 
-I decided to infuse my cream with basil. I was inspired after having the most delicious eclair while visiting Montreal last week. It was filled with a lemon basil cream that was just amazing. I had to recreate it for this strawberry dessert and because the two go hand in hand - both in season at the same time and in abundance.  I just shot something that require a whole lot of basil so that is another reason I decided to give this infused basil cream a go. It was a total hit and I couldn’t stop spooning it in my mouth!  You will love it but if you wanted to keep this recipe simple just skip the basil Infusion. I thought I would just share it as and option. 
+I decided to infuse my cream with basil. I was inspired after having the most delicious eclair while visiting Montreal last week. It was filled with a lemon basil cream that was just amazing. I had to recreate it for this strawberry dessert and because the two go hand in hand - both in season at the same time and in abundance.  I just shot something that requires a whole lot of basil so that is another reason I decided to give this infused basil cream a go. It was a total hit and I couldn’t stop spooning it in my mouth!  You will love it but if you wanted to keep this recipe simple just skip the basil Infusion. I thought I would just share it as an option. 
 </br>
 </br>
 ![Classic Strawberry Shortcake Layered Cake](/images/uploads/2019_06_19_classic_strawberry_shortcake_layered_cake_4.jpg)
@@ -38,11 +38,14 @@ Finally let me tell you about what I used in place of the all purpose flour. Whe
 ![Classic Strawberry Shortcake Layered Cake](/images/uploads/2019_06_19_classic_strawberry_shortcake_layered_cake_5.jpg)
 </br>
 </br>
+![Classic Strawberry Shortcake Layered Cake](/images/uploads/2019_06_19_classic_strawberry_shortcake_layered_cake_6.jpg)
+</br>
+</br>
 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
-![Classic Strawberry Shortcake Layered Cake](/images/uploads/2019_06_19_classic_strawberry_shortcake_layered_cake_6.jpg)
+![Classic Strawberry Shortcake Layered Cake](/images/uploads/2019_06_19_classic_strawberry_shortcake_layered_cake_8.jpg)
 </br>
 </br>
 
@@ -55,7 +58,7 @@ Makes three 8 or 9 inch shortcakes and serves at least 8
 __For the Filling__
 
 * <span itemprop="ingredients">&frac14; Cup sugar</span>
-* <span itemprop="ingredients">24 ounces of berries hulled and and each sliced in four </span>
+* <span itemprop="ingredients">24 ounces of berries hulled and each sliced in four </span>
 * <span itemprop="ingredients">2 Cups heavy cream</span>
 * <span itemprop="ingredients">1 Tsp. vanilla extract</span>
 * <span itemprop="ingredients">20 large basil leaves (optional if making the basil cream) </span>
@@ -84,7 +87,8 @@ __For the Shortcakes__
 9. Place each piece of dough into a prepared cake pan and with your hands press it into the pan spreading dough to edges and make it as smooth as possible, working quickly as it’s sticky and without overworking it. 
 10. Bake cakes for approximately 20-25 minutes if using a 9 inch pan - 25-30 minutes if using an 8 inch pan or until golden. I usually start checking it at the 20 minute mark. 
 11. Once done remove from oven and allow to cool in pan 5 minutes, then transfer to wire racks to cool completely. 
-Filling and Assembly
+
+__Filling and Assembly__
 
 1. Beat the heavy cream and vanilla extract with an electric mixer until soft peaks form.
 1. Add the sugar while beating and continue to beat just until stiff peaks form. Do not over mix. 
