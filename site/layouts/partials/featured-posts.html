@@ -1,5 +1,5 @@
-<h2>Featured on the feedfeed</h2>
-   {{ range first 4 .Site.Taxonomies.tags.feedfeed }}
+<h2>For strawberry season</h2>
+   {{ range first 4 .Site.Taxonomies.tags.strawberries }}
   <section>
     <a href="{{ .Permalink }}"><img src="{{ .Params.scaled_thumbnail }}" alt="{{.Params.Title}}"></a>
     <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
