@@ -72,7 +72,7 @@ __For the yogurt filling layer__
 
 __For the apricot layer and glaze__
 
-* <span itemprop="ingredients">13 (400 grams) fresh small apricots, halved and pitted</span>
+* <span itemprop="ingredients">5-7 fresh small apricots (depending on the size), halved and pitted</span>
 * <span itemprop="ingredients">&frac12; cup (150 grams) apricot marmalade</span>
 * <span itemprop="ingredients">&frac13; cup water</span>
 
