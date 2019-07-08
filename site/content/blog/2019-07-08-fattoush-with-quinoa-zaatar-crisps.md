@@ -4,7 +4,7 @@ date: 2019-07-08
 author: Joanne
 thumbnail: /images/uploads/2019_07_08_fattoush_with_quinoa_zaatar_crisps_1.jpg
 scaled_thumbnail: /images/uploads/2019_07_08_fattoush_with_quinoa_zaatar_crisps_0.jpg
-categories: ["salads"]
+categories: ["sides"]
 tags: ["quinoa", "zaatar", "Middle Eastern", "sponsored"]
 excerpt: Lebanese style chopped salad with a tangy, sweet and minty dressing and quinoa seeded za’atar crisps. 
 keywords: ["quinoa", "zaatar", "Middle Eastern"]
