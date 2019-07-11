@@ -21,7 +21,7 @@ A Greek savoury spinach and leek pie with layers of crispy phyllo pastry. A very
 </br>
 </br>
 
-Let’s talk about this vegan version for a second. I honestly didn’t know how my family would respond to this version as we are very much a feta loving family as most Greek families are. I may have mentioned this before but during allergy season I’m particularly careful with my dairy intake. It doesn’t fully agree with me anytime of the year but especially during allergy season. So that means no or low milk, cream yoghurt and anything dairy especially during this time. My dad is the same and his seasonal allergies are a bit more severe so I thought I would give this vegan spanakopita a try. The original recipe is from _Lazy Cat Kitchen_. I switched up the vegan cheese recipe to my own recipe and added leeks to mine as I love the flavour of the leeks and spinach together.  My mom makes an all leek version (prasopita) of this pie which I Iove and is another option if you love leeks as much as I do. You guys are probably wondering what my family thought of this vegan version aren’t you?? Well they actually loved it. The first one was govbled up as soon as it was out the oven. Obviously you cannot truly replicate feta in any recipe but you do get the essence of it and all the wonderful flavours of a traditional spanakopita in his version. They enjoyed every bite and were surprised there was no egg or any kind of cheese in it.
+Let’s talk about this vegan version for a second. I honestly didn’t know how my family would respond to this version as we are very much a feta loving family as most Greek families are. I may have mentioned this before but during allergy season I’m particularly careful with my dairy intake. It doesn’t fully agree with me anytime of the year but especially during allergy season. So that means no or low milk, cream yoghurt and anything dairy especially during this time. My dad is the same and his seasonal allergies are a bit more severe so I thought I would give this vegan spanakopita a try. The original recipe is from _Lazy Cat Kitchen_. I switched up the vegan cheese recipe to my own recipe and added leeks to mine as I love the flavour of the leeks and spinach together.  My mom makes an all leek version (prasopita) of this pie which I Iove and is another option if you love leeks as much as I do. You guys are probably wondering what my family thought of this vegan version aren’t you?? Well they actually loved it. The first one was gobbled up as soon as it was out the oven. Obviously you cannot truly replicate feta in any recipe but you do get the essence of it and all the wonderful flavours of a traditional spanakopita in his version. They enjoyed every bite and were surprised there was no egg or any kind of cheese in it.
 </br>
 </br>
 ![Vegan Spanakopita](/images/uploads/2019_07_11_vegan_spanakopita_4.jpg)
@@ -108,8 +108,8 @@ __For the ‘cheese’__
 __For the spinach__
 
 1. If using fresh spinach place it in a colander and sprinkle with 1 tbsp of salt and let stand for 10 minutes.  This will help draw out the moisture from the spinach. 
-2. Squeeze out all the moisture from it and place in the bowl with the spinach. If using frozen allow to thaw and then squeeze well and place in the bowl with the spinach 
-3. Heat up 1 tablespoon of olive oil in a small pan, gently sauté the leeks and garlic until softened and fragrant then remove from heat and allow to cool before adding them to the spinach 
+2. Squeeze out all the moisture from it and place in the bowl with the cheese. If using frozen allow to thaw and then squeeze well and place in the bowl with the cheese 
+3. Heat up 1 tablespoon of olive oil in a small pan, gently sauté the leeks and garlic until softened and fragrant then remove from heat and allow to cool before adding them to the spinach/cheese mix. 
 4. Add the fresh herbs, lemon zest, salt and pepper to the spinach and cheese mixture and mix until thoroughly combined and set aside. 
 
 
@@ -117,7 +117,7 @@ __For the spinach__
 
 5. Preheat the oven to 350° F and grease a round tin or whatever shape baking sheet or a baking tray with a bit of olive oil.
 6. To assemble the pie, clear a large area of your work bench to make room for a row of 3 phyllo sheets joined together. Keep the thawed pastry sheets protected by a damp kitchen towel so that they do not dry out and become brittle.
-7. Place a single sheet of phyllo pastry in front of you, the longer side parallel to you. Then place to other sheets beside the middle one on either side overlapping it a little to make it one long row.
+7. Place a single sheet of phyllo pastry in front of you, the longer side parallel to you. Then place two other sheets beside the middle one on either side overlapping it a little to make it one long row.
 8. Using a pastry brush, quickly and with light pressure grease the entire area with a bit of olive oil and then double all the pastry sheets overlapping them in the same manner and brush with olive oil. Feel free to do a third layer of phyllo if you have enough pastry. I had enough for two layers. 
 9. Spoon &frac13; of the filling  along the longer edge of the pastry leaving a 2″ border at the bottom. Do not overfill. 
 10. Starting from the one end, gently roll the pastry into a long snake. Gently coil the snake, seam side down, and place in the greased baking tin.
