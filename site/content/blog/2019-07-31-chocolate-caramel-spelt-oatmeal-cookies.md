@@ -71,7 +71,7 @@ Makes 2 dozen depending on size of your scoops
 3. With mixer running, add eggs, one at a time, scraping down the sides of the bowl as needed. Add vanilla and mix until incorporated. 
 4. Pour in 2 cups of the oats slowly along with the spelt flour, salt and baking soda, then mix at low speed until a dough forms. 
 5. Remove bowl from mixer and add the chocolate, pecans and and caramels, then fold by hand with a spatula until everything is well incorporated.
-6. Place remaining 1 cup of oats into a wide bowl,  and set aside. At this point you can chill the dough for 30 minutes for a fender chewier cookies - but chilling is optional. 
+6. Place remaining 1 cup of oats into a wide bowl, and set aside. At this point you can chill the dough for 30 minutes for thicker, chewier cookies - but chilling is optional. 
 7. Scoop out balls of dough about 1.5 Tablespoons of dough each, roll them in the oats to lightly coat, and arrange 2-3 inches apart on the prepared baking sheets because these will spread out. Press a piece each of caramel and chocolate onto the tops of the cookies
 8. Bake until golden brown and set, rotating halfway through, about 15 minutes. Once out of the oven, garnish with flaky sea salt and let cool slightly. Repeat with remaining cookie dough, then serve
 
