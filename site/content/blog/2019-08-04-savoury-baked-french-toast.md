@@ -31,7 +31,7 @@ It’s similar to a strata and a cross between a quiche, French toast and and om
 </br>
 </br>
 
-The 3 main ingredients that make this are eggs, milk, and bread. They rest you can play around with.  This is a classic combo that we love and know you will too! It’s really easy to throw together and fairly quick. The caramelized onions may take a bit of time but if I’m tight for time I like to make them while the bread is “soaking” and sprinkle them in once they have cooled and while placing the bread in the pan.
+The 3 main ingredients that make this are eggs, milk, and bread. The rest you can play around with.  This is a classic combo that we love and know you will too! It’s really easy to throw together and fairly quick. The caramelized onions may take a bit of time but if I’m tight for time I like to make them while the bread is “soaking” and sprinkle them in once they have cooled and while placing the bread in the pan.
 </br>
 </br>
 ![Savoury Baked French Toast](/images/uploads/2019_08_04_savoury_baked_french_toast_6.jpg)
@@ -69,7 +69,7 @@ My hubby loves baked French toast. He always requests it on a long weekend.  I a
 
 1. Heat butter and oil in a large sized pan or skillet over medium heat. Add the onions and let sauté for 5 minutes, stirring a couple times. 
 2. Add the thyme and continue to cook for 20-25 minutes on medium low heat, stirring occasionally. If the onions start to caramelize too quickly, lower heat to the low setting. Once done scrape them into a separate bowl or plate and set aside to cool. 
-3. In the the meantime cook the bacon using the same pan. Heat it over medium/high heat. (Add 1 tsp oil of needed and if pan is not non stick). Add all the bacon except 2 tbsp reserving that to top the French toast before baking, and cook the rest until lightly browned. Remove from the fry pan and drain on a paper towel.
+3. In the the meantime cook the bacon using the same pan. Heat it over medium/high heat. (Add 1 tsp oil if needed and if pan is not non stick). Add all the bacon except 2 tbsp reserving that to top the French toast before baking, and cook the rest until lightly browned. Remove from the fry pan and drain on a paper towel.
 4. In a large bowl whisk the eggs, milk, mustard powder, salt and pepper in a bowl.
 5. Place the bread in a large ziplock bag. Pour in the egg mixture, 1&frac12; cups cheese and cooked bacon minus the 2 tbsp and the caramelized onions. Seal and massage the egg into the cubes. Set aside in the fridge for at least 30 minutes or overnight. Alternatively toss all the ingredients together in the bowl with the egg mixture and cover with plastic wrap before refrigerating.  
 6. Once ready to bake preheat oven to 350°F.
