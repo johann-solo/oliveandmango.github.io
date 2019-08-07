@@ -4,10 +4,10 @@ date: 2019-08-04T07:41:52-04:00
 author: Joanne
 thumbnail: /images/uploads/2019_08_04_savoury_baked_french_toast_1.jpg
 scaled_thumbnail: /images/uploads/2019_08_04_savoury_baked_french_toast_0.jpg
-categories: [""]
-tags: [""]
+categories: ["breakfast"]
+tags: ["bacon"]
 excerpt: A savoury dish loaded with caramelized onions, cheddar, and bacon
-keywords: [""]
+keywords: ["bacon", "savoury"]
 description: A savoury dish loaded with caramelized onions, cheddar, and bacon
 ---
 
@@ -51,19 +51,19 @@ My hubby loves baked French toast. He always requests it on a long weekend.  I a
 ## Recipe
 ### Ingredients 
 
-* 2 medium onions, halved and thinly sliced
-* 1 tablespoon butter
-* 1 tablespoon olive oil plus 1 tsp not for bacon if needed 
-* ½ teaspoon fresh thyme (or ¼ dried)
-* 300g bacon, diced
-* 6 eggs
-* 1&frac14; cups milk (full or low fat)
-* &frac14; tsp salt 
-* Black pepper to taste 
-* &frac12; tsp of mustard powder (optional) 
-* 7 cups (lightly packed) baguette or french stick cut into 2 cm / 1 inch cubes (day old preferably)
-* 2 cups grated cheddar cheese, divided 
-* Parsley, finely chopped to garnish 
+* <span itemprop="ingredients"> 2 medium onions, halved and thinly sliced</span>
+* <span itemprop="ingredients"> 1 tablespoon butter</span>
+* <span itemprop="ingredients"> 1 tablespoon olive oil plus 1 tsp not for bacon if needed </span>
+* <span itemprop="ingredients"> ½ teaspoon fresh thyme (or ¼ dried)</span>
+* <span itemprop="ingredients"> 300g bacon, diced</span>
+* <span itemprop="ingredients"> 6 eggs</span>
+* <span itemprop="ingredients"> 1&frac14; cups milk (full or low fat)</span>
+* <span itemprop="ingredients"> &frac14; tsp salt </span>
+* <span itemprop="ingredients"> Black pepper to taste </span>
+* <span itemprop="ingredients"> &frac12; tsp of mustard powder (optional) </span>
+* <span itemprop="ingredients"> 7 cups (lightly packed) baguette or french stick cut into 2 cm / 1 inch cubes (day old preferably)</span>
+* <span itemprop="ingredients"> 2 cups grated cheddar cheese, divided </span>
+* <span itemprop="ingredients"> Parsley, finely chopped to garnish </span>
 
 ### Directions
 
