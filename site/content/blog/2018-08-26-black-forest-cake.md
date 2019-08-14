@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_08_26_black_forest_cake_1.jpg
 scaled_thumbnail: /images/uploads/2018_08_26_black_forest_cake_0.jpg
 categories: ["desserts"]
-tags: ["cakes", "cherries"]
+tags: ["cakes", "cherries", "feedfeed"]
 excerpt: Simple decadent and perfect for special occasions
 ---
 
@@ -185,6 +185,7 @@ __To assemble__
 
 Inspired by _Linda Lomelino_ 
 </br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
 
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_18.jpg)
