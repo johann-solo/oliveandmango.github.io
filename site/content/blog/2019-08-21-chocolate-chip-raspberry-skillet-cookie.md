@@ -11,14 +11,14 @@ keywords: ["chocolate", "chocolate chips", "raspberries", "berries", "cookies", 
 description: Crispy edges with a chewy, gooey molten centre
 ---
 
-This giant Chocolate Chip Raspberry Skillet Cookie has crispy edges and a chewy and gooey centre - truly the best of both worlds. Pulled hot from the oven, this baby is totally molten in the centre and begging for a scoop or two of vanilla bean ice cream. It’s big enough to share, but (dangerously) delicious enough to eat alone. Spoon this warm treat straight out of the pan or cut it into wedges and serve with your favourite ice cream. 
+This giant chocolate chip raspberry skillet cookie has crispy edges and a chewy and gooey centre - truly the best of both worlds. Pulled hot from the oven, this baby is totally molten in the centre and begging for a scoop or two of vanilla bean ice cream. It’s big enough to share, but (dangerously) delicious enough to eat alone. Spoon this warm treat straight out of the pan or cut it into wedges and serve with your favourite ice cream. 
 </br>
 </br>
 ![Chocolate Chip Raspberry Skillet Cookie](/images/uploads/2019_08_21_chocolate_chip_raspberry_skillet_cookie_2.jpg)
 </br>
 </br>
 
-I felt the need to make a recipe with raspberries after I did a white chocolate and currant recipe so I decided on this one and instead of pairing them with white chocolate as I usually do, I went with semi sweet. This is a very very decadent skillet cookie as you can see from the amount of butter and sugar in it. It’s just the best treat and I have to say it wasn’t easy to photograph without wanting to dig into it with my spoon.  You will feel the same way after it comes out of the oven. 
+I felt the need to make a recipe with raspberries after I did a white chocolate and currant recipe, so I decided on this one and instead of pairing them with white chocolate as I usually do, I went with semi-sweet. This is a very very decadent skillet cookie as you can see from the amount of butter and sugar in it. It’s just the best treat and I have to say it wasn’t easy to photograph without wanting to dig into it with my spoon.  You will feel the same way after it comes out of the oven. 
 </br>
 </br>
 ![Chocolate Chip Raspberry Skillet Cookie](/images/uploads/2019_08_21_chocolate_chip_raspberry_skillet_cookie_3.jpg)

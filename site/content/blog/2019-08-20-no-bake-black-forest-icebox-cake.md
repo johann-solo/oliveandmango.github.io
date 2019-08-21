@@ -18,7 +18,7 @@ You really can’t beat this very simple treat that requires very little effort 
 </br>
 </br>
 
-You can totally “cheat” and go store bought for all components but if I can I usually like to whip my cream myself and also make my one cherry sauce, but it’s totally fine if you want to make this an even quicker dessert recipe than it already is after all a good cheat dessert in the back pocket is always welcome. It was quite easy finding chocolate wafers here but if they aren’t an easy find where you live you can sub them out for graham cracker cookies, or if you are really adventurous you can make your own like I did while living in Trinidad. I couldn’t find any and I was doing a recipe for cookbook club and needed some. I was not prepared to separate two boxes of Oreos for it so I decided to make my own. They were quite easy to make and the [link for them is here](https://www.oliveandmango.com/chocolate-banoffee-pie/). 
+You can totally “cheat” and go store bought for all components but if I can, I usually like to whip my cream myself and also make my own cherry sauce. But it’s totally fine if you want to make this an even quicker dessert recipe than it already is, after all a good cheat dessert in the back pocket is always welcome. It was quite easy finding chocolate wafers here but if they aren’t an easy find where you live you can sub them out for graham cracker cookies. Or if you are really adventurous you can make your own like I did while living in Trinidad where I couldn’t find any and I was doing a recipe for cookbook club and needed some. I was not prepared to separate two boxes of Oreos for it so I decided to make my own. They were quite easy to make and the [link for them is here](https://www.oliveandmango.com/chocolate-banoffee-pie/). 
 </br>
 </br>
 ![No Bake Black Forest Icebox Cake](/images/uploads/2019_08_20_no_bake_black_forest_icebox_cake_3.jpg)
@@ -64,12 +64,12 @@ As you can see each component can be either store-bought or homemade. It all dep
 
 ### Directions
 
-1. In a small sauce pan melt the butter over medium-high heat. Add the chopped cherries, 2 tablespoons of the sugar, lemon juice, and corn starch. Stir together, bring to a simmer and cook until the cherry sauce is thick and syrupy, about 8- 10 minutes. Once done remove from heat and set aside to cool to room temperature. 
+1. In a small sauce pan melt the butter over medium-high heat. Add the chopped cherries, 2 tablespoons of the sugar, lemon juice, and corn starch. Stir together, bring to a simmer and cook until the cherry sauce is thick and syrupy, about 8-10 minutes. Once done, remove from heat and set aside to cool to room temperature. 
 1. In a large mixing bowl beat the heavy cream, remaining 2 tablespoons sugar, vanilla, a pinch of salt and the cherry liqueur if using with an electric mixer on medium-high until stiff peaks form.
    
 __Assembly__
 
-1. Spread a very thing layer of whip cream at the bottom of a 9-inch springform pan then layer it with a third of the cookies- it’s ok if they overlap slightly. 
+1. Spread a very thin layer of whip cream at the bottom of a 9-inch springform pan then layer it with a third of the cookies - it’s ok if they overlap slightly. 
 2. Evenly spread 2 cups of the whipped cream mixture on top of the cookies then drizzle half of the cooled chopped cherries evenly over the cream. Repeat with another third of the cookies, 2 cups of the cream, and the remaining chopped cherries. 
 3. Finish with the remaining third of the cookies and top with the remaining whipped cream mixture.
 4. Cover with plastic wrap and refrigerate for at least 6 hours and up to 12 hours to allow the cookies to soften and the whipped cream to set. 
