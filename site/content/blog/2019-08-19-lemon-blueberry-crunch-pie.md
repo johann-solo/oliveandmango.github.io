@@ -38,7 +38,7 @@ The filling is so easy to whip up and it’s loaded with blueberries and lemon j
 </br>
 </br>
 
-Together the two are perfect and we couldn’t stop eating it.  It’s has a luscious  and light texture when left to thaw before serving but can easily be eaten right out the freezer as an icy treat. We enjoyed it both ways. I found it was easier to cut the pieces and transfer them to the serving plate when it was frozen and allow them to sit for a few minutes before serving as opposed to cutting slices when it has started to thaw - whatever works, or you might just have to serve it right out the freezer a few forks on the side and just enjoy it straight from the pie.
+Together the two are perfect and we couldn’t stop eating it.  It’s has a luscious and light texture when left to thaw before serving but can easily be eaten right out the freezer as an icy treat. We enjoyed it both ways. I found it was easier to cut the pieces and transfer them to the serving plate when it was frozen and allow them to sit for a few minutes before serving as opposed to cutting slices when it has started to thaw - whatever works, or you might just have to serve it right out the freezer a few forks on the side and just enjoy it straight from the pie.
 </br>
 </br>
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
@@ -71,7 +71,7 @@ __For the filling__
 
 ### Directions
 
-1. In medium bowl mix together the granola and butter butter and then Press mixture on bottom and up sides of a 9 inch pie plate or tart pan and chill in the freezer while you make the filling. 
+1. In medium bowl mix together the granola and butter butter and then press mixture on bottom and up sides of a 9 inch pie plate or tart pan and chill in the freezer while you make the filling. 
 2. Puree the  blueberries in a food processor until completely smooth. 
 3. In a large bowl, whisk the berry purée with sweetened condensed milk, lemon juice and whipped topping until smooth and fully incorporated. Pour into pie shell. Top with blueberries. Cover with plastic wrap and freeze at least 4-6 hours. 
 4. Remove pie a few minutes before serving and then slice and serve. 
