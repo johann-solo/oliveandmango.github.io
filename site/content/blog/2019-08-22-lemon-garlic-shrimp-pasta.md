@@ -6,9 +6,9 @@ thumbnail: /images/uploads/2019_08_22_lemon_garlic_shrimp_pasta_1.jpg
 scaled_thumbnail: /images/uploads/2019_08_22_lemon_garlic_shrimp_pasta_0.jpg
 categories: ["mains"]
 tags: ["lemons", "shrimp", "Italian", "one pot meals", "sponsored"]
-excerpt: Creamy pasta and shrimp in an garlic lemon butter sauce
+excerpt: Creamy pasta and shrimp in a garlic lemon butter sauce
 keywords: ["lemons", "shrimp", "Italian", "one pot meals", "pasta", "creamy"]
-description: Creamy pasta and shrimp in an garlic lemon butter sauce 
+description: Creamy pasta and shrimp in a garlic lemon butter sauce 
 ---
 
 Creamy pasta and shrimp in a garlic lemon butter sauce - basically what I’m craving daily!  This is such a great midweek meal that we love. Simple and on the table in no time. It takes longer to cook the pasta then prep the sauce. You cannot beat that for the midweek!
