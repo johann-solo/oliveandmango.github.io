@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_1.jpg
 scaled_thumbnail: /images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_0.jpg
 categories: ["desserts"]
-tags: ["yoghurt", "peaches", "nectaries", "thyme"]
+tags: ["yoghurt", "peaches", "nectarines", "thyme"]
 excerpt: A elegant and lightly sweetened creamy dessert that can double as breakfast 
 ---
 
