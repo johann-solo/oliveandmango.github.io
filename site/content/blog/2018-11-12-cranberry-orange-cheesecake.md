@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_11_12_cranberry_orange_cheesecake_1.jpg
 scaled_thumbnail: /images/uploads/2018_11_12_cranberry_orange_cheesecake_0.jpg
 categories: ["desserts"]
-tags: ["cheesecake", "cakes", "oranges", "cranberries", "feedfeed", "sponsored"]
+tags: ["cheesecakes", "cakes", "oranges", "cranberries", "feedfeed", "sponsored"]
 excerpt: An all time favourite dessert made with seasonal cranberries and oranges
 keywords: ["cheesecake", "cakes", "oranges", "cranberries"]
 description: Cheesecake is an all time favourite dessert. Make this particular cheesecake with seasonal cranberries and oranges. The best cheesecake recipe just got another mouthwatering variation.
