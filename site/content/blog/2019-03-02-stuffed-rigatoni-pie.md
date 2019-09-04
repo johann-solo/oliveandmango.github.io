@@ -111,4 +111,6 @@ __Assembly__
 Adapted from _Martha Stewart_
 
 </br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
+</br>
 ![Stuffed Rigatoni Pie – Paccherri](/images/uploads/2019_03_02_stuffed_rigatoni_bake_8.jpg)

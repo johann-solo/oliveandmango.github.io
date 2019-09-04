@@ -78,4 +78,6 @@ __For the filling__
 Adapted from _Chatelaine_ and _Amanda Frederickson_
 
 </br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
+</br>
 ![Classic Easy Meyer Lemon Bars With Shortbread Crust](/images/uploads/2019_03_04_classic_easy_meyer_lemon_bars_with_shortbread_crust_6.jpg)

@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_08_24_balsamic_roasted_cherry_and_goat_cheese_crostini_1.jpg
 scaled_thumbnail: /images/uploads/2019_08_24_balsamic_roasted_cherry_and_goat_cheese_crostini_0.jpg
 categories: ["snacks"]
-tags: ["cherries", "bread", "goat cheese"]
+tags: ["cherries", "bread", "goat cheese", "feedfeed"]
 excerpt: A delicious appetizer with a perfect balance of sweet and savoury
 keywords: ["cherries", "bread", "goat cheese"]
 description: A delicious appetizer with a perfect balance of sweet and savoury
@@ -68,5 +68,7 @@ Makes 12 slices of baguette
 
 Adapted from _Serious Eats_
 
+</br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
 ![Balsamic Roasted Cherry and Goat Cheese Crostini](/images/uploads/2019_08_24_balsamic_roasted_cherry_and_goat_cheese_crostini_6.jpg)
