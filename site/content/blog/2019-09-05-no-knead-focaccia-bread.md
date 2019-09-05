@@ -81,15 +81,10 @@ __For the Fig, Caramelized Onions, Goat Cheese + Rosemary (divide ingredients be
 
 ### Directions
 
-1. In a large bowl, whisk together the flour, salt, and instant yeast. Add the water and then mix with a rubber spatula or wooden spoon until the liquid is absorbed and the ingredients form a sticky dough ball. 
-1. Cover the bowl with a damp tea towel or plastic wrap and place in the refrigerator immediately for at least 12 hours and up to 24. 
-1. Grease two 8 or 9-inch pie plates or skillets with butter or olive oil and then line the bottom with parchment paper as well especially if you are using a skillet. 
-2. Pour a tablespoon of oil into the center of each pan. Lightly punch down dough to deflate and gently work it into a rough ball. 
-3. Use a dough cutter or knife to split the dough into two equal pieces. Place one piece into one of the prepared pans. 
-4. Roll the dough ball in the oil to coat it all over, forming a rough ball. Repeat with the remaining dough mass. Let the dough balls rest for 2 to 4 hours depending on the temperature of your kitchen until they have risen to fill the pie plates or skillets. 
-5. Preheat oven to 425°F. Pour another tablespoon of oil over each round of dough. Rub your fingers lightly in the oil to coat, then use them to press straight down to create deep dimples.
-6.  Sprinkle with flaky sea salt all over and along with any toppings you may want to add. If using toppings make sure to press them into the dough slightly. 
-7. Transfer the pans to the oven and bake for 25 to 30 minutes, until they  are golden and crisp underneath. Remove the pans from the oven and transfer to cooling racks. Allow to cool for 10 minutes before removing from pan, cutting and serving
+1. In a large bowl, whisk together the flour, salt, and instant yeast. Add the water and then mix with a rubber spatula or wooden spoon until the liquid is absorbed and the ingredients form a sticky dough ball. Cover the bowl with a damp tea towel or plastic wrap and place in the refrigerator immediately for at least 12 hours and up to 24. 
+2. Grease two 8 or 9-inch pie plates or skillets with butter or olive oil and then line the bottom with parchment paper as well especially if you are using a skillet. Pour a tablespoon of oil into the center of each pan. Lightly punch down dough to deflate and gently work it into a rough ball. Use a dough cutter or knife to split the dough into two equal pieces. Place one piece into one of the prepared pans. Roll the dough ball in the oil to coat it all over, forming a rough ball. Repeat with the remaining dough mass. Let the dough balls rest for 2 to 4 hours depending on the temperature of your kitchen until they have risen to fill the pie plates or skillets. 
+3. Preheat oven to 425°F. Pour another tablespoon of oil over each round of dough. Rub your fingers lightly in the oil to coat, then use them to press straight down to create deep dimplesl Sprinkle with flaky sea salt all over and along with any toppings you may want to add. If using toppings make sure to press them into the dough slightly. 
+4. Transfer the pans to the oven and bake for 25 to 30 minutes, until they  are golden and crisp underneath. Remove the pans from the oven and transfer to cooling racks. Allow to cool for 10 minutes before removing from pan, cutting and serving
 
 </br>
 ![No Knead Focaccia Bread](/images/uploads/2019_09_05_no_knead_focaccia_bread_8.jpg)
