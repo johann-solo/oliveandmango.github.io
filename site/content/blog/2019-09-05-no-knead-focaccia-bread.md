@@ -39,7 +39,7 @@ The quality of Kalikori is very evident – from the smell, the feel and of cour
 </br>
 </br>
 
-This recipe is easy to make, and tastes so rich and wonderful with the addition of fresh rosemary, olive oil and flaked sea salt...but also great loaded with figs, caramelized onions and goat cheese too! Plain is also delicious. This focaccia is perfectly crisp on the outside and soft and chewy on the inside. It has a moist but airy crumb sandwiched between thin but ultra-crunchy top and bottom crusts, thanks to a generous amount of olive oil in the pan and on top of the dough. If you haven’t tried making focaccia or want to try a very simple recipe for focaccia this is definitely the one for you. You will love it and you can dress it with any topping you like it no topping. Have fun coming up with flavour combos!
+This recipe is easy to make, and tastes so rich and wonderful with the addition of fresh rosemary, olive oil and flaked sea salt...but also great loaded with figs, caramelized onions and goat cheese too! Plain is also delicious. This focaccia is perfectly crisp on the outside and soft and chewy on the inside. It has a moist but airy crumb sandwiched between thin but ultra-crunchy top and bottom crusts, thanks to a generous amount of olive oil in the pan and on top of the dough. If you haven’t tried making focaccia or want to try a very simple recipe for focaccia this is definitely the one for you. You will love it and you can dress it with any topping you like or no topping at all. Have fun coming up with flavour combos!
 </br>
 </br>
 
@@ -61,8 +61,8 @@ Makes Two 9-inch round focaccia
 * <span itemprop="ingredients">2 teaspoons kosher salt</span>
 * <span itemprop="ingredients">2 teaspoons instant yeast</span>
 * <span itemprop="ingredients">2 cups lukewarm water, made by combining &frac12; cup boiling water with 1&frac12; cups cold water</span>
-* <span itemprop="ingredients">butter for greasing</span>
-* <span itemprop="ingredients">4 tablespoons Kalikori Olive Oil, divided plus more for drizzling when serving</span>
+* <span itemprop="ingredients">butter or olive oil for greasing</span>
+* <span itemprop="ingredients">4 tablespoons <span class="highlight"><a rel="nofollow" href="http://kalikori.com">Kalikori Olive Oil</a></span>, divided plus more for drizzling when serving</span>
 * <span itemprop="ingredients">flaky sea salt</span>
 
 ### 2 Topping Options
