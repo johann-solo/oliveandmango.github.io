@@ -1,5 +1,5 @@
 ---
-title: Lemon Scones With a Lavender Glaze
+title: Blackberry Lemon Scones With a Lavender Glaze
 date: 2019-09-12
 author: Joanne
 thumbnail: /images/uploads/2019_09_12_blackberry_lemon_scones_with_a_lavender_glaze_1.jpg
@@ -71,7 +71,7 @@ __For the lavender glaze__
 
 ### Directions
 
-1. Preheat oven to 400°F and line a large baking sheet with parchment paper and set aside.
+1. Line a large baking sheet with parchment paper and set aside.
 
 1. Pulse the dry ingredients (flour, salt, baking powder, baking soda, sugar and the lime zest) a few time in a food processor and then pulse the stick of butter that has been sliced into the flour Approx 18-20 times until coarse crumble forms. (alternatively whisk those ingredients in a large bowl to combine. Add the cut cold butter and then work them into the mixture (using your fingers, two forks, or a pastry cutter) until lit resembles a coarse meal. 
 
