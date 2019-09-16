@@ -39,7 +39,7 @@ I was so happy with the recipe from Simply recipes because it calls for baking t
 </br>
 </br>
 
-These are really that good and simple to make. They do not skimp on any dairy. They are oozing with cheese sauce, melty cheeses as well as a salty crumbly cheese that is so perfect with the sweet corn. The lime makes it bright in flavour as does the cilantro and the chili powder gives it just enough smokey flavour with slight heat. There is extra heat from the jalapeños but you can control that by how much you add.  We live a little heat and welcome it. Customize to your taste buds and enjoy - cause these guys don’t last long on a table. 
+These are really that good and simple to make. They do not skimp on any dairy. They are oozing with cheese sauce, melty cheeses as well as a salty crumbly cheese that is so perfect with the sweet corn. The lime makes it bright in flavour as does the cilantro and the chili powder gives it just enough smokey flavour with slight heat. There is extra heat from the jalapeños but you can control that by how much you add.  We love a little heat and welcome it. Customize to your taste buds and enjoy - cause these guys don’t last long on a table. 
 </br>
 </br>
 ![Mexican Street Corn Nachos](/images/uploads/2019_09_14_mexican_street_corn_nachos_6.jpg)
@@ -74,7 +74,7 @@ __For the nachos__
 * <span itemprop="ingredients">1 large bag of white corn tortilla chips</span>
 * <span itemprop="ingredients">⅓ cup diced red onion</span>
 * <span itemprop="ingredients">2 Jalapeño peppers sliced</span>
-* <span itemprop="ingredients">Mexican crema** sour cream diluted with a tsp or two of water </span>
+* <span itemprop="ingredients">Mexican crema or sour cream diluted with a tsp or two of water </span>
 * <span itemprop="ingredients">Fresh chopped cilantro for serving </span>
 * <span itemprop="ingredients">Lime wedges for serving </span>
 
@@ -90,9 +90,9 @@ __For the nachos__
 
 1. While the tortilla chips are toasting, make the cheese sauce by setting up a double boiler with an inch of water in the lower pan. Place the 1 cup of the grated monterey jack cheese and 1 cup of the white cheddar cheese in the bowl above the double boiler. Mix with the cornstarch. Pour in milk and add the minced garlic. Bring the water in the double boiler to a boil. Let the cheese gently melt, stirring occasionally, until the sauce is smooth.
 
-1. Once sauce is thickened and smooth pour it  over the tortilla chips evenly and sprinkle the remaining cheeses over the top. Then sprinkle the corn mixture on the chips and top with the diced red onion and sliced Jalapeño peppers. Return the baking sheet to the oven and bake for another 10 minutes until warm and bubbly.
+1. Once sauce is thickened and smooth pour it  over the tortilla chips evenly and sprinkle the remaining cheeses over the top. Then sprinkle the corn mixture on the chips and top with the diced red onion and sliced jalapeño peppers. Return the baking sheet to the oven and bake for another 10 minutes until warm and bubbly.
 
-1. Once out the oven drizzle the sour cream on top of the nachos, sprinkle over some extra cotija or feta to taste and sprinkle with a little chili powder. Top with fresh chopped cilantro, a squeeze of like juice and serve with limes on the side and enjoy. 
+1. Once out the oven drizzle the sour cream on top of the nachos, sprinkle over some extra cotija or feta to taste and sprinkle with a little chili powder. Top with fresh chopped cilantro, a squeeze of lime juice and serve with limes on the side and enjoy. 
 
 Adapted from _Simply Recipes_
 
