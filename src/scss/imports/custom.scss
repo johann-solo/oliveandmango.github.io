@@ -1,6 +1,6 @@
 $accent-color: #ff6b6b;
-$tablet-width: 769px;
-$desktop-width: 1025px;
+$tablet-width: 1023px;
+$desktop-width: 1023px;
 $widepanel-width: 1800px;
 
 @mixin main__text ($color, $font-size) {
@@ -592,7 +592,7 @@ caption {
   padding: 30px 15px 30px;
   @media screen and (min-width: $tablet-width) {
     padding: 0 90px 0 0px;
-    flex: 1 0 250px;
+    flex: 1 0 300px;
     font-size: 0.8em;
   }
    @media screen and (min-width: $widepanel-width) {
