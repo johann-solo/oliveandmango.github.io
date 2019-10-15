@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_09_05_no_knead_focaccia_bread_1.jpg
 scaled_thumbnail: /images/uploads/2019_09_05_no_knead_focaccia_bread_0.jpg
 categories: ["bread"]
-tags: ["focaccia", "Italian", "goat cheese", "figs", "rosemary", "sponsored"]
+tags: ["focaccia", "Italian", "goat cheese", "figs", "rosemary", "feedfeed", "sponsored"]
 excerpt: This focaccia has a crisp, olive oil-scented crust and a puffy, moist crumb
 keywords: ["focaccia", "Italian", "goat cheese", "figs", "rosemary"]
 description: This focaccia has a crisp, olive oil-scented crust and a puffy, moist crumb
@@ -86,5 +86,7 @@ __For the Fig, Caramelized Onions, Goat Cheese + Rosemary (divide ingredients be
 3. Preheat oven to 425°F. Pour another tablespoon of oil over each round of dough. Rub your fingers lightly in the oil to coat, then use them to press straight down to create deep dimplesl Sprinkle with flaky sea salt all over and along with any toppings you may want to add. If using toppings make sure to press them into the dough slightly. 
 4. Transfer the pans to the oven and bake for 25 to 30 minutes, until they  are golden and crisp underneath. Remove the pans from the oven and transfer to cooling racks. Allow to cool for 10 minutes before removing from pan, cutting and serving
 
+</br>
+<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
 ![No Knead Focaccia Bread](/images/uploads/2019_09_05_no_knead_focaccia_bread_8.jpg)
