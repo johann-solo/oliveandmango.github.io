@@ -82,7 +82,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 __Fit the crust into pan__
 
 1. Gently fit the first rolled out pie dough into the bottom and up the sides of a pie dish with a flat rimmed edge. 
-2. Trim the dough to within a ½ inch of the pie dish rim and refrigerate while you make the filling and while you prepare the other dough for the cutouts if using. 
+2. Trim the dough to within a ½ inch of the pie dish rim and refrigerate while you make the filling and while you prepare the other dough for the cutouts if using. (see below for detailed instructions on how to make the dough and the cutouts)
 
 __Make the brown butter caramel__
 
@@ -94,7 +94,7 @@ __Prepare the Pumpkin pie filling__
 
 1. In a separate small bowl, lightly whisk the eggs and yolks together with the salt and set aside. In the bowl of a food processor or blender blend the pumpkin puree with the pumpkin pie spice and lemon juice until smooth. With the machine running on low, stream the brown-butter caramel through the food processor’s top opening and process until combined. Drizzle in the egg mixture, followed by the milk, maple syrup and carrot juice; blend until smooth, stopping once or twice to scrape down the sides. 
 
-2. Remove pie crust from fridge and place on baking sheet. Pour filling into it and bake on the middle rack of the oven for 15 minutes.  Reduce the heat to 350°F and bake for another 35-40 minutes, or when the center jiggles only slightly when shaken. Allow to cool completely on a wire rack, 2 to 3 hours. (Proceed with baking the remaining cutouts if using) Serve slightly warm, at room temperature, or cool with whip cream. 
+2. Remove pie crust from fridge and place on baking sheet. Pour filling into it and bake on the middle rack of the oven for 15 minutes.  Reduce the heat to 350°F and bake for another 35-40 minutes, or when the center jiggles only slightly when shaken. Allow to cool completely on a wire rack, 2 to 3 hours. (Proceed with baking the remaining cutouts if using- see further instructions below) Serve slightly warm, at room temperature, or cool with whip cream. 
 </br>
 </br>
 
@@ -102,20 +102,22 @@ __Prepare the Pumpkin pie filling__
 
 * <span itemprop="ingredients">2½ cups all-purpose Flour</span>
 * <span itemprop="ingredients">3 tbsp sugar</span>
-* <span itemprop="ingredients">¼ tsp salt</span>
+* <span itemprop="ingredients">Pinch of salt</span>
 * <span itemprop="ingredients">¼ cup shortening</span>
 * <span itemprop="ingredients">12 tbsp (1½ sticks) butter, cold and cut into small cubes</span>
-* <span itemprop="ingredients">¼ cup ice water </span>
+* <span itemprop="ingredients">¼ cup ice cold water </span>
 * <span itemprop="ingredients">1-2 eggs beaten fo egg wash </span>
 
 ### Directions
 
 1. Place the flour, sugar, and salt in the bowl of a food processor and pulse the mixture a few times until well combined.
-2. Add the shortening to the food processor and pulse once. Add the cubes of butter, one at a time, pulsing 1 to 2 times after the addition of each cube.
-3. With the processor running on low, drizzle in the ice water until the mixture starts to form into large clumps.
-4. Divide the dough in half. Form each into a disc and wrap one half in plastic wrap and refrigerate. Place the other disc in between two sheets of parchment paper. Roll to a circle that is 1½-2 inches larger in circumference than your pie dish. Place the sheet of dough over the top of your pie dish and remove parchment paper. Gently press the dough in to fit the bottom and sides of a pie dish with. Trim the dough to within a ½ inch of the pie dish rim and refrigerate (at this point you can make the filling, fill the cooled crust and bake as is without the cut outs) 
-5. Roll out the other disc int a circle the same as the first and cut leaf shapes out of the dough and place on a parchment lined baking sheet. 
-6. Remove pie dish from fridge and brush the flat edges of the pie crust with egg wash and then line the rim with half of the leaves decoratively. Refrigerate again. Brush the remaining leaves with egg wash and refrigerate them on the sheet pan while the pie bakes. After pie is out of the oven bake the remaining leaves at 350°F for 10-15 minutes or until they are golden brown. Remove from oven and let cool. Use these to decorate the inner ring of the pie or over it to your liking.
+2. Add the shortening to the food processor and pulse once. Add the cold cubes of butter, one at a time, pulsing 1 to 2 times after the addition of each one
+3. With the food processor running on low, stream in the ice water until the mixture starts to come together in large clumps.
+4. Divide the dough in half. Form each into a disc and wrap one half in plastic wrap and refrigerate. Place the other disc in between two sheets of parchment paper and roll out into a circle that is approx 1½-2 inches larger in circumference than your pie dish. Peel off one side of the parchment paper and then flip the dough over the top of your pie dish and remove the remaining piece of parchment paper. Gently press the dough in to fit the bottom and up the sides and over the edge of the pie dish. Trim the dough to just over the edge of the pie dish rim and refrigerate (at this point you can make the filling, fill the cooled crust and bake as is without the cut outs) 
+5. Roll out the other disc into a circle the same as the first and cut leaf shapes out of the dough and place on a parchment lined baking sheet. 
+6. Remove pie dish from fridge and brush the flat rimmed edges of the pie crust with egg wash and then line the rim with half of the leaves decoratively. Refrigerate again until ready to fill. Brush the remaining leaves with egg wash and refrigerate them on the sheet pan while the pie bakes. After pie is out of the oven bake the remaining leaves at 350°F for 10-15 minutes or until they are golden brown. Remove from oven and let cool. Use these to decorate the inner ring of the pie or over it to your liking.
+
+Inspired by _Four & Twenty Blackbirds_ and _The Kitchen Mccabe_
 
 </br>
 ![Brown Butter Maple Pumpkin Pie](/images/uploads/2019_10_18_brown_butter_maple_pumpkin_pie_10.jpg)
