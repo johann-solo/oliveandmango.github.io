@@ -46,24 +46,24 @@ A taste of what’s in this book are these wonderfully flavourful meatballs seas
 __For the meatballs__
 
 * <span itemprop="ingredients">1 cup bread crumbs, tightly packed (about 3 slices)</span>
-* &frac14; cup red wine</span>
-* 1&frac12; ground beef</span>
-* 2 tsp mild garlic paste or 1-2 minced cloves garlic</span>
-* 1 tbsp dried parsley</span>
-* &frac34; tsp salt</span>
-* 1&frac12; powdered cumin</span>
-* &frac14; tsp black pepper</span>
-* &frac14; cinnamon</span>
+* <span itemprop="ingredients">&frac14; cup red wine</span>
+* <span itemprop="ingredients">1&frac12; ground beef</span>
+* <span itemprop="ingredients">2 tsp mild garlic paste or 1-2 minced cloves garlic</span>
+* <span itemprop="ingredients">1 tbsp dried parsley</span>
+* <span itemprop="ingredients">&frac34; tsp salt</span>
+* <span itemprop="ingredients">1&frac12; powdered cumin</span>
+* <span itemprop="ingredients">&frac14; tsp black pepper</span>
+* <span itemprop="ingredients">&frac14; cinnamon</span>
 
 __For the sauce__
 
 * <span itemprop="ingredients">1 can diced tomatoes, no salt added, with liquid</span>
-* 1 tbsp butter</span>
-* 2 tsp dried onion flakes, or 1 tsp onion powder</span>
-* &frac12; salt</span>
-* &frac12; tsp sugar</span>
-* &frac12; tsp sweet paprika</span>
-* rice, mashed potatoes or French fries, to serve</span>
+* <span itemprop="ingredients">1 tbsp butter</span>
+* <span itemprop="ingredients">2 tsp dried onion flakes, or 1 tsp onion powder</span>
+* <span itemprop="ingredients">&frac12; salt</span>
+* <span itemprop="ingredients">&frac12; tsp sugar</span>
+* <span itemprop="ingredients">&frac12; tsp sweet paprika</span>
+* <span itemprop="ingredients">rice, mashed potatoes or French fries, to serve</span>
 
 ### Directions
 
