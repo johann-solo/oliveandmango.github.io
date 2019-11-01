@@ -68,25 +68,26 @@ This is a family classic and I’m sure you will enjoy it. Give it a try and put
 
 **Chicken Rub Mixture**
 
-* Salt
-* Pepper
-* Paprika
-* Onion powder
-* Garlic powder
-* Dried thyme (optional - I don’t always add it but sometimes I do)
+* 3 teaspoons of paprika
+* 2 teaspoons of dried thyme
+* 2 teaspoons of garlic powder
+* 2 teaspoons of salt
+* 1 teaspoon of onion powder
+* 1 teaspoon of black pepper
+
 <br>
 
 ### Directions
 
 1. Preheat oven to 350 &deg; F
 
-1. Once chicken is cleaned and dry, rub chicken with the spice mixture and set aside
+2. Once chicken is cleaned and dry, rub chicken with the spice mixture and set aside
 
-1. Heat a large skillet to medium high, add 2 tbsp of olive oil adding more if needed and brown the chicken on both sides for a few minutes each (you are not cooking it through just getting the skin and outside nice and brown). Don’t overcrowd pan, brown them in batches and then set aside.
+3. Heat a large skillet to medium high, add 2 tbsp of olive oil adding more if needed and brown the chicken on both sides for a few minutes each (you are not cooking it through just getting the skin and outside nice and brown). Don’t overcrowd pan, brown them in batches and then set aside.
 
-1. In a medium size pot heat up butter and remaining 2 tbsp of olive oil and add the onions, garlic, and veggies and sauté at medium heat until softened and browned - approx ten minutes and season generously with salt and pepper,  then add the rice and sauté for a few minutes. Add the broth and any pan juices from chicken and once its heated through and about to boil pour the whole rice mixture into your baking dish
+4. In a medium size pot heat up butter and remaining 2 tbsp of olive oil and add the onions, garlic, and veggies and sauté at medium heat until softened and browned - approx ten minutes and season generously with salt and pepper,  then add the rice and sauté for a few minutes. Add the broth and any pan juices from chicken and once its heated through and about to boil pour the whole rice mixture into your baking dish
 
-1. Place the chicken over the rice and broth, cover with foil and bake for approx 35 to 40 minutes. Remove foil and bake for another 10-15 minutes or until all the liquid has evaporated, rice is tender, and both chicken and rice is nice and golden brown.
+5. Place the chicken over the rice and broth, cover with foil and bake for approx 35 to 40 minutes. Remove foil and bake for another 10-15 minutes or until all the liquid has evaporated, rice is tender, and both chicken and rice is nice and golden brown.
 
 <br>
 ![Mom's roasted chicken and rice](/images/uploads/2017_10_16_moms_roasted_chicken_rice_7.jpg)
