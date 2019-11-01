@@ -3,7 +3,7 @@ title = "Workshops"
 +++
 
 <div class="workshop_title">
-  <h1>Workshop in Athens, Greece 21st September 2019!</h1>
+  <h1>Workshop in Athens, Greece 21st September 2019! - CLOSED</h1>
   <!-- <h2>Food Photography And Styling – Beginner and Intermediate</h2> -->
 </div>  
 </br>
@@ -25,7 +25,7 @@ title = "Workshops"
 <div>This course will focus on the basic principles of food photography and features hands on instruction. Spaces will be limited so get registered early. The workshop will be cohosted by <i>Evi Skoura</i> (@thehealthycookblog on Instagram). If you are interested, you can use the email below to sign up. We look forward to meeting you soon!</div>
 </br>
 
-<button class="btn"><a href="mailto:info@oliveandmango.com?subject=Athens Workshop">Sign up</a></button>
+<!-- <button class="btn"><a href="mailto:info@oliveandmango.com?subject=Athens Workshop">Sign up</a></button> -->
 
   <!-- <p>We are happy to announce our workshops – <i>An Introduction To Food Photography And Styling</i> as well as an all new <i>Intermediate Food Photography And Styling</i>.
   We will be exploring fundamental composition, colour theory, camera gear, props, Instagram and a whole lot more! This course will be interactive and focused.</p>
