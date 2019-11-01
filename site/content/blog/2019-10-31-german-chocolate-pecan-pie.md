@@ -6,9 +6,9 @@ thumbnail: /images/uploads/2019_10_31_german_chocolate_pecan_pie_1.jpg
 scaled_thumbnail: /images/uploads/2019_10_31_german_chocolate_pecan_pie_0.jpg
 categories: ["desserts"]
 tags: ["pecans", "pies", "chocolate", "sponsored"]
-excerpt: 
+excerpt: A sweet mashup of two very delicious desserts
 keywords: ["pecans", "pies", "chocolate"]
-description: 
+description: A sweet mashup of two very delicious desserts
 ---
 
 A sweet mashup of two very delicious desserts together in pie form. German chocolate cake is such a classic. Many times the frosting or filling on it and in it is usually made of pecans and coconut. I thought it would be genius to make a pecan pie with those same flavours - the addition of chocolate and coconut. Well I did some searching and I was definitely not the genius that came up with this mashup. This is a recipe from Southern Living and is just absolutely delicious. I used a few substitutions that I added to this recipe according to what I had in the pantry and fridge and it’s just a wild and decadent dessert that none of us could get enough of. 
