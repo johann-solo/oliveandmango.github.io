@@ -19,6 +19,7 @@
     "algoliasearch": "^3.30.0",
     "autoprefixer": "^9.3.1",
     "autoprefixer-core": "^6.0.1",
+    "babel-core": "^6.26.3",
     "babel-eslint": "^10.0.1",
     "babel-loader": "^7.0.0",
     "babel-plugin-syntax-object-rest-spread": "^6.13.0",
@@ -42,9 +43,9 @@
     "gulp-util": "^3.0.7",
     "gulp-watch": "^4.3.11",
     "hugo-algolia": "^1.2.13",
-    "hugo-bin": "^0.39.0",
     "imagemin-mozjpeg": "^6.0.0",
     "imports-loader": "^0.7.1",
+    "lodash": "^4.17.15",
     "postcss-cssnext": "^2.7.0",
     "postcss-import": "^10.0.0",
     "postcss-mixins": "^6.2.0",
@@ -53,5 +54,10 @@
     "url-loader": "^0.5.7",
     "webpack": "3.6.0",
     "whatwg-fetch": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.7.1",
+    "hugo-bin": "^0.39.0",
+    "node-sass": "^4.13.0"
   }
 }
