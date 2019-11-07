@@ -28,7 +28,7 @@ title = "Workshops"
 <!-- <button class="btn"><a href="mailto:info@oliveandmango.com?subject=Athens Workshop">Sign up</a></button> -->
 
   <!-- <p>We are happy to announce our workshops – <i>An Introduction To Food Photography And Styling</i> as well as an all new <i>Intermediate Food Photography And Styling</i>.
-  We will be exploring fundamental composition, colour theory, camera gear, props, Instagram and a whole lot more! This course will be interactive and focused.</p>
+  We will be exploring fundamental composition, colour theory, camera gear, props, Instagram and a whole lot more!! This course will be interactive and focused.</p>
   </br>
 
   <ul>
