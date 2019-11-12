@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_11_11_food_processor_flourless_chocolate_meringue_cake_1.jpg
 scaled_thumbnail: /images/uploads/2019_11_11_food_processor_flourless_chocolate_meringue_cake_0.jpg
 categories: ["desserts"]
-tags: ["chocolate", "cakes", "flourless", "sponsored"]
+tags: ["chocolate", "cakes", "flourless"]
 excerpt: A very fudgey and delicious cake with two topping alternatives
 keywords: ["chocolate", "cakes", "flourless"]
 description: A very fudgey and delicious cake with two topping alternatives
@@ -78,7 +78,7 @@ __For the non-meringue topping__
  
 4. When you’re ready to serve, make the topping. Whip together the mascarpone, cream, icing sugar, vanilla, and half of the orange zest until light and fluffy. Set aside. In a separate bowl, combine the remaining orange zest, granulated sugar, orange liqueur (or juice) and fruit. Dollop this mascarpone cream onto the chilled cake and top with the fruit.
 </br>
- 
+
 ### Recipe Notes
 
 The top of the cake will fall once you take it out of the oven, but that’s all part of the plan. It makes for a super-fudgy cake with lots of room for topping with mascarpone cream and berries. A 9-inch springform pan will also work here; just check for doneness at the 40-minute mark.
