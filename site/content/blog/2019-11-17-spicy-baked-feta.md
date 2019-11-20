@@ -4,7 +4,7 @@ date: 2019-11-17T11:54:58-05:00
 author: Joanne
 thumbnail: /images/uploads/2019_11_17_spicy_baked_feta_1.jpg
 scaled_thumbnail: /images/uploads/2019_11_17_spicy_baked_feta_0.jpg
-categories: ["sides"]
+categories: ["snacks"]
 tags: ["Greek", "spicy", "feta"]
 excerpt: Baked feta cheese with tomatoes, peppers onions and olive oil 
 keywords: ["Greek", "spicy", "feta", "appetiser", "appetizer"]
