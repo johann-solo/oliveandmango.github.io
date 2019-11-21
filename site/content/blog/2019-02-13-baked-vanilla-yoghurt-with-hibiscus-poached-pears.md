@@ -39,7 +39,7 @@ Something so sweet and rich as this baked yoghurt deserves a slightly tart and f
 </br>
 </br>
 
-Don’t be too intimidated when it comes to coring the pears. Coring them is optional and so serving them while.  More instructions below on other ways to prep them to make your life easier. I like my poached pears to be slightly boozy so I added some red wine to mine but that isn’t necessary if you wanted to keep them non alcoholic. A friend of mine suggested using sorrel or hibiscus port wine instead of regular red wine and I thought that would be genius and add even more of that sorrel flavour to them, so if you can get your hands on something like that, definitely sub the red wine out for it. Feel free to use any sweetener to poach them with, and adjust sweetness to taste. I didn’t overly sweeten them because I was serving them up with this sweet ad rich baked yoghurt. If you were serving them with a creme anglaise or a just with a simple dollop of whip then you may want to sweeten them further.
+Don’t be too intimidated when it comes to coring the pears. Coring them is optional and more instructions can be found below on other ways to prep them to make your life easier. I like my poached pears to be slightly boozy so I added some red wine to mine but that isn’t necessary if you wanted to keep them non alcoholic. A friend of mine suggested using sorrel or hibiscus port wine instead of regular red wine and I thought that would be genius and add even more of that sorrel flavour to them, so if you can get your hands on something like that, definitely sub the red wine out for it. Feel free to use any sweetener to poach them with, and adjust sweetness to taste. I didn’t overly sweeten them because I was serving them up with this sweet and rich baked yoghurt. If you were serving them with a creme anglaise or a just with a simple dollop of whip then you may want to sweeten them further.
 </br>
 </br>
 ![Baked Vanilla Yoghurt With Hibiscus Poached Pears](/images/uploads/2019_02_13_baked_vanilla_yoghurt_with_hibiscus_poached_pears_6.jpg)
@@ -57,7 +57,7 @@ This is such a tasty dessert and those beautiful hibiscus poached pears make it 
 Makes 1 shallow 9 inch pie/tart dish or 4 small to medium ramekins
 
 * 2 cups full fat Greek style yoghurt
-* 1 cup (1 x 380gm) tin condensed milk
+* 1 cup (1 x 380gm) condensed milk
 * &frac14; cup milk powder (I used powdered coconut milk)
 * 2 tbsp of heavy cream 
 * &frac12; tsp finely grated zest of an orange
@@ -69,7 +69,7 @@ Makes 1 shallow 9 inch pie/tart dish or 4 small to medium ramekins
 2. In a bowl combine all of the above ingredients and whisk well until very smooth and combined. 
 3. Pour into a wide flatish ceramic or cast iron oven proof dish or 4 ramekins. 
 4. Place the dish in a high sided roasting tray and fill the tray with hot water to approx &frac12;-&frac34; of the way up the sides creating a water bath 
-5. Bake for 40 minutes until starting to turn golden and set and then turn off the oven and allow to cool completely. If I make it at night I just leave it in the oven over night, otherwise remove it from the oven and take it out the water bath and allow it to cool to room temperature. 
+5. Bake for 40 minutes until starting to turn golden and set and then turn off the oven and allow to cool completely. If I make it at night I just leave it in the oven over night, otherwise remove it from the oven and take it out of the water bath and allow it to cool to room temperature. 
 6. Cover and refrigerate until cold and serve. This can be made the day before.
 </br>
 </br>
