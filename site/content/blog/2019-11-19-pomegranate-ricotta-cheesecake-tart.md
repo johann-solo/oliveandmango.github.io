@@ -70,7 +70,7 @@ __For the pomegranate gelée__
 * <span itemprop="ingredients">1 &frac14; cups fresh pomegranate juice</span>
 * <span itemprop="ingredients">2 tablespoons granulated sugar</span>
 * <span itemprop="ingredients">2 &frac12; teaspoons unflavored gelatin (from 2 [&frac14;-oz.] envelopes)</span>
-* <span itemprop="ingredients">3 tablespoons orange liqueur (such as Cointreau or Grand Marnier)</span>
+* <span itemprop="ingredients">3 tablespoons orange liqueur (such as Cointreau or Grand Marnier) – optional</span>
 * <span itemprop="ingredients">&frac23; cup pomegranate arils (seeds)</span>
 
 ### Directions
