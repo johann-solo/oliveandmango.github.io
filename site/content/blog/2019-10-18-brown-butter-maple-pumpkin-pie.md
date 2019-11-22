@@ -92,7 +92,7 @@ __Make the brown butter caramel__
 
 __Prepare the Pumpkin pie filling__
 
-1. In a separate small bowl, lightly whisk the eggs and yolks together with the salt and set aside. In the bowl of a food processor or blender blend the pumpkin puree with the pumpkin pie spice and lemon juice until smooth. With the machine running on low, stream the brown-butter caramel through the food processor’s top opening and process until combined. Drizzle in the egg mixture, followed by the milk, maple syrup and carrot juice; blend until smooth, stopping once or twice to scrape down the sides. 
+1. In a separate small bowl, lightly whisk the eggs and yolks together with the salt and set aside. In the bowl of a food processor or blender blend the pumpkin puree with the pumpkin pie spice and lemon juice until smooth. With the machine running on low, stream the brown-butter caramel through the food processor’s top opening and process until combined. Drizzle in the egg mixture, followed by the milk, maple syrup, molasses and carrot juice; blend until smooth, stopping once or twice to scrape down the sides. 
 
 2. Remove pie crust from fridge and place on baking sheet. Pour filling into it and bake on the middle rack of the oven for 15 minutes.  Reduce the heat to 350°F and bake for another 35-40 minutes, or when the center jiggles only slightly when shaken. Allow to cool completely on a wire rack, 2 to 3 hours. (Proceed with baking the remaining cutouts if using- see further instructions below) Serve slightly warm, at room temperature, or cool with whip cream. 
 </br>
