@@ -84,7 +84,7 @@ __For the crust__
 3. Whisk the egg yolk, cream, and vanilla together in a small bowl, then pour it through the feed tube in a slow stream with the processor running on low speed.
 4. Process until the mixture gathers itself into a ball, then wrap the dough tightly in plastic wrap and refrigerate for one hour.
 
-5. Roll out pie crust to fit pan. Press into pan, use the rolling pin to roll over and trim the edges, use a fork to prick entire surface of dough. Chill in the freezer for 20 minutes. Preheat oven to 350°F and then bake for 20 minutes. Once done remove from oven and allow it to cool on a rack while you make the filling. 
+5. Roll out pie crust to fit pan. Press into 9 inch tart pan, use the rolling pin to roll over and trim the edges, use a fork to prick entire surface of dough. Chill in the freezer for 20 minutes. Preheat oven to 350°F and then bake for 20 minutes. Once done remove from oven and allow it to cool on a rack while you make the filling. 
 
 __For the filling__
 
