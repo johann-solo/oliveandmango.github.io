@@ -48,7 +48,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 ### Ingredients
 
 * <span itemprop="ingredients">4 Chai tea bags </span>
-* <span itemprop="ingredients">1 lb fresh dates Selection Brand </span>
+* <span itemprop="ingredients">1 lb fresh <span class="highlight"><a rel="nofollow" href="https://www.metro.ca/en/online-grocery/aisles/pantry/baking-ingredients/fruit-seeds-nuts/dried-pitted-dates/p/059749885171">dates Selection Brand </a></span></span>
 * <span itemprop="ingredients">3 tablespoons chai spice (or 1 tablespoon cinnamon, 2 teaspoons ginger, 2 teaspoons cardamom, 1 &frac12; teaspoons allspice)</span>
 * <span itemprop="ingredients">&frac34; cup unsalted butter plus extra for greasing (room temperature)</span>
 * <span itemprop="ingredients">2&frac12; cups self-rising flour plus extra for dusting</span>
@@ -58,7 +58,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 * <span itemprop="ingredients">1 tsp pure vanilla extract </span>
 * <span itemprop="ingredients">Maldon salt for sprinkling </span>
 * <span itemprop="ingredients">1 jar of <span class="highlight"><a rel="nofollow" href="https://www.metro.ca/en/online-grocery/aisles/pantry/cereals-spreads-syrups/chocolate-sweet-spreads/dulce-de-leche-caramel-spread/p/059749903684">Irresistibles brand Dulce De Leche caramel spread</a></span> plus more for serving if you want extra (homemade caramel sauce recipe below) </span>
-* <span itemprop="ingredients">1&frac12; cups Irresistibles Pecans, toasted and chopped</span>
+* <span itemprop="ingredients">1&frac12; cups <span class="highlight"><a rel="nofollow" href="https://www.metro.ca/en/online-grocery/aisles/snacks/nuts-seeds-fruit/nuts-seeds/natural-pecan-halves/p/059749963206">Irresistibles Pecans</a></span>, toasted and chopped</span>
 
 __For the homemade caramel sauce__
 
