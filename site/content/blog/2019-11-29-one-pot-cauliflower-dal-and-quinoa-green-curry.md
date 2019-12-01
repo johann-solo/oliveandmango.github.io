@@ -33,7 +33,7 @@ There are a great amount of fabulous recipes out there for homemade green curry 
 </br>
 </br>
 
-The addition of quinoa into the pot turns this curry into a full meal, one that is filling and so delicious. I made this one in using GoGoQuinoa's <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/white-quinoa/">White Quinoa</a></span>. Quinoa makes for the perfect plant based protein addition. I love it in stews and soups and as a fluffy side. It cooks perfectly in this curry and it some excellent texture as well. This is definitely my go to kind of comfort meal for the midweek. Quick and easy and never disappoints - hope you enjoy it!
+The addition of quinoa into the pot turns this curry into a full meal, one that is filling and so delicious. I made this one using GoGoQuinoa's <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/white-quinoa/">White Quinoa</a></span>. Quinoa makes for the perfect plant based protein addition. I love it in stews and soups and as a fluffy side. It cooks perfectly in this curry and adds some excellent texture as well. This is definitely my go to kind of comfort meal for the midweek. Quick and easy and never disappoints - hope you enjoy it!
 </br>
 </br>
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com">GoGo Quinoa</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
@@ -59,10 +59,10 @@ Serves 4
 * <span itemprop="ingredients">2 cups roughly chopped cauliflower </span>
 * <span itemprop="ingredients">&frac34; cup red lentils </span>
 * <span itemprop="ingredients">1 cup <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/white-quinoa/">GoGo Quinoa White Quinoa</a></span> </span>
-* <span itemprop="ingredients">two 13.5-oz cans light coconut milk (can sub half with vegetable broth to lighten it up) </span>
+* <span itemprop="ingredients">Two 13.5-oz cans light coconut milk (can sub half with vegetable broth to lighten it up) </span>
 * <span itemprop="ingredients">4 cups vegetable broth</span>
 * <span itemprop="ingredients">2 Tbsp fish suace or soy sauce/tamari </span>
-* <span itemprop="ingredients">one 14-0z can of chickpeas rinsed and drained </span>
+* <span itemprop="ingredients">One 14-oz can of chickpeas rinsed and drained </span>
 * <span itemprop="ingredients">3-4 cups chopped spinach </span>
 * <span itemprop="ingredients">Salt and pepper to taste </span>
 * <span itemprop="ingredients">&frac14; cup of fresh coriander or cilantro plus more for serving </span>

@@ -50,7 +50,7 @@ __For the cake__
 
 * <span itemprop="ingredients">1 ⅔ cups <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/gluten-free-1-to-1-baking-flour.html">Bob’s Red Mill Gluten Free 1-to-1 Baking Flour</a></span></span>
 * <span itemprop="ingredients">1 ½ teaspoons baking powder</span>
-* <span itemprop="ingredients">1 teaspoon ground Vietnamese cinnamon</span>
+* <span itemprop="ingredients">1 teaspoon ground cinnamon</span>
 * <span itemprop="ingredients">1 teaspoon ground ginger</span>
 * <span itemprop="ingredients">½ teaspoon fine sea salt</span>
 * <span itemprop="ingredients">¼ teaspoon ground cloves</span>
