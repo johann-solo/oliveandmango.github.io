@@ -83,7 +83,12 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 
 6. Remove from oven once done and cool completely before serving
 
-&ast; Recipe Note - depending on the size of your dough log and size of your pie plate you may need to use an extra pie dough and extra cinnamon and sugar to make a third log roll.  
+&ast; For a basic and simple homemade pie dough recipe [check this post](https://www.oliveandmango.com/salted-caramel-apple-pie/).
+</br>
+</br>
+
+### Recipe Note 
+Depending on the size of your dough log and size of your pie plate you may need to use an extra pie dough and extra cinnamon and sugar to make a third log roll.  
 
 </br>
 ![Cinnamon Roll Apple Pie](/images/uploads/2019_12_05_cinnamon_roll_apple_pie_10.jpg)
