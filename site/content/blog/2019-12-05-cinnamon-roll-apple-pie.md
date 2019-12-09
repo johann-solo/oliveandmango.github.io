@@ -17,6 +17,9 @@ This is a cinnamon-scented twist on apple pie which is fun to make and always wo
 ![Cinnamon Roll Apple Pie](/images/uploads/2019_12_05_cinnamon_roll_apple_pie_2.jpg)
 </br>
 </br>
+![Cinnamon Roll Apple Pie](/images/uploads/2019_12_05_cinnamon_roll_apple_pie_11.jpg)
+</br>
+</br>
 
 I was thrilled to partner up with E.D. Smith to make a fabulous pie using their apple pie filling. I wanted to make some that incorporates the classic flavours of an apple pie but with a very fun twist.  Mission accomplished if you ask me. I have wanted to make this cinnamon twist/roll pie since last year.  I’m late to the game - this isn’t new - I have seen many versions of this all over the net but I found one I particularly liked via the one and only Martha Stewart. Her version makes a huge slab pie. I liked her version because the twists get super crispy and delicious as opposed to some recipes that use actual cinnamon bun dough that creates a fluffy pie crust. Not opposed too that idea at all and may have to try it as well in the future but I wanted a crispy edged crust for this pie. 
 </br>
