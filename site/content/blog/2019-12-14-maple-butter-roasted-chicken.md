@@ -57,6 +57,7 @@ __For the veggies__
 * <span itemprop="ingredients">4 large shallots peeled and quartered</span>
 * <span itemprop="ingredients">2 tbsp extra virgin olive oil</span>
 * <span itemprop="ingredients">1 tsp sea salt</span>
+* <span itemprop="ingredients">2 whole carrots</span>
 * <span itemprop="ingredients">½ tsp pepper</span>
 * <span itemprop="ingredients">1 Tbsp Maple syrup </span>
 
