@@ -71,28 +71,28 @@ I think that ends my little personal experience and my history of Greek’ness o
 
 __for the marinade__
 
-* 6 cloves of garlic grated 
-* 2 tsp dried oregano 
-* 2 tsp fresh rosemary chopped 
-* &frac14; cup of olive oil 
-* 1 cup of red or white wine 
-* 1 tbsp of red wine vinegar 
-* 1 tbsp honey 
-* 1 tbsp Worcestershire sauce 
-* &frac14; cup of fresh lemon juice 
-* Zest from 2 lemons 
+* <span itemprop="ingredients">6 cloves of garlic grated </span>
+* <span itemprop="ingredients">2 tsp dried oregano </span>
+* <span itemprop="ingredients">2 tsp fresh rosemary chopped </span>
+* <span itemprop="ingredients">&frac14; cup of olive oil </span>
+* <span itemprop="ingredients">1 cup of red or white wine </span>
+* <span itemprop="ingredients">1 tbsp of red wine vinegar </span>
+* <span itemprop="ingredients">1 tbsp honey </span>
+* <span itemprop="ingredients">1 tbsp Worcestershire sauce </span>
+* <span itemprop="ingredients">&frac14; cup of fresh lemon juice </span>
+* <span itemprop="ingredients">Zest from 2 lemons </span>
 
 __for prepping the lamb before roasting__
 
-* 6  cloves garlic chopped 
-* 1  tablespoons dried oregano
-* 1  tablespoons fresh chopped rosemary
-* 1  tablespoon Dijon mustard
-* 1 tbsp of honey 
-* 1 tbsp of butter softened 
-* 1  teaspoon salt
-* 1 tsp freshly ground black pepper 
-* 2  tablespoons olive oil
+* <span itemprop="ingredients">6  cloves garlic chopped </span>
+* <span itemprop="ingredients">1  tablespoons dried oregano</span>
+* <span itemprop="ingredients">1  tablespoons fresh chopped rosemary</span>
+* <span itemprop="ingredients">1  tablespoon Dijon mustard</span>
+* <span itemprop="ingredients">1 tbsp of honey </span>
+* <span itemprop="ingredients">1 tbsp of butter softened </span>
+* <span itemprop="ingredients">1  teaspoon salt</span>
+* <span itemprop="ingredients">1 tsp freshly ground black pepper </span>
+* <span itemprop="ingredients">2  tablespoons olive oil</span>
 
 ### Directions
 
