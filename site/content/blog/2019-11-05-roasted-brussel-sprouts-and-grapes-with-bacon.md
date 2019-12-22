@@ -62,7 +62,7 @@ Serves 8 and makes 2 sheet pans worth
 ### Directions
 
 1. Heat oven to 425°F. 
-2. On 2 rimmed baking sheets, arrange brussels sprouts, grapes, and bacon. Drizzle with olive oil. 
+2. On 2 rimmed baking sheets, arrange brussels sprouts, grapes, garlic, and bacon. Drizzle with olive oil. 
 3. Season with salt and pepper and thyme and toss well and spread mixture out in a single layer.Roast, until caramelized and tender, about 25-30 minutes. 
 4. Drizzle each tray with 1 teaspoon of balsamic vinegar and scrape up any caramelized bits with a wooden spoon. Toss in walnuts and serve sprinkled with the crumbled goat cheese 
 
