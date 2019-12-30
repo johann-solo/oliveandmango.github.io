@@ -116,7 +116,7 @@ __Garnishes (optional)__
 6. Place the pan in a large roasting dish (or any pan larger than the springform), and bring a tea kettle or pot of water to boil in preparation for the water bath. Set aside.
 7. In a large bowl, using an electric mixer fitted with the paddle attachment, if your mixer has one, beat 1 package of the cream cheese, &frac13; cup of the sugar, and the cornstarch together on low until creamy, about 3 minutes, scraping down the bowl several times.
 8. Blend in the remaining cream cheese, one package at a time, beating well and scraping down the bowl after each.
-9. Increase the mixer speed to medium and beat in the remaining sugar, then the vanilla.
+9. Increase the mixer speed to medium and beat in the remaining sugar, then the vanilla along with the zest.
 10. Blend in the eggs, one at a time, beating well after each.
 11. Beat in the cream just until completely blended. The filling will look light, creamy, airy, and almost like billowy clouds. Be careful not to over-mix. 
 12. Gently spoon the batter over the crust.
