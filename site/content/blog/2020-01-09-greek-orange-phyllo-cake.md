@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2020_01_09_greek_orange_phyllo_cake_1.jpg
 scaled_thumbnail: /images/uploads/2020_01_09_greek_orange_phyllo_cake_0.jpg
 categories: ["desserts"]
-tags: ["Greek", "oranges", "cakes", "sponsored"]
+tags: ["Greek", "oranges", "cakes", "citrus", "sponsored"]
 excerpt: A syrupy phyllo yogurt citrus cake
 keywords: ["Portokalopita", "Greek desserts", "orange desserts", "citrus desserts"]
 description: A syrupy phyllo yogurt citrus cake  

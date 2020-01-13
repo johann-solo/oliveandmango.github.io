@@ -73,26 +73,27 @@ This is not to say that you will achieve the best cinnamon rolls you have ever t
 
 **Dough**
 
-* 5 cups of Self-Rising flour (or 5 cups AP+2&frac12; tbsp of Baking powder + &frac14; tsp salt whisked together**)
-* &frac14; cup granulated sugar
-* 2 cups whole milk
-* 4 tbsp or &frac12; stick of butter melted
+* <span itemprop="ingredients">5 cups of Self-Rising flour (or 5 cups AP+2&frac12; tbsp of Baking powder + &frac14; tsp salt whisked together**)</span>
+* <span itemprop="ingredients">&frac14; cup granulated sugar</span>
+* <span itemprop="ingredients">2 cups whole milk</span>
+* <span itemprop="ingredients">4 tbsp or &frac12; stick of butter melted</span>
 
 **Filling**
 
-* &frac14; cup granulated sugar
-* &frac14; brown sugar
-* 1 tbsp of ground cinnamon
-* &frac14; cups maple syrup
-* 1 cup finely chopped pecans plus a little extra for topping the rolls after the glaze
+* <span itemprop="ingredients">&frac14; cup granulated sugar</span>
+* <span itemprop="ingredients">&frac14; brown sugar</span>
+* <span itemprop="ingredients">1 tbsp of ground cinnamon</span>
+* <span itemprop="ingredients">&frac14; cups maple syrup</span>
+* <span itemprop="ingredients">1 cup finely chopped pecans plus a little extra for topping the rolls after the glaze</span>
+* <span itemprop="ingredients">4 tbsp melted butter divided (2 for the filling and 2 to brush on before baking)</span>
 
 **Glaze**
 
-* 3 cups powdered sugar
-* 1/3 cup heavy cream, plus more as needed
-* 1 teaspoon vanilla extract
-* 2-3 tbsp of maple syrup (I used ponche de creme in this recipe**) ( you can also use coffee, Baileys or keep them plain by using more cream)
-* a pinch of salt
+* <span itemprop="ingredients">3 cups powdered sugar</span>
+* <span itemprop="ingredients">1/3 cup heavy cream, plus more as needed</span>
+* <span itemprop="ingredients">1 teaspoon vanilla extract</span>
+* <span itemprop="ingredients">2-3 tbsp of maple syrup (I used ponche de creme in this recipe**) ( you can also use coffee, Baileys or keep them plain </span>by using more cream)
+* <span itemprop="ingredients">a pinch of salt</span>
 <br>
 
 ### Directions
@@ -190,7 +191,7 @@ Storage: Self-rising flour can be stored in an airtight container at room temper
 5. Stir the mixture well before serving and serve with a dusting of grated nutmeg and over ice.
 <br>
 
-Recipe for the basic rolls adapted by thekitchn
+Recipe for the basic rolls adapted from _The Kitchn_
 
 <br>
 ![Maple Pecan Cinnamon Rolls](/images/uploads/2018_01_09_maple_pecan_cinnamon_rolls_15.jpg)
