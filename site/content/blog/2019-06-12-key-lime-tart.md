@@ -43,7 +43,6 @@ __For the filling__
 * <span itemprop="ingredients"> 14 ounce can sweetened condensed milk</span>
 * <span itemprop="ingredients"> &frac12; cup Key lime juice ( or any lime or citrus)</span>
 * <span itemprop="ingredients"> &frac12; teaspoon cream of tartar</span>
-* <span itemprop="ingredients"> Whipped cream</span>
 
 __For the crust__
 
@@ -55,11 +54,13 @@ __For the crust__
 
 1. Preheat oven to 350°F. Finely grind gingersnaps in processor. Add butter and blend until crumbs are evenly moistened. 
 2. Press mixture over bottom and up sides of 9-inch-diameter tart pan with removable bottom. Bake crust until colour darkens, pressing sides with back of spoon if beginning to slide, about 8 minutes.
-3. Cool completely and reduce the oven temperature to 325°F. While the crust is cooling make the filling. 
-For the filling
+3. Cool completely and reduce the oven temperature to 325°F. While the crust is cooling make the filling.  
+
+__For the filling__
+
 1. With an electric mixer, beat the eggs yolks on high speed until thick and light in colour. Add the condensed milk and mix on low speed. Still on low speed, add half the lime juice, cream of tartar and then the remaining lime juice, mixing after each addition. Mix well until blended. 
 2. Pour into pie crust and bake for 10 to 15 minutes or until the centre is firm and dry to the touch.
-3. Let cool to room temperature and refrigerate for at least 3 hours. 
+3. Let cool to room temperature and refrigerate for at least 3 hours or until set then slice and serve.
 
 </br>
 ![Key Lime Tart](/images/uploads/2019_06_12_key_lime_tart_5.jpg)
