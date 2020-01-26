@@ -11,7 +11,7 @@ keywords: ["Austrian Pancakes", "Alpine Cooking", "Meredith Erickson"]
 description: A sweet Austrian classic dessert served right out of the frying pan. Enjoy this recipe for Kaiserschmarrn by food writer Meredith Erickson
 ---
 
-I just got back from a couple of days in Collingwood (Ontario’s popular skiing region) and thought it was the right time to finally write this post and share a recipe I made from _Alpine Cooking_ - a book by the very talented food writer Meredith Erickson which I received as a gift from Penguin Rnadom House Canada. I love cookbooks like this one because they are more than just recipes. The photography is breathtaking of the landscape and the food and the stories are adventurous and the history and stories behind the food and the people who make the food are intriguing. I especially love reading these stories about places I can only dream of visiting.
+I just got back from a couple of days in Collingwood (Ontario’s popular skiing region) and thought it was the right time to finally write this post and share a recipe I made from _Alpine Cooking_ - a book by the very talented food writer Meredith Erickson which I received as a gift from Penguin Random House Canada. I love cookbooks like this one because they are more than just recipes. The photography is breathtaking of the landscape and the food and the stories are adventurous and the history and stories behind the food and the people who make the food are intriguing. I especially love reading these stories about places I can only dream of visiting.
 </br>
 </br>
 ![Kaiserschmarrn](/images/uploads/2020_01_26_kaiserschmarrn_austrian_pancakes_2.jpg)
@@ -63,7 +63,11 @@ I was in Collingwood with friends and we had a blast. I am not a skier at all by
 1. In a large bowl, combine the flour, milk, eggs, melted butter, and a pinch of salt and whisk well to combine into a loose batter. Let rest at room temperature for 20 to 30 minutes.
 2. In a large, well-seasoned frying pan over medium heat, warm the grape seed oil until it shimmers. Pour in the batter and let it sit in the pan, untouched, so it can start to slightly brown on the bottom, Using a flat spatula, or a deft flick of the wrist, flip the pancake and continue to cook until brown on the other side, about 2 minutes. 
 3. Using two forks, and working directly in the pan, coarsely cut the pancake into pieces, 1 to 2 inches (2.5 to 5cm) in size. Sprinkle liberally with the confectioners’ sugar.
-4. Harness your Alpine bravado by splashing the rum onto the pancake, then setting the pan aflame. Let the fire subside and serve up the _ warm_ in its pan, accompanied by apple and/or cranberry jam.
+4. Harness your Alpine bravado by splashing the rum onto the pancake, then setting the pan aflame. Let the fire subside and serve up the _Kaiserschmarrn_ in its pan, accompanied by apple and/or cranberry jam.
+
+</br>
+### Recipe Notes
+The possibilities for _Schmarrn_ (translated as “shredded or chopped pancake”) variations are endless! To make _Apfelschmarrn_ (apple) or _Kirschschmarrn_ (cherry), simply add a few thin slices of apple or a handful of pitted and halved cherries to the batter before you pour it into the pan. You can also add 2 tablespoons raisins to the batter, or stir in the finely grated zest of one lemon if you prefer.
 
 </br>
 ![Kaiserschmarrn](/images/uploads/2020_01_26_kaiserschmarrn_austrian_pancakes_6.jpg)
