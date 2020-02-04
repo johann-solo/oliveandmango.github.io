@@ -68,7 +68,7 @@ __For the Crepes (makes 20-25 in an 8-inch skillet)__
 __For the cream filling__
 
 * <span itemprop="ingredients">&frac12; cup ricotta </span>
-* <span itemprop="ingredients">&frac14; cup chestnut purée </span>
+* <span itemprop="ingredients">&frac14; cup chestnut purée (storebought or <span class="highlight"><a rel="nofollow" href="https://www.oliveandmango.com/no-churn-roasted-chestnut-ice-cream/">homemade</a></span>) </span>
 * <span itemprop="ingredients">1 &frac12; cup heavy cream cold </span>
 * <span itemprop="ingredients">3 tablespoons sugar</span>
 * <span itemprop="ingredients">&frac12; teaspoon vanilla</span>
