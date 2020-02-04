@@ -72,7 +72,7 @@ Serves 4-6
 * 1 bay leaf
 * ½ tsp Red Pepper Flakes
 * ½ cup Red Wine
-* ¼ cup Balsamic Vinegar
+* 2 tbsp Balsamic Vinegar
 * a 28 ounce can San Marzano Tomatoes, including their juices
 * 340 grams of GoGo Quinoa Lentil & Quinoa Rotini
 * ½ cup Pasta Cooking Liquid
