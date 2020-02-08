@@ -83,5 +83,7 @@ Allow 4-6 oysters per person, and make sure they are as fresh as can be. Shuckin
 
 1. Then to remove the oyster from the shell, with a sharp edged knife gently scrape the small round muscle underneath the body in the cupped part of the shell. Then it’s ready to serve immediately in or out of the shell with a teaspoon of the sauce. 
 
+For more information and a more thorough guide to storing, cleaning and shucking oysters see [this guide](https://www.seriouseats.com/2010/07/knife-skills-how-to-shuck-an-oyster.html) by Kenji Lopez 
+
 </br>
 ![Zesty chili oyster sauce](/images/uploads/2020_02_07_zesty_chili_oyster_sauce_7.jpg)
