@@ -11,7 +11,7 @@ keywords: ["Spring rolls", "Greek food", "sring rolls"]
 description: A crispy twist on a this vegetarian classic
 ---
 
-These crispy baked spanakopita spring rolls are a fun twist on this vegetarian classic. You all know how much I love spanakopita and when I saw this recipe on olivemagazine.com I thought genius!!! I had to try them.  I used my own filling recipe and I also changed  the method of cooking the filling too. 
+These crispy baked spanakopita spring rolls are a fun twist on this vegetarian classic. You all know how much I love spanakopita and when I saw this recipe on [olivemagazine.com](https://www.olivemagazine.com/recipes/vegetarian/spanakopita-spring-rolls/) I thought genius!!! I had to try them.  I used my own filling recipe and I also changed  the method of cooking the filling too. 
 </br>
 </br>
 ![Crispy Spanakopita Spring Rolls](/images/uploads/2020_02_08_crispy_spanakopita_spring_rolls_2.jpg)
