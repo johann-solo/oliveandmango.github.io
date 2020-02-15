@@ -65,6 +65,7 @@ Makes 8-10 rolls
 * <span itemprop="ingredients">&frac14; tsp of pepper </span>
 * <span itemprop="ingredients">8-10 spring roll wrappers 8-10 </span>
 * <span itemprop="ingredients">Sesame seeds for sprinkling over rolls </span>
+* <span itemprop="ingredients">Add 1 clove of garlic minced </span>
 
 ### Directions
 
