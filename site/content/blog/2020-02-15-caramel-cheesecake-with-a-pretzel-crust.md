@@ -75,6 +75,7 @@ __For the Caramel topping__
 
 
 ### Directions
+<span itemprop="recipeInstructions">
 __For the crust__
 
 1. Preheat oven to 350°F. Grease a 9- or 10-inch springform pan.
@@ -92,6 +93,6 @@ __For caramel topping__
 1. Stir sugar, water, and lemon juice in large saucepan over medium heat until sugar dissolves. Increase heat; boil without stirring until mixture turns deep amber, occasionally swirling pan and brushing down sides with wet pastry brush, approx 9 minutes. Add cream (mixture will bubble a lot). Reduce heat to medium-low. Simmer until reduced to 1 &frac14; cups, stirring occasionally, approx 8 minutes. Chill until thickened but still pourable, about 15 minutes.
 2. Spoon caramel over top of cake. Garnish top edges with chopped English toffee, flaky sea salt and pretzels. 
 3. Run knife around pan sides to loosen cake; release pan sides slice and serve 
-
+</span>
 </br>
 ![Caramel Cheesecake With a Pretzel Crust](/images/uploads/2020_02_15_caramel_cheesecake_with_a_pretzel_crust_7.jpg)
