@@ -28,7 +28,7 @@ The one important thing that you must do is dry brine the chicken with salt - ba
 </br>
 </br>
 
-It’s really that easy. What gives this whole meal a kick start is roasting it in a preheated pan - this helps speed up the cooking process and gets the potatoes extra crispy. Just make sure to be very careful when removing the hot pan from the oven and when placing the oil bird and pities in the preheated pan. It can sizzle quit a bit so keep that in mind and keep a safe distance. 
+It’s really that easy. What gives this whole meal a kick start is roasting it in a preheated pan - this helps speed up the cooking process and gets the potatoes extra crispy. Just make sure to be very careful when removing the hot pan from the oven and when placing the oil bird and potatoes in the preheated pan. It can sizzle quit a bit so keep that in mind and keep a safe distance. 
 </br>
 </br>
 
