@@ -66,7 +66,7 @@ __For the cake__
 * <span itemprop="ingredients">&frac34; cup milk warmed but not hot </span>
 * <span itemprop="ingredients">3 tsp baking powder </span>
 * <span itemprop="ingredients">1 tsp of baking soda </span>
-* <span itemprop="ingredients">1tspground cinnamon </span>
+* <span itemprop="ingredients">1tsp ground cinnamon </span>
 * <span itemprop="ingredients">1 &frac12; cups AP flour </span>
 * <span itemprop="ingredients">&frac14; tsp salt</span>
 * <span itemprop="ingredients">1 cup of chopped toasted walnuts plus more for sprinkling over the cake once done </span>
@@ -78,7 +78,6 @@ __For the syrup__
 * <span itemprop="ingredients">Zest of one lemon </span>
 * <span itemprop="ingredients">1 cinnamon stick </span>
 * <span itemprop="ingredients">&frac14; tsp whole cloves </span>
-* <span itemprop="ingredients">1 cinnamon stick </span>
 
 ### Directions
 
