@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_11_24_sticky_toffee_chai_pudding_cake_1.jpg
 scaled_thumbnail: /images/uploads/2019_11_24_sticky_toffee_chai_pudding_cake_0.jpg
 categories: ["desserts"]
-tags: ["cakes", "toffee", "chai", "sponsored"]
+tags: ["cakes", "toffee", "chai", "bundts", "sponsored"]
 excerpt: A perfectly spiced bundt that is dripping with caramel
 keywords: ["coffee cake", "toffee cake", "chai flavour", "bundt cakes"]
 description: A perfectly spiced bundt that is dripping with caramel

@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_09_15_apple_cider_doughnut_bundt_cake_1.jpg
 scaled_thumbnail: /images/uploads/2019_09_15_apple_cider_doughnut_bundt_cake_0.jpg
 categories: ["desserts"]
-tags: ["apples", "cakes", "sponsored"]
+tags: ["apples", "cakes", "bundts", "sponsored"]
 excerpt: Essentially a giant cakey doughnut perfectly spiced with three options to top it with
 keywords: ["apples", "cakes", "bundts"]
 description: Essentially a giant cakey doughnut perfectly spiced with three options to top it with
