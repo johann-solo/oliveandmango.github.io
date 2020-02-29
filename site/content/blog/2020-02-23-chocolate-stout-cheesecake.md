@@ -53,7 +53,7 @@ Makes one 9-inch cheesecake
 __For the cookie crust__
 
 * <span itemprop="ingredients">1 regular size pack of Oreo cookies (approx 36) </span>
-* <span itemprop="ingredients">8 tbsps or unsalted butter, melted </span>
+* <span itemprop="ingredients">8 tbsps of unsalted butter, melted </span>
 
 __For the filling__
 
