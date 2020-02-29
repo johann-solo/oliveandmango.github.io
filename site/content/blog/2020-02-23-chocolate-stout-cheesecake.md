@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2020_02_23_chocolate_stout_cheesecake_1.jpg
 scaled_thumbnail: /images/uploads/2020_02_23_chocolate_stout_cheesecake_0.jpg
 categories: ["desserts"]
-tags: ["chocolate", "cheesecakes"]
+tags: ["chocolate", "cheesecakes", "Guinness"]
 excerpt: A super rich and decadent dark chocolate cheesecake
 keywords: ["chocolate cheesecake", "stout desserts", "Guinness desserts", "Guinness cakes"]
 description: A super rich and decadent dark chocolate cheesecake
