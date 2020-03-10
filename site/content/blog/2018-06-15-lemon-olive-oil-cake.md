@@ -63,7 +63,7 @@ The recipe calls for making the cake in the food processor but mine is still in 
 </br>
 
 ### Ingredients
-Makes 2 loaves
+Makes 2 small loaves or 1 larger one
 
 __For the cake__
 
@@ -89,7 +89,7 @@ __For the lemon glaze__
  
 ### Directions
 
-1. Preheat the oven to 350°F (180°C) and line two large loaf pans with parchment paper.
+1. Preheat the oven to 350°F (180°C) and line two small loaf pans or 1 larger one with parchment paper.
 
 1. In a food processor, place the invert sugar (or corn syrup) and eggs and blend until the mixture is light and frothy. (Alternatively, you can use a stand mixer fitted with a paddle attachment.) Once the mixture starts to get fluffy, slowly stream in the sugar and continue to blend until almost white.
 
