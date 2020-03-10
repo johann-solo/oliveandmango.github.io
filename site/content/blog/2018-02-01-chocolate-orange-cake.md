@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_02_01_chocolate_orange_cake_1.jpg
 scaled_thumbnail: /images/uploads/2018_02_01_chocolate_orange_cake_0.jpg
 categories: ["desserts"]
-tags: ["cakes", "chocolate", "oranges", "feedfeed"]
+tags: ["cakes", "chocolate", "oranges", "feedfeed", "citrus"]
 excerpt: A decadent and zesty twist to a classic chocolate cake
 ---
 

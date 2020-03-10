@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_08_26_shaved_zucchini_salad_with_a_lemony_vinaigrette_1.jpg
 scaled_thumbnail: /images/uploads/2019_08_26_shaved_zucchini_salad_with_a_lemony_vinaigrette_0.jpg
 categories: ["sides"]
-tags: ["zucchini", "salads", "lemons"]
+tags: ["zucchini", "salads", "lemons", "citrus"]
 excerpt: Shaved zucchini with a splash of lemon, some salty cheese and earthy nuts - a simple Summer salad
 keywords: ["zucchini", "salads", "lemons"]
 description: Shaved zucchini with a splash of lemon, some salty cheese and earthy nuts - a simple Summer salad

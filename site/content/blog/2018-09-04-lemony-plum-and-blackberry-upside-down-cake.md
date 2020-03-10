@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_09_04_lemony_plum_and_blackberry_upside_down_cake_1.jpg
 scaled_thumbnail: /images/uploads/2018_09_04_lemony_plum_and_blackberry_upside_down_cake_0.jpg
 categories: ["desserts"]
-tags: ["cakes", "blackberries", "berries", "plums", "lemons"]
+tags: ["cakes", "blackberries", "berries", "plums", "lemons", "citrus"]
 excerpt: Sweet and syrupy plums and blackberries on top a light and delicious cake with a hint of lemon
 ---
 

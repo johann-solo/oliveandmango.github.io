@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_1.jpg
 scaled_thumbnail: /images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_0.jpg
 categories: ["desserts"]
-tags: ["tarts", "lemons", "gluten-free", "sponsored"]
+tags: ["tarts", "lemons", "gluten-free", "citrus", "sponsored"]
 excerpt: A bright, delicious tart that will have you craving slice after slice
 keywords: ["tarts", "lemons", "gluten-free"]
 description: A bright, delicious gluten free lemon custard tart that will have you craving slice after slice

@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_08_19_lemon_blueberry_crunch_pie_1.jpg
 scaled_thumbnail: /images/uploads/2019_08_19_lemon_blueberry_crunch_pie_0.jpg
 categories: ["desserts"]
-tags: ["lemons", "blueberries", "berries", "gluten free", "granola", "sponsored"]
+tags: ["lemons", "blueberries", "berries", "gluten free", "granola", "citrus", "sponsored"]
 excerpt: The creamiest blueberry and lemon filling with a crunchy granola crust
 keywords: ["lemons", "blueberries", "berries", "granola", "gluten free"]
 description: The creamiest blueberry and lemon filling with a crunchy granola crust
