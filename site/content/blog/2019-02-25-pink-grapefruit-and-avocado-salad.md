@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_02_25_pink_grapefruit_and_avocado_salad_1.jpg
 scaled_thumbnail: /images/uploads/2019_02_25_pink_grapefruit_and_avocado_salad_0.jpg
 categories: ["sides"]
-tags: ["grapefruit", "avocados"]
+tags: ["grapefruit", "avocados", "citrus"]
 excerpt: A bright, and refreshing salad with Creamy avocado and crunchy pistachios 
 keywords: ["grapefruit", "avocados", "salads"]
 description: A bright, and refreshing salad with Creamy avocado and crunchy pistachios 

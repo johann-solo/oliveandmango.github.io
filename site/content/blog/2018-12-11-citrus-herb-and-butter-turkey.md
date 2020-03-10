@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_12_11_citrus_herb_and_butter_turkey_1.jpg
 scaled_thumbnail: /images/uploads/2018_12_11_citrus_herb_and_butter_turkey_0.jpg
 categories: ["mains"]
-tags: ["turkey", "oranges", "lemons", "sponsored"]
+tags: ["turkey", "oranges", "lemons", "citrus", "sponsored",]
 excerpt: Crispy skin and perfectly tender turkey meat in only a few simple steps
 keywords: ["turkey", "roasting", "oranges", "lemons"]
 description: Don't be intimidated when roasting your turkey. Here are a few simple techniques I have learned and experimented with to bring you a no-fail perfectly tender turkey. You can have crispy skin and perfectly tender turkey meat in only a few simple steps. 

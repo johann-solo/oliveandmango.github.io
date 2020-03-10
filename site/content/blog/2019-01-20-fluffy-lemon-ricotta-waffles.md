@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_01_20_fluffy_lemon_ricotta_waffles_1.jpg
 scaled_thumbnail: /images/uploads/2019_01_20_fluffy_lemon_ricotta_waffles_0.jpg
 categories: ["breakfast"]
-tags: ["waffles", "ricotta", "lemons"]
+tags: ["waffles", "ricotta", "lemons", "citrus"]
 excerpt: Extra fluffy waffles with a lemony zest
 keywords: ["waffles", "ricotta", "lemons", "breakfast"]
 description: These lemon ricotta waffles are soft, tender and so flavourful. Adding ricotta makes them extra fluffy and you really get a nice lemony zing in them thanks to the good amount of fresh lemon juice and zest.

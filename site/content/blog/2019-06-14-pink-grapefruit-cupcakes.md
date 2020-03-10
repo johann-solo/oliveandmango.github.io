@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: images/uploads/2019_06_14_pink_grapefruit_cupcakes_1.jpg
 scaled_thumbnail: images/uploads/2019_06_14_pink_grapefruit_cupcakes_0.jpg
 categories: ["desserts"]
-tags: ["grapefruit", "cupcakes"]
+tags: ["grapefruit", "cupcakes", "citrus"]
 excerpt: Simple citrus infused cupcakes with a luscious grapefruit infused buttercream that is so easy to work with and to make.
 keywords: ["grapefruit", "cupcakes"]
 description: Simple citrus infused cupcakes with a luscious grapefruit infused buttercream that is so easy to work with and to make.

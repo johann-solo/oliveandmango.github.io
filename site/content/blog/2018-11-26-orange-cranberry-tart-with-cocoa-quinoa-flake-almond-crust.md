@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_11_26_orange_cranberry_tart_with_cocoa_quinoa_flake_almond_crust_1.jpg
 scaled_thumbnail: /images/uploads/2018_11_26_orange_cranberry_tart_with_cocoa_quinoa_flake_almond_crust_0.jpg
 categories: ["desserts"]
-tags: ["cranberries", "oranges", "quinoa", "almonds", "tarts", "sponsored"]
+tags: ["cranberries", "oranges", "quinoa", "almonds", "tarts", "citrus", "sponsored"]
 excerpt: A delicious cranberry tart that is vegan with a chewy, nutty crust
 keywords: ["cranberries", "oranges", "quinoa", "almonds", "tarts"]
 description: A delicious cranberry tart that is vegan with a chewy, nutty crust and a lovely custard-like tart and sweet curd filling. Topped with a dollop of coconut whip and it’s the perfect dessert, the perfect way to take advantage of cranberry season and not to mention the prettiest as well.

@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_06_15_lemon_olive_oil_cake_1.jpg
 scaled_thumbnail: /images/uploads/2018_06_15_lemon_olive_oil_cake_0.jpg
 categories: ["desserts"]
-tags: ["cakes", "lemons", "olive oil"]
+tags: ["cakes", "lemons", "olive oil", "citrus"]
 excerpt: Get ready to make the perfect lemon loaf
 keywords: ["food processor cake", "lemon loaf", "olive oil cakes", "easy lemon loaf"]
 description: An easy to make lemon olive oil cake that is made in a food processor 

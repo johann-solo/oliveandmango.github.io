@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2020_02_21_lemon_bundt_cake_1.jpg
 scaled_thumbnail: /images/uploads/2020_02_21_lemon_bundt_cake_0.jpg
 categories: ["desserts"]
-tags: ["cakes", "bundts", "lemons", "gluten free", "sponsored"]
+tags: ["cakes", "bundts", "lemons", "gluten free", "citrus", "sponsored"]
 excerpt: A very moist and delicious Lemon bundt cake with a lemon glaze and icing 
 keywords: ["Grain free cake", "paleo cake", "gluten free cake", "lemon bundt cake"]
 description: A very moist and delicious Lemon bundt cake with a lemon glaze and icing 
