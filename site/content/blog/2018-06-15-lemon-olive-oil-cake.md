@@ -5,11 +5,13 @@ author: Joanne
 thumbnail: /images/uploads/2018_06_15_lemon_olive_oil_cake_1.jpg
 scaled_thumbnail: /images/uploads/2018_06_15_lemon_olive_oil_cake_0.jpg
 categories: ["desserts"]
-tags: ["cakes", "lemons"]
+tags: ["cakes", "lemons", "olive oil"]
 excerpt: Get ready to make the perfect lemon loaf
+keywords: ["food processor cake", "lemon loaf", "olive oil cakes", "easy lemon loaf"]
+description: An easy to make lemon olive oil cake that is made in a food processor 
 ---
 
-Do you want a fabulously tart and lemony loaf in your recipe collection? This is definitely the one! It has a wonderful fluffy crumb texture, a very lemony zing from the syrup and the glaze plus the cake itself. It’s moist from the syrup and has a wonderful richness from the olive oil. I’m telling you - you do not need to look any further for a perfect lemon olive oil loaf!
+Do you want a fabulously tart and lemony loaf in your recipe collection? This is definitely the one! It has a wonderful fluffy crumb texture, a very lemony zing from the syrup and the glaze plus the cake itself. It’s moist from the syrup and has a wonderful richness from the olive oil. I’m telling you - you do not need to look any further for a perfect lemon olive oil cake!
 </br>
 </br>
 ![Lemon Olive Oil Cake](/images/uploads/2018_06_15_lemon_olive_oil_cake_2.jpg)
@@ -44,7 +46,9 @@ I can dream about seaside dining at the Inn one day and hopefully I will get the
 </br>
 </br>
 
-I chose to do the olive oil cake and a delicious seafood recipe which I will be sharing soon. Let’s talk about the olive oil cake. I already described it to you but I will tell you about a few changes I made to it. The recipe calls for splitting the batter into two loaf pans but I did not do that. I thought the full batter was the perfect amount for a regular sized loaf tin or for two minis, but not for two regular sized loaf tins. I also did not use the full amount of syrup in the cake as I wanted the cake to maintain its crumb - feel free to use the full amount for a bit of a soaked texture though. That’s pretty much it. My husband loved this loaf sliced and served with a dollop of whip cream (unsweetened) that he thought perfectly balanced the tartness of the cake and mellowed the sweetness.
+### A cake that can be made in a food processor
+
+I chose to do the lemon olive oil cake and a delicious seafood recipe which I will be sharing soon. Let’s talk about the olive oil cake. I already described it to you but I will tell you about a few changes I made to it. The recipe calls for splitting the batter into two loaf pans but I did not do that. I thought the full batter was the perfect amount for a regular sized loaf tin or for two minis, but not for two regular sized loaf tins. I also did not use the full amount of syrup in the cake as I wanted the cake to maintain its crumb - feel free to use the full amount for a bit of a soaked texture though. That’s pretty much it. My husband loved this loaf sliced and served with a dollop of whip cream (unsweetened) that he thought perfectly balanced the tartness of the cake and mellowed the sweetness.
 </br>
 </br>
 ![Lemon Olive Oil Cake](/images/uploads/2018_06_15_lemon_olive_oil_cake_7.jpg)
@@ -63,25 +67,25 @@ Makes 2 loaves
 
 __For the cake__
 
-* 3 Tbsp (45 mL) invert sugar or light corn syrup (see note)
-* 4 eggs
-* ⅞ cup (175 g) sugar or &frac34; cup plus 2 tbsps
-* 1¾ cups (220 g) flour
-* 2 tsp (10 g) baking powder
-* ½ tsp (2 g) salt
-* Finely grated zest of 1 lemon
-* ⅞ cup (200 mL) olive oil
+* <span itemprop="ingredients">3 Tbsp (45 mL) invert sugar or light corn syrup (see note)</span>
+* <span itemprop="ingredients">4 eggs</span>
+* <span itemprop="ingredients">⅞ cup (175 g) sugar or &frac34; cup plus 2 tbsps</span>
+* <span itemprop="ingredients">1¾ cups (220 g) flour</span>
+* <span itemprop="ingredients">2 tsp (10 g) baking powder</span>
+* <span itemprop="ingredients">½ tsp (2 g) salt</span>
+* <span itemprop="ingredients">Finely grated zest of 1 lemon</span>
+* <span itemprop="ingredients">⅞ cup (200 mL) olive oil</span>
  
 __For the lemon syrup__
 
-* 1 cup (200 g) sugar
-* 1 cup (250 mL) water
-* 1½ cups (375 mL) lemon juice
+* <span itemprop="ingredients">1 cup (200 g) sugar</span>
+* <span itemprop="ingredients">1 cup (250 mL) water</span>
+* <span itemprop="ingredients">1½ cups (375 mL) lemon juice</span>
  
 __For the lemon glaze__
 
-* 3 to 4 Tbsp (45 to 60 mL) lemon juice
-* 2 cups (240 g) icing sugar
+* <span itemprop="ingredients">3 to 4 Tbsp (45 to 60 mL) lemon juice</span>
+* <span itemprop="ingredients">2 cups (240 g) icing sugar</span>
  
 ### Directions
 
