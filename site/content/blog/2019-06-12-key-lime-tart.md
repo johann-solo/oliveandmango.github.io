@@ -19,7 +19,7 @@ A silky smooth filling that is so simple to make and only 4 ingredients. The gin
 </br>
 
 ### A lime tart with a ginger snap cookie base
-I decided to use ginger snap cookies for the base because I love ginger and lime together but a graham cracker base would be great as well, maybe with a bit of dried coconut in the mix for a bit of a tropical twist. Just swap out the ginger snaps for graham crackers if you prefer a more traditional crust. When it comes to the filling I stuck to what the recipe called for. Although I’m pretty sure this tart would be great with any citrus you use. I can wait to try it with lemons or blood oranges the next time they are plentiful. 
+I decided to use ginger snap cookies for the base because I love ginger and lime together but a graham cracker base would be great as well, maybe with a bit of dried coconut in the mix for a bit of a tropical twist. Just swap out the ginger snaps for graham crackers if you prefer a more traditional crust. When it comes to the filling I stuck to what the recipe called for. Although I’m pretty sure this tart would be great with any citrus you use. I can't wait to try it with lemons or blood oranges the next time they are plentiful. 
 </br>
 </br>
 ![Key Lime Tart](/images/uploads/2019_06_12_key_lime_tart_3.jpg)

@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_04_11_garlic_chicken_orzo_risotto_1.jpg
 scaled_thumbnail: /images/uploads/2018_04_11_garlic_chicken_orzo_risotto_0.jpg
 categories: ["mains"]
-tags: ["chicken", "one-pot-meals"]
+tags: ["chicken", "one-pot-meals", "lemons", "citrus"]
 excerpt: Take a night off with a perfect "date night" meal
 ---
 
@@ -23,6 +23,7 @@ One of my favourite date night spots was (it still exists and I cannot wait to r
 </br>
 </br>
 
+### One Pan Chicken And Orzo Risotto - perfect for date night
 This is one of those kinds of date night meals that is decadent and delicious and is also pretty quick to whip up with minimal cleanup as it’s a one pan meal. I’m a lover of creamy dishes like risotto and saucy pasta dishes and this recipe combines the two, so I was loving every bite of this dish.
 </br>
 </br>
@@ -37,7 +38,7 @@ Let’s talk about some of the ingredients. A lighter version of this could easi
 </br>
 </br>
 
-Let’s talk lemons! WARNING for all my Trini follower who want to make this dish - definitely use the lemon zest in the dish and feel free to squeeze some fresh lemon juice after as an add in to taste, but do NOT pan fry the lemon slices and roast them along with the dish using our rough skinned lemon variation here in Trinidad.  I did this and I normally love bitter and tangy but this was a little much. It didn’t totally ruin the dish for us We still ate and enjoyed it but for those who don’t like that effect, it will spoil your entire dish. If I’m using rough skin lemons with this dish again I will not pan fry and roast. I will just use the zest and juice from it after for the lemony flavour. Speaking of flavours, you can also use your choice of fresh herbs and seasonings for the chicken. I used some pretty basic flavours but you can use what you like.
+Let’s talk lemons! WARNING for all my Trini followers who want to make this dish - definitely use the lemon zest in the dish and feel free to squeeze some fresh lemon juice after as an add in to taste, but do NOT pan fry the lemon slices and roast them along with the dish using our rough skinned lemon variation here in Trinidad.  I did this and I normally love bitter and tangy but this was a little much. It didn’t totally ruin the dish for us We still ate and enjoyed it but for those who don’t like that effect, it will spoil your entire dish. If I’m using rough skin lemons with this dish again I will not pan fry and roast. I will just use the zest and juice from it after for the lemony flavour. Speaking of flavours, you can also use your choice of fresh herbs and seasonings for the chicken. I used some pretty basic flavours but you can use what you like.
 </br>
 </br>
 ![Creamy One Pan Lemon Garlic Chicken And Orzo Risotto](/images/uploads/2018_04_11_garlic_chicken_orzo_risotto_6.jpg)
@@ -53,7 +54,7 @@ That is pretty much all I have to say about this dish. It’s absolutely delicio
 
 __For the chicken__
 
-* 1 lb of chicken thighs bone in and skin preferably 
+* 1 lb of chicken thighs bone in and skin on preferably 
 * 3 tsp of lemon pepper (salt and pepper will do just fine if you don’t have or don’t like lemon pepper) 
 * 2 tbsp of extra virgin olive oil 
 
