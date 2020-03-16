@@ -7,11 +7,11 @@ scaled_thumbnail: images/uploads/2019_06_14_pink_grapefruit_cupcakes_0.jpg
 categories: ["desserts"]
 tags: ["grapefruit", "cupcakes", "citrus"]
 excerpt: Simple citrus infused cupcakes with a luscious grapefruit infused buttercream that is so easy to work with and to make.
-keywords: ["grapefruit", "cupcakes"]
+keywords: ["grapefruit desserts", "citrus cupcakes"]
 description: Simple citrus infused cupcakes with a luscious grapefruit infused buttercream that is so easy to work with and to make.
 ---
 
-The last time I made these was In Trinidad two years ago at the end of grapefruit season.  I remember having tons of citrus while I was living there. When In season, there is a plethora of citrus - and just the best time of year next to mango season in my opinion. I made these to feed a bit of a crowd originally and they are such a hit - like little mini cake-lets- perfect for feeding many. 
+The last time I made these I was in Trinidad two years ago at the end of grapefruit season.  I remember having tons of citrus while I was living there. When in season, there is a plethora of citrus - and just the best time of year next to mango season in my opinion. I made these to feed a bit of a crowd originally and they are such a hit - like little mini cake-lets- perfect for feeding many. 
 </br>
 </br>
 ![Pink Grapefruit Cupcakes](/images/uploads/2019_06_14_pink_grapefruit_cupcakes_2.jpg)
@@ -25,14 +25,16 @@ Getting invited or having people over is always a good excuse to try an new reci
 </br>
 </br>
 
-I love the simplicity of the butter cream too. There’s just enough grapefruit infused in both the batter and the frosting without being too intense. They aren’t super tart or bitter if you are worried about that and you can use any variety of grapefruits you would like. In fact you could definitely use any citrus with this recipe. This time around I used pink grapefruit and decided to use a buttercream instead of a cream cheese frosting. I included both so that you have options. Cream cheese frosting is always a win but buttercream frosting is lighter and also way easier to pipe. So if you want to get fancy with your frosting swirls I recommend doing the buttercream frosting. The recipe for the frosting is from Rosie Daykin and the best buttercream recipe ever!! It’s simple and perfect every time. 
+### Grapefruit buttercream frosting
+I love the simplicity of the butter cream too. There’s just enough grapefruit infused in both the batter and the frosting without being too intense. They aren’t super tart or bitter if you are worried about that and you can use any variety of grapefruits you would like. In fact you could definitely use any citrus with this recipe. This time around I used pink grapefruit and decided to use a buttercream instead of a cream cheese frosting. I included both so that you have options. Cream cheese frosting is always a win but buttercream frosting is lighter and also way easier to pipe. So if you want to get fancy with your frosting swirls I recommend doing the buttercream frosting. The recipe for the frosting is from _Rosie Daykin_ and the best buttercream recipe ever!! It’s simple and perfect every time. 
 </br>
 </br>
 ![Pink Grapefruit Cupcakes](/images/uploads/2019_06_14_pink_grapefruit_cupcakes_4.jpg)
 </br>
 </br>
 
-I originally decorated the cupcakes with  candied grapefruit infused with rosemary. It’s something I really wanted to test and they turned out beautifully but I used fresh slices this time for ease and the pink grapefruit was too pretty fresh not to use that way.  I included the recipe below if you wanted to try it. You can use this same recipe for making any kind of candied citrus slices. It’s the simplest one I have seen out there and all I did differently from the original recipe is infuse the sugar water with the rosemary which actually turned out wonderfully. But you don’t have to infuse it with rosemary or anything. That is totally an optional step.
+### Candied citrus slices
+I originally decorated the cupcakes with candied grapefruit infused with rosemary. It’s something I really wanted to test and they turned out beautifully but I used fresh slices this time for ease and the pink grapefruit was too pretty fresh not to use that way. I included the recipe below if you wanted to try it. You can use this same recipe for making any kind of candied citrus slices. It’s the simplest one I have seen out there and all I did differently from the original recipe is infuse the sugar water with the rosemary which actually turned out wonderfully. But you don’t have to infuse it with rosemary or anything. That is totally an optional step.
 </br>
 </br>
 ![Pink Grapefruit Cupcakes](/images/uploads/2019_06_14_pink_grapefruit_cupcakes_5.jpg)
