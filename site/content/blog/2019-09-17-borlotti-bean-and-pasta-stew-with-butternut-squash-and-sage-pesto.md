@@ -5,19 +5,20 @@ author: Joanne
 thumbnail: /images/uploads/2019_09_17_borlotti_bean_and_pasta_stew_with_butternut_squash_and_sage_pesto_1.jpg
 scaled_thumbnail: /images/uploads/2019_09_17_borlotti_bean_and_pasta_stew_with_butternut_squash_and_sage_pesto_0.jpg
 categories: ["soups"]
-tags: ["beans", "squash", "Italian", "pesto", "pasta", "sponsored"]
+tags: ["beans", "squash", "Italian", "pesto", "pasta", "one pot meals", "sponsored"]
 excerpt: A comforting Italian soup that warms the soul 
-keywords: ["beans", "squash", "pesto", "pasta", "borlotti"]
-description: A comforting Italian soup that warms the soul
+keywords: ["beans stew", "Pasta e Fagioli", "borlotti beans"]
+description: Pasta e fagioli is a comforting Italian soup full of delicious Borlottit beans.
 ---
 
-This classic Italian pasta and bean soup gets a fall twist with butternut squash, borlotti beans, and a bright sage pesto, it’s perfect for those chilly autumn evenings. Fall is fast approaching - literally days away by the calendar but the temperature has been feeling fall-like for the last week or two.  I am not looking forward to the drop in temps but I do love fall flavours and warm and cozy drinks and foods especially soups and stews. 
+This classic Italian pasta and bean soup gets a Fall twist with butternut squash, borlotti beans, and a bright sage pesto, it’s perfect for those chilly autumn evenings. Fall is fast approaching - literally days away by the calendar but the temperature has been feeling fall-like for the last week or two.  I am not looking forward to the drop in temps but I do love fall flavours and warm and cozy drinks and foods especially soups and stews. 
 </br>
 </br>
 ![Borlotti Bean and Pasta Stew With Butternut Squash and Sage Pesto](/images/uploads/2019_09_17_borlotti_bean_and_pasta_stew_with_butternut_squash_and_sage_pesto_2.jpg)
 </br>
 </br>
 
+### A one pot wonder made from delicious Borlotti beans
 This is one of these meals that warms the soul and fills the belly with all the nourishing veggies and pasta - it feels like comfort food but of the good kind. The kind you don’t have to detox after. Another great thing about it is that it all cooks in one pot. You don’t have to cook the pasta separately because you want the soup to thicken slightly and the pasta really helps that happen naturally as it cooks. 
 </br>
 </br>

@@ -7,11 +7,11 @@ scaled_thumbnail: /images/uploads/2018_11_08_creamy_tuscan_tortellini_soup_0.jpg
 categories: ["soups"]
 tags: ["pasta", "Italian"]
 excerpt: This luscious brothy soup full of hearty ingredients is sure to fill your belly and warm your soul
-keywords: ["pasta", "Italian"]
+keywords: ["soup pasta", "Italian soups", "Tuscan soups", "under 30 min"]
 description: This luscious creamy Tuscan tortellini soup is full of hearty ingredients and is sure to fill your belly and warm your soul. This tortellini soup can be cooked in under 30 minutes and prepared in several different ways.
 ---
 
-This luscious brothy soup is full of hearty ingredients and is sure to fill your belly and warm your soul. I absolutely love a soup like this that’s full of flavour but doesn’t require hours of simmering. It’s easily done in under 30 minutes – that is the beauty of tortellini. This is such a great midweek option as it cooks up so quickly and can be prepared in so many ways and with so many sauces. Tortellini also comes in a gluten free form which is great for those who have sensitivities. They are a total life saver on busy days when you just don’t have the time to invent a meal. We always have a pack in the freezer just for days like that.
+This luscious, brothy tortellini soup is full of hearty ingredients and is sure to fill your belly and warm your soul. I absolutely love a soup like this that’s full of flavour but doesn’t require hours of simmering. It’s easily done in under 30 minutes – that is the beauty of tortellini. This is such a great midweek option as it cooks up so quickly and can be prepared in so many ways and with so many sauces. Tortellini also comes in a gluten free form which is great for those who have sensitivities. They are a total life saver on busy days when you just don’t have the time to invent a meal. We always have a pack in the freezer just for days like that.
 </br>
 </br>
 ![Creamy Tuscan Tortellini Soup](/images/uploads/2018_11_08_creamy_tuscan_tortellini_soup_2.jpg)
@@ -31,6 +31,7 @@ This is one of those meals that saves the day. It doesn’t requires extraordina
 </br>
 </br>
 
+### What makes tortellini soup so good?
 The broth gets its flavour from the sausage and of course the other fresh and dried aromatics. The beans and tortellini give the soup body and make it reminiscent of a minestrone. The added greens give it extra colour and that extra boost in greens that we all need. We loved it served with an extra drizzle of olive oil plus a sprinkling of extra Parmesan cheese and fresh basil.
 </br>
 </br>
@@ -41,7 +42,7 @@ The broth gets its flavour from the sausage and of course the other fresh and dr
 </br>
 </br>
 
-It’s a great soup that my family requested be on rotation which is fine by me. Love it when they request simple and quick meals! If you are a fan of warm bowls of comfort like we are then this soup is for you! Enjoy!
+Tortellini is a great soup that my family requested be on rotation, which is fine by me. I love it when they request simple and quick meals! If you are a fan of warm bowls of comfort like we are then this soup is for you! Enjoy!
 </br>
 </br>
 ![Creamy Tuscan Tortellini Soup](/images/uploads/2018_11_08_creamy_tuscan_tortellini_soup_8.jpg)

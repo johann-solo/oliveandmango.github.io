@@ -5,10 +5,10 @@ author: Joanne
 thumbnail: /images/uploads/2019_02_19_quick_and_delicious_pasta_and_chickpeas_1.jpg
 scaled_thumbnail: /images/uploads/2019_02_19_quick_and_delicious_pasta_and_chickpeas_0.jpg
 categories: ["mains"]
-tags: ["pasta", "chickpeas", "vegan", "sponsored"]
+tags: ["pasta", "chickpeas", "vegan", "beans", "one pot meals", "sponsored"]
 excerpt: A pasta with a fantastic texture and loaded with protein
-keywords: ["pasta", "chickpeas", "vegan", "vegetarian", "Pasta e Ceci", "Italian food", "Roman cuisine"]
-description: An iconic Roman pasta with a fantastic texture and loaded with protein
+keywords: ["pasta chickpeas", "vegan pasta", "vegetarian pasta", "Pasta e Ceci", "Italian food", "Roman cuisine"]
+description: An iconic Roman pasta that includes chickpeas. Pasta e ceci has a fantastic texture and is loaded with protein
 ---
 
 When it comes to comfort food, nothing is more comforting than pasta. This one in particular is a delicious one that we love to make and is loaded with protein and literally warms the soul on these dark and frigid winter evenings we have been having these days.
@@ -25,6 +25,7 @@ This dish is found throughout Italy but believed to have originated in Rome. Eac
 </br>
 </br>
 
+### What is pasta e ceci?
 Pasta e Ceci is a one pan pasta meaning the pasta and the whole meal cooks all together. The texture of the pasta and thickness of the sauce or broth is really a personal preference. It’s meant to be more of a ‘stoup’ or somewhere between a stew and a soup. Feel free to add more liquid as it cooks down if you like it soupier or let it simmer longer if you would like a bit of a thicker sauce. The longer the dish sits, the thicker the sauce gets so if you are reheating do add a bit of broth to it or a splash of water to loosen up the sauce.
 </br>
 </br>
@@ -32,7 +33,7 @@ Pasta e Ceci is a one pan pasta meaning the pasta and the whole meal cooks all t
 </br>
 </br>
 
-I was introduced to this dish by my friends mom. I was quite young and was over having a play date and my friends mom had prepared this for us. I inhaled it I remember, and had seconds. I have always been a good eater. There was something familiar about it, it reminded me of manestra or _krytharaki_, a Greek dish made with orzo and prepared in a similar way, minus the chick peas. The pasta is cooked in the sauce the same way. It’s a dish I love and its the dish I thought of as I ate the delicious bowl of pasta and chickpeas that very first time.
+I was introduced to pasta e ceci by my friend's mother. I was quite young and was over having a play date and she had prepared this for us. I inhaled it I remember, and had seconds. I have always been a good eater. There was something familiar about it, it reminded me of manestra or _krytharaki_, a Greek dish made with orzo and prepared in a similar way, minus the chickpeas. The pasta is cooked in the sauce the same way. It’s a dish I love and its the dish I thought of as I ate the delicious bowl of pasta and chickpeas that very first time.
 </br>
 </br>
 ![Quick and Delicious Pasta and Chickpeas (Pasta e Ceci)](/images/uploads/2019_02_19_quick_and_delicious_pasta_and_chickpeas_5.jpg)
@@ -78,7 +79,7 @@ This post is in partnership with _GoGo Quinoa_. All thoughts and views are my ow
 * <span itemprop="ingredients"> 1 small yellow onion, finely diced</span>
 * <span itemprop="ingredients"> 1 cup San Marzano whole tomatoes (about 4-5 tomatoes - approx half a 796ml can of whole canned tomatoes), crushed using your hands</span>
 * <span itemprop="ingredients"> Salt and black pepper, to taste</span>
-* <span itemprop="ingredients"> 227 gram pack of <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/cauliflower-fusilli">GoGo Quinoa Organic Cauliflower Fusilli</span></span>
+* <span itemprop="ingredients"> 227 gram pack of <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/cauliflower-fusilli">GoGo Quinoa Organic Cauliflower Fusilli</a></span></span>
 * <span itemprop="ingredients"> 2 &frac12; - 3 cups water or vegetable broth plus more to thin out sauce if needed </span>
 * <span itemprop="ingredients"> Chopped parsley and chili rosemary oil, for garnish</span>
 
