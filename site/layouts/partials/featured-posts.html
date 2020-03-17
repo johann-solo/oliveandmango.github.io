@@ -1,5 +1,5 @@
-<h2>For apple season</h2>
-   {{ range first 4 .Site.Taxonomies.tags.apples }}
+<h2>Recipes with canned beans</h2>
+   {{ range first 4 .Site.Taxonomies.tags.beans }}
   <section>
     <a href="{{ .Permalink }}"><img src="{{ .Params.scaled_thumbnail }}" alt="{{.Params.Title}}"></a>
     <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>

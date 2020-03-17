@@ -5,9 +5,9 @@ author: Joanne
 thumbnail: /images/uploads/2019_02_21_classic_black_bean_soup_1.jpg
 scaled_thumbnail: /images/uploads/2019_02_21_classic_black_bean_soup_0.jpg
 categories: ["soups"]
-tags: ["beans", "sponsored"]
+tags: ["beans", "one pot meals", "sponsored"]
 excerpt: A smokey and rich bean soup with just right amount of heat
-keywords: ["beans", "bean soup", "black bean soup"]
+keywords: ["turtle beans", "bean soup", "black bean soup"]
 description: A smokey and rich bean soup with just right amount of heat. THis bean soup is similar to Mexican black bean soup.
 ---
 
@@ -32,7 +32,7 @@ Let talk ingredients or more specifically the beans. I know you may be tempted t
 </br>
 </br>
 
-### How to cook beans 
+### How to cook turlte beans 
 The instructions on the back of the package are basically what I do when it comes to all dried beans I cook. The instructions call for washing and soaking your beans. It's a debatable matter as I heard some of the cool kids aren’t soaking anymore but there is good reason to soak your beans. I soak mine to help the beans cook faster, plus soaking them is suppose to breakdown some of the complex sugars that can make beans hard to digest for many. It’s not a difficult thing to do and makes a difference. All it takes is some planning as it is best to soak them the night before you want to cook them.
 </br>
 </br>
@@ -40,7 +40,8 @@ The instructions on the back of the package are basically what I do when it come
 </br>
 </br>
 
-One of the favourite ways to cook bean soup is to use a pressure cooker or any of the multi-cookers out there with the pressure cooker feature in them.  What usually takes two hours of simmering takes 20 minutes.  A pressure cooker is a life saver and brings this soup to the table in no time. I have the instructions below for stove top cooking with no pressure cooker if you don’t have on or if you just want to cook your bean soup low and slow.
+### Make black bean soup with an Instant Pot or pressue cooker
+One of the favourite ways to cook bean soup is to use a pressure cooker or any of the multi-cookers out there with the pressure cooker feature in them. What usually takes two hours of simmering takes 20 minutes.  A pressure cooker is a life saver and brings this soup to the table in no time. I have the instructions below for stove top cooking with no pressure cooker if you don’t have one or if you just want to cook your bean soup low and slow.
 </br>
 </br>
 ![Classic Black Bean Soup](/images/uploads/2019_02_21_classic_black_bean_soup_6.jpg)

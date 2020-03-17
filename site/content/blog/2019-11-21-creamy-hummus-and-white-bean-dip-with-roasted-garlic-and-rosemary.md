@@ -5,10 +5,10 @@ author: Joanne
 thumbnail: /images/uploads/2019_11_21_creamy_hummus_and_white_bean_dip_with_roasted_garlic_and_rosemary_1.jpg
 scaled_thumbnail: /images/uploads/2019_11_21_creamy_hummus_and_white_bean_dip_with_roasted_garlic_and_rosemary_0.jpg
 categories: ["snacks"]
-tags: ["hummus", "dips", "beans", "garlic", "rosemary"]
-excerpt: The secret to a creamy hummus and the most delicious white bean dip
-keywords: ["hummus", "dips", "beans", "garlic", "rosemary", "white bean dip"]
-description: The secret to a creamy hummus and the most delicious white bean dip
+tags: ["hummus", "dips", "garlic", "rosemary", "vegan", "vegetarian"]
+excerpt: The secret to a creamy hummus and the most delicious white bean dip. 
+keywords: ["hummus appetizers", "vegan dips", "white bean dip", "vegan appetizers", "vegetarian appetizers"]
+description: The secret to a creamy hummus and the most delicious white bean dip. These vegan appetizers are easy to make for company
 ---
 
 These are two of my all time favourite recipes for your basic hummus and white bean dip. Both of these dips are classic dips/spreads that always make it on my charcuterie or veggie platters. Actually I make the hummus quite often as I love it for snacking on with veggies and crisps or slathering it on a sandwich too. It turns out so creamy every time and is so flavourful. 
@@ -18,6 +18,7 @@ These are two of my all time favourite recipes for your basic hummus and white b
 </br>
 </br>
 
+### Smooth and creamy hummus
 Let's talk specifically about the hummus first. I’m a firm believer that to make a fabulously creamy hummus - like next level creaminess, you must make it from dry chickpeas as opposed to canned. Do not get me wrong I still make it with canned when I want to make it in a pinch but for a truly creamy one I plan ahead and soak my beans to make from dry. It makes a lot of difference in texture and flavour. To make it even creamier still and if you have the patience for it, once you cook your chickpeas, separate and remove the chickpea skins. This is a lot of work but for an ultra silky smooth hummus it’s worth it – if you have the time and patience. I have only done this once for experimental purposes. Never again - this is creamy enough for me. I neither have the time or patience to remove the skins. I love this _Bon Appetit_ recipe for the fact that the flavours are distinct and fabulous but mellow. The garlic isn’t pungent. It’s there giving flavour but not overpowering thanks to the fact that it’s whizzed in the processor first with the lemon juice and then strained. It’s just the yummiest hummus - you will love it. 
 </br>
 </br>
@@ -25,7 +26,8 @@ Let's talk specifically about the hummus first. I’m a firm believer that to ma
 </br>
 </br>
 
-Ok so now let’s chat about this white bean dip. I know I know - I didn’t use dried beans for this one but you can for a creamy dreamy dip. When it comes to the white bean dip I don’t mind a bit of body to it so I love the recipe from _Food52_. It turns out perfect every time loaded with flavour from the roasted garlic and the rosemary. The roasted garlic is a must - it gives it that wonderful sweet garlic nutty flavour instead of a hard pungent hit of it if you used raw. You just can’t beat the flavours of roasted garlic. The rosemary also gets blended into the mix so you really get the flavour of it. It’s simple it’s delicious and just so good with the veggies but also great with pita chips too. 
+### Perfect white bean dip recipe
+Ok so now let’s chat about this white bean dip. I know, I know - I didn’t use dried beans for this one, but you can if you want a creamy dreamy dip. When it comes to the white bean dip I don’t mind a bit of body to it so I love the recipe from _Food52_. It turns out perfect every time loaded with flavour from the roasted garlic and the rosemary. The roasted garlic is a must - it gives it that wonderful sweet garlic nutty flavour instead of a hard pungent hit of it if you used raw. You just can’t beat the flavours of roasted garlic. The rosemary also gets blended into the mix so you really get the flavour of it. It’s simple it’s delicious and just so good with the veggies but also great with pita chips too. 
 </br>
 </br>
 ![Creamy Hummus and White Bean Dip With Roasted Garlic and Rosemary](/images/uploads/2019_11_21_creamy_hummus_and_white_bean_dip_with_roasted_garlic_and_rosemary_4.jpg)

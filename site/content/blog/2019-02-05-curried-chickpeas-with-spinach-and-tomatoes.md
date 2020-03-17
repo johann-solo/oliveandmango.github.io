@@ -5,26 +5,27 @@ author: Joanne
 thumbnail: /images/uploads/2019_02_05_curried_chickpeas_with_spinach_and_tomatoes_1.jpg
 scaled_thumbnail: /images/uploads/2019_02_05_curried_chickpeas_with_spinach_and_tomatoes_0.jpg
 categories: ["mains"]
-tags: ["curry", "chickpeas", "spinach", "tomatoes", "vegan"]
-excerpt: This vegan dish is delicious and filling enough to bring vegetarians and carnivores together
-keywords: ["curry", "chickpeas", "spinach", "tomatoes", "chickpea and spinach", "vegan", "vegan curry", "easy curry", "chickpea curry recipe"]
-description: Totally packed with flavor, this vegan dish is delicious and filling enough to bring vegetarians and carnivores together over one meal
+tags: ["curry", "chickpeas", "spinach", "tomatoes", "beans", "one pot meals", "vegan"]
+excerpt: Totally packed with flavor, this curried chickpea recipe is a great vegan dish that is delicious and filling
+keywords: ["chickpea curry recipe", "spinach curry", "curry tomatoes", "chickpea and spinach", "vegan dishes", "vegan curry", "easy curry"]
+description: Totally packed with flavor, this curried chickpea recipe is a great vegan dish that is delicious and filling.
 ---
 
 When the temperature drops and the air has that chilly bite, warm up with a hot bowl of these hearty curried chickpeas with spinach. Totally packed with flavor, this vegan dish is delicious and filling enough to bring vegetarians and carnivores together over one meal.
 </br>
 </br>
-![Curried Chickpeas With Spinach and Tomatoes](/images/uploads/2019_02_05_curried_chickpeas_with_spinach_and_tomatoes_2.jpg)
+![Curried Chickpeas Recipe](/images/uploads/2019_02_05_curried_chickpeas_with_spinach_and_tomatoes_2.jpg)
 </br>
 </br>
 
-This quick curry dish is warming, hearty, delicious and just the simplest dish to make. We make a version of this once a week especially if I’m home from the office late - it’s super quick to make and ultra satisfying.
+This quick curried chickpea recipe is warming, hearty, delicious and just the simplest dish to make. We make a version of this once a week especially if I’m home from the office late - it’s super quick to make and ultra satisfying.
 </br>
 </br>
 ![Curried Chickpeas With Spinach and Tomatoes](/images/uploads/2019_02_05_curried_chickpeas_with_spinach_and_tomatoes_3.jpg)
 </br>
 </br>
 
+### Easy curried chickpeas recipe for students
 I finally got this recipe on paper and on the blog in collaboration with the _Mc Master Silhouette_ (Hamilton’s university newspaper). I was asked to share a ‘student-friendly’ recipe with simple ingredients that are easily accessed by them. This is definitely one of those recipes. It was featured on the front page of the newspaper and the full recipe was included in the inside article along with some very kind words by the editor about the blog and our work. I think the students will love it and I know you will too! Here’s the [link to the article](https://www.thesil.ca/in-the-kitchen-with-joanne-rappos) online if you wanted to check it out.
 </br>
 </br>
