@@ -18,12 +18,14 @@ This Greek-style skillet roast chicken with crispy potatoes is pure & simple com
 </br>
 </br>
 
-I absolutely love a meal like this for family dinner, meal prep or even a midweek meal. I love that both the chicken and the potatoes are cooked together. The drippings from the chicken melt into the potatoes and caramelize in all the good flavor from that lemon herb marinade. Don’t let the word marinade fool you it’s more of a dressing than a marinade - the chicken needs no marinating time just brush this on your chicken before roasting.  No basting required either so it’s really a set it and forget kind of meal. 
+## Easy to make Greek roasted chicken and potatoes
+I absolutely love a meal like this for family dinner, meal prep or even a midweek meal. I love that both the chicken and the potatoes are cooked together. The drippings from the chicken melt into the potatoes and caramelize in all the good flavor from that lemon herb marinade. Don’t let the word marinade fool you it’s more of a dressing than a marinade - the chicken needs no marinating time just brush this on your chicken before roasting. No basting required either so it’s really a set it and forget kind of meal. 
 </br>
 </br>
 {{< youtube f7GcZaK9t_E >}}
 </br>
 
+## How to make moist and tender roasted chicken
 The one important thing that you must do is dry brine the chicken with salt - basically salt it  and then let it rest. Salting the inside and the outside of the uncooked chicken flavors and tenderizes it, and also contributes to a deliciously crispy skin. Just pat the skin dry and salt then allow the salted chicken to rest uncovered in the fridge for at least an hour or 24 is even better. I usually do overnight if I remember cause it’s so easy to do. If I forget I just salt it out of the fridge while I’m prepping the marinade and slicing the potatoes. This lets the skin really dry out, so that it cooks up extra crispy in the oven.
 </br>
 </br>
@@ -39,7 +41,7 @@ Once it’s roasted either transfer the chicken and the potatoes onto a serving 
 </br>
 </br>
 
-## Recipe
+### Recipe
 Serves 4  
 Prep time: <meta itemprop="prepTime" content="PT10M">10 minutes (dry brining not included)  
 Cook time: <meta itemprop="cookTime" content="PT50M">50-60 minutes  

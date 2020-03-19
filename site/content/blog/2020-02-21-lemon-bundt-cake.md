@@ -18,6 +18,7 @@ We all need a lemon bundt cake in our lives - especially a simple uncomplicated 
 </br>
 </br>
 
+## A gluten free bundt cake made with paleo flour
 I decided that this was the recipe I would try Bob’s Red Mill Paleo Baking flour on for <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> #grainfreebaking campaign with <span class="highlight"><a rel="nofollow" href="https://www.wholefoodsmarket.com/">Whole Foods</a></span>. 
 The reason why I chose this cake was not only because it’s a beloved one and I have been wanting to share it on the blog for a while now, but also because I was super confident that the blend of flours in the Paleo Baking flour would work really well with it. I had a strong suspicion that this cake would taste a lot like my revani [Greek semolina cake](https://www.oliveandmango.com/greek-semolina-cake-revani/). I was totally right - it has the same moistness as it and I love how well this cake really soaks in the glaze. 
 </br>
@@ -26,6 +27,7 @@ The reason why I chose this cake was not only because it’s a beloved one and I
 </br>
 </br>
 
+## A delicious grain-free dessert
 <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/paleo-baking-flour.html">Bob’s Red Mill Paleo Baking Flour</a></span> takes the guesswork out of grain-free baking. It’s a simple blend of almond, coconut, and tapioca flour. This simple flour blend makes it easy to create delicious baked goods like cakes, cookies, muffins, paleo pancakes, flatbreads, crackers and so much more. I wasn’t too sure if I would like it as an alternative/substitute to all purpose flour but I did. It makes for a bit of a denser cake as expected when you are baking with almond flour. So far I love using it just as much as I love using their Gluten Free 1-1 flour as a flour replacement and I foresee some waffles in the near future using this blend. Bob’s has you covered when it comes to all baking needs - Grain/Gluten Free, vegan or paleo - grab them on line or in store at wholefoods. 
 </br>
 </br>

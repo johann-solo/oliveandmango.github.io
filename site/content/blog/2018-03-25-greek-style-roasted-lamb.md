@@ -36,6 +36,7 @@ That whole process still goes against everything we were trained to do. We still
 </br>
 </br>
 
+## Roast lamb the Greek way
 As you see the lamb is very nice and browned, some may even say over done. It does have nice and charred edges. Greeks tend to like their lamb well done and it may look overly done but that is the way we like it – well done with a beautiful crispness to it but the interior is tender and oh so good.
 </br>
 </br>
@@ -56,16 +57,18 @@ This was my second time roasting a lamb. Big pieces of meat have always scared m
 </br>
 </br>
 
-The first time I had a whole roasted one was in Greece. I was like 12 probably and I remember it clearly as if it was yesterday. We arrived at my grandparents house late at night and early the next day I ventured out to use the bathroom (outhouse), to get the scare of a lifetime.  I opened the door and before I could rub the sleep out of my eyes I was confronted with a hanging goat getting skinned by my uncle. Those few months were an eye opener in my life and were some of best filled memories of my childhood. That goat was part of my grandfathers herd. I got to go far into the mountains with him and my cousins, tend goats, milking them, watching babies get delivered, feeding the babies. It was amazing and then finally (I hate the way his sounds) eating that particular one from the mornings scare was a very delicious experience. I can’t help but feel like Hannibal Lector saying that.  I’m over it already though.
+The first time I had a whole roasted one was in Greece. I was like 12 probably and I remember it clearly as if it was yesterday. We arrived at my grandparents house late at night and early the next day I ventured out to use the bathroom (outhouse), to get the scare of a lifetime.  I opened the door and before I could rub the sleep out of my eyes I was confronted with a hanging goat getting skinned by my uncle. Those few months were an eye opener in my life and were some of best filled memories of my childhood. That goat was part of my grandfathers herd. I got to go far into the mountains with him and my cousins, tend goats, milking them, watching babies get delivered, feeding the babies. It was amazing and then finally (I hate the way his sounds) eating that particular one from the mornings scare was a very delicious experience. I can’t help but feel like Hannibal Lector saying that. I’m over it already though.
 </br>
 </br>
 ![Greek Style Roasted Lamb](/images/uploads/2018_03_25_greek_style_roasted_lamb_11.jpg)
 </br>
 </br>
 
+## What makes Greek style roasted lamb so good
 I think that ends my little personal experience and my history of Greek’ness or lack of Greek’ness. This lamb is delicious, tender, full of flavour thanks to all the fresh herbs and garlic, not overly gamey tasting thanks to the wine and vinegar marinade and easy because if I can roast a beauty like this, you most definitely can.  When I make my lamb like this I usually don’t make a gravy. I squeeze lemon juice over the roast once it comes out of the oven and that is good enough for me. I also serve it with extra lemon wedges for a squeeze of it once it’s sliced as well. It is perfect with my [lemon potatoes](https://www.oliveandmango.com/greek-roasted-lemon-potatoes-lemonates-patates/) and a [horiatiki salad](https://www.oliveandmango.com/horiatiki-salad-greek-village-salad/). If you are going Greek with your lamb you might as well go Greek all the way!  We enjoyed the leftover lamb by pan frying it in harissa paste making sure the edges got crispy and had lots of flavour and ate it in pitas like a North African gyro! I do hope you give it a try and would love to know how you love to roast your lamb.  
 </br>
 
+### Recipe
 ### Ingredients
 5-6 lb lamb leg  (I used spring lamb leg with bone in)
 

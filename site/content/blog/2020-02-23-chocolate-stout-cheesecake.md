@@ -25,7 +25,7 @@ Lets talk about the cookie base. Well it’s that simple I used Oreo cookies and
 </br>
 </br>
 
-## The filling
+## That amazing chocolate and Guinness cheesecake filling
 My hubby’s fav part. This is where it gets fun because this is where we added the stout beer! Why you ask use a perfectly good drinking beer in cheesecake? Why use a perfectly good wine in sauces? The answer is they are both flavour boosters. They enhance the flavours in a recipe and add a richness to them. Like coffee, extracts and salt enhance the flavour of chocolate and sweets overall so does stout beer. You won’t taste the beer taste at all, it’s merely a richness that enhances my love of chocolate and deepens the flavours overall. Feel free to enjoy the rest of the can while you bake off the cheesecake. 
 </br>
 </br>
@@ -45,6 +45,7 @@ There you have it - you are on your way to making a decadent cheesecake and arme
 </br>
 </br>
 
+### Recipe
 ### Ingredients 
 Makes one 9-inch cheesecake 
 </br>

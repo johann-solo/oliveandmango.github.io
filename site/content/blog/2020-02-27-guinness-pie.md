@@ -24,6 +24,7 @@ There’s nothing more comforting than a hot stew when the temperatures are free
 </br>
 </br>
 
+## Easy to Guinness pie using the Instant Pot
 I was looking for a good Guinness pie recipe and came across <span class="highlight"><a rel="nofollow" href="https://www.marthastewart.com/1511473/guinness-pie">Martha Stewart’s</a></span>. I loved it so this is my rendition of her recipe made in the <span class="highlight"><a rel="nofollow" href="https://instantpot.com">Instant Pot</a></span>. It makes making a pie like this super easy and cuts down so much on the cooking time. Instead of it braising for hours it cooks in the Instant Pot for 20 minutes and then bakes with the puff over it for another half hour. I have been getting more and more use out of my Instant Pot the last few months as we have been shooting content for companies that showcase recipes using it. So I thought I would incorporate a few recipe on the blog with options to make the dish using the Instant Pot. I have included braising instructions below if you wanted to make this on a slow Sunday on the stove top enjoying the smell of it braising away for a couple of hours - either way is delicious. 
 </br>
 </br>
@@ -37,6 +38,7 @@ I was looking for a good Guinness pie recipe and came across <span class="highli
 </br>
 </br>
 
+## What makes Guinness pies so good
 I love adding beer to roasts and stews. I’m such a fan of the extra add ins that give meats like this one and their sauces so much flavour. I have a brisket chili recipe my brother inspired on my list to test soon that not only has Guinness in it but also coffee. Doesn’t that sound incredible!!? Guinness Beer gives this sauce an incredible rich, deep flavour, and the beef is fall-apart tender and is so delicious enveloped in cheese - yes cheese (optional but recommended) and buttery puff pastry. Let’s go back to the cheese shall we. The smoked cheddar adds even more depth of flavour and richness to this pie plus as an added bonus it also acts as a slight barrier between the filling and the pastry allowing the puff to crisp up well and stay crispy longer. Expect me sharing a few more cozy meals like this on the blog and perhaps a few more using the instant pot! Enjoy and stay warm!
 </br>
 </br>
@@ -44,7 +46,7 @@ I love adding beer to roasts and stews. I’m such a fan of the extra add ins th
 </br>
 </br>
 
-## Recipe
+### Recipe
 </br>
 
 ### Ingredients 
