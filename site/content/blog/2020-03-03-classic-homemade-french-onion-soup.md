@@ -18,7 +18,7 @@ This is one of the best French onion soup recipes I have made - the homemade bee
 </br>
 </br>
 
-### The key to a great homemade French onion soup
+## The key to a great homemade French onion soup
 To me there is truly nothing more delicious than a good French onion soup. There are three components that make up a delicious one. The stock must have a rich flavour whether you make it from scratch or buy it. So if you are buying do buy a good quality one. The onions have to be deeply caramelized and cooked down so that there is absolutely no crunch or bite in them - they add so much flavour to the soup when they are golden and caramelized until intensely sweet. There are not a ton of ingredients in this soup - basics: onions, butter, beef stock, and some flavour boosters: garlic, wine, and thyme. It just needs a bit of time -  so this is definitely a great soup to make on a slow Sunday while you are catching up on things and don’t mind occasionally tending to it. 
 </br>
 </br>
@@ -47,7 +47,7 @@ The recipes are well tested and the directions are very clear. I love the tips s
 </br>
 </br>
 
-## Recipe
+### Recipe
 ### Ingredients 
 
 __For The Beef Stock__

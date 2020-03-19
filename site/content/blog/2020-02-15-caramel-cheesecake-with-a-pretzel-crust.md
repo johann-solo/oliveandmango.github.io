@@ -39,7 +39,7 @@ Each bite has creamy, crumbly and some sticky sweet in there from the caramel sa
 </br>
 </br>
 
-### Cheesecake making tips
+## No fail cheesecake making tips
 A water bath is tedious but always works in my opinion - The steam from the hot water will lift the cheesecake up slowly and evenly, reducing the risk of cracks on the surface. Just make sure to wrap your pan tightly with a few pieces of foil to prevent any moisture from getting into the crust and cake. Do allow the cheesecake to cool to room temperature before wrapping tightly and refrigerating. Do give your cheesecake enough time to set in the fridge. I usually plan ahead and make it the night before I am sharing it with friends and family.
 </br>
 </br>
@@ -47,7 +47,7 @@ A water bath is tedious but always works in my opinion - The steam from the hot 
 </br>
 </br>
 
-## Recipe
+### Recipe
 </br>
 
 ### Ingredients 
