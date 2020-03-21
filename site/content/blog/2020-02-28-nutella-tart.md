@@ -43,6 +43,9 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 </br>
 </br>
 <div class="mv-video-target mv-video-id-gbezthe4krsvzwh1jtng" data-video-id="gbezthe4krsvzwh1jtng" data-volume="70" data-ratio="16:9"></div>
+If you can not play the video <span class="highlight"><a href="https://youtu.be/WKqGXQsWLng">Checkout our Youtube channel</a></span>.
+</br>
+</br>
 
 ### Recipe
 Prep time: <meta itemprop="prepTime" content="PT10M">10 minutes  
@@ -85,10 +88,6 @@ __For the topping__
 </span>
 
 Adapted from __Epicurious__
-</br>
-
-### Video Extras
-See this [No Bake Nutella Tart recipe](https://youtu.be/WKqGXQsWLng) and others on our Youtube Channel.
 </br>
 </br>
 ![Nutella Tart](/images/uploads/2020_02_28_nutella_tart_5.jpg)
