@@ -18,6 +18,7 @@ The last time I made these I was in Trinidad two years ago at the end of grapefr
 </br>
 </br>
 
+## Easy to make citrus cupcakes
 Getting invited or having people over is always a good excuse to try an new recipe and this is how I ended up making these. I never shy away from a new recipe even if you are trying it for the first time for company - worse case scenario it flops and you get take out or you pick up some brownies for dessert instead. These turned out to be really delicious though especially if you’re a fan of all things citrus! They are also super simple to make. The batter gets mixed with a spatula and the whole recipe is made from very basic ingredients. The yogurt and coconut oil/ vegetable oil makes them moist with a slight crumble and slightly more dense than your regular cupcake - like I said they resemble a little cake-let. 
 </br>
 </br>
@@ -25,7 +26,7 @@ Getting invited or having people over is always a good excuse to try an new reci
 </br>
 </br>
 
-### Grapefruit buttercream frosting
+## Grapefruit buttercream frosting
 I love the simplicity of the butter cream too. There’s just enough grapefruit infused in both the batter and the frosting without being too intense. They aren’t super tart or bitter if you are worried about that and you can use any variety of grapefruits you would like. In fact you could definitely use any citrus with this recipe. This time around I used pink grapefruit and decided to use a buttercream instead of a cream cheese frosting. I included both so that you have options. Cream cheese frosting is always a win but buttercream frosting is lighter and also way easier to pipe. So if you want to get fancy with your frosting swirls I recommend doing the buttercream frosting. The recipe for the frosting is from _Rosie Daykin_ and the best buttercream recipe ever!! It’s simple and perfect every time. 
 </br>
 </br>
@@ -33,7 +34,7 @@ I love the simplicity of the butter cream too. There’s just enough grapefruit 
 </br>
 </br>
 
-### Candied citrus slices
+## Make candied citrus slices
 I originally decorated the cupcakes with candied grapefruit infused with rosemary. It’s something I really wanted to test and they turned out beautifully but I used fresh slices this time for ease and the pink grapefruit was too pretty fresh not to use that way. I included the recipe below if you wanted to try it. You can use this same recipe for making any kind of candied citrus slices. It’s the simplest one I have seen out there and all I did differently from the original recipe is infuse the sugar water with the rosemary which actually turned out wonderfully. But you don’t have to infuse it with rosemary or anything. That is totally an optional step.
 </br>
 </br>
@@ -48,7 +49,7 @@ This is a pretty basic recipe overall and I think you will enjoy adding it to yo
 </br>
 </br>
 
-## Recipe
+### Recipe
 ### Ingredients (makes 12-14 cupcakes)
 
 __For the cake__

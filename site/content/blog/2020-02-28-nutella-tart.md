@@ -38,12 +38,11 @@ I’m so excited to share this recipe and video with you guys and I really do th
 </br>
 </br>
 
-{{< youtube WKqGXQsWLng >}}
-
-</br>
+<!-- {{< youtube WKqGXQsWLng >}} -->
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+<div class="mv-video-target mv-video-id-gbezthe4krsvzwh1jtng" data-video-id="gbezthe4krsvzwh1jtng" data-volume="70" data-ratio="16:9"></div>
 
 ### Recipe
 Prep time: <meta itemprop="prepTime" content="PT10M">10 minutes  
@@ -83,9 +82,13 @@ __For the topping__
 5. Prick the bottom of crust with fork (to release steam), place on baking sheet and bake in preheated oven for 20-25 or minutes until light golden brown. Allow to cool on a wire rack completely while you make the filling. 
 6. Make the filling: In a large bowl, using a hand mixer, or in the bowl of a stand mixer fitted with the whisk attachment, beat together the Nutella, mascarpone, vanilla extract and salt until light and fluffy. Spread the filling into the cooled pie shell, sprinkle nuts over, cover it with plastic wrap, and refrigerate until firm, at least 1 hour and up to overnight. 
 7. Once set, slice the pie, and serve. This pie can be refrigerated for up to 1 week, covered in plastic wrap - if it last that long! 
+</span>
 
 Adapted from __Epicurious__
+</br>
 
-</span>
+### Video Extras
+See this [No Bake Nutella Tart recipe](https://youtu.be/WKqGXQsWLng) and others on our Youtube Channel.
+</br>
 </br>
 ![Nutella Tart](/images/uploads/2020_02_28_nutella_tart_5.jpg)

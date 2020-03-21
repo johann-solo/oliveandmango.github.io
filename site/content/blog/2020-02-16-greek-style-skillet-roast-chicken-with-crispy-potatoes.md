@@ -21,8 +21,10 @@ This Greek-style skillet roast chicken with crispy potatoes is pure & simple com
 ## Easy to make Greek roasted chicken and potatoes
 I absolutely love a meal like this for family dinner, meal prep or even a midweek meal. I love that both the chicken and the potatoes are cooked together. The drippings from the chicken melt into the potatoes and caramelize in all the good flavor from that lemon herb marinade. Don’t let the word marinade fool you it’s more of a dressing than a marinade - the chicken needs no marinating time just brush this on your chicken before roasting. No basting required either so it’s really a set it and forget kind of meal. 
 </br>
+</br> 
+![Style Skillet Roast Chicken With Crispy Potatoes](/images/uploads/2020_02_16_greek_style_skillet_roast_chicken_with_crispy_potatoes_3.jpg)
+<!-- {{< youtube f7GcZaK9t_E >}} -->
 </br>
-{{< youtube f7GcZaK9t_E >}}
 </br>
 
 ## How to make moist and tender roasted chicken
@@ -37,8 +39,7 @@ It’s really that easy. What gives this whole meal a kick start is roasting it 
 Once it’s roasted either transfer the chicken and the potatoes onto a serving platter or do as we do serve right from the skillet so you can dip into all the fabulous tasting drippings. Enjoy! 
 </br>
 </br>
-![Style Skillet Roast Chicken With Crispy Potatoes](/images/uploads/2020_02_16_greek_style_skillet_roast_chicken_with_crispy_potatoes_3.jpg)
-</br>
+<div class="mv-video-target mv-video-id-lsjp8ltdsmhczbjb5kqs" data-video-id="lsjp8ltdsmhczbjb5kqs" data-volume="70" data-ratio="16:9"></div>
 </br>
 
 ### Recipe
@@ -76,5 +77,8 @@ __For the herby marinade__
 1. <span itemprop="recipeInstructions">Transfer chicken to a cutting board and carve. Serve with potatoes. </span>
 
 </span>
+### Video Extras
+See this [Greek Style Skillet Roast Chicken With Crispy Potatoes recipe](https://youtu.be/f7GcZaK9t_E) and others on our Youtube Channel.
+</br>
 </br>
 ![Style Skillet Roast Chicken With Crispy Potatoes](/images/uploads/2020_02_16_greek_style_skillet_roast_chicken_with_crispy_potatoes_4.jpg)
