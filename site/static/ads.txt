@@ -1,4 +1,4 @@
-# Mediavine Ads.txt v20191126
+# Mediavine Ads.txt v20200224
 mediavine.com, 6603, DIRECT, 1363c924529b3998
 aps.amazon.com, 38918095-8e45-4332-88bf-226b3514cb64, DIRECT
 districtm.io, 100962, RESELLER
@@ -22,7 +22,10 @@ sovrn.com, 217201, DIRECT, fafdf38b16bf6b2b
 lijit.com, 217201, DIRECT, fafdf38b16bf6b2b
 lijit.com, 217201-eb, DIRECT, fafdf38b16bf6b2b
 emxdgt.com, 46, DIRECT, 1e1d41537f7cad7f
+emxdgt.com, 1403, DIRECT, 1e1d41537f7cad7f
+emxdgt.com, 1460, DIRECT, 1e1d41537f7cad7f
 appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1832, RESELLER, f5ab79cb980f11d1
 gumgum.com, 9534, DIRECT, ffdef49475d318a9
 openx.com, 537149485, RESELLER, 6a698e2ec38604c6
 appnexus.com, 1001, RESELLER, f5ab79cb980f11d1
@@ -36,18 +39,15 @@ yieldmo.com, 2231250809323685813, DIRECT
 rubiconproject.com, 17404, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 17484, DIRECT, 0bfd66d529a55807
 media.net, 8CUC4FKD1, DIRECT
-beachfront.com, 10738, DIRECT, e2541279e8e2ca4d
 pubmatic.com, 157108, DIRECT, 5d62403b186f2ace
 pubmatic.com, 157109, DIRECT, 5d62403b186f2ace
 advertising.com, 27299, DIRECT, e1a5b5b6e3255540
 advertising.com, 28497, DIRECT, e1a5b5b6e3255540
-teads.tv, 17053, DIRECT, 15a9c44f6d26cbe1
-video.unrulymedia.com, UNRX-PUB-4e8b1011-4bc2-4e8d-b34f-2d56fa156ff6, DIRECT
-indexexchange.com, 182257, RESELLER
-appnexus.com, 6849, RESELLER
-rubiconproject.com, 15268, RESELLER
 districtm.io, 100331, DIRECT, 3fd707be9c4527c3
 appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
 rhythmone.com, 949103067, DIRECT, a670c89d4a324e47
 rhythmone.com, 3408527385, DIRECT, a670c89d4a324e47
+revcontent.com, 130321, DIRECT
+themediagrid.com, U1NDYR, DIRECT, 35d5010d7789b49d
+improvedigital.com, 1625, DIRECT
 
