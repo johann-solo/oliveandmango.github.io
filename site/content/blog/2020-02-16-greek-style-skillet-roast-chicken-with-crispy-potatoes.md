@@ -40,6 +40,8 @@ Once it’s roasted either transfer the chicken and the potatoes onto a serving 
 </br>
 </br>
 <div class="mv-video-target mv-video-id-lsjp8ltdsmhczbjb5kqs" data-video-id="lsjp8ltdsmhczbjb5kqs" data-volume="70" data-ratio="16:9"></div>
+If you can not play the video <span class="highlight"><a href="https://youtu.be/f7GcZaK9t_Eg">Checkout our Youtube channel</a></span>.
+</br>
 </br>
 
 ### Recipe
@@ -77,8 +79,5 @@ __For the herby marinade__
 1. <span itemprop="recipeInstructions">Transfer chicken to a cutting board and carve. Serve with potatoes. </span>
 
 </span>
-### Video Extras
-See this [Greek Style Skillet Roast Chicken With Crispy Potatoes recipe](https://youtu.be/f7GcZaK9t_E) and others on our Youtube Channel.
-</br>
 </br>
 ![Style Skillet Roast Chicken With Crispy Potatoes](/images/uploads/2020_02_16_greek_style_skillet_roast_chicken_with_crispy_potatoes_4.jpg)
