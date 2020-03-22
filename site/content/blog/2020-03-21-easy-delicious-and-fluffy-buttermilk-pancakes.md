@@ -45,6 +45,11 @@ Use this fabulous recipe as a base for adding fruit or chocolate chips. I usuall
 </br>
 </br>
 
+<div class="mv-video-target mv-video-id-lua0fkfhajz4vo0acukz" data-video-id="lua0fkfhajz4vo0acukz" data-volume="70" data-ratio="16:9"></div>
+If you can not play the video <span class="highlight"><a href="https://youtu.be/zS_6njFjx6I">Checkout our Youtube channel</a></span>.
+</br>
+</br>
+
 ### Recipe
 Makes approx 10 pancakes
 </br>
