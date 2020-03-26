@@ -7,39 +7,75 @@ scaled_thumbnail: /images/uploads/almond_granola_0.jpg
 image: MAY2017/almond_granola_1.jpg
 categories: ["breakfast"]
 tags: ["almonds", "granola"]
-excerpt: Know exactly what's in your granola by making it yourself
+excerpt: This simple, crunchy homemade vanilla almond granola is delicious and healthy
+keywords: ["homemade granola", "how to make granola", "almond granola", "gluten free granola", "how to make granola gluten free"]
+description: This simple, crunchy homemade vanilla almond granola is addictive. It’s perfect with yoghurt or your choice of milk and so good that you can’t resist snacking on it on it’s own. 
 ---
 
-One of the things I make homemade and enjoy making is granola. It is a weekly or bi-monthly food prep item i make regularly including peanut butter.  Yes it's cheaper but that's not really the only reason I make it.  When you make your own granola and peanut butter and other similar goods you really can control what goes into them.  A lot of store bought brands - even some that claim that they are natural have a lot of other added ingredients that you may not want to be including in your daily diet.  Understandably they may include preservatives to lengthen shelf life but many also contain a lot of sugar as well as added artificial flavourings. So I like to make these things at home myself because one they are pretty simple to put together, and two they are pretty quick to make or at least don't take a lot of prep time, and three you can customize the flavours.
+## Why make your own granola?
+
+One of the things I make homemade and enjoy making is granola. It is a weekly or bi-monthly food prep item i make regularly including peanut butter. Yes it’s cheaper but that’s not really the only reason I make it. When you make your own granola and peanut butter and other similar goods you really can control what goes into them. A lot of store bought brands - even some that claim that they are natural have a lot of other added ingredients that you may not want to be including in your daily diet. Understandably they may include preservatives to lengthen shelf life but many also contain a lot of sugar as well as added artificial flavourings. So I like to make these things at home myself because one, they are pretty simple to put together, and two, they are pretty quick to make or at least don’t take a lot of prep time, and three, you can customize the flavours. 
 <br>
 <br>
 ![Vanilla Almond Granola](/img/MAY2017/almond_granola_2.jpg)
 <br>
 <br>
 
-There are a few brands I do splurge on if I want to get them as a kind of a treat once in awhile for granolas and nut butters but they aren't cheap &mdash; so I tend to make more than buy the pre-made. Plus my husband loves this granola so I always like to keep it on hand. I think you will love it too. You can jazz it up by adding more seeds, nuts, or even dried fruit which would add to the flavour of it but my husband doesn't really like raisons or dried fruit in his cereal or granola so i make it without. You could also make them with gluten free oats although technically i think oats in general are gluten free depending on how they are handled when processed.  Anyway you have them, they are delicious! This granola has a nice crispy crunch not a break your teeth on it kind of crunch and it goes with everything.  I have it as a snack all the time with fruit and PB, top my smoothie bowls with it, and my husband has it regularly as a cereal or with yoghurt. Here it's pictured with yoghurt and [roasted grapes](https://www.oliveandmango.com/labneh-roasted-grapes). I have a couple other go to flavours up my sleeve and will share them with you guys soon! I should also really share my peanut butter recipe too. I probably will on IG cause it's not rocket science to make! Hope you like this simple recipe and do tell me what you like to add to your homemade granola!
+## How to make homemade granola?
+
+Homemade granola isn’t just delicious but it’s so easy to make. My husband loves his granola so I always like to keep a homemade batch on hand. It’s basically made of some very accessible pantry ingredients. It’s comprised of rolled oats, a sweetener and a binder which is usually in the form of an oil or sometimes egg whites. In this recipe it is oil. You can jazz it up by adding more seeds, nuts, or even dried fruit which would add to the flavour of it but my husband doesn’t really like raisons or dried fruit in his cereal or granola so I make it without. Once those ingredients are mixed well they are baked until crisp, toasted and golden brown. During the baking process, the mixture is stirred to maintain a loose breakfast cereal consistency.
 <br>
 <br>
-![Vanilla Almond Granola](/img/MAY2017/almond_granola_3.jpg)
+![Vanilla Almond Granola](/img/MAY2017/almond_granola_5.jpg)
 <br>
 <br>
+
+This granola has a nice crispy crunch and it goes with everything. I have it as a snack all the time with fruit and PB, top my smoothie bowls with it, and my husband has it regularly as a cereal or with yoghurt. Here it’s pictured with yoghurt and roasted grapes. I have a couple other go to flavours up my sleeve and will share them with you guys soon! Hope you like this simple recipe and do tell me what you like to add to your homemade granola! 
+<br>
+<br>
+![Vanilla Almond Granola](/img/MAY2017/almond_granola_4.jpg)
+<br>
+<br>
+
+### Basic main ingredients
+
+* Rolled oats 
+* Maple syrup 
+* Coconut oil 
+* Almonds 
+* Vanilla extract 
+
+### Substitutions
+
+* Maple syrup can be replaced with honey or any other liquid sweetener you prefer 
+* Use Gluten free oats to make this GF granola 
+* Coconut oil can be replaced with any other oil you have - preferably a vegetable based one 
+* Replace the almond with any other nut you would like or leave out if you have nut allergies
+* Replace the chia seeds for hemp seeds or pumpkin seed, sesame seeds or sunflower seeds for extra crunch 
+* Replace the vanilla extract with almond extract from more almond flavour  
+
+### Recipe
+Makes approx 5 cups 
+Serves 10 
+</br>
+</br>
 
 ### Ingredients
 
-* 3 cups old fashion rolled oats (not quick oats)
-* 1 1/2 tsp vanilla extract
-* 1/4 to 1/2 cup maple syrup (I prefer maple syrup because it's runnier and get incorporated well), honey or agave for sweetness
-* 1 tsp cinnamon
-* 1 cup shredded coconut (I use unsweetened)
-* 1/4 cup chia seeds (optional)
-* 1/2 to 3/4 cup of chopped almonds
-* 1/4 to 1/2 of coconut oil (I use <span class="highlight">[CGA extra virgin coconut oil](http://cgacaribbean.com)</span>)
-* A pinch of salt
+* <span itemprop="ingredients">3 cups old fashion rolled oats (not quick oats)</span>
+* <span itemprop="ingredients">1&frac12; tsp vanilla extract</span>
+* <span itemprop="ingredients">&frac14; to &frac12; cup maple syrup (I prefer maple syrup because it's runnier and get incorporated well), honey or agave for sweetness</span>
+* <span itemprop="ingredients">1 tsp cinnamon</span>
+* <span itemprop="ingredients">1 cup shredded coconut (I use unsweetened)</span>
+* <span itemprop="ingredients">&frac14; cup chia seeds (optional)</span>
+* <span itemprop="ingredients">&frac12; to &frac34; cup of chopped almonds</span>
+* <span itemprop="ingredients">&frac14; to &frac12; of coconut oil)</span>
+* <span itemprop="ingredients">A pinch of salt</span>
 <br>
 
 ### Directions
 
-1. Preheat oven to 300 &deg; F
+1. Preheat oven to 300°F
 
 1. In a large bowl combine all ingredients and stir until everything is well combined and well coated &mdash; add more sweetener of choice to taste and oil if mix is too dry
 
