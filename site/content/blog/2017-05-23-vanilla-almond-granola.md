@@ -34,8 +34,12 @@ This granola has a nice crispy crunch and it goes with everything. I have it as 
 <br>
 <br>
 ![Vanilla Almond Granola](/img/MAY2017/almond_granola_4.jpg)
-<br>
-<br>
+</br>
+</br>
+<div class="mv-video-target mv-video-id-sclrr2uqqicc2hzriywe" data-video-id="sclrr2uqqicc2hzriywe" data-volume="70" data-ratio="16:9"></div>
+If you can not play the video <span class="highlight"><a href="https://youtu.be/5NM_VtHp4jg">Checkout our Youtube channel</a></span>.
+</br>
+</br>
 
 ### Basic main ingredients
 
