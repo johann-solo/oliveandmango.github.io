@@ -63,6 +63,12 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 * For extra flavour add a bay leaf and a Parmesan rind to the stew while it simmers 
 * Butternut squash for sweet potatoes or carrots or a combo of any other veggies. 
 * Sage for rosemary or any other herb you like- that goes for the parsley as well
+
+</br>
+</br>
+<div class="mv-video-target mv-video-id-zgz6qt7s5ifqn2ek3swz" data-video-id="zgz6qt7s5ifqn2ek3swz" data-volume="70" data-ratio="16:9"></div>
+If you cannot play the video <span class="highlight"><a href="https://youtu.be/gGwC93E36o0">Checkout our Youtube channel</a></span>.
+</br>
 </br>
 
 ### Recipe
