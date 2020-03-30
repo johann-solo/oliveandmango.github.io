@@ -50,9 +50,9 @@ These are irresistible right out of the oven but give them a couple of minutes t
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
-<!-- <div class="mv-video-target mv-video-id-r4hpmytwcftaqbxeckxr" data-video-id="r4hpmytwcftaqbxeckxr" data-volume="70" data-ratio="16:9"></div>If you can not play the video <span class="highlight"><a href="">Checkout our Youtube channel</a></span>.
+<div class="mv-video-target mv-video-id-ppwuqe79vuf0bsaa24jg" data-video-id="ppwuqe79vuf0bsaa24jg" data-volume="70" data-ratio="16:9"></div>If you can not play the video <span class="highlight"><a href="https://youtu.be/H3SHfoJzIoQ">Checkout our Youtube channel</a></span>.
 </br>
-</br> -->
+</br>
 
 __Basic Ingredients__
 
