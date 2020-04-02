@@ -302,6 +302,10 @@ caption {
 //     text-align: center;
 // }
 
+.ingredients_check {
+  margin: 0 5px 0 0;
+}
+
 
 // BLOG STYLES
 
@@ -642,7 +646,7 @@ input[type="checkbox"] {
   display: inline-block;
 }
 
-label{display:inline-block; margin-bottom:25px !important;}
+// label{display:inline-block; margin-bottom:25px !important;}
 
 .textarea_text {
   width: 100%;
