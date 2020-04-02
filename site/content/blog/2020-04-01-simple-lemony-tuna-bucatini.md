@@ -8,7 +8,7 @@ categories: ["mains"]
 tags: ["lemons", "tuna", "pasta", "Italian"]
 excerpt: Buttery herby bucatini with crispy garlic Parmesan bread crumbs 
 keywords: ["lemon pasta", "seafood pasta", "tuna bucatini"]
-description: A quick and delicious seafood pasta made from basic pantry ingredients. A simple pasta the fresh herby
+description: A quick and delicious seafood pasta made from basic pantry ingredients. A simple pasta that is fresh and herby
 ---
 
 This buttery herby bucatini tuna pasta dish with crispy garlic Parmesan bread crumbs is one of those quick and delicious dishes you can make with what you probably have on hand. I also love making this on evenings when you need something low maintenance but totally satiating. It’s also bursting with lemon flavours and this along with the freshness of the parsley - makes it the perfect spring/summer meal that comes together in no time. 
@@ -26,35 +26,43 @@ The key with a tuna pasta dish in my opinion  is you either keep it light and 
 When it comes to the tuna - it’s really up to your taste and what you have in the pantry. I always tend to go for the solid white tuna. I usually have that stocked in my pantry and I prefer it. I like the pieces in the pasta to be a little larger as opposed to it being super flaky. The one I usually use is in water but a nice one with oil is also fine. Feel free to use the oil in the dish too especially if it’s a good quality tuna in oil - if so you may not need to add as much pasta water in the end. If not feel free to drain it. 
 </br>
 </br>
-When it comes to the pasta just use what you like. We love the slurp factor of bucatini - but penne, shells or just plain spaghetti would work just fine - use the shape you like and have. What will make a difference though, is if you use gluten free pasta. Gluten free pasta can get a little gummy if it’s over cooked at times so make sure to undercook it as it will continue cooking in the pasta water. 
-</br>
-</br>
 ![Simple Lemony Tuna Bucatini](/images/uploads/2020_04_01_simple_lemony_tuna_bucatini_3.jpg)
 </br>
 </br>
 
-What I love about this pasta is all the other add ins. What brings this tuna and pasta to life is the chilli flakes, extra flavour from the anchovies (trust me on that one - they add the perfect amount of saltiness and Unami: flavour that enhances the good taste of other ingredients in a particular recipe) the parsley, the bright lemony flavours and the perfect brininess from the olives and capers!! It’s a great Italian inspired dish that isn’t complete without those crunchy garlicky bread crumbs (I used panko for extra crunch plus that is what I had in my pantry) - they make the perfect crunchy topping. As you can see this is a very adaptable recipe and I think you guys will really love it!! Enjoy!
+When it comes to the pasta just use what you like. We love the slurp factor of bucatini - but penne, shells or just plain spaghetti would work just fine - use the shape you like and have. What will make a difference though, is if you use gluten free pasta. Gluten free pasta can get a little gummy if it’s over cooked at times so make sure to undercook it as it will continue cooking in the pasta water. 
 </br>
 </br>
 ![Simple Lemony Tuna Bucatini](/images/uploads/2020_04_01_simple_lemony_tuna_bucatini_4.jpg)
 </br>
 </br>
 
-### Basic ingredients
+What I love about this pasta is all the other add ins. What brings this tuna and pasta to life is the chilli flakes, extra flavour from the anchovies (trust me on that one - they add the perfect amount of saltiness and Unami: flavour that enhances the good taste of other ingredients in a particular recipe) the parsley, the bright lemony flavours and the perfect brininess from the olives and capers!! It’s a great Italian inspired dish that isn’t complete without those crunchy garlicky bread crumbs (I used panko for extra crunch plus that is what I had in my pantry) - they make the perfect crunchy topping. As you can see this is a very adaptable recipe and I think you guys will really love it!! Enjoy!
+</br>
+</br>
+<div class="mv-video-target mv-video-id-mhmju6w3sqtfwke081xr" data-video-id="mhmju6w3sqtfwke081xr" data-volume="70" data-ratio="16:9"></div>If you can not play the video <span class="highlight"><a href="https://youtu.be/DqxfiVTrWek">Checkout our Youtube channel</a></span>.
+</br>
+</br>
 
-* Pasta 
-* Tuna 
-* Garlic
-* Lemons 
-* Parmesan cheese 
-* Panko bread crumbs 
-* Parsley 
+### Basic ingredients
+<div>
+<div><input type="checkbox" class="ingredients_check" id="Pasta" ><label for="Pasta">Pasta</label></div>
+<div><input type="checkbox" class="ingredients_check" id="Tuna" ><label for="Tuna">Tuna</label></div>
+<div><input type="checkbox" class="ingredients_check" id="Garlic" ><label for="Garlic">Garlic</label></div>
+<div><input type="checkbox" class="ingredients_check" id="Lemons" ><label for="Lemons">Lemons</label></div>
+<div><input type="checkbox" class="ingredients_check" id="Parmesan" ><label for="Parmesan">Parmesan cheese</label></div>
+<div><input type="checkbox" class="ingredients_check" id="Panko bread crumbs" ><label for="Panko bread crumbs">Panko bread crumbs</label></div>
+<div><input type="checkbox" class="ingredients_check" id="Parsley" ><label for="Parsley">Parsley</label></div>
+</div>
+</br>
+</br>
 
 ### Recipe
 Serves 4
 </br>
 </br>
 
+### Ingredients
 __For the pasta__
 
 * <span itemprop="ingredients">4 tbsp of olive oil </span>
