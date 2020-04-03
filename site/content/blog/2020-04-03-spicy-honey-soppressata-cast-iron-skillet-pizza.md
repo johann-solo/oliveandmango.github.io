@@ -37,7 +37,7 @@ This pizza comes together super fast if you have store-bought pizza dough on han
 </br>
 </br>
 
-The same goes for the pizza sauce - store bougt is totally fine but I have also included my go-to recipe for a super delicious thick and rich pizza sauce. It’s super easy to make and lasts in the fridge for at least a week so it’s easy to make ahead. Homemade always tastes better to me, but when it comes to getting dinner on the table fast I’m definitely not above a good store bought cheat.  
+The same goes for the pizza sauce - store bought is totally fine but I have also included my go-to recipe for a super delicious thick and rich pizza sauce. It’s super easy to make and lasts in the fridge for at least a week so it’s easy to make ahead. Homemade always tastes better to me, but when it comes to getting dinner on the table fast I’m definitely not above a good store bought cheat.  
 </br>
 </br>
 ![Spicy Honey Soppressata Cast Iron Skillet Pizza](/images/uploads/2020_04_03_spicy_honey_soppressata_cast_iron_skillet_pizza_5.jpg)
@@ -53,7 +53,7 @@ Pizza night is always the best night of the week! This is one of my favorite way
 <div><input type="checkbox" class="ingredients_check" id="dough" ><label for="dough">Pizza dough (homemade or store bought)</label></div>
 <div><input type="checkbox" class="ingredients_check" id="sauce" ><label for="sauce">Pizza sauce (homemade or store bought)</label></div>
 <div><input type="checkbox" class="ingredients_check" id="Soppressata" ><label for="Soppressata">Soppressata or salami of choice</label></div>
-<div><input type="checkbox" class="ingredients_check" id="Mozzarella" ><label for="Mozzarella">Mozzarella or cheee of choice</label></div>
+<div><input type="checkbox" class="ingredients_check" id="Mozzarella" ><label for="Mozzarella">Mozzarella or cheese of choice</label></div>
 <div><input type="checkbox" class="ingredients_check" id="oil" ><label for="oil">Olive oil</label></div>
 <div><input type="checkbox" class="ingredients_check" id="Honey" ><label for="Honey">Honey</label></div>
 </div>
@@ -67,7 +67,7 @@ Pizza night is always the best night of the week! This is one of my favorite way
 * <span itemprop="ingredients">8-10 slices of good quality hot soppressata (or salami of choice) </span>
 * <span itemprop="ingredients">6 ounces fresh mozzarella torn </span>
 * <span itemprop="ingredients">6-8 fresh basil leaves torn </span>
-* <span itemprop="ingredients">&frac14; of honey for drizzling </span>
+* <span itemprop="ingredients">&frac14; cup of honey for drizzling </span>
 * <span itemprop="ingredients">Dried chili flakes for sprinkling (if you like the extra heat) </span>
 
 ### Directions
@@ -91,7 +91,7 @@ Makes one large pizza or two small/medium 10-12 inch sized ones (approx 1-1 &fra
 * 1 tbsp honey
 * 1 cup plus 5 tbsp of lukewarm water
 * 1½ cups all purpose flour - plus more for dusting
-* 1½ cups bread flour or “OO” flour as recommended in original recipe and if you can find it (sub with AP flour)
+* 1½ cups bread flour or “OO” flour (sub with AP flour)
 * 2 tbsp olive oil
 * 1 tsp salt
 
