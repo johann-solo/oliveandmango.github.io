@@ -30,7 +30,7 @@ This is one of my favorite flavour combos when it comes to pizza. I’m definite
 </br>
 </br>
 
-This pizza comes together super fast if you have store-bought pizza dough on hand or if you have premade pizza dough.  I have my favorite pizza dough recipe below that I love to make on Friday night in preparation for pizza night Saturday. It only needs 1-1 1/2 hours to rest but I like to make it a day ahead. It’s easy but requires a little bit of elbow grease. It’s worth it and I always find kneading super therapeutic! It’s like an end of the week therapy session when I’m making my pizza dough. Using store bought is totally acceptable though and even quicker so feel free to use whatever you like. 
+This pizza comes together super fast if you have store-bought pizza dough on hand or if you have premade pizza dough. I have my favorite pizza dough recipe below that I love to make on Friday night in preparation for pizza night Saturday. It only needs 1-1&frac12; hours to rest but I like to make it a day ahead. It’s easy but requires a little bit of elbow grease. It’s worth it and I always find kneading super therapeutic! It’s like an end of the week therapy session when I’m making my pizza dough. What I love about this dough is that it’s so versatile - if you want a thin crust style pizza your just stretch or roll it out thin - if you want a thicker crust it works as well - whether it’s thicker or thinner the texture is perfect - it’s got that slight chew that you want in your crust and the bottom and edges have a nice crunch.  The edges puff up perfectly and it also gets those fabulous air pockets I love in pizza - even when your roll it. This dough behaves really well and responds well to just using your hands to stretch it out - but I like to get mine started with a few rolls to begin with and then I stretch it out by hand to the size I want it to be. Using store bought is totally acceptable though and even quicker so feel free to use whatever you like. 
 </br>
 </br>
 ![Spicy Honey Soppressata Cast Iron Skillet Pizza](/images/uploads/2020_04_03_spicy_honey_soppressata_cast_iron_skillet_pizza_4.jpg)
@@ -45,6 +45,9 @@ The same goes for the pizza sauce - store bought is totally fine but I have also
 </br>
 
 Pizza night is always the best night of the week! This is one of my favorite ways to top mine with my go to - fool proof pizza dough and pizza sauce that I know you will love too! Weeknight pizza night will never be the same with this skillet version! Hope you try it! Happy pizza night - whichever night that is for you!
+</br>
+</br>
+<div class="mv-video-target mv-video-id-syy1ul2f4iprgmvypvet" data-video-id="syy1ul2f4iprgmvypvet" data-volume="70" data-ratio="16:9"></div>If you can not play the video <span class="highlight"><a href="https://youtu.be/0KrIs-TI1AQ">Checkout our Youtube channel</a></span>.
 </br>
 </br>
 
@@ -79,19 +82,21 @@ Pizza night is always the best night of the week! This is one of my favorite way
 1. Transfer to a cutting board, top with torn basil, drizzle with honey and sprinkle with chili flakes, cut into slices and serve.
 </br>
 </br>
+</br>
+</br>
 
 ## How To Make The Perfect Homemade Pizza Dough
-Makes one large pizza or two small/medium 10-12 inch sized ones (approx 1-1 &frac12; lbs dough) 
+Makes approx 2 large pizzas or 10-12 inch or can make 4 smaller sized ones (approx 1&frac12;-1&frac34; lbs dough) 
 </br> 
 </br>
 
 ### Ingredients
 
 * 2 tsp active dry yeast
-* 1 tbsp honey
+* 1 tbsp honey (sub with sugar)
 * 1 cup plus 5 tbsp of lukewarm water
 * 1½ cups all purpose flour - plus more for dusting
-* 1½ cups bread flour or “OO” flour (sub with AP flour)
+* 1½ cups bread flour or “00” flour (sub with AP flour) &ast;
 * 2 tbsp olive oil
 * 1 tsp salt
 
@@ -100,17 +105,25 @@ Makes one large pizza or two small/medium 10-12 inch sized ones (approx 1-1 &fra
 2. Add the flours, olive oil, and salt to the bowl and stir with a wooden spoon until a mass of dough begins to form. Turn the dough out onto a floured surface and put your timer on for ten minutes and start kneading.
 3. Transfer the dough to a bowl that has been lightly greased and cover with plastic wrap. Place in a warm spot and let the dough rise and double in size for approx 1 ½ hours. If you’re making ahead wrap and place in the fridge to rise overnight. The next day when you plan to use it warm it on the countertop for approx ½ hour -45 min before using.
 4. Once ready to use, punch down the dough and transfer to a floured surface. Cut the dough in half and shape both into balls if making two small pizzas, if making one larger one, leave as is 
-5. Preparing one at a time, roll the dough out with a rolling pin stretching it out as needed and transfer to pizza stone, sheet pan or cast iron skillet 
+5. Preparing one at a time, roll the dough out with a rolling pin stretching it out as needed and transfer to pizza stone, sheet pan or cast iron skillet  
+
+&ast; 00 flour is ideal for pizza dough for two reasons: one, it's finely ground, and two, it has a lower gluten content than most flours. Gluten levels have an effect of the chew factor or texture of your pizza crust. More [information about 00 Flour is here](https://www.saveur.com/article/Kitchen/Best-Flour-for-Making-Pizza/). That being said if you don’t have any don’t sweat it, just swap it out for all purpose flour.
 </br>
 </br>
 
-## How To Make A Simple Thick and Rich Pizza Sauce 
+<div class="mv-video-target mv-video-id-svjmfn73iuk60bemma5p" data-video-id="svjmfn73iuk60bemma5p" data-volume="70" data-ratio="16:9"></div>If you can not play the video <span class="highlight"><a href="https://youtu.be/elzQK9B0NIY">Checkout our Youtube channel</a></span>.
+</br>
+</br>
+</br>
+</br>
+
+## How To Make A Simple Thick and Rich Pizza Sauce (salsa di pomodoro)
 Makes about 3 cups, or enough for 2 pizzas (extra can easily be frozen)
 </br>
 </br>
 
 ### Ingredients
-* 1 can (28-ounces) whole peeled tomatoes, in juice
+* 1 can (28-ounces) whole peeled tomatoes, in juice (or crushed tomatoes)
 * 1 small white or sweet onion, finely diced and minced
 * 1 clove garlic, peeled and minced
 * 3 to 4 fresh basil leaves
@@ -126,7 +139,17 @@ Makes about 3 cups, or enough for 2 pizzas (extra can easily be frozen)
 2. In a heavy bottom 2-quart saucepot, heat the olive oil, over a medium high heat. 
 3. Add the onions and saute until  translucent. Add the garlic and saute about a minute until golden. 
 4. Add the crushed tomatoes to the mix. Stir well and bring to a simmer. 
-5. Season with salt and pepper, to taste, and add the fresh basil and oregano. You can add a touch of sugar if desired or if tomatoes are tart. Simmer on a low flame, stirring often for at least 15 minutes. If not using right away, cool down and store in airtight container in the refrigerator, up to 1 week.
+5. Season with salt and pepper, to taste, and add the fresh basil and oregano. You can add a touch of sugar if desired or if tomatoes are tart. Simmer on a low flame, stirring often for at least 15 minutes. If not using right away, cool down and store in airtight container in the refrigerator, up to 1 week. Reserve extra sauce for another pizza or pasta.
+</br>
+</br>
+
+### Note
+This makes a chunkier sauce. If you want a smoother sauce use crushed canned tomatoes instead of whole or after it has simmered you can use an immersion blender to smooth it out. If you want it thicker just continue to simmer it until desired thickness.
 
 </br>
+</br>
+<div class="mv-video-target mv-video-id-wxenjfahrrcw6ldm0yye" data-video-id="wxenjfahrrcw6ldm0yye" data-volume="70" data-ratio="16:9"></div>If you can not play the video <span class="highlight"><a href="https://youtu.be/IH0WgscYIY0">Checkout our Youtube channel</a></span>.
+</br>
+</br>
+
 ![Spicy Honey Soppressata Cast Iron Skillet Pizza](/images/uploads/2020_04_03_spicy_honey_soppressata_cast_iron_skillet_pizza_6.jpg)
