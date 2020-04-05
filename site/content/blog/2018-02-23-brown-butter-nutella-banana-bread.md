@@ -7,8 +7,8 @@ scaled_thumbnail: /images/uploads/2018_02_23_brown_butter_nutella_banana_bread_0
 categories: ["bread"]
 tags: ["bananas", "Nutella"]
 excerpt: Enjoy swirls of sweet nutty, cocoa flavours in your banana bread
-keywords: ["spicy pizza", "soppressata pizza", "skillet pizza"]
-description: A pizza with a crispy crust made with homemade sauce and spicy salami with a sweet honey finish 
+keywords: ["banana bread", "Brown Butter Banana Bread", "homemade bread"]
+description: Take your homemade banana bread to another level with the addition nutella. 
 ---
 
 You heard butter is better and that’s true but what’s even better is nutella. What’s even better than one or the other is combining the two in this banana bread.  This recipe combines those two things with yet another loved thing in our home - banana bread! Banana bread is one of those baked goods that I never tire of and is pretty hard to mess up if you have a good recipe. This banana bread is a spin on my classic recipe which yields a crowd pleasing loaf every time. It’s a pretty basic recipe that I have been using and adapting recipes from for years. [More on that recipe here](https://www.oliveandmango.com/no-fail-banana-bread/).
@@ -58,6 +58,9 @@ This is a great version of banana bread especially if you are looking to switch 
 </br>
 </br>
 ![Brown Butter Nutella Banana Bread](/images/uploads/2018_02_23_brown_butter_nutella_banana_bread_11.jpg)
+</br>
+</br>
+<div class="mv-video-target mv-video-id-iofpcrhsi39dv34e3p3a" data-video-id="iofpcrhsi39dv34e3p3a" data-volume="70" data-ratio="16:9"></div>If you can not play the video <span class="highlight"><a href="https://youtu.be/RmU4VhJW00g">Checkout our Youtube channel</a></span>.
 </br>
 </br>
 
