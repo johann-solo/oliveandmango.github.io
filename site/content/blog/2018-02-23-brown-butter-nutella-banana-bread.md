@@ -7,6 +7,8 @@ scaled_thumbnail: /images/uploads/2018_02_23_brown_butter_nutella_banana_bread_0
 categories: ["bread"]
 tags: ["bananas", "Nutella"]
 excerpt: Enjoy swirls of sweet nutty, cocoa flavours in your banana bread
+keywords: ["spicy pizza", "soppressata pizza", "skillet pizza"]
+description: A pizza with a crispy crust made with homemade sauce and spicy salami with a sweet honey finish 
 ---
 
 You heard butter is better and that’s true but what’s even better is nutella. What’s even better than one or the other is combining the two in this banana bread.  This recipe combines those two things with yet another loved thing in our home - banana bread! Banana bread is one of those baked goods that I never tire of and is pretty hard to mess up if you have a good recipe. This banana bread is a spin on my classic recipe which yields a crowd pleasing loaf every time. It’s a pretty basic recipe that I have been using and adapting recipes from for years. [More on that recipe here](https://www.oliveandmango.com/no-fail-banana-bread/).
@@ -39,7 +41,7 @@ Let’s talk briefly about the Nutella. Very briefly cause not much else to say 
 </br>
 </br>
 
-I love the swirls of Nutella through the bread and over the top of it too.  The bread smells heavenly while it bakes and it’s really hard not to tear into it right out of the oven.  Neither flavours overpower but blend well together. You definitely taste and smell a cocoa component and a warm nuttiness too, both from the brown butter and the Nutella. This could easily be made with the addition of toasted hazelnuts and some chocolate chips or chunks. How fabulous would that be? It would give it more texture, crunch and flavour.  Will definitely be trying it that way the next time!
+I love the swirls of Nutella through the bread and over the top of it too.  The bread smells heavenly while it bakes and it’s really hard not to tear into it right out of the oven. Neither flavours overpower but blend well together. You definitely taste and smell a cocoa component and a warm nuttiness too, both from the brown butter and the Nutella. This could easily be made with the addition of toasted hazelnuts and some chocolate chips or chunks. How fabulous would that be? It would give it more texture, crunch and flavour.  Will definitely be trying it that way the next time!
 </br>
 </br>
 ![Brown Butter Nutella Banana Bread](/images/uploads/2018_02_23_brown_butter_nutella_banana_bread_8.jpg)
@@ -49,7 +51,7 @@ I love the swirls of Nutella through the bread and over the top of it too.  The 
 </br>
 </br>
 
-This is a great version of banana bread especially if your looking to switch up your staple banana bread recipe and a lover of Nutella.  I know you will love it!
+This is a great version of banana bread especially if you are looking to switch up your staple banana bread recipe and a lover of Nutella.  I know you will love it!
 </br>
 </br>
 ![Brown Butter Nutella Banana Bread](/images/uploads/2018_02_23_brown_butter_nutella_banana_bread_10.jpg)
@@ -71,13 +73,13 @@ This is a great version of banana bread especially if your looking to switch up 
 * 2 large eggs
 * 2 teaspoon pure vanilla extract
 * &frac14; cup of milk at room temperature 
-* &frac14; cup nutella plus more for drizzling over your bread later. 
+* &frac14;-&frac12; cup nutella plus more for drizzling over your bread later. 
 
 ### Directions
 
 1. Place the butter in a small saucepan set over medium heat and cook until the butter turns a deep golden brown color, about 2 minutes; stir in the espresso powder. Remove and let cool slightly.
 
-1.  Preheat oven to 350&deg;F grease a loaf pan.
+1.  Preheat oven to 350&deg;F grease and line a loaf pan with parchement paper
 
 1. In a large bowl, combine the flour, baking soda, and salt; set aside.
 
@@ -87,15 +89,20 @@ This is a great version of banana bread especially if your looking to switch up 
 
 1. Mix in the dry ingredients just until incorporated; no need to overly blend.
 
-1. Heat the nutella in a microwave for about 20 seconds to soften it and make it a little more pourable then drizzle &frac23; of the nutella over the banana bread batter.
+2. Heat the nutella in a microwave for about 20 seconds if it needs to be softened to make it a little more pourable then drizzle &frac23; of the nutella over the banana bread batter. &ast;
 
-1. Using a rubber spatula very gently fold the nutella into the batter, trying not to over mix, so you can see the swirls when it is baked.
+3. Using a rubber spatula very gently fold the nutella into the batter, trying not to over mix, so you can see the swirls when it is baked.
 
-1. Carefully pour the batter into the prepared loaf pan without mixing the batter to much to keep the swirls in place. Add the rest of the nutella and swirl into the batter.
+4. Carefully pour the batter into the prepared loaf pan without mixing the batter to much to keep the swirls in place. Add the rest of the nutella and swirl into the batter.
 
-1. Bake for about 45 minutes to 1 hour until golden brown and a toothpick inserted into the center of the loaf comes out clean. Don't get nervous if the banana bread develops a crack down the center of the loaf; that's no mistake, it's typical. Rotate the pan periodically to ensure even browning. And tent with foil with bets cut into it if it starts getting to brown at the edges. 
+5. Bake for about 45 minutes to 1 hour until golden brown and a toothpick inserted into the center of the loaf comes out clean. Don't get nervous if the banana bread develops a crack down the center of the loaf; that's no mistake, it's typical. Rotate the pan periodically to ensure even browning. And tent with foil if it starts getting too brown at the edges. 
 
-1. Cool the bread in the pan for 10 minutes or so, and then turn out onto a wire rack to cool completely before slicing. 
+6. Cool the bread in the pan for 10 minutes or so, and then turn out onto a wire rack to cool completely before slicing. 
+</br>
+
+&ast; Note: Alternatively pour half the batter in the pan, dollop with half the nutella and swirl into batter and then repeat with the rest of the batter and nutella over top
+</br>
+</br>
 
 Inspired by *Zoebakes* and *Foodnetwork*
 </br>
