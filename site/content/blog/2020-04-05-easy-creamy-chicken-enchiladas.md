@@ -58,10 +58,13 @@ Makes 6-8 Enchiladas
 4. In a medium size bowl mix together the spinach, corn, 1 can of chillies, and 1 cup of cheese
 5. In a separate bowl whisk together the heavy cream, the second can of chillies and salt and pepper to taste (I usually do approx ½ tsp of each)
 6. Now it’s time to assemble the enchiladas. Get your shallow baking dish ready (I usually use and 8x10) and start assembling.
-7. Lay out your corn tortilla on a plate and fill along the centre of the tortilla with approx 1⁄4 cup of ingredients half being the chicken and the other half the corn and spinach mixture. Roll the tortilla and place seam facing down into the baking dish
+7. Lay out your corn tortilla on a plate and fill along the centre of the tortilla with approx &frac14; cup of ingredients half being the chicken and the other half the corn and spinach mixture. Roll the tortilla and place seam facing down into the baking dish
 8. Do the same with the rest of the tortillas trying to divide the filling evenly. 
 9. Pour over the heavy cream mixture evenly over the enchiladas, sprinkle the rest of the cheese over them too and cover dish with foil (spray foil with baking spray to prevent cheese from sticking to it) and bake for 20 minutes until bubbling
-10. Remove foil and bake uncovered for another 10-15 minutes or until golden brown
+10. Remove foil and bake uncovered for another 10-15 minutes or until golden brown  
+
+</br>
+<div class="mv-video-target mv-video-id-j9h7340vmb2bcrwu2eux" data-video-id="j9h7340vmb2bcrwu2eux" data-volume="70" data-ratio="16:9"></div>If you can not play the video <span class="highlight"><a href="https://youtu.be/EeJVMhGZMFw">Checkout our Youtube channel</a></span>.
 </br>
 </br>
 
