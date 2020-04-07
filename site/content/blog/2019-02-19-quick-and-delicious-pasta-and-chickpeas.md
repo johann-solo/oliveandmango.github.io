@@ -67,6 +67,9 @@ This post is in partnership with _GoGo Quinoa_. All thoughts and views are my ow
 ![Quick and Delicious Pasta and Chickpeas (Pasta e Ceci)](/images/uploads/2019_02_19_quick_and_delicious_pasta_and_chickpeas_9.jpg)
 </br>
 </br>
+<div class="mv-video-target mv-video-id-kfonhpgfu8xswixr1w08" data-video-id="kfonhpgfu8xswixr1w08" data-volume="70" data-ratio="16:9"></div>If you can not play the video <span class="highlight"><a href="https://youtu.be/KhiHS7MLZno">Checkout our Youtube channel</a></span>.
+</br>
+</br>
 
 ### Ingredients
 
@@ -77,10 +80,11 @@ This post is in partnership with _GoGo Quinoa_. All thoughts and views are my ow
 * <span itemprop="ingredients"> ¼ teaspoon red pepper flakes</span>
 * <span itemprop="ingredients"> 2 tablespoons extra-virgin olive oil, plus more for finishing oil </span>
 * <span itemprop="ingredients"> 1 small yellow onion, finely diced</span>
-* <span itemprop="ingredients"> 1 cup San Marzano whole tomatoes (about 4-5 tomatoes - approx half a 796ml can of whole canned tomatoes), crushed using your hands</span>
+* <span itemprop="ingredients"> 14 oz or 398ml can of whole or crushed tomatoes</span>
+* <span itemprop="ingredients"> Add 1 heaping tbsp of tomato paste </span>
 * <span itemprop="ingredients"> Salt and black pepper, to taste</span>
-* <span itemprop="ingredients"> 227 gram pack of <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/cauliflower-fusilli">GoGo Quinoa Organic Cauliflower Fusilli</a></span></span>
-* <span itemprop="ingredients"> 2 &frac12; - 3 cups water or vegetable broth plus more to thin out sauce if needed </span>
+* <span itemprop="ingredients"> 12 oz or 340g of short pasta</span>
+* <span itemprop="ingredients"> 4 cups of broth </span>
 * <span itemprop="ingredients"> Chopped parsley and chili rosemary oil, for garnish</span>
 
 __Chili rosemary finishing oil__
@@ -95,7 +99,7 @@ __Chili rosemary finishing oil__
 
 1. In a medium heavy bottom pot or deep skillet, heat the 2 tablespoons of olive oil over medium heat. 
 2. When the oil is hot, add the onions and cook, stirring often, until soft and translucent, and just starting to get some colour on them. 
-3. Add garlic and chili flakes and rosemary and cook for a minute until fragrant and then add the tomatoes and paste and then season with salt and cook, stirring occasionally, until the tomatoes have thickened slightly, just a few minutes.
+3. Add garlic and chili flakes and rosemary and cook for a minute until fragrant and then add the paste then tomatoes with bayleaf. Season with salt and cook, stirring occasionally, until the tomatoes have thickened slightly, just a few minutes.
 4. Add the chickpeas, pasta and broth or water, and bring to a boil and then lower the heat to a simmer and cook, stirring frequently to keep from sticking, until the pasta is al dente and the sauce has thickened, approx 9-12 minutes.
 5. Season with salt and black pepper to taste. 
 6. Remove from heat and serve immediately garnished with chopped parsley and a drizzle of finishing oil. 
