@@ -8,7 +8,7 @@ categories: ["mains"]
 tags: ["lemons", "shrimp", "Italian", "one pot meals", "sponsored"]
 excerpt: Creamy pasta and shrimp in a garlic lemon butter sauce
 keywords: ["lemon garlic", "garlic shrimp", "seafood Italian", "one pot meals", "seafood pasta", "shrimp pasta"]
-description: Creamy pasta and shrimp in a garlic lemon butter sauce 
+description: A simple recipe for creamy pasta and shrimp in a garlic lemon butter sauce 
 ---
 
 Creamy pasta and shrimp in a garlic lemon butter sauce - basically what I’m craving daily!  This is such a great midweek meal that we love. Simple and on the table in no time. It takes longer to cook the pasta then prep the sauce. You cannot beat that for the midweek!
@@ -48,8 +48,11 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 ![Lemon Garlic Shrimp Pasta](/images/uploads/2019_08_22_lemon_garlic_shrimp_pasta_7.jpg)
 </br>
 </br>
+<div class="mv-video-target mv-video-id-nhaf0yh19gp8imjxm6cd" data-video-id="nhaf0yh19gp8imjxm6cd" data-volume="70" data-ratio="16:9"></div>If you can not play the video <span class="highlight"><a href="https://youtu.be/MqhJ74r5BUU">Checkout our Youtube channel</a></span>.
+</br>
+</br>
 
-## Recipe
+### Recipe
 Serves 4
 </br>
 </br>
@@ -67,7 +70,7 @@ Serves 4
 * <span itemprop="ingredients">2 tablespoons lemon juice plus more for garnishing </span>
 * <span itemprop="ingredients">&frac14; tsp lemon zest </span>
 * <span itemprop="ingredients">&frac14; cup chopped parsley plus more for garnishing </span>
-* <span itemprop="ingredients">&frac12; lb of spaghetti or pasta of choice </span>
+* <span itemprop="ingredients">&frac12; lb (227 g) of spaghetti or pasta of choice </span>
 * <span itemprop="ingredients">&frac14; reserved pasta water </span>
 
 
