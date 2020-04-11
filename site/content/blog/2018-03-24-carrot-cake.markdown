@@ -52,6 +52,9 @@ It's great for dinner parties, and potlucks. It's a crowd pleaser for sure. The 
 ![Carrot cake](/images/uploads/2018_03_24_carrot_cake_10.jpg)  
 </br>
 
+{{< youtube tpmpGQevL5c >}}
+</br>
+
 ## Recipe
 Yields 1 bundt cake or 2 9-inch pan cakes
 </br>
@@ -61,29 +64,30 @@ Yields 1 bundt cake or 2 9-inch pan cakes
 
 **For the cake**
 
-* 2 cups granulated sugar
-* 1 cup vegetable oil
-* 4 whole eggs
-* 2 cups all-purpose flour, plus more for dusting
-* 1 teaspoon baking powder
-* 1 teaspoon baking soda
-* 1 teaspoon ground cinnamon
-* &frac12; teaspoon salt
-* 2 cups grated carrots
-* Butter, for greasing
+* <span itemprop="ingredients">2 cups granulated sugar</span>
+* <span itemprop="ingredients">1 cup vegetable oil</span>
+* <span itemprop="ingredients">4 whole eggs</span>
+* <span itemprop="ingredients">1 teaspoon vanilla extract</span>
+* <span itemprop="ingredients">2 cups all-purpose flour, plus more for dusting</span>
+* <span itemprop="ingredients">1 teaspoon baking powder</span>
+* <span itemprop="ingredients">1 teaspoon baking soda</span>
+* <span itemprop="ingredients">1 teaspoon ground cinnamon</span>
+* <span itemprop="ingredients">&frac12; teaspoon salt</span>
+* <span itemprop="ingredients">2 cups grated carrots</span>
+* <span itemprop="ingredients">Butter, for greasing</span>
 
 **For the icing**
 
-* 1 stick butter, softened
-* 1 package (8 ounces) cream cheese, softened
-* 1 pound powdered sugar
-* 2 teaspoons vanilla extract
-* 1 cup pecans, chopped finely
+* <span itemprop="ingredients">1 stick butter, softened</span>
+* <span itemprop="ingredients">1 package (8 ounces) cream cheese, softened</span>
+* <span itemprop="ingredients">1 pound powdered sugar</span>
+* <span itemprop="ingredients">2 teaspoons vanilla extract</span>
+* <span itemprop="ingredients">1 cup pecans, chopped finely</span>
 
 ### Directions
 **For the cake**
 
-1. Preheat the oven to 350&deg;F. Mix together the granulated sugar, oil and eggs in a large bowl.
+1. Preheat the oven to 350&deg;F. Mix together the granulated sugar, oil vanilla extract, and eggs in a large bowl.
 
 1. In another bowl, sift together the flour, baking powder, baking soda, cinnamon and salt.
 
