@@ -44,12 +44,12 @@ Lemon ricotta is quite a classic combo for baked goods and it works beautifully 
 </br>
 </br>
 
-Recipe adpated from _The Food Network_ and _Joy the Baker_
+{{< youtube 1b6b3qP7wXk >}}
 </br>
 </br>
 
 ## Recipe
-Makes 4-6 waffles depending on size of waffles 
+Makes 4-6 large ones and 10-12 small-medium ones  
 </br>
 </br>
 
@@ -76,12 +76,15 @@ Makes 4-6 waffles depending on size of waffles
 4. In a bowl or large measuring cup, whisk together butter, eggs, vanilla, lemon juice, ricotta, and milk. 
 5. Add the wet ingredients all at once to the dry ingredients and stir to combine. Do not over mix the batter.  A few lumps remaining is fine. 
 6. Heat you waffle iron according to the manufacturer’s instructions spraying with cooking spray if needed. 
-7. Dollop batter into the waffle iron and cook until golden brown.  
+7. Dollop &frac14; cup of batter into the waffle iron and cook until golden brown.  
 8. Serve immediately with what whatever topping  you would like. I served mine with a dollop of whip, a little granola for some crunch, sliced citrus and some pomegranate arils. 
 9. These waffles can also be individually wrapped and frozen. They are great heated up in the toaster or in the oven
 
 ### Recipe Notes
 If using a standing waffle iron or one that you have to pour the batter into, you may have to thin out the batter a little a tbsp at a time (with milk or water) until you achieve a more pourable consistency.
 
+</br>
+</br>
+Recipe adpated from _The Food Network_ and _Joy the Baker_
 </br>
 ![Fluffy Lemon Ricotta Waffles](/images/uploads/2019_01_20_fluffy_lemon_ricotta_waffles_6.jpg)
