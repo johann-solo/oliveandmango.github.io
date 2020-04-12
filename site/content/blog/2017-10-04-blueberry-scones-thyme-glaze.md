@@ -7,8 +7,10 @@ scaled_thumbnail: /images/uploads/2017_09_29_blueberry_scones_thyme_0.jpg
 categories: ["breakfast"]
 tags: ["berries", "blueberries", "scones"]
 excerpt: This pairing of blueberry and thyme will make you wonder why you made scones any other way
+keywords: ["blueberry scones", "homemade blueberry scones", "homemade scones", "thyme glaze"]
+description: Easy to make homemade scones loaded with blueberries and topped with an aromatic thyme glaze
 ---
-
+ 
 It’s a great feeling when you finally get a recipe just the way you want it.  That is how I felt about these scones. I have tried so many recipes and they have all been good but just not great. The great thing about trying so many types of scones and recipes for scones over the years is that you get to know and learn the basics when it comes to the techniques involved.
 <br>
 <br>
@@ -19,6 +21,7 @@ It’s a great feeling when you finally get a recipe just the way you want it.  
 <br>
 <br>
 
+### How to make the perfect homemade scones
 Let me share some very basics I have learned over the years.  Everything must be freezing cold, from the butter to the bowl and even your dry ingredients. When not using, once you have prepped the ingredients, store them in the fridge until you need them. Also do not work the dough too much. It’s not suppose to be smooth and elastic.  It’s suppose to be a bit shaggy. The more the dough is worked the more dense the scones will be, and that’s not usually a good thing with scones. You want a light crispy exterior with a fluffy’ish interior &ndash; at least thats what I want.
 <br>
 <br>
@@ -26,6 +29,7 @@ Let me share some very basics I have learned over the years.  Everything must be
 <br>
 <br>
 
+### The secret to making scones with frozen fruit
 If you’re using frozen fruits in them, always dust them with flour before adding them to the dough and never thaw them &ndash; like never!! Keep them frozen right up until you’re suppose to add them to the dough, toss them in flour until well coated and then add them.
 <br>
 <br>
@@ -36,13 +40,14 @@ If you’re using frozen fruits in them, always dust them with flour before addi
 <br>
 <br>
 
-I like to use the fattiest Ingredients in my scones. The milk and yoghurt or sour cream should not be skim or low-fat and it’s a good idea to use a good quality butter as well. I personally don’t think any baked goods/desserts should be low fat, or low anything.  Your not suppose to eat 10 in one shot or all of them so just chill enjoy ONE (or maybe two) &ndash; a delicious one with full fat ingredients and all will be ok trust me! (Pls ignore this if you have actual dietary issues or allergies)
+I like to use the fattiest ingredients in my scones. The milk and yoghurt or sour cream should not be skim or low-fat and it’s a good idea to use a good quality butter as well. I personally don’t think any baked goods/desserts should be low fat, or low anything.  Your not suppose to eat 10 in one shot or all of them so just chill enjoy ONE (or maybe two) &ndash; a delicious one with full fat ingredients and all will be ok trust me! (Pls ignore this if you have actual dietary issues or allergies)
 <br>
 <br>
 ![Blueberry Scones With A Thyme Glaze](/images/uploads/2017_09_29_blueberry_scones_thyme_7.jpg)
 <br>
 <br>
 
+### How to get your scones to have the perfect shape and texture
 I really like the fold and tuck method in this recipe. I think it’s great for keeping the scones fluffy and less dense as well. I have always grated my butter from frozen.  It’s a tip I picked up a while ago in a recipe I had made (can’t remember whose) and it has just stuck. I freeze it for a half hour or so before using. This is the perfect way to incorporate it into the flour.  It’s no fuss and no need to use a pastry blender, two butter knives, a food processor or anything you would normally use to cut the butter into the flour! Hope these little basic tips help you make your scones even more delicious. I would love to hear any tips you may have so please share in the comments!
 <br>
 <br>
@@ -50,25 +55,31 @@ I really like the fold and tuck method in this recipe. I think it’s great for 
 <br>
 <br>
 
-The glaze was influenced by searching what flavours go well with which fruits, and blueberries definitely go well with thyme.  The scone recipe is adapted by America’s Test Kitchen along with a few other past recipes. And the thyme glaze is adapted from Bake from Scratch. We loved the glaze and the two are a match made in heaven! Hope you think so too!
+### A great glaze for your scones
+The glaze was influenced by searching what flavours go well with which fruits, and blueberries definitely go well with thyme.  The scone recipe is adapted from  _America’s Test Kitchen_ along with a few other past recipes. And the thyme glaze is adapted from _Bake from Scratch_. We loved the glaze and the two are a match made in heaven! Hope you think so too!
 <br>
 <br>
 ![Blueberry Scones With A Thyme Glaze](/images/uploads/2017_09_29_blueberry_scones_thyme_9.jpg)
 <br>
 <br>
 
+{{< youtube bOjOR63q0oU >}}
+</br>
+</br>
+
+### Recipe
 ### Ingredients
 
-* 8 tbsp of butter frozen solid and then grated and left in the freezer until ready to use plus 2 extra tbsp to melt and brush over scones before baking
-* 1&frac12; cups fresh or frozen blueberries (note below if using frozen which I usually do) if using fresh measure them out and place in freezer while prepping the dough
-* &frac12; cup whole milk
-* &frac12; cup sour cream or Greek yoghurt
-* 2 cups all purpose flour plus more for dusting
-* &frac12; cup of sugar plus a couple of extra tsps for sprinkling scones before baking
-* 2 tsp baking powder
-* &frac14; tsp baking soda
-* &frac12; tsp salt
-* 1 tsp grated lemon or lime zest
+* <span itemprop="ingredients">8 tbsp of butter frozen solid and then grated and left in the freezer until ready to use plus 2 extra tbsp to melt and brush over scones before baking</span>
+* <span itemprop="ingredients">1&frac12; cups fresh or frozen blueberries (note below if using frozen which I usually do) if using fresh measure them out and place in freezer while prepping the dough</span>
+* <span itemprop="ingredients">&frac12; cup whole milk</span>
+* <span itemprop="ingredients">&frac12; cup sour cream or Greek yoghurt</span>
+* <span itemprop="ingredients">2 cups all purpose flour plus more for dusting</span>
+* <span itemprop="ingredients">&frac12; cup of sugar plus a couple of extra tsps for sprinkling scones before baking</span>
+* <span itemprop="ingredients">2 tsp baking powder</span>
+* <span itemprop="ingredients">&frac14; tsp baking soda</span>
+* <span itemprop="ingredients">&frac12; tsp salt</span>
+* <span itemprop="ingredients">1 tsp grated lemon or lime zest</span>
 
 &#42; if using frozen blueberries I measure them out and place them back in the freezer- do not thaw them out.  Right before adding them to the dough toss them in flour (approx half cup in a bowl) so they are completely coated in flour and then add them to dough according to directions
 <br>

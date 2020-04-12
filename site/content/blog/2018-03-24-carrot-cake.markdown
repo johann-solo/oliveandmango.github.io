@@ -7,6 +7,8 @@ thumbnail: /images/uploads/2018_03_24_carrot_cake_1.jpg
 scaled_thumbnail: /images/uploads/2018_03_24_carrot_cake_0.jpg
 tags: ["cakes", "carrots"]
 excerpt: What's the best thing about carrot cake? The cream cheese frosting!!
+keywords: ["carrot cake", "homemade carrot cake", "cream cheese frosting", "carrot cake frosting", "homemade frosting"]
+description: A simple and delicious recipe for homemade carrot cake with a cream cheese frosting
 ---
 
 What's the best thing about carrot cake? The cream cheese frosting!! Am I right!?!? I love a moist carrot cake with a little crunch and not to much add ons. Save the raisins and pineapple for another cake (My hubby would pick each and every one of them out). Bring on the pecan or walnuts though. At least that's how I like mine. I have tried several recipes but a few years ago I found a total winner courtesy of _Ree Drummond_ (Sigrid's Carrot Cake recipe). No surprise, her recipes never disappoint.
@@ -16,6 +18,7 @@ What's the best thing about carrot cake? The cream cheese frosting!! Am I right!
 </br>
 </br>
 
+### A carrot cake made with basic pantry ingredients
 This one in particular is so simple and comes out perfect every time. No crazy ingredients that I have to hunt down and then never use again and get lost in the pantry. Just your basic flour, carrots, oil, eggs.....you get the picture. I'm a butter fan when it comes to baking but really it's the oil that gives this cake and all cakes made with oil their moistness and keeps the cake light at the same time. That's really what you want in a cake, otherwise it's more like a bread.
 </br>
 </br>
@@ -26,7 +29,7 @@ This one in particular is so simple and comes out perfect every time. No crazy i
 </br>
 </br>
 
-The only thing I modify when I make it is that I don't bake it in Bundt pan. I bake it in two 9 inch cake pans and layer it with frosting in the middle and a nice slathering on top. It ends up looking rustic chic!  If you do like the add ins, this recipe definitely allows for them. So feel free to toss in some raisins, sultanas, currants, coconut shavings and pineapple to taste.
+The only thing I modify when I make it is that I don't bake it in bundt pan. I bake it in two 9 inch cake pans and layer it with frosting in the middle and a nice slathering on top. It ends up looking rustic chic!  If you do like the add ins, this recipe definitely allows for them. So feel free to toss in some raisins, sultanas, currants, coconut shavings and pineapple to taste.
 </br>
 </br>
 ![Carrot cake](/images/uploads/2018_03_24_carrot_cake_5.jpg)
@@ -36,6 +39,7 @@ The only thing I modify when I make it is that I don't bake it in Bundt pan. I b
 </br>
 </br>
 
+### How to bake a carrot cake in a pan
 The change in pan makes for a change in time in the oven. I split the batter between the two pans and baking time is 30-35 minutes depending on your oven, which is different form the original recipe using a Bundt and baking for 50 minutes. The recipe makes 2 nine inch cakes. To make this layered one I made this recipe twice (you can double the recipe if you have 4 pans or make it once and half the recipe for a single cake) and froze one of the layers because I thought 4 layers would be way too much. I also doubled the icing recipe because you can never have too much icing!!
 </br>
 </br>
@@ -55,7 +59,7 @@ It's great for dinner parties, and potlucks. It's a crowd pleaser for sure. The 
 {{< youtube tpmpGQevL5c >}}
 </br>
 
-## Recipe
+### Recipe
 Yields 1 bundt cake or 2 9-inch pan cakes
 </br>
 </br>
