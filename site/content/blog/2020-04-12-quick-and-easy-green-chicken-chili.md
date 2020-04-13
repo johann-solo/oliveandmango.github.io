@@ -47,7 +47,16 @@ The main one is the chicken. I used leftover rotisserie chicken but you can easi
 </br>
 </br>
 
-This green chili is green for a reason - it’s loaded with green peppers and salsa and there are even herbs blended and swirled through the soup making it the perfect lighter springtime chili. I love to thicken it up by puréeing half of the white beans and adding them back to the broth. You can reduce it even further if you like your chili thick but we like ours with a little liquid. Cook it to your preference. It never disappoints and I always regret not making a double batch. Do yourself a favor and make extra because it will be gone before you know it.  
+This green chili is green for a reason - it’s loaded with green peppers and salsa and there are even herbs blended and swirled through the soup making it the perfect lighter springtime chili. I love to thicken it up by puréeing half of the white beans and adding them back to the broth. You can reduce it even further if you like your chili thick but we like ours with a little liquid. Cook it to your preference. It never disappoints and I always regret not making a double batch. Do yourself a favor and make extra because it will be gone before you know it. For more Tabasco recipes [check out out their website](https://www.tabascosauce.ca/).
+</br>
+</br>
+
+I have partnered up with Tabasco to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
+</br>
+</br>
+
+{{< youtube a8Fj6pNmt9A >}}
+</br>
 
 ### Recipe
 Serves 4-6
