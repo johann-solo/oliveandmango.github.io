@@ -60,6 +60,7 @@ It’s a simple throw everything into a pan and let it roast in the oven until d
 * <span itemprop="ingredients">&frac12; tsp oregano </span>
 * <span itemprop="ingredients">8 skin-on bone-in chicken thighs (about 2 pounds)</span>
 * <span itemprop="ingredients">1 large lemon, zested then thinly sliced, seeds removed, plus extra for serving </span>
+* <span itemprop="ingredients">1-2 whole heads of garlic cut in half horizontally </span>
 * <span itemprop="ingredients">4 tbsp of white wine (optional)</span>
 * <span itemprop="ingredients">&frac13; cup of chicken broth or water </span>
 * <span itemprop="ingredients">2 tablespoons olive oil</span>
