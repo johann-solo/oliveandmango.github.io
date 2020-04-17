@@ -78,6 +78,7 @@ Serves 4-6
 * <span itemprop="ingredients">3 tbsp of Tabasco Green Pepper sauce, plus more for serving  </span>
 * <span itemprop="ingredients">4 cups chicken stock, plus more if needed  </span>
 * <span itemprop="ingredients">3 cups cooked shredded chicken (approx two cooked breasts or 4-5 cooked thighs - I used the meat of one small </span>rotisserie chicken)  
+* <span itemprop="ingredients">1 cup of salsa verde </span>
 * <span itemprop="ingredients">15-ounce can cannellini beans, drained</span>
 * <span itemprop="ingredients">&frac12; cup cilantro, plus more for serving  </span>
 * <span itemprop="ingredients">&frac14; cup water</span>
