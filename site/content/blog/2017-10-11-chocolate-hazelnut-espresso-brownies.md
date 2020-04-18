@@ -73,28 +73,33 @@ What could possibly make rich chewy chocolate brownies better? Nutella of course
 <br>
 <br>
 
-If you like a chewy better-than-the-box brownie, you have to try this recipe. It’s so simple, one pot, and a no fuss brownie recipe that will literally knock your socks off. Your welcome!
+If you like a chewy better-than-the-box brownie, you have to try this recipe. It’s so simple, one pot, and a no fuss brownie recipe that will literally knock your socks off. You’re welcome!
 <br>
 <br>
 ![Chocolate Hazelnut Espresso Brownies](/images/uploads/2017_10_11_chocolate_hazelnut_espresso_brownies_15.jpg)
 <br>
 <br>
 
+{{< youtube -uCusrtdx8k >}}
+
+</br>
+
+### Recipe
 ### Ingredients
 
-* &frac12; cup (1 stick) plus two extra tbsp of unsalted butter
-* 6 ounces bitter or semisweet chocolate chopped
-* 2/3 cup of granulated sugar
-* &frac12; cup dark brown sugar
-* 2 eggs
-* 1 egg yolk
-* &frac12; tsp vanilla extract
-* 1 tbsp of strong coffee or espresso (I used Roastel concentrated cold brew )
-* &frac12; cup of AP flour
-* &frac12; tsp salt
-* &frac14; tsp baking powder
-* &frac14; cup Nutella or any other hazelnut spread
-* 1 tsp of coarse sea salt to sprinkle over brownies after they come out of the oven
+* <span itemprop="ingredients">&frac12; cup (1 stick) plus two extra tbsp of unsalted butter for greasing pan </span>
+* <span itemprop="ingredients">6 ounces bitter or semisweet chocolate chopped</span>
+* <span itemprop="ingredients">&frac23; cup of granulated sugar</span>
+* <span itemprop="ingredients">&frac12; cup dark brown sugar</span>
+* <span itemprop="ingredients">2 eggs</span>
+* <span itemprop="ingredients">1 egg yolk</span>
+* <span itemprop="ingredients">&frac12; tsp vanilla extract</span>
+* <span itemprop="ingredients">1 tbsp of strong coffee or espresso (I used Roastel concentrated cold brew )</span>
+* <span itemprop="ingredients">&frac12; cup of AP flour</span>
+* <span itemprop="ingredients">&frac12; tsp salt</span>
+* <span itemprop="ingredients">&frac14; tsp baking powder</span>
+* <span itemprop="ingredients">&frac14; cup Nutella or any other hazelnut spread</span>
+* <span itemprop="ingredients">1 tsp of coarse sea salt to sprinkle over brownies after they come out of the oven</span>
 
 ### Directions
 

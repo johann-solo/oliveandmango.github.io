@@ -104,15 +104,15 @@ __for prepping the lamb before roasting__
 
 1. Wash lamb well and pat dry and place in a glass dish or sturdy sealable plastic bag large enough to hold the lamb.
 1. In a small bowl whisk together all the marinade ingredients and  pour into the the bag or dish the lamb is in.  Turn to coat and massage the lamb with it and seal bag/dish and allow to marinate refrigerated for a few hours up to two days. (the longer the better esp to help with gaminess and tenderness of lamb)
-1. Once ready to roast preheat oven to 400&deg;F and prepare the lamb for baking. 
+1. Once ready to roast remove lamb from fridge and allow to come to room temperature then preheat oven to 400°F and prepare the lamb for baking. 
 1. In a small bowl mix together the garlic, oregano, rosemary, butter, honey and Dijon mustard and set aside 
 1. Remove lamb from marinade (keep marinade) and pierce the lamb all over with the tip of a sharp knife
 1. Rub garlic butter-herb-mustard mixture over lamb, pressing into incisions.
 1. Coat with remaining 2 tbsp of oil and sprinkle with salt and pepper.
 1. Line a roasting pan with a few layers of foil, place a rack over foil and transfer the lamb to rack. 
-1. Pour the marinade kept from the lamb into the pan for aromatics and steam.
-1. Roast, uncovered, at 400&deg;F for 15 minutes to brown and then reduce heat to 375&deg;F approx 1½ hours, turn lamb over to make a crust on the other side, and continue to roast for another 45 minutes (total roasting time is approx 2 hours and 15 minutes and roughly 20 minutes per lb. Internal temp for medium to well done should be approx 160-170&degF)
-1. Once done let lamb rest tented with foil for at least ten minutes then squeeze lemon juice over it, slice and serve. Slice and serve with the extra lemon wedges.
+1. Pour the marinade left over from the lamb into the pan for aromatics and steam.
+2. Roast, uncovered, at 400°F for 15 minutes to brown and then reduce heat to 375°F approx 1½ hours, turn lamb over (optional) to make a crust on the other side, and continue to roast for another 45 minutes turning it back for the last bit of coking time (total roasting time is approx 2 hours and 15 minutes and roughly 20 minutes per lb. Internal temp for medium to well done should be approx 160-170&degF). If the lamb gets to dark too quickly feel free to loosely tent lamb for remaining cooking time. 
+3. Once done let lamb rest tented with foil for at least ten minutes then squeeze lemon juice over it, slice and serve. Slice and serve with the extra lemon wedges.
 
 
 ![Greek Style Roasted Lamb](/images/uploads/2018_03_25_greek_style_roasted_lamb_12.jpg)
