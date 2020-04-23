@@ -7,9 +7,11 @@ scaled_thumbnail: /images/uploads/2018_08_19_chocolate_chunk_zucchini_bread_0.jp
 categories: ["bread"]
 tags: ["chocolate", "zucchini"]
 excerpt: The ultimate ultra fudgey zucchini bread
+keywords: ["zucchini bread", "chocolate bread", "homemade bread", "homemade zucchini bread"]
+description: A simple recipe for super moist and delicious chocolate zucchini bread.
 ---
 
-With the exception of my [banana bread](https://www.oliveandmango.com/no-fail-banana-bread/) , this zucchini one has been the most requested by you guys and of course my family. It blew up on instagram and I was sorry I didn’t have the post ready sooner than when I posted the teaser picture of it. There is no question why this is so popular. It’s fabulously moist from the fresh zucchini baked right into it and so rich and chocolatey from the cocoa and the chocolate chunks.
+With the exception of my [banana bread](https://www.oliveandmango.com/no-fail-banana-bread/), this zucchini one has been the most requested by you guys and of course my family. It blew up on instagram and I was sorry I didn’t have the post ready sooner than when I posted the teaser picture of it. There is no question why this is so popular. It’s fabulously moist from the fresh zucchini baked right into it and so rich and chocolatey from the cocoa and the chocolate chunks.
 </br>
 </br>
 ![Chocolate Chunk Zucchini Bread](/images/uploads/2018_08_19_chocolate_chunk_zucchini_bread_2.jpg)
@@ -65,6 +67,9 @@ It’s absolutely delicious and we love it to snack on but even more for breakfa
 
 You most definitely need to add this to your list of things to make with all the zucchini in your garden or your friends garden or the plethora still at the market and grocery store. I have two other things you must make with all your zucchini as well. These fabulous [zucchini fritters](https://www.oliveandmango.com/zucchini-fritters/) and you must absolutely make this [zucchini tart with whipped feta and chives](https://www.oliveandmango.com/zucchini-tart-with-whipped-feta-and-chives/). Have fun making all the delicious things with zucchini including this bread! I know you will love it!
 </br>
+</br>
+
+{{< youtube NwDhSzCP_iU >}}
 </br>
 
 ## Recipe
