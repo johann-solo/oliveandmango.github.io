@@ -41,6 +41,9 @@ I mentioned this recipe is versatile and customizable. You can definitely switch
 </br>
 </br>
 
+{{< youtube MRq5EzhLCvs >}}
+</br>
+
 ### Basic ingredients
 <div>
 <div><input type="checkbox" class="ingredients_check" id="Pierogies" ><label for="Pierogies">Pierogies</label></div>

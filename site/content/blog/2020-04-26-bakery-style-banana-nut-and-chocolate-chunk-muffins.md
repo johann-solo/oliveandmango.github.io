@@ -46,6 +46,9 @@ This is a great standard banana muffin recipe that you are welcome to keep the s
 </br>
 </br>
 
+{{< youtube Hu_ta2xQobc >}}
+</br>
+
 ### Basic ingredients
 <div>
 <div><input type="checkbox" class="ingredients_check" id="Bananas"><label for="Bananas">Bananas</label></div>

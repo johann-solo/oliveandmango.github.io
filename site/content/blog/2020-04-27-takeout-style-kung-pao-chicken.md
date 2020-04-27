@@ -77,6 +77,9 @@ Let talk more about the details of this recipe. Usually this dish is stir fried 
 </br>
 </br>
 
+{{< youtube nI7Q114v2s8 >}}
+</br>
+
 ### Recipe
 Serves 4-6
 </br>
@@ -129,5 +132,6 @@ __For the stir fry__
 1. Stir in green onions, peanuts and sesame oil. Toss well and continue to cook for another 2 minutes.
 1. Serve immediately with rice or noodles.
 
+Adapted from _Cafe Delites_ and _Recipe Tin Eats_
 </br>
 ![Takeout Style Kung Pao Chicken](/images/uploads/2020_04_27_takeout_style_kung_pao_chicken_7.jpg)
