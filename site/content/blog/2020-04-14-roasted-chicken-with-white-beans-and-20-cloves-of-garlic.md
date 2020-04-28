@@ -71,7 +71,7 @@ It’s a simple throw everything into a pan and let it roast in the oven until d
 ### Directions
 
 1. Preheat to 425°F. Toss beans, and capers and lemon zest in a 13x9" baking dish and spread out evenly on bottom of pan and season with salt and pepper. 
-1. Pat chicken dry and season with salt, pepper and oregano.  Spread 1 tsp. mustard on skin of each chicken thigh and nestle, skin side up, into beans and capers. Arrange lemon slices under and around chicken then arrange garlic head halves in pan and add enough water (about &frac13; cup) to come up sides of chicken by &frac12;". Drizzle chicken with oil and season whole dish with a little more salt and pepper.
+1. Pat chicken dry and season with salt, pepper and oregano.  Spread 1 tsp. mustard on skin of each chicken thigh and nestle, skin side up, into beans and capers. Arrange lemon slices under and around chicken then add wine if using and enough water or broth. Arrange garlic head halves in pan and add enough water (about &frac13; cup) to come up sides of chicken by &frac12;". Drizzle chicken with oil and season whole dish with a little more salt and pepper.
 1. Roast chicken, stirring and shaking dish halfway through, until skin is browned and an instant-read thermometer inserted into thickest part of chicken registers 165°F, about 45-50 minutes. 
 1. Transfer chicken, beans, lemon slices, and capers to a serving platter. Toss the beans with the fresh parsley dill and scallions and serve with chicken and extra lemon wedges.
 2. Bonus - serve with chopped preserved lemon for more lemony zing
