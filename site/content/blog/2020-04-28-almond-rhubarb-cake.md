@@ -14,27 +14,27 @@ description: A fabulous crispy edged tender rhubarb cake, sweet with a nice tart
 The first sign of rhubarb at the grocery store or in your garden calls for a simple yet irresistible almond rhubarb tea cake. Tender crumb, crispy edges with just enough sweet and a nice tartness from the rhubarb. It’s buttery but not too rich, the perfect spring time dessert to enjoy with tea or coffee.
 </br>
 </br>
-![Almond Rhubarb Cake](/images/uploads/2020_04_28_almond_rhubarb_cake_2.jpg)
+![A single slice of Almond Rhubarb Cake](/images/uploads/2020_04_28_almond_rhubarb_cake_2.jpg)
 </br>
 </br>
 
 I love tea cakes like this with loads of almond flour or almond meal in them. I have a [strawberry one on the blog](https://www.oliveandmango.com/strawberry-almond-tea-cake/) that is also so delicious that I know you will love . It gives the cake a really delicious, distinct flavour and texture. It’s light, tasty with a nice crumb and it’s not too sweet which is actually quite dangerous - expect to eat a few slices at a time or be warned - either way. 
 </br>
 </br>
-![Almond Rhubarb Cake](/images/uploads/2020_04_28_almond_rhubarb_cake_3.jpg)
+![Almond Rhubarb Cake ingredients on a table](/images/uploads/2020_04_28_almond_rhubarb_cake_3.jpg)
 </br>
 </br>
-![Almond Rhubarb Cake](/images/uploads/2020_04_28_almond_rhubarb_cake_4.jpg)
+![Unbaked Almond Rhubarb Cake](/images/uploads/2020_04_28_almond_rhubarb_cake_4.jpg)
 </br>
 </br>
 
 My go to almond flour is as you know by Bob’s Red Mill. <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/almond-meal-flour.html">Bob’s Red Mill Super Fine Almond flour</a></span> is made from California grown almonds, great for gluten free baking and perfect for paleo and grain free baking recipes as well. The texture it gives things is always pleasing and I also love the slight nuttiness if adds to anything you bake with it including this almond rhubarb tea cake. Bob’s Red Mill has all the products you need for all your baking needs while catering to those in your family who have specific food allergies. Their flours come in stone-ground, whole grain, organic, gluten free, paleo, and vegan options, perfect for any spring recipes. 
 </br>
 </br>
-![Almond Rhubarb Cake](/images/uploads/2020_04_28_almond_rhubarb_cake_5.jpg)
+![A baked Almond Rhubarb Cake](/images/uploads/2020_04_28_almond_rhubarb_cake_5.jpg)
 </br>
 </br>
-![Almond Rhubarb Cake](/images/uploads/2020_04_28_almond_rhubarb_cake_6.jpg)
+![Close up of Almond Rhubarb Cake](/images/uploads/2020_04_28_almond_rhubarb_cake_6.jpg)
 </br>
 </br>
 
