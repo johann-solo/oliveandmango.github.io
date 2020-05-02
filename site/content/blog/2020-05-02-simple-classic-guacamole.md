@@ -38,7 +38,7 @@ Fresh ingredients are a must, and lots of lime to add lots of flavour and to kee
 The recipe below is how I make it always. I don’t add sour cream or mayo or any thing like that. I actually don’t even add tomatoes which many people love to add to it. Just my choice. I find they get a little soggy and I dislike the texture of them in it. If you don’t mind the texture of them in your guacamole then they are definitely a great add in. A few other things I add sometimes are a clove of garlic grated, chopped green onions or chives and extra peppers for more heat and flavour. If I’m organised and plan ahead I even like to roast my garlic and jalapeños which adds a smoky and fabulous flavour to the guacamole. 
 </br>
 </br>
-![How to make guacamole](/images/uploads/2020_05_02_simple_classic_guacamole_3.jpg)
+![How to make guacamole](/images/uploads/2020_05_02_simple_classic_guacamole_5.jpg)
 </br>
 </br>
 
