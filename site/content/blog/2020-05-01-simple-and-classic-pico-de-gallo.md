@@ -11,7 +11,7 @@ keywords: ["Mexican salsa", "Mexican snacks", "salsa"]
 description: An easy recipe for classic pico de gallo, a fresh and additive Mexican salsa with only 6 ingredients 
 ---
 
-The salsa that keeps you coming back for more. Im always fascinated how so few ingredients can make something so totally addictive. Pico de Gallo is simple to make with very few ingredients but all of them combined make this salsa truly irresistible. 
+The salsa that keeps you coming back for more. I'm always fascinated how so few ingredients can make something so totally addictive. Pico de Gallo is simple to make with very few ingredients but all of them combined make this salsa truly irresistible. 
 </br>
 </br>
 ![Pico De Gallo plated](/images/uploads/2020_05_01_simple_and_classic_pico_de_gallo_2.jpg)
