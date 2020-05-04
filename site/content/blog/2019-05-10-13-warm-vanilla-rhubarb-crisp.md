@@ -56,11 +56,11 @@ When I was in Trinidad and didn’t have access to it - I used pomerac/rose appl
 * <span itemprop="ingredients"> 1 cup of raspberries, frozen or fresh </span>
 * <span itemprop="ingredients"> &frac14; cup of cornstarch or tapioca flour (optional if you like a thick fruit filling) 
 For the topping </span>
-* <span itemprop="ingredients"> 1 cup almond flour/ or all purpose alternatively </span>
-* <span itemprop="ingredients"> &frac12; cup rolled oats</span>
+* <span itemprop="ingredients"> &frac23; cup almond flour/ or all purpose alternatively </span>
+* <span itemprop="ingredients"> &frac23; cup rolled oats</span>
 * <span itemprop="ingredients"> &frac12; cup of almonds chopped </span>
-* <span itemprop="ingredients"> &frac12; cup butter</span>
-* <span itemprop="ingredients"> 2 tablespoons coconut sugar or brown sugar </span>
+* <span itemprop="ingredients"> 6 tablespoons butter, cut into small pieces</span>
+* <span itemprop="ingredients"> &frac34; cup coconut sugar or brown sugar </span>
 * <span itemprop="ingredients"> &frac12; teaspoon vanilla extract</span>
 * <span itemprop="ingredients"> Pinch of cardamom </span>
 * <span itemprop="ingredients"> Pinch of salt</span>
