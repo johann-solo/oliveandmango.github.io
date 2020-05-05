@@ -8,7 +8,7 @@ categories: ["snacks"]
 tags: ["Latin", "Mexican", "avocados"]
 excerpt: An irresistible avocado based dip served either creamy or left chunky with chips, crackers, or crudities
 keywords: ["avocado dips", "homemade guacamole"]
-description: An irresistible homemade avocado based dip served either creamy or left chunky with chips, crackers, or crudities> Make a perfect, simple homemade guacamole every time.
+description: An irresistible homemade avocado based dip served either creamy or left chunky with chips, crackers, or crudities Make a perfect, simple homemade guacamole every time.
 ---
 
 The one snack I never tire of is chips and dip. Crispy salty chips that are really a mode to getting more of that dip in your mouth. My favourite combo is tortilla chips and guacamole. I could make a meal out of those two. 
@@ -47,6 +47,9 @@ Texture is completely all preference. Some like it super smooth and done in a fo
 </br>
 </br>
 ![How to make guacamole](/images/uploads/2020_05_02_simple_classic_guacamole_7.jpg)
+</br>
+</br>
+{{< youtube hykJZC8-Axs >}}
 </br>
 </br>
 

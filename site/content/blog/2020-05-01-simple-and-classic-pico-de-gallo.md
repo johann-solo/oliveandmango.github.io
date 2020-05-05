@@ -48,6 +48,9 @@ It’s super quick to whip up and it uses very basic ingredients. It’s the per
 ![Pico De Gallo and tortillas](/images/uploads/2020_05_01_simple_and_classic_pico_de_gallo_6.jpg)
 </br>
 </br>
+{{< youtube x8ehg2FEMq8 >}}
+</br>
+</br>
 
 ### Recipe
 Makes approximately 3 cups 
