@@ -21,7 +21,7 @@ This is a cinnamon-scented twist on apple pie which is fun to make and always wo
 </br>
 </br>
 
-I was thrilled to partner up with E.D. Smith to make a fabulous pie using their apple pie filling. I wanted to make some that incorporates the classic flavours of an apple pie but with a very fun twist.  Mission accomplished if you ask me. I have wanted to make this cinnamon twist/roll pie since last year.  I’m late to the game - this isn’t new - I have seen many versions of this all over the net but I found one I particularly liked via the one and only Martha Stewart. Her version makes a huge slab pie. I liked her version because the twists get super crispy and delicious as opposed to some recipes that use actual cinnamon bun dough that creates a fluffy pie crust. Not opposed too that idea at all and may have to try it as well in the future but I wanted a crispy edged crust for this pie. 
+I was thrilled to partner up with E.D. Smith to make a fabulous pie using their apple pie filling. I wanted to make some that incorporates the classic flavours of an apple pie but with a very fun twist.  Mission accomplished if you ask me. I have wanted to make this cinnamon twist/roll pie since last year. I’m late to the game - this isn’t new - I have seen many versions of this all over the net but I found one I particularly liked via the one and only Martha Stewart. Her version makes a huge slab pie. I liked her version because the twists get super crispy and delicious as opposed to some recipes that use actual cinnamon bun dough that creates a fluffy pie crust. Not opposed too that idea at all and may have to try it as well in the future but I wanted a crispy edged crust for this pie. 
 </br>
 </br>
 ![Cinnamon Roll Apple Pie](/images/uploads/2019_12_05_cinnamon_roll_apple_pie_3.jpg)
@@ -76,9 +76,9 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 
 1. On a lightly floured surface, roll out 1 piecrust into 12 inch circle, and place in an greased 9 inch glass/ceramic pie plate. Press firmly against side and bottom of pie plate folding extra crust underneath and pressing on top of rim of pie plate. Crimp edges or leave flat. Use a fork to pierce the crust gently all over the bottom and up the sides of the pie and then refrigerate.
 
-2. In a small bowl, mix 4 tablespoons of cinnamon and 2 tablespoons of sugar. On lightly floured surface roll the other piecrust into an oblong shape or as close to a rectangle as possible. Brush with the melted butter and sprinkle with the sugar and the cinnamon mixture to within quarter inch of the edges. Starting at the longest edge tightly roll into a log, pressing seam together and pinching ends to seal. Refrigerate until firm, about 30 minutes.
+2. In a small bowl, mix 4 teaspoons of cinnamon and 2 tablespoons of sugar. On lightly floured surface roll the other piecrust into an oblong shape or as close to a rectangle as possible. Brush with the melted butter and sprinkle with the sugar and the cinnamon mixture to within quarter inch of the edges. Starting at the longest edge tightly roll into a log, pressing seam together and pinching ends to seal. Refrigerate until firm, about 30 minutes.
 
-3. Preheat the oven to 400°F; please large cookie sheet on bottom rack of the oven to catch any drippings.
+3. Preheat the oven to 400°F; place large cookie sheet on bottom rack of the oven to catch any drippings.
 
 4. Remove pie and pie plate from the fridge and fill with the apple pie filling and set aside for a minute while you cut the dough log. Remove dough log from fridge and trim ends of it and then cut it into approximately 40 slices. Arrange slices over apple mixture, brush the pie crust edges and the slices with egg wash and sprinkle with turbinado sugar. (*If you need extra cinnamon rolls refrigerate pie while you make more)  
 
