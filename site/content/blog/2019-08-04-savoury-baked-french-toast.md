@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_08_04_savoury_baked_french_toast_1.jpg
 scaled_thumbnail: /images/uploads/2019_08_04_savoury_baked_french_toast_0.jpg
 categories: ["breakfast"]
-tags: ["bacon"]
+tags: ["bacon", "French toast", "cheese"]
 excerpt: A savoury dish loaded with caramelized onions, cheddar, and bacon
 keywords: ["bacon", "savoury"]
 description: A savoury dish loaded with caramelized onions, cheddar, and bacon
