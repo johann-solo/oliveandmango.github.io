@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_09_30_baked_blueberry_french_toast_1.jpg
 scaled_thumbnail: /images/uploads/2018_09_30_baked_blueberry_french_toast_0.jpg
 categories: ["breakfast"]
-tags: ["toast", "berries", "blueberries"]
+tags: ["toast", "berries", "blueberries", "French toast"]
 excerpt: A showstopping breakfast you can make in advance
 ---
 
