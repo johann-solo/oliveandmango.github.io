@@ -51,6 +51,12 @@ The options are truly endless. I love adding berries. But you can add other thin
 </br>
 
 It comes together so quickly and is such a treat to enjoy for breakfast or brunch. It’s customizable and leftovers can easily be reheated in the oven or pan fried in a bit of butter the next day. We serve it with a dusting  of powered sugar and maple syrup. But it’s great with whip cream as well and extra fruit on these side. Hope you enjoy it!
+</br>
+</br>
+
+{{< youtube xYKZka5MzCk >}}
+</br>
+</br>
 
 ### Recipe
 Serves 8
