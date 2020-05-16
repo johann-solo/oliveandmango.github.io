@@ -7,6 +7,7 @@ scaled_thumbnail: /images/uploads/2018_02_01_chocolate_orange_cake_0.jpg
 categories: ["desserts"]
 tags: ["cakes", "chocolate", "oranges", "feedfeed", "citrus"]
 excerpt: A decadent and zesty twist to a classic chocolate cake
+description: This chocolate orange cake is a zesty twist on a classic chocolate cake.   
 ---
 
 It’s citrus season all over and I can’t get enough. I really don’t get sick of citrus and need it all year round and this is one way to incorporate some more citrus and vitamin C into your diet quite easily and deliciously. Joking! I think it’s totally counteracted by all the sugar but you can tell yourself whatever you like to justify a second or third slice of this beauty!
@@ -58,40 +59,46 @@ Such a simple cake to whip up as well. No sifting taking place and things just g
 
 We loved this cake and it felt like a special occasion kind of cake without the fuss that most of those kinds of cakes require. Hope you give it a try and love it just as much as we did! 
 <br>
+<br>
 
+### Recipe
 ### Ingredients
 
 **For the cake**
 
-* 1&frac34; cups all purpose flour
-* 2 cups granulated sugar
-* &frac34; cup of unsweetened cocoa powder
-* 1&frac12; tsp baking powder
-* 1&frac12; tsp baking soda
-* 1 tsp salt
-* 2 large eggs
-* 1 cup whole milk
-* &frac12; cup coconut oil or other vegetable oil
-* 1 tsp of pure vanilla extract
-* 1 tsp pure orange extract
-* 1 cup hot freshly squeezed or prepared 100 percent pure orange juice
+* <span itemprop="ingredients">1&frac34; cups (210g) all purpose flour</span>
+* <span itemprop="ingredients">2 cups (396g) granulated sugar</span>
+* <span itemprop="ingredients">&frac34; cup (63g) of unsweetened cocoa powder</span>
+* <span itemprop="ingredients">1&frac12; tsp (6g) baking powder</span>
+* <span itemprop="ingredients">1&frac12; tsp (9g) baking soda</span>
+* <span itemprop="ingredients">1 tsp (5.69g) salt</span>
+* <span itemprop="ingredients">2 large eggs</span>
+* <span itemprop="ingredients">1 cup (244g) whole milk</span>
+* <span itemprop="ingredients">&frac12; cup (99g) coconut oil or other vegetable oil</span>
+* <span itemprop="ingredients">1 tsp (4.7g) of pure vanilla extract</span>
+* <span itemprop="ingredients">1 tsp (4.7g) pure orange extract</span>
+* <span itemprop="ingredients">1 cup (236.5g) hot freshly squeezed or prepared 100 percent pure orange juice</span>
 
 **For the Chocolate orange cream cheese frosting**
 
-* 2&frac12; cups Powdered sugar (approx 340 grams)
-* 8 tbsp of butter or one stick at room temperature
-* &frac12; cup Unsweetened cocoa powder (approx 50 grams)
-* 4 tbsp of very hot orange juice
-* &frac14; tsp vanilla extract
-* &frac14; tsp of orange extract (optional but gives the frosting a little more pronounced orange flavour)
-* 4 oz of cream cheese at room temperature‐ can add a little more to suit taste and texture of frosting (approx half or &frac34; of a regular pack)
+* <span itemprop="ingredients">2&frac12; cups Powdered sugar (approx 284 grams)</span>
+* <span itemprop="ingredients">8 tbsp (113g) of butter or one stick at room temperature</span>
+* <span itemprop="ingredients">&frac12; cup Unsweetened cocoa powder (approx 50 grams)</span>
+* <span itemprop="ingredients">4 tbsp (59g) of very hot orange juice</span>
+* <span itemprop="ingredients">&frac14; tsp (1.17g) vanilla extract</span>
+* <span itemprop="ingredients">&frac14; tsp (1.17) of orange extract (optional but gives the frosting a little more pronounced orange flavour)</span>
+* <span itemprop="ingredients">4 oz (113g) of cream cheese at room temperature‐ can add a little more to suit taste and texture of frosting (approx </span>half or &frac34; of a regular pack)
+
+Note: All conversions are approximate
+<br>
+<br>
 <br>
 
 ### Directions
 
 1. Preheat oven to 350&deg;F
 
-1. Grease two 8‐9 inch round cake pans and line with parchment paper rounds, grease the parchment and then lightly dust with some cocoa powder
+1. Grease two 9 inch round cake pans and line with parchment paper rounds, grease the parchment and then lightly dust with some cocoa powder
 
 1. In a large mixing bowl whisk all the dry ingredients together until everything is well incorporated.
 
@@ -110,18 +117,39 @@ While cakes cool make the frosting. In a large bowl cream the butter and sugar t
 
 1. Beat in the cream cheese until smooth and whipped.
 
-1. Refrigerate until firm so that it’s easier to spread (that is especially true if you’re living in a hot climate like I am when frosting can get super messy)
+2. Refrigerate until firm so that it’s easier to spread
 
-1. To assemble, place one layer on a serving plate and then frost the top of the first layer, stack the second cake on top of the frosting gently and then frost the top layer as well. You can leave it rustic like that with two thicker layers of frosting in between layers and on top or you can spread the top layer of frosting bringing down the sides to evenly coat the sides. Either way is delicious.
+3. To assemble, place one layer on a serving plate and then frost the top of the first layer, stack the second cake on top of the frosting gently and then frost the top layer as well. You can leave it rustic like that with two thicker layers of frosting in between layers and on top or you can spread the top layer of frosting bringing down the sides to evenly coat the sides. Either way is delicious.
 
-1. Refrigerate cake until ready to serve. Frosting gets very soft and gooey at room temperature, but is fabulously delicious.
+4. Refrigerate cake until ready to serve. Frosting gets very soft and gooey at room temperature, but is fabulously delicious.
 Decorate with candied orange slices if you wish and sprinkle cake with shaved dark chocolate. Both of these are optional.  
+</br>
+</br>
 
-## For the candied orange slices
+### Recipe Notes
+### Make ahead instructions:
+Prepare cakes and frosting 1 day in advance. Keep cakes at room temperature, covered tightly/wrapped in plastic wrap after they have reached room temperature. Refrigerate prepared frosting in an airtight container, then bring to room temperature when ready to frost cake
+</br>
+</br>
+
+### Freezing unfrosted cake (great for if you want to make both layers and save one for another occasion):
+Make sure your cakes are completely cool before freezing. 
+When you’re certain that your cake is cool, wrap it in plastic wrap (two layers is always recommended) or store in resealable plastic freezer bags. You can freeze a cake in its pan if you like. Just wrap the pan entirely in plastic wrap then aluminum foil. You can keep unfrosted cakes in the freezer for 2 months. When you’re ready to eat, defrost in the fridge until thawed.
+</br>
+</br>
+
+### How to convert two 9 inch cakes to cupcakes:
+* Keep recipe and baking temperature the same. 
+* Yields approx 24-30 cupcakes from an average cake recipe (one that would usually make two 9-inch rounds or one 9×13-inch cake). 
+* Bake the cupcakes between 15-20 minutes. I usually check doneness at the 15 minute mark and keep a close eye on them after that. 
+</br>
+</br>
+
+### For the candied orange slices
 ### Ingredients
 
-* 1 cup of water
-* 2 cups sugar
+* 1 cup (237g) of water
+* 2 cups (396g) sugar
 * 10‐12 slices of orange that are very finely sliced either with a sharp knife or a mandolin and deseeded (2‐3 oranges allowing for error)
 <br>
 
