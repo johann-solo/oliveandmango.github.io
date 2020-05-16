@@ -36,6 +36,10 @@ I’m pretty sure you have some zucchini laying around - probably a little too s
 </br>
 </br>
 
+{{< youtube KL1QHTz57Vk >}}
+</br>
+</br>
+
 ## Recipe
 
 ### Ingredients
@@ -57,7 +61,7 @@ I’m pretty sure you have some zucchini laying around - probably a little too s
 
 ### Directions
 1. Preheat the oven to 350˚F and grease your loaf pan or line with parchment paper for easy removal. 
-2. In a medium whisk together the flour, baking powder, baking soda, salt and spices. 
+2. In a medium bowl whisk together the flour, baking powder, baking soda, salt and spices. 
 3. In a separate medium sized bowl, whisk together the eggs, sugars, vanilla and oil until well combined. 
 4. Add zucchini to the flour mixture and toss to coat. Then add the dry ingredients to the wet and stir with a wooden spoon or spatula until combined. Fold in walnuts and chocolate chips   Pour into pan. Bake until toothpick comes out clean, about 45 minutes to 1 hour.
 5. Allow to cool on cooling rack for 10 minutes before inverting it removing it from the loaf pan. Cool completely on the rack, then slice and enjoy. 

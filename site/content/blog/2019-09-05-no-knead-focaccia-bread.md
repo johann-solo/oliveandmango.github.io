@@ -50,8 +50,12 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="http://
 </br>
 </br>
 
+{{< youtube EXYumqWN63A >}}
+</br>
+</br>
+
 ## Recipe
-Makes Two 9-inch round focaccia
+Makes Two 9-inch round focaccia or one 9x13 
 </br>
 </br>
 
@@ -81,10 +85,24 @@ __For the Fig, Caramelized Onions, Goat Cheese + Rosemary (divide ingredients be
 
 ### Directions
 
-1. In a large bowl, whisk together the flour, salt, and instant yeast. Add the water and then mix with a rubber spatula or wooden spoon until the liquid is absorbed and the ingredients form a sticky dough ball. Cover the bowl with a damp tea towel or plastic wrap and place in the refrigerator immediately for at least 12 hours and up to 24. 
-2. Grease two 8 or 9-inch pie plates or skillets with butter or olive oil and then line the bottom with parchment paper as well especially if you are using a skillet. Pour a tablespoon of oil into the center of each pan. Lightly punch down dough to deflate and gently work it into a rough ball. Use a dough cutter or knife to split the dough into two equal pieces. Place one piece into one of the prepared pans. Roll the dough ball in the oil to coat it all over, forming a rough ball. Repeat with the remaining dough mass. Let the dough balls rest for 2 to 4 hours depending on the temperature of your kitchen until they have risen to fill the pie plates or skillets. 
-3. Preheat oven to 425°F. Pour another tablespoon of oil over each round of dough. Rub your fingers lightly in the oil to coat, then use them to press straight down to create deep dimplesl Sprinkle with flaky sea salt all over and along with any toppings you may want to add. If using toppings make sure to press them into the dough slightly. 
+1. In a large bowl, whisk together the flour, salt, and instant yeast. Add the water and then mix with a rubber spatula or wooden spoon until the liquid is absorbed and the ingredients form a sticky dough ball &ast;. Pour a little oil over dough and use hands to gently roll it in the bowl to fully coat it. Cover the bowl with a damp tea towel or plastic wrap and place in the refrigerator immediately for at least 12 hours and up to 24. 
+2. Grease two 8 or 9-inch pie plates or skillets with butter or olive oil and then line the bottom with parchment paper as well especially if you are using a skillet. Pour a tablespoon of oil into the center of each panand a little on your hands. Lightly punch down dough to deflate and gently work it into a rough ball. Use a dough cutter or knife to split the dough into two equal pieces. Place one piece into one of the prepared pans. Roll the dough ball in the oil to coat it all over, forming a rough ball. Repeat with the remaining dough mass. Let the dough balls rest for 2 to 4 hours depending on the temperature of your kitchen until they have risen to fill the pie plates or skillets. 
+3. Preheat oven to 425°F. Pour another tablespoon of oil over each round of dough. Rub your fingers lightly in the oil to coat, then use them to press straight down to create deep dimples into the dough. Sprinkle with flaky sea salt all over and along with any toppings you may want to add. If using toppings make sure to press them into the dough slightly. 
 4. Transfer the pans to the oven and bake for 25 to 30 minutes, until they  are golden and crisp underneath. Remove the pans from the oven and transfer to cooling racks. Allow to cool for 10 minutes before removing from pan, cutting and serving
+</br>
+
+### Recipe Note: 
+
+### &ast; Focaccia Trouble Shooting
+
+### The Rise
+The key with any yeasted bread is patience. The temperature and humidity in a room can directly determine how long the rise time will be. The recipe calls for 2-4 hours of rising time but if it’s rising in a cold dry spot it could take all day. Keeping that in mind choose the warmest spot in the house to let the dough rise - and wrap with a damp towel over the bowl if your house or area is particularly dry. I like to keep mine over or in a slightly warm oven - repeat slightly warm not even remotely hot. And wrapped in a damp towel if I’m finding it difficult to get a warm spot in my kitchen and not getting a rise out of the dough.
+
+### Measurements
+The measurements here are also in cups. I do most of my recipes like that as I have found that most of you like myself (before I started baking as much) use cup measurements not by weight. It’s also a pretty standard way of measuring things in North America. When it comes to breads and baked goods ideally weighing out all the ingredients is the more accurate way to go and will yield the most consistent results but most home bakers don’t own a scale so my recipes are geared towards simple recipes that don’t require one. So if you find that your dough isn’t quite as sticky as it should be feel free to add a more lukewarm water to the dough - 1 tbsp at a time as needed. 
+
+### Pan size
+This recipe calls for making it in two 9 inch baking pans or skillets. 9 inch pie dishes or cake pans can also be used. A 9 inch spring form pan can also be use but I strongly recommend lining it with parchment paper and baking it on a sheetpan as the olive oil will leak through it. You can also make this recipe in a 9x13 pan as well just do not separate the dough.
 
 </br>
 <a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
