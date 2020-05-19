@@ -60,6 +60,12 @@ I love how versatile these are and how simple they are to make. They can easily 
 </br>
 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://goldseal.ca">Gold Seal</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
+</br>
+</br>
+
+{{< youtube xQgIlg-Hei4 >}}
+</br>
+</br>
 
 ### Recipe
 Makes 10 fresh spring rolls 
