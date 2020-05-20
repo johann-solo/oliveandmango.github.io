@@ -1,4 +1,4 @@
-# Mediavine Ads.txt v20200224
+# Mediavine Ads.txt v20200428
 mediavine.com, 6603, DIRECT, 1363c924529b3998
 aps.amazon.com, 38918095-8e45-4332-88bf-226b3514cb64, DIRECT
 districtm.io, 100962, RESELLER
@@ -16,8 +16,9 @@ contextweb.com, 562036, DIRECT, 89ff185a4c4e857c
 adtech.com, 9560, DIRECT
 aolcloud.net, 9560, DIRECT
 appnexus.com, 1314, RESELLER, f5ab79cb980f11d1
-triplelift.com, 4116, DIRECT, 6c33edb13117fd86
+triplelift.com, 4203, DIRECT, 6c33edb13117fd86
 triplelift.com, 4116-EB, DIRECT, 6c33edb13117fd86
+triplelift.com, 4116, DIRECT, 6c33edb13117fd86
 sovrn.com, 217201, DIRECT, fafdf38b16bf6b2b
 lijit.com, 217201, DIRECT, fafdf38b16bf6b2b
 lijit.com, 217201-eb, DIRECT, fafdf38b16bf6b2b
@@ -50,4 +51,6 @@ rhythmone.com, 3408527385, DIRECT, a670c89d4a324e47
 revcontent.com, 130321, DIRECT
 themediagrid.com, U1NDYR, DIRECT, 35d5010d7789b49d
 improvedigital.com, 1625, DIRECT
+33across.com, 0014000000xvEfwAAE, DIRECT, bbea06d9c4d2853c
+conversantmedia.com, 41025, DIRECT, 03113cd04947736d
 
