@@ -54,6 +54,10 @@ The crust for this galette is my very favorite for a savoury one.  It turns out 
 </br>
 </br>
 
+{{< youtube 7-X4Xke7YXA >}}
+</br>
+</br>
+
 ### Recipe
 Serves 4 to 6 as an appetizer 
 </br>
