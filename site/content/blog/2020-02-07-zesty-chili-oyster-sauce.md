@@ -4,7 +4,7 @@ date: 2020-02-07T21:05:17-05:00
 author: Joanne
 thumbnail: /images/uploads/2020_02_07_zesty_chili_oyster_sauce_1.jpg
 scaled_thumbnail: /images/uploads/2020_02_07_zesty_chili_oyster_sauce_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["oysters", "chili"]
 excerpt: How to shuck fresh oysters and serve them with a delicious chilli sauce
 keywords: ["shuck oysters", "Trinidad oysters", "oyster sauce"]

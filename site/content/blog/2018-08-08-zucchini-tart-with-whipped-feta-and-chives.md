@@ -4,7 +4,7 @@ date: 2018-08-08
 author: Joanne
 thumbnail: /images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_1.jpg
 scaled_thumbnail: /images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["zucchini", "tarts", "feta", "feedfeed"]
 excerpt: A savoury tart filled with the taste of Summer
 ---

@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2020_03_20_citrus_rose_sangria_1.jpg
 scaled_thumbnail: /images/uploads/2020_03_20_citrus_rose_sangria_0.jpg
 categories: ["drinks"]
-tags: ["citrus", "alcohol"]
+tags: ["citrus", "alcohol", "cocktails"]
 excerpt: A light, refreshing citrus drink perfect for entertaining
 keywords: ["how to make sangria", "mixed drinks", "citrus drinks", "sangria recipe"]
 description: A step by step guide on how to make Sangria. Sangria is a traditional Spanish drink that is full of refreshing citrus

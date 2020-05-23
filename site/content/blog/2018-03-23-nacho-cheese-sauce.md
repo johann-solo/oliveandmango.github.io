@@ -4,7 +4,7 @@ date: 2018-03-23
 author: Joanne
 thumbnail: /images/uploads/2018_03_23_nacho_cheese_sauce_1.jpg
 scaled_thumbnail: /images/uploads/2018_03_23_nacho_cheese_sauce_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["dips", "cheese"]
 excerpt: Creamy, flavourful cheese sauce without any of the bad stuff
 ---

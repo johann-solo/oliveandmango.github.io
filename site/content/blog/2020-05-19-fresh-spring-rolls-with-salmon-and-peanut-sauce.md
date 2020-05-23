@@ -4,7 +4,7 @@ date: 2020-05-19
 author: Joanne
 thumbnail: /images/uploads/2020_05_19_fresh_spring_rolls_with_salmon_and_peanut_sauce_1.jpg
 scaled_thumbnail: /images/uploads/2020_05_19_fresh_spring_rolls_with_salmon_and_peanut_sauce_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["Asian", "seafood", "salmon", "peanuts", "sponsored"]
 excerpt: This fresh spring roll recipe with salmon and vegetables makes a great appetizer
 keywords: ["fresh rolls", "Asian appetizers", "peanut sauce"]

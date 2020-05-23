@@ -4,7 +4,7 @@ date: 2018-12-31
 author: Joanne
 thumbnail: /images/uploads/2018_12_31_greek_cheese_fondue_1.jpg
 scaled_thumbnail: /images/uploads/2018_12_31_greek_cheese_fondue_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["Greek", "feta", "dips"]
 excerpt: A simple to make cheese fondue with a Greek twist
 keywords: ["Greek", "fondue", "easy fondue", "cheese fondue", "dips for entertaining"]

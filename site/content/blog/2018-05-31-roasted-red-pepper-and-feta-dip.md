@@ -4,7 +4,7 @@ date: 2018-05-31T13:12:22-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_05_31_roasted_red_pepper_and_feta_dip_1.jpg
 scaled_thumbnail: /images/uploads/2018_05_31_roasted_red_pepper_and_feta_dip_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["feta", "dips"]
 excerpt: A dip so quick to make, your friends would think you flew to Greece to get it
 ---

@@ -4,7 +4,7 @@ date: 2018-12-08T12:57:40-05:00
 author: Joanne
 thumbnail: /images/uploads/2018_12_08_dakos_a_fantastic_greek_bruschetta_1.jpg
 scaled_thumbnail: /images/uploads/2018_12_08_dakos_a_fantastic_greek_bruschetta_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["Greek", "appetisers", "sponsored"]
 excerpt: Simple - but just like its Italian counterpart, mouthwateringly good.
 keywords: ["Greek", "appetisers", "sponsored"]

@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_04_13_no_bake_peanut_butter_jelly_tarts_1.jpg
 scaled_thumbnail: /images/uploads/2018_04_13_no_bake_peanut_butter_jelly_tarts_0.jpg
 categories:
-  - snacks
+  - appetizers
 tags:
   - peanuts
   - vegan

@@ -4,7 +4,7 @@ date: 2019-12-17T22:29:55-05:00
 author: Joanne
 thumbnail: /images/uploads/2019_12_17_caramelized_beet_tarte_tatin_with_feta_1.jpg
 scaled_thumbnail: /images/uploads/2019_12_17_caramelized_beet_tarte_tatin_with_feta_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["beets", "tarts", "feta", "sponsored"]
 excerpt: A delicious savory twist on a tarte tatin
 keywords: ["beet tart", "beet tatin", "caramelized beets"]

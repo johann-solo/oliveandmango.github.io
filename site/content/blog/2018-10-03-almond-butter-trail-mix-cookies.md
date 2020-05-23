@@ -4,7 +4,7 @@ date: 2018-10-03T15:32:48-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_10_03_almond_butter_trail_mix_cookies_1.jpg
 scaled_thumbnail: /images/uploads/2018_10_03_almond_butter_trail_mix_cookies_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["cookies", "chocolate", "almonds"]
 excerpt: Soft chewy wheat-free cookies loaded with nuts, seeds, dried fruit and chocolate chunks
 ---

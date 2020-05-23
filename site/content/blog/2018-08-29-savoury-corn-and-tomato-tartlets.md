@@ -4,7 +4,7 @@ date: 2018-08-29T07:28:31-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_08_29_savoury_corn_and_tomato_tartlets_1.jpg
 scaled_thumbnail: /images/uploads/2018_08_29_savoury_corn_and_tomato_tartlets_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["tarts", "tomatoes", "corn"]
 excerpt: Lightly herbed and buttery crust envelope this tasty sweet and savoury corn
 ---

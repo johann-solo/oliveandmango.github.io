@@ -4,7 +4,7 @@ date: 2019-11-09
 author: Joanne
 thumbnail: /images/uploads/2019_11_09_savoury_parmesan_and_herb_walnut_biscotti_1.jpg
 scaled_thumbnail: /images/uploads/2019_11_09_savoury_parmesan_and_herb_walnut_biscotti_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["parmesan", "walnuts", "sponsored"]
 excerpt: A crunchy Greek savoury biscuit with a flavorful combination of olive oil, parmesan cheese and fresh herbs.
 keywords: ["parmesan", "walnuts", "biscuits"]

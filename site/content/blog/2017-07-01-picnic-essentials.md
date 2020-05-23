@@ -5,7 +5,7 @@ author: 'Joanne '
 thumbnail: /img/JUL2017/picnics_2.jpg
 scaled_thumbnail: /img/JUL2017/picnics_0.jpg
 image: JUL2017/picnics_1.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["picnics"]
 excerpt: Keeping things simple is key to making the picnic experience fun for all
 ---

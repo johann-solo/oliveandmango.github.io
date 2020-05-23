@@ -4,7 +4,7 @@ alias: rice-crispy-bars
 date: 2017-03-27
 thumbnail: /images/uploads/2017_03_27_rice_crispy_bars_1.jpg
 scaled_thumbnail: /images/uploads/2017_03_27_rice_crispy_bars_0.jpg
-categories: ["snacks", "desserts"]
+categories: ["appetizers"]
 tags: ["peanuts", "rice", "chocolate"]
 excerpt:
 ---

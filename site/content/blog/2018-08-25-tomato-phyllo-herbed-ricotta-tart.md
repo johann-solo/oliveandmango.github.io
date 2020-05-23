@@ -4,7 +4,7 @@ date: 2018-08-25T13:43:14-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_08_25_tomato_phyllo_herbed_ricotta_tart_1.jpg
 scaled_thumbnail: /images/uploads/2018_08_25_tomato_phyllo_herbed_ricotta_tart_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["tomatoes", "tarts", "ricotta"]
 excerpt: A perfectly delicious way to showcase all your plum tomatoes
 ---

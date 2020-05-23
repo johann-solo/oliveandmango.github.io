@@ -4,7 +4,7 @@ date: 2018-02-02T10:52:53-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_02_02_muhammara_dip_1.jpg
 scaled_thumbnail: /images/uploads/2018_02_02_muhammara_dip_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["dips", "walnuts", "red peppers"]
 excerpt: Fully textured, nutty, smokey and subtly sweet dip or spread that will have you craving more and more of it
 ---

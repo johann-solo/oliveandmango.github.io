@@ -4,7 +4,7 @@ date: 2019-06-05
 author: Joanne
 thumbnail: /images/uploads/2019_06_05_bacon_and_cheddar_scones_with_a_maple_butter_glaze_1.jpg
 scaled_thumbnail: /images/uploads/2019_06_05_bacon_and_cheddar_scones_with_a_maple_butter_glaze_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["scones", "bacon", "maple", "ramps"]
 excerpt: Tender savoury scones loaded with cheddar cheese and bacon
 keywords: ["scones", "bacon", "maple", "ramps"]

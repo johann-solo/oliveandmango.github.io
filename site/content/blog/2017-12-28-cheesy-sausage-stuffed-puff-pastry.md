@@ -4,7 +4,7 @@ date: 2017-12-28T10:07:44-04:00
 author: Joanne
 thumbnail: /images/uploads/2017_12_28_2017_12_28_sausage_stuffed_puff_pastry_1.jpg
 scaled_thumbnail: /images/uploads/2017_12_28_2017_12_28_sausage_stuffed_puff_pastry_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["cheese"]
 excerpt: Addictive creamy savoury sausage and cheese bites
 ---
