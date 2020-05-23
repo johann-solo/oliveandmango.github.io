@@ -4,7 +4,7 @@ date: 2018-12-28
 author: Joanne
 thumbnail: /images/uploads/2018_12_28_marinated_goat_cheese_spread_1.jpg
 scaled_thumbnail: /images/uploads/2018_12_28_marinated_goat_cheese_spread_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["spreads", "olives", "goat cheese"]
 excerpt: A very simple fresh and delicious appetiser
 keywords: ["spreads", "olives", "goat cheese", "entertaining", "dips", "food for guests"]

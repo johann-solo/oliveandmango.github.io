@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_07_25_strawberry_rhubarb_gin_fizz_1.jpg
 scaled_thumbnail: /images/uploads/2019_07_25_strawberry_rhubarb_gin_fizz_0.jpg
 categories: ["drinks"]
-tags: ["strawberries", "rhubarb", "gin"]
+tags: ["strawberries", "rhubarb", "gin", "alcohol", "cocktails"]
 excerpt: The best of Summer strawberries and rhubarb in cocktail form 
 keywords: ["strawberries", "rhubarb", "gin"]
 description: The best of Summer strawberries and rhubarb in cocktail form

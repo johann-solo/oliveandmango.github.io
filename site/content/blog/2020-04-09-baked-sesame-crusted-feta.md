@@ -4,7 +4,7 @@ date: 2020-04-09T22:15:18-04:00
 author: Joanne
 thumbnail: /images/uploads/2020_04_09_baked_sesame_crusted_feta_1.jpg
 scaled_thumbnail: /images/uploads/2020_04_09_baked_sesame_crusted_feta_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["feta", "honey", "Greek"]
 excerpt: A simple and delicious appetizer with crispy baked layer of feta drizzled with honey 
 keywords: ["baked feta", "honey feta", "sesame cheese"]

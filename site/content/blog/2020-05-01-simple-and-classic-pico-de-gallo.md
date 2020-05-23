@@ -4,7 +4,7 @@ date: 2020-04-30T15:44:03-04:00
 author: Joanne
 thumbnail: /images/uploads/2020_05_01_simple_and_classic_pico_de_gallo_1.jpg
 scaled_thumbnail: /images/uploads/2020_05_01_simple_and_classic_pico_de_gallo_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["Latin", "Mexican", "tomatoes"]
 excerpt: A fresh and additive Mexican salsa with only 6 ingredients 
 keywords: ["Mexican salsa", "Mexican snacks", "salsa"]

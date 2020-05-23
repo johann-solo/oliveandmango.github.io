@@ -4,7 +4,7 @@ date: 2020-02-02T01:52:22-05:00
 author: Joanne
 thumbnail: /images/uploads/2020_02_02_easy_instant_pot_pulled_pork_sliders_1.jpg
 scaled_thumbnail: /images/uploads/2020_02_02_easy_instant_pot_pulled_pork_sliders_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["sliders", "pork", "burgers"]
 excerpt: Super quick to whip up, full of flavour, and absolutely drool worthy
 keywords: ["game day", "pulled pork", "sliders"]

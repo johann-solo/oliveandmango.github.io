@@ -4,7 +4,7 @@ date: 2018-09-28T13:28:56-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_09_28_crushed_puy_lentils_with_tahini_and_eggplant_1.jpg
 scaled_thumbnail: /images/uploads/2018_09_28_crushed_puy_lentils_with_tahini_and_eggplant_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["lentils", "tahini", "eggplant"]
 excerpt: A creamy and fragrant dip that makes the perfect starter
 ---

@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2020_05_17_classic_and_refreshing_margarita_1.jpg
 scaled_thumbnail: /images/uploads/2020_05_17_classic_and_refreshing_margarita_0.jpg
 categories: ["drinks"]
-tags: ["tequila", "alcohol"]
+tags: ["tequila", "alcohol", "cocktails", "citrus", "limes"]
 excerpt: A simple refreshing classic that is the perfect combo of salty, sweet and tangy
 keywords: ["mixed drinks", "cocktails"]
 description: A simple refreshing classic that is the perfect combo of salty, sweet and tangy

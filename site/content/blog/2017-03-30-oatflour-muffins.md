@@ -5,7 +5,7 @@ author: Joanne
 permalink: oatflour-muffins
 thumbnail: /img/MAR2017/oatflour_muffins_1.jpg
 scaled_thumbnail: /img/MAR2017/oatflour_muffins_0.jpg
-categories: ["snacks"]
+categories: ["breakfast"]
 tags: ["muffins"]
 excerpt: Vegan oatmeal muffins - moist little bites of goodness!
 

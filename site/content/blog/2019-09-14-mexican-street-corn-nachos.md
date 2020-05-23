@@ -4,7 +4,7 @@ date: 2019-09-14T14:38:17-04:00
 author: Joanne
 thumbnail: /images/uploads/2019_09_14_mexican_street_corn_nachos_1.jpg
 scaled_thumbnail: /images/uploads/2019_09_14_mexican_street_corn_nachos_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["Mexican", "corn"]
 excerpt: Crunchy nachos topped with creamy corn, and loaded with cheese 
 keywords: ["Mexican", "corn", "street food"]

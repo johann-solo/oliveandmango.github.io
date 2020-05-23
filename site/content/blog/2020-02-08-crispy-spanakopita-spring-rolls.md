@@ -4,7 +4,7 @@ date: 2020-02-08T23:00:04-05:00
 author: Joanne
 thumbnail: /images/uploads/2020_02_08_crispy_spanakopita_spring_rolls_1.jpg
 scaled_thumbnail: /images/uploads/2020_02_08_crispy_spanakopita_spring_rolls_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["spinach", "Greek"]
 excerpt: A crispy twist on a this vegetarian classic
 keywords: ["Spring rolls", "Greek food", "sring rolls"]

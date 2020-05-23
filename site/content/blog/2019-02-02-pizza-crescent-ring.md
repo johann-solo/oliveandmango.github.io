@@ -4,7 +4,7 @@ date: 2019-02-02
 author: Joanne
 thumbnail: /images/uploads/2019_02_02_pizza_crescent_ring_1.jpg
 scaled_thumbnail: /images/uploads/2019_02_02_pizza_crescent_ring_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["pizza"]
 excerpt: Whether its game day or movie night - this simple pizza ring is all you need
 keywords: ["pizza", "game day food"]

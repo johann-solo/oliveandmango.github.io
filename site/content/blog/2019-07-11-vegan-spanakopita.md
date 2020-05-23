@@ -4,7 +4,7 @@ date: 2019-07-11
 author: Joanne
 thumbnail: /images/uploads/2019_07_11_vegan_spanakopita_1.jpg
 scaled_thumbnail: /images/uploads/2019_07_11_vegan_spanakopita_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["vegan", "spinach", "Greek", "sponsored"]
 excerpt:  Greek savoury spinach and leek pie with layers of crispy phyllo pastry
 keywords: ["vegan", "spinach", "Greek"]

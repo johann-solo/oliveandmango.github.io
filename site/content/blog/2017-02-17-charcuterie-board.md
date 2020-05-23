@@ -5,7 +5,7 @@ author: Joanne
 permalink: charcuterie-board
 thumbnail: /img/FEB2017/charcuterie_2.jpg
 scaled_thumbnail: /img/FEB2017/charcuterie_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["platters"]
 excerpt: Make a great charcuterie board to fit any budget
 ---

@@ -4,7 +4,7 @@ date: 2018-03-30T14:50:14-04:00
 author: Joanne
 thumbnail: /images/uploads/2018_03_30_baked_brie_with_caramelized_apples_1.jpg
 scaled_thumbnail: /images/uploads/2018_03_30_baked_brie_with_caramelized_apples_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["apples", "brie"]
 excerpt: The perfect appetizer to bring to your next social event
 ---

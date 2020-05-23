@@ -5,7 +5,7 @@ author: Joanne
 permalink: energy-balls
 thumbnail: /img/DEC2016/energy_balls_1.jpg
 scaled_thumbnail: /img/DEC2016/energy_balls_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["chocolate"]
 excerpt: A delicious pick me up
 ---

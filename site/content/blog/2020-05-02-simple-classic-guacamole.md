@@ -4,7 +4,7 @@ date: 2020-05-02T14:10:19-04:00
 author: Joanne
 thumbnail: /images/uploads/2020_05_02_simple_classic_guacamole_1.jpg
 scaled_thumbnail: /images/uploads/2020_05_02_simple_classic_guacamole_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["Latin", "Mexican", "avocados"]
 excerpt: An irresistible avocado based dip served either creamy or left chunky with chips, crackers, or crudities
 keywords: ["avocado dips", "homemade guacamole"]

@@ -4,7 +4,7 @@ date: 2020-05-03T14:34:36-04:00
 author: Joanne
 thumbnail: /images/uploads/2020_05_03_sheet_pan_nachos_supreme_1.jpg
 scaled_thumbnail: /images/uploads/2020_05_03_sheet_pan_nachos_supreme_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["Mexican", "Latin", "cheese"]
 excerpt: Crispy nachos smothered with two types of cheeses and loaded with seasoned meat and veggies
 keywords: ["sheet pan nachos", "Better than Taco Bell", "nacho supreme"]

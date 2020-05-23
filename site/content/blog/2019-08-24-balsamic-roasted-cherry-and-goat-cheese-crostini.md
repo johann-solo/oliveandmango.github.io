@@ -4,7 +4,7 @@ date: 2019-08-24T20:55:36-04:00
 author: Joanne
 thumbnail: /images/uploads/2019_08_24_balsamic_roasted_cherry_and_goat_cheese_crostini_1.jpg
 scaled_thumbnail: /images/uploads/2019_08_24_balsamic_roasted_cherry_and_goat_cheese_crostini_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["cherries", "bread", "goat cheese", "feedfeed"]
 excerpt: A delicious appetizer with a perfect balance of sweet and savoury
 keywords: ["cherries", "bread", "goat cheese"]

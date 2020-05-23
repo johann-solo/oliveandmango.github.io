@@ -4,7 +4,7 @@ date: 2019-11-21T11:08:02-05:00
 author: Joanne
 thumbnail: /images/uploads/2019_11_21_creamy_hummus_and_white_bean_dip_with_roasted_garlic_and_rosemary_1.jpg
 scaled_thumbnail: /images/uploads/2019_11_21_creamy_hummus_and_white_bean_dip_with_roasted_garlic_and_rosemary_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["hummus", "dips", "garlic", "rosemary", "vegan", "vegetarian"]
 excerpt: The secret to a creamy hummus and the most delicious white bean dip. 
 keywords: ["hummus appetizers", "vegan dips", "white bean dip", "vegan appetizers", "vegetarian appetizers"]

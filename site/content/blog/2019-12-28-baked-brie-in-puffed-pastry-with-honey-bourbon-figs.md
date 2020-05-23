@@ -4,7 +4,7 @@ date: 2019-12-28T18:16:11-05:00
 author: Joanne
 thumbnail: /images/uploads/2019_12_28_baked_brie_in_puffed_pastry_with_honey_bourbon_figs_1.jpg
 scaled_thumbnail: /images/uploads/2019_12_28_baked_brie_in_puffed_pastry_with_honey_bourbon_figs_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["brie", "honey", "figs"]
 excerpt: Rich and creamy Baked Brie in buttery Puff Pastry
 keywords: ["baked brie", "puffed pastry"]

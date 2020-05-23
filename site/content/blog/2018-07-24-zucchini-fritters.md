@@ -4,7 +4,7 @@ date: 2018-07-24
 author: Joanne
 thumbnail: /images/uploads/2018_07_24_zucchini_fritters_1.jpg
 scaled_thumbnail: /images/uploads/2018_07_24_zucchini_fritters_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["zucchini", "Greek"]
 excerpt: Light crisp and delicious zucchini fritters with tzatziki dipping sauce
 ---

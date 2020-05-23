@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /img/JUNE2017/pineapple_chow_4.jpg
 scaled_thumbnail: /img/JUNE2017/pineapple_chow_0.jpg
 image: JUNE2017/pineapple_chow_1.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["pineapple"]
 excerpt: Two fabulous ways to eat pineapple whether you like it savoury or sweet.
 

@@ -4,7 +4,7 @@ date: 2020-01-31T23:42:02-05:00
 author: Joanne
 thumbnail: /images/uploads/2020_02_01_easy_and_delicious_spinach_dip_1.jpg
 scaled_thumbnail: /images/uploads/2020_02_01_easy_and_delicious_spinach_dip_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["dips", "spinach"]
 excerpt: A classic dip that everyone loves 
 keywords: ["game day", "game day snacks"]

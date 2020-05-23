@@ -4,7 +4,7 @@ date: 2018-08-17
 author: Joanne
 thumbnail: /images/uploads/2018_08_17_grilled_party_wings_with_cholula_butter_1.jpg
 scaled_thumbnail: /images/uploads/2018_08_17_grilled_party_wings_with_cholula_butter_0.jpg
-categories: ["snacks"]
+categories: ["appetizers"]
 tags: ["chicken", "spicy"]
 excerpt: Tangy buttery grilled wings that bring the heat
 ---
