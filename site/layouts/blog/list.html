@@ -104,6 +104,19 @@
         </a></span>
 
 
+      <div class="line taxonomy_line"></div>
+      <h3 class="cat_heading">Pantry</h3>
+      <ul class="related_taxonomy">
+        {{ range first 4 .Site.Taxonomies.categories.pantry }}
+        <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.scaled_thumbnail }}"
+              alt="{{.Params.Title}}">{{ .Page.Title }}</a></li>
+        {{ end }}
+      </ul>
+      <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/pantry">
+          <div class="btn__main--recipe btn">Show more</div>
+        </a></span>
+
+
     </div>
 
   </div>
