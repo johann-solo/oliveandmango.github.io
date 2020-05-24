@@ -67,8 +67,8 @@ Total time: 2 hours and 20-25 mins
 ### Ingredients 
 
 * <span itemprop="ingredients">2 racks of baby back pork ribs (approx 2 lbs each)</span>
-* <span itemprop="ingredients">4 tbsp spice rub of choice (my homemade one is easy and delicious)</span>
-* <span itemprop="ingredients">&frac12;-1 cup of store-bought or homemade barbecue sauce plus more for serving (my homemade BBQ sauce is easy and delicious)</span>
+* <span itemprop="ingredients">4 tbsp spice rub of choice (<span class="highlight"><a href="https://www.oliveandmango.com/simple-homemade-dry-rub/">my homemade one is easy</a></span> and delicious)</span>
+* <span itemprop="ingredients">&frac12;-1 cup of store-bought or <span class="highlight"><a href="https://www.oliveandmango.com/homemade-bbq-sauce/">homemade barbecue sauce</a></span> plus more for serving (my homemade BBQ sauce is easy and delicious)</span>
 
 
 ### Directions
