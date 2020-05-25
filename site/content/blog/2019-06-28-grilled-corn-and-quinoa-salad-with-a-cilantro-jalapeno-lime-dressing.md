@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_06_28_grilled_corn_and_quinoa_salad_with_a_cilantro_jalapeno_lime_dressing_1.jpg
 scaled_thumbnail: /images/uploads/2019_06_28_grilled_corn_and_quinoa_salad_with_a_cilantro_jalapeno_lime_dressing_0.jpg
 categories: ["sides"]
-tags: ["salad", "corn", "quinoa", "sponsored"]
+tags: ["salads", "corn", "quinoa", "sponsored"]
 excerpt: This grilled corn salad is colourful, refreshing and satisfying, with a fresh and fabulous dressing 
 keywords: ["salad", "corn", "quinoa"]
 description: This grilled corn salad is colourful, refreshing and satisfying, with a fresh and fabulous dressing 
