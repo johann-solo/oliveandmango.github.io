@@ -19,7 +19,6 @@ Stuffed bell peppers are a favourite in our family. It’s a fabulous dish commo
 </br>
 
 Naturally a favourite classic I grew up on and still enjoy is Greek-style roasted red peppers and I’m pretty partial to my moms stuffed peppers. When I was younger with a very innocent palate I use to peel away the pepper and dig into the filling - it was all about the filling - which I would crumble feta over and then just devour!!!
-
 </br>
 </br>
 ![Greek Stuffed Peppers](/images/uploads/2018_07_06_greek_stuffed_peppers_3.jpg)
@@ -93,6 +92,10 @@ I love to serve these up with a [beautiful horiatiki salad](https://www.oliveand
 </br>
 </br>
 ![Greek Stuffed Peppers](/images/uploads/2018_07_06_greek_stuffed_peppers_13.jpg)
+</br>
+</br>
+
+{{< youtube gnk8xQiCGZg >}}
 </br>
 </br>
 
