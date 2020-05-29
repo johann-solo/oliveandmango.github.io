@@ -13,7 +13,7 @@ description:
 
 ### Ingredients 
 
-* <span itemprop="ingredients">
+* <span itemprop="recipeIngredient">
 
 
 
