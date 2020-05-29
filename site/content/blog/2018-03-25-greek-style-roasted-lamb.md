@@ -9,8 +9,6 @@ tags: ["lamb", "Greek"]
 excerpt: A Greek classic that is tender and full of flavour and a must for big family dinners 
 keywords: ["Greek dinners", "How to roast lamb", "Greek lamb"]
 description: Learn how to make classic Greek style roasted lamb that is tender, full of flavour and a must for big family dinners
-recipeCuisine: Greek
-recipeCategory: Main course
 ---
 
 Let me tell you a little bit about dining with Greeks or at least dining with my family. A big Sunday dinner is never just what I have served here.  I like to keep things simple. This has taken me a long time to figure out and sometimes it still kills me, but less is truly more. It's a fact, and one that goes against the grain of Greeks and of course many other cultures, Trinidadians included. That is not the way I grew up though. My mom would prepare a roast just like this plus a _pastitsio_, Greek rice, _keftedakia_, _loukanika_, and a whole bunch of other sides and meats and oooooh I become dizzy just thinking about preparing all that food.
@@ -105,20 +103,17 @@ __for prepping the lamb before roasting__
 * <span itemprop="recipeIngredient">2  tablespoons olive oil</span>
 
 ### Directions
-<span itemprop="recipeInstructions">
 
-1. Wash lamb well and pat dry and place in a glass dish or sturdy sealable plastic bag large enough to hold the lamb.
-1. In a small bowl whisk together all the marinade ingredients and  pour into the the bag or dish the lamb is in.  Turn to coat and massage the lamb with it and seal bag/dish and allow to marinate refrigerated for a few hours up to two days. (the longer the better esp to help with gaminess and tenderness of lamb)
-1. Once ready to roast remove lamb from fridge and allow to come to room temperature then preheat oven to 400°F and prepare the lamb for baking. 
-1. In a small bowl mix together the garlic, oregano, rosemary, butter, honey and Dijon mustard and set aside 
-1. Remove lamb from marinade (keep marinade) and pierce the lamb all over with the tip of a sharp knife
-1. Rub garlic butter-herb-mustard mixture over lamb, pressing into incisions.
-1. Coat with remaining 2 tbsp of oil and sprinkle with salt and pepper.
-1. Line a roasting pan with a few layers of foil, place a rack over foil and transfer the lamb to rack. 
-1. Pour the marinade left over from the lamb into the pan for aromatics and steam.
-2. Roast, uncovered, at 400°F for 15 minutes to brown and then reduce heat to 375°F approx 1½ hours, turn lamb over (optional) to make a crust on the other side, and continue to roast for another 45 minutes turning it back for the last bit of coking time (total roasting time is approx 2 hours and 15 minutes and roughly 20 minutes per lb. Internal temp for medium to well done should be approx 160-170°F). If the lamb gets to dark too quickly feel free to loosely tent lamb for remaining cooking time. 
-3. Once done let lamb rest tented with foil for at least ten minutes then squeeze lemon juice over it, slice and serve. Slice and serve with the extra lemon wedges.
-
-</span>
+1. <span itemprop="recipeInstructions">Wash lamb well and pat dry and place in a glass dish or sturdy sealable plastic bag large enough to hold the lamb.</span>
+1. <span itemprop="recipeInstructions">In a small bowl whisk together all the marinade ingredients and  pour into the the bag or dish the lamb is in.  Turn to coat and massage the lamb with it and seal bag/dish and allow to marinate refrigerated for a few hours up to two days. (the longer the better esp to help with gaminess and tenderness of lamb)</span>
+1. <span itemprop="recipeInstructions">Once ready to roast remove lamb from fridge and allow to come to room temperature then preheat oven to 400°F and prepare the lamb for baking. </span>
+1. <span itemprop="recipeInstructions">In a small bowl mix together the garlic, oregano, rosemary, butter, honey and Dijon mustard and set aside </span>
+1. <span itemprop="recipeInstructions">Remove lamb from marinade (keep marinade) and pierce the lamb all over with the tip of a sharp knife</span>
+1. <span itemprop="recipeInstructions">Rub garlic butter-herb-mustard mixture over lamb, pressing into incisions.</span>
+1. <span itemprop="recipeInstructions">Coat with remaining 2 tbsp of oil and sprinkle with salt and pepper.</span>
+1. <span itemprop="recipeInstructions">Line a roasting pan with a few layers of foil, place a rack over foil and transfer the lamb to rack. </span>
+1. <span itemprop="recipeInstructions">Pour the marinade left over from the lamb into the pan for aromatics and steam.</span>
+2. <span itemprop="recipeInstructions">Roast, uncovered, at 400°F for 15 minutes to brown and then reduce heat to 375°F approx 1½ hours, turn lamb over (optional) to make a crust on the other side, and continue to roast for another 45 minutes turning it back for the last bit of coking time (total roasting time is approx 2 hours and 15 minutes and roughly 20 minutes per lb. Internal temp for medium to well done should be approx 160-170°F). If the lamb gets to dark too quickly feel free to loosely tent lamb for remaining cooking time. </span>
+3. <span itemprop="recipeInstructions">Once done let lamb rest tented with foil for at least ten minutes then squeeze lemon juice over it, slice and serve. Slice and serve with the extra lemon wedges.</span>
 
 ![Greek Style Roasted Lamb](/images/uploads/2018_03_25_greek_style_roasted_lamb_12.jpg)
