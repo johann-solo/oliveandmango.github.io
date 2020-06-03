@@ -1,4 +1,4 @@
-# Mediavine Ads.txt v20200428
+# Mediavine Ads.txt v20200527
 mediavine.com, 6603, DIRECT, 1363c924529b3998
 aps.amazon.com, 38918095-8e45-4332-88bf-226b3514cb64, DIRECT
 districtm.io, 100962, RESELLER
@@ -15,7 +15,7 @@ contextweb.com, 561837, DIRECT, 89ff185a4c4e857c
 contextweb.com, 562036, DIRECT, 89ff185a4c4e857c
 adtech.com, 9560, DIRECT
 aolcloud.net, 9560, DIRECT
-appnexus.com, 1314, RESELLER, f5ab79cb980f11d1
+triplelift.com, 4203-EB, DIRECT, 6c33edb13117fd86
 triplelift.com, 4203, DIRECT, 6c33edb13117fd86
 triplelift.com, 4116-EB, DIRECT, 6c33edb13117fd86
 triplelift.com, 4116, DIRECT, 6c33edb13117fd86
@@ -27,14 +27,11 @@ emxdgt.com, 1403, DIRECT, 1e1d41537f7cad7f
 emxdgt.com, 1460, DIRECT, 1e1d41537f7cad7f
 appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
 appnexus.com, 1832, RESELLER, f5ab79cb980f11d1
+appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
+33across.com, 0013300001r0t9mAAA, RESELLER, bbea06d9c4d2853c
+indexexchange.com, 177754, RESELLER, 50b1c356f2c5c8fc
 gumgum.com, 9534, DIRECT, ffdef49475d318a9
 openx.com, 537149485, RESELLER, 6a698e2ec38604c6
-appnexus.com, 1001, RESELLER, f5ab79cb980f11d1
-appnexus.com, 3135, RESELLER, f5ab79cb980f11d1
-openx.com, 537120563, RESELLER, 6a698e2ec38604c6
-springserve.com, 686, RESELLER, a24eb641fc82e93d
-lkqd.net, 470, RESELLER, 59c49fa9598a0117
-spotxchange.com, 147949, RESELLER, 7842df1d2fe2db34
 yieldmo.com, 1803631463666189593, DIRECT
 yieldmo.com, 2231250809323685813, DIRECT
 rubiconproject.com, 17404, DIRECT, 0bfd66d529a55807
@@ -53,4 +50,3 @@ themediagrid.com, U1NDYR, DIRECT, 35d5010d7789b49d
 improvedigital.com, 1625, DIRECT
 33across.com, 0014000000xvEfwAAE, DIRECT, bbea06d9c4d2853c
 conversantmedia.com, 41025, DIRECT, 03113cd04947736d
-
