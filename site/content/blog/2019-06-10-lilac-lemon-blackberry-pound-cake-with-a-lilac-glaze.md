@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_06_10_lilac_lemon_blackberry_pound_cake_with_a_lilac_glaze_1.jpg
 scaled_thumbnail: /images/uploads/2019_06_10_lilac_lemon_blackberry_pound_cake_with_a_lilac_glaze_0.jpg
 categories: ["desserts"]
-tags: ["cakes", "blackberries", "lemons", "lilac"]
+tags: ["cakes", "blackberries", "lemons", "lilacs"]
 excerpt: A berry-filled simple pound cake infused with lilac 
 keywords: ["cakes", "blackberries", "lemons", "lilac"]
 description: A berry-filled simple pound cake infused with lilac 
