@@ -48,6 +48,10 @@ First you start by cooking the leeks and onions until they are softened and swee
 </br>
 </br>
 
+{{< youtube Br35cfFcHZU >}}
+</br>
+</br>
+
 ### Recipe
 
 Prep Time: <meta itemprop="prepTime" content="PT21M">10 min 
