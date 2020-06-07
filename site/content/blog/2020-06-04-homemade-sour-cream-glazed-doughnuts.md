@@ -18,7 +18,7 @@ These sour cream donuts are cakey, tender with a delicious vanilla glaze that se
 </br>
 </br>
 
-You all know I’m not into any thing deep fried. But when hubby requests doughnuts - I make doughnuts. We have a lot of amazing doughnut shops in the area and so he doesn’t ask often but considering the circumstances - homemade everything is in order. Hubby goes nuts for any doughnuts - me; not so much. My weakness though is a good sour cream glazed doughnut. I will never pass up a sour cream glazed doughnut or doughnut whole (Tim Bit). So I decided to make some at home. Crazy idea right- the smarter thing would have been to make my least favorite doughnut then there would be zero temptation to eat the whole dozen. Obviously today wasnt for smart decisions. You will definitely thank me for that bad decision just like my family did. 
+You all know I’m not into any thing deep fried. But when hubby requests doughnuts - I make doughnuts. We have a lot of amazing doughnut shops in the area and so he doesn’t ask often but considering the circumstances - homemade everything is in order. Hubby goes nuts for any doughnuts - me; not so much. My weakness though is a good sour cream glazed doughnut. I will never pass up a sour cream glazed doughnut or doughnut hole (Tim Bit). So I decided to make some at home. Crazy idea right- the smarter thing would have been to make my least favorite doughnut then there would be zero temptation to eat the whole dozen. Obviously today wasnt for smart decisions. You will definitely thank me for that bad decision just like my family did. 
 </br>
 </br>
 ![Homemade Sour Cream Glazed Doughnuts](/images/uploads/2020_06_04_homemade_sour_cream_glazed_doughnuts_3.jpg)
@@ -34,7 +34,7 @@ It’s a simple process of making a simple non-yeasted dough made from cake flou
 </br>
 
 ## What do I need to make the perfect doughnuts? 
-You need something to cut them into doughnuts shapes. You can use the commercial doughnut cutters that are available out there but a round biscuit cutter would work perfectly. You would need one larger one and a smaller one for the doughnut while. I used a biscuit cutter for the doughnut and a piping tool with a large base for the doughnut whole. A mason jar lid would work well too and even the rim of a glass could work. The other thing I strongly recommend having to make the perfect doughnuts every time is a thermometer.  Whether you have a clip on candy thermometer or one you have to periodically place in the oil to read the temperature- it’s a great way to keep an eye on the temperature of the oil to ensure your doughnuts don’t cook to quickly and are burned on the outside and still not cooked through on the inside. If you don’t have one and absolutely need these doughnuts in your life, feel free to use your doughnut holes as tests to the temperature. Obviously the doughnuts themselves will take longer to cook so take that into consideration. The next thing you will need is a good metabolism because you will not be able to resist having multiples of these babies. 
+You need something to cut them into doughnut shapes. You can use the commercial doughnut cutters that are available out there but a round biscuit cutter would work perfectly. You would need one larger one and a smaller one for the doughnut hole. I used a biscuit cutter for the doughnut and a piping tool with a large base for the doughnut hole. A mason jar lid would work well too and even the rim of a glass could work. The other thing I strongly recommend having to make the perfect doughnuts every time is a thermometer.  Whether you have a clip on candy thermometer or one you have to periodically place in the oil to read the temperature- it’s a great way to keep an eye on the temperature of the oil to ensure your doughnuts don’t cook too quickly and are burned on the outside and still not cooked through on the inside. If you don’t have one and absolutely need these doughnuts in your life, feel free to use your doughnut holes as tests to the temperature. Obviously the doughnuts themselves will take longer to cook so take that into consideration. The next thing you will need is a good metabolism because you will not be able to resist having multiples of these babies. 
 </br>
 </br>
 ![Homemade Sour Cream Glazed Doughnuts](/images/uploads/2020_06_04_homemade_sour_cream_glazed_doughnuts_5.jpg)
@@ -55,6 +55,10 @@ This recipe calls for deep frying these doughnuts. Baking them will not give you
 </br>
 
 I tried a few recipes before I found this amazing one by Completely Delicious and I have to say it’s the best I have made by far.  The only thing I altered was the spices. The original recipe called for nutmeg alone. I added cinnamon and cardamom to the mix along with the nutmeg and I loved the hint of spice in the background of all the vanilla. I know many don’t like using corn syrup in their baking or sweets so feel free to use honey or maple syrup instead of it or leave it out completely. Corn syrup is often used in glazes - this one included. It helps keep the glaze from getting grainy, instead It helps keep it looking shiny. No one could resist these doughnuts and I know you won’t be able to either. They are tender, cakey, and packed with flavor. You are welcome!! 
+</br>
+</br>
+
+{{< youtube qZlRz3FhvIs >}}
 </br>
 </br>
 
