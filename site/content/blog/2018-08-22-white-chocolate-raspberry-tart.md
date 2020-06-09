@@ -66,10 +66,15 @@ Both are perfect for making ahead and would be great for a dinner party! The non
 </br>
 </br>
 
-## Recipe
+{{< youtube fui684JrDXY >}}
+</br>
+</br>
 
-## White Chocolate Ganache Raspberry Tart (vegan)
-Makes one 9 inch tart or pie
+### Recipe - Vegan White Chocolate Raspberry Tart
+Makes one 9 inch vegan sweet pastry shell (Pâte sucrée)
+</br>
+</br>
+Watch the step by step [video here](https://youtu.be/5CA_1AkBhzQ) for the crust 
 </br>
 </br>
 
@@ -77,83 +82,150 @@ Makes one 9 inch tart or pie
 
 __For the vegan pâté sucrée tart__
 
-* &frac14; cup ground hazelnuts or almonds
-* 1&frac14; cups flour plus more if needed and for dusting
-* &frac12; cup coconut oil
-* &frac12; cup sugar
-* &frac12; tsp salt
-* 1 tsp vanilla extract
-* 2-3 tbsp of almond milk or coconut milk as needed to moisten the dough if needed
+* <span itemprop="recipeIngredient">¼ cup ground hazelnuts or almonds</span>
+* <span itemprop="recipeIngredient">1¼ cups flour plus more if needed and for dusting</span>
+* <span itemprop="recipeIngredient">½ cup coconut oil</span>
+* <span itemprop="recipeIngredient">&frac13; cup confectioners sugar </span>
+* <span itemprop="recipeIngredient">½ tsp salt</span>
+* <span itemprop="recipeIngredient">1 tsp vanilla extract</span>
+* <span itemprop="recipeIngredient">2-3 tbsp of almond milk or coconut milk as needed to moisten the dough if needed</span>
 
 __For raspberry coulis__
 
-* 2 cups fresh or frozen raspberries
-* &frac13; cup of sugar (just enough to add a slight bit of sweetness to the raspberries)
+* <span itemprop="recipeIngredient">2 cups fresh or frozen raspberries</span>
+* <span itemprop="recipeIngredient">2-3 tbsp of maple syrup (just enough to add a slight bit of sweetness to the raspberries)</span>
+* <span itemprop="recipeIngredient">½ tsp of agar agar or tapioca starch </span>
 
 __For vegan white chocolate ganache filling__
 
-* 200 grams of cocoa butter/ non dairy unsweetened white chocolate
-* 2OO ml of coconut cream / milk
-* &frac12; cup of confectioners sugar
-* 8 grams package of vanilla powder or 1 tsp vanilla extract
+* <span itemprop="recipeIngredient">227 grams of cocoa butter/ non dairy unsweetened white chocolate</span>
+* <span itemprop="recipeIngredient">1 can of of coconut cream / milk (liquid drained and only using the thick creamy part)*</span>
+* <span itemprop="recipeIngredient">2-3 tbsp of maple syrup or more according to taste (if using unsweetened cocoa butter) </span>
+* <span itemprop="recipeIngredient">1 tsp vanilla extract</span>
+* <span itemprop="recipeIngredient">½ tsp coconut oil </span>
+
+__Topping__
+
+* <span itemprop="recipeIngredient">1-2 cups fresh berries</span>
+</br>
+</br>
+
+** Refrigerate coconut milk overnight for. Helps separate cream from liquid better. Use the solid part of coconut milk in the recipe strain any excess liquid. 
+</br>
+</br>
 
 ### Directions
 
-1. In a large bowl, beat together sugar, salt, and oil until smooth and combined.
+__For the crust__
 
-2. Beat in the flour until the dough forms crumbs. When the dough forms slightly coarser crumbs, then it’s good. Feel free to add non dairy milk to help you achieve the texture you need 1 tbsp at a time. The mixture should be able to clump easily when pressed together. You don’t need to beat the dough too much, as it’s easier to work into the tart shell in crumbs than in clumps.
-3. Transfer to tart pan and then press it into the tart pan with your fingers making sure it’s tightly pressed into the bottom edges of pan. prick the dough all over with a fork and let it rest in the fridge for 30 minutes.
-4. Preheat oven to 350 &deg; F and bake for 15 minutes to Blind Bake then you can then fill the tart shell and bake the tart again for another 20 to 40 minutes, depending on the filling.
-5. In this case I didn’t blind bake but baked it right through for approx 35 minutes until edges were fully baked and golden as I was filling tart with a no bake filling. Allow the tart to cool on a rack completely before filling.
-6. In the meantime make the raspberry coulis, bring the raspberries and sugar to the boil in a small heavy-based saucepan over high heat, stirring until the sugar dissolves. Using a blender or immersion blender to blend until a puree forms, then transfer to a bowl, cover with plastic wrap and refrigerate until needed
-7. Next make the white chocolate ganache. In a medium sauce pan on medium heat melt cocoa butter or unsweetened vegan white chocolate with coconut cream, along with the vanilla powder, stir until smooth and remove from heat
-8. To assemble the tarts, spoon in enough raspberry coulis to coat the base of the tart shell well.
-9. Pour white chocolate filling into crust over the raspberry coulis and refrigerate for 2 hrs before serving.
-10. Garnish with fresh berries or fruits, slice and enjoy!
+1. In a food processor pulse ground nuts, flour, sugar and salt a few times until combined. Then add the oil and the vanilla extract and pulse a few times until dough starts to form. Add 2-3 tbsp of non dairy milk 1 tbsp at a time if needed to get the texture right (I usually don’t need it) 
+2. Transfer to tart pan and then press it into pan with your fingers making sure it’s tightly pressed into the bottom edges of pan. Prick the dough all over with a fork and let it rest in the freezer for 20 minutes 
+3. Preheat oven to 350°F and bake for 10-15 minutes to blind bake then you can  fill the tart shell and bake the tart again for another 20 min depending on the filling. In this case I didn’t blind bake but baked it right through for approx 25 minutes until edges were fully baked and golden as I was filling tart with a no bake filling. Allow the tart to cool on a rack completely before filling. (Can be made a day ahead, wrapped right with plastic wrap and stored in the fridge) 
 
-<br>
-<br>
+__For the raspberry coulis__
 
-## White Chocolate Ganache Raspberry Tart (non-vegan)
+1. In the meantime make the raspberry coulis, simmer the raspberries and maple syrup for 5-10 min in a small heavy-based saucepan over low-med heat, stirring until the berries have broken down. 
+2. Then using a hand blender/immersion blender, blend into a puree, add 1 tsp of tapioca starch and simmer another 2-5 minutes over medium/high heat while stirring. Set aside to cool and if making ahead, wrap in plastic wrap and refrigerate until needed
+
+__For the ganache__
+
+1. Next make the white chocolate ganache. Place the cocoa butter, coconut cream, maple syrup, vanilla and coconut oil in a microwave-safe bowl, and heat in 20 second intervals, stirring after each one, until melted and smooth. 
+2. Allow to cool. 
+
+__To assemble__
+
+1. To assemble the tart, spoon in enough raspberry coulis to coat the base of the tart shell well then refrigerate for 10-15 minutes 
+2. Pour vegan white chocolate ganache over it and let set completely at least 2 hours to overnight. 
+3. Decoratively top with fresh berries before serving - slice and serve. 
+</br>
+</br>
+
+### White Chocolate Raspberry Tart (NON VEGAN)
+Makes one 9-inch sweet pastry shell or 4 small ones
+</br>
+Watch the step by step [video here](https://youtu.be/4sy1ugLD9dI) for the crust 
+</br>
 </br>
 
 ### Ingredients
 
-__For the tart shells__ (Makes 10 small tartlets)
+__For the sweet pastry crust (Pâte sucree)__
 
-* 2&frac14; cups All purpose flour
-* &frac14; Cup hazelnut flour or ground hazelnut or almond flour or ground almonds 
-* &frac14; Cup Sugar
-* 8 ounces or 2 sticks  Unsalted cold butter cut into pieces 
-* &frac14; teaspoon Salt
-* 3 Egg Yolks
-* 2-3 tablespoons Heavy cream
+* 1½ cups all purpose flour 
+* ⅓ cup powdered sugar
+* ¼ teaspoon salt
+* ½ cup unsalted butter (cold)
+* 1 large egg yolk
+* 2 teaspoons heavy cream
+* ½ teaspoon vanilla extract
 
-__For the raspberry coulis__
+__For raspberry coulis__
 
-* 2 cups fresh or frozen raspberries plus extra fresh berries or other fruit to top tart with
-* &frac13; cup of sugar (just enough to add a slight bit of sweetness to the raspberries)
+* 2 cups fresh or frozen raspberries
+* 2-3 tbsp of maple syrup/honey or sugar  
+* ½ tsp corn starch or tapioca starch 
 
-__For the white chocolate ganache__
+__For white chocolate ganache__
 
-* 350 g or approx 2 cups of white chocolate chips or roughly chopped
-* 350 ml of heavy cream
+* 2 cups (350g) white chocolate, chopped
+* ½ cup heavy cream
+* ¼ cup  unsalted butter
+* ¼ tsp vanilla extract or paste 
+
+__Topping__
+
+* 1-2 cups fresh raspberries for garnish 
+
 
 ### Directions
 
-1. Put flour, Hazel nut flour, sugar and salt in the food processor and pulse just to combine. 
-2. Add your butter and pulse until it resembles crumbs. 
-3. Add the egg yolks and 2 TBS cream pulse until the dough comes together. If too dry add the other TBS of cream if you find it still has not come together add more cream a TSP at a time, and be careful not to over process.
-4. Remove dough from processor and form into a large log wrap in plastic wrap and refrigerate for at least an hour
-5. Unwrap the pastry and cut off 10 even slices from each log, then roll each slice until approx 3 mm thick. Carefully transfer and line individual tart tins with a piece of dough, making sure to push the pastry into the corners of each tin to prevent shrinkage. 
-6. Pinch off any excess pastry, then press the dough with a fork a few times to prevent it rising during baking. Place on a baking tray and refrigerate for 10 minutes.
-7. Preheat oven to 375 &deg; F
-8. Place the tray with the lined tart shells in the preheated oven and bake for 12–15 minutes or until golden brown. Leave the shells to cool in the tins completely, then remove from the tins.
-9. To make the raspberry coulis, bring the raspberries and sugar to the boil in a small heavy-based saucepan over high heat, stirring until the sugar dissolves. Using a blender or immersion blender to blend until a puree forms, then transfer to a bowl, cover with plastic wrap and refrigerate until needed
-10. To make the ganache, heat the cream in a small heavy-based saucepan over medium high heat until hot but not boiling. Remove from the heat, add the white chocolate and whisk until combined and smooth. 
-11. Set aside to cool completely, then transfer to a piping bag or a measuring cup with a pourable lip.
-12. To assemble the tarts, spoon in enough raspberry coulis to coat the base of each tart shell well. 
-13. Fill each shell with ganache and refrigerate for at least 1-2 hours then serve with some more raspberries other fruit or berry you would like
+__For the pastry crust__
+
+1. Place the flour, powdered sugar, and salt in the bowl of a food processor and pulse to combine.
+2. Add the cold butter, and continue pulsing until the mixture resembles coarse meal.
+3. Whisk the egg yolk, cream, and vanilla together in a small bowl, then pour it through the feed tube in a slow stream with the processor running on low speed.
+4. Process until the mixture gathers itself into a ball, then wrap the dough tightly in plastic wrap and refrigerate for one hour.
+5. Roll out pie crust to fit pan. Press into 9 inch tart pan, use the rolling pin to roll over and trim the edges, use a fork to prick entire surface of dough. Chill in the freezer for 20 minutes. Preheat oven to 350°F and then bake for 20 minutes. Once done remove from oven and allow it to cool on a rack while you make the filling. (Can be made a day ahead, wrapped right with plastic wrap and stored in the fridge) 
+
+__For the raspberry coulis__
+
+1. In the meantime make the raspberry coulis, simmer the raspberries and maple syrup for 5-10 min in a small heavy-based saucepan over low-med heat, stirring until the berries have broken down. Then using a hand blender/immersion blender, blend into a puree, add 1 tsp of tapioca starch and simmer another 2-5 minutes over medium/high heat while stirring. Set aside to cool and if making ahead, wrap in plastic wrap and refrigerate until needed.
+
+__For the ganache__
+
+Place the white chocolate, heavy cream, vanilla and butter in a microwave-safe bowl, and heat in 20 second intervals, stirring after each one, until melted and smooth and then allow to cool.
+</br>
+</br>
+
+__Assembly__
+
+1. To assemble the tart, spoon in enough raspberry coulis to coat the base of the tart shell well then refrigerate for 10-15 minutes 
+2. Pour ganache into pastry case and refrigerate overnight or until cold and set.  (It will not go totally hard, you should be able to make an indent with your fingertip.)*
+3. Top decoratively with raspberries before serving, slice and serve immediately out of fridge as it will get runnier the longer it sits out of the fridge 
+</br>
+</br>
+
+## How long will both white chocolate tart last? 
+Any leftovers can be cover tightly, and kept refrigerated for up to 3 days.
+</br>
+</br>
+
+## Can I freeze this tart? Yes. 
+This tart freezes well for up to 3 months. Thaw overnight in the fridge before serving.
+</br>
+</br>
+
+## How do I make mini tarts from this recipe? 
+It makes 4 mini tarts depending on the size of pans:
+
+1. Divide the dough into 4 parts and roll each into a ball.
+2. Grease each tartlet well. Flour the working surface, and roll each ball into a disk slightly larger in diameter of tart pan, then place the round into a greased pan. Because rolling each ball into a disk and placing it into a pan usually takes time, I keep the rest of the balls in the refrigerator and take each one out to work on one ball at a time. This way, the dough is kept cold, which will help the crust be soft and flaky. Also, after I shape 2 disks and place them into a tart pan, I put a tart pan in the freezer and shape the other 2 disks. 
+3. Then, I take the tart pan out of the freezer, place the 2 disks in and repeat. Once you filled all of the tart pans (or all wells in a tart pan), place the tart pan(s) in the freezer for 5 minutes before baking. Pierce the bottoms of the tart with a fork and place them all on a sheet pan and bake as above - checking baking time half way. 
+</br>
+</br>
+
+&ast; IMPORTANT NOTE: 
+This ganache tart has no thickening agent or anything added to it to set the filling completely. (Think caramel) Please serve chilled. Make sure you choose a good quality white chocolate or baking chocolate which has the least amount of additives to it. 2 hours of chilling will have a soft set and 8 hours to overnight will have a slightly harder set so I recommend chilling overnight. If you absolutely want to make it so it sets completely you can add 6-8 oz of cream cheese to the filling. After you have made the ganache mix the softened cream cheese with a mixer and slowly drizzle in the ganache to it while you have the mixer on. Then pour this over the raspberry coulis as normal in the recipe and then chill overnight. This will create a no bake sort of white chocolate cheesecake filling that holds up a little better.  
 
 </br>
 <a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
