@@ -140,6 +140,10 @@ __To assemble__
 </br>
 </br>
 
+{{< youtube wJ1wM7HcGv0 >}}
+</br>
+</br>
+
 ### White Chocolate Raspberry Tart (NON VEGAN)
 Makes one 9-inch sweet pastry shell or 4 small ones
 </br>
