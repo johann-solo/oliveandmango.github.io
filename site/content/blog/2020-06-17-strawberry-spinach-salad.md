@@ -70,6 +70,11 @@ Delicious salads like this one are endlessly adaptable. Here are more suggestion
 * Your favorite red wine vinaigrette 
 * Dried cranberries or cherries
 </br>
+</br>
+
+{{< youtube 1_lQdFtt6NA >}}
+</br>
+</br>
 
 ### Recipe
 
