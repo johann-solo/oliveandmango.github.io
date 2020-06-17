@@ -54,6 +54,10 @@ The phyllo gives this dish a lighter topping. It’s fun and it’s crunchy and 
 </br>
 </br>
 
+{{< youtube 9gb2aNNgJG0 >}}
+</br>
+</br>
+
 ### Recipe
 
 Servings: <span itemprop="recipeYield">4-6 portions
