@@ -37,7 +37,11 @@ I just took this to a friends house over the holidays and it was well received t
 ![Marinated Goat Cheese Spread](/images/uploads/2018_12_28_marinated_goat_cheese_spread_5.jpg)
 </br>
 </br>
- 
+
+{{< youtube fKKrCDrrL4U >}}
+</br>
+</br>
+
 ## Recipe
 ### Ingredients
 
