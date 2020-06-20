@@ -72,6 +72,14 @@ Let’s talk about how to eat this delicious skillet brownie.  We love it straig
 </br>
 </br>
 
+I have partnered up with Valley Fig Growers to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
+</br>
+</br>
+
+{{< youtube 5_faBIPtuh0 >}}
+</br>
+</br>
+
 ### Recipe
 Recipe is for one 9 inch round skillet or 8x8 baking dish 
 </br>
