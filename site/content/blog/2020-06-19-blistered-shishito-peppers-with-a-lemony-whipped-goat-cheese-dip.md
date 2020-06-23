@@ -19,7 +19,7 @@ There is a lot of love for peppers on the whole in Greek culture. Whatever you d
 </br>
 
 ## What are shishito peppers? 
-Shishito peppers are a small variety of peppers that comes from East Asia. They are small and slender bright green peppers that eventually mature to red, but are mostly eaten green. They have a bit of a wrinkled texture making them look like wrinkled, thin-skinned jalapeños. They only resemble them in look not in flavour. They are also similar to the Spanish Padrone, but the shishito has a distinctive flavor and appearance all on its own. 
+Shishito peppers are a small variety of peppers that come from East Asia. They are small and slender bright green peppers that eventually mature to red, but are mostly eaten green. They have a bit of a wrinkled texture making them look like wrinkled, thin-skinned jalapeños. They only resemble them in look not in flavour. They are also similar to the Spanish Padrone, but the shishito has a distinctive flavor and appearance all on its own. 
 </br>
 </br>
 ![Blistered Shishito Peppers With a Lemony Whipped Goat Cheese Dip](/images/uploads/2020_06_19_blistered_shishito_peppers_with_a_lemony_whipped_goat_cheese_dip_3.jpg)
@@ -27,7 +27,7 @@ Shishito peppers are a small variety of peppers that comes from East Asia. They 
 </br>
 
 ## What do shishito taste like? 
-Their flavour is lively, slightly sweet with a hint of smokiness. They are addictive because of their sweet, mild and slightly smoky flavour and their size makes them easy to just pop in your mouth and enjoy. Every so often a particular pod will pack some heat and surprise you. About 1 in 10 (or even 1 in 20 I have found) shishito peppers reach the higher range when it comes to heat but even the hottest of those are still quite mild even when compared to jalapeños. Eating then is often compared to a game of Russian roulette. You just don’t know when you might bite into that ‘hot’ one. That definitely adds to the thrill and enjoyment of eating them. 
+Their flavour is lively, slightly sweet with a hint of smokiness. They are addictive because of their sweet, mild and slightly smoky flavour and their size makes them easy to just pop in your mouth and enjoy. Every so often a particular pod will pack some heat and surprise you. About 1 in 10 (or even 1 in 20 I have found) shishito peppers reach the higher range when it comes to heat but even the hottest of those are still quite mild even when compared to jalapeños. Eating them is often compared to a game of Russian roulette. You just don’t know when you might bite into that ‘hot’ one. That definitely adds to the thrill and enjoyment of eating them. 
 </br>
 </br>
 ![Blistered Shishito Peppers With a Lemony Whipped Goat Cheese Dip](/images/uploads/2020_06_19_blistered_shishito_peppers_with_a_lemony_whipped_goat_cheese_dip_4.jpg)
