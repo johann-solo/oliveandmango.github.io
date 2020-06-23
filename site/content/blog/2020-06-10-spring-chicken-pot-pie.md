@@ -73,7 +73,7 @@ Total time: 40 min
 ### Ingredients
 
 * <span itemprop="recipeIngredient">2 tbsp olive oil plus a little extra for brushing over the pastry</span>
-* <span itemprop="recipeIngredient">1 tsp of butter (optional - use extra olive oil in its place) </span>
+* <span itemprop="recipeIngredient">1 tbsp of butter (optional - use extra olive oil in its place) </span>
 * <span itemprop="recipeIngredient">2 leeks white and light green parts only sliced in half lengthwise and then sliced thin (or 4-6 green onions)</span>
 * <span itemprop="recipeIngredient">250g frozen spinach or 3 cups of fresh </span>
 * <span itemprop="recipeIngredient">2 cloves of garlic minced </span>
