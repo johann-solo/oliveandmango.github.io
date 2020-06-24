@@ -30,8 +30,13 @@
       <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
     {{ end }}
     <script src="https://use.fontawesome.com/9913002e58.js"></script>
-    <script type="text/javascript" async="async" data-noptimize="1" data-cfasync="false"
-      src="//scripts.mediavine.com/tags/olive-and-mango.js">
-      </script>
-    <meta http-equiv="Content-Security-Policy" content="block-all-mixed-content" />
+    <script>
+      window.adthrive = window.adthrive || {};
+      window.adthrive.cmd = window.adthrive.cmd || [];
+      window.adthrive.host = 'ads.adthrive.com';
+      window.adthrive.plugin = 'adthrive-ads-1.0.38';
+    </script>
+    
+    <script async type="text/javascript" src="https://ads.adthrive.com/sites/5eb96b33e9893f1f1a5bfcc7/ads.min.js"
+      referrerpolicy="no-referrer-when-downgrade"></script>
   </head>
