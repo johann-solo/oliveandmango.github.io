@@ -1,52 +1,87 @@
-# Mediavine Ads.txt v20200527
-mediavine.com, 6603, DIRECT, 1363c924529b3998
-aps.amazon.com, 38918095-8e45-4332-88bf-226b3514cb64, DIRECT
-districtm.io, 100962, RESELLER
-rhythmone.com, 1654642120, RESELLER, a670c89d4a324e47
-appnexus.com, 3626, DIRECT, f5ab79cb980f11d1
-indexexchange.com, 184188, DIRECT
-indexexchange.com, 184807, DIRECT
-indexexchange.com, 190601, DIRECT
-indexexchange.com, 189263, DIRECT
-google.com, pub-1601477034266482, DIRECT, f08c47fec0942fa0
-openx.com, 537154278, DIRECT, 6a698e2ec38604c6
-openx.com, 537144493, DIRECT, 6a698e2ec38604c6
-contextweb.com, 561837, DIRECT, 89ff185a4c4e857c
-contextweb.com, 562036, DIRECT, 89ff185a4c4e857c
-adtech.com, 9560, DIRECT
-aolcloud.net, 9560, DIRECT
-triplelift.com, 4203-EB, DIRECT, 6c33edb13117fd86
-triplelift.com, 4203, DIRECT, 6c33edb13117fd86
-triplelift.com, 4116-EB, DIRECT, 6c33edb13117fd86
-triplelift.com, 4116, DIRECT, 6c33edb13117fd86
-sovrn.com, 217201, DIRECT, fafdf38b16bf6b2b
-lijit.com, 217201, DIRECT, fafdf38b16bf6b2b
-lijit.com, 217201-eb, DIRECT, fafdf38b16bf6b2b
-emxdgt.com, 46, DIRECT, 1e1d41537f7cad7f
-emxdgt.com, 1403, DIRECT, 1e1d41537f7cad7f
-emxdgt.com, 1460, DIRECT, 1e1d41537f7cad7f
-appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
-appnexus.com, 1832, RESELLER, f5ab79cb980f11d1
-appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
-33across.com, 0013300001r0t9mAAA, RESELLER, bbea06d9c4d2853c
-indexexchange.com, 177754, RESELLER, 50b1c356f2c5c8fc
-gumgum.com, 9534, DIRECT, ffdef49475d318a9
-openx.com, 537149485, RESELLER, 6a698e2ec38604c6
-yieldmo.com, 1803631463666189593, DIRECT
-yieldmo.com, 2231250809323685813, DIRECT
-rubiconproject.com, 17404, DIRECT, 0bfd66d529a55807
-rubiconproject.com, 17484, DIRECT, 0bfd66d529a55807
-media.net, 8CUC4FKD1, DIRECT
-pubmatic.com, 157108, DIRECT, 5d62403b186f2ace
-pubmatic.com, 157109, DIRECT, 5d62403b186f2ace
-advertising.com, 27299, DIRECT, e1a5b5b6e3255540
-advertising.com, 28497, DIRECT, e1a5b5b6e3255540
-districtm.io, 100331, DIRECT, 3fd707be9c4527c3
-appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
-rhythmone.com, 949103067, DIRECT, a670c89d4a324e47
-rhythmone.com, 3408527385, DIRECT, a670c89d4a324e47
-revcontent.com, 130321, DIRECT
-themediagrid.com, U1NDYR, DIRECT, 35d5010d7789b49d
-improvedigital.com, 1625, DIRECT
-33across.com, 0014000000xvEfwAAE, DIRECT, bbea06d9c4d2853c
-conversantmedia.com, 41025, DIRECT, 03113cd04947736d
+# AdThrive ads.txt v2.24-auto
+google.com, pub-8501674430909082, DIRECT, f08c47fec0942fa0 #video, banner
+google.com, pub-8501674430909082, RESELLER, f08c47fec0942fa0 #video, banner
+sovrn.com, 214800, DIRECT, fafdf38b16bf6b2b #banner
+lijit.com, 214800, DIRECT, fafdf38b16bf6b2b #banner
+indexexchange.com, 182496, DIRECT, 50b1c356f2c5c8fc #video, banner
+openx.com, 537143229, DIRECT, 6a698e2ec38604c6 #video, banner
+appnexus.com, 3561, DIRECT, f5ab79cb980f11d1 #video, banner
+gumgum.com, 11685, DIRECT, ffdef49475d318a9 #video, banner
+districtm.io, 100319, DIRECT, 3fd707be9c4527c3 #banner
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1 #banner
+sekindo.com, 18727, DIRECT #video
+spotxchange.com, 84294, RESELLER, 7842df1d2fe2db34 #video
+spotx.tv, 84294, RESELLER, 7842df1d2fe2db34 #video
+advertising.com, 7372, RESELLER, e1a5b5b6e3255540 #video
+advertising.com, 24410, RESELLER, e1a5b5b6e3255540 #video
+improvedigital.com, 1065, RESELLER #video
+pubmatic.com, 156595, RESELLER, 5d62403b186f2ace #video
+indexexchange.com, 186035, DIRECT, 50b1c356f2c5c8fc #video, banner
+openx.com, 539404983, DIRECT, 6a698e2ec38604c6 #video, banner
+triplelift.com, 4800, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 4801, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 4802, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 4803, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 4804, DIRECT, 6c33edb13117fd86 #banner
+aps.amazon.com, 4fbba76f-7987-4fa2-9733-c27eb3a2170b, DIRECT #banner
+rubiconproject.com, 17698, DIRECT, 0bfd66d529a55807 #video, banner
+rubiconproject.com, 9262, DIRECT, 0bfd66d529a55807 #video, banner
+pubmatic.com, 157333, DIRECT, 5d62403b186f2ace #video, banner
+pubmatic.com, 157347, DIRECT, 5d62403b186f2ace #video, banner
+triplelift.com, 5895, DIRECT, 6c33edb13117fd86 #video, banner
+undertone.com, 2002, DIRECT #banner
+appnexus.com, 2234, RESELLER, f5ab79cb980f11d1 #banner
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6 #banner
+33across.com, 0013300001i0fyfAAA, DIRECT, bbea06d9c4d2853c #banner
+media.net, 8CUH2EUJ4, DIRECT #video, banner
+teads.tv, 17002, DIRECT, 15a9c44f6d26cbe1 #video, banner
+video.unrulymedia.com, UNRX-PUB-e1b123d0-0bf1-4c85-80ef-8d6ff2d77f8d, DIRECT #video
+triplelift.com, 5825, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 6286, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 6287, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 6288, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 6289, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 6290, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 6291, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 6292, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 6293, DIRECT, 6c33edb13117fd86 #banner
+triplelift.com, 6294, DIRECT, 6c33edb13117fd86 #banner
+oathprebid.com, 108, DIRECT #banner
+pubmatic.com, 157852, DIRECT, 5d62403b186f2ace #banner
+yieldmo.com, 2144304518241355475, DIRECT #banner
+freewheel.tv, 939281, RESELLER #video
+freewheel.tv, 939569, RESELLER #video
+rubiconproject.com, 20130, RESELLER, 0bfd66d529a55807 #video
+openx.com, 540258065, RESELLER, 6a698e2ec38604c6 #video
+lkqd.net, 244, RESELLER, 59c49fa9598a0117 #video
+indexexchange.com, 189263, DIRECT, 50b1c356f2c5c8fc #banner
+rubiconproject.com, 20848, RESELLER, 0bfd66d529a55807 #banner
+yahoo.com, 72409f4d-9858-41ac-bf45-be255b82de89, DIRECT, e1a5b5b6e3255540 #banner
+themediagrid.com, CU6Y9O, DIRECT, 35d5010d7789b49d #banner
+openx.com, 540814319, DIRECT, 6a698e2ec38604c6 #banner
+pubmatic.com, 158458, DIRECT, 5d62403b186f2ace #banner
+telaria.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a #video
+tremorhub.com, mb9eo-oqsbf, RESELLER, 1a4e959a1b50034a #video
+triplelift.com, 5895-EB, DIRECT, 6c33edb13117fd86 #video, banner
+advertising.com, 28489, DIRECT, e1a5b5b6e3255540 #video, banner
+adtech.com, 11740, DIRECT, e1a5b5b6e3255540 #banner
+telaria.com, 6psex-bl4yz, DIRECT, 1a4e959a1b50034a #video
+tremorhub.com, 6psex-bl4yz, DIRECT, 1a4e959a1b50034a #video
+rubiconproject.com, 21552, DIRECT, 0bfd66d529a55807 #banner
+sonobi.com, 80fe169af3, DIRECT, d1a215d9eb5aee9e #video, banner
+triplelift.com, 1884, DIRECT, 6c33edb13117fd86 #banner
+spotxchange.com, 268072, DIRECT, 7842df1d2fe2db34 #video
+spotx.tv, 268072, DIRECT, 7842df1d2fe2db34 #video
+telaria.com, 6psex-16l5r, DIRECT, 1a4e959a1b50034a #video
+tremorhub.com, 6psex-16l5r, DIRECT, 1a4e959a1b50034a #video
+districtm.io, 101990, DIRECT, 3fd707be9c4527c3 #banner
+lijit.com, 214800-eb, DIRECT, fafdf38b16bf6b2b #video, banner
+sharethrough.com, 2101b770, DIRECT, d53b998a7bd4ecd2 #banner
+rhythmone.com, 2338962694, RESELLER, a670c89d4a324e47 #video
+video.unrulymedia.com, 2338962694, RESELLER #video
+yahoo.com, 55891, DIRECT, e1a5b5b6e3255540 #banner
+rhythmone.com, 2693636657, DIRECT, a670c89d4a324e47 #banner
+video.unrulymedia.com, 2693636657, DIRECT #video
+vdopia.com, 14360, DIRECT #video, banner
+chocolateplatform.com, 14360, DIRECT #video, banner
+cafemedia.com, 5eb96b33e9893f1f1a5bfcc7, DIRECT, ecc1a0488da6f87f
