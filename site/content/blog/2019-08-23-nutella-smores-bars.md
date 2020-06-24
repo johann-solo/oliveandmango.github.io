@@ -39,6 +39,10 @@ I love the texture that that little bit of graham cracker crumb gives these bars
 </br>
 </br>
 
+{{< youtube 0x8cvYiybdU >}}
+</br>
+</br>
+
 ## Recipe
 ### Ingredients
 
