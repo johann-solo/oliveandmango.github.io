@@ -8,7 +8,7 @@ categories: ["mains"]
 tags: ["chicken", "lemons", "sponsored"]
 excerpt: Tender chicken cutlets with a tangy lemon-butter sauce 
 keywords: ["lemon chicken"]
-description: 
+description: Chicken piccata is a delicious classic Italian chicken dish. Tender chicken cutlets are sautéed and served with a tangy lemon-butter sauce.
 ---
 
 Chicken piccata is a delicious classic Italian chicken dish. Tender chicken cutlets are sautéed and served with a tangy lemon-butter sauce. It takes 20 minutes to make and can be paired with just about anything. Fancy enough for a dinner party but simple enough for a midweek dinner.  
@@ -55,6 +55,10 @@ It is usually served with a pasta, polenta, or rice but I love it with mashed po
 </br>
 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
+</br>
+</br>
+
+{{< youtube XXis8o15Aog >}}
 </br>
 </br>
 
