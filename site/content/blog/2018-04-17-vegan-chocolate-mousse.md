@@ -7,6 +7,8 @@ scaled_thumbnail: /images/uploads/2018_04_17_vegan_chocolate_mousse_0.jpg
 categories: ["desserts"]
 tags: ["chocolate", "vegan", "feedfeed"]
 excerpt: Light, airy and rich chocolate delights
+keywords: ["vegan desserts", "chocolate mousse"]
+description: Light, airy and rich vegan chocolate mousse
 ---
 
 I made a cocoa butter mash not too long ago and I had a really hard time locating cocoa butter on an island that boasts some of the best cocoa in the world. I have had several people ask me where to get it here on the island and we just have to laugh at how hard it is to locate. Since then thankfully I have seen it being sold in a few locations which is great as I’m posting this recipe which uses cocoa butter in it! I still had a remaining stash of cocoa butter from those mashed potatoes (which were amazing by the way - [check the recipe out here](https://www.oliveandmango.com/white-chocolate-mashed-potatoes/)) I made with it and I just knew I would come across a recipe to use it in.
@@ -52,6 +54,11 @@ You totally have to give this recipe a try. If you like dark and rich chocolatey
 </br>
 </br>
 
+{{< youtube B4EU7GowB_o >}}
+</br>
+</br>
+
+### Recipe
 ### Ingredients 
 
 * <span itemprop="ingredients"> &frac12; cup + 1 Tbsp unsweetened cocoa powder or cacao powder</span>
