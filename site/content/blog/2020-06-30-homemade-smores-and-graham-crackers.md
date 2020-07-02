@@ -11,7 +11,7 @@ keywords: ["homemade s'mores", "camping treats", "gluten free crackers"]
 description: Homemade S'mores and sweet crisp crackers
 ---
 
-Homemade graham crackers are easier than you think to make. They are perfect to snack on but ultimatey the most ideal thing to make s’mores with. I have included my recipe for making s’mores in the oven below. 
+Homemade graham crackers are easier than you think to make. They are perfect to snack on but ultimately the most ideal thing to make s’mores with. I have included my recipe for making s’mores in the oven below. 
 </br>
 </br>
 ![Homemade S'mores and Graham Crackers](/images/uploads/2020_06_30_homemade_smores_and_graham_crackers_2.jpg)
@@ -42,6 +42,10 @@ They are as easy to make as shortbread cookies, possibly even easier. Butter get
 </br>
 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
+</br>
+</br>
+
+{{< youtube JBHWEuB0vCc >}}
 </br>
 </br>
 
