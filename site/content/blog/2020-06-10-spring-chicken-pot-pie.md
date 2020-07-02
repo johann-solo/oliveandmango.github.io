@@ -98,7 +98,7 @@ Total time: 40 min
 
 1. Stir in the chicken and then sprinkle over the flour and stir it in well. Stir in the stock and mustard along with the lemon zest. Bring to a simmer and cook, uncovered, for 5-10 mins until reduced and slightly thickened. 
 
-1. Stir in the peas, crème fraîche and herbs, then remove from the heat. Taste and season well with salt and people. Scrunch the phyllo pastry sheets over the mixture, brush with a little oil and bake for 20-30 mins or until golden brown and bubbling at the sides 
+1. Stir in the peas, crème fraîche and herbs, then remove from the heat. Taste and season well with salt and pepper. Scrunch the phyllo pastry sheets over the mixture, brush with a little oil and bake for 20-30 mins or until golden brown and bubbling at the sides 
 
 1. Allow to cool a couple minutes once out of the oven and then serve. 
 
