@@ -8,7 +8,7 @@ categories: ["desserts"]
 tags: ["cheesecakes", "no bake", "strawberries"]
 excerpt: Deliciously creamy light and simple to make
 keywords: ["no bake desserts", "strawberry cheesecakes"]
-description: This deliciously creamy No Bake Cheesecake Recipe is so easy to make and super delicous
+description: This creamy No Bake Cheesecake Recipe is so easy to make and super delicous
 ---
 
 This deliciously creamy No Bake Cheesecake Recipe is so easy to make! There are certain days during the summer when the last place anyone wants to be is in a hot kitchen and this no bake cheesecake is the perfect summertime dessert. It’s got a mousse-like strawberry cream cheese filling with a simple no bake graham cracker crust. It’s great topped with fresh berries and the berry rim adds a great show stopping aesthetic to it with so very little effort.
@@ -43,6 +43,10 @@ Yes you can make your cheesecake ahead of time and store it in the freezer for u
 
 ## Can I make this without the strawberry purée? 
 Yes you can. You can either leave it out making it into a plain cheesecake or you can replace the strawberry purée/jam with whatever fruit purée you would like. If you make your own purée just make sure to reduce it and strain it if needed to reduce the amount of extra moisture added to the cheese cake filling. You will love it either either way. What’s not to love when it comes to a creamy luscious cheesecake. Enjoy! 
+</br>
+</br>
+
+{{< youtube lfdSPAr2y4k >}}
 </br>
 </br>
 
