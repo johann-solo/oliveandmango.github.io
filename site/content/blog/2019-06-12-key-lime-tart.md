@@ -18,7 +18,7 @@ A silky smooth filling that is so simple to make and only 4 ingredients. The gin
 </br>
 </br>
 
-### A lime tart with a ginger snap cookie base
+## A lime tart with a ginger snap cookie base
 I decided to use ginger snap cookies for the base because I love ginger and lime together but a graham cracker base would be great as well, maybe with a bit of dried coconut in the mix for a bit of a tropical twist. Just swap out the ginger snaps for graham crackers if you prefer a more traditional crust. When it comes to the filling I stuck to what the recipe called for. Although I’m pretty sure this tart would be great with any citrus you use. I can't wait to try it with lemons or blood oranges the next time they are plentiful. 
 </br>
 </br>
@@ -26,7 +26,7 @@ I decided to use ginger snap cookies for the base because I love ginger and lime
 </br>
 </br>
 
-### The perfect lime tart
+## How to make the perfect lime tart
 This pie could not be easier and I can’t wait for you guys to try it! You will love it! Perfect sweetness to tart ratio and is also the perfect canvas to have some fun with when it comes to topping it. I used lime slices and edible spring pansies. But this tart is also so delicious topped with a few dollops or swirls of whip cream. It’s the perfect way to satisfy your citrus pie craving with little effort and time, a total win for me! 
 </br>
 </br>
@@ -34,7 +34,11 @@ This pie could not be easier and I can’t wait for you guys to try it! You will
 </br>
 </br>
 
-## Recipe  
+{{< youtube 8_vyr6IyFXo >}}
+</br>
+</br>
+
+### Recipe  
 
 
 ### Ingredients
@@ -48,8 +52,8 @@ __For the filling__
 
 __For the crust__
 
-* <span itemprop="ingredients"> 25 gingersnap cookies, coarsely broken (about 6 ounces; about 2&frac14; cups pieces)</span>
-* <span itemprop="ingredients"> &frac14; cup (&frac12; stick) unsalted butter, melted</span>
+* <span itemprop="ingredients"> 25 gingersnap cookies, coarsely broken (about 6 ounces; about 2 cups crumbs in total)</span>
+* <span itemprop="ingredients"> 6 tbsps unsalted butter, melted</span>
 
 ### Directions
 __For the crust__

@@ -66,7 +66,7 @@ __For Graham Cracker Crust__
 
 __For the Cheesecake filling__
 
-* <span itemprop="recipeIngredient">1&frac14; cups heavy whipping cream (optionally you can used storebought whipped topping) </span>
+* <span itemprop="recipeIngredient">&frac34; cups heavy whipping cream (optionally you can use store-bought whipped topping the equivalent being 1&frac14; cup) </span>
 * <span itemprop="recipeIngredient">Three 8-oz blocks full-fat cream cheese, softened to room temperature</span>
 * <span itemprop="recipeIngredient">&frac12; cup confectioners’ sugar</span>
 * <span itemprop="recipeIngredient">&frac14; cup sour cream, at room temperature</span>
@@ -80,7 +80,7 @@ __For the Cheesecake filling__
 
 1. Combine the graham cracker crust ingredients together. Pour into a 9-inch springform pan and press into the bottom firmly.  Freeze for 10-20 minutes as you prepare the filling.
 
-1. Using a hand mixer or a stand mixer fitted with a whisk attachment, whip the cold heavy cream into stiff peaks on medium-high speed, about 4-5 minutes. Set aside. Skip this step if using store bought whipped topping instead. 
+1. Using a hand mixer or a stand mixer fitted with a whisk attachment, whip the cold heavy cream into stiff peaks on medium-high speed, about 4-5 minutes. It should make 1&frac14; cup of whip, approximately. Set aside. Skip this step if using store bought whipped topping instead. 
 
 1. Beat the cream cheese and strawberry purée on medium speed until perfectly smooth and creamy. Scrape down the sides of the bowl with a rubber spatula as needed. Add the confectioners’ sugar, sour cream, lemon juice, and vanilla extract. Beat for 2-3 minutes on medium-high speed until smooth and combined. Making sure there are no large lumps of cream cheese. 
 
