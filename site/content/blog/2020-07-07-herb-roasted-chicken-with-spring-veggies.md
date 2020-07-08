@@ -45,6 +45,10 @@ We enjoyed this delicious herb roasted chicken  with a kale quinoa mix - yup mor
 </br>
 </br>
 
+{{< youtube SiGYOTWL8C8 >}}
+</br>
+</br>
+
 ### Recipe
 
 Servings: <span itemprop="recipeYield">4-6 servings
