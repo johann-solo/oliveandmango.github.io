@@ -76,7 +76,7 @@ Cook Time: <meta itemprop="cookTime" content="PT50M">40-50 mins
 
 ### Directions
 
-1. Heat oven to 400°F. Put the chicken thighs in a large shallow roasting pan, season with slaw and pepper and toss with the olive oil, lemon zest and slices/wedges, shallots, rosemary and thyme. Arrange the chicken thighs, skin-side up, and roast for 40-50 mins until the skin is crisp and golden.
+1. Heat oven to 400°F. Put the chicken thighs in a large shallow roasting pan, season with salt and pepper and toss with the olive oil, lemon zest and slices/wedges, shallots, rosemary and thyme. Arrange the chicken thighs, skin-side up, and roast for 40-50 mins until the skin is crisp and golden.
 
 1. Meanwhile, bring a large pot of water to the boil and blanch the asparagus for 2-3 mins, adding the zucchini and peas for the final minute. (You can also pan fry them in a bit of olive oil if you prefer them done that way)
 
