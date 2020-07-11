@@ -29,14 +29,14 @@ I love cheesecake but in moderation. I like small junior sized pieces because ch
 </br>
 </br>
 
-It’s still rich and decadent but the lime in the cake and curd really brighten it up and cut through the richness somehow. This curd, by the way, is adapted from a Martha Stewart recipe and is by far the best curd recipe I have tried! It’s very hard to screw up. I added the tequila and citrus liqueur to my usual recipe to add a bit extra flavour to it and it was the perfect addition to this cheesecake. 
+It’s still rich and decadent but the lime in the cake and curd really brighten it up and cut through the richness somehow. This curd, by the way, is adapted from a Martha Stewart recipe and is by far the [best curd recipe](https://www.oliveandmango.com/how-to-make-a-simple-no-fail-citrus-curd/) I have tried! It’s very hard to screw up. I added the tequila and citrus liqueur to my usual recipe to add a bit extra flavour to it and it was the perfect addition to this cheesecake. 
 </br>
 </br>
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_5.JPG)
 </br>
 </br>
 
-The stabilized whip cream on top really lightens it up and is a perfect balance to the sweetness of the cake. I love to pipe it on if I’m making it for a celebration but on other occasions I will just dollop and swirl it straight onto the cheesecake. The crust is made with graham crackers and shredded coconut and just the right amount of coconutty flavour adding another layer of goodness to the cake
+The [stabilized whip cream](https://www.oliveandmango.com/stabilized-whipped-cream/) on top really lightens it up and is a perfect balance to the sweetness of the cake. I love to pipe it on if I’m making it for a celebration but on other occasions I will just dollop and swirl it straight onto the cheesecake. The crust is made with graham crackers and shredded coconut and just the right amount of coconutty flavour adding another layer of goodness to the cake
 </br>
 </br>
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_6.JPG)
@@ -44,6 +44,10 @@ The stabilized whip cream on top really lightens it up and is a perfect balance 
 </br>
 
 I think I have said enough about it. There is soo much yumminess in this cheesecake and I hope you give it a whirl! You won’t be disappointed. Not a fan of citrus cheesecakes? Hmm, that’s what I thought too but apparently, I am. So no excuses - give it a try and you will see! 
+</br>
+</br>
+
+{{< youtube TAi7Q77kK9E >}}
 </br>
 </br>
 
