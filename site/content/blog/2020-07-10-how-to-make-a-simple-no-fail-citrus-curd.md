@@ -37,6 +37,10 @@ It's very commonly served with scones, on and in layered cakes, cupcakes, bread,
 </br>
 </br>
 
+{{< youtube MfnmqOfZrWE >}}
+</br>
+</br>
+
 ### Recipe
 Makes approx 1-1&frac14; cups
 </br>

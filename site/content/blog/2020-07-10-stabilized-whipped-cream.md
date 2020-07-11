@@ -26,6 +26,9 @@ There are actually several ways to do this. Simply adding certain ingredients to
 ![Stabilized Whipped Cream](/images/uploads/2020_07_10_stabilized_whipped_cream_3.jpg)
 </br>
 </br>
+{{< youtube 9xnfykz2Ohc >}}
+</br>
+</br>
 
 ### Recipe
 Makes 2 cups 
