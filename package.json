@@ -45,7 +45,7 @@
     "hugo-algolia": "^1.2.13",
     "imagemin-mozjpeg": "^6.0.0",
     "imports-loader": "^0.7.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "postcss-cssnext": "^2.7.0",
     "postcss-import": "^10.0.0",
     "postcss-mixins": "^6.2.0",
