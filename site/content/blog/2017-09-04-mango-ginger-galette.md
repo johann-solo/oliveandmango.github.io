@@ -16,7 +16,7 @@ It’s been mango madness over here because both me and my husband love mangoes 
 This time I wanted to try something a little different with my over abundance of mangos. I saw a great recipe from Eat delicious and I thought I would try it. I wanted to sort of make it my own though, so I just followed some basic principles from Dennis Prescott’s recipe and used my own flavours. 
 </br>
 </br>
-![Simple and Delicious Roasted Radishes](/images/uploads/2017_09_04_mango_ginger_galette_2.jpg)
+![Mango Ginger Galette](/images/uploads/2017_09_04_mango_ginger_galette_2.jpg)
 </br>
 </br>
 
@@ -28,7 +28,7 @@ The ginger in the recipe is not at all overpowering and goes well with the mango
 The dough comes together very quickly and easily in the food processor and grating the butter or cutting it into small pieces makes all the difference even though you are using the food processor. It’s allows the fat to distribute really well and requires a lot less work time. The less you need to work/handle the dough the better and flakier it is. I do it all the time with my scones and also my puff pastry. 
 </br>
 </br>
-![Simple and Delicious Roasted Radishes](/images/uploads/2017_09_04_mango_ginger_galette_3.jpg)
+![Mango Ginger Galette](/images/uploads/2017_09_04_mango_ginger_galette_3.jpg)
 </br>
 </br>
 
@@ -40,7 +40,7 @@ There is a actually a legit reason other than having a boozy dough. The original
 Liquid is needed for the dough to form into a ball. When liquids are added to the wheat flours, the wheat flour proteins form gluten which can really toughen up the dough. To help prevent this but still allow the fat and flour to bind and make that little dough ball, you add the booze. In their cookbook, The Science of Good Cooking, Cook’s Illustrated explains “…gluten won’t form in alcohol. The ethyl alcohol in vodka and other liquors does not attach itself in the same way as water. Because of this, it does not hydrate the proteins, and therefore does not aid in gluten formation.” 
 </br>
 </br>
-![Simple and Delicious Roasted Radishes](/images/uploads/2017_09_04_mango_ginger_galette_4.jpg)
+![Mango Ginger Galette](/images/uploads/2017_09_04_mango_ginger_galette_4.jpg)
 </br>
 </br>
 
@@ -91,4 +91,4 @@ __Mango Ginger filling__
 9.	Bake for approx 30-35 minutes or until the filling is bubbling and the crust is golden brown. It’s totally ok if juice from the filling seeps out a bit onto the parchment paper while it’s baking. Serve warm topped with ice cream or whipped cream or enjoy it on its own.
 
 </br>
-![Simple and Delicious Roasted Radishes](/images/uploads/2017_09_04_mango_ginger_galette_5.jpg)
+![Mango Ginger Galette](/images/uploads/2017_09_04_mango_ginger_galette_5.jpg)
