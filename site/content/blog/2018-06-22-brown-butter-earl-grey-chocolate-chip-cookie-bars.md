@@ -12,6 +12,9 @@ tags:
   - cookies
 excerpt: Chewy centers, crackly top, and crispy edges with a subtle earthy sweet hint
   of bergamot
+keywords: ["chocolate chip blondies", "Earl Grey desserts"]
+description: Chocolate chip blondies with chewy centers, crackly top, and crispy edges with a subtle earthy sweet hint
+  of bergamot
 ---
 
 I had been seeing a lot of tea infused baked goods on instagram lately and I really wanted to have a go at it. At the same time I also wanted to make some blondies or chocolate chip cookie bars and I thought those would be great infused with some tea. Cookies and tea are just perfect together so why not in this scenario too right?
@@ -64,6 +67,12 @@ Chewy centers, crackly top, crispy edges basically the perfect weekend simple ba
 ![Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_10.jpg)
 </br>
 </br>
+
+{{< youtube m5lpEJJOSls >}}
+</br>
+</br>
+
+### Recipe
 
 ### Ingredients
 
