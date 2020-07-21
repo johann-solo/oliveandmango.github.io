@@ -51,6 +51,9 @@ So there you have it, there’s a good reason to add booze to your dough! For th
 This recipe is fabulously easy and that is saying a lot coming from me! I’m going to try making more pies and pastries in the near future and I will continue to chose the easiest ways of making them to share with you guys! This is a great no fail recipe for the crust and it’s versatile enough for any fruit filling. Definitely give it a go and let me know what you think of it! 
 </br>
 </br>
+{{< youtube OKGXWdGDqns >}}
+</br>
+</br>
 
 ### Recipe
 </br>
