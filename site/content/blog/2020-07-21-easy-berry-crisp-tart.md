@@ -8,7 +8,7 @@ categories: ["desserts"]
 tags: ["berries", "tarts", "vegan", "gluten free", "sponsored"]
 excerpt: Gluten free berry filled tart with a crunchy crumble sweet topping and a vegan option
 keywords: ["berry tart", "vegan tarts", "gluten free tarts", "gluten free desserts"]
-description: 
+description: Gluten free berry filled tart with a crunchy crumble sweet topping and a vegan option
 ---
 
 Berry tarts like this one are quick and easy and a dessert everyone loves. A cross between a pie and a crumble that can be made in tart form or into crumble bars. This is a great make ahead dessert making it perfect for taking to summer bbqs and gatherings. This and some icecream and dessert is sorted. 
@@ -44,6 +44,9 @@ The whole recipe is versatile. If you would like to spice up the filling or the 
 </br>
 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
+</br>
+</br>
+{{< youtube __QZQO2QfAo >}}
 </br>
 </br>
 
