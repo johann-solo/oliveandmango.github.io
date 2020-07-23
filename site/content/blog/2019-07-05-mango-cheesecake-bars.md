@@ -31,31 +31,42 @@ You guys loved these  when I posted them on Instagram and I never got so many su
 ![Mango Cheesecake Bars](/images/uploads/2019_07_05_mango_cheesecake_bars_4.jpg)
 </br>
 </br>
+{{< youtube G7f1YJcG1WM >}}
+</br>
+</br>
 
 ## Recipe
 
 ### Ingredients
 
-* <span itemprop="ingredients"> 1 (10 oz.) pkg. frozen or fresh mangos, thawed if using frozen (if using fresh - spoon out the flesh of the mango - you will need approximately 2-3 large mangos) </span>
-* <span itemprop="ingredients"> 1 tbsp. cornstarch</span>
-* <span itemprop="ingredients"> 2 cups finely crushed coconut cookies/snaps or graham cracker crumbs</span>
-* <span itemprop="ingredients"> &frac14; cup (4 tbsps.) butter, melted plus more to grease pan </span>
-* <span itemprop="ingredients"> 2 (8 oz.) pkgs. cream cheese, room temperature and softened</span>
-* <span itemprop="ingredients"> 1 (14 oz.) Sweetened Condensed Milk</span>
-* <span itemprop="ingredients"> 2 large eggs</span>
-* <span itemprop="ingredients"> &frac13; cup lemon juice</span>
-* <span itemprop="ingredients"> 1 tsp. vanilla extract or coconut extract if you want more of a coconut hit </span>
+* <span itemprop="recipeIngredient">&frac12; cup of mango purée from either fresh or frozen mangoes (approx 1-2 mangoes depending on size </span>
+* <span itemprop="recipeIngredient">1 tbsp. cornstarch</span>
+* <span itemprop="recipeIngredient">2 cups finely crushed coconut cookies/snaps or graham cracker crumbs</span>
+* <span itemprop="recipeIngredient">¼ cup (4 tbsps.) butter, melted plus more to grease pan</span>
+* <span itemprop="recipeIngredient">2 (8 oz.) pkgs. cream cheese, room temperature and softened</span>
+* <span itemprop="recipeIngredient">1 (14 oz.) Sweetened Condensed Milk</span>
+* <span itemprop="recipeIngredient">2 large eggs</span>
+* <span itemprop="recipeIngredient">⅓ cup lemon juice or lime juice </span>
+* <span itemprop="recipeIngredient">1 tsp. vanilla extract or coconut extract if you want more of a coconut hit</span>
+</br>
 
+### Directions
 
-### Directions 
+1. Preheat oven to 350°F.
+2. Grease and line your 8x8-inch square baking pan (brownie pan) with parchment paper - two strips forming a cross in the pan so that you can easily lift the bars out of the pan (optional because you can serve them straight out of the pan as well)
+3. Blend mangos in a blender or food processor until smooth. Transfer to saucepan; add cornstarch. Cook on medium and stir until thickened and reduced, (this will only take a minute or two). Then set aside
+4. Combine the coconut cookie crumbs or graham cracker crumbs and butter in small bowl; press firmly into the bottom of prepared pan. Bake for 8-10 minutes until golden. Remove and allow to cool while you make the filling.
+5. Beat cream cheese until fluffy in large bowl. Gradually beat in sweetened condensed milk until smooth. Add eggs, lemon juice and vanilla; mix well. 
+6. Whisk together mango purée with &frac14; cup of the cream cheese filling in a small bowl. 
+7. Pour the rest of the cream cheese mixture over crust. 
+8. Dollop mango mixture by spoonfuls over batter. Gently swirl with knife or spatula. (Or you can place the purée mixture into a pastry bag fitted with a round tip or a squeeze bottle and pipe it onto the filling in zigzag manner then pull a tooth pick through it the opposite way to create swirl pattern).
+9. Bake for 20-25 minutes or until center is set. (Water bath is optional) Cool to room temperature and then refrigerate for at least 2 hours. Lift out the bars from the pan using the parchment paper, cut and serve or cut and serve them right from the pan
+</br>
 
-1. Preheat oven to 350°F.  
-2. Grease and line your 8x8-inch square  baking pan (brownie pan) with parchment paper - two strips forming  a cross in the pan so that you can easily lift the bars out of the pan (optional because you can serve them straight out of the pan as well) 
-3. Blend mangos in a blender or food processor until smooth. Transfer to saucepan; add cornstarch. Cook and stir until thickened and reduced, just a few minutes. Then set aside
-4.  Combine the coconut cookie crumbs or graham cracker crumbs and butter in small bowl; press firmly into the bottom of prepared pan. Bake for 8-10 minutes until golden. Remove and allow to cool while you make the filling. 
-5. Beat cream cheese until fluffy in large bowl. Gradually beat in sweetened condensed milk until smooth. Add eggs, lemon juice and vanilla; mix well. Pour over crust.
-6. Dollop mango mixture by spoonfuls over batter. Gently swirl with knife or spatula.
-7. Bake for 20-25  minutes or until center is set. Cool to room temperature and then refrigerate for at least 2 hours. Lift out the bars from the pan using the  parchment paper, cut and serve or cut and serve them right from the pan 
+### Recipe Note
+
+* Mixing the purée with a bit of the cream cheese filling is optional.  The cheesecake and purée blend better when this is done with less cracks and separation. 
+* Taste the purée when heating it up - if it’s not as sweet as you like whisk in up to &frac14; cup of sugar to it according to taste (the riper the mangoes the sweeter they are). If your purée gets too thick just whisk in a teaspoon or two of lemon or lime juice to loosen it up. 
 
 </br>
 ![Mango Cheesecake Bars](/images/uploads/2019_07_05_mango_cheesecake_bars_5.jpg)
