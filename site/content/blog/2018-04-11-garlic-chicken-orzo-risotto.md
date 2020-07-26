@@ -7,6 +7,8 @@ scaled_thumbnail: /images/uploads/2018_04_11_garlic_chicken_orzo_risotto_0.jpg
 categories: ["mains"]
 tags: ["chicken", "one-pot-meals", "lemons", "citrus"]
 excerpt: Take a night off with a perfect "date night" meal
+keywords: ["One pot meals", "lemon garlic", "easy chicken dinner"]
+description: A lemony, rich one pot meal with creamy orzo
 ---
 
 Creamy orzo, perfectly roasted and flavourful chicken - what more could you ask for in a meal? This is my kind of date night food. What does date night food mean to me? It means not counting calories, using full cream and eating something decadent that I usually don’t have on the regular. Usually involves cheese and wine as well as some form of carb.
@@ -51,26 +53,34 @@ That is pretty much all I have to say about this dish. It’s absolutely delicio
 ![Creamy One Pan Lemon Garlic Chicken And Orzo Risotto](/images/uploads/2018_04_11_garlic_chicken_orzo_risotto_7.jpg)
 </br>
 </br>
+{{< youtube E0ZeymAfIzA >}}
+</br>
+</br>
+
+### Recipe
+</br>
+
+### Ingredients
 
 __For the chicken__
 
-* 1 lb of chicken thighs bone in and skin on preferably 
-* 3 tsp of lemon pepper (salt and pepper will do just fine if you don’t have or don’t like lemon pepper) 
-* 2 tbsp of extra virgin olive oil 
+* <span itemprop="recipeIngredient">1.5 lb of chicken thighs (4-6 pieces) bone in and skin on preferably </span>
+* <span itemprop="recipeIngredient">3 tsp of lemon pepper (salt and pepper will do just fine if you don’t have or don’t like lemon pepper) </span>
+* <span itemprop="recipeIngredient">2 tbsp of extra virgin olive oil </span>
 
 __For the orzo__
 
-* 2 tbsp of butter separated 
-* 1 lemon sliced (see post above about lemons)
-* 8 oz or approx 2&frac14; cups of sliced mushroom of choice (can leave out if you’re not a fan) 
-* 1 onion chopped finely 
-* 4 cloves of garlic minced 
-* 1&frac12; tsp of fresh thyme 
-* 1 tsp lemon zest 
-* 1&frac14; cup of orzo 
-* &frac13; cup of white wine 
-* 2 cups of chicken broth 
-* &frac12; cup of full fat milk or cream (can replace with broth instead if you prefer) 
+* <span itemprop="recipeIngredient">2 tbsp of butter separated </span>
+* <span itemprop="recipeIngredient">1 lemon sliced (see post above about lemons)</span>
+* <span itemprop="recipeIngredient">8 oz or approx 2&frac14; cups of sliced mushroom of choice (can leave out if you’re not a fan) </span>
+* <span itemprop="recipeIngredient">1 onion chopped finely </span>
+* <span itemprop="recipeIngredient">4 cloves of garlic minced </span>
+* <span itemprop="recipeIngredient">1&frac12; tsp of fresh thyme </span>
+* <span itemprop="recipeIngredient">1 tsp lemon zest </span>
+* <span itemprop="recipeIngredient">1&frac14; cup of orzo </span>
+* <span itemprop="recipeIngredient">&frac13; cup of white wine </span>
+* <span itemprop="recipeIngredient">2 cups of chicken broth </span>
+* <span itemprop="recipeIngredient">&frac12; cup of full fat milk or cream (can replace with broth instead if you prefer) </span>
 
 __Add ins__
 
