@@ -4,7 +4,7 @@ date: 2020-07-28T23:26:01-04:00
 author: Joanne
 thumbnail: /images/uploads/2020_07_28_smoked_salmon_pasta_salad_1.jpg
 scaled_thumbnail: /images/uploads/2020_07_28_smoked_salmon_pasta_salad_0.jpg
-categories: ["sides"]
+categories: ["mains"]
 tags: ["salads", "salmon", "pasta"]
 excerpt: Rich and creamy salmon pasta salad loaded with veggies and with a tangy yoghurt dressing 
 keywords: ["seafood pasta", "pasta salads"]
