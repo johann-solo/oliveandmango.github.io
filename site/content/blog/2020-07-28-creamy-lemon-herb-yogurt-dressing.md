@@ -32,7 +32,10 @@ This is not only a versatile dressing but it’s also customizable. I love to us
 * As a condiment for burgers or sandwiches 
 * In chicken or tuna salad 
 * In a fresh green salad 
-* In a beet salad 
+* In a beet salad  
+
+</br>
+{{< youtube 16ySJ-S_H8o >}}
 </br>
 </br>
 

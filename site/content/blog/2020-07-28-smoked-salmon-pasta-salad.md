@@ -34,6 +34,9 @@ It’s such a delicious make-ahead recipe perfect for a summer picnic, bbq or lu
 The yoghurt dressing and the salmon makes it irresistibly creamy, rich and full of deliciousness. The yoghurt based dressing is so simple to make and is perfect with this pasta salad - we love it and use it in a lot of other salads too. The smoked salmon is best chopped up into bite-sized pieces, which makes it easier to mix through the pasta salad and also ensures that there’s a piece of salmon in each bite. You will be going back for seconds I assure you. It’s a yummy one! Enjoy! 
 </br>
 </br>
+{{< youtube VEHhBtAlg14 >}}
+</br>
+</br>
 
 ### Recipe
 Serves 4-6 
