@@ -48,7 +48,11 @@ Short answer is NO! Small Cracks and bumps on the pavlova are very normal but th
 </br>
 
 These little tips will help ensure you get a delicious pavlova every time! Top it with your favorite curd, (I love [my simple lemon curd](https://www.oliveandmango.com/how-to-make-a-simple-no-fail-citrus-curd/) which is the perfect use of the leftover yolks from making the pavlova) whipped cream (I love my [stabilized whip](https://www.oliveandmango.com/stabilized-whipped-cream/)), and fresh seasonal fruit. It’s gorgeous, gluten free and delicious!
-
+</br>
+</br>
+{{< youtube oXHYI6aL0_c >}}
+</br>
+</br>
 
 ### Recipe
 
