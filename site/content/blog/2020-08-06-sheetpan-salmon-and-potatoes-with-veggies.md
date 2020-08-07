@@ -69,7 +69,7 @@ Total time: 45 mins
 1. Preheat oven to 425°F. Toss potatoes with 2 tablespoons olive oil, salt and pepper to taste , and 2 teaspoons herb blend. Arrange on a large sheet pan and bake in preheated oven for 20 minutes checking half way and giving them a shake.
 2. In the meantime prepare the sauce for  the salmon:  Whisk together melted  butter, sriracha, honey, dijon mustard, and &frac12; teaspoon remaining herb blend. Brush onto salmon fillets. Remove hot pan from oven, push the potatoes over to one side of the pan and carefully arrange salmon fillets and tomatoes and asparagus on the sheet pan.
 3. Drizzle asparagus and tomatoes with remaining 2 tablespoon olive oil, season with salt and pepper to taste
-4. Carefully place pan back in the oven and cook for another  15 minutes until asparagus is fork-tender and salmon is cooked through. Serve immediately. 
+4. Carefully place pan back in the oven and cook for another  15 minutes until asparagus is fork-tender and salmon is cooked through. Serve immediately garnished with chopped parsley and lemon slices 
 </br>
 
 ## Recipe Note
