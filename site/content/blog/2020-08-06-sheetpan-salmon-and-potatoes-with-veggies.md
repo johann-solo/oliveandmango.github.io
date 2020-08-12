@@ -35,6 +35,9 @@ These sheetpan roasted potatoes have to be the tastiest and the crispiest - I mi
 The salmon is perfectly tender and takes no time to bake as do the other two veggies I selected. The key is to use a large enough sheetpan to allow the rest of the veggies to have some wriggle room so that they all cook up evenly. You most definitely can switch up the veggies here. I love asparagus and tomatoes but I also love radishes and carrots and even green beans with this combo.  Just make sure to understand your veggies. For example root veggies would need probably the same bake time as the potatoes so you might have to put them on at the same time as them.  Zucchini spears wouldn’t need as much time so they would make a good replacement for the asparagus and so would broccoli or broccolini. The options are endless and you can swap things out according to what veggies your family loves to eat with salmon. It’s a versatile sheet pan salmon meal including the seasoning you choose to use as I elaborate in the recipe notes below. You will love it and will find that it’s the perfect midweek meal!! Enjoy! 
 </br>
 </br>
+{{< youtube W2DfHkFW0wg >}}
+</br>
+</br>
 
 ### Recipe
 

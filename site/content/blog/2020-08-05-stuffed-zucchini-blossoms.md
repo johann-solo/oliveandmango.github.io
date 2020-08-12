@@ -43,7 +43,7 @@ Zucchini flowers are delicate so remember to handle them carefully and they also
 </br>
 
 ## How do I eat zucchini blossoms? 
-Zucchini blossoms are very versatile. The flowers can be stuffed with rice, ricotta or minced meat (or a combo of all) and then cooked in the oven or lightly fried. They can also be lightly battered and deep fried for a crispy version stuffed or as is. They can also be steamed. They are great chopped and added raw to salad or pasta and can be cooked into a pasta sauce as well. You can add them so soups, risotto, omelettes, frittatas and even on pizza. You know that I love to stuff everything and the same went for these blossoms. You also know I have an aversion to deep fried things and love the overall flavour of baking them rather then steaming them so I baked mine until the edges  were crisp. Just delicious! I chose not make these with meat so it’s a simple buttery herbed rice that is good enough to serve as a side and perfect in these zucchini blossoms.  If you wanted to add some meat to these you can - from ground lamb to chicken you can use whatever you would like. I would  limit it to &frac12; lb for the amount of squash blossoms in this recipe. Just brown the meat with the onions and garlic and continue the recipe as is. 
+Zucchini blossoms are very versatile. The flowers can be stuffed with rice, ricotta or minced meat (or a combo of all) and then cooked in the oven or lightly fried. They can also be lightly battered and deep fried for a crispy version stuffed or as is. They can also be steamed. They are great chopped and added raw to salad or pasta and can be cooked into a pasta sauce as well. You can add them so soups, risotto, omelettes, frittatas and even on pizza. You know that I love to stuff everything and the same went for these blossoms. You also know I have an aversion to deep fried things and love the overall flavour of baking them rather then steaming them so I baked mine until the edges  were crisp. Just delicious! I chose not make these with meat so it’s a simple butter herbed rice that is good enough to serve as a side and perfect in these zucchini blossoms.  If you wanted to add some meat to these you can - from ground lamb to chicken you can use whatever you would like. I would  limit it to &frac12; lb for the amount of squash blossoms in this recipe. Just brown the meat with the onions and garlic and continue the recipe as is. 
 </br>
 </br>
 ![Stuffed Zucchini Blossoms](/images/uploads/2020_08_05_stuffed_zucchini_blossoms_6.jpg)
@@ -53,6 +53,10 @@ Zucchini blossoms are very versatile. The flowers can be stuffed with rice, rico
 I love this filling with or without the meat added and if you don’t have squash flowers to fill you can fill zucchini with it instead.  You just need to slice the zucchini in half and remove the seeded parts (should be able to stuff 4-6 small zucchini) Stuff and I would definitely add some extra cheese over the filling. Then bake. They may require a little extra time in the oven until the zucchini is tender, but a delicious option for leftover filling or if you can’t get your hands on zucchini blossoms. I have a special place in my heart for zucchini blossoms and am really happy to have enjoyed a few from the garden this year in this recipe and a few fresh in my salad. 
 </br>
 </br>
+{{< youtube DVzm63fiiqk >}}
+</br>
+</br>
+
 
 ### Recipe
 
