@@ -42,6 +42,9 @@ The base is made with crushed chocolate wafer cookies. It’s a press in crust t
 The cherry swirls are simple and you can get as fancy as you like with them. YOUTUBE has some pretty creatives ideas for swirling toppings into your cheesecake. The cherry purée is not a smooth liquid so it won’t look like a chocolate syrup swirl but it will still look nice and will taste delicious. I think you are going to especially love that it doesn’t need to bake for too long and it also doesn’t require a water bath either it also takes much less time to cool and set in the fridge which means less time for you to get some in your belly.  Hope you enjoy this years Olive and Mango Black Forest cake rendition via this cheesecake! We sure did! 
 </br>
 </br>
+{{< youtube iyWg4mFIXJU >}}
+</br>
+</br>
 
 ### Recipe
 Serves 8-10 
