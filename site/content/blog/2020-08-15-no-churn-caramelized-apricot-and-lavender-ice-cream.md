@@ -50,6 +50,9 @@ There’s a science behind keeping this no-churn ice cream fluffy and smooth wit
 This flavour combo was inspired by _Aimee Twigger_. She featured a delicious galette with apricots and lavender and I knew I had to make that into an ice cream flavour. I’m so glad I did. Not having an ice cream maker doesn’t have to stop you from making your own ice cream - it’s easy and fun and you can play with loads of flavours. It’s the best thing to share and serve out on a hot day and even sweeter tasting when it’s homemade. Stay cool and enjoy! 
 </br>
 </br>
+{{< youtube 8obFTr-GqqU >}}
+</br>
+</br>
 
 ### Recipe
 

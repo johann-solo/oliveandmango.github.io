@@ -39,6 +39,9 @@ The ones fresh off the cactus are covered with thorns. The ones you buy at the s
 A traditional Mojito calls for simple syrup, or a bit of sugar as a sweetener. I love the idea of incorporating and infusing more of the fruit in this cocktail so I made a really simple prickly pear syrup you can add to sweeten it but if you don’t have enough fruit for a syrup just sweeten with some agave instead. The cocktail measurements are recommendations. If you like your cocktail sweeter add more agave or syrup. Same goes for the amount of alcohol and mint. The lime infused carbonated water is optional - you can use plain carbonated water or you can even use Sprite or 7-up. I think the fruit adds a nice sweetness and makes for a more exotic mojito. If you can get your hands on some prickly  pears - make sure to enjoy a few as is and muddle the rest into something sweet and refreshing like these mojitos.   
 </br>
 </br>
+{{< youtube mDzyLGU2pmI >}}
+</br>
+</br>
 
 ### Recipe
 Makes 1 cocktail 
