@@ -28,6 +28,9 @@ They’re soft, so chewy and the flavor is just so good. They are easier than yo
 Pita is also a great make-ahead bread. I often prepare the dough through the first rise, punch it down, and then keep it refrigerated for up to a week. The flavor and texture actually improves after a few days of chilling. You can bake the whole batch at once or cut off just what you need to make one or two pitas at a time. There’s a reminder of at what point you can refrigerate dough in the directions too. You can make them as thin or as thick as you want them too depending one how thin or thick your roll them out. They taste way better than store bought and are easy to make - why not given them a go and see for yourself? 
 </br>
 </br>
+{{< youtube DVHO5m_WTPY >}}
+</br>
+</br>
 
 ### Recipe
 

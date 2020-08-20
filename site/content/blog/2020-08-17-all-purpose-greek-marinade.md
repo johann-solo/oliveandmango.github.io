@@ -28,10 +28,9 @@ With only a few simple ingredients it packs the chicken (or whatever you add it 
 I love how customizable it is.  If you like it more tangy you can up the lemon juice and red wine vinegar. If you like it more herby you can add more oregano or thyme. Same goes for how much garlic you want to add to it too. It’s made with basic pantry ingredients and elevates the flavour of anything that comes in contact with it. A good marinade goes a long way in making your meat tender and delicious and I think you will love this Greekstyle one!
 </br>
 </br>
-<!--{{< youtube 8obFTr-GqqU >}}
+{{< youtube yqpKGCl8EAc >}}
 </br>
 </br>
--->
 
 ### Recipe
 
