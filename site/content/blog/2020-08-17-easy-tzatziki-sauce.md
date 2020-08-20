@@ -28,10 +28,9 @@ It’s so easy to make and homemade is always best as you can customize it to yo
 This is in fact a Greek-style garlic sauce so expect it to be quite garlicky. You can cut back the garlic to 1 clove if you want it less garlicky but really and truly the longer the garlic rests in the yogurt, the less sharp bite it will have and the better it will taste. It’s Fresh and flavorful, and an easy Tzatziki recipe. It’s so good you’ll want to drizzle it on everything (or eat it by the spoonful). 
 </br>
 </br>
-<!--{{< youtube 8obFTr-GqqU >}}
+{{< youtube 6bjtC-VwyLc >}}
 </br>
 </br>
--->
 
 ### Recipe
 Makes 1&frac12; - 2 cups 
