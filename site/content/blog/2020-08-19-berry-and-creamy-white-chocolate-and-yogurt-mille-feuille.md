@@ -62,6 +62,9 @@ The pastry layer is crispy and buttery and just what you want in a pastry like t
 The berry layer is so versatile. You can use any fruit or berry your prefer. I used whole berries because they look so pretty but this would be so delicious with macerated strawberries or a nice compote made from any fruit drizzled over it. You can also add fruit in between the layers too. I have made these with a layer of fruit jelly over the puff pastry and then pipe on the filling. There’s so many variations and combos of fruit flavours you could use and enjoy. So feel free to experiment. These are beautiful and look so fancy to serve but really and truly they are simple and fun to make and a lot more doable than you might think. If I can you can!!
 </br>
 </br>
+{{< youtube ZJPNEn8KpR0 >}}
+</br>
+</br>
 
 ### Recipe
 

@@ -44,6 +44,9 @@ The other spices are warming spices and make for a great combo in this dish. Cin
 As you can tell from some of my previous post like my [Chicken Marbella](https://www.oliveandmango.com/chicken-marbella/). I don’t shy away from adding fruit to savoury dishes whether it’s fresh or dried. I won’t stop either - this is one of two I’m sharing with stone fruit this season and they are both to die for. If you can get your hands on some sumac I strongly recommend grabbing some and making this and also enjoying it in so many other ways that I mentioned about. It’s always nice to expand the palate and try new spices - keeps things fun and fresh in the kitchen and you can add another great way to cook your chicken. If you love savoury with a touch of sweet you will love this one!!
 </br>
 </br>
+{{< youtube 5ajD_JSjJ_A >}}
+</br>
+</br>
 
 ### Recipe
 
