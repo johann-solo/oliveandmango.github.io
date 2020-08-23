@@ -61,7 +61,7 @@ Makes 1 cocktail
 
 ### Directions
 
-1. Take leaves off of the sprig of mint and muddling in the bottom of glass using a muddler or the back of a spoon. 
+1. Take leaves off of the sprig of mint and muddle in the bottom of glass along with the prickly pear fruit using a muddler or the back of a spoon. 
 
 1. Cut the lime into quarters and squeeze the juice into the glass. Add the entire wedges in and muddle those with the mint.
 
