@@ -114,4 +114,7 @@ __For the White Chocolate & Yogurt Filling__
 1. Repeat with the remaining pastry, filling, and berries. Dust with powdered sugar and serve immediately, or refrigerate for up to 5 hours until ready to serve.
 
 </br>
+Apdapted from _Food52_ and _Café Fernando_
+</br>
+
 ![Berry and Creamy White Chocolate and Yogurt Mille Feuille](/images/uploads/2020_08_19_berry_and_creamy_white_chocolate_and_yogurt_mille_feuille_7.jpg)

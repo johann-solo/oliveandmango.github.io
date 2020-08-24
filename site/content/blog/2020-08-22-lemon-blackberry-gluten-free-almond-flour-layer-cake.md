@@ -128,4 +128,7 @@ Set one cake on a plate or cake stand, pipe a thick strip of frosting around the
 * You can use any frosting you would like in this cake. It’s a versatile cake recipe that goes with so many flavour. Feel free to substitute the vanilla with coconut and layer with coconut whip and coconut flakes. There are lots of ways to play up the flavours. 
 
 </br>
+Apdapted from _Epicurious_
+</br>
+
 ![Lemon Blackberry Gluten Free Almond Flour Layer Cake](/images/uploads/2020_08_22_lemon_blackberry_gluten_free_almond_flour_layer_cake_7.jpg)
