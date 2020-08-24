@@ -11,7 +11,7 @@ keywords: ["Cucumber Dip"]
 description: 
 ---
 
-This creamy tzatziki is a classic Greek garlic yoghurt dip or suace made from thick strained yogurt, cucumber, garlic, olive oil, and fresh dill. It’s super simple to make and irresistibly good. This is so tangy full of bright flavors and delicious; a very versatile sauce. You can use it as a dipping sauce for breads or vegetables, on souvlakia, gyros, or as a condiment. It’s also great with rice almost like a Greekstyle raita. 
+This creamy tzatziki is a classic Greek garlic yoghurt dip or suace made from thick strained yogurt, cucumber, garlic, olive oil, and fresh dill. It’s super simple to make and irresistibly good. This is so tangy full of bright flavors and delicious; a very versatile sauce. You can use it as a dipping sauce for breads or vegetables, on [souvlakia](https://www.oliveandmango.com/greek-style-souvlaki-with-homemade-tzatziki/), gyros, or as a condiment. It’s also great with rice almost like a Greekstyle raita. 
 </br>
 </br>
 ![Easy Tzatziki Sauce](/images/uploads/2020_08_17_easy_tzatziki_sauce_2.jpg)

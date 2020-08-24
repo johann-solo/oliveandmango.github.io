@@ -98,4 +98,7 @@ __For the Plums__
 1. Serve with rice, couscous or some crusty bread to enjoy the pan juices with.
 
 </br>
+Apdapted from _Melissa Clark_ NY Times
+</br>
+
 ![Sheet Pan Sumac Spiced Chicken With Plums](/images/uploads/2020_08_20_sheet_pan_sumac_spiced_chicken_with_plums_6.jpg)
