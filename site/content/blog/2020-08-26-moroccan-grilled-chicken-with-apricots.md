@@ -11,7 +11,7 @@ keywords: ["Moroccan food", "spatchcock chicken"]
 description: Spatchcocked grilled or roasted Moroccan spiced chicken and sweet apricots 
 ---
 
-Grilled or roasted spatchcock Moroccan chicken is an easy and incredibly flavorful way to prepare a whole chicken. It’s seasoned with Moroccan spices and herbs (my homemade blend is easy), is tender, and it also goes wonderfully with couscous and the sweet apricots that are grilled and jammy. This grilled chicken dish transforms the sweet-savory elements of a Moroccan tagine - spiced sweet apricots and couscous - into a light, summery meal.
+Grilled or roasted spatchcock Moroccan chicken is an easy and incredibly flavorful way to prepare a whole chicken. It’s seasoned with Moroccan spices and herbs [my homemade blend is easy](https://www.oliveandmango.com/all-purpose-moroccan-spice-blend-ras-el-hanout/), is tender, and it also goes wonderfully with couscous and the sweet apricots that are grilled and jammy. This grilled chicken dish transforms the sweet-savory elements of a Moroccan tagine - spiced sweet apricots and couscous - into a light, summery meal.
 </br>
 </br>
 ![Moroccan Grilled Chicken With Apricots](/images/uploads/2020_08_26_moroccan_grilled_chicken_with_apricots_2.jpg)
@@ -48,6 +48,9 @@ If you liked this recipe you will also love:
 • [Piri Piri Chicken](https://www.oliveandmango.com/piri-piri-chicken/)
 </br>
 </br>
+{{< youtube 81a0uqccuOw >}}
+</br>
+</br>
 
 ### Recipe 
 Serves 3-4 people 
@@ -59,7 +62,7 @@ Serves 3-4 people
 __For the chicken__
 
 * <span itemprop="recipeIngredient">1 whole chicken spatchcocked (See Below)</span>
-* <span itemprop="recipeIngredient">2 tbsp all purpose Moroccan spice mix - divided reserving &frac14; tsp for the apricots (my homemade blend is easy and </span>delicious)
+* <span itemprop="recipeIngredient">2 tbsp <span class="highlight"><a href="https://www.oliveandmango.com/all-purpose-moroccan-spice-blend-ras-el-hanout/">all purpose Moroccan spice mix</a></span> - divided reserving &frac14; tsp for the apricots (my homemade blend is easy and delicious)</span>
 * <span itemprop="recipeIngredient">1 tsp salt </span>
 * <span itemprop="recipeIngredient">&frac34; tsp pepper </span>
 * <span itemprop="recipeIngredient">1 tbsp olive oil </span>
