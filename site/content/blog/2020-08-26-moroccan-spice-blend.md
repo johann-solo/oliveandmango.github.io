@@ -15,7 +15,10 @@ This vibrant spice blend is one of my favourites to use in stews and grilled mea
 </br>
 </br>
 
-You can use as much or as little dry rub as you want, but usually 1 tablespoon of dry rub for every 1 pound (450 g) of meat you're cooking. Make sure you coat all sides of the chicken so the dry rub covers the entire piece of meat. I love to use it when I’m roasting or grilling chicken whole or in pieces - just like in my Moroccan chicken with apricots. 
+You can use as much or as little dry rub as you want, but usually 1 tablespoon of dry rub for every 1 pound (450 g) of meat you're cooking. Make sure you coat all sides of the chicken so the dry rub covers the entire piece of meat. I love to use it when I’m roasting or grilling chicken whole or in pieces - just like in my [Moroccan chicken with apricots](https://www.oliveandmango.com/all-purpose-moroccan-spice-blend-ras-el-hanout/). 
+</br>
+</br>
+{{< youtube xYmZSxCvgto >}}
 </br>
 </br>
 

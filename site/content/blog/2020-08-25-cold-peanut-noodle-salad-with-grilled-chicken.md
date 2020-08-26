@@ -60,9 +60,9 @@ Combining Thai-inspired flavors and ingredients to create a colorful salad is an
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.metro.ca/en">Metro Ontario</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
-<!--{{< youtube 4VLcyqZ7zSU >}}
+{{< youtube wEk4zgnkKZI >}}
 </br>
-</br>-->
+</br>
 
 ### Recipe
 
