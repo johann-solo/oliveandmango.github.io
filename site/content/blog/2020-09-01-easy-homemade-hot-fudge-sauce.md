@@ -11,17 +11,20 @@ keywords: ["homemade toppings"]
 description: Thick and rich chocolate sauce perfect over ice cream
 ---
 
-This thick and rich chocolate sauce is perfect over ice cream. It’s so easy to make and stores very well in the fridge. Just reheat as  needed and enjoy! 
+This thick and rich chocolate sauce is perfect over ice cream. It’s so easy to make and stores very well in the fridge. Just reheat as needed and enjoy! 
 </br>
 </br>
 ![Easy Homemade Hot Fudge Sauce](/images/uploads/2020_09_01_easy_homemade_hot_fudge_sauce_2.jpg)
 </br>
 </br>
 
-Other than eating it by the spoonful and poured over ice cream and banana splits -  you can also enjoy it drizzled over brownies or soufflés, for dipping or drizzling over fruit, drizzling over hot or cold cocoa beverages and also great in ice cream cakes or over them like in my Hula pie recipe.  It’s made with simple pantry ingredients with no additives like the store bought stuff. It’s irresistible and you won’t regret making a batch! 
+Other than eating it by the spoonful and poured over ice cream and banana splits -  you can also enjoy it drizzled over brownies or soufflés, for dipping or drizzling over fruit, drizzling over hot or cold cocoa beverages and also great in ice cream cakes or over them like in my [Hula pie recipe](https://www.oliveandmango.com/hula-pie-ice-cream-pie/). It’s made with simple pantry ingredients with no additives like the store bought stuff. It’s irresistible and you won’t regret making a batch! 
 </br>
 </br>
 ![Easy Homemade Hot Fudge Sauce](/images/uploads/2020_09_01_easy_homemade_hot_fudge_sauce_3.jpg)
+</br>
+</br>
+{{< youtube NzrSvC86ap4 >}}
 </br>
 </br>
 
