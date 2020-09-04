@@ -58,6 +58,6 @@
   "devDependencies": {
     "@babel/preset-env": "^7.7.1",
     "hugo-bin": "^0.39.0",
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   }
 }
