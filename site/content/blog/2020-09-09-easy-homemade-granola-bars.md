@@ -39,9 +39,9 @@ This super easy Granola Bar Recipe can be customized with your favorite add-ins.
 They are the perfect portable snack packed with flavor, crunch, and the right amount of chewiness in each bite. I love making them Sunday as part of my meal prep and they last the week between me and hubby. I let them set overnight and slice them up in the morning ready to enjoy for my mid morning snack.  They store well in airtight container for up to one week room temp for softer bars and for crunchier bars store them in the fridge. The combos are endless - hope you enjoy them.
 </br>
 </br>
-<!--{{< youtube yTFHPgs2E64 >}}
+{{< youtube PtX51NIsbP4 >}}
 </br>
-</br>-->
+</br>
 
 ### Recipe
 
