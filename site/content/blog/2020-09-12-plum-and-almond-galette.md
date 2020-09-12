@@ -43,9 +43,9 @@ Plums are somewhat underrated but they shine in this tasty galette filled with s
 
 </br>
 </br>
-<!--{{< youtube yTFHPgs2E64 >}}
+{{< youtube noaJ942Ob5Y >}}
 </br>
-</br>-->
+</br>
 
 ### Recipe
 
