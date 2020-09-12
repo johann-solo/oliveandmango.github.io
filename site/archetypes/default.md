@@ -11,16 +11,28 @@ keywords: [""]
 description: 
 ---
 
-### Ingredients 
+</br>
+<!--</br>
+{{< youtube 00000000 >}}
+</br>
+</br>-->
+
+### Recipe
+
+Servings: <span itemprop="recipeYield">Serves 
+
+Prep Time: <meta itemprop="prepTime" content="PT00M">00 mins  
+
+Cook Time: <meta itemprop="cookTime" content="PT00M">00 mins
+  
+</br>
+
+### Ingredients
 
 * <span itemprop="recipeIngredient">
 
 
 
-### Directions
-<span itemprop="recipeInstructions">
 
-
-</span>
 </br>
 ![](/images/uploads/{{ replace .TranslationBaseName "-" "_" }}_1.jpg)
