@@ -7,6 +7,8 @@ scaled_thumbnail: /images/uploads/2018_09_12_honey_and_fig_pavlova_0.jpg
 categories: ["desserts"]
 tags: ["figs", "honey"]
 excerpt: A dreamy pavlova that tastes as amazing as it looks
+keywords: ["meringue desserts", "desserts with figs"]
+description: How to make a beautiful pavlova. This recipe take the fear out of making this beautiful show stopping dessert
 ---
 
 My husband cannot ever get enough of meringue or as Trinbagobian’s call it – soupees. That is why I decided to make the meringue cake. I have made pavlova or meringue before with a cookbook challenge held by Deborah and her _Rainy Day Bites_ cookbook club and it was pretty straightforward. The recipe was from _Dennis Prescott_ and was a very descriptive one with very good instructions. The thing about his recipe though is that in the end you smashed it to serve. So even if there were cracks in it you didn’t have to worry about it or worrying about it collapsing on you. Ever since making that one, Johann has literally been asking for meringue non-stop.
@@ -88,31 +90,31 @@ What you should get is two crispy edged pavlovas that are light and super airy b
 </br>
 </br>
 
-## Recipe 
-(makes two 9 inch pavlovas)
+### Recipe 
+Servings: <span itemprop="recipeYield">Two 9 inch pavlovas
 </br>
 </br>
 
 ### Ingredients
 
-* 8 figs, halved
-* 3 tbsp honey
-* 2 small sprigs of rosemary
-* 2 tbsp lemon juice
-* 600 ml whipping cream
-* 400 ml Greek yogurt
-* 2 oranges, zested
-* 2 pavlovas (recipe below)
-* 1 tbsp pistachios, roughly chopped
-* Extra honey fro drizzling 
+* <span itemprop="recipeIngredient">8 figs, halved (or quartered if large)</span>
+* <span itemprop="recipeIngredient">3 tbsp honey</span>
+* <span itemprop="recipeIngredient">2 small sprigs of rosemary</span>
+* <span itemprop="recipeIngredient">2 tbsp lemon juice</span>
+* <span itemprop="recipeIngredient">600 ml whipping cream</span>
+* <span itemprop="recipeIngredient">400 ml Greek yogurt</span>
+* <span itemprop="recipeIngredient">2 oranges, zested</span>
+* <span itemprop="recipeIngredient">2 pavlovas (recipe below)</span>
+* <span itemprop="recipeIngredient">1 tbsp pistachios, roughly chopped</span>
+* <span itemprop="recipeIngredient">Extra honey fro drizzling </span>
 
 __For the meringue layers__
 
-* 2 cup granulated sugar
-* 3 teaspoons cornstarch
-* 2 teaspoon vanilla extract
-* 2 teaspoon distilled white vinegar
-* 8 large egg whites at room temperature
+* <span itemprop="recipeIngredient">2 cup granulated sugar</span>
+* <span itemprop="recipeIngredient">3 teaspoons cornstarch</span>
+* <span itemprop="recipeIngredient">2 teaspoon vanilla extract</span>
+* <span itemprop="recipeIngredient">2 teaspoon distilled white vinegar</span>
+* <span itemprop="recipeIngredient">8 large egg whites at room temperature</span>
 
 ### Directions 
 
@@ -143,11 +145,11 @@ __For the pavlovas__
 
 __For the filling and the figs__
 
-1. Preheat the oven to 400 &deg; F. Put the figs in a roasting pan, drizzle over the honey and scatter rosemary over figs. Bake for 10 mins. Use a slotted spoon to transfer the figs to a bowl, then stir the lemon juice into the syrup in the pan and set aside to cool. Must be completely cool before topping pavlova cake. 
+1. Preheat the oven to 400°F. Put the figs in a roasting pan, drizzle over the honey and scatter rosemary over figs. Bake for 10 mins. Use a slotted spoon to transfer the figs to a bowl, then stir the lemon juice into the syrup in the pan and set aside to cool. Must be completely cool before topping pavlova cake. 
 
-1. Just before you're ready to serve, make the whipped cream: In a large bowl, mix the cream with a mixer to stiff peaks. Fold through the yogurt, the orange zest and all the the fig syrup.
+2. Just before you're ready to serve, make the whipped cream: In a large bowl, mix the cream with a mixer to stiff peaks. Fold through the yogurt, the orange zest and all the strained fig syrup.
 
-1. To assemble, put a meringue pavlova on a serving plate. Very gently top with half the cream, using a spatula or you can pipe on the cream as well which helps you have a lighter touch on the pavlova. Repeat with the remaining meringue and cream. Arrange the figs on top, then scatter over the pistachios and drizzle with some honey to serve and serve within 1 to 2 hours. (Do not refrigerate; the meringue as it will quickly soften.)
+3. To assemble, put a meringue pavlova on a serving plate. Very gently top with half the cream, using a spatula or you can pipe on the cream as well which helps you have a lighter touch on the pavlova. Repeat with the remaining meringue and cream. Arrange the figs on top, then scatter over the pistachios and drizzle with some honey to serve and serve within 1 to 2 hours. (Do not refrigerate; the meringue as it will quickly soften.)
 
 ### Recipe Notes
 
