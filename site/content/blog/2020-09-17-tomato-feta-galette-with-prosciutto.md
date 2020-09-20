@@ -32,7 +32,7 @@ The creamy feta filling is wonderful and easy to make and makes enough to fill t
 </br>
 </br>
 
-The same goes for the crust. It’s simple enough to make a homemade one. This one is quite simple to work with. I usually recommend working quickly when rolling it out and if it gets to soft at any point just pop it in the fridge for a few minutes on the pan and all to make it easier to work with. Sometimes I find it easier to roll pastry dough between two sheets of parchment paper, and other times it’s easier without the top sheet of parchment. Try both ways to see what works best for you. Like I said with the cheese filling though - if you prefer using a store bought pie dough to make this galette that is perfectly fine 
+The same goes for the crust. It’s simple enough to make a homemade one. This one is quite simple to work with. I usually recommend working quickly when rolling it out and if it gets too soft at any point just pop it in the fridge for a few minutes on the pan and all to make it easier to work with. Sometimes I find it easier to roll pastry dough between two sheets of parchment paper, and other times it’s easier without the top sheet of parchment. Try both ways to see what works best for you. Like I said with the cheese filling though - if you prefer using a store bought pie dough to make this galette that is perfectly fine 
 </br>
 </br>
 ![Tomato Feta Galette With Prosciutto](/images/uploads/2020_09_17_tomato_feta_galette_with_prosciutto_5.jpg)
@@ -72,7 +72,7 @@ __For the Whipped Feta__
 
 __For the Filling__
 
-* <span itemprop="recipeIngredient">2 heirloomTomatoes slices </span>
+* <span itemprop="recipeIngredient">2 heirloom Tomatoes, sliced </span>
 * <span itemprop="recipeIngredient">1 tbsp Herbs dried of choice (I used Italian blend) </span>
 * <span itemprop="recipeIngredient">4-5 slices of prosciutto (optional but recommended) </span>
 </br>
