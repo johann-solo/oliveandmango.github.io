@@ -58,9 +58,9 @@ You will love how easy they are to make and what a great breakfast or snack opti
 ![Easy Egg Bites](/images/uploads/2020_09_20_easy_egg_bites_6.jpg)
 </br>
 </br>
-<!--{{< youtube 00000000 >}}
+{{< youtube 1huvXwZmkww >}}
 </br>
-</br>-->
+</br>
 
 ### Recipe
 
