@@ -28,9 +28,9 @@ First things first let’s talk tomatoes. You can use any tomatoes you might hav
 It seems like a lot of sugar going in - it really helps caramelize the jam and it’s actually quite  a normal amount as far as jams go but if you wanted to reduce it by a bit that is totally fine. I love this jam with goat cheese on a crisp or on crispy baguette slices and not opposed to a slice of Genoa salami in there too - it pairs really well with many cheeses and a great addition to any cheeseboard. It can easily be added to any sandwich as a condiment or used as a relish. It’s perfect with grilled meats as well and I also used it in my favourite jam tart recipe which ended up tasting like a giant jam filled shortbread cookie. It’s quite simple to make and stores well in the fridge for up to 2 weeks without any special canning efforts. It’s like no other jam you have made - but hopefully one you will love as much as we do. It makes for a great hosting gift too - a jar of this, baguette, chèvre and some wine - what could be better? 
 </br>
 </br>
-<!--{{< youtube 00000000 >}}
+{{< youtube -_lZ483_9t4 >}}
 </br>
-</br>-->
+</br>
 
 ### Recipe
 Servings: <span itemprop="recipeYield">Makes approx 2-2&frac12; cups  
