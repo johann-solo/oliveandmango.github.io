@@ -1,6 +1,6 @@
 ---
 title: Easy Italian Jam Tart (Fregolotta)
-date: 2020-09-23
+date: 2020-09-24
 author: Joanne
 thumbnail: /images/uploads/2020_09_21_easy_italian_jam_tart_1.jpg
 scaled_thumbnail: /images/uploads/2020_09_21_easy_italian_jam_tart_0.jpg
