@@ -1,6 +1,6 @@
 ---
 title: Easy Italian Jam Tart (Fregolotta)
-date: 2020-09-24
+date: 2020-09-22
 author: Joanne
 thumbnail: /images/uploads/2020_09_21_easy_italian_jam_tart_1.jpg
 scaled_thumbnail: /images/uploads/2020_09_21_easy_italian_jam_tart_0.jpg
@@ -11,13 +11,27 @@ keywords: ["homemade jam tarts", "Fregolotta"]
 description: Buttery jam filled tart that tastes like a giant shortbread cookie 
 ---
 
+This buttery jam filled tart is crumbly and delicious and can be filled with any jam you have - store bought or homemade. Even though its called a tart, torta fregolotta is texturally more like a shortbread jam cookie. This rustic ‘cookie’ is quite simple to make and is made with basic pantry ingredients: sugar, butter, eggs and almonds. This is a recipe I have been wanting to make from the Food52 Genius Desserts book for a long time. I recently made a homemade [Sweet & Savoury Tomato Jam](https://www.oliveandmango.com/sweet-and-savoury-tomato-jam/)  and decided it was time to make this tart. We loved it and I can’t wait to make it again with fig or apricot jam. 
+</br>
+</br>
+![Easy Italian Jam Tart](/images/uploads/2020_09_21_easy_italian_jam_tart_2.jpg)
+</br>
+</br>
 
+The Italian word for this tart is in reference to its crunchy texture and it’s often broken into pieces and served that way. There are many variations to this tart, some actually sponge cakes containing ground nuts. Many versions include cornmeal or polenta, or almond meal  in the dough although once we start adding these ingredients this tart becomes a little closer to the Fregolotta’s ‘cousin’ Sbrisolona ( a similar crumbly textured treat from another region of Italy) Traditionally Fregolotta is simply made of shortbread ingredients but feel free to substitute 1/4-1/2 cup of the flour with cornmeal or almond meal for extra texture. Not all of them include jam but I think the jam is the perfect sweet addition. 
+</br>
+</br>
+![Easy Italian Jam Tart](/images/uploads/2020_09_21_easy_italian_jam_tart_3.jpg)
+</br>
+</br>
+
+The dough is a dream to work with and requires no rolling out - simply press it into the pan reserving a portion to crumble over the jam. It’s not only easy but can be made in no time - under an hour. You really can’t beat that when it comes to a desert like this. It’s super versatile. You can use using any jam in the filling and it can easily be made gluten free using a gluten free flour to substitute for the all purpose. You can also use any nut in place of the almonds too. You can also add some extra spices or flavourings to the dough if you would like - like some lemon or orange zest or even some warming spices like cinnamon or cardamom. It’s the perfect after dinner dessert with a coffee or tea or even a glass of wine. You will love it. Have fun with it and enjoy!
 
 </br>
 </br>
-<!--{{< youtube 00000000 >}}
+{{< youtube RFXZQLHW_YY >}}
 </br>
-</br>-->
+</br>
 
 ### Recipe
 
