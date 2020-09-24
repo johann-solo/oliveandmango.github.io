@@ -1,3 +1,5 @@
 # Redirects from what the browser requests to what we serve
 
-https://www.oliveandmango.com/ads.txt    https://ads.adthrive.com/sites/5eb96b33e9893f1f1a5bfcc7/ads.txt
+https://www.oliveandmango.com/ads.txt    https://ads.adthrive.com/sites/5eb96b33e9893f1f1a5bfcc7/ads.txt  301
+
+/workshops        /
