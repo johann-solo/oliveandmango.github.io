@@ -4,3 +4,9 @@
 
 [context.deploy-preview]
   command = "npm run build-preview"
+
+[[redirects]]
+  from = "https://www.oliveandmango.com/ads.txt"
+  to = "https://ads.adthrive.com/sites/5eb96b33e9893f1f1a5bfcc7/ads.txt"
+  status = 301
+  force = true
