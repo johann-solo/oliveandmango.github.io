@@ -42,6 +42,12 @@ canonifyURLs = true
 [outputs]
   home = ["html", "json", "rss"]
 
+[[redirects]]
+from = "https://www.oliveandmango.com/ads.txt"
+to = "https://ads.adthrive.com/sites/5eb96b33e9893f1f1a5bfcc7/ads.txt"
+status = 301
+force = true
+
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
