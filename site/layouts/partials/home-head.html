@@ -31,10 +31,18 @@
     {{ end }}
     <script src="https://use.fontawesome.com/9913002e58.js"></script>
     <script>
-      window.adthrive = window.adthrive || {};
-      window.adthrive.cmd = window.adthrive.cmd || [];
-      window.adthrive.host = 'ads.adthrive.com';
-      window.adthrive.plugin = 'adthrive-ads-1.0.38';
+      (function (w, d) {
+        w.adthrive = w.adthrive || {};
+        w.adthrive.cmd = w.adthrive.cmd || [];
+        w.adthrive.plugin = 'adthrive-ads-1.0.40-manual';
+        w.adthrive.host = 'ads.adthrive.com';
+        var s = d.createElement('script');
+        s.async = true;
+        s.referrerpolicy = 'no-referrer-when-downgrade';
+        s.src = 'https://' + w.adthrive.host + '/sites/5eb96b33e9893f1f1a5bfcc7/ads.min.js?referrer=' + w.encodeURIComponent(w.location.href);
+        var n = d.getElementsByTagName('script')[0];
+        n.parentNode.insertBefore(s, n);
+      })(window, document);
     </script>
     
     <script async type="text/javascript" src="https://ads.adthrive.com/sites/5eb96b33e9893f1f1a5bfcc7/ads.min.js"
