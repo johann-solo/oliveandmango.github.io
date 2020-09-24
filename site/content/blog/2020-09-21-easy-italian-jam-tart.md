@@ -11,7 +11,7 @@ keywords: ["homemade jam tarts", "Fregolotta"]
 description: Buttery jam filled tart that tastes like a giant shortbread cookie 
 ---
 
-This buttery jam filled tart is crumbly and delicious and can be filled with any jam you have - store bought or homemade. Even though its called a tart, torta fregolotta is texturally more like a shortbread jam cookie. This rustic ‘cookie’ is quite simple to make and is made with basic pantry ingredients: sugar, butter, eggs and almonds. This is a recipe I have been wanting to make from the Food52 Genius Desserts book for a long time. I recently made a homemade [Sweet & Savoury Tomato Jam](https://www.oliveandmango.com/sweet-and-savoury-tomato-jam/)  and decided it was time to make this tart. We loved it and I can’t wait to make it again with fig or apricot jam. 
+This buttery jam filled tart is crumbly and delicious and can be filled with any jam you have - store bought or homemade. Even though its called a tart, torta fregolotta is texturally more like a shortbread jam cookie. This rustic ‘cookie’ is quite simple to make and is made with basic pantry ingredients: sugar, butter, and almonds. This is a recipe I have been wanting to make from the Food52 Genius Desserts book for a long time. I recently made a homemade [Sweet & Savoury Tomato Jam](https://www.oliveandmango.com/sweet-and-savoury-tomato-jam/)  and decided it was time to make this tart. We loved it and I can’t wait to make it again with fig or apricot jam. 
 </br>
 </br>
 ![Easy Italian Jam Tart](/images/uploads/2020_09_21_easy_italian_jam_tart_2.jpg)
