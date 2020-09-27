@@ -36,9 +36,6 @@ They are Russian Pancakes. They are traditionally made from a blend of buckwheat
 ![Mini Scallion Pancake Blini](/images/uploads/2020_09_26_mini_scallion_pancake_blini_5.jpg)
 </br>
 </br>
-![Mini Scallion Pancake Blini](/images/uploads/2020_09_26_mini_scallion_pancake_blini_6.jpg)
-</br>
-</br>
 
 The <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/shop/mixes/pancake-mixes/gluten-free-pancake-mix.html">Bob’s Red Mill Gluten Free Pancake Mix</a></span> is so versatile to use with either sweet or savoury options. We enjoyed these for a late breakfast and my hubby saved some of them for lunch the next day - they reheat well in the toaster. These little guys would be perfect with any of your favorite pancake mix - even your own homemade blend but if you are looking for a gluten free blend then  Bob’s is where it’s at.  There’s lots of ways to be creative with your pancakes and this is a great way to enjoy them. Happy brunching friends! 
 </br>
@@ -47,9 +44,9 @@ The <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
-<!--{{< youtube 00000000 >}}
+{{< youtube GZDLLK_Ap9c >}}
 </br>
-</br>-->
+</br>
 
 ### Recipe
 
