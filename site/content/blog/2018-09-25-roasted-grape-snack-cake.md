@@ -7,6 +7,8 @@ scaled_thumbnail: /images/uploads/2018_09_25_roasted_grape_snack_cake_0.jpg
 categories: ["desserts"]
 tags: ["cakes", "grapes"]
 excerpt: Syrupy sweet and slightly tart roasted grapes over a fragrant tender cake
+keywords: ["grape cake", "desserts with grapes", "roasted grape"]
+description: Syrupy sweet and slightly tart roasted grapes over a fragrant tender cake 
 ---
 
 I went grape picking in Niagara on the lake a few weeks ago and it was a really nice experience. The place we went to pick wasn’t fancy at all. It wasn’t a glamorous big winery or vineyard, just a small farm with a few long rows of grape vines ready to be picked and enjoyed. It was great to be out in the fresh air enjoying picking you own fruit. It’s something I love to do and always did growing up with my mom. If we didn’t have it in the garden we would look for a local farm that would have it growing and we would go and pick. Nothing is better than farm fresh produce - nothing!
@@ -19,7 +21,7 @@ I went grape picking in Niagara on the lake a few weeks ago and it was a really 
 </br>
 </br>
 
-Other than eating a whole slew of them on the way home I knew I wanted to name a roasted grape cake I had scene in a _Food and Wine_ post. A simple cake that really seemed to highlight the grapes. So I did make that grape cake and here it is.
+Other than eating a whole slew of them on the way home I knew I wanted to make a roasted grape cake I had scene in a _Food and Wine_ post. A simple cake that really seemed to highlight the grapes. So I did make that grape cake and here it is.
 </br>
 </br>
 ![Roasted Grape Snack Cake](/images/uploads/2018_09_25_roasted_grape_snack_cake_4.jpg)
@@ -65,27 +67,35 @@ All in all it’s a fabulous little snack cake - FYI snack cake is a small cake 
 ![Roasted Grape Snack Cake](/images/uploads/2018_09_25_roasted_grape_snack_cake_12.jpg)
 </br>
 </br>
+{{< youtube rYcsBzWN4wE >}}
+</br>
+</br>
 
-## Recipe
+### Recipe
+
+Servings: <span itemprop="recipeYield">Serves 8-10  
+
+Makes: one 8x8 square cake or one 9 inch round cake
+</br>
 </br>
 
 ### Ingredients
 
-* 1 stick unsalted butter, melted plus more for greasing
-* 1 cup of self rising flour ( alternatively - 1 cup all purpose flour + 1&frac12; tsp baking powder +&frac14; Tsp salt combined)
-* 4 cups seedless red grapes halved (I used Concord grapes - check post above for more details)
-* &frac12; cup honey plus 2 tbsps
-* 2 large eggs
-* 1 tsp pure vanilla extract
-* &frac14; tsp almond extract
-* &frac12; tsp lemon zest
-* Powdered sugar for dusting
+* <span itemprop="recipeIngredient">1 stick unsalted butter, melted plus more for greasing</span>
+* <span itemprop="recipeIngredient">1 cup of self rising flour ( alternatively - 1 cup all purpose flour + 1&frac12; tsp baking powder + &frac14; Tsp salt combined)</span>
+* <span itemprop="recipeIngredient">4 cups seedless red grapes halved (I used Concord grapes - check post above for more details)</span>
+* <span itemprop="recipeIngredient">&frac12; cup honey plus 2 tbsps</span>
+* <span itemprop="recipeIngredient">2 large eggs</span>
+* <span itemprop="recipeIngredient">1 tsp pure vanilla extract</span>
+* <span itemprop="recipeIngredient">&frac14; tsp almond extract</span>
+* <span itemprop="recipeIngredient">&frac12; tsp lemon zest</span>
+* <span itemprop="recipeIngredient">Powdered sugar for dusting</span>
 
 ### Directions
 
-1. Preheat oven to 350 &deg; F
+1. Preheat oven to 350°F
 
-2. Butter and flour an 8 inch square baking pan and line the bottom with parchment paper.
+2. Butter and flour an 8x8 inch square baking pan or a 9 inch round one and line the bottom with parchment paper.
 
 3. In a large nonstick skillet, cook 3 cups of the grapes and 2 tbsp of honey over medium high heat, stirring until liquid has mostly evaporated, approximately 10 minutes. Stir in the rest of the grapes and spread into the prepared baking pan
 
@@ -97,7 +107,7 @@ All in all it’s a fabulous little snack cake - FYI snack cake is a small cake 
 
 7. Let stand on cooling rack for 5-10 minutes then use a knife to loosen sides of cake and invert onto rack and let cool completely.
 
-8. Dust with powdered sugar before serving and enjoy!
+8. Enjoy as is or dust with powdered sugar or with a dollop of whipped cream before serving.
 </br>
 </br>
 
