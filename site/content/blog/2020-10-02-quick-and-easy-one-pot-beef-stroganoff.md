@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2020_10_02_quick_and_easy_one_pot_beef_stroganoff_1.jpg
 scaled_thumbnail: /images/uploads/2020_10_02_quick_and_easy_one_pot_beef_stroganoff_0.jpg
 categories: ["mains"]
-tags: ["one pot meals"]
+tags: ["one pot meals", "beef"]
 excerpt: Creamy beef stroganoff made with ground beef and egg noodles all in one pan 
 keywords: ["one pot meals", "beef stroganoff recipe", "beef stroganoff with mushroom"]
 description: Creamy beef stroganoff made with ground beef and egg noodles all in one pan 
@@ -42,9 +42,9 @@ I also love this version because the whole meal is made in one pan - aren’t on
 This is a super simple one pan dish I think you guys are going to love. I know you must have the same moments I have at times when I’m staring at the frozen ground beef package in my freezer and wondering what to make with it other than bolognese and meatballs. If I express that out load in my hubby’s presence this meal always wins out and I’m always happy to oblige. Let me know if you feel the same way about it. 
 </br>
 </br>
-<!--{{< youtube 00000000 >}}
+{{< youtube X_rT3cZ3Z9c >}}
 </br>
-</br>-->
+</br>
 
 ### Recipe
 
