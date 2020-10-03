@@ -59,67 +59,54 @@ This was a hit with my family and I was happy to add another delicious chicken r
 ![Cider Braised Chicken Thighs With The Creamiest Cauliflower Mash](/images/uploads/2018_11_29_cider_braised_chicken_thighs_8.jpg)
 </br>
 </br>
+{{< youtube pbx-HCVD1wA >}}
+</br>
 </br>
 
-## Recipe
+### Recipe
+
+Servings: <span itemprop="recipeYield">4-6
+
+Prep Time: <meta itemprop="prepTime" content="PT10M">10 mins  
+
+Cook Time: <meta itemprop="cookTime" content="PT30M">20-30 mins  
+
+Total Time: 30-40 minutes
+</br>
 </br>
 
-## For the chicken
-### Ingredients
+### Ingredients 
 
-* 6 bone-in skin-on chicken thighs (about 450 g total)
-* &frac12; tsp each salt and pepper
-* 3 tsps olive oil
-* 2 tbsp of butter 
-* 3 Gala apples, cored and cut in &frac12;-inch thick wedges
-* 1 small onion, chopped
-* 3 cloves garlic, finely chopped
-* 3 sprigs fresh thyme
-* 1 bay leaf
-* &frac12; cup dry hard cider (apple cider or apple juice can be substituted to make it non alcoholic) 
-* &frac34; cups sodium-reduced chicken broth
-* 2 tsps Dijon mustard
-* 2 tsps all-purpose flour (can substitute with and alternative thickening agent for GF) 
+* <span itemprop="recipeIngredient">6 bone-in skin-on chicken thighs (about 450 g total)</span>
+* <span itemprop="recipeIngredient">Salt and pepper to taste </span>
+* <span itemprop="recipeIngredient">2 tsps olive oil</span>
+* <span itemprop="recipeIngredient">2 tbsp of butter</span>
+* <span itemprop="recipeIngredient">3 Gala apples, cored and cut in ½-inch thick wedges</span>
+* <span itemprop="recipeIngredient">1 small onion, chopped</span>
+* <span itemprop="recipeIngredient">3 cloves garlic, finely chopped</span>
+* <span itemprop="recipeIngredient">3 sprigs fresh thyme</span>
+* <span itemprop="recipeIngredient">1 bay leaf</span>
+* <span itemprop="recipeIngredient">½ cup dry hard cider (apple cider or apple juice can be substituted to make it non alcoholic)</span>
+* <span itemprop="recipeIngredient">¾ cups sodium-reduced chicken broth</span>
+* <span itemprop="recipeIngredient">2 tsps Dijon mustard</span>
+* <span itemprop="recipeIngredient">1 tbsp  all-purpose flour (can substitute with and alternative thickening agent for GF)</span>
+* <span itemprop="recipeIngredient">2 tbsp of water or extra broth </span>
+</br>
 
-### Directions 
+### Directions
 
-1. Sprinkle chicken with &frac14; tsp each of the salt and pepper. 
-2. In Dutch oven or large heavy-bottomed saucepan, heat one tsp of olive oil and the butter over medium-high heat; cook chicken, turning once, until well browned, about 6 minutes. 
-3. Transfer to plate. Set aside.
-4. In same pan, heat another tsp of oil and remaining one tbsp of butter over medium-high heat; add and cook apples, turning once, until golden, about 2 minutes. 
-5. Transfer to separate plate. Set aside.
-6. In same pan, heat remaining oil over medium-high heat; cook onion, garlic and thyme, and bay leaf, stirring, until softened, about 2 minutes. 
-7. Pour in cider; cook, scraping up browned bits, until slightly reduced, about 1 minute. 
-8. Stir in broth, mustard and remaining salt and pepper; bring to boil. 
-9. Add chicken and any accumulated juices. 
-10. Reduce heat, cover and simmer until juices run clear when chicken is pierced, about 18 minutes.
-11. Transfer chicken to clean plate. Discard thyme. 
-12. Whisk flour with 1 tbsp water; add to sauce and cook, stirring, until slightly thickened, about 2 minutes. Stir in apples.
-13. Serve chicken and apples in sauce over cauliflower mash (recipe below). 
+1.	Season both sides of chicken generously with salt and pepper.
+2.	In Dutch oven or large heavy-bottomed saucepan, heat olive oil and butter over medium-high heat; cook chicken, turning once, until well browned, about 5 minutes each side. Transfer to plate. Set aside.
+3.	In same pan, add and cook apples, turning once, until golden, about 2 minutes per side then transfer to separate plate. Set aside.
+4.	In same pan, add in and cook onion, garlic and thyme, and bay leaf, stirring, until onions are softened, about 2 minutes.
+5.	Pour in cider; cook, scraping up browned bits, until slightly reduced, about 1 minute. 
+6.	Stir in broth, mustard and bring to boil.
+7.	Add chicken back into pan and any accumulated juices. Reduce heat, cover and simmer until juices run clear when chicken is pierced, about 15-18 minutes.
+8.	Transfer chicken to platter.  Discard thyme and bay leaf. 
+9.	Whisk flour with 1 tbsp water; add to sauce and cook, stirring, until slightly thickened, about 2 minutes. Stir in apples.
+10.	Serve chicken and apples in sauce over cauliflower mash (recipe below) or any other side you like. 
 
-## For the cauliflower mash
-
-### Ingredients
-
-* 2 (16-ounce) packages riced cauliflower, or 1 large head cauliflower (about 3 pounds)
-* 3 tablespoons unsalted butter plus extra for serving 
-* 2 cups water
-* 1 tsp kosher salt and cracked black pepper to serve 
-
-### Instructions
-
-1. Finely chop the cauliflower (for whole cauliflower only). 
-2. Halve the cauliflower through the stem. 
-3. Cut a "V" shape around the core to remove the core from each half. 
-4. Finely chop the cauliflower. The smaller the pieces, the faster the cauliflower will cook and the creamier the finished dish will be.
-5. Melt the butter in a medium sized pot over medium-high heat. 
-6. Add the cauliflower and sauté, stirring occasionally, until the cauliflower has lightened in color, 3 to 5 minutes.
-7. Add the water and salt and bring to a boil. 
-8. Cover and cook until the cauliflower is tender, about 10 minutes.
-9. Reserve &frac14; cup of the cooking liquid and then drain the cauliflower.
-10. Place the drained cauliflower and reserved cooking liquid back in the pot. 
-11. Mash using an immersion blender to desired consistency or transfer it to a food processor and process until smooth. 
-12. Serve hot. 
+Adapted from _Canadian Living_
 
 </br>
 ![Cider Braised Chicken Thighs With The Creamiest Cauliflower Mash](/images/uploads/2018_11_29_cider_braised_chicken_thighs_9.jpg)
