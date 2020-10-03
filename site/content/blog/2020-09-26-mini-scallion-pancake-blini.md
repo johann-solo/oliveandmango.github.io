@@ -54,7 +54,7 @@ Servings: <span itemprop="recipeYield">Makes 15 Blini
 
 Prep Time: <meta itemprop="prepTime" content="PT10M">10 mins  
 
-Cook Time: <meta itemprop="cookTime" content="PT00M">10 mins  
+Cook Time: <meta itemprop="cookTime" content="PT10M">10 mins  
 
 Total Time: 20 mins
   
