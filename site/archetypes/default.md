@@ -11,20 +11,21 @@ keywords: [""]
 description: 
 ---
 
+<!--</br>
 </br>
-</br>
-<!--{{< youtube 00000000 >}}
+{{< youtube 2U5KL1buARQ >}}
 </br>
 </br>-->
+</span>
 
 ### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
 
-Servings: <span itemprop="recipeYield">Serves 
-
-Prep Time: <meta itemprop="prepTime" content="PT00M">00 mins  
-
-Cook Time: <meta itemprop="cookTime" content="PT00M">00 mins
-  
+<div>Servings: <span itemprop="recipeYield">BLANK</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT00M">00 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT00M">00 mins</div>
 </br>
 
 ### Ingredients

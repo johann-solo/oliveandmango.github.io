@@ -82,6 +82,23 @@ h4 {
     text-transform: uppercase;
 }
 
+.btn__print {
+	background: #FFF;
+  padding: 10px;
+  margin: 15px 0;
+	color: $accent-color !important;
+	text-transform: uppercase;
+	border: 1px solid #e8e8e8;
+    transition: background-color all 0.85s ease-in-out;
+}
+
+.btn__print:hover {
+	background: $accent-color;
+	color: #FFF !important; 
+    border: 1px solid $accent-color;
+    transition: background-color all 0.85s ease;
+}
+
 .social_share_button {
     padding-top: 10px;
 }
@@ -662,4 +679,56 @@ input[type="checkbox"] {
 
 .resource_icon {
     font-size: 3em !important;
+}
+
+@media print {
+
+  body {
+    margin: 0;
+    color: #000;
+    background-color: #fff;
+  }
+
+  .post {
+    padding: 0 180px 30px;
+  }
+
+  header, footer, aside, nav, form, iframe, .menu, .hero, .adslot, p {
+    display: none;
+  }
+
+  .blog-text p {
+    display: none;
+  }
+
+  .post-meta, .post-meta-meta, .blog-text, .adthrive-player-container, .adthrive-collapse-player, .adthrive-ad, .adthrive-comscore {
+    display: none;
+  }
+
+  article {
+    column-width: 17em;
+    column-gap: 3em;
+  }
+
+  div {
+    padding-bottom: 0 !important;
+  }
+
+  #recipe {
+    display: none;
+  }
+  
+  .list_splash {
+    margin-bottom: 30px !important;
+  }
+
+  img, svg {
+    display: none !important;
+  }
+
+  img.print, svg.print {
+    display: block;
+    max-width: 100%;
+  }
+
 }
