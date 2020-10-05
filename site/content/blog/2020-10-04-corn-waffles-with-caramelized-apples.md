@@ -10,6 +10,7 @@ excerpt: Perfectly crisp exterior and pillowy in the middle and made with fresh 
 keywords: ["Sunday breakfasts", "how to make corn waffles", "caramelized apples"]
 description: Perfectly crisp exterior and pillowy in the middle and made with fresh corn and cornmeal 
 ---
+<span class="blog-text">
 These corn waffles are perfectly crisp on the outside and pillowy in the middle. They have a natural sweetness because of the grated corn in them and the slight bit of sugar in the batter. Although they are sweet corn waffles, they can be made more savoury by omitting the sugar. A savoury corn waffle would be delicious along with a bowl of chili or stew. Or serve them with fried eggs or fried chicken, sausages...there are so many possibilities with these. 
 </br>
 </br>
@@ -44,20 +45,21 @@ They freeze really well so feel free to make a double batch and freeze some. All
 {{< youtube 2U5KL1buARQ >}}
 </br>
 </br>
+</span>
 
 ### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
 
-Servings: <span itemprop="recipeYield">8-10 waffles depending on size  
-
-Prep Time: <meta itemprop="prepTime" content="PT15M">15 mins  
-
-Cook Time: <meta itemprop="cookTime" content="PT40M">40 mins
-  
+<div>Servings: <span itemprop="recipeYield">8-10 waffles depending on size</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">15 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT40M">40 mins</div>
 </br>
 
-### Ingredients: 
+### Ingredients
 
-__For the corn waffles__
+#### For the corn waffles
 
 * <span itemprop="recipeIngredient">1 teaspoon salt, plus more</span>
 * <span itemprop="recipeIngredient">1 cup all-purpose flour</span>
@@ -72,24 +74,24 @@ __For the corn waffles__
 * <span itemprop="recipeIngredient">½ cup (1 stick) unsalted butter, melted, slightly cooled, plus more room temperature for waffle iron</span>
 </br>
 
-__For the caramelized apples__
-
+#### For the caramelized apples
 * <span itemprop="recipeIngredient">2 apples sliced </span>
 * <span itemprop="recipeIngredient">2 tbsp butter </span>
 * <span itemprop="recipeIngredient">3 tbsp brown sugar </span>
 * <span itemprop="recipeIngredient">&frac14; tbsp cinnamon </span>
 * <span itemprop="recipeIngredient">Pinch of salt </span>
 </br>
+</br>
 
 ### Directions
 
-__Prepare apples__
+#### Prepare apples
 
 1.	In a small pan, combine butter brown sugar, cinnamon, and pinch of salt . Whisk to combine and bring to a soft boil.
 2.	Add the apples evenly in the pan and allow to cook in the mixture for 10 minutes, or until the mixture is bubbly and gooey and apples are soft.
 3.	Top waffles when ready to serve 
 
-__Prepare waffles__
+#### Prepare waffles
 
 1. Preheat oven to 200°F. Set a wire rack inside a rimmed baking sheet and place in oven to set waffles on off the griddle 
 1. Whisk flour, cornmeal, sugar, baking powder, baking soda, and 1 tsp. salt in a medium bowl to combine. 
