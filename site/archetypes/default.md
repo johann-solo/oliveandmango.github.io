@@ -10,6 +10,9 @@ excerpt:
 keywords: [""]
 description: 
 ---
+<span class="blog-text">
+
+INSERT POST HERE
 
 <!--</br>
 </br>
