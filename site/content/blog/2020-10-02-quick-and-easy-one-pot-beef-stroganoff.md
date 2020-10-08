@@ -10,7 +10,7 @@ excerpt: Creamy beef stroganoff made with ground beef and egg noodles all in one
 keywords: ["one pot meals", "beef stroganoff recipe", "beef stroganoff with mushroom"]
 description: Creamy beef stroganoff made with ground beef and egg noodles all in one pan 
 ---
-
+<span class="blog-text">
 This creamy beef stroganoff made with ground beef and egg noodles all made in one pan is comfort food at its finest. This classic saucy Russian dish is traditionally made with sliced beef and finished with a healthy dose of sour cream. This easy weeknight version uses ground beef instead which is browned and then simmered with paprika, wine, beef broth, and browned mushrooms. Dried egg noodles are tossed right into the pot to cook until tender, and sour cream is stirred in at the end to finish the creamy sauce.
 </br>
 </br>
@@ -45,13 +45,15 @@ This is a super simple one pan dish I think you guys are going to love. I know y
 {{< youtube X_rT3cZ3Z9c >}}
 </br>
 </br>
+</span>
 
 ### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
 
-Servings: <span itemprop="recipeYield">4-6   
-
-Cook Time: <meta itemprop="cookTime" content="PT30M">25-30 mins
-  
+<div>Servings: <span itemprop="recipeYield">4-6 </div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT30M">25-30 mins</div>
 </br>
 
 ### Ingredients
