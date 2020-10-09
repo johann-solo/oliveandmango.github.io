@@ -18,7 +18,7 @@ This creamy beef stroganoff made with ground beef and egg noodles all made in on
 </br>
 </br>
 
-Stroganoff sauce is a sour cream gravy made with beef broth that’s thickened with flour. It’s flavoured with mustard. It’s so simple yet so pleasing - keeps you wanting more. This is the most requested meal by my hubby - and I thought I should get it on the blog ASAP because it’s one of those recipes that is so simple and that anyone can make including  him - and if it’s on the blog he really has no excuse. My husband calls meals like this ‘bachelor delights’ definition: easy and quick to make delicious eats that make great leftovers.  I have had some of the meals he considers bachelor delights and I got to say this is better definitely better than his ‘curry surprise’ (don’t even ask) but just as easy and looks a lot fancier if you are making it for others. 
+Stroganoff sauce is a sour cream gravy made with beef broth that’s thickened with flour. It’s flavoured with mustard. It’s so simple yet so pleasing - keeps you wanting more. This is the most requested meal by my hubby - and I thought I should get it on the blog ASAP because it’s one of those recipes that is so simple and that anyone can make including him - and if it’s on the blog he really has no excuse. My husband calls meals like this ‘bachelor delights’ definition: easy and quick to make delicious eats that make great leftovers.  I have had some of the meals he considers bachelor delights and I got to say this is definitely better than his ‘curry surprise’ (don’t even ask) but just as easy and looks a lot fancier if you are making it for others. 
 </br>
 </br>
 ![Quick and Easy One Pot Beef Stroganoff](/images/uploads/2020_10_02_quick_and_easy_one_pot_beef_stroganoff_3.jpg)
@@ -39,7 +39,7 @@ I also love this version because the whole meal is made in one pan - aren’t on
 </br>
 </br>
 
-This is a super simple one pan dish I think you guys are going to love. I know you must have the same moments I have at times when I’m staring at the frozen ground beef package in my freezer and wondering what to make with it other than bolognese and meatballs. If I express that out load in my hubby’s presence this meal always wins out and I’m always happy to oblige. Let me know if you feel the same way about it. 
+This is a super simple one pan dish I think you guys are going to love. I know you must have the same moments I have at times when I’m staring at the frozen ground beef package in my freezer and wondering what to make with it other than bolognese and meatballs. If I express that out loud in my hubby’s presence this meal always wins out and I’m always happy to oblige. Let me know if you feel the same way about it. 
 </br>
 </br>
 {{< youtube X_rT3cZ3Z9c >}}
