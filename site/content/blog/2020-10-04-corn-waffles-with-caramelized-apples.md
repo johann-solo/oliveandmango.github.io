@@ -61,13 +61,13 @@ They freeze really well so feel free to make a double batch and freeze some. All
 
 #### For the corn waffles
 
-* <span itemprop="recipeIngredient">1 teaspoon salt, plus more</span>
+* <span itemprop="recipeIngredient">1 teaspoon salt</span>
 * <span itemprop="recipeIngredient">1 cup all-purpose flour</span>
 * <span itemprop="recipeIngredient">1 cup fine stone-ground yellow cornmeal</span>
 * <span itemprop="recipeIngredient">2 tablespoons sugar</span>
 * <span itemprop="recipeIngredient">1 tablespoon baking powder</span>
 * <span itemprop="recipeIngredient">½ teaspoon baking soda</span>
-* <span itemprop="recipeIngredient">2 ears of corn, husked, kernels grated on the large holes of a box grater (about ½ cup or so)</span>
+* <span itemprop="recipeIngredient">2 ears of corn, husked, kernels grated on the large holes of a box grater (about ½ cup or so) &ast; see post above for alternatives</span>
 * <span itemprop="recipeIngredient">2 large eggs, beaten to blend</span>
 * <span itemprop="recipeIngredient">1½ cups buttermilk</span>
 * <span itemprop="recipeIngredient">1 teaspoon vanilla extract</span>
