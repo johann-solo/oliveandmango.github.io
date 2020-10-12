@@ -6,9 +6,9 @@ thumbnail: /images/uploads/2020_10_09_simple_creamy_mashed_potatoes_1.jpg
 scaled_thumbnail: /images/uploads/2020_10_09_simple_creamy_mashed_potatoes_0.jpg
 categories: ["sides"]
 tags: ["potatoes"]
-excerpt: Perfectly  fluffy and creamy mashed potatoes every time
+excerpt: Perfectly fluffy and creamy mashed potatoes every time
 keywords: ["perfect side dishes", "best mashed potato recipe"]
-description: Perfectly  fluffy and creamy mashed potatoes every time
+description: Perfectly fluffy and creamy mashed potatoes every time
 ---
 <span class="blog-text">
 
@@ -45,10 +45,10 @@ I love to keep things simple with the add ins to my mashed potatoes but there ar
 
 Of course you could add cheese and bacon bits and other yummy toppings that you can also stir into the mash too. There are loads of options. Feel free to play around with the flavours and add ins. This is a great staple recipe that you can build on and one I think you will love. 
 </br>
-<!--</br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube GBYcq77xByI >}}
+</br>
+</br>
 </span>
 
 ### Recipe
