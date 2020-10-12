@@ -27,11 +27,11 @@ Oven roasted carrots are incredibly delicious with just a little garlic herbs an
 </br>
 
 This is an old recipe that I revisited from a few years ago (hard to believe this little blog has been around that long). I liked it but I simplified it a bit and here is the revamped one with new photos and a how to video. The old recipe included a few more spices and seasonings that I thought were unnecessary when I retested it. Simple is better - that way the carrots remain the star of the show but they are amped up by the maple brown butter. They are great for any occasion, easy and quick to make and even the picky eater in your life will enjoy them.
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube m4FH-6F57gg >}}
+</br>
+</br>
 </span>
 
 ### Recipe
