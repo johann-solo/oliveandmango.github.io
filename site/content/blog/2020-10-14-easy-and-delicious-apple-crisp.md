@@ -40,11 +40,11 @@ This recipe makes enough to feed a crowd. Feel free to cut the recipe in half if
 </br>
 
 This Easy Apple Crisp Recipe is a classic old fashioned dessert that makes you feel all warm and cozy! It makes for a great make-ahead dessert and freezes well too. Directions for both below. It’s one of those desserts that also makes the house smell divine - full of warm spices. An easy and great fall bake up and one that you should definitely put on your list of things to make this season. Enjoy! 
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube 6QLnaByCV40 >}}
+</br>
+</br>
 </span>
 
 ### Recipe
@@ -67,6 +67,7 @@ Total Time: 1hr 15min - 1hr 20min
 * <span itemprop="recipeIngredient">&frac12; cup of brown sugar </span>
 * <span itemprop="recipeIngredient">2 tsp of ground cinnamon</span>
 * <span itemprop="recipeIngredient">1 tsp ground nutmeg</span>
+* <span itemprop="recipeIngredient">a pinch of salt</span>
 * <span itemprop="recipeIngredient">1 tbsp all purpose flour &ast;</span>
 * <span itemprop="recipeIngredient">1 tbsp melted butter &ast;</span>
 </br>
