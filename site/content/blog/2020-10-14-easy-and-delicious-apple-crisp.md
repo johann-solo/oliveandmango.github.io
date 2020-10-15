@@ -1,6 +1,6 @@
 ---
 title: Easy and Delicious Apple Crisp
-date: 2020-10-14T21:14:51-04:00
+date: 2020-10-14
 author: Joanne
 thumbnail: /images/uploads/2020_10_14_easy_and_delicious_apple_crisp_1.jpg
 scaled_thumbnail: /images/uploads/2020_10_14_easy_and_delicious_apple_crisp_0.jpg
