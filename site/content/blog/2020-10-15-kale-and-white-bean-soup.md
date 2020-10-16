@@ -33,11 +33,11 @@ Like any other soup - this one also tastes even better the next day. That is why
 </br>
 
 This is a soup that I have on repeat. I tend to always have sausage in the freezer, kale in the crisper and white beans in the pantry. It’s  versatile enough that you can easily swap out the veggies for ones you may have on hand and even omit the sausage if you want to keep it meat free. If kale isn’t your thing try using spinach or Swiss Chard or any dark leafy green. It’s quick and easy and all its needs is a bit of crusty bread served on the side. 
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube aMHyFjToqjs >}}
+</br>
+</br>
 </span>
 
 ### Recipe
