@@ -49,11 +49,11 @@ Pumpkin Pie is a delicious fall treat, one of the easiest pies you can make and 
 </br>
 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube XjyNzMtHsug >}}
+</br>
+</br>
 </span>
 
 ### Recipe
@@ -64,7 +64,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 <div>Servings: <span itemprop="recipeYield">one 8x8 square pan of bars</div>
 <div>Prep Time: <meta itemprop="prepTime" content="PT15M">15 mins</div>
 <div>Cook Time: <meta itemprop="cookTime" content="PT55M">45-55 mins</div>
-<br>Setting Time: 2-4 hours</br>  
+<div>Setting Time: 2-4 hours</div>
 </br>
 
 ### Ingredients
