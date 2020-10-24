@@ -34,11 +34,11 @@ It’s not like your typical dense skillet cookies - it’s kind of like those f
 </br>
 
 The recipe calls for making it in a 12 inch skillet. I usually use my largest skillet or sometimes as photographed I will use my 9 inch skillet and spread the rest of the batter between 2 to 3 other mini skillets. The mini skillets are fun because they make great personal size desserts. If you aren’t a pumpkin spice lover this recipe might win you over. The pumpkin and spices aren’t too overpowering or nearly as intense as in a pumpkin pie - just enough to add some warming flavours to this skillet cookie. There are plenty of chocolate chips or chunks in every bite and I can never resist a slice of this while it’s still warm with a scoop of ice cream.  I hope you give it a try and see what all the fuss is about. 
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube EwAnO1BWCyI >}}
+</br>
+</br>
 </span>
 
 ### Recipe
