@@ -8,7 +8,7 @@ categories: ["breakfast"]
 tags: ["pancakes", "pumpkin"]
 excerpt: Probably the best combo of flavours since PB and jelly
 keywords: ["pie bars", "Fall treats"]
-description: A perfect combination of chocolate and pumpkin, these pancakes are a sure hit
+description: These pumpkin pancakes are light and fluffy with crispy edges and loaded with chocolate chips
 ---
 <span class="blog-text">
 
@@ -45,6 +45,9 @@ These pumpkin pancakes are the perfect thing to make if you have any leftover pu
 </br>
 
 What I love about pancakes is that your can easily freeze them once you make a batch and you can enjoy them for breakfast later in the week. If you have leftover pancakes or just want to make breakfast in advance simply make your pancakes and let them cool, then store them in freezer-safe resealable bag. Take them out and defrost them in the toaster and enjoy. These are perfect year round but especially in the fall when we all seem to be craving pumpkin spiced flavors and cozy breakfasts. These tick off both those boxes and I know you will be hooked after you make your first stack. Enjoy!<br>
+</br>
+</br>
+{{< youtube q_xfxO7Nnkc >}}
 </br>
 </br>
 </span>
