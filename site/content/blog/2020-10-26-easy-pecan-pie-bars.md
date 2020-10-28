@@ -49,9 +49,9 @@ When it comes to these pecan pie bars - we can’t get enough of them.  They are
 I have partnered up with the publishers to feature this great cookbook by the _Bite Me More_ duo of Julie Albert &amp; Lisa Gnat. If you would like to purchase their book you can <span class="highlight"><a rel="nofollow" href="https://www.bitememore.com/the-bite-me-balance-cookbook">visit their site</a></span>. This was a sponsored collaboration, however all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube GGOPXIk92Eg >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
