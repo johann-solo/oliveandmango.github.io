@@ -10,6 +10,7 @@ excerpt: Creamy cheesecake with a chocolate wafer crust and swirls of cherry pur
 keywords: ["cherry cheesecakes"]
 description: A creamy cheesecake with a chocolate wafer crust and swirls of cherry purée 
 ---
+<span class="blog-text">
 
 This is a very tasty and creamy cheesecake with a chocolate wafer press in crust and swirls of cherry purée throughout it. A must make dessert full of Black Forest cake flavours. There’s always room for dessert especially when it’s cheesecake. My family can’t seem to get enough so it seems I’m charged with the ‘ultra difficult duty’ of making one with every seasonal fruit that comes along - oh the hardship! My family also has a love for Black Forest cake so every cherry season I feel this overwhelming desire to do a take on it. I have a more classic and simplified take on a [Black Forest cake](https://www.oliveandmango.com/black-forest-cake/) on the blog already - and its a family favourite. Last summer I made a [No bake Black Forest ice box cake](https://www.oliveandmango.com/no-bake-black-forest-icebox-cake/) and so this year I thought I would switch it up again and make a cheesecake. A simple one in tart form that requires very little effort and time to make compared to a classic cheese cake. 
 </br>
@@ -45,10 +46,14 @@ The cherry swirls are simple and you can get as fancy as you like with them. YOU
 {{< youtube iyWg4mFIXJU >}}
 </br>
 </br>
+</span>
 
 ### Recipe
-Serves 8-10 
-</br>
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">8-10</div>
 </br>
 
 ### Ingredients
@@ -78,8 +83,7 @@ Serves 8-10
 6. Bake until the tart is just set but still slightly moist in the centre, 18-24 minutes. Let cool on a wire rack. Refrigerate for at least 4 hours Serve cold. 
 
 ### Recipe Notes
-
-The tart can be made up to 1 day ahead.  Cheesecakes will last up to 4 days in refrigerator or can be frozen for up to one month.
+* The tart can be made up to 1 day ahead. Cheesecakes will last up to 4 days in refrigerator or can be frozen for up to one month.
 
 </br>
 ![Cherry Cheesecake Tart](/images/uploads/2020_08_09_cherry_cheesecake_tart_6.jpg)
