@@ -97,7 +97,6 @@ Total time: 1 hr 50 min
 
 #### Prepare the ricotta veggie mixture
 1. In the meantime, grease a 13x9-inch baking dish. Heat the oil in a large saucepan over medium heat. Sauté onion until translucent, 5 to 7 minutes and season with the chili flakes and oregano. Add the garlic and the mushrooms and cook until golden 5 min. Add the kale and cook another 5 min. Sprinkle with salt and pepper, and set aside and allow to cool. 
-
 1. In a large bowl, combine the ricotta, egg, 1 cup of the mozzarella cheese, &frac14; cup of the Parmesan and the cooked kale and mushroom mixture mixture. Stir until well combined and season with salt and pepper. 
 
 #### Assembly

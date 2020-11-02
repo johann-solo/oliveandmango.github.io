@@ -87,19 +87,12 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 ### Directions 
 
 1. Preheat oven to 350°F.  Grease and line the bottom of two 9" round cake pans with parchment paper 
-
 1. Make the brown butter: Melt butter in a small saucepan over medium heat. Cook, swirling pan occasionally until butter turns a nutty golden-brown, 4-6 mins. Pour into a small bowl & let stand until cool but not set, 15 mins.
-
 1. Make the batter: In a medium bowl, whisk flour, baking soda, cinnamon, salt, and pumpkin pie spice blend. 
-
 1. In a large bowl, whisk 1-&frac12; cups of pumpkin purée with granulated sugar, brown sugar, eggs, & buttermilk until very well blended. Mix or fold in flour mixture until just combined. 
-
 1. Gently whisk in brown butter until completely incorporated. Divide batter evenly between prepared pans. 
-
 1. Bake cakes until tester inserted in center comes out clean, 28 mins. Let cakes cool in pans for 10 mins. Turn cakes out onto cooling racks, remove parchment, and cool completely. 
-
 1. Make the frosting: In a large bowl and using a mixer, beat the butter and cream cheese together on medium speed until smooth and combined, approx 1-2 min. Add in 2 &frac12; cups powdered sugar and mix on low until combined.  Turn the mixer up to medium speed and mix until light and fluffy, 2 to 3 more minutes.  Add 3 tablespoons of maple syrup, vanilla, and pumpkin pie spice. Mix until smooth and combined.  Add in the remaining maple syrup and powdered sugar until desired taste and consistency is achieved. 
-
 1. Assemble cake: Put 1 cake layer on a cake plate or cake stand. Spread half the the frosting on it in an even layer. Top  with second layer. Frost top with the remaining frosting. If you want to frost the sides reduce the amount in the middle layer to half cup and then frost the top and sides with remaining frosting or double the frosting recipe if you love frosting as much as I do. 
 </br>
 </br>
@@ -107,7 +100,6 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 ### Recipe Notes
 
 * Storage: This cake will stay moist and fresh-tasting for days.  Since it has cream cheese buttercream, it should be kept in the refrigerator, in an airtight container or cake carrier.  Let come to room temperature for several hours before serving.
-
 * For spices: Instead of prepared pumpkin pie spice, you can use &frac12; teaspoon each: ground nutmeg, ground cloves, ground allspice, and ground ginger. Please adjust amounts according to taste. 
 </br>
 

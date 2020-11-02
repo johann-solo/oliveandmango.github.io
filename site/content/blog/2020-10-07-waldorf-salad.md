@@ -95,9 +95,7 @@ This recipe comes from their lovely book with just a few additions and adjustmen
 ### Directions
 
 1. For the salad: combine all the ingredients in a large bowl. Top with the dressing and toss until well mixed and combined. 
-
 1. For the shallots: combine shallots with the oil in a small pan or skillet. Heat oil over medium high heat and allow the shallots to sizzle for a couple of minutes before turning down the heat to medium stirring until the shallots are golden. Transfer to a paper towel lined plate to drain. The shallots will crisp up as they cool. Transfer extra shallots to an airtight container and they will keep for up to a week at room temperature. 
-
 1. For the classic Balsamic dressing: blend or whisk together the vinegar, honey, mustard, and olive oil. Then season with salt and pepper. Transfer the dressing to an air tight container and refrigerate until ready to use. It will keep refrigerated for up to 7 days.
 
 </br>

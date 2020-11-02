@@ -94,13 +94,9 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 ### Directions 
 
 1. Preheat oven to 350°F and Line a 8x8 square brownie tin or baking pan with parchment paper with enough overhang on the sides to easily release and remove the bars from the pan. Set aside.
-
 1. Beat the butter and brown sugar until creamy in a large bowl using a mixer.  Mix in the flour and salt and beat until combined, then stir in the pecans. The mixture will be very crumbly.
-
 1. Empty the mixture into prepared pan and press it into a flat layer on the bottom of the pan Bake the crust for approx 10 minutes. Remove from oven and cool on wire rack while making the filling 
-
 1. In a large bowl whisk together the sugar, spices, corn starch, salt and pepper until fully combined. Add pumpkin, eggs, half-and-half, and vanilla and whisk until combined. Pour the filling into the crust, then return to the oven and bake for another 45-55 minutes until the filling is mostly set, but the very center still jiggles just a bit. (Bake time varies based on your oven, so check it frequently once you’re nearing the end of bake time.) 
-
 1. Once done remove and place pan on a wire rack to cool to room temperature, then transfer to the refrigerator to chill completely (approx 2 hours). When ready to slice, use a knife to loosen the edges from pan.  Lift bars out of pan carefully and slice. Bars are best served chilled. Top with whipped cream and chopped pecans, or leave as is. Cover and store leftovers in the refrigerator for up to 1 week.
 </br>
 

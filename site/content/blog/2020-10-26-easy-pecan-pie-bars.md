@@ -104,7 +104,6 @@ I have partnered up with the publishers to feature this great cookbook by the _B
 </br>
 
 * It’s very important to let the mixture stand for about 15 minutes while the bottom layer pre-bakes. This gives the flour time to soften and help thicken the top layer. You also do not need the bottom layer to cool before pouring in the filling. Pour on the topping while the crust is still hot.
-
 * Cutting these without crushing the layers can be tricky.  The key is to break through the pecan layer first then the rest is wash. To do this I use a sharp serrated knife to help cut or saw through the pecans. Once you have cut through those gently cut through the two other layers evenly. Then cut one entire row off at a time and then cut each row separately into whatever size slices you prefer.
 
 </br>
