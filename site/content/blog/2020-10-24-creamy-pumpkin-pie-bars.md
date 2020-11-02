@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2020_10_24_creamy_pumpkin_pie_bars_1.jpg
 scaled_thumbnail: /images/uploads/2020_10_24_creamy_pumpkin_pie_bars_0.jpg
 categories: ["desserts"]
-tags: ["pumpkin", "bars"]
+tags: ["pumpkin", "bars", "sponsored"]
 excerpt: Dessert bars with a creamy pumpkin spiced filling and press in crust
 keywords: ["pie bars", "Fall treats"]
 description: Dessert bars with a creamy pumpkin spiced filling and press in crust
