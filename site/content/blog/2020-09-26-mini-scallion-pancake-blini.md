@@ -75,13 +75,9 @@ Total Time: 20 mins
 ### Directions
 
 1. In a medium sized bowl whisk together the pancake mix with the salt and the scallions 
-
 1. In a smaller bowl whisk together the eggs, milk and butter and then pour the mixture into the dry ingredients until combined, a few lumps in the batter are totally fine. 
-
 1. Drop batter in tablespoons onto hot greased skillet. Cook 1 to 2 minutes until bubbles begin to form on surface. Flip, then cook about 1 minute more or until golden brown. Transfer to plate. Repeat with remaining batter. 
-
 1. To serve, top the blini with a piece of smoked salmon. Add a dollop of creme fraiche, sour cream, or cream cheese. 
-
 1. Garnish with: thinly sliced red onion, fresh dill, capers and anything else you would like to include. 
 
 </br>
