@@ -6,11 +6,13 @@ thumbnail: /images/uploads/2018_01_03_moroccan_spiced_lentil_soup_1.jpg
 scaled_thumbnail: /images/uploads/2018_01_03_moroccan_spiced_lentil_soup_0.jpg
 categories: ["soups"]
 tags: ["Moroccan", "lentils"]
-excerpt: 
-keywords: [""]
-description: 
+excerpt: A hearty soup using Moroccan flavours and spices
+keywords: ["hearty soups", "spiced soups"]
+description: A hearty soup using Moroccan flavours and spices
 ---
 <span class="blog-text">
+
+### Updated Nov 2nd 2020
 
 Not another lentil soup you may say (eyes rolling). But this is no ordinary lentil soup. The warm spices in it give it so much flavour and all the veggies make it hearty, filling and give it lots of colour and texture. No doubt you already realise I have a love for lentils and all grains and legumes in general. It’s always great when you can switch things up with them by just just using different spices and veggies. 
 </br>
@@ -41,9 +43,9 @@ It’s a hearty soup, one that both me and my husband love. It’s full of veggi
 </br>
 
 Feel free to use any sausage you like in it. I tend to use a spicy one but that is just my taste. If you want to keep this vegetarian you can leave the sausage out or use a plant based sausage instead. I hope you enjoy this hearty and delicious Moroccan spiced lentil soup. 
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}-->
+</br>
+{{< youtube nqYs72QBMrQ >}}
 </br>
 </br>
 </span>
@@ -62,7 +64,7 @@ Feel free to use any sausage you like in it. I tend to use a spicy one but that 
 
 * <span itemprop="recipeIngredient">2 tbsp of olive oil</span>
 * <span itemprop="recipeIngredient">1 lb of sausages casings removed sweet or spicy </span>
-* <span itemprop="recipeIngredient">3 cloves of garlic</span>
+* <span itemprop="recipeIngredient">3 cloves of garlic peeled and minced</span>
 * <span itemprop="recipeIngredient">1 large carrot peeled and chopped</span>
 * <span itemprop="recipeIngredient">2 stalks of celery chopped</span>
 * <span itemprop="recipeIngredient">1 onion peeled and chopped</span>
