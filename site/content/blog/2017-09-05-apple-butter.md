@@ -4,10 +4,13 @@ date: 2017-09-05T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_09_05_apple_butter_1.jpg
 scaled_thumbnail: /images/uploads/2017_09_05_apple_butter_0.jpg
-categories: ["appetizers"]
-tags: ["apples", "feedfeed"]
+categories: ["pantry"]
+tags: ["apples", "spreads"]
 excerpt: 'More than a purée, and delicious enough to eat by the spoonful'
+keywords: ["homemade spreads", "apple cinnamon"]
+description: A delicious apple cinnamon spread
 ---
+<span class="blog-text">
 
 Apples are one of the top things I miss about living in Canada. It sounds kind of lame to miss apples right but let me explain. Obviously I miss my friends and family and other conveniences but apples are a food I really miss. Yes we get them here but I have yet to bite into a fabulous crisp apple and I'm not being negative about Trinidad in any way by saying that. They just don't grow here and the ones we get are all imported so they will never taste the same as freshly picked apples. They are alright but so many of them are soft and grainy and just not the same. So you better believe I'm happy to be going home at the peak of apple season and I will be gorging on them!  Can't wait to pick a few as well!
 <br>
@@ -46,39 +49,43 @@ I also made a spice cake with it (sharing that soon too) and you can definitely 
 <br>
 <br>
 ![Apple Butter](/images/uploads/2017_09_05_apple_butter_8.jpg)
-<br>
-<br>
+</br>
+</br>
+<!--{{< youtube iyWg4mFIXJU >}}
+</br>
+</br>-->
+</span>
+
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">Yields approx 1 to 1&frac12; cups of apple butter</div>
+</br>
 
 ### Ingredients
-Yields approx 1 to 1&frac12; cups of apple butter
 
-* 2-2&frac12; lbs apples (approx 8-10 small apples)
-* &frac12; cup Apple cider vinegar
-* &frac12; cup pure apple juice or cider
-* &frac34; cup coconut sugar or brown sugar
-* 1 tbsp maple syrup
-* &frac14; tsp vanilla extract
-* 1 tsp ground cinnamon
-* &frac14; tsp ground allspice
-* &frac14; tsp ground nutmeg
-* Pinch of ground clove
-* Pinch of salt
+* <span itemprop="recipeIngredient">2-2&frac12; lbs apples (approx 8-10 small apples)</span>
+* <span itemprop="recipeIngredient">&frac12; cup Apple cider vinegar</span>
+* <span itemprop="recipeIngredient">&frac12; cup pure apple juice or cider</span>
+* <span itemprop="recipeIngredient">&frac34; cup coconut sugar or brown sugar</span>
+* <span itemprop="recipeIngredient">1 tbsp maple syrup</span>
+* <span itemprop="recipeIngredient">&frac14; tsp vanilla extract</span>
+* <span itemprop="recipeIngredient">1 tsp ground cinnamon</span>
+* <span itemprop="recipeIngredient">&frac14; tsp ground allspice</span>
+* <span itemprop="recipeIngredient">&frac14; tsp ground nutmeg</span>
+* <span itemprop="recipeIngredient">Pinch of ground clove</span>
+* <span itemprop="recipeIngredient">Pinch of salt</span>
 
 ### Directions
 
 1. Wash and scrub apples well, core and slice apples and add them to a medium sized pan (peel and all) adding with them the Apple cider vinegar and also the apple juice. Bring to a boil and reduce to a low simmer, cover and let simmer for 20 minutes.
-
 1. Remove lid, stir the apples and continue to simmer them for another 20-30 minutes until the apples are very tender and have thickened from breaking down and then remove them from the heat and allow them to cool for a few minutes.
-
 1. Put the apples in a food processor (being very careful especially if they are still on the hot side) and process until smooth or use a potato masher and mash until they are smooth.  
-
 1. Transfer the processed apples to a fine mesh sieve over a bowl and press the pulp through the sieve so that your left with a creamy smooth apple purée
-
 1. Put the purée back into the pot turn the heat back on to medium low and add the remaining ingredients. Cook stirring occasionally until the apple butter is a deep rich colour, the sugar has melted through and it's nice and thick (won't take longer than 5-10 minutes).
-
 1. Remove from heat and let cool for a few minutes and transfer to a  sealed container and it can last for up to a month refrigerated.
 
-</br>
-<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
 ![Apple Butter](/images/uploads/2017_09_05_apple_butter_9.jpg)
