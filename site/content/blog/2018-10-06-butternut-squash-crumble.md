@@ -9,6 +9,8 @@ tags: ["butternut", "squash"]
 excerpt: A delicious Fall side – tender squash with a savoury crunchy topping
 ---
 
+<span class="blog-text">
+
 There are so many ways to enjoy butternut squash and this recipe is yet another way to do so. Buttery roasted squash topped with a savoury crumble that I could easily snack on alone. A great mixture of textures and tastes all in one dish.
 </br>
 </br>
@@ -43,33 +45,37 @@ If you are looking to change up your sides dishes this fall and have never made 
 ![Butternut Squash Crumble](/images/uploads/2018_10_06_butternut_squash_crumble_6.jpg)
 </br>
 </br>
+</span>
 
-## Recipe
-Serves 6-8
-</br>
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">6-8</div>
 </br>
 
 ### Ingredients
 
-* &frac34; cup (1&frac12; sticks) chilled unsalted butter, cut into &frac12;-inch pieces, plus more for dish  
-* 3 tablespoons extra-virgin olive oil  
-* 3 small butternut squash (about 4 pounds total), peeled and cut into &frac34;-inch chunks  
-* Salt and pepper to taste
-* 2 large shallots, thinly sliced 
-* 2 tsp fresh thyme leaves 
-* 1/4 cup coarsely chopped fresh flat-leaf parsley  
-* &frac12; cup homemade or store bought chicken stock 
+* <span itemprop="recipeIngredient">&frac34; cup (1&frac12; sticks) chilled unsalted butter, cut into &frac12;-inch pieces, plus </span>more for dish 
+* <span itemprop="recipeIngredient">3 tablespoons extra-virgin olive oil </span>
+* <span itemprop="recipeIngredient">3 small butternut squash (about 4 pounds total), peeled and cut into &frac34;-inch chunks </span>
+* <span itemprop="recipeIngredient">Salt and pepper to taste</span>
+* <span itemprop="recipeIngredient">2 large shallots, thinly sliced </span>
+* <span itemprop="recipeIngredient">2 tsp fresh thyme leaves </span>
+* <span itemprop="recipeIngredient">1/4 cup coarsely chopped fresh flat-leaf parsley </span>
+* <span itemprop="recipeIngredient">&frac12; cup homemade or store bought chicken stock </span>
 
-__For the topping__
+#### For the topping
 
-&frac34; cup fresh or dried bread crumbs 
-&frac12; cup cornmeal 
-&frac12; cup freshly grated Parmesan cheese 
-1 tbsp fresh sage leaves chopped finely or 1 tsp dried
-1 tsp sugar 
-&frac12; tsp salt 
-4 tbsp of unsalted butter, chilled and cubed
-1 large egg
+* <span itemprop="recipeIngredient">&frac34; cup fresh or dried bread crumbs </span>
+* <span itemprop="recipeIngredient">&frac12; cup cornmeal </span>
+* <span itemprop="recipeIngredient">&frac12; cup freshly grated Parmesan cheese </span>
+* <span itemprop="recipeIngredient">1 tbsp fresh sage leaves chopped finely or 1 tsp dried</span>
+* <span itemprop="recipeIngredient">1 tsp sugar </span>
+* <span itemprop="recipeIngredient">&frac12; tsp salt </span>
+* <span itemprop="recipeIngredient">4 tbsp of unsalted butter, chilled and cubed</span>
+* <span itemprop="recipeIngredient">1 large egg</span>
 
 ### Directions
 
