@@ -35,9 +35,9 @@ These candied sweet potatoes are a must-have during the fall and winter months. 
 </br>
 
 The sauce is so wonderful in these. It thins out as it bakes due to the water content in the potatoes, but quickly thickens as it cools. These have a nice amount of syrup or sauce in them. If you would like yours sort of swimming in that fabulous sauce feel free to double it or do 1&frac12; times the amount. I also kept the spices to a minimum. If you would like to go heavier with the spices even adding more feel free to. Some like to add some ground ginger for extra flavour and even some vanilla extract to intensify those sweet flavours. I love sweet potatoes with sage but these can be made with other herbs that you can even include in the syrup to infuse it - fresh herbs like rosemary or thyme. It’s all based on your preference. These are pretty customizable as you can see and they are also quite addictive. Try them and see for yourself - enjoy! 
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}-->
+</br>
+{{< youtube jIaJGVx3Y0k >}}
 </br>
 </br>
 </span>
