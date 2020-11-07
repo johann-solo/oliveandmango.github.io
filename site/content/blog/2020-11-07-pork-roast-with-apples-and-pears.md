@@ -4,10 +4,10 @@ date: 2020-11-07T07:09:14-05:00
 author: Joanne
 thumbnail: /images/uploads/2020_11_07_pork_roast_with_apples_and_pears_1.jpg
 scaled_thumbnail: /images/uploads/2020_11_07_pork_roast_with_apples_and_pears_0.jpg
-categories: [""]
-tags: [""]
+categories: ["mains"]
+tags: ["pork", "apples", "pears"]
 excerpt: A simple herb roasted pork with caramelized apples and pears 
-keywords: [""]
+keywords: ["roasts"]
 description: A simple herb roasted pork with caramelized apples and pears 
 ---
 <span class="blog-text">
@@ -43,9 +43,9 @@ Using pork loin with bone-in helps to keep the pork moist and always adds wonder
 This pork roast is easy to make, goes with any side dish, and perfect for special occasions or a quick, tasty dinner. The gravy is optional to make but it’s easy to make and you will love it with your pork - serve it over [creamy mashed potatoes](https://www.oliveandmango.com/simple-creamy-mashed-potatoes/) and you will love it even more.
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube t5c-jBFvQs8 >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
