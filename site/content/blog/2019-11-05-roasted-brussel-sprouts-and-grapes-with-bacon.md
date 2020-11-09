@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2019_11_05_roasted_brussel_sprouts_and_grapes_with_bacon_1.jpg
 scaled_thumbnail: /images/uploads/2019_11_05_roasted_brussel_sprouts_and_grapes_with_bacon_0.jpg
 categories: ["sides"]
-tags: ["bacon", "Brussel sprouts", "grapes"]
+tags: ["bacon", "brussels sprouts", "grapes"]
 excerpt: Garlic roasted brussels sprouts and grapes with crispy bacon
 keywords: ["bacon", "Brussel sprouts", "grapes"]
 description: Garlic roasted brussels sprouts and grapes with crispy bacon
