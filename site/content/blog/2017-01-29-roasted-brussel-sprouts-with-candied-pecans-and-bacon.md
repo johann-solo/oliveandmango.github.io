@@ -43,9 +43,9 @@ These guys start off in the pan but finish off in the oven. I think roasting Bru
 This tasty side dish is the perfect blend of fats, sweetness, saltiness and crunch. I love all those components. From the the Brussel sprouts to the bacon and in between. The onion gets nicely caramelized and sweetened and adds so much flavour to the dish. I love to add a bit of thyme in to mine although that is optional and you can switch it out for rosemary or your choice of herb. It takes a few steps to make the dish but it’s so worth it. By caramelising the pecans and bacon you add the sweet, salty and crunchiness to the perfectly roasted sprouts. Couldn’t get enough of these and I’m sure you will feel the same way about them. Enjoy! 
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube LxQpS_DPDsI >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
