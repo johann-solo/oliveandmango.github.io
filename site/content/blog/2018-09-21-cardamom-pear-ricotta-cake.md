@@ -7,7 +7,10 @@ scaled_thumbnail: /images/uploads/2018_09_21_cardamom_pear_ricotta_cake_0.jpg
 categories: ["desserts"]
 tags: ["cakes", "pears", "cardamom"]
 excerpt: Light fragrant and delicate – the perfect cake to kickoff your Fall
+keywords: ["fruit cakes", "pear recipes"]
+description: Light fragrant and delicate – the perfect cake to kickoff your Fall
 ---
+<span class="blog-text">
 
 I absolutely love ricotta cakes. I’m very surprised that I haven’t posted one earlier on the blog. I love a classic lemon ricotta one. The texture is light and fluffy and it’s the kind of cake that is perfect for any occasion. It also doesn’t need to be fluffed up too much to be enjoyed. It’s a humble little cake that just needs a very light dusting of powdered sugar if that, and is the perfect thing to enjoy with a cup of tea or coffee.
 </br>
@@ -50,40 +53,47 @@ Seeing everyone’s blog posts about everything apple and pumpkin at the end of 
 ![Cardamom Pear Ricotta Cake](/images/uploads/2018_09_21_cardamom_pear_ricotta_cake_7.jpg)
 </br>
 </br>
-
-## Recipe
-Serves 6
+{{< youtube -IkH9-EcYWs >}}
 </br>
+</br>
+</span>
+
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">6</div>
 </br>
 
 ### Ingredients
 
-* 9 tablespoons unsalted butter, at room temperature
-* 1 cup plus 2 tablespoons sugar
-* 3 large eggs
-* 1&frac14; cups all-purpose flour
-* 1 pinch salt
-* 1 cup fresh ricotta
-* Zest of 1 medium sized lemon
-* 1 tablespoon baking powder
-* 2-3 Pears, peeled and grated (should yield about 1 cup)
-* Confectioners' sugar for serving
-* &frac12; tsp vanilla extract 
-* 1 tsp ground cardamom 
+* <span itemprop="recipeIngredient">9 tablespoons unsalted butter, at room temperature</span>
+* <span itemprop="recipeIngredient">1 cup plus 2 tablespoons sugar</span>
+* <span itemprop="recipeIngredient">3 large eggs</span>
+* <span itemprop="recipeIngredient">1&frac14; cups all-purpose flour</span>
+* <span itemprop="recipeIngredient">1 pinch salt</span>
+* <span itemprop="recipeIngredient">1 cup fresh ricotta</span>
+* <span itemprop="recipeIngredient">Zest of 1 medium sized lemon</span>
+* <span itemprop="recipeIngredient">1 tablespoon baking powder</span>
+* <span itemprop="recipeIngredient">2-3 Pears, peeled and grated (should yield about 1 cup)</span>
+* <span itemprop="recipeIngredient">Confectioners' sugar for serving</span>
+* <span itemprop="recipeIngredient">&frac12; tsp vanilla extract </span>
+* <span itemprop="recipeIngredient">1 tsp ground cardamom </span>
 
 ### Directions
 
-1. Preheat the oven to 400 &deg; F
-1. Butter and flour a 9-10 inch springform pan. And line the bottom part of it with parchment for easy transfer
-1. In a medium bowl whisk together the flour, salt, baking powder and cardamom and set aside
-1. Cream the butter and sugar in a standing mixer until light and fluffy.
-1. On the lowest speed, add the eggs one at a time.
-1. Add the vanilla extract
-1. Slowly add the flour mixture, then the ricotta, grated pear and lastly the lemon zest
-1. Scrape the batter into the prepared pan, smooth the top and bake for approx 40-45 minutes, until the cake is golden brown and the sides start to pull away from the pan.
-1. Cool in the pan on a wire rack for 10 minutes. Turn the cake out of the pan and cool completely on the rack. Sift confectioners' sugar over the top and serve. 
+1. Preheat the oven to 400°F
+2. Butter and flour a 9-10 inch springform pan. And line the bottom part of it with parchment for easy transfer
+3. In a medium bowl whisk together the flour, salt, baking powder and cardamom and set aside
+4. Cream the butter and sugar in a standing mixer until light and fluffy.
+5. On the lowest speed, add the eggs one at a time.
+6. Add the vanilla extract
+7. Slowly add the flour mixture, then the ricotta, grated pear and lastly the lemon zest
+8. Scrape the batter into the prepared pan, smooth the top and bake for approx 40-45 minutes, until the cake is golden brown and the sides start to pull away from the pan.
+9. Cool in the pan on a wire rack for 10 minutes. Turn the cake out of the pan and cool completely on the rack. Sift confectioners' sugar over the top and serve. 
 
-Adpated by _Food 52_
+Adpated from _Food 52_
 </br>
 </br>
 
