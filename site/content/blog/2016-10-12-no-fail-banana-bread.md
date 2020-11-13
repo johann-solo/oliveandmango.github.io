@@ -52,11 +52,11 @@ I think banana bread is one of those foods that people have different opinions o
 </br>
 
 The original recipe is from the food network by _Tyler Florence_. I adapted it because I find the part of that recipe that says to separate the 4 bananas and prepare in two batches doesn’t work for me. The consistency doesn’t come out the way I like it so I don’t separate the bananas. I blend all four together as you see in the recipe. I also almost always add chocolate chips. I love the crunch from the pecans or walnuts if your swapping, and the little surprise crunch and burst of sweetness when you bite into a chocolate chip. Definitely feel free to try the recipe on the food network website and compare for yourself. In the meantime I hope you enjoy this recipe which is my favourite banana bread recipe. A classic and a favourite of anyone I have made it for too. Can’t beat that right! Let me know if you have a favourite recipe for this classic. I would love to know and I’m always willing to try other recipes for it.
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube pTdNWGTKbXc >}}
+</br>
+</br>
 </span>
 
 ### Recipe
