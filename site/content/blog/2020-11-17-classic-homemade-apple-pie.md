@@ -55,9 +55,9 @@ When it comes to what variety of apples to use in your apple pie try to stick to
 So what are you waiting for? Put that abundant Fall apple harvest to use with this tasty classic. This delicious, easy to make from scratch apple pie recipe has a flakey butter crust and tender apple filling that's bursting with flavor and perfectly sweet. It’s also a fantastic recipe to make the day before so that you have dessert ready the next day. Happy baking!
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube BC40WhC9Q6Q >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
