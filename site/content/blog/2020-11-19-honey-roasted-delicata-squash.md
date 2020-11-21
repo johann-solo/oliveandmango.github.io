@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2020_11_19_spicy_roasted_pumpkin_with_honey_thyme_and_feta_1.jpg
 scaled_thumbnail: /images/uploads/2020_11_19_spicy_roasted_pumpkin_with_honey_thyme_and_feta_0.jpg
 categories: ["sides"]
-tags: ["pumpkin", "honey", "feta"]
+tags: ["squash", "honey", "feta"]
 excerpt: A sweet and savory side that’s perfect for fall and winter meals
 keywords: ["roasted sides", "sweet and savoury sides"]
 description: A sweet and savory side that’s perfect for fall and winter meals
