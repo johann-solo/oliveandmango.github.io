@@ -50,9 +50,9 @@ The filling is quite simple with a classic blend of spices in it. The texture of
 So there you have it. Another tasty pumpkin pie out there on the ‘interweb’ for you guys to try. I do strongly recommend serving it with the pecan praline topping. If you don’t want to put it on the pie just serve it on the side along with some whip. It’s such a special way to serve this classic pumpkin pie. Enjoy!
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube wwZ4FIgo5dU >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
