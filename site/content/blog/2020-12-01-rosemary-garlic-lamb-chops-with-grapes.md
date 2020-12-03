@@ -12,7 +12,7 @@ description: Delicious pan fried lamb chops seasoned with garlic and rosemary an
 ---
 <span class="blog-text">
 
-A simple recipe for an impressive main course. Delicious pan fried lamb chops seasoned with garlic and rosemary and served with a sweet and delicious grape sauce. The grape sauce is made with a mixture of grapes, white wine, and just a touch of honey along with the pan juices and is anther delicious main dish that combines both savoury and sweet flavours. 
+A simple recipe for an impressive main course. Delicious pan fried lamb chops seasoned with garlic and rosemary and served with a sweet and delicious grape sauce. The grape sauce is made with a mixture of grapes, white wine, and just a touch of honey along with the pan juices and is another delicious main dish that combines both savoury and sweet flavours. 
 </br>
 </br>
 ![Rosemary Garlic Lamb Chops With Grapes](/images/uploads/2020_12_01_rosemary_garlic_lamb_chops_with_grapes_2.jpg)
