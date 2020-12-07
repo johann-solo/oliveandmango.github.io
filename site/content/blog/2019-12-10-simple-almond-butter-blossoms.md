@@ -10,6 +10,7 @@ excerpt: Soft and chewy cookies with a chocolatey centre
 keywords: ["eggless cookies", "gluten free cookies", "almond cookies", "almond butter"]
 description: Soft and chewy cookies with a chocolatey centre
 ---
+<span class="blog-text">
 
 Soft and chewy with a chocolate centre - a classic cookie loved by all. These cookies go by so many names and are most often made with peanut butter. They are often called PB kiss cookies, thumb print Hershey kisses cookies and the list goes on. Whatever the name - they are delicious and are so good with PB or as I made them here using almond butter. 
 </br>
@@ -47,8 +48,16 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 ![Simple Almond Butter Blossoms](/images/uploads/2019_12_10_simple_almond_butter_blossoms_7.jpg)
 </br>
 </br>
+{{< youtube cZFyZGvevcA >}}
+</br>
+</br>
+</span>
 
-## Recipe
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
 Makes 20-22 cookies
 </br>
 </br>
