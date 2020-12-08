@@ -58,8 +58,10 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 <input type="button" value="Print" class="btn__print" onClick="window.print()">
 </form></div>
 
-Makes 20-22 cookies
-</br>
+<div>Servings: <span itemprop="recipeYield">Makes 20-22 cookies</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">10-15 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT08M">6-8 mins</div>
+<div>Cooling time: 1-2 hours</div>
 </br>
 
 ### Ingredients
