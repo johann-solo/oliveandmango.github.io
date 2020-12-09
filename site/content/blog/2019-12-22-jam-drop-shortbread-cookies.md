@@ -74,7 +74,7 @@ Disclaimer: I received this book as a gift but all thoughts and opinions are my 
 
 1. Preheat oven to 400°F and line two baking sheets with parchment paper 
 1. In a medium bowl whisk together the flour and the baking powder 
-1. In a large bowl of a standing mixer (or you can use a hand mixer too)beat the butter and the sugar until very light and creamy. Then add the eggs one at a time until well incorporated. Beat in the vanilla extract. 
+1. In a large bowl of a standing mixer (or you can use a hand mixer too) beat the butter and the sugar until very light and creamy. Then add the eggs one at a time until well incorporated. Beat in the vanilla extract. 
 1. Add the dry ingredients into the butter mixture about &frac12; cup at a time while the mixer is  going until you have a smooth dough that is not overly sticky and easy to work with. If you find it’s sticky add some more flour a tbsp at a time until you reach the right consistency. Try not to over mix. (I used about &frac14; extra flour) 
 1. Immediately shape the dough using a small cookie scoop into little balls, place on the baking tray leaving a few centimeters in between and make an indentation in each with your finger. Fill the indentation with jam and bake in the oven for 10 minutes or until golden brown. Do not over bake. Eat them as soon as they are cool enough to eat and enjoy them at their best. 
 
