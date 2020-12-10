@@ -20,9 +20,9 @@ Tasty chocolate orange madeleines. These make for an exquisite dessert with mini
 </br>
 
 ### Why you will love this recipe 
--Very easy and quick to make. A bowl and whisk and mostly pantry ingredients. 
--No chill time needed. These guys get that famous bump/hump without chill time.
--Chocolatey goodness. Need I say more. The batter is made with cocoa powder and then these delicious little cakes are dipped in chocolate too. 
+- Very easy and quick to make. A bowl and whisk and mostly pantry ingredients. 
+- No chill time needed. These guys get that famous bump/hump without chill time.
+- Chocolatey goodness. Need I say more. The batter is made with cocoa powder and then these delicious little cakes are dipped in chocolate too. 
 </br>
 </br>
 ![Chocolate Orange Madeleines](/images/uploads/2020_12_08_chocolate_orange_madeleines_3.jpg)
@@ -89,7 +89,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 * <span itemprop="recipeIngredient">&frac14; cup cocoa powder, unsweetened </span>
 * <span itemprop="recipeIngredient">&frac14; cup melted, cooled butter</span>
 * <span itemprop="recipeIngredient">zest from one small to medium orange</span>
-* <span itemprop="recipeIngredient">1-2 tsp of Grand Marnier or any other orange based liqueur optional) </span>
+* <span itemprop="recipeIngredient">1-2 tsp of Grand Marnier or any other orange based liqueur (optional) </span>
 
 #### For chocolate glaze
 * <span itemprop="recipeIngredient">8 oz semisweet chocolate </span>
