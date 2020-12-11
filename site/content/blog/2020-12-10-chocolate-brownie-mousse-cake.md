@@ -5,9 +5,9 @@ author: Joanne
 thumbnail: /images/uploads/2020_12_10_chocolate_brownie_mousse_cake_1.jpg
 scaled_thumbnail: /images/uploads/2020_12_10_chocolate_brownie_mousse_cake_0.jpg
 categories: ["desserts"]
-tags: ["chocolate", "cakes", "sponsored"]
+tags: ["chocolate", "cakes", "gluten free", "vegan", "sponsored"]
 excerpt: This chocolate brownie mousse cake is made up of three delicious layers and they all include chocolate
-keywords: ["mousse cake recipe", "brownie cake recipe"]
+keywords: ["mousse cake recipe", "brownie cake recipe", "vegan desserts"]
 description: This chocolate brownie mousse cake is made up of three delicious layers and they all include chocolate
 ---
 <span class="blog-text">
@@ -26,7 +26,7 @@ The brownie layer on this cake is quite delicious - it’s so dense, and has tha
 </br>
 </br>
 
-Let’s talk mousse. It’s one of my favorite desserts of all time. I love the richness of it and it’s smoothness and at the same time how light and frothy it can taste. One of my favorite mouses on the blog is a [chocolate vegan mousse](https://www.oliveandmango.com/vegan-chocolate-mousse/)  - one that turns out perfect every time. This one is similar but uses no cocoa butter or milk in it making it even easier to make. The common addition to both is the dates. They add the sweetness and a really nice texture to this mousse. This mousse recipe is portioned for this mousse cake. Feel free to make it to enjoy on its own too just make sure to allow it to set fully before enjoying. It can be poured into approximately 4 ramekins if you want to make single serve portions of it. If you want your mousse to cake ratio to be even more extreme, you could double the mousse portion and have an even thicker layer of mousse to each bite. 
+Let’s talk mousse. It’s one of my favorite desserts of all time. I love the richness of it and it’s smoothness and at the same time how light and frothy it can taste. One of my favorite mousses on the blog is a [chocolate vegan mousse](https://www.oliveandmango.com/vegan-chocolate-mousse/)  - one that turns out perfect every time. This one is similar but uses no cocoa butter or milk in it making it even easier to make. The common addition to both is the dates. They add the sweetness and a really nice texture to this mousse. This mousse recipe is portioned for this mousse cake. Feel free to make it to enjoy on its own too just make sure to allow it to set fully before enjoying. It can be poured into approximately 4 ramekins if you want to make single serve portions of it. If you want your mousse to cake ratio to be even more extreme, you could double the mousse portion and have an even thicker layer of mousse to each bite. 
 </br>
 </br>
 ![Chocolate Brownie Mousse Cake](/images/uploads/2020_12_10_chocolate_brownie_mousse_cake_4.jpg)
@@ -40,7 +40,7 @@ The glaze is optional but I love the way it finishes off the cake. It’s a grea
 </br>
 </br>
 
-This is the ultimate plant based cake and Its actually quite no fuss and simple to make especially when compared with other regular mousses. I made this cake in partnership with Elmhurst 1925 and their nut milk and creamer which have no fillers, or thickeners and they also pack more nuts, seeds or grains in a glass than other brands making them more nutrient dense & smell and taste even nuttier & better. They are the best addition to my oats, coffee, smoothie, tea and in my baked goods - being that they are filler free and unsweetened makes them perfect for baking - giving you consistent results. We couldn’t get enough of this cake and I think you might feel the same way about it. Hope you enjoy! 
+This is the ultimate plant based cake and Its actually quite no fuss and simple to make especially when compared with other regular mousses. I made this cake in partnership with <span class="highlight"><a rel="nofollow" href="https://elmhurst1925.com">Elmhurst 1925</a></span> and their nut milk and creamer which have no fillers, or thickeners and they also pack more nuts, seeds or grains in a glass than other brands making them more nutrient dense & smell and taste even nuttier & better. They are the best addition to my oats, coffee, smoothie, tea and in my baked goods - being that they are filler free and unsweetened makes them perfect for baking - giving you consistent results. We couldn’t get enough of this cake and I think you might feel the same way about it. Hope you enjoy! 
 </br>
 </br>
 ![Chocolate Brownie Mousse Cake](/images/uploads/2020_12_10_chocolate_brownie_mousse_cake_6.jpg)
@@ -63,7 +63,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 <div>Servings: <span itemprop="recipeYield">8-10</div>
 <div>Prep Time: <meta itemprop="prepTime" content="PT40M">30-40 mins</div>
 <div>Bake Time: <meta itemprop="cookTime" content="PT22M">20-22 mins</div>
-<div>Non active time: 2-4 hours to allow came to cool and mousse and glaze to set </div>
+<div>Non active time: 2-4 hours to allow to cool and mousse and glaze to set </div>
 </br>
 
 ### Ingredients
@@ -79,7 +79,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 
 #### For the mousse 
 * <span itemprop="recipeIngredient">6 oz unsweetened chocolate </span>
-* <span itemprop="recipeIngredient">1 3/4 cups non dairy milk - I used Elmhurst 1925 Hazelnut Oat creamer </span>
+* <span itemprop="recipeIngredient">1 3/4 cups non dairy milk - I used <span class="highlight"><a rel="nofollow" href="https://elmhurst1925.com/collections/creamers/products/oat-creamer-hazelnut">Elmhurst 1925 Hazelnut Oat creamer</a></span> </span>
 * <span itemprop="recipeIngredient">1 cup (about 12) Medjool dates pitted and chopped </span>
 * <span itemprop="recipeIngredient">&frac12; tsp vanilla extract </span>
 * <span itemprop="recipeIngredient">&frac14; tsp espresso powder (optional)</span>
@@ -100,7 +100,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 1. Roughly chop the chocolate into small chunks. Melt in the microwave at 20 second intervals or using a double boiler.
 2. In a blender, combine the nut milk and dates. Blend on high until smooth.
 3. Add the melted chocolate, espresso powder and blend again until smooth and combined.
-4. Pour into medium bowl and efrigerate until thick but not fully set (about 1-2 hours) &ast;
+4. Pour into medium bowl and refrigerate until thick but not fully set (about 1-2 hours) &ast;
 
 #### For the cake
 1. Preheat the oven to 350ºF.
