@@ -7,8 +7,8 @@ scaled_thumbnail: /images/uploads/2020_12_09_fennel_gratin_0.jpg
 categories: ["sides"]
 tags: ["fennel", "rosemary", "Parmesan"]
 excerpt: Baked fennel in cream with rosemary and Parmesan
-keywords: [""]
-description: 
+keywords: ["Finoccio al Forno"]
+description: This creamy baked fennel is the ideal indulgent side to serve with just about anything. It’s baked with cream, Parmesan cheese and rosemary. It the perfect cheesy bake for any occasion
 ---
 <span class="blog-text">
 
