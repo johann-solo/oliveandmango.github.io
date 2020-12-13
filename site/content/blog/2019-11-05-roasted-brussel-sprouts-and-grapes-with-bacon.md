@@ -11,6 +11,8 @@ keywords: ["bacon", "Brussel sprouts", "grapes"]
 description: Garlic roasted brussels sprouts and grapes with crispy bacon
 ---
 
+<span class="blog-text">
+
 It doesn’t get much easier than this for a side that can either feed a crowd or the recipe can be halved for weeknight dinner. I always think that brussel sprouts do really well when roasted or pan fried in some sort of pork fat. Pancetta or bacon does wonders to adding flavour to the brussel sprouts. They add a hit of saltiness and they crisp up beautifully adding a nice chewy texture to this side dish. I also love that you don’t have to cook the bacon ahead of time - this is a no fuss - throw everything into a sheet pan- kind of side. My kind of recipe! These roasted brussel sprouts and grapes are absolutely delicious without the bacon if you want to keep things vegetarian though. 
 </br>
 </br>
@@ -40,17 +42,26 @@ We couldn’t get enough of it and I had to add a little crunch and a little cre
 ![Roasted Brussel Sprouts and Grapes With Bacon](/images/uploads/2019_11_05_roasted_brussel_sprouts_and_grapes_with_bacon_8.jpg)
 </br>
 </br>
-
-## Recipe
-Serves 8 and makes 2 sheet pans worth 
+{{< youtube kJiRagwUt_k >}}
 </br>
+</br>
+</span>
+
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">Serves 8 and makes 2 sheet pans worth </div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">15 mins</div>
+<div>Bake Time: <meta itemprop="cookTime" content="PT30M">30 mins</div>
 </br>
 
 ### Ingredients
 
-* <span itemprop="ingredients">24 ounces Brussels sprouts ends trimmed (about 8 cups), halved or quartered, if large </span>
-* <span itemprop="ingredients">24 ounces grapes </span>
-* <span itemprop="ingredients">4 oz diced bacon or pancetta  </span>
+* <span itemprop="ingredients">24 ounces (1.5lbs) Brussels sprouts ends trimmed (about 8 cups), halved or quartered, if large </span>
+* <span itemprop="ingredients">24 ounces (1.5lbs) grapes </span>
+* <span itemprop="ingredients">4 oz diced bacon or pancetta (approx. 4 strips of bacon) </span>
 * <span itemprop="ingredients">4 cloves of garlic minced </span>
 * <span itemprop="ingredients">4 tablespoons extra-virgin olive oil </span>
 * <span itemprop="ingredients">4 tablespoons fresh thyme </span>
