@@ -11,6 +11,8 @@ keywords: ["chestnut", "soups", "hearty soups", "creamy soup"]
 description: A silky smooth soup with slightly earthy notes from the chestnuts. This comforting soup is the perfect starter to any meal.
 ---
 
+<span class="blog-text">
+
 Silky smooth with slightly earthy notes from the chestnuts. This comforting soup is the perfect starter to any meal. I love it so much. It’s the full meal when I make it. It’s wonderful with some crusty bread and the best way to use up the last of my homemade chestnut purée.
 </br>
 </br>
@@ -52,24 +54,37 @@ This soup tastes wonderful and definitely feels like a special occasion soup tha
 ![Creamy Chestnut Soup](/images/uploads/2018_12_26_creamy_chestnut_soup_7.jpg)
 </br>
 </br>
+{{< youtube dfWRP2yJoUs >}}
+</br>
+</br>
+</span>
 
-## Recipe
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">8</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT20M">20 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT35M">30-35 mins </div>
+</br>
+
 ### Ingredients
 
-* 4 slices bacon, roughly chopped
-* 2 tbsp. unsalted butter
-* 1 large shallot or onion, roughly chopped
-* 1 medium carrot, roughly chopped
-* 1 small leek cleaned thoroughly, roughly chopped
-* 1 stalk celery, roughly chopped
-* 2 cloves garlic
-* 6 cups chicken stock
-* 2&frac12; lb. fresh chestnuts, roasted and peeled, or two 15-oz. jars whole roasted chestnuts, drained (I used my <span class="highlight">[own unsweetened chestnut purée](https://www.oliveandmango.com/chocolate-chestnut-cake/)</span>)
-* 1 bay leaf
-* 1 sprig thyme
-* &frac12; cup heavy cream
-* &frac12; tsp. freshly grated nutmeg
-* Kosher salt and freshly ground black pepper, to taste
+* <span itemprop="recipeIngredient">4 slices bacon, roughly chopped</span>
+* <span itemprop="recipeIngredient">2 tbsp. unsalted butter</span>
+* <span itemprop="recipeIngredient">1 large shallot or onion, roughly chopped</span>
+* <span itemprop="recipeIngredient">1 medium carrot, roughly chopped</span>
+* <span itemprop="recipeIngredient">1 small leek cleaned thoroughly, roughly chopped</span>
+* <span itemprop="recipeIngredient">1 stalk celery, roughly chopped</span>
+* <span itemprop="recipeIngredient">2 cloves garlic</span>
+* <span itemprop="recipeIngredient">6 cups chicken stock</span>
+* <span itemprop="recipeIngredient">15 oz. or 2&frac23; cup whole roasted chestnuts, peeled and chopped (I used my <span class="highlight">[own unsweetened chestnut purée](https://www.oliveandmango.com/chocolate-chestnut-cake/)</span>)</span>
+* <span itemprop="recipeIngredient">1 bay leaf</span>
+* <span itemprop="recipeIngredient">1 sprig thyme</span>
+* <span itemprop="recipeIngredient">&frac12; cup heavy cream</span>
+* <span itemprop="recipeIngredient">&frac12; tsp. freshly grated nutmeg</span>
+* <span itemprop="recipeIngredient">Kosher salt and freshly ground black pepper, to taste</span>
 
 ### Directions
 
@@ -82,7 +97,7 @@ This soup tastes wonderful and definitely feels like a special occasion soup tha
 7. Remove from heat and let cool slightly. 
 8. Discard bay leaf and thyme. Working in batches, purée soup in a blender until smooth. 
 9. Return soup to saucepan and place over medium heat. 
-10. Stir in cream, nutmeg, salt, and pepper; cook until soup is slightly thick, about 5 minutes more. 
+10. Stir in cream, nutmeg, salt, and pepper; cook until soup is slightly thick, about 5 minutes more, addding more broth to desired thickness. 
 11. Garnish with crumbled bacon and chives
 </br>
 
