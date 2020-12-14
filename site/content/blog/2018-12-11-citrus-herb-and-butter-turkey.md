@@ -11,6 +11,8 @@ keywords: ["turkey", "roasting", "oranges", "lemons"]
 description: Don't be intimidated when roasting your turkey. Here are a few simple techniques I have learned and experimented with to bring you a no-fail perfectly tender turkey. You can have crispy skin and perfectly tender turkey meat in only a few simple steps. 
 ---
 
+<span class="blog-text">
+
 Crispy skin and perfectly tender turkey meat in only a few simple steps. Making a turkey can be intimidating for many - myself included. I’m still slowly getting more comfortable cooking large pieces of meat. What I am very good at is reading and doing my research. I have compiled a few simple techniques I have learned and experimented with to bring you a no-fail perfectly tender turkey. I’m going to keep things quite simple and going to try and keep things brief as well.
 </br>
 </br>
@@ -72,87 +74,91 @@ This is a sponsored post for _Paderno_. All thoughts and views are my own. Thank
 </br>
 </br>
 
-## Dry brine
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
 
+<div>Servings: <span itemprop="recipeYield">8</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT20M">20 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT180M">3 hrs</div>
+</br>
+
+## For the dry brine
 ### Ingredients
 
-* 1 tbsp salt (*amount varies for each according to weight of turkey)
-* 1 tsp baking powder
-* 2 tsps dried herbs (poultry seasoning, sage, rosemary, parsley, or thyme all work well here)
+* <span itemprop="recipeIngredient">1 tbsp salt (*amount varies for each according to weight of turkey)<span>
+* <span itemprop="recipeIngredient">1 tsp baking powder<span>
+* <span itemprop="recipeIngredient">2 tsps dried herbs (poultry seasoning, sage, rosemary, parsley, or thyme all work well here)<span>
 
 ### Directions
+1. Remove the giblets from the turkey and set aside for stock or gravy. Pat turkey dry with paper towels, inside and out, and set on a rimmed baking sheet.
+2. Mix together the salt, baking powder, and herbs to make the brine.
+3. Sprinkle the brine all over the inside and outside of the turkey.
+4. Refrigerate for 24-72 hours, uncovered.
+5. Cook according to your chosen turkey recipe, skipping any added salt that the recipe calls for.
 
-1. Remove the giblets from the turkey and set aside for stock or gravy. 
-2. Pat turkey dry with paper towels, inside and out, and set on a rimmed baking sheet.
-3. Mix together the salt, baking powder, and herbs to make the brine.
-4. Sprinkle the brine all over the inside and outside of the turkey.
-5. Refrigerate for 24-72 hours, uncovered.
-6. Cook according to your chosen turkey recipe, skipping any added salt that the recipe calls for.
-
-&ast; For every five pounds of turkey you have, mix together 1 tbsp Kosher salt, 1 tsp baking powder, and two teaspoons dried herbs of your choice (rosemary, sage, parsley, thyme).
+### Notes
+* For every five pounds of turkey you have, mix together 1 tbsp Kosher salt, 1 tsp baking powder, and two teaspoons dried herbs of your choice (rosemary, sage, parsley, thyme).
 </br>
 </br>
 
-## Recipe
+## For the turkey
 ### Ingredients
 
-__For the turkey__
+* <span itemprop="recipeIngredient">1 (12-14) lb. turkey, giblets and neck removed, patted dry</span>
+* <span itemprop="recipeIngredient">2 sticks (1 cup) unsalted butter, at room temperature</span>
+* <span itemprop="recipeIngredient">2 tbsps fresh sage, plus more for stuffing the bird</span>
+* <span itemprop="recipeIngredient">2 tbsps fresh thyme, plus more for stuffing the bird</span>
+* <span itemprop="recipeIngredient">1 tbsp fresh rosemary, plus more for stuffing the bird</span>
+* <span itemprop="recipeIngredient">3 tbsps fresh parsley</span>
+* <span itemprop="recipeIngredient">Zest of 1 lemon plus three tbsp of fresh lemon juice</span>
+* <span itemprop="recipeIngredient">1½ tbsp of finely grated orange zest, plus 1⁄4 cup of fresh orange juice</span>
+* <span itemprop="recipeIngredient">3 tsp kosher salt</span>
+* <span itemprop="recipeIngredient">1½ tsp black pepper</span>
+* <span itemprop="recipeIngredient">1 large piece of double lined cheesecloth</span>
+* <span itemprop="recipeIngredient">1 garlic head, tips sliced off plus 4 cloves minced</span>
+* <span itemprop="recipeIngredient">1 onion, peeled and halved</span>
+* <span itemprop="recipeIngredient">½ orange, cut into wedges</span>
+* <span itemprop="recipeIngredient">1 lemon cut into wedges</span>
+* <span itemprop="recipeIngredient">3-5 cups low sodium chicken or turkey broth</span>
+</br>
+</br>
 
-* 1 (12-14) lb. turkey, giblets and neck removed, patted dry
-* 2 sticks (1 cup) unsalted butter, at room temperature
-* 2 tbsps fresh sage, plus more for stuffing the bird
-* 2 tbsps fresh thyme, plus more for stuffing the bird
-* 1 tbsp fresh rosemary, plus more for stuffing the bird
-* 3 tbsps fresh parsley
-* Zest of 1 lemon plus three tbsp of fresh lemon juice
-* 1 &frac12; tbsp of finely grated orange zest, plus 1/4 cup of fresh orange juice
-* 3 tsp kosher salt
-* 1 &frac12; tsp black pepper
-* 1 piece large of double lined cheesecloth
-* 1 garlic head, tips sliced off plus 4 cloves minced
-* 1 onion, peeled and halved
-* &frac12; orange, cut into wedges
-* 1 lemon cut into wedges
-* 3-5 cups low sodium chicken or turkey broth
+## For the Simple Pan Gravy
 
-__Simple Pan Gravy__
-
-* 1 cup white wine (optional)
-* 4 tbsps salted butter
-* 6 tbsps all-purpose flour
-* drippings from the turkey
-* 2-3 cups low sodium chicken or turkey broth, as needed
-* 1 tsp fresh chopped sage
-* 1 tsp fresh thyme
-* salt and black pepper, to taste
+* <span itemprop="recipeIngredient">1 cup white wine (optional - sub with extra broth)</span>
+* <span itemprop="recipeIngredient">4 tbsps salted butter</span>
+* <span itemprop="recipeIngredient">6 tbsps all-purpose flour</span>
+* <span itemprop="recipeIngredient">drippings from the turkey</span>
+* <span itemprop="recipeIngredient">2-3 cups low sodium chicken or turkey broth, as needed</span>
+* <span itemprop="recipeIngredient">1 tsp fresh chopped sage</span>
+* <span itemprop="recipeIngredient">1 tsp fresh thyme</span>
+* <span itemprop="recipeIngredient">salt and black pepper, to taste</span>
+</br>
+</br>
 
 ### Directions
 
+#### For the turkey
 1. Once brined, remove the turkey from the fridge 1-2 hours before roasting allowing it to come to room temperature. No need to dust off the salt.
-2. Meanwhile in a medium sauce pan melt the butter and once melted remove from heat. 
-3. Finely chop the sage, thyme, rosemary, parsley, and mince the garlic and add to the butter. 
-4. Whisk in the lemon zest and juices, orange zest and juices and salt and pepper, mix well to combine; transfer half the citrus butter to a small bowl and refrigerate to cool for a few minutes until spreadable.
-5. Preheat the oven to 400&deg;F
-6. Position a rack in the lower third of the oven.
-7. Place the turkey in a large roasting pan (I used Paderno’s stainless steel multi-roaster with removable rack)
-8. Run your fingers under the breast and thigh skin to loosen it, then spread the chilled butter under the skin and over the breast and thighs.
-9. Stuff the turkey cavity with the orange wedges, lemon wedges, onion and garlic and herbs.
-10. Dampen an 18-by-18-inch double-layer piece of cheesecloth with warm water and squeeze dry. 
-11. Soak the cheesecloth in the remaining citrus butter and drape it over the breast and legs; pour any remaining butter on top.
-12. Roast the turkey for about 30 minutes. 
-13. Add the stock to the roasting pan and continue to roast for about 1 hour and 45 minutes longer, until an instant-read thermometer inserted in the inner thigh registers 165°F. 
-14. Baste the turkey with the drippings 2-3 times throughout cooking and when doing so rotate the roasting pan. (I basted approximately every half hour)
-15. Remove the turkey from the oven and carefully peel the cheesecloth, transfer the turkey to a baking sheet, tent loosely with foil and let rest 20-30 minutes before slicing.
-16. To make the gravy, strain the liquid from the roasting pan, skimming off as much fat as possible. 
-17. Once you have skimmed the fat, add enough broth to equal about 4-5 cups total of drippings/broth.
-18. Place the roasting pan over two burners and add wine (about &frac12; cup) to deglaze the pan scraping up all those brown bits on the bottom of the pan. 
-19. Once deglazed, add the butter and once melted, add the flour whisking to combine. 
-20. Cook stirring constantly, until the mixture is golden, just a couple of minutes.
-21. Increase heat to medium high and add the remaining &frac12; cup of white wine, whisking as you go to let the wine reduce down. 
-22. Slowly whisk in the reserved broth, stirring constantly, until the mixture is smooth. 
-23. Stir in the sage and the thyme and cook, continuing to stir, until the gravy has thickened to your desired thickness, around 8 to 10 minutes. 
-24. Season to taste with salt and pepper. 
-25. Serve warm with the turkey.
+2. Meanwhile in a medium sauce pan melt the butter and once melted remove from heat. Finely chop the sage, thyme, rosemary, parsley, and mince the garlic and add to the butter.Whisk in the lemon and orange zest and juices and salt and pepper, mix well to combine; transfer half the citrus butter to a small bowl and refrigerate to cool for a few minutes until spreadable.
+3. Preheat the oven to 400°F
+4. Position a rack in the lower third of the oven.
+5. Place the turkey in a large roasting pan (I used Paderno’s stainless steel multi-roaster with removable rack)
+6. Run your fingers under the breast and thigh skin to loosen it, then spread the chilled butter under the skin and over the breast and thighs.Stuff the turkey cavity with the orange wedges, lemon wedges, onion and garlic and herbs.
+7. Dampen an 18-by-18-inch double-layer piece of cheesecloth with warm water and squeeze dry.Soak the cheesecloth in the remaining citrus butter and drape it over the breast and legs; pour any remaining butter on top.
+8. Roast the turkey for about 30 minutes.
+9. Remove and add stock to the roasting pan and continue to roast for about 1 hour and 45 minutes longer, until an instant-read thermometer inserted in the inner thigh registers 165°F. Baste the turkey with the drippings 2-3 times throughout cooking and when doing so rotate the roasting pan. (I basted approximately every half hour)
+10. Remove the turkey from the oven and carefully peel the cheesecloth, transfer the turkey to a baking sheet, tent loosely with foil and let rest 20-30 minutes before slicing.
+
+#### For the gravy
+1. To make the gravy, strain the liquid from the roasting pan, skimming off as much fat as possible.Once you have skimmed the fat, add enough broth to equal about 4-5 cups total of drippings/broth.
+2. Place the roasting pan over two burners and add wine (about ½ cup) to deglaze the pan scraping up all those brown bits on the bottom of the pan.
+3. Once deglazed, add the butter and once melted, add the flour whisking to combine.Cook stirring constantly, until the mixture is golden, just a couple of minutes.
+4. Increase heat to medium high and add the remaining ½ cup of white wine, whisking as you go to let the wine reduce down.Slowly whisk in the reserved broth, stirring constantly, until the mixture is smooth.
+5. Stir in the sage and the thyme and cook, continuing to stir, until the gravy has thickened to your desired thickness, around 8 to 10 minutes.Season to taste with salt and pepper.Serve warm with the turkey.
+</br>
 
 Adapted from _The Kitchn_, _Serious Eats_, _Food and Wine_, and _Half Baked Harvest_
 

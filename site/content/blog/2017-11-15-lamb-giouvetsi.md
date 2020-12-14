@@ -83,7 +83,7 @@ There you have it folks. A gorgeous stew to add to your stew repertoire! Right a
 
 1. Preheat oven to 350 &deg; F at this point
 
-1. Heat a small pan to medium high and heat up 2 tbsp olive oil and add the orzo sauté for a few minutes until golden and translucent
+1. Heat a small pan to medium high and heat up 2 tbsp olive oil and add the orzo. Sauté for a few minutes until golden and translucent
 
 1. Pour the orzo into the lamb sauce, add the rest of the broth, season with salt and pepper and stir well to combine. Remove the bay leaves and cinnamon cover with lid or if your transferring everything into a casserole dish then cover it tightly with foil and bake for 30 minutes then remove lid or foil and bake for another 10-15 minutes until the it bubbling and golden.
 <br>
