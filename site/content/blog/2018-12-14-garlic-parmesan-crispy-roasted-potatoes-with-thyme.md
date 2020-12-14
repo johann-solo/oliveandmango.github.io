@@ -9,8 +9,9 @@ tags: ["potatoes", "garlic", "thyme", "cheese", "sponsored"]
 excerpt: These roasted garlic Parmesan potatoes are totally delicious and fanciful without all the effort
 keywords: ["potatoes", "garlic", "thyme", "cheese", "roasted potatoes"]
 description: These roasted garlic Parmesan potatoes are totally delicious and fanciful without all the effort. They are buttery and roasted to perfection with the crispiest edges.
-
 ---
+
+<span class="blog-text">
 
 Sides don’t have to be complicated at all to be delicious. These garlic Parmesan potatoes are totally delicious and fanciful without all the effort. They are buttery and roasted to perfection with the crispiest edges.
 </br>
@@ -58,19 +59,24 @@ This post is in partnership with [Zwilling](https://www.zwilling.ca/). All thoug
 </br>
 </br>
 
-## Recipe
-Serve 6-8
-</br>
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">6-8</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT20M">15-20 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT60M">60 mins</div>
 </br>
 
 ### Ingredients
 
-* 4 lb. Yukon Gold potatoes scrubbed
-* 8 tbsp. (1 stick) unsalted butter, melted
-* 4 cloves garlic, peeled and minced
-* 1 tbsp. chopped fresh thyme plus some more for garnish
-* 1 tbsp. kosher salt
-* &frac14; cup Parmesan cheese, grated plus more for serving
+* <span itemprop="recipeIngredient">4 lb. Yukon Gold potatoes scrubbed</span>
+* <span itemprop="recipeIngredient">8 tbsp. (1 stick) unsalted butter, melted</span>
+* <span itemprop="recipeIngredient">4 cloves garlic, peeled and minced</span>
+* <span itemprop="recipeIngredient">1 tbsp. chopped fresh thyme plus some more for garnish</span>
+* <span itemprop="recipeIngredient">1 tbsp. kosher salt</span>
+* <span itemprop="recipeIngredient">&frac14; cup Parmesan cheese, grated plus more for serving</span>
 
 ### Directions
 
