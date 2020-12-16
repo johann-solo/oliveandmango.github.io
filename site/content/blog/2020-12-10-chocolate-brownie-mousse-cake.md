@@ -73,7 +73,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 * <span itemprop="recipeIngredient">&frac12; cup hazelnut butter (or any nut/seed butter)</span>
 * <span itemprop="recipeIngredient">1 tsp vanilla extract </span>
 * <span itemprop="recipeIngredient">&frac12; cup unsweetened cocoa powder </span>
-* <span itemprop="recipeIngredient">&frac14; tap espresso powder (optional)</span>
+* <span itemprop="recipeIngredient">&frac14; tsp espresso powder (optional)</span>
 * <span itemprop="recipeIngredient">&frac12; tsp baking soda</span>
 * <span itemprop="recipeIngredient">&frac14; tsp salt</span>
 

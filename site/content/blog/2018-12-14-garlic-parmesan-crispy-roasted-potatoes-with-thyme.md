@@ -58,6 +58,10 @@ Let’s talk a little more about these potatoes. They are actually quite versati
 This post is in partnership with [Zwilling](https://www.zwilling.ca/). All thoughts and views are my own. Thanks for supporting the brands that make Olive & Mango possible. 
 </br>
 </br>
+{{< youtube 0dtbyyeQeqc >}}
+</br>
+</br>
+</span>
 
 ### Recipe
 <div print_button><form>
