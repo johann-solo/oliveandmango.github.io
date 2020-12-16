@@ -48,11 +48,11 @@ I added noodles to mine too for extra texture plus it also makes this soup much 
 </br>
 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://goldseal.ca">Gold Seal</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_. 
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube IJs5h30Q788  >}}
+</br>
+</br>
 </span>
 
 ### Recipe
