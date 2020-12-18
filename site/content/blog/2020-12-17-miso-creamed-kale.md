@@ -34,11 +34,11 @@ The miso adds that unique flavour that is almost pungent but in a good way almos
 </br>
 
 This recipe can be made dairy free using coconut cream or cashew creamer in place of the cream. And this side dish can also be turned into a main dish by stirring through some cooked pasta (approx 8 oz) along with some pasta water making this a creamy unami packed sort of Alfredo. I loved mine with a bit of Parmesan cheese added in and I have also made it with some crispy shallots to top adding extra textures to this dish (quick recipes below for the shallots) Speaking of texture the mushrooms are optional If you aren’t a fan but I strongly recommend adding them - they are fantastic and add delicious salty flavour to the dish along with a meaty texture to it. You won’t be able to get enjoyable of this and I think it puts any regular creamed greens dish to shame. Enjoy! 
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube dc4yrEbW1pc >}}
+</br>
+</br>
 </span>
 
 ### Recipe
