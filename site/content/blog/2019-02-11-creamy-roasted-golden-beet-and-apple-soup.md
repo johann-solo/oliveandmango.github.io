@@ -61,7 +61,7 @@ I have always wanted to do a savoury granola as I have been seeing people toppin
 2. Toss beets and apples in 2 tablespoon olive oil and a pinch of salt, and spread evenly onto prepared baking sheet. 
 3. Roast for 30 to 35 minutes or until soft and tender, flipping halfway.
 4. As beets are finishing roasting, heat butter or  olive oil in a saucepan over medium/low heat. 
-5. Add onion, and sauté for a couple of minutes. 
+5. Add onion and garlic then sauté for a couple of minutes. 
 6. Add celery, carrot and a pinch of salt; stir, and sauté until tender 7-10 minutes.  
 7. Once veggies are done remove from oven and carefully add them to the pot. 
 8. Add the broth and smoked paprika, and allow to simmer for another 7-10 minutes until everything is completely tender. 
