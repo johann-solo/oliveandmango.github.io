@@ -34,11 +34,11 @@ Beef tenderloin is the most tender cut of beef and for that reason, it is the hi
 </br>
 
 The pan juices on this one are so good. I always make it with the brown butter sauce that I pour over it as it comes out of the oven. It’s amazing. I drizzle over the pan juices onto it right before serving as well but you can also make au jus to serve with it - just skim off the fat and strain and reduce the remaining pan juices a little then serve on the side. This is easy and delicious and it makes for the best leftovers that you can enjoy as is or in a sandwich - I even fried mine up a bit and made some lomo saltado with it and a side of potato wedges, and used the rest of it in a Vietnamese style beef Pho soup. This was a pricey cut but I couldn’t pass it up when I saw it on sale. I actually paid 40 dollars for this 4 lb beef tenderloin which the butcher trimmed and tied for me and it made its money worth in meals for us. So if you are going to splurge this is a great options just make sure you have your meat thermometer handy and enjoy every tender bite of this. 
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube w7ewmI9qB_E >}}
+</br>
+</br>
 </span>
 
 ### Recipe
