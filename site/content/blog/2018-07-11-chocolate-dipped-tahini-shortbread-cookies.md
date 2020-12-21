@@ -7,15 +7,19 @@ scaled_thumbnail: images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_0.j
 categories: ["desserts"]
 tags: ["cookies", "tahini", "chocolate", "sesame seeds"]
 excerpt: Buttery, nutty and addictive bites of goodness
+keywords: ["shortbread cookies"]
+description: Buttery, nutty and addictive bites of tahini shortbread cookies
 ---
-I love shortbread cookies and the danger in that is that I can never just have one. Each bite leaves me craving for more and more. We saw a food documentary once and according to it these cookies are made up of two ingredients that make foods addictive. Fat and sugar. Apparently food that is especially addictive are those that have a perfect balance of sweet and fat in it - like ice-cream for example. Isn’t it true that we find ourselves craving it a lot and bite after bite it just tastes better and better. Perfect combo of sweet and fat! These cookies fall into the same category. They have some sugar in them and they definitely have the fat component covered with the butter.
+<span class="blog-text">
+
+These tahini shortbread cookies are easy to make and dangerously addictive. Each bite will leave you craving for more and more. They are melt in your mouth delicious which crispy edges and a chewy center. What makes these even more addictive is the tahini in them giving them an earthy nutty flavour and adding a slight hint of savory richness to them too. To top it off they are dipped in chocolate adding another layer of flavour and sprinkled with sesame seeds for decoration and a bit of crunch. 
 </br>
 </br>
 ![Chocolate Dipped Tahini Shortbread Cookies](images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_2.jpg)
 </br>
 </br>
 
-What makes these even more addictive is the tahini in them giving them a nuttiness and adding a slight hint of savory richness to them too. To top it off they are dipped in chocolate something that I’m already addicted to even without it being on these cookies. Basically what I’m trying to say is that you won’t be able to walk away from the cookies jar once you have had a bite of these.
+Tahini is a paste made from ground sesame seeds, and is a staple in Middle Eastern cuisine and something that is commonly associated with savory dishes like hummus but it most certainly has its place in desserts as well. In fact I grew up mostly associating it with sweet treats like halva which is a sweet treat made from tahini.
 </br>
 </br>
 ![Chocolate Dipped Tahini Shortbread Cookies](images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_3.jpg)
@@ -25,7 +29,7 @@ What makes these even more addictive is the tahini in them giving them a nuttine
 </br>
 </br>
 
-They are truly simple to make.  They have a high fat content like most shortbread cookies and therefore need to be refrigerated or placed in the freezer for a time before baking them, otherwise they are too soft to handle and roll.  Once the batter is cold enough it’s quite easy to work with. I keep my batter in the fridge between batches baking if I’m making a few batches of them.
+These cookies are truly simple to make. They have a high fat content like most shortbread cookies and therefore need to be refrigerated or placed in the freezer for a time before baking them, otherwise they are too soft to handle and roll. Once the batter is cold enough it’s quite easy to work with. I keep my batter in the fridge between baking each tray of them.
 </br>
 </br>
 ![Chocolate Dipped Tahini Shortbread Cookies](images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_5.jpg)
@@ -35,61 +39,61 @@ They are truly simple to make.  They have a high fat content like most shortbrea
 </br>
 </br>
 
-As far as short bread cookies go these have a wonderful crumb with a melt in your mouth kind of texture.  Was it over the top to dip them in chocolate? Absolutely not cause the cookies are not overly sweet and the chocolate also adds a another layer of texture as do the sesame seeds, and a welcome cocoa flavor to them. They truly are delicious and addictive and a must to try! Hope you do. I know you will love them!
+As far as short bread cookies go these have a wonderful crumb with a melt in your mouth kind of texture. Was it over the top to dip them in chocolate? Absolutely not cause the cookies are not overly sweet and the chocolate also adds a another layer of texture as do the sesame seeds, and a welcome cocoa flavor to them. They truly are delicious and addictive and a must to try! Hope you do give them a try. I know you will love them!
 </br>
 </br>
 ![Chocolate Dipped Tahini Shortbread Cookies](images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_7.jpg)
 </br>
 </br>
-
-## Recipe
-Makes approx 20 medium sized cookies (more or less depending on size you make them)
+{{< youtube ZZorERPlk4k  >}}
 </br>
 </br>
+</span>
 
-### Ingredients 
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
 
-* 1&frac34; sticks of unsalted butter at room temperature 
+<div>Servings: <span itemprop="recipeYield">approx 30 cookies (more or less depending on size you make them)</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT10M">10 mins</div>
+<div>Chill time 1 hour</div>
+<div>Bake Time: <meta itemprop="cookTime" content="PT120M">15 mins</div>
+</br>
 
-* 1 cup of sugar 
+### Ingredients
 
-* 1 tsp pure vanilla extract 
-
-* 1 cup of tahini 
-
-* 2 cups of all-purpose flour
-
-* 1 tsp baking powder
-
-* 1 pinch of salt  
-
-* 5 oz of dark chocolate or semi sweet melted to dip the cookies in 
-
-* &frac34; of sesame seeds to sprinkle on the cookies 
+* <span itemprop="recipeIngredient">1¾ sticks of unsalted butter at room temperature</span>
+* <span itemprop="recipeIngredient">1 cup of sugar</span>
+* <span itemprop="recipeIngredient">1 tsp pure vanilla extract</span>
+* <span itemprop="recipeIngredient">1 cup of tahini</span>
+* <span itemprop="recipeIngredient">2 cups of all-purpose flour</span>
+* <span itemprop="recipeIngredient">1 tsp baking powder</span>
+* <span itemprop="recipeIngredient">1 pinch of salt</span>
+* <span itemprop="recipeIngredient">5 oz of dark chocolate or semi sweet melted to dip the cookies in</span>
+* <span itemprop="recipeIngredient">&frac14; cup of sesame seeds to sprinkle on the cookies</span>
+</br>
 
 ### Directions
 
 1. Place the flour, baking powder and salt in a medium bowl and whisk to combine and set a side.
+2. Place the sugar and the butter in a large bowl and mix on medium for about 2 minutes until mixture is light and fluffy
+3. Add the tahini and vanilla extract and mix until fully incorporated.
+4. Transfer the dry ingredients to the tahini mixture and beat until incorporated. Scrape the sides of the bowl to keep the mixture uniform. Cover bowl with plastic wrap and refrigerate for at least 1 hour or overnight. (Dough can be wrapped and frozen for a few months)
+5. Once ready to bake preheat oven to 350°F and line two large baking sheets with parchment paper
+6. Scoop out batter using a cookie scoop place in hand and roll into a ball and place the rolled dough on the baking sheet. Continue, leaving a little space approx 2 inches in between balls to allow room for the cookies to expand
+7. Bake for approx 15-20 minutes until cookies are light brown around the edges and set. If both trays dont fit into the oven to bake at the same time, store the other tray in the refrigerator while you wait to bake them.
+8. Once done remove from oven and let cool on baking sheet for 10 minutes then transfer to cool completely on wire rack
+9. While the cookies are cooling it’s time to melt the chocolate. In a microwave safe bowl, melt the chocolate in 30 second increments until completely melted.  When the cookies have cooled completely, dip one half of each cookie into the melted chocolate, scraping the excess off the back of the cookie (scrape it along the side of the bowl).
+10. While chocolate is still wet, dip or sprinkle sesame seeds on top.  Set on a piece of wax or parchment paper to dry completely. If needed, place the cookies into the refrigerator or freezer for a few minutes to harden the chocolate.
+11. Store in an airtight container at room temperature for up to a week
+</br>
 
-1. Place the sugar and the butter in a large bowl and mix on medium for about 2 minutes until mixture is light and fluffy 
-
-1. Add the tahini and vanilla extract and mix until fully incorporated. 
-
-1. Transfer the dry ingredients to the tahini mixture and beat until incorporated. Scrape the sides of the bowl to keep the mixture uniform. Cover bowl with plastic wrap and refrigerate for at least an hour or overnight. (Dough can be wrapped and frozen for a few months) 
-
-1. Once ready to bake preheat oven to 350&deg;F and line two large baking sheets with parchment paper
-
-1. Scoop out batter using a cookie scoop place in hand and roll into a ball and place the rolled dough on the baking sheet. Continue, leaving a little space in between balls to allow room for the cookies to expand. 
-
-1. Bake for approx 15-20 minutes until cookies are light brown around the edges and set. If both trays dont fit into the oven to bake at the same time, store the other tray in the refrigerator while you wait to bake them.
-
-1. Once done remove from oven and let cool on baking sheet for 10 minutes then transfer to cool completely on wire rack
-
-1. While the cookies are cooling it’s time to melt the chocolate. In a microwave safe bowl, melt the chocolate in 30 second increments until completely melted.  When the cookies have cooled completely, dip one half of each cookie into the melted chocolate, scraping the excess off the back of the cookie (scrape it along the side of the bowl).
-
-1. While chocolate is still wet, dip or sprinkle sesame seeds on top.  Set on a piece of wax or parchment paper to dry completely. If needed, place the cookies into the refrigerator or freezer for a few minutes to harden the chocolate.
-
-1. Store in an airtight container at room temperature for up to a week
+### Recipe Notes
+* These yield very tasty tahini shortbread cookies but they are very much still the texture of a cookies - if you would like these to have an even more of a melt in your mouth experience you can substitute a &frac14; cup of the flour with cornstarch. I have made them both ways and love them either way.
+* Many things can effect the spread of cookies. The ones in these photos were done exactly as the recipe requires and chilled for 1 hour but the ones in my video were made after the dough chilled for over 24 hours. Hydration levels in the dough are affected the longer the dough rests. While the dough sits, turning from loose and soft to drier and more scoopable, the flour is hydrating, yielding cookies that will bake and brown more evenly and will have chewy centers and crispy edges. That is the only differences. They spread out a little more and developed some chewier crags in them.
+* As you noticed in the video I also made a batch rolled in sesame seeds and I loved the way they looked. All I did was simply roll the dough as called for in the recipe and had a small bowl filled with sesame seeds ready and then rolled the dough balls in the seeds and baked them off like that.
+</br>
 
 Adapted from _Food52_
 
