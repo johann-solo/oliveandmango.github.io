@@ -12,7 +12,9 @@ keywords: ["Greek potatoes", "lemon potatoes", "how to make Greek potatoes", "le
 description: A recipe for homemade lemon Greek style roasted potatoes. This recipe will help you rmake estaurant qualtiy of traditional roasted Greek potatoes 
 
 ---
-Perfect morsels of crispy edged potatoes with a slight tang from the lemon which is balanced out by the richness of the olive oil. They are buttery and delicious. And turn out perfect everytime. Only my favourite potatoes out there! These ones are my mom’s style and in fact her recipe. When I make them my husband always says he’s transported to Dina’s (mom’s) dinner table and I totally agree. If you have been to a Greek restaurant you may have had them there too. You don’t have to wait to eat them at a Greek restaurant any more. You can make them for yourself!! 
+<span class="blog-text">
+
+Perfect morsels of crispy edged potatoes with a slight tang from the lemon which is balanced out by the richness of the olive oil. They are buttery and delicious and turn out perfect everytime. Only my favourite potatoes out there! These ones are my mom’s style and in fact her recipe. When I make them my husband always says he’s transported to Dina’s (mom’s) dinner table and I totally agree. If you have been to a Greek restaurant you may have had them there too. You don’t have to wait to eat them at a Greek restaurant any more. You can make them for yourself!! 
 </br>
 </br>
 ![Greek Roasted Potatoes](/images/uploads/2018_03_15_greek_potatoes_2.jpg)
@@ -51,36 +53,45 @@ The best part about these is that they are super easy to make and are pretty low
 ![Greek Roasted Potatoes](/images/uploads/2018_03_15_greek_potatoes_10.jpg)
 </br>
 </br>
+{{< youtube vUHbp7d0ZYI >}}
+</br>
+</br>
+</span>
 
 ### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">8-10</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT20M">20 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT75M">60-75 mins</div>
+</br>
+
 ### Ingredients
 
-* 5 lbs of potatoes washed, peeled cut in half lengthwise and then sliced into wedges
-* 1 cup of water or chicken broth (could also use a bouillon cube if you prefer)
-* &frac13; cup of olive oil
-* &frac14; cup of lemon juice (approx juice from two lemons)
-* 1 tbsp dry oregano
-* 1 tsp garlic powder (or 3-4 cloves of garlic chopped  
-* 1 tsp onion powder (optional)
-* 1 tsp of sea salt (add more according to taste)
-* 1-2 tbsp of butter cut into small pieces (optional) 
+* <span itemprop="recipeIngredient">5 lbs of potatoes washed, peeled cut in half lengthwise and then sliced into wedges</span>
+* <span itemprop="recipeIngredient">1 cup of water or chicken broth (could also use a bouillon cube if you prefer)</span>
+* <span itemprop="recipeIngredient">&frac13; cup of olive oil</span>
+* <span itemprop="recipeIngredient">&frac14; cup of lemon juice (approx juice from two lemons)</span>
+* <span itemprop="recipeIngredient">1 tbsp dry oregano</span>
+* <span itemprop="recipeIngredient">1 tsp garlic powder (or 3-4 cloves of garlic chopped  </span>
+* <span itemprop="recipeIngredient">1 tsp onion powder (optional)</span>
+* <span itemprop="recipeIngredient">1 tsp of sea salt (add more according to taste)</span>
+* <span itemprop="recipeIngredient">1-2 tbsp of butter cut into small pieces (optional) </span>
 </br>
 
 ### Directions
 
-1. Preheat oven to 400&deg;F
-
+1. Preheat oven to 400°F
 1. Place sliced potatoes in your baking pan
-
 1. Add the rest of the ingredients to them and toss to coat well. Adjust seasoning (salt, oregano, garlic powder) to taste
-
 1. Cover tightly with foil and roast for 25 minutes
-
-1. Uncover toss and lower heat to 375°F, sprinkle the butter over the potatoes if using and roast for another 30 minutes or until cooked through.
+1. Uncover toss and lower heat to 375°F, sprinkle the butter over the potatoes if using and roast for another 30 minutes or until cooked through and golden.
 </br>
 
 ### Recipe Note
-If you would like them a little more golden crispy add the butter to them and put them under the broiler for a few minutes keeping a close eye on them so they don't burn. (The butter is optional but I find it gives them a beautiful golden colour and of course some extra creaminess). Serve with an extra squeeze of lemon juice and toss with fresh herbs if you want them lemony and herby 
+* If you would like them a little more golden crispy add the butter to them and put them under the broiler for a few minutes keeping a close eye on them so they don't burn. (The butter is optional but I find it gives them a beautiful golden colour and of course some extra creaminess). Serve with an extra squeeze of lemon juice and toss with fresh herbs if you want them lemony and herby 
 
 </br>
 ![Greek Roasted Potatoes](/images/uploads/2018_03_15_greek_potatoes_11.jpg)
