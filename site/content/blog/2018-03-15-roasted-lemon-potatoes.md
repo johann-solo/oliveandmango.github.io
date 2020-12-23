@@ -84,7 +84,7 @@ The best part about these is that they are super easy to make and are pretty low
 ### Directions
 
 1. Preheat oven to 400°F
-1. Place sliced potatoes in your baking pan
+1. Place sliced potatoes in a large baking pan
 1. Add the rest of the ingredients to them and toss to coat well. Adjust seasoning (salt, oregano, garlic powder) to taste
 1. Cover tightly with foil and roast for 25 minutes
 1. Uncover toss and lower heat to 375°F, sprinkle the butter over the potatoes if using and roast for another 30 minutes or until cooked through and golden.

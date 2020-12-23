@@ -41,11 +41,11 @@ This versatile and tasty seafood stew in simply flavoured with salt, pepper, chi
 </br>
 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.metro.ca/en">Metro Ontario</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube iGWIW9TiuZg >}}
+</br>
+</br>
 </span>
 
 ### Recipe
