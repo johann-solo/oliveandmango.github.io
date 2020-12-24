@@ -11,6 +11,8 @@ keywords: ["chestnut recipes", "mont blanc", "chestnut meringue cake", "chateau 
 description: Mont Blanc tart is a varitation on the decadent Mont Blanc cake. Topped with cream and meringue it is a perfect tart for those who love creamy tarts. 
 ---
 
+<span class="blog-text">
+
 Literally meaning white mountain in French, this dessert is appropriately named. It’s a French dessert pastry that has many variations, but the common thread to most versions is the cake or pastry layer, chestnut cream and purée along with some crunchy meringue. It’s usually served in individual cakelet/tartlet fashion but I decided to make a tart out of the same components as I thought it would make it easier and less finicky making individual portions. That being said the tart shell recipe can easily be made for individual sized tarts as mentioned in the recipe below.
 </br>
 </br>
@@ -49,109 +51,105 @@ So you’re starting to get a clear picture of all the textures now I’m guessi
 Did this dessert live up to the hype? It most certainly did!! We loved the textures and flavours of it. This Mont Blanc tart definitely is unlike anything I have tasted. So delicious and tastes like something you would have out of a French bakery. The good news is that each part of it is quite simple to make and once you have all your components made and ready, putting it together is fun and easy. It’s quite impressive with the meringue and the walnuts which can be made and stored in a sealed container up to a couple of weeks ahead and has the most wonderful textures in each bite. The crust can also be made ahead and kept refrigerated a few days or frozen for longer. If you are looking for something different to make for dessert, I think you will love this one. We loved it and I’m so happy I decided on making it in tart form.
 </br>
 </br>
+</span>
 
-## Recipe
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
 
-## Short bread crust
-Makes: one 9-inch pie crust or 6 tartlets
-</br>
-</br>
-
-### Ingredients
-
-* <span itemprop="ingredients">1 pinch of salt</span>
-* <span itemprop="ingredients">2 cups chestnut flour</span>
-* <span itemprop="ingredients">&frac12; cup whole wheat flour</span>
-* <span itemprop="ingredients">&frac12; lb. salted butter (2 sticks), left out of the refrigerator for 10 minutes (use cold if using a food processor and cut it into cubes)</span>
-* <span itemprop="ingredients">1 tbsp bourbon vanilla extract (or plain vanilla extract)</span>
-* <span itemprop="ingredients">2 tbsps sugar</span>
-* <span itemprop="ingredients">1 egg yolk</span>
-* <span itemprop="ingredients">1 egg, beaten</span>
-
-### Directions
-
-1. In a large mixing bowl or food processor, whisk or pulse together the flours, pinch of salt and sugar.
-2. Cut slightly softened butter into small pieces and place into mixing bowl or food processor.
-3. With your fingertips, begin to gently incorporate the butter into the flour mixture. 
-4. Pinch the pieces of butter so they become smaller and more integrated. (Unlike traditional pie crust, you don't have to be super careful about overworking the dough). If using processor, add the butter and pulse a few times until butter is broken up and texture is coarse crumbs.
-5. Make a well in the middle of the flour and butter mixture and add the beaten egg and yolk. 
-6. Begin to incorporate them into the mixture using a fork. If using a processor add the eggs in and pulse a few more times until dough is formed.
-7. Gather into a ball, cover in plastic wrap and refrigerate for 15 minutes. (You can also refrigerate for up to 24 hours but let the dough warm up a bit after taking it out).
-8. Pre-heat the oven to 350 and grease your pie/tartlet pan. 
-9. Lightly flour your work surface and roll out the dough until it's approx. &frac14; in thick. 
-10. Gently lift up the dough and place it into the pan. 
-11. Firmly press it into place, especially on the sides, (don’t worry amid any prices tear or break just press the dough together to reattach and bake blind for 15-20 minutes, until it begins to turn golden.</span>
-</br>    
-</br>
-
-## Meringues and the filling
+<div>Yields: one 9-inch pie crust or 6 tartlets </div>
+<div>Servings: <span itemprop="recipeYield">8</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT40M">30-40 mins</div>
+<div>Bake Time: <meta itemprop="cookTime" content="PT80M">1 hr 20 min </div>
 </br>
 
 ### Ingredients
 
-* &frac34; cup icing sugar, plus more for dusting
-* 3 tsp all purpose flour
-* 2 egg whites
-* 100g (approx &frac12; cup) white sugar
-* 400g tin (or approx 2 cups homemade) chestnut purée
-* 250ml (approx 1 cup) heavy whipping cream
-* 1 tbsp dark rum (optional)
-marrons glacés a few, roughly chopped to serve or maple candied walnuts what I used cause I couldn’t get my hands on marrons glacé (recipe below for the walnuts)
+#### Short bread crust
+* <span itemprop="recipeIngredient">1 pinch of salt</span>
+* <span itemprop="recipeIngredient">2 cups chestnut flour</span>
+* <span itemprop="recipeIngredient">½ cup whole wheat flour or plain </span>
+* <span itemprop="recipeIngredient">½ lb. salted butter (2 sticks), left out of the refrigerator for 10 minutes (use cold if using a food processor and cut it into cubes)</span>
+* <span itemprop="recipeIngredient">1 tbsp bourbon vanilla extract (or plain vanilla extract)</span>
+* <span itemprop="recipeIngredient">2 tbsps sugar</span>
+* <span itemprop="recipeIngredient">1 egg yolk</span>
+* <span itemprop="recipeIngredient">1 egg, beaten</span>
+
+#### For the chestnut cream filling
+* <span itemprop="recipeIngredient">400g tin (or approx 2 cups homemade) chestnut purée</span>
+* <span itemprop="recipeIngredient">250ml (approx 1 cup) heavy whipping cream</span>
+* <span itemprop="recipeIngredient">1 tbsp dark rum (optional) </span>
+* <span itemprop="recipeIngredient">marrons glacés a few, roughly chopped to serve or maple candied walnuts what I used cause I couldn’t get my hands on marrons glacé (recipe below for the walnuts)</span>
+
+#### For the meringue
+* <span itemprop="recipeIngredient">¾ cup icing sugar, plus more for dusting</span>
+* <span itemprop="recipeIngredient">3 tsp all purpose flour</span>
+* <span itemprop="recipeIngredient">2 egg whites</span>
+* <span itemprop="recipeIngredient">100g (approx ½ cup) white sugar</span>
+</br>
+</br>
 
 ### Directions
+#### For the crust 
+1.	In a large mixing bowl or food processor, whisk or pulse together the flours, pinch of salt and sugar.
+2.	Cut slightly softened butter into small pieces and place into mixing bowl or food processor.
+3.	With your fingertips, begin to gently incorporate the butter into the flour mixture.
+4.	Pinch the pieces of butter so they become smaller and more integrated. (Unlike traditional pie crust, you don’t have to be super careful about overworking the dough). If using processor, add the butter and pulse a few times until butter is broken up and texture is coarse crumbs.
+5.	Make a well in the middle of the flour and butter mixture and add the beaten egg and yolk.
+6.	Begin to incorporate them into the mixture using a fork. If using a processor add the eggs in and pulse a few more times until dough is formed.
+7.	Gather into a ball, cover in plastic wrap and refrigerate for 15 minutes. (You can also refrigerate for up to 24 hours but let the dough warm up a bit after taking it out).
+8.	Pre-heat the oven to 350 degrees F and grease your pie/tartlet pan.
+9.	Lightly flour your work surface and roll out the dough until it’s approx. ¼ in thick.
+10.	Gently lift up the dough and place it into the pan.
+11.	Firmly press it into place, especially on the sides, (don’t worry about tears or breaks in dough, just press the dough together to reattach and bake blind for 15-20 minutes, until it begins to turn golden.  Allow to cool completely before filling 
 
-1. Turn the oven down to 280&deg;F.
-2. Mix 60g (approx &frac12; cup) of the icing sugar with the flour. 
-3. Whisk the egg whites in a standing mixer or with a hand mixer until they reach soft peaks, then add in the white sugar a spoon at a time, continually whisking, until the mixture is glossy and holds stiff peaks.
-4. Fold in the icing sugar/flour mixture and spoon the meringue into a piping bag with whatever nozzle you would like.
-5. Pipe little meringues of varying sizes onto a lined baking tray and bake for 1 hour, or until the meringues are hard. 
-6. Open the door slightly and leave a wooden spoon in the door to leave it open a fraction. 
-7. Allow them to cool completely.
+#### For the meringue (if making your own - you can use store bought too)
+1.	Turn the oven down to 280°F.
+2.	Mix 60g (approx ½ cup) of the icing sugar with the flour.
+3.	Whisk the egg whites in a standing mixer or with a hand mixer until they reach soft peaks, then add in the white sugar a spoon at a time, continually whisking, until the mixture is glossy and holds stiff peaks.
+4.	Fold in the icing sugar/flour mixture and spoon the meringue into a piping bag with whatever nozzle you would like.
+5.	Pipe little meringues of varying sizes onto a lined baking tray and bake for 1 hour, or until the meringues are hard.
+6.	Open the door slightly and leave a wooden spoon in the door to leave it open a fraction.
+7.	Allow them to cool completely. (Meringue are best made and enjoyed the same day as storing them can be a bit tricky -If you live in a really dry environment, and you want to take your chances, place the meringue cookies in an airtight container and seal it tightly to keep the humidity out. They can last for a few days at room temp without spoiling, but they may become a bit sticky.)
 
-__For the filling__
+#### For the filling
+1.	Beat the chestnut purée until it’s soft.
+2.	In a separate bowl whip the cream until it just reaches soft peaks, then beat in the remaining icing sugar and fold this into the chestnut purée along with the rum (if using).
+3.	Spoon into a piping bag, fitted with a star nozzle and chill for 15 minutes.
+4.	Pipe the cream into the tart case in stripes.
+5.	Pipe any remaining mixture onto the top in blobs.
+6.	Dot some meringue cookies among the blobs along with some pieces of marrons glacé or candied walnuts then dust the top with icing sugar and serve. Best enjoyed within 2-3 days. Store covered in plastic wrap refrigerated.
 
-1. Beat the chestnut purée until it’s soft.
-2. In a separate bowl whip the cream until it just reaches soft peaks, then beat in the remaining icing sugar and fold this into the chestnut purée along with the rum (if using).
-3. Spoon into a piping bag, fitted with a star nozzle and chill for 15 minutes. 
-4. Pipe the cream into the tart case in stripes. 
-5. Pipe any remaining mixture onto the top in blobs. 
-6. Dot some meringue cookies among the blobs along with some pieces of marrons glacé or candied walnuts then dust the top with icing sugar and serve.
-</br>
-</br>
-
-## Maple candied walnuts
-</br>
-
+## For the Maple candied walnuts (optional)
 ### Ingredients
-
-* 1 tbsp unsalted butter 
-* &frac12; cup pure maple syrup 
-* 2 tsps pure vanilla extract 
-* &frac12; teaspoon ground cinnamon 
-* Coarse salt 
-* 2 cups walnuts (6 ounces
+* 1 tbsp unsalted butter
+* ½ cup pure maple syrup
+* 2 tsps pure vanilla extract
+* ½ teaspoon ground cinnamon
+* Coarse salt
+* 2 cups walnuts (6 ounces)
 
 ### Directions
-
-1. Preheat oven to 375&deg;F. 
-2. Melt butter in large skillet over medium heat. 
-3. Stir in maple syrup, vanilla, cinnamon, and &frac34; teaspoon salt. 
-4. Bring to a simmer (mixture should be frothy), about 3 minutes. 
-5. Add walnuts, and toss to coat using a rubber spatula. 
-6. Cook, stirring, until sauce is syrupy and bubbly, about 3 minutes. 
-7. Transfer walnut mixture to a parchment-lined baking sheet, and spread into a single layer. 
-8. Bake until walnuts are caramelized, about 10 minutes. 
-9. Transfer sheet to a wire rack. 
-10. Stir, and let stand until cool and hardened, about 30 minutes.
+1.	Preheat oven to 375°F.
+2.	Melt butter in large skillet over medium heat.
+3.	Stir in maple syrup, vanilla, cinnamon, and ¾ teaspoon salt.
+4.	Bring to a simmer (mixture should be frothy), about 3 minutes.
+5.	Add walnuts, and toss to coat using a rubber spatula.
+6.	Cook, stirring, until sauce is syrupy and bubbly, about 3 minutes.
+7.	Transfer walnut mixture to a parchment-lined baking sheet, and spread into a single layer.
+8.	Bake until walnuts are caramelized, about 10 minutes.
+9.	Transfer sheet to a wire rack.
+10.	Stir, and let stand until cool and hardened, about 30 minutes. 
 </br>
 </br>
 
-## Recipe Notes
-
-* I halved the recipe for the walnut for this tart but if you make the full amount you won’t regret it as they are perfect for snacking
+### Recipe Notes
+* I halved the recipe for the walnuts for this tart but if you make the full amount you won’t regret it as they are perfect for snacking
 * Nuts can be stored in an airtight container for up to 2 weeks.
+</br>
 
-Recipe adapted from _Food 52_, _Martha Stewart_ and _The Olive Magazine_.
+Recipe adapted from _Food 52_, _Martha Stewart_ and _The Olive Magazine_
 
 </br>
 ![Mont Blanc Chestnut Dessert Tart](/images/uploads/2019_01_03_mont_blanc_chestnut_dessert_tart_7.jpg)
