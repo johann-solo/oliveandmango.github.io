@@ -10,15 +10,16 @@ excerpt: A supremely hearty, comforting and filling bowl of soup
 keywords: ["chicken", "chicken soup", "comfort food", "winter food", "chicken soup recipe", "wild rice"]
 description: A classic chicken and rice soup which makes the perfect comfort food for the winter.
 ---
+<span class="blog-text">
 
-You all know I love soup. One of my favourites is a classic homemade chicken and rice soup which I crave all through the winter. I already have a fabulous [classic chicken soup](https://www.oliveandmango.com/chicken-soup-for-the-soul/) (which can also be turned into an avgolemono soup) on the blog but I wanted to make a richer creamier version thus the creation of this one.
+This Creamy Chicken And Wild Rice Soup is warm, hearty and comforting. It’s made with chicken or turkey (the perfect soup to make with leftovers from a roast), tender vegetables cooked in a creamy and flavorful broth, mixed with nutty wild rice. Thyme, bacon if using and garlic adds aromatic depth to the soup, along with the classic base of onions, carrots, and celery. The soup is finished of with a drizzle of cream to add that nice creamy touch of richness. Pure creamy comfort food to warm the soul especially on the coldest of winter days. So quick, easy, and hearty with veggies, rice and chicken. 
 </br>
 </br>
 ![Homemade Creamy Chicken And Wild Rice Soup](/images/uploads/2019_01_10_creamy_chicken_and_wild_rice_soup_2.jpg)
 </br>
 </br>
 
-It’s richer in flavour from the bacon and the addition of cream as well. I would reserve the regular chicken and rice one for when you are feeling under the weather and chose this one for when you want a heartier soup that is a little more luxurious when it comes to richness and flavour.
+When you want a richer flavour than your regular chicken rice soup this is definitely your best bet. It’s richer in flavour from the bacon and the addition of cream as well. You can add in whatever veggies you like. My favorite extra add ins include green peas and mushrooms for even more heartiness. The bacon is optional but adds loads of flavour to this soup. Feel free to just use butter or olive oil in the pan if you are leaving it out. For an even quicker version you can use precooked wild rice and reduce the simmering time accordingly. 
 </br>
 </br>
 ![Creamy Chicken And Wild Rice Soup](/images/uploads/2019_01_10_creamy_chicken_and_wild_rice_soup_3.jpg)
@@ -47,16 +48,24 @@ This makes quite the pot of soup and is great for company. It’s my favourite t
 ![Creamy Chicken And Wild Rice Soup](/images/uploads/2019_01_10_creamy_chicken_and_wild_rice_soup_6.jpg)
 </br>
 </br>
-
-## Recipe
-Serves 6-8
+{{< youtube EUAQARNpdzI >}}
 </br>
+</br>
+</span>
+
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">8</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT20M">20 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT60M">60 mins</div>
 </br>
 
 ### Ingredients
 
 * <span itemprop="ingredients">5 slices of bacon sliced</span>
-* <span itemprop="ingredients">2 tbsp. unsalted butter</span>
 * <span itemprop="ingredients">3 celery ribs chopped</span>
 * <span itemprop="ingredients">2 large carrots peeled and chopped</span>
 * <span itemprop="ingredients">1 large onion peeled and finely chopped</span>
@@ -65,21 +74,26 @@ Serves 6-8
 * <span itemprop="ingredients">Salt and pepper to taste</span>
 * <span itemprop="ingredients">&frac14; cup all-purpose flour</span>
 * <span itemprop="ingredients">1 cup wild rice</span>
-* <span itemprop="ingredients">8-10 cups chicken stock</span> or low-sodium broth (homemade or store bought) depending on the thickness you would like soup.
+* <span itemprop="ingredients">&frac14; cup white wine (optional)</span>
+* <span itemprop="ingredients">8 cups chicken stock</span> or low-sodium broth (homemade or store bought) or more depending on the thickness you would like soup.
 * <span itemprop="ingredients">2 bay leaves</span>
 * <span itemprop="ingredients">4 cups roasted chicken or turkey</span> (leftovers or store bought rotisserie is great to use up here)
-* <span itemprop="ingredients">1 cup heavy cream</span>
+* <span itemprop="ingredients">&frac12;-1 cup heavy cream according to your taste</span>
 
 ### Directions
 
 1. In a large saucepan over medium heat, cook bacon until rendered and crisp, 8 to 10 minutes.
-2. Pour off all but 1 teaspoon of the fat. 
-3. In the same saucepan, add butter, onion, carrot, celery and garlic and thyme and a generous pinch each of salt and pepper and cook over moderate heat, stirring occasionally, until the vegetables just start to soften, about 10 minutes. 
+2. Pour off all but 2-3 tablespoons of the fat. 
+3. In the same saucepan, add onion, carrot, celery and garlic and thyme and a generous pinch each of salt and pepper and cook over moderate heat, stirring occasionally, until the vegetables just start to soften, about 10 minutes. 
 4. Sprinkle the flour over the vegetables and cook, stirring, until evenly coated and lightly browned, about 2 minutes.
-5. Add the wild rice to the saucepan and gradually stir in the stock. 
+5. Add the wild rice to the saucepan, deglaze with wine if using and gradually stir in the stock. 
 6. Bring to a boil, then simmer over moderately low heat, stirring occasionally, until the vegetables are tender, about 30 minutes. 
 7. Add the chicken and simmer, stirring occasionally, until the wild rice is tender, 10 to 15 minutes longer. 
 8. Stir in the cream and season with salt and pepper. Ladle the soup into bowls and serve with crusty bread.
+</br>
+
+### Recipe Notes
+* If you want to make the soup without the bacon just heat up 3-4 tablespoons of butter before adding the veggies. Feel free to add mushrooms or any other veggies that you like.
 
 Recipe adapted from _Country Living_
 
