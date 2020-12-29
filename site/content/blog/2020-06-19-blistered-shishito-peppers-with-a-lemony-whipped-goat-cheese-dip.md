@@ -10,6 +10,7 @@ excerpt: Delicious on their own but even better served with this creamy goat che
 keywords: ["goat cheese", "shishito peppers", "roasted peppers"]
 description: Blistered shishito peppers are so tasty as an appetizer and so easy to prepare. They are delicious on their own but even better served with this creamy goat cheese dip. 
 ---
+<span class="blog-text">
 
 There is a lot of love for peppers on the whole in Greek culture. Whatever you do to them - whether you stuff them, roast them, char grill them - we love them. Grilling red peppers is a thing we do every year in our home - then peel them, bag and freeze them. They always show up on a mezze platter or on the dinner table especially in the summer with a drizzle of olive oil, a little bit of garlic- yup full on chopped garlic in them and seasoned with salt and pepper. The best with some feta or goat cheese and crusty bread. Shishito peppers give me the same feels as those peppers do and so I decided to share a super simple recipe of how to sauté/blister them and serve them up with a super creamy and fabulous goat cheese dip. 
 </br>
@@ -45,8 +46,17 @@ Shishito peppers can be eaten raw like any pepper, but they really shine in reci
 Hope you enjoy this super easy appetizer or snack! These could easily be made the same way as the greek ones I mentioned earlier with a drizzle of olive oil or chili oil and chopped garlic - keeping things simple is always a good thing but if you want to pair them with something a little creamy and tangy then it’s definitely worth making the whipped goat cheese dip that is shamefully easy to eat by the spoonful - or should I same shamelessly eating. Either way you will love these little guys. 
 </br>
 </br>
+</span>
 
 ### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">4</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT10M">10 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT15M">10-15 mins</div>
+</br>
 
 ### Ingredients
 

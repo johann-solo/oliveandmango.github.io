@@ -10,7 +10,7 @@ excerpt: Creamy goat cheese marinated with tomatoes and a garlicky basic balsami
 keywords: ["goat cheese", "homemade bruschetta"]
 description: Creamy goat cheese marinated with tomatoes and a garlicky basic balsamic vinaigrette
 ---
-
+<span class="blog-text">
 The easiest appetiser you will make and did I mention it’s crazy ‘lick the plate clean’ good. Creamy goat cheese topped with tomatoes and dressed with a basil balsamic vinaigrette. Like a bruschetta style goat cheese dip.  It’s perfect for parties and to take to parties. I first saw this appetiser when one of my friends brought it to a go - away party we attended years ago. I was very curious as to what she was doing in the kitchen. She had brought everything to the party and put the dip all together in my friend's kitchen. It was perfect and devoured so fast! 
 </br>
 </br>
@@ -28,8 +28,19 @@ Simple ingredients that just totally work perfectly together and also very simpl
 I serve it with pita chips, or baguette crisps either store bought or homemade ones. They are super easy to make at home if you have pita bread or a baguette - also customizable. The recipe below is for making a quick batch of pita chips but you can easily use slices of baguette in its place. Something crispy like them are the best choice because they have the perfect crunch and are sturdy enough to dip into and scrape the goodness off the plate. It’s also tasty by the spoonful too, so feel free to use any means you want to get it off the serving plate. No judgments here.
 </br>
 </br>
+</span>
 
-## Goat cheese dip recipe
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">6</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT10M">10 mins</div>
+<div>Chill Time: <meta itemprop="cookTime" content="PT10M">10-30 mins (optional)</div>
+</br>
+
+## Goat cheese dip
 ### Ingredients
 
 * <span itemprop="recipeIngredient">10 oz plain goat cheese</span>
@@ -63,6 +74,10 @@ I serve it with pita chips, or baguette crisps either store bought or homemade o
 3. Brush pita triangles with the oil and place on a lined baking sheet
 4. Bake for 10-15 minutes until lightly brown, remove from the oven and allow to cool for a few minutes before plating and serving 
 5. You can add some crushed garlic to the oil or garlic powder or spice up the oil with some pepper flakes or any flavour you prefer. You can even make them sweet by adding brown sugar instead of salt and cinnamon if you want to use them with a sweet dip
+</br>
+
+### Recipe Note
+* For more intense flavours to develop in your bruschetta mix - allow the tomatoes to marinate in the olive oil, balsamic and garlic for 10 minutes or cover and refrigerate for at least 30 minutes to allow flavors to blend. When ready to use, remove from refrigerator and add fresh basil. Spread bruschetta over the top of the cheese as directed and enjoy. 
 
 </br>
 ![Creamy Bruschetta Dip](/images/uploads/2020_09_07_creamy_bruschetta_dip_4.jpg)

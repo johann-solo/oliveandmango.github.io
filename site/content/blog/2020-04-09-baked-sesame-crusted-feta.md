@@ -10,7 +10,7 @@ excerpt: A simple and delicious appetizer with crispy baked layer of feta drizzl
 keywords: ["baked feta", "honey feta", "sesame cheese"]
 description: A simple and delicious appetizer with crispy baked layer surrounding an entire block of feta and drizzled with honey
 ---
-
+<span class="blog-text">
 This is such a great quick-and-easy appetizer for any occasion that’s gone so fast - before you know it. I serve it up with pita chips or crusty bread but often times those are ignored. I understand why it’s so irresistible - nothing beats a sweet and savoury combo like this one. 
 </br>
 </br>
@@ -31,9 +31,19 @@ Feta isn’t really a melty cheese. It’s not the same kind of cheese that is u
 ![Baked Sesame Crusted Feta](/images/uploads/2020_04_09_baked_sesame_crusted_feta_4.jpg)
 </br>
 </br>
+</span>
 
 ### Recipe
-### Ingredients 
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">6</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT05M">5 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT20M">20 mins</div>
+</br>
+
+### Ingredients
 
 * <span itemprop="ingredients">8-10 oz block feta patted dry </span>
 * <span itemprop="ingredients">&frac13; cup flour </span>
