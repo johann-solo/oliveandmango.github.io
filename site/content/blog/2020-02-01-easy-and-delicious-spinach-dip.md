@@ -10,7 +10,7 @@ excerpt: A classic dip that everyone loves
 keywords: ["game day", "game day snacks"]
 description: A classic dip that everyone loves 
 ---
-
+<span class="blog-text">
 This classic dip is always a hit and never goes out of style. If simple is what you are looking for look no further. It’s creamy, and can easily be thrown together in a pinch for any party or last minute guests. Recently a few blog followers requested a recipe for a spinach dip.  This is my fall back recipe that I usually make and it’s originally from Epicurious.  I make it with some simple tweaks to suit my taste and I have shared the recipe as I make it below. 
 </br>
 </br>
@@ -38,8 +38,18 @@ This is such an easy recipe and with so few ingredients you will be surprised ho
 ![Easy and Delicious Spinach Dip](/images/uploads/2020_02_01_easy_and_delicious_spinach_dip_5.jpg)
 </br>
 </br>
+</span>
 
-## Recipe
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">4-6</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT05M">5 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT15M">15 mins</div>
+</br>
+
 ### Ingredients
 
 * <span itemprop="ingredients">1 (10-ounce) package frozen spinach, thawed, and drained</span>
@@ -62,7 +72,7 @@ This is such an easy recipe and with so few ingredients you will be surprised ho
 1. When off the heat stir in the lemon juice and zest  and serve with pita chips, bread or assorted veggies for dipping 
 
 ### Recipe Notes
-Dip can be made 1 day ahead. Store in an airtight container and chill. Warm before serving.
+* Dip can be made 1 day ahead. Store in an airtight container and chill. Warm before serving.
 
 </br>
 ![Easy and Delicious Spinach Dip](/images/uploads/2020_02_01_easy_and_delicious_spinach_dip_6.jpg)
