@@ -10,7 +10,7 @@ excerpt: Whether its game day or movie night - this simple pizza ring is all you
 keywords: ["pizza", "game day food"]
 description: Whether its game day or movie night - this simple pizza ring is all you need
 ---
-
+<span class="blog-text">
 Sometimes you just need a simple appetizer or snack food that you can make quickly and will go down easy with a glass of wine or some beers. This is that snack! It’s totally indulgent as is all game day food but this particular snack is loved by kids and adults alike. Who can resist  pizza toppings stuffed into buttery dough baked to golden perfection?
 </br>
 </br>
@@ -52,8 +52,18 @@ This is perfect for parties and always a hit. It also looks fabulous with the we
 ![Pizza Crescent Ring](/images/uploads/2019_02_02_pizza_crescent_ring_9.jpg)
 </br>
 </br>
+</span>
 
-## Recipe
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">8-10</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT30M">20-30 mins</div>
+<div>Bake Time: <meta itemprop="cookTime" content="PT30M">30 mins</div>
+</br>
+
 ### Ingredients
 
 * <span itemprop="ingredients"> 8 oz. ground sweet or spicy Italian sausage</span>

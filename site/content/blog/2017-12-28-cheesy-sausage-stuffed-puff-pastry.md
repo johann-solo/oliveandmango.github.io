@@ -7,8 +7,10 @@ scaled_thumbnail: /images/uploads/2017_12_28_2017_12_28_sausage_stuffed_puff_pas
 categories: ["appetizers"]
 tags: ["cheese"]
 excerpt: Addictive creamy savoury sausage and cheese bites
+keywords: ["sausage appetizers", "puff pastry recipes"]
+description: Addictive creamy savoury sausage and cheese bites
 ---
-
+<span class="blog-text">
 They truly are addictive.  It is cheese and buttery puff pastry after all. I make this every time I host a little party - wine and cheese or even if we have friends over watching a movie. They pair perfectly with wine and always better when shared.
 <br>
 <br>
@@ -36,42 +38,48 @@ It looks delicious but can come across as "just another pie", especially if plac
 ![Cheesy Sausage Stuffed Puff Pastry Appetisers](/images/uploads/2017_12_28_2017_12_28_sausage_stuffed_puff_pastry_5.jpg)
 <br>
 <br>
+</span>
+
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">8-10</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT20M">20 mins</div>
+<div>Coke Time: <meta itemprop="cookTime" content="PT10M">10 min (to cook the sausage)</div>
+<div>Bake Time: <meta itemprop="cookTime" content="PT30M">20-30 mins</div>
+</br>
 
 ### Ingredients
 
-* 2 puff pastry sheets (homemade recipe I use often is below)
-* 2 tbsp olive oil
-* 4 sausages casings removed (I like to use a spicy garlicky one)
-* 1 (8 oz) package of cream cheese at room temperature
-* 1 jalapeño pepper chopped or any hot pepper (optional for more heat and flavour)
-* 1 onion chopped
-* 1 clove of garlic minced
-* Salt and pepper to taste
-* 1 egg for egg wash
-* 1-2 tbsp of flour for working surface and rolling pin to roll out puff pastry
+* <span itemprop="ingredients">2 puff pastry sheets (homemade recipe I use often is below)</span>
+* <span itemprop="ingredients">2 tbsp olive oil</span>
+* <span itemprop="ingredients">4 sausages casings removed (I like to use a spicy garlicky one)</span>
+* <span itemprop="ingredients">1 (8 oz) package of cream cheese at room temperature</span>
+* <span itemprop="ingredients">1 jalapeño pepper chopped or any hot pepper (optional for more heat and flavour)</span>
+* <span itemprop="ingredients">1 onion chopped</span>
+* <span itemprop="ingredients">1 clove of garlic minced</span>
+* <span itemprop="ingredients">Salt and pepper to taste</span>
+* <span itemprop="ingredients">1 egg for egg wash</span>
+* <span itemprop="ingredients">1-2 tbsp of flour for working surface and rolling pin to roll out puff pastry</span>
 <br>
 
 ### Directions
 
 1. Preheat oven to 375 &deg; F and line a baking sheet with parchment paper
-
 1. Heat olive oil in a skillet on medium heat and add the onions, and peppers and sauté until onions are translucent. Then add the garlic and sauté for a minute until very fragrant and add the sausages and continue to sauté and break up the sausages until they are all browned. Season with salt and pepper
-
 1. Remove from heat and drain off(or use a paper towel and tongs to soak up and remove) excess fat/oil.
-
 1. Place the cream cheese in a large bowl and then add in the sausage mixture and mix everything together well until the mixture is creamy
-
 1. Roll out the puff pastry into a rectangular shape and transfer to a baking dish with parchment paper
-
 1. Spread the cheese mixture onto it evenly leaving &frac12; inch border all around and set aside
-
 1. Roll out the other piece of puff pastry to match the other one as closely as possible and transfer it directly over top the filling and gently press the edges together and roll the edges together and use a fork to make indents and squeeze the seems tight.  
-
 1. Brush the seems with egg wash and the rest of it, make three slits in the middle of the pie for venting and transfer to oven and bake for 20 to 30 minutes or until golden brown.
-
 1. Let it rest for a few minutes and then cut into smaller pieces and serve
+</br>
 
-\* to make ahead – brown the meat and combine with cream cheese and store in the fridge over night. It’s super quick to whip up after you have made the meat.
+### Recipe Note
+* to make ahead – brown the meat and combine with cream cheese and store in the fridge over night. It’s super quick to whip up after you have made the meat.
 <br>
 <br>
 ![Cheesy Sausage Stuffed Puff Pastry Appetisers](/images/uploads/2017_12_28_2017_12_28_sausage_stuffed_puff_pastry_6.jpg)
