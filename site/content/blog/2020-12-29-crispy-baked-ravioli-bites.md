@@ -75,7 +75,7 @@ They go pretty fast when I make them and so I tend to make extra for just that r
 * <span itemprop="recipeIngredient">1 tsp garlic powder</span>
 * <span itemprop="recipeIngredient">&frac12; tsp onion powder </span>
 * <span itemprop="recipeIngredient">1 tsp salt</span>
-* <span itemprop="recipeIngredient"><span class="highlight"><a rel="nofollow" href="https://www.oliveandmango.com/easy-fresh-tomato-marinara/">Marinara sauce</a></span> for dipping (my homemade marinate sauce recipe is easy and delicious)<span>>
+* <span itemprop="recipeIngredient">Marinara sauce for dipping (my <span class="highlight"><a rel="nofollow" href="https://www.oliveandmango.com/easy-fresh-tomato-marinara/">homemade Marinara</a></span> sauce recipe is easy and delicious)<span>>
 </br>
 
 ### Directions
