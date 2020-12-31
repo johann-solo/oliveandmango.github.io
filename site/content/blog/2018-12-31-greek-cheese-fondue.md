@@ -49,30 +49,40 @@ I love to top mine with whatever you would have on a [Greek village salad (horia
 This year had been a bit of a whirlwind of change with some highs and lows that I won’t bore you with. I look forward to a more stable 2019 where I feel a bit more settled and feel like I can run the blog with some rhythm/routine. I’m very appreciative of all of you who check back and love the recipes and share your thoughts and ideas on here and Instagram and I will keep pushing forward with some more inspiring ideas for home cooking. I’m looking forward to it and some new adventures come January! Thanks for your support always. I will be sharing a 2018 favorite recipe round up in the new year.
 </br>
 </br>
+</span>
 
-## Recipe
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">8-10</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT10M">10 mins</div>
+<div>Bake Time: <meta itemprop="cookTime" content="PT10M">10 mins</div>
+</br>
+
 ### Ingredients
 
-* 1 tbsp. olive oil
-* 2 cloves of garlic, minced
-* 1 (8-oz.) block cream cheese, softened
-* &frac14; cup whole milk or cream
-* 1 cup crumbled feta
-* 1 cup shredded mozzarella
-* &frac13; cup Greek yogurt
-* 2 tbsp. lemon juice
-* 1 tbsp. chopped dill, plus more for garnish
-* 1 tbsp. chopped parsley, plus more for garnish
-* 1 tsp. lemon zest
-* &frac14; tsp. red pepper flakes
-* kosher salt
-* Freshly ground black peppers
-* 1 cup halved cherry tomatoes
-* &frac12; cup kalamata olives, sliced
-* &frac12; cup of chopped cucumber
-* 1 tbsp of finely chopped red onion
-* olive oil, for drizzling
-* Pita chips, for serving
+* <span itemprop="ingredients">1 tbsp. olive oil</span>
+* <span itemprop="ingredients">2 cloves of garlic, minced</span>
+* <span itemprop="ingredients">1 (8-oz.) block cream cheese, softened</span>
+* <span itemprop="ingredients">&frac14; cup whole milk or cream</span>
+* <span itemprop="ingredients">1 cup crumbled feta</span>
+* <span itemprop="ingredients">1 cup shredded mozzarella</span>
+* <span itemprop="ingredients">&frac13; cup Greek yogurt</span>
+* <span itemprop="ingredients">2 tbsp. lemon juice</span>
+* <span itemprop="ingredients">1 tbsp. chopped dill, plus more for garnish</span>
+* <span itemprop="ingredients">1 tbsp. chopped parsley, plus more for garnish</span>
+* <span itemprop="ingredients">1 tsp. lemon zest</span>
+* <span itemprop="ingredients">&frac14; tsp. red pepper flakes</span>
+* <span itemprop="ingredients">kosher salt</span>
+* <span itemprop="ingredients">Freshly ground black peppers</span>
+* <span itemprop="ingredients">1 cup halved cherry tomatoes</span>
+* <span itemprop="ingredients">&frac12; cup kalamata olives, sliced</span>
+* <span itemprop="ingredients">&frac12; cup of chopped cucumber</span>
+* <span itemprop="ingredients">1 tbsp of finely chopped red onion</span>
+* <span itemprop="ingredients">olive oil, for drizzling</span>
+* <span itemprop="ingredients">Pita chips, for serving</span>
 
 ### Directions
 

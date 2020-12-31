@@ -47,7 +47,7 @@ Not only are they a more cost effective way of enjoying these crackers but they 
 </form></div>
 
 <div>Servings: <span itemprop="recipeYield">approx 30-40 crisps </div>
-<div>Prep Time: <meta itemprop="prepTime" content="PT30M">15 mins</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">15 mins</div>
 <div>Bake Time: <meta itemprop="cookTime" content="PT80M">1 hr 15-20 mins</div>
 </br>
 
