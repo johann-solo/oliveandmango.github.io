@@ -7,7 +7,10 @@ scaled_thumbnail: /images/uploads/2017_12_30_spiced_roasted_carrot_dip_0.jpg
 categories: ["appetizers"]
 tags: ["carrots", "dips"]
 excerpt: A creamy and sweet carrot dip perfect for any occasion
+keywords: ["spicy dips"]
+description: A creamy and sweet carrot dip perfect for any occasion
 ---
+<span class="blog-text">
 
 There’s is nothing like the nutty and earthy flavours that come with roasting veggies in general. Root vegetables carrots included also become intensely sweet and fabulous. Roasting the carrots with onions and garlic really marries the flavours together even before they all get blended up in the food processor.
 <br>
@@ -36,17 +39,28 @@ The tahini adds a wonderful flavour but also helps make this dip extra rich. You
 ![Spiced Roasted Carrot Dip](/images/uploads/2017_12_30_spiced_roasted_carrot_dip_3.jpg)
 <br>
 <br>
+</span>
+
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">6</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">15 mins</div>
+<div>Bake Time: <meta itemprop="cookTime" content="PT40M">30-40 mins</div>
+</br>
 
 ### Ingredients
 
-* 2 lbs of carrots (approx 6-10 depending on size)
-* 1 onion peeled and chopped in quarters
-* 6 cloves of garlic peeled
-* 3 tbsp of olive oil plus a couple of extra for processing later if needed
-* Salt and pepper to taste
-* 1 tsp ground harissa (plus more to taste and heat preference – can sub with just ground cumin if you don’t want the heat but homemade harissa seasoning recipe is below)
-* 1 heaping tbsp of tahini
-* Juice of one lemon
+* <span itemprop="ingredients">2 lbs of carrots (approx 6-10 depending on size)</span>
+* <span itemprop="ingredients">1 onion peeled and chopped in quarters</span>
+* <span itemprop="ingredients">6 cloves of garlic peeled</span>
+* <span itemprop="ingredients">3 tbsp of olive oil plus a couple of extra for processing later if needed</span>
+* <span itemprop="ingredients">Salt and pepper to taste</span>
+* <span itemprop="ingredients">1 tsp ground harissa (plus more to taste and heat preference – can sub with just ground cumin if you don’t want the heat but homemade harissa seasoning recipe is below)</span>
+* <span itemprop="ingredients">1 heaping tbsp of tahini</span>
+* <span itemprop="ingredients">Juice of one lemon</span>
 <br>
 
 ### Directions

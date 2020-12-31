@@ -7,7 +7,10 @@ scaled_thumbnail: /images/uploads/2018_02_02_muhammara_dip_0.jpg
 categories: ["appetizers"]
 tags: ["dips", "walnuts", "red peppers"]
 excerpt: Fully textured, nutty, smokey and subtly sweet dip or spread that will have you craving more and more of it
+keywords: ["red pepper dips", "Middle Eastern food"]
+description: Fully textured, nutty, smokey and subtly sweet dip or spread that will have you craving more and more of it
 ---
+<span class="blog-text">
 
 If you want to switch up your dipping game, this muhammara dip is one you need in your dip rotation. It’s a middle eastern dip with lots of texture and flavour. It’s easy to make and perfect for your next party, dinner party or just great to have in the fridge to enjoy yourself.
 <br>
@@ -49,23 +52,33 @@ This is a great healthy option to add to your table of snacks for Super Bowl and
 ![Muhammara Dip](/images/uploads/2018_02_02_muhammara_dip_8.jpg)
 <br>
 <br>
+</span>
+
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">4</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT30M">15 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT25M">20-25 min if roasting your own peppers </div>
+</br>
 
 ### Ingredients
-
 **For the dip**
 
-* 3-4 roasted red peppers (charred on the bbq, stovetop grill or broiled until charred in the oven, allowed to rest covered with foil in a bowl and then peeled, seeds removed)- you can also use jarred roasted  red peppers as well - approx 1-1&frac12; cups
-* 1 tbsp crushed red pepper flakes or a small red chili
-* &frac12; tsp ground cumin
-* 3/4 cup walnuts lightly toasted
-* 2 cloves of roasted garlic (roasted with the cauli) -optional
-* 1 tsp lemon juice
-* &frac14; cup whole grain bread crumbs or any other kind of bread crumbs including GF (I used whole wheat panko)
-* &frac14; cup olive oil plus 1-2 tbsp more for drizzling over dip after
-* 2 tbsp pomegranate molasses
-* &frac14; cup tomato paste
-* &frac14; cup warm water if needed to thin out the dip
-* Salt and pepper to taste
+* <span itemprop="ingredients">3-4 roasted red peppers (charred on the bbq, stovetop grill or broiled until charred in the oven, allowed to rest covered with foil in a bowl and then peeled, seeds removed)- you can also use jarred roasted  red peppers as well - approx 1-1&frac12; cups</span>
+* <span itemprop="ingredients">1 tbsp crushed red pepper flakes or a small red chili</span>
+* <span itemprop="ingredients">&frac12; tsp ground cumin</span>
+* <span itemprop="ingredients">&frac34; cup walnuts lightly toasted</span>
+* <span itemprop="ingredients">2 cloves of roasted garlic (roasted with the cauli) -optional</span>
+* <span itemprop="ingredients">1 tsp lemon juice</span>
+* <span itemprop="ingredients">&frac14; cup whole grain bread crumbs or any other kind of bread crumbs including GF (I used whole wheat panko)</span>
+* <span itemprop="ingredients">&frac14; cup olive oil plus 1-2 tbsp more for drizzling over dip after</span>
+* <span itemprop="ingredients">2 tbsp pomegranate molasses</span>
+* <span itemprop="ingredients">&frac14; cup tomato paste</span>
+* <span itemprop="ingredients">&frac14; cup warm water if needed to thin out the dip</span>
+* <span itemprop="ingredients">Salt and pepper to taste</span>
 <br>
 
 **For the roasted cauliflower florets**
@@ -78,14 +91,12 @@ This is a great healthy option to add to your table of snacks for Super Bowl and
 
 ### Directions
 
-1. Preheat oven to 400&deg;F
+1. Preheat oven to 400°F
 1. Toss the cauliflower florets and whole garlic cloves in oil on a baking sheet and sprinkle with salt and pepper. Roast for approx 20 minutes or until tender and golden brown flipping or tossing once in between. Set aside when done and reserve the garlic for dip
-
 1. In a food processor or high speed blender process the chili flakes, cumin, walnuts, lemon juice, breadcrumbs, olive oil, garlic, tomato paste, garlic if using, and red peppers until nice and smooth. Then drizzle with warm water to reach desired texture and pulse a few more times.  I didn’t need the water.
-
 1. Stir in and season with salt and pepper to your liking and serve with the cauliflower bites. I topped mine with a drizzle of olive oil, dusting of cumin, cumin seeds, chopped walnuts and some chopped parsley  
 
-Adapted from *Thekitchn*
+Adapted from *The Kitchn*
 
 <br>
 ![Muhammara Dip](/images/uploads/2018_02_02_muhammara_dip_9.jpg)

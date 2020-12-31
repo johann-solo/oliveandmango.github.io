@@ -7,7 +7,10 @@ scaled_thumbnail: /images/uploads/2018_05_31_roasted_red_pepper_and_feta_dip_0.j
 categories: ["appetizers"]
 tags: ["feta", "dips"]
 excerpt: A dip so quick to make, your friends would think you flew to Greece to get it
+keywords: ["red pepper dips", "easy feta dips", "Greek appetizers"]
+description: A dip so quick to make, your friends would think you flew to Greece to get it
 ---
+<span class="blog-text">
 
 I have been making this dip for years - ask my friends it’s totally true. I didn’t ever think that I would have to measure everything to share the recipe but here we are. I’m sure I came up with this combo based on one of my favourite Greek dips made of basically feta and some yoghurt and hot peppers called _tirokafteri_.
 </br>
@@ -70,26 +73,35 @@ Just before I share I should tell you what I usually serve it with. We love it w
 ![Roasted Red Pepper And Feta Dip](/images/uploads/2018_05_31_roasted_red_pepper_and_feta_dip_15.jpg)
 </br>
 </br>
+</span>
+
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">4</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT10M">10 mins</div>
+<div>Bake Time: <meta itemprop="cookTime" content="PT80M">20-25 min if roasting your own peppers </div>
+</br>
 
 ### Ingredients
 
-* 6oz or 1&frac14; cup crumbled feta (I couldn't find my usual plain feta, this one had herbs)
-* 4 roasted red peppers. I used canned or in a jar, strained and seeds removed (check notes for roasting peppers)
-* &frac14; cup olive oil - more or less according to the consistency you like 
-* &frac12; tsp of chili flakes 
-* 1 clove of garlic grated 
-* Salt and pepper to taste 
+* <span itemprop="ingredients">6oz or 1&frac14; cup crumbled feta (I couldn't find my usual plain feta, this one had herbs)</span>
+* <span itemprop="ingredients">4 roasted red peppers. I used canned or in a jar, strained and seeds removed (check notes for roasting peppers)</span>
+* <span itemprop="ingredients">&frac14; cup olive oil - more or less according to the consistency you like </span>
+* <span itemprop="ingredients">&frac12; tsp of chili flakes </span>
+* <span itemprop="ingredients">1 clove of garlic grated </span>
+* <span itemprop="ingredients">Salt and pepper to taste </span>
 
 ### Directions 
 
 1. Place all ingredients except olive oil into a food processor and pulse until well combined and smooth. 
-
 1. Slowly drizzle in the olive oil a little at a time while processing until you achieve preferred consistency. 
-
 1. Refrigerate in a sealed container until ready to serve. 
 
 ### Recipe Notes
-To roast the red peppers yourself do so by charring them on the bbq, stovetop grill or broil them until charred in the oven, allow them to rest covered with foil in a bowl until cool enough to handle and then peel them remove the stems and seeds and use as directed)
+* To roast the red peppers yourself do so by charring them on the bbq, stovetop grill or broil them until charred in the oven, allow them to rest covered with foil in a bowl until cool enough to handle and then peel them remove the stems and seeds and use as directed)
 
 </br>
 ![Roasted Red Pepper And Feta Dip](/images/uploads/2018_05_31_roasted_red_pepper_and_feta_dip_16.jpg)

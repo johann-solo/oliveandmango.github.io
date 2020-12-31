@@ -10,7 +10,7 @@ excerpt: A very simple fresh and delicious appetiser
 keywords: ["spreads", "olives", "goat cheese", "entertaining", "dips", "food for guests"]
 description: An easy to make goat cheese dip that is perfect as an appetizer for entertaining guests
 ---
-
+<span class="blog-text">
 I absolutely love a nice and easy appetizer that can be whippped up in no time for guests or if you want to take something to a friends house. That is exactly how I got the recipe to this yummy appetizer. My good friend brought it over to a wine and cheese night I was having and it was a total hit. I couldn’t walk away from it, it was and is that good.</br>
 </br>
 ![Marinated Goat Cheese Spread](/images/uploads/2018_12_28_marinated_goat_cheese_spread_2.jpg)
@@ -41,8 +41,18 @@ I just took this to a friends house over the holidays and it was well received t
 {{< youtube fKKrCDrrL4U >}}
 </br>
 </br>
+</span>
 
-## Recipe
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">6-8</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">10-15 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT01M">1 min</div>
+</br>
+
 ### Ingredients
 
 * <span itemprop="ingredients"> two 5 oz. pckgs. of spreadable goat cheese</span>

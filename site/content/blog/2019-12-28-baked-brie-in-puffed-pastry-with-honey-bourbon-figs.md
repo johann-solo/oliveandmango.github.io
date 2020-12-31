@@ -11,6 +11,7 @@ keywords: ["baked brie", "puffed pastry"]
 description: Rich and creamy Baked Brie in buttery Puff Pastry
 ---
 
+<span class="blog-text">
 Rich and creamy Baked Brie in buttery Puff Pastry is always a luxuriously tasting crowd pleaser with so little effort.  I was recently reminded of this gem of a recipe by a friend who recently had it. The version he had sounded absolutely delicious. It was made with apricot jelly and nuts. I couldn’t get it out of my head so I decided to make it using what I had in my pantry. I had some leftover fig jam and dried figs from a recent cheeseboard I made and decided to go with that for my version. I added the bourbon, honey and balsamic thanks to Reese Witherspoon’s recipe from her book Whiskey In A Tea Cup. I thought the figs would do well with a bit of booziness and the reality is any jelly you use would be perfect and do really well with a little bourbon.
 </br>
 </br>
@@ -44,8 +45,16 @@ This is one decadent and one very simple appetizer that you will always have in 
 ![Baked Brie in Puffed Pastry With Honey Bourbon Figs](/images/uploads/2019_12_28_baked_brie_in_puffed_pastry_with_honey_bourbon_figs_7.jpg)
 </br>
 </br>
+</span>
 
-## Recipe
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">6-8</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">10-15 mins</div>
+<div>Bake Time: <meta itemprop="cookTime" content="PT25M">20-25 mins</div>
 </br>
 
 ### Ingredients
