@@ -1,5 +1,5 @@
-<h2>Recipes for pies</h2>
-   {{ range first 4 .Site.Taxonomies.tags.pies }}
+<h2>Vegan Recipes</h2>
+   {{ range first 4 .Site.Taxonomies.tags.vegan }}
   <section>
     <a href="{{ .Permalink }}"><img src="{{ .Params.scaled_thumbnail }}" alt="{{.Params.Title}}"></a>
     <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
