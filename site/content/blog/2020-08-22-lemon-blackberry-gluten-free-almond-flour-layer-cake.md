@@ -7,7 +7,7 @@ scaled_thumbnail: /images/uploads/2020_08_22_lemon_blackberry_gluten_free_almond
 categories: ["desserts", "gluten free", "blackberries", "lemons", "sponsored"]
 tags: ["cakes", "gluten free", "blackberries", "lemons", "sponsored"]
 excerpt: Gluten free all purpose sponge layer cake
-keywords: ["gluten free cakes", "lemon cake recipe"]
+keywords: ["gluten free cakes", "lemon cake recipe", "lemon curd"]
 description: Gluten free all purpose sponge layer cake
 ---
 
@@ -96,36 +96,29 @@ __For assembling__
 ### Directions
 
 1. Preheat oven to 350°F. Grease pans very well and line bottoms of cake pans with parchment paper
-
 1. In large bowl, whisk together almond flour and coconut flour. 
-
 1. In bowl of electric mixer fitted with whisk attachment (or using a regular mixer and mixing bowl) beat egg yolks at high speed until pale yellow and fluffy, 2 to 3 minutes. Reduce speed to moderately low and beat in vanilla extract and ALL BUT 1 tablespoon of powdered sugar. Scrape down bowl, then increase speed to high and beat until pale and thick, about 1 minute. Then reduce speed to low and gradually add almond and coconut flour mixture, scraping down bowl and folding in last of flour by hand. Mixture will be thick.  Set aside. 
-
 1. In clean dry bowl of electric mixer fitted with whisk attachment, beat room temperature egg whites on moderate speed until very foamy, about 1 minute. Beat in cream of tartar, salt, and remaining 1 tablespoon of powdered  sugar. Increase speed to moderately high and beat until whites hold stiff peaks, about 2 minutes. 
-
-1. Fold 1 cup beaten egg whites into yolk mixture to lighten up the mix, then gently fold in remaining whites in three additions. Divide batter between pans, making sure to smooth the tops, and bake until layers are golden brown and toothpick inserted in center comes out clean, 20 to 25 minutes. As soon as you remove them from the overnight INVERT pans onto wire racks and cool completely, at least 1 hour. Run knife around cake layers to loosen, invert onto rack, and peel off the parchment.*
-
-1. Make the frosting: Puree &frac12; cup – &frac23; cup blackberries in a small food processor. Push through a fine mesh strainer to rid the seeds. You’ll have a 2-4 Tablespoons of puree.
-
-1. In a large bowl beat the butter until light and fluffy. Add powdered sugar a little at a time until incorporated. Add the blackberry puree, ( as little or as much as you want for colour) salt and vanilla and beat until light and fluffy. 
+2. Fold 1 cup beaten egg whites into yolk mixture to lighten up the mix, then gently fold in remaining whites in three additions. Divide batter between pans, making sure to smooth the tops, and bake until layers are golden brown and toothpick inserted in center comes out clean, 20 to 25 minutes. As soon as you remove them from the oven INVERT pans onto wire racks and cool completely, at least 1 hour. Run knife around cake layers to loosen, invert onto rack, and peel off the parchment.*
+3. Make the frosting: Puree &frac12; cup – &frac23; cup blackberries in a small food processor. Push through a fine mesh strainer to rid the seeds. You’ll have a 2-4 Tablespoons of puree.
+4. In a large bowl beat the butter until light and fluffy. Add powdered sugar a little at a time until incorporated. Add the blackberry puree, ( as little or as much as you want for colour) salt and vanilla and beat until light and fluffy. 
 </br>
 
 __Assemble cake (2 options)__
 
-1) If using the lemon curd and blackberries:
+1. If using the lemon curd and blackberries:
 Place frosting in a piping bag with end cut off 
 Set one cake on a plate or cake stand, pipe a thick strip of frosting around the edge of the cake. Then add &frac12; the lemon curd and spread it on evenly over cake within the frosted areas. Sprinkle over blackberries and then place second cake layer over and repeat. Then place last layer over and spread remaining frosting over cake. Top with more blackberries and serve. 
-</br>
-
-2) If keeping the cake plain with just the frosting: Layer cake, using approx &frac12;-1 cup frosting between each layer, then frost top and sides with remaining frosting and serve. 
+1. If keeping the cake plain with just the frosting: Layer cake, using approx &frac12;-1 cup frosting between each layer, then frost top and sides with remaining frosting and serve. 
 </br>
 </br>
 
 ### Recipe notes
 
+* The layers in this cake will not rise the same way a regular cake does. To get the maximum rise in each layer though ensure 1) that you fold the whipped egg whites (meringue) into the batter gently to maintain their lift. 2) it’s important to remember to cool the cakes upside-down in the pans so that the sponge doesn't fall flat.
 * Cakes can easily be made ahead up to two days if individually wrapped tightly and refridgerated. They are delicate so handle with care while wrapping or sliding them in a large ziploc bag.
 * Frosting amount will make enough to frost it into a naked cake - double the recipe if you want thick layers of it in between each cake layer and covering it in a thick layer. 
-* You can use any frosting you would like in this cake. It’s a versatile cake recipe that goes with so many flavour. Feel free to substitute the vanilla with coconut and layer with coconut whip and coconut flakes. There are lots of ways to play up the flavours. 
+* You can use any frosting you would like in this cake. It’s a versatile cake recipe that goes with so many flavour. Feel free to substitute the vanilla with coconut and layer with coconut whip and coconut flakes. There are lots of ways to play up the flavours.
 
 </br>
 Apdapted from _Epicurious_
