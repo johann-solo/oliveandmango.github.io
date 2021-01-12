@@ -4,7 +4,6 @@
     "js": "main.js"
   },
   "": {
-    "keep": "fonts/.keep",
-    "json": "e9bb22f45850be79132c.hot-update.json"
+    "keep": "fonts/.keep"
   }
 }
