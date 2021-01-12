@@ -16,6 +16,7 @@ description: Mont Blanc tart is a varitation on the decadent Mont Blanc cake. To
 Literally meaning white mountain in French, this dessert is appropriately named. It’s a French dessert pastry that has many variations, but the common thread to most versions is the cake or pastry layer, chestnut cream and purée along with some crunchy meringue. It’s usually served in individual cakelet/tartlet fashion but I decided to make a tart out of the same components as I thought it would make it easier and less finicky making individual portions. That being said the tart shell recipe can easily be made for individual sized tarts as mentioned in the recipe below.
 </br>
 </br>
+
 ![Mont Blanc Chestnut Dessert Tart](/images/uploads/2019_01_03_mont_blanc_chestnut_dessert_tart_2.jpg)
 </br>
 </br>
@@ -23,6 +24,7 @@ Literally meaning white mountain in French, this dessert is appropriately named.
 I have been pretty excited about making this a Mont Blanc ever since having dinner at my friends a few months back. They talked about having this amazing dessert at a restaurant in Toronto that was chestnut based and told me I had to make it. They sent me a link of a recipe for it from the _Tasty_ website and after seeing it I knew I had to try making it. I love chestnut anything and something made with a chestnut based cream intrigued me and definitely had me excited to make it. The only thing that held me back was my poor piping skills. The individual Mont Blanc desserts on the _Tasty_ website looked like a piece of art! They were piped perfectly and to tell you the truth I find that sort of piping super stressful and I really don’t have the time or probably more accurately the patience for super intricate desserts like that. I then started thinking of how I can simplify this Mont Blanc.
 </br>
 </br>
+
 ![Mont Blanc Chestnut Dessert Tart](/images/uploads/2019_01_03_mont_blanc_chestnut_dessert_tart_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ I have been pretty excited about making this a Mont Blanc ever since having dinn
 Well I thought, why not make one large tart? So I googled Mont Blanc tart and _The Olive Magazine_ had a beautiful recipe for a Mont Blanc tart (I think that is the only one I could find on the web). I was sold and I was determined to make the tart. I wanted to make the shell or crust with chestnut flour instead though and so I searched for a pastry crust of sorts that would be simple and made with chestnut flour. Thanks to _Food52_ I found one and guess what - it is so easy to make because it’s a shortbread crust meaning you can work the dough to death and it will still turn out fine. You literally just need to press it into the tart pan and bake it once before filling and enjoying. The chestnut flour in the crust brings the whole dessert together in flavour and the shortbread texture is so delicious and buttery and subtlety nutty in flavour.
 </br>
 </br>
+
 ![Mont Blanc Chestnut Dessert Tart](/images/uploads/2019_01_03_mont_blanc_chestnut_dessert_tart_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ Well I thought, why not make one large tart? So I googled Mont Blanc tart and _T
 Now that I had a tart crust to work with I also needed to find an alternative to marron glacé or candied chestnuts. I had enough trouble looking for chestnut flour so I decided to use something nutty instead to give the dessert that extra bit of texture. Candied chestnuts are fairly uncomplicated to make - you bet I did my research, but it takes many steps and they need to be repeated at least twice taking many hours in between. To me that is not an option, so if I couldn’t buy any I was going to sub them out somehow. I’m glad I did. The maple candied walnuts were the perfect nutty addition and any leftovers make for some very delicious snacking as well.
 </br>
 </br>
+
 ![Mont Blanc Chestnut Dessert Tart](/images/uploads/2019_01_03_mont_blanc_chestnut_dessert_tart_5.jpg)
 </br>
 </br>
@@ -44,6 +48,7 @@ Now that I had a tart crust to work with I also needed to find an alternative to
 So you’re starting to get a clear picture of all the textures now I’m guessing. The crust has a gently crispiness with subtle nutty chestnut hints, the filling is a chestnut cream made from chestnut purée and whipped cream. Now many recipes call for raw egg in the whip cream but I just used plain whip cream for simplicity sake. Next the meringue cookies, which are super easy to make by the way. Add the next layer of texture with is light and airy but at the same time add a nice crunch to the tart. And of course lastly those candied walnuts which are so delicious.
 </br>
 </br>
+
 ![Mont Blanc Chestnut Dessert Tart](/images/uploads/2019_01_03_mont_blanc_chestnut_dessert_tart_6.jpg)
 </br>
 </br>
@@ -152,4 +157,5 @@ Did this dessert live up to the hype? It most certainly did!! We loved the textu
 Recipe adapted from _Food 52_, _Martha Stewart_ and _The Olive Magazine_
 
 </br>
+
 ![Mont Blanc Chestnut Dessert Tart](/images/uploads/2019_01_03_mont_blanc_chestnut_dessert_tart_7.jpg)

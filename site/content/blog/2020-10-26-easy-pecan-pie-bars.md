@@ -15,9 +15,11 @@ description: The gooey, sweet, salty, crunchy, nutty & very very addictive
 This is a wonderful and easy recipe for pecan bars that includes a simple shortbread bottom and a one bowl mix & pour topping loaded with pecans. This tasty recipe is from The Bite Me Balance Cookbook. I was happy to review Julie Albert and Lisa Gnat’s newest cookbook and i thought you guys would love this recipe as much as I do that is why I chose to highlight this one out of the 138 original recipes from book. 
 </br>
 </br>
+
 ![Easy Pecan Pie Bars](/images/uploads/2020_10_26_easy_pecan_pie_bars_2.jpg)
 </br>
 </br>
+
 ![Easy Pecan Pie Bars](/images/uploads/2020_10_26_easy_pecan_pie_bars_3.jpg)
 </br>
 </br>
@@ -25,9 +27,11 @@ This is a wonderful and easy recipe for pecan bars that includes a simple shortb
 The book is full of very approachable recipes that are perfect for everyone from amateur to the well seasoned home cook. The ingredients are fresh and simple and the focus is on quality making each dish fabulous. The book highlights the importance of balance when it comes to healthy eating, something I am very much behind. I don’t follow any particular diet (gluten free when it comes to pasta only and easy on the diary), ofcourse if your health dictates a certain diet that is a whole other story,  but when it comes to regular day to day eating I’m very much about balance and making smart choices when it comes to what we put into our bodies but allowing some indulgence. 
 </br>
 </br>
+
 ![Easy Pecan Pie Bars](/images/uploads/2020_10_26_easy_pecan_pie_bars_4.jpg)
 </br>
 </br>
+
 ![Easy Pecan Pie Bars](/images/uploads/2020_10_26_easy_pecan_pie_bars_5.jpg)
 </br>
 </br>
@@ -35,9 +39,11 @@ The book is full of very approachable recipes that are perfect for everyone from
 The ladies have coined a phrase that is a perfect reflection of their sense of humor - “Moderation is the granny panties of the diet world”.  They are not cool and trending but they do the job- (I said that) “It really comes down to a lifelong commitment to eating smarter and moving more” they add  and I couldn’t agree more. The book is filled with wholesome daily eats and delectable occasional treats like these delicious and easy pecan pie bars. The recipes are 75% healthy and 25% butter.  The book itself is broken into four sections: Breakfast and Brunch, Lunch, Weeknight dinners, as Gatherings. The recipes are written clearly and in a concise manner. There are also tips included for each recipe along with some fun quotes along the way.  It’s well written and the photography is beautiful. It’s bright and vibrant just like the personality of these two sisters. 
 </br>
 </br>
+
 ![Easy Pecan Pie Bars](/images/uploads/2020_10_26_easy_pecan_pie_bars_6.jpg)
 </br>
 </br>
+
 ![Easy Pecan Pie Bars](/images/uploads/2020_10_26_easy_pecan_pie_bars_7.jpg)
 </br>
 </br>
@@ -107,4 +113,5 @@ I have partnered up with the publishers to feature this great cookbook by the _B
 * Cutting these without crushing the layers can be tricky.  The key is to break through the pecan layer first then the rest is wash. To do this I use a sharp serrated knife to help cut or saw through the pecans. Once you have cut through those gently cut through the two other layers evenly. Then cut one entire row off at a time and then cut each row separately into whatever size slices you prefer.
 
 </br>
+
 ![Easy Pecan Pie Bars](/images/uploads/2020_10_26_easy_pecan_pie_bars_8.jpg)

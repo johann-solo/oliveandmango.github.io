@@ -14,6 +14,7 @@ description: A rosemary lavender cake with beautiful fragrant flavours. This nak
 Rosemary and lavender are two aromatics that are quite vivid and strong in scent but work wonderfully together and both are also used in aromatherapy. They are pleasing to the nose and also pleasing to the palate when incorporated into dishes both sweet and savoury.
 </br>
 </br>
+
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ Rosemary and lavender are two aromatics that are quite vivid and strong in scent
 A few months ago we had the opportunity to visit Terre Bleu, a family run farm which is Ontario’s largest lavender farm, and we had a wonderful time despite the rain. It only stopped raining as we were driving away and the farm was closing. That didn’t stop us from exploring the farm and purchasing some goodies from their store. Their lavender is organically grown and the farmers work hard to plant, prune, and harvest lavender by hand and distill their oil in a traditional copper still to ensure a truly unique and authentic product. They are committed to education, sustainable farming and your personal well-being. The farm is beautiful and you can smell the aroma of lavender wafting in the air once you arrive. It’s immaculately maintained and their store is just lovely. Make sure to visit [www.terrebleu.ca​](https://www.terrebleu.ca/) to learn more about the farm, the products they sell and also to shop all the products that they make from the lavender.
 </br>
 </br>
+
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_3.jpg)
 </br>
 </br>
+
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_4.jpg)
 </br>
 </br>
@@ -31,12 +34,15 @@ A few months ago we had the opportunity to visit Terre Bleu, a family run farm w
 I have teamed up with Terre Bleu to make a wonderful cake using some of their products. They sent me a beautiful package with products that I love and used in this cake and will use in many other recipes in the future. They have also been kind enough to share a special discount for all my followers! Go to ​[www.terrebleu.ca​](https://www.terrebleu.ca/) and use my exclusive code __“OMPURPLETICKET”__ with your online order to receive a #PurpleTicket which is valid for one FREE admission to Terre Bleu Lavender Farm for the 2019 season (a $30 value), an opportunity you cannot miss. This code is valid until November 16th, 2018 so make sure and take full advantage of it. When in season give yourself the full sensory shopping experience when you visit the beautiful iconic farm store.
 </br>
 </br>
+
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_5.jpg)
 </br>
 </br>
+
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_6.jpg)
 </br>
 </br>
+
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_7.jpg)
 </br>
 </br>
@@ -44,12 +50,15 @@ I have teamed up with Terre Bleu to make a wonderful cake using some of their pr
 This cake is a perfect way to showcase their organic lavender and it pairs wonderfully with the rosemary. The cake itself is quite easy to make even for a novice baker. It bakes up quickly and the aroma of the vanilla and rosemary together while baking is totally wonderful. It’s a dense cake with a very fine crumb making it feel lighter than it is. When I first saw this recipe I worried about the texture of it as I usually cream the butter and sugar alone until light and airy. This recipe was different, the dry ingredients get whisked first then the butter is added and then the liquids separately. I was a bit skeptical but in the end the texture of the batter turned to a frothy and light one and baked up with the nicest texture. It reminded me of wedding cake - who doesn’t love wedding cake?
 </br>
 </br>
+
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_8.jpg)
 </br>
 </br>
+
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_9.jpg)
 </br>
 </br>
+
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_10.jpg)
 </br>
 </br>
@@ -57,9 +66,11 @@ This cake is a perfect way to showcase their organic lavender and it pairs wonde
 Let’s talk about the buttercream as this is where the lavender really shines. Instead of placing the lavender buds in the frosting itself, I decided to infuse the cream with it first as this really allows the flavours to blend really well throughout the buttercream. I added a dash of the lavender sea salt to the buttercream because sweet always needs a pinch of salty. It goes so well with the rosemary cake. The two were made for each other.
 </br>
 </br>
+
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_11.jpg)
 </br>
 </br>
+
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_12.jpg)
 </br>
 </br>
@@ -67,9 +78,11 @@ Let’s talk about the buttercream as this is where the lavender really shines. 
 I chose to decorate it very modestly - with a naked cake buttercream finish, making it look both rustic and chic at the same time (rustic is chic right now in case you haven’t noticed) It is also the perfect way to dress up a cake for a novice baker or an inpatient one like me who hasn’t quite gotten there in the cake decorating department. I will always choose the more forgiving path when it comes to dressing a cake. I used the modest approach when garnishing it as well. Simply using the rosemary and the dried lavender to crown the base of the cake and also create a tiny bouquet in the centre top of the cake. Simple but effective. I dusted the top of it with extra lavender sea salt and some lavender bud and that was it - you got yourself a pretty cake with minimal effort and maximum flavour.
 </br>
 </br>
+
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_13.jpg)
 </br>
 </br>
+
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_14.jpg)
 </br>
 </br>
@@ -77,6 +90,7 @@ I chose to decorate it very modestly - with a naked cake buttercream finish, mak
 I do hope you give this cake a try and do hop over to the Terre blue shop to check out all their high quality lavender goodies! Can’t wait to got back next season - maybe I will see you there! This is a sponsored post for Terre Bleu. All thoughts and views are my own.
 </br>
 </br>
+
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_15.jpg)
 </br>
 </br>
@@ -133,4 +147,5 @@ __For the frosting__
 Recipe adapted from _Sprinkles for breakfast_ and _Food 52_
 
 </br>
+
 ![Rosemary Lavender Cake With a Lavender Buttercream](/images/uploads/2018_11_05_rosemary_lavender_cake_with_a_lavender_buttercream_16.jpg)

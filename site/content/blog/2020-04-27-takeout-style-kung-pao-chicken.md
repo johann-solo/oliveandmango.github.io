@@ -14,6 +14,7 @@ description: A simple recipe for making homemade Kung Pao Chicken. Kung Pao chic
 Kung Pao Chicken is a classic Chinese takeout dish with spicy chicken, peanuts, chili peppers and veggies in a rich and tasty Kung Pao sauce. Traditionally this Szechuan dish is made drier with very little or no sauce but this is the takeout version with a fabulous sauce that is perfect over rice.
 </br>
 </br>
+
 ![Takeout Style Kung Pao Chicken](/images/uploads/2020_04_27_takeout_style_kung_pao_chicken_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ Kung Pao Chicken is a classic Chinese takeout dish with spicy chicken, peanuts, 
 What makes this dish stand out from all the other Chinese takeout dishes? It’s definitely the peanuts and the Szechuan peppercorns. They give the Kung Pao it’s unique flavor and heat. Unfortunately, Szechuan peppercorns are a little hard to find around here right now and although I have included them in the recipe I didn’t have them when I made it this time around. It’s not easy to replace the unique heat and flavour of these peppercorns but many have used a combination of freshly ground black pepper and freshly ground coriander seeds. That is what I used in place of it this time. You can try that or just leave it out.
 </br>
 </br>
+
 ![Takeout Style Kung Pao Chicken](/images/uploads/2020_04_27_takeout_style_kung_pao_chicken_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ What makes this dish stand out from all the other Chinese takeout dishes? It’s
 Peanuts may not be an authentic add in where this dish originally hails from (Sichuan Province of south-western China) but they are certainly a staple ingredient in the North American takeout version. When I think of Kung Pao chicken I think of spicy chicken with peanuts (and a few Seinfeld episodes- I will give you a second to youtube them...) so naturally it was the first dish I thought of when I was choosing a recipe to feature Texas peanuts in. Texas peanuts sent over a plethora of their roasted and salted peanuts in their shell. They are addictive on their own and add a really nice texture and delicious flavour to this dish. Peanuts are a great partner for chili peppers so we added them to the pan and served them on the side as well, I garnished my plate with more on top.
 </br>
 </br>
+
 ![Takeout Style Kung Pao Chicken](/images/uploads/2020_04_27_takeout_style_kung_pao_chicken_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ Peanuts may not be an authentic add in where this dish originally hails from (Si
 [Texaspeanuts.com](https://texaspeanuts.com/) has plenty of recipes using their delicious peanuts as well as more information about their nuts, educational information and research about them too. Here’s a couple of facts you may have not known about the humble and delicious peanut: Texas is the only state to grow all four varieties (did you even know there were that many varieties?) and organic peanuts! Texas is the second largest peanut growing state in the nation! Americans eat 3 pounds of peanut butter per person every year. That’s about 700 million pounds, or enough to coat the floor of the Grand Canyon! I’m pretty sure I double that amount of peanut butter whether it be storebought or [homemade](https://www.oliveandmango.com/how-to-make-the-creamiest-homemade-nut-seed-butter/).
 </br>
 </br>
+
 ![Takeout Style Kung Pao Chicken](/images/uploads/2020_04_27_takeout_style_kung_pao_chicken_5.jpg)
 </br>
 </br>
@@ -44,6 +48,7 @@ Peanuts may not be an authentic add in where this dish originally hails from (Si
 Let talk more about the details of this recipe. Usually this dish is stir fried with celery and sweet peppers. I went with sweet peppers alone as my hubby isn’t a fan of celery in stir fry’s. You can take it or leave it and even experiment with other veggies like zucchini, carrots or some recipes add water chestnuts to this stir fry. The marinating process is also noteworthy. Marinating the chicken with soy sauce, wine, cornstarch and baking soda not only provides amazing flavour to the chicken but also helps ensure that it stays moist during its brief cooking period. This Chinese restaurant technique of using baking soda (bi-carb) is very common and the process is called velveting chicken. There’s a whole science behind it. It works and the chicken doesn’t need a lot of time to marinate - 10 minutes and you are good to go. There is something to be said about the spice levels in this dish as well: Dried Chinese chilies have this amazing power to pack a big punch and give you this numbing level of spiciness. I normally use about 8 whole dried chilies sliced with seeds removed. Feel free to cut that  down if you aren’t a fan of that much heat. This is definitely on the spicy side. It’s a  powerful spice without an enduring heat though. It’s addictive and there are never any leftovers when I make it. It’s the perfect take out meal made at home where you can customize it to your taste. Enjoy!
 </br>
 </br>
+
 ![Takeout Style Kung Pao Chicken](/images/uploads/2020_04_27_takeout_style_kung_pao_chicken_6.jpg)
 </br>
 </br>
@@ -134,4 +139,5 @@ __For the stir fry__
 
 Adapted from _Cafe Delites_ and _Recipe Tin Eats_
 </br>
+
 ![Takeout Style Kung Pao Chicken](/images/uploads/2020_04_27_takeout_style_kung_pao_chicken_7.jpg)

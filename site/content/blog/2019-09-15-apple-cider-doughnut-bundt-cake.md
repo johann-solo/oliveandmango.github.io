@@ -14,6 +14,7 @@ description: Essentially a giant cakey doughnut perfectly spiced with three opti
 Fall season is definitely upon us. That means apple picking and all the warm spiced baked goods. One of the best parts of going apple picking is getting some warm apple cider doughnuts when you are checking out. I’m pretty sure that is the only reason my hubby comes with me. They smell heavenly - you just can’t resist getting a few to enjoy there and some to take home. They smell like fall to me - so if you are looking for a fall treat and getting into the fall spirit like I am, this is defining the one. All the same flavours of apple cider doughnuts but in a beautiful bundt that is baked (not fried like the doughnuts are) so break out your bundt pans people. 
 </br>
 </br>
+
 ![Apple Cider Doughnut Bundt Cake](/images/uploads/2019_09_15_apple_cider_doughnut_bundt_cake_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Fall season is definitely upon us. That means apple picking and all the warm spi
 I am happy to be collaborating with <span class="highlight"><a rel="nofollow" href="https://ciroa.com">Ciroa</a></span> to bring you this delicious bundt cake recipe showcasing their beautiful bundt cake decorative pans. I made this recipe in their Scallop Decorative Cake Pan, their Swirl Decorative Cake Pan, their Acorns & Leaves Decorative Cake Pan and their Mini Cake Pan with Pumpkin & Leaves. The pans are a delight to use. They have a great non-stick layer which is helpful for unveiling a perfect bundt every time. I showcased my bundts on their pedestal cake stands with bamboo insert as well. 
 </br>
 </br>
+
 ![Apple Cider Doughnut Bundt Cake](/images/uploads/2019_09_15_apple_cider_doughnut_bundt_cake_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I am happy to be collaborating with <span class="highlight"><a rel="nofollow" hr
 Ciroa is an Australian based company with a diverse range of simply beautiful designs for your kitchen, tabletop and beyond, created in the spirit of Australia’s wonderfully spontaneous and relaxed entertaining style. Australian designed <span class="highlight"><a rel="nofollow" href="https://ciroa.com">Ciroa</a></span> brand can now be found in leading retailers, all over the world. Their style is bold and elegant with the goal of turning everyday tabletops into a unique expression of your individual stye. 
 </br>
 </br>
+
 ![Apple Cider Doughnut Bundt Cake](/images/uploads/2019_09_15_apple_cider_doughnut_bundt_cake_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ Ciroa is an Australian based company with a diverse range of simply beautiful de
 When it comes to bundts there is no reason to fear those intricate nooks and crannies. Embrace them. These Ciroa pans are great pans but no matter the pan I always love to coat them with my trusty cake pan release paste. This is the <span class="highlight"><a rel="nofollow" href="https://www.ifyougiveablondeakitchen.com/2016/07/05/grease-cake-pan-release/">one I us</a></span> it’s the simplest one to make. It’s equal parts vegetable shortening, vegetable oil and flour combined to make a paste and I usually make extra this time of year because it stores well for all the other bundts and cakes I will be making. 
 </br>
 </br>
+
 ![Apple Cider Doughnut Bundt Cake](/images/uploads/2019_09_15_apple_cider_doughnut_bundt_cake_5.jpg)
 </br>
 </br>
@@ -45,6 +49,7 @@ Of all the fall flavoured bundts you make this fall season make sure and squeeze
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://ciroa.com">Ciroa</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Apple Cider Doughnut Bundt Cake](/images/uploads/2019_09_15_apple_cider_doughnut_bundt_cake_6.jpg)
 </br>
 </br>
@@ -104,4 +109,5 @@ Bundt pans need to be generously buttered and floured so cakes don't stick; use 
 Adapted from _Martha Stewart_
 
 </br>
+
 ![Apple Cider Doughnut Bundt Cake](/images/uploads/2019_09_15_apple_cider_doughnut_bundt_cake_7.jpg)

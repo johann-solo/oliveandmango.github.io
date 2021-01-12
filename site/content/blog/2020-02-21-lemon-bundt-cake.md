@@ -14,6 +14,7 @@ description: A very moist and delicious Lemon bundt cake with a lemon glaze and 
 We all need a lemon bundt cake in our lives - especially a simple uncomplicated one that turns out perfectly every time. This is that bundt cake for me. It’s one of my favorites that I have been making for a long while originally by _Martha Stewart_. Deliciously moist and just the right amount of lemony flavour in it. I reduced the sugar by a bit from the original recipe and I also added a glaze and icing to mine -  totally not essential but I definitely recommend it for adding more citrus to each bite. 
 </br>
 </br>
+
 ![Lemon Bundt Cake](/images/uploads/2020_02_21_lemon_bundt_cake_2.jpg)
 </br>
 </br>
@@ -23,6 +24,7 @@ I decided that this was the recipe I would try Bob’s Red Mill Paleo Baking flo
 The reason why I chose this cake was not only because it’s a beloved one and I have been wanting to share it on the blog for a while now, but also because I was super confident that the blend of flours in the Paleo Baking flour would work really well with it. I had a strong suspicion that this cake would taste a lot like my revani [Greek semolina cake](https://www.oliveandmango.com/greek-semolina-cake-revani/). I was totally right - it has the same moistness as it and I love how well this cake really soaks in the glaze. 
 </br>
 </br>
+
 ![Lemon Bundt Cake](/images/uploads/2020_02_21_lemon_bundt_cake_3.jpg)
 </br>
 </br>
@@ -31,6 +33,7 @@ The reason why I chose this cake was not only because it’s a beloved one and I
 <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/paleo-baking-flour.html">Bob’s Red Mill Paleo Baking Flour</a></span> takes the guesswork out of grain-free baking. It’s a simple blend of almond, coconut, and tapioca flour. This simple flour blend makes it easy to create delicious baked goods like cakes, cookies, muffins, paleo pancakes, flatbreads, crackers and so much more. I wasn’t too sure if I would like it as an alternative/substitute to all purpose flour but I did. It makes for a bit of a denser cake as expected when you are baking with almond flour. So far I love using it just as much as I love using their Gluten Free 1-1 flour as a flour replacement and I foresee some waffles in the near future using this blend. Bob’s has you covered when it comes to all baking needs - Grain/Gluten Free, vegan or paleo - grab them on line or in store at wholefoods. 
 </br>
 </br>
+
 ![Lemon Bundt Cake](/images/uploads/2020_02_21_lemon_bundt_cake_4.jpg)
 </br>
 </br>
@@ -38,6 +41,7 @@ The reason why I chose this cake was not only because it’s a beloved one and I
 This cake is made with freshly squeezed lemon juice and lemon zest for maximum lemon flavours in it. It’s a cake for all ocassion and especially during citrus season when the lemons are extra fresh and in abundance! It requires super basic pantry staples making it so simple to make and you can use what we shape bundt pan you would like. Just make sure you grease your pan well - with butter or even baking spray - I mean every nook and cranny and your cake will come out of the pan flawlessly. Hope you love this one just as much as I do!
 </br>
 </br>
+
 ![Lemon Bundt Cake](/images/uploads/2020_02_21_lemon_bundt_cake_5.jpg)
 </br>
 </br>
@@ -45,6 +49,7 @@ This cake is made with freshly squeezed lemon juice and lemon zest for maximum l
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Lemon Bundt Cake](/images/uploads/2020_02_21_lemon_bundt_cake_6.jpg)
 </br>
 </br>
@@ -103,4 +108,5 @@ __Lemon Icing__
 </span>
 
 </br>
+
 ![Lemon Bundt Cake](/images/uploads/2020_02_21_lemon_bundt_cake_7.jpg)

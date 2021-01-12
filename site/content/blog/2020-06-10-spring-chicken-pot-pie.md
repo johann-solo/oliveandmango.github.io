@@ -14,6 +14,7 @@ description: One pan spring veggie loaded pot pie with a crispy phyllo pastry to
 This delicious one-pan spring chicken pot pie with spinach and herbs is quick to make and is topped with crispy phyllo pastry instead of puff pastry for a lighter finish. Perfect for when you want a hearty meal with all the fresh flavours of spring. 
 </br>
 </br>
+
 ![Spring Chicken Pot Pie](/images/uploads/2020_06_10_spring_chicken_pot_pie_2.jpg)
 </br>
 </br>
@@ -22,9 +23,11 @@ This delicious one-pan spring chicken pot pie with spinach and herbs is quick to
 This recipe like a lot of my recipes is all about some very useful kitchen hacks. This is a dish you can throw together super fast especially if you are like me and have some basics always stocked in your freezer. I always stock frozen peas and spinach and you will always find some puff pastry and phyllo in there too. They all come in handy. I love to add spinach to a lots of dishes I make especially curries and soups along with frozen peas so they are great to have to add some more nutrition, colour and protein to dishes. I also always add fresh or frozen spinach to my smoothies. Ofcourse fresh is great too but I often stock both fresh and frozen. 
 </br>
 </br>
+
 ![Spring Chicken Pot Pie](/images/uploads/2020_06_10_spring_chicken_pot_pie_3.jpg)
 </br>
 </br>
+
 ![Spring Chicken Pot Pie](/images/uploads/2020_06_10_spring_chicken_pot_pie_4.jpg)
 </br>
 </br>
@@ -32,9 +35,11 @@ This recipe like a lot of my recipes is all about some very useful kitchen hacks
 The puff pastry and the phyllo are perfect for pot pies and great for a quick tart or quick pies both savory and sweet. Another great hack is grocery store rotisserie chicken - not a week goes by that someone in my family doesnt pick one up on the way home. Leftovers from it make a great addition to this dish but also if you batch grill or roast chicken for the week like I know many of you amazing meal preppers do - you can use leftovers from that to make quick meals in general along with this fab chicken pot pie. It really saves you loads of time and you can easily make dishes like this one in no time along with my [Chicken Enchiladas](https://www.oliveandmango.com/easy-creamy-chicken-enchiladas/), [Green Chicken Chili](https://www.oliveandmango.com/quick-and-easy-green-chicken-chili/), [Chicken Tortilla Soup](https://www.oliveandmango.com/chicken-tortilla-soup-with-salsa-and-homemade-tortillas/), [Creamy Chicken And Wild Rice Soup](https://www.oliveandmango.com/chicken-tortilla-soup-with-salsa-and-homemade-tortillas/)
 </br>
 </br>
+
 ![Spring Chicken Pot Pie](/images/uploads/2020_06_10_spring_chicken_pot_pie_5.jpg)
 </br>
 </br>
+
 ![Spring Chicken Pot Pie](/images/uploads/2020_06_10_spring_chicken_pot_pie_6.jpg)
 </br>
 </br>
@@ -43,9 +48,11 @@ The puff pastry and the phyllo are perfect for pot pies and great for a quick ta
 Start by sautéing the leeks, garlic and mushrooms in butter and olive oil until softened and sweet. Deglaze the pan with a little wine wine if you are not opposed to a bit of wine otherwise you can deglaze with some broth. Then add the veggies and the chicken and allow to sauté until spinach is wilted. Sprinkle over the flour and stir it into the filling and then add the broth scraping up the bottom of the pot and stirring until slightly thickened. Stir in the crème fraîche or sour cream and then off the heat layer crinkled sheets of phyllo over filling, brush with olive oil and bake until golden. Easy as that for a hearty and delicious spring dinner. 
 </br>
 </br>
+
 ![Spring Chicken Pot Pie](/images/uploads/2020_06_10_spring_chicken_pot_pie_7.jpg)
 </br>
 </br>
+
 ![Spring Chicken Pot Pie](/images/uploads/2020_06_10_spring_chicken_pot_pie_8.jpg)
 </br>
 </br>
@@ -105,4 +112,5 @@ Total time: 40 min
 Adapted from _BBC Good Food_
 
 </br>
+
 ![Spring Chicken Pot Pie](/images/uploads/2020_06_10_spring_chicken_pot_pie_9.jpg)

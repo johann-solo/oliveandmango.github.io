@@ -14,6 +14,7 @@ description: An easy Greek-style marinade/ dressing sure to elevate anything you
 This versatile Greek marinade or dressing is  so easy to whip up a batch of and so versatile. And you can keep it on hand for those busy weeknights when you need something quick!
 </br>
 </br>
+
 ![All Purpose Greek Marinade](/images/uploads/2020_08_17_all_purpose_greek_marinade_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This versatile Greek marinade or dressing is  so easy to whip up a batch of and 
 With only a few simple ingredients it packs the chicken (or whatever you add it to) full of flavor and helps to tenderize the meat. I call it an all purpose Greek Marinade, because you can use it on just about anything.  I use it on chicken, pork and vegetables but it is amazing on steaks and lamb too and I know some of you love it as a salad dressing. It only takes a few minutes of marinating if you are using it with veggies and it’s also great to dress them with after they are grilled. When I use it as a meat marinade I allow the meat to hang out in it for 30 minutes before cooking it I’m rushing or overnight if I’m organized and have prepped in advance. You can use it for souvlaki- style cubed meat or for full pieces of meat. 
 </br>
 </br>
+
 ![All Purpose Greek Marinade](/images/uploads/2020_08_17_all_purpose_greek_marinade_3.jpg)
 </br>
 </br>
@@ -57,4 +59,5 @@ Can also be used on grilled veggies
 2. Let stand for at least 30 minutes or overnight before cooking or grilling 
 
 </br>
+
 ![All Purpose Greek Marinade](/images/uploads/2020_08_17_all_purpose_greek_marinade_4.jpg)

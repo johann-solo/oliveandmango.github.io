@@ -14,6 +14,7 @@ description: A soup loaded with mild peppers, mild salsa, mild green chili sauce
 This delicious and simple to make Green Chicken Chili uses mild peppers, a mild salsa, mild green chili sauce and rotisserie chicken for a quick, pantry chili soup. We love serving it with crispy tortilla chips and loaded with all the fresh fixings, a dollop of sour cream and ofcourse extra green chili sauce.
 </br>
 </br>
+
 ![Quick and Easy Green Chicken Chili](/images/uploads/2020_04_12_quick_and_easy_green_chicken_chili_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This delicious and simple to make Green Chicken Chili uses mild peppers, a mild 
 I’m always game for a quick chili. I do love the ones cooked low and slow but for a quick midweek meal I opt for all my quick chili recipes and this is one of my favorites. It’s made with pantry items that I usually keep stocked along with some frozen ones too. Canned green chilies, salsa verde, canned white beans and Tabasco Green Sauce are always stocked in my pantry. Canned green chilies make it into a lot of my southwestern dishes and I alway buy an extra can every time I make a recipe that requires them. Canned beans come in handy for so many meals and chips and dip are our choice of snacks so we always have some sort of tortilla chip in the house along with salsa verde. We prefer it over regular salsa. We just love that tang.
 </br>
 </br>
+
 ![Quick and Easy Green Chicken Chili](/images/uploads/2020_04_12_quick_and_easy_green_chicken_chili_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I’m always game for a quick chili. I do love the ones cooked low and slow but 
 That takes me to the Tabasco Green Sauce - my all time favorite sauce that I use on eggs, on tacos, my burrito bowls and so much more - we just love it and always have some on hand. It adds a fresh, tangy flavour to any meal without adding heat. It’s mild and can be used to season meals while they cook and after just like you would use salt and pepper.  I was so stoked to create a recipe using it for Tabasco and so stoked for you to try this recipe. I used it to season my chili by adding it to the pot while my spices sizzled and it added extra flavour to the meat and the chili on the whole. 
 </br>
 </br>
+
 ![Quick and Easy Green Chicken Chili](/images/uploads/2020_04_12_quick_and_easy_green_chicken_chili_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ That takes me to the Tabasco Green Sauce - my all time favorite sauce that I use
 One of the best things about chilies is that they are super versatile to make and can be made with ingredients you already have at home in your pantry, fridge and freezer. The possibilities are endless with meatless or vegan options to heartier ones with extra beans and meat. They make great leftovers because the flavours get even better the next day. This green chicken chili can be repurposed in many delicious ways. For example you can easily use it as a filling for either my creamy enchiladas or my easy stuffed poblanos. Two fabulous recipe with delicious southwestern flavours.
 </br>
 </br>
+
 ![Quick and Easy Green Chicken Chili](/images/uploads/2020_04_12_quick_and_easy_green_chicken_chili_5.jpg)
 </br>
 </br>
@@ -43,6 +47,7 @@ One of the best things about chilies is that they are super versatile to make an
 The main one is the chicken. I used leftover rotisserie chicken but you can easily swap it out for minced or ground chicken or even turkey. You can also poach your own. Or say you made a whole tray of chicken thighs the day before and you have some leftover, feel free to use them. I have made a combo of leftover rotisserie and ground chicken before. The point is - use what you got.
 </br>
 </br>
+
 ![Quick and Easy Green Chicken Chili](/images/uploads/2020_04_12_quick_and_easy_green_chicken_chili_6.jpg)
 </br>
 </br>
@@ -98,4 +103,5 @@ Serves 4-6
 Leftover green chili can be stored in the fridge for five days, or frozen for up to three months. Reheat gently on the stove. Leftover chili makes the perfect filling for my [creamy enchiladas](https://www.oliveandmango.com/stellar-creamy-enchiladas/) and my [stuffed poblanos](https://www.oliveandmango.com/easy-stuffed-poblano-peppers/)
 
 </br>
+
 ![Quick and Easy Green Chicken Chili](/images/uploads/2020_04_12_quick_and_easy_green_chicken_chili_7.jpg)

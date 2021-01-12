@@ -12,6 +12,7 @@ excerpt: A tart that is light, delicious and perfect as a dessert but can also d
 How fabulous is it to be able to serve a tart for dessert that is healthy enough to enjoy for breakfast too. This is one of those tarts. It’s perfect as a light dessert and also perfect for brunch or breakfast too.
 </br>
 </br>
+
 ![Greek Yoghurt Tart With a Poached Fruit Topping](/images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_2.jpg)
 </br>
 </br>
@@ -19,9 +20,11 @@ How fabulous is it to be able to serve a tart for dessert that is healthy enough
 The base is a lovely blend of oats and nuts sweetened with maple syrup. It’s baked for a short time which helps it keep it’s integrity. It itself is so delicious and so fragrant when baking. The original recipe calls for a mix of hazelnut and almonds but feel free to use one or the other to make up the full amount. The addition of the citrus is wonderful. It doesn’t overpower but adds a nice bright note to the crust and the filling. It would work just as well with lemon or lime if your prefer.
 </br>
 </br>
+
 ![Greek Yoghurt Tart With a Poached Fruit Topping](/images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_3.jpg)
 </br>
 </br>
+
 ![Greek Yoghurt Tart With a Poached Fruit Topping](/images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_4.jpg)
 </br>
 </br>
@@ -29,6 +32,7 @@ The base is a lovely blend of oats and nuts sweetened with maple syrup. It’s b
 The filling is made with a whipped Greek yoghurt, sweetened with powdered sugar but you most definitely can add in maple syrup or honey to sweeten if you would want to keep it refined sugar free. You can also sub vanilla yoghurt and sweeten to taste which saves you some time as well.
 </br>
 </br>
+
 ![Greek Yoghurt Tart With a Poached Fruit Topping](/images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_5.jpg)
 </br>
 </br>
@@ -36,9 +40,11 @@ The filling is made with a whipped Greek yoghurt, sweetened with powdered sugar 
 Let’s talk about that delicious topping. Pomerac also known as rose apple, Jamaican apple or more commonly Otaheite Apple is a very unique fruit who’s flesh is kind of spongy in texture. It has a very subtle sweetness with a hint of tartness. It resembles the shape of a pear with a bright red or pinkish very thin exterior that does not need to be peeled to eat. My mother In law was visiting and got her hands on some and had a few left over before she left that she handed off to me which I happily accepted.
 </br>
 </br>
+
 ![Greek Yoghurt Tart With a Poached Fruit Topping](/images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_6.jpg)
 </br>
 </br>
+
 ![Greek Yoghurt Tart With a Poached Fruit Topping](/images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_7.jpg)
 </br>
 </br>
@@ -46,9 +52,11 @@ Let’s talk about that delicious topping. Pomerac also known as rose apple, Jam
 I wanted to make a little something different with them instead of just eating them as is or making them into chow (pickled). I was seeing a lot of rhubarb in my IG feed and was missing it and then it clicked - the two are by no means similar in texture but thy are similar in colour and also similar in the fact that they both have some tartness associated to them and are perfect for poaching. I had a bottle of ice wine sitting waiting to be opened and I thought it would be perfect for poaching the pomerac in. Wine in general is wonderful for poaching fruit and the ice wine has an extra bit of sweetness and concentrated flavour. You can sub the ice wine with any white or rosé fruity wine or a non alcoholic one. You can also just sub it with water if you don’t want any other flavour in the topping.
 </br>
 </br>
+
 ![Greek Yoghurt Tart With a Poached Fruit Topping](/images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_8.jpg)
 </br>
 </br>
+
 ![Greek Yoghurt Tart With a Poached Fruit Topping](/images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_9.jpg)
 </br>
 </br>
@@ -56,6 +64,7 @@ I wanted to make a little something different with them instead of just eating t
 The pomerac is very much interchangeable with rhubarb and also perfect with stone fruit and berries as well so feel free to use the poaching liquid with any of those yummy fruits.
 </br>
 </br>
+
 ![Greek Yoghurt Tart With a Poached Fruit Topping](/images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_10.jpg)
 </br>
 </br>
@@ -63,6 +72,7 @@ The pomerac is very much interchangeable with rhubarb and also perfect with ston
 Assembling the tart is super easy but very important to remember that the crust layer although baked is still very porous and the yoghurt is very much wet even when you use a thick Greek yoghurt. If you put it together and refrigerate say overnight - it will be a little soppy (think overnight oats). So I very much recommend making each component ahead of time and putting it together right before serving. That way the crust stays crisp and delicious. Any leftovers are perfect especially for brekkie. It’s just like having oats, yoghurt and stirred fruit. Totally delicious!
 </br>
 </br>
+
 ![Greek Yoghurt Tart With a Poached Fruit Topping](/images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_11.jpg)
 </br>
 </br>
@@ -70,6 +80,7 @@ Assembling the tart is super easy but very important to remember that the crust 
 This tart will be on repeat all summer long - and if you can get your hands on some pomerac (I’m seeing them in market shots that my Trini friends are posting) definitely try poaching them for this topping or over ice-cream or on your breakfast oats and yoghurt. You will love it and this tart.
 </br>
 </br>
+
 ![Greek Yoghurt Tart With a Poached Fruit Topping](/images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_12.jpg)
 </br>
 </br>
@@ -131,4 +142,5 @@ __For thicker syrup__: Spoon out the pomerac with a slotted spoon and continue t
 Crust recipe adapted from _The Balanced Kitchen_
 
 </br>
+
 ![Greek Yoghurt Tart With a Poached Fruit Topping](/images/uploads/2018_06_05_greek_yoghurt_tart_with_a_poached_fruit_topping_13.jpg)

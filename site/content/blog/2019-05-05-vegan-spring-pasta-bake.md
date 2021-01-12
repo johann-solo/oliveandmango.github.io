@@ -14,6 +14,7 @@ description: The most delicious, fresh and vegan Spring pasta bake
 I have teamed up again with GoGo Quinoa to bring you a tasty pasta bake full of spring flavours.  With sweet asparagus, bright basil, and dollops of lemon zest spiked vegan ricotta, every bite tastes like spring!
 </br>
 </br>
+
 ![Vegan Spring Pasta Bake](/images/uploads/2019_05_05_vegan_spring_pasta_bake_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ I have teamed up again with GoGo Quinoa to bring you a tasty pasta bake full of 
 When it comes to gluten free pastas <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com">GoGo Quinoa</a></span> has quite the selection from quinoa to cauliflower and red lentil pasta.  I appreciate the unique texture of each one and I love that they maintain the same lovely ‘al dente’ texture as wheat pasta. They can also be used with all the ways you would use wheat pasta, this pasta bake included. For me personally GF pasta that has a blend of organic white rice in it is closest to the texture of wheat pasta. This rice and amaranth blended pasta is included in that category. It’s one of my hubby’s favorite as it taste close in texture to wheat pasta. I use to make separate pots of pasta for each of us but eventually he just started eating mine so we are down to one pot and he was quite happy with this particular pasta.
 </br>
 </br>
+
 ![Vegan Spring Pasta Bake](/images/uploads/2019_05_05_vegan_spring_pasta_bake_3.jpg)
 </br>
 </br>
+
 ![Vegan Spring Pasta Bake](/images/uploads/2019_05_05_vegan_spring_pasta_bake_4.jpg)
 </br>
 </br>
@@ -31,9 +34,11 @@ When it comes to gluten free pastas <span class="highlight"><a rel="nofollow" hr
 The pasta itself is great but even better in this pasta with a delicious sauce, loads of greens and veggies and a very delicious and flavourful vegan ricotta. Speaking of the ricotta - this is my first time making one with a blend of tofu and cashews. I love it and from now on this is my go to vegan ricotta recipe when I need ricotta in a recipe. It’s a recipe from Love & Lemons Everyday. I just reviewed the book and shared a recipe from it recently and came across this vegan ricotta that I knew would be perfect in this pasta bake.
 </br>
 </br>
+
 ![Vegan Spring Pasta Bake](/images/uploads/2019_05_05_vegan_spring_pasta_bake_5.jpg)
 </br>
 </br>
+
 ![Vegan Spring Pasta Bake](/images/uploads/2019_05_05_vegan_spring_pasta_bake_6.jpg)
 </br>
 </br>
@@ -41,9 +46,11 @@ The pasta itself is great but even better in this pasta with a delicious sauce, 
 The only thing I did was add some heat to it with a bit of harissa seasoning otherwise it’s unchanged. The texture is great on it and it’s loaded with flavour. My father had some of the dish and loved it and didn’t bat an eye. Even if if you don’t think it tastes like ricotta I dare you to try it and not like it.  If you would rather use ricotta in this recipe feel free to and add some Parmesan cheese on the pasta bake while you are at it. You can use vegan Parmesan to sprinkle onto it but I’m not into vegan parm so much or I haven’t found a blend I liked yet - if you have one you love let me know.
 </br>
 </br>
+
 ![Vegan Spring Pasta Bake](/images/uploads/2019_05_05_vegan_spring_pasta_bake_7.jpg)
 </br>
 </br>
+
 ![Vegan Spring Pasta Bake](/images/uploads/2019_05_05_vegan_spring_pasta_bake_8.jpg)
 </br>
 </br>
@@ -51,9 +58,11 @@ The only thing I did was add some heat to it with a bit of harissa seasoning oth
 This pasta bake includes some greens which I love and asparagus. What says spring more than asparagus?  You will love it! It’s a lightened up version of a more traditional pasta bake loaded with cheeses and creams. It’s just as comforting but without all the extra dairy and calories - a fresher lighter version. It’s a great addition to your meatless Monday or meatless one day a week lineup that will not disappoint.
 </br>
 </br>
+
 ![Vegan Spring Pasta Bake](/images/uploads/2019_05_05_vegan_spring_pasta_bake_9.jpg)
 </br>
 </br>
+
 ![Vegan Spring Pasta Bake](/images/uploads/2019_05_05_vegan_spring_pasta_bake_10.jpg)
 </br>
 </br>
@@ -115,4 +124,5 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 Adapted from _Very Well Fit_ and _Love and Lemons_ 
 
 </br>
+
 ![Vegan Spring Pasta Bake](/images/uploads/2019_05_05_vegan_spring_pasta_bake_11.jpg)

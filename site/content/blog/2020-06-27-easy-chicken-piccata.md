@@ -14,6 +14,7 @@ description: Chicken piccata is a delicious classic Italian chicken dish. Tender
 Chicken piccata is a delicious classic Italian chicken dish. Tender chicken cutlets are sautéed and served with a tangy lemon-butter sauce. It takes 20 minutes to make and can be paired with just about anything. Fancy enough for a dinner party but simple enough for a midweek dinner.  
 </br>
 </br>
+
 ![Chicken Piccata](/images/uploads/2020_06_27_easy_chicken_piccata_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ Chicken piccata is a delicious classic Italian chicken dish. Tender chicken cutl
 The word piccata is actually a method of preparing food. That method is simple and it involves a thin cut of meat (traditionally veal) which is sliced, coated/dredged in flour, sautéed and served in a delicious sauce. 
 </br>
 </br>
+
 ![Chicken Piccata](/images/uploads/2020_06_27_easy_chicken_piccata_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ The word piccata is actually a method of preparing food. That method is simple a
 It’s one of my favorite sauces as I love lemony butter sauces. The sauce’s bright, briny, and buttery flavors work well with veal and chicken the most common meats it’s made with but it’s also great with fish. This recipe combines wine, lemon juice and slices, broth and capers in a pan, they simmer away until reduced slightly then garlic and butter are added to make this sauce extra silky and delicious. 
 </br>
 </br>
+
 ![Chicken Piccata](/images/uploads/2020_06_27_easy_chicken_piccata_4.jpg)
 </br>
 </br>
@@ -38,6 +41,7 @@ It’s one of my favorite sauces as I love lemony butter sauces. The sauce’s b
 The description in the name really helps us appreciate how this delicious dish is made. A chicken breast is butterflied or sliced along its width. It can be flattened with a tenderiser if the pieces are thicker than you want. Traditionally it is seasoned and dredged in flour before being browned in butter or olive oil or a combination of both. The sauce is made using the pan drippings. Lemon juice and white wine are added and reduced. Shallots or garlic are often added along with capers and slices of lemon. After the sauce has reduced butter is stirred in to finish it off. What is not to love about that. I decided to make my version flourless using <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/almond-meal-flour.html">Bob’s Red Mill Super-Fine Almond Flour</a></span>. I have often had chicken or salmon rusted with almond meal or crushed almonds so I thought I would try almond flour for dredging the chicken in. It worked beautifully as a flour replacement for this chicken dish. 
 </br>
 </br>
+
 ![Chicken Piccata](/images/uploads/2020_06_27_easy_chicken_piccata_5.jpg)
 </br>
 </br>
@@ -45,6 +49,7 @@ The description in the name really helps us appreciate how this delicious dish i
 I have also made it with a combination of almond flour and Parmesan cheese. It’s absolutely delicious with the cheese but you have to be careful with the heat as the cheese tends to burn easily. Bob’s Red Mill Super-Fine Almond Flour is a great way to coat or crust chicken or any meat. It’s something I normally have stocked and great not only for baking but also in savoury recipes like this. Bob’s Red Mill has you covered when it comes to all of your baking needs while catering to those in your family who have specific food allergies. The almond flour worked really well at making this a gluten free recipe plus adding a little extra texture to the crust of the chicken. 
 </br>
 </br>
+
 ![Chicken Piccata](/images/uploads/2020_06_27_easy_chicken_piccata_6.jpg)
 </br>
 </br>
@@ -106,4 +111,5 @@ Total time: 25 min
 1. Stir in the wine, stock, capers, lemon juice, sliced lemons and spices and &frac14; teaspoon each of salt and pepper; boil until the sauce is reduced by half. Whisk in the remaining tbsp of butter until combined, then return the chicken to the skillet and let it gently cook through, about 2-3 minutes. Sprinkle the chicken with the parsley and serve with extra lemon wedges.
 
 </br>
+
 ![Chicken Piccata](/images/uploads/2020_06_27_easy_chicken_piccata_7.jpg)

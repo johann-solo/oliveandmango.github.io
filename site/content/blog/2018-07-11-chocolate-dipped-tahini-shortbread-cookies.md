@@ -15,6 +15,7 @@ description: Buttery, nutty and addictive bites of tahini shortbread cookies
 These tahini shortbread cookies are easy to make and dangerously addictive. Each bite will leave you craving for more and more. They are melt in your mouth delicious which crispy edges and a chewy center. What makes these even more addictive is the tahini in them giving them an earthy nutty flavour and adding a slight hint of savory richness to them too. To top it off they are dipped in chocolate adding another layer of flavour and sprinkled with sesame seeds for decoration and a bit of crunch. 
 </br>
 </br>
+
 ![Chocolate Dipped Tahini Shortbread Cookies](images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_2.jpg)
 </br>
 </br>
@@ -22,9 +23,11 @@ These tahini shortbread cookies are easy to make and dangerously addictive. Each
 Tahini is a paste made from ground sesame seeds, and is a staple in Middle Eastern cuisine and something that is commonly associated with savory dishes like hummus but it most certainly has its place in desserts as well. In fact I grew up mostly associating it with sweet treats like halva which is a sweet treat made from tahini.
 </br>
 </br>
+
 ![Chocolate Dipped Tahini Shortbread Cookies](images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_3.jpg)
 </br>
 </br>
+
 ![Chocolate Dipped Tahini Shortbread Cookies](images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_4.jpg)
 </br>
 </br>
@@ -32,9 +35,11 @@ Tahini is a paste made from ground sesame seeds, and is a staple in Middle Easte
 These cookies are truly simple to make. They have a high fat content like most shortbread cookies and therefore need to be refrigerated or placed in the freezer for a time before baking them, otherwise they are too soft to handle and roll. Once the batter is cold enough it’s quite easy to work with. I keep my batter in the fridge between baking each tray of them.
 </br>
 </br>
+
 ![Chocolate Dipped Tahini Shortbread Cookies](images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_5.jpg)
 </br>
 </br>
+
 ![Chocolate Dipped Tahini Shortbread Cookies](images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_6.jpg)
 </br>
 </br>
@@ -42,6 +47,7 @@ These cookies are truly simple to make. They have a high fat content like most s
 As far as short bread cookies go these have a wonderful crumb with a melt in your mouth kind of texture. Was it over the top to dip them in chocolate? Absolutely not cause the cookies are not overly sweet and the chocolate also adds a another layer of texture as do the sesame seeds, and a welcome cocoa flavor to them. They truly are delicious and addictive and a must to try! Hope you do give them a try. I know you will love them!
 </br>
 </br>
+
 ![Chocolate Dipped Tahini Shortbread Cookies](images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_7.jpg)
 </br>
 </br>
@@ -98,4 +104,5 @@ As far as short bread cookies go these have a wonderful crumb with a melt in you
 Adapted from _Food52_
 
 </br>
+
 ![Chocolate Dipped Tahini Shortbread Cookies](images/uploads/2018_07_12_dipped_tahini_shortbread_cookies_8.jpg)

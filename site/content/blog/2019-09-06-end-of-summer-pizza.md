@@ -15,6 +15,7 @@ This end of summer pizza is not only easy to make but it’s so tasty it will be
 If you are making it you will just have to plan ahead because the dough needs a little time to rise and rest. Sometimes I will make it a day or two before and have it ready to go in the fridge. 
 </br>
 </br>
+
 ![End of Summer Pizza](/images/uploads/2019_09_06_end_of_summer_pizza_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ If you are making it you will just have to plan ahead because the dough needs a 
 The ricotta is a fabulous choice for this pizza because it’s smooth and creamy and fluffy and baked up deliciously. I have also made it with my [whipped feta recipe](https://www.oliveandmango.com/zucchini-tart-with-whipped-feta-and-chives/). I usually double the amount for this sheet pan pizza. Just giving you options. 
 </br>
 </br>
+
 ![End of Summer Pizza](/images/uploads/2019_09_06_end_of_summer_pizza_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ The ricotta is a fabulous choice for this pizza because it’s smooth and creamy
 Ok let me tell why I really loved the idea of this pizza when I first saw the recipe on Epicurius.com. I love pizza with dressed arugula on my pizza so I thought I would definitely love this version too. I absolutely did and it reminded me of something. You know the delicious juice at the bottom of the salad bowl that you love to dip your crusty bread into (or am I the only one who does that?!?) - well that is what this pizza tastes like except even better. That’s because each bite has a bit of creamy ricotta in it along with some salty prosciutto. It’s phenomenal you guys and I know you will love it. Make sure and give it a try.
 </br>
 </br>
+
 ![End of Summer Pizza](/images/uploads/2019_09_06_end_of_summer_pizza_4.jpg)
 </br>
 </br>
@@ -59,4 +62,5 @@ Ok let me tell why I really loved the idea of this pizza when I first saw the re
 1. Whisk shallot, vinegar, and remaining 2 Tbsp. oil, salt and pepper to taste in a small bowl. Gently toss zucchini, tomatoes with the dressing. Pile the salad mixture evenly onto pizza. Garnish with all the basil and cut into slices.
 
 </br>
+
 ![End of Summer Pizza](/images/uploads/2019_09_06_end_of_summer_pizza_5.jpg)

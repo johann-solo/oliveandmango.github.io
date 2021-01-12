@@ -15,6 +15,7 @@ description: Tender chickpeas and garlic with tomatoes in tandoori spiced olive 
 This confit tandoori chickpea dish is the perfect way to spice up your chickpeas. It make the perfect appetizer, or meal. Feel free to have them with some flat bread or enjoy over rice as well. I have made a Mediterranean version of confit chickpeas before and love them the same way with warm pita bread or added to salads or other dishes as a condiment. I thought this tandoori version of them adds some nice warming spice to them- especially what I crave in the winter months. This vegan chickpea tandoori curry recipe really hits the spot and I recommend trying it out- it’s really simple and easy to make, and requires few ingredients to create this flavorful dish. 
 </br>
 </br>
+
 ![Confit Tandoori Chickpeas](/images/uploads/2021_01_03_confit_tandoori_chickpeas_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This confit tandoori chickpea dish is the perfect way to spice up your chickpeas
 This recipe is my take on Ottolenghi’s confit tandoori chickpeas. I used my one tandoori spice mix to add to this dish and we couldn’t get enough. I made this dish in partnership with Metro Ontario featuring their Irresistibles Life Smart chickpeas. These chickpeas are a healthy and nourishing choice. With no added salt, they are high in fibre, have a high iron content and are also a source of protein. They contain no artificial flavours or colours and are the perfect choice for this dish. You can cook your own but if you are using canned make sure to choose ones that have nothing added to them but water. 
 </br>
 </br>
+
 ![Confit Tandoori Chickpeas](/images/uploads/2021_01_03_confit_tandoori_chickpeas_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ This recipe is my take on Ottolenghi’s confit tandoori chickpeas. I used my on
 Confit simply means to slow cook in fat. Baking chickpeas low and slow in extra virgin olive oil with all the tandoori spices and tomatoes renders them creamy, flavorful, and even spreadable. Grab some of your favorite flat bread and enjoy these with them. The oil is wonderful to dip into and these chickpeas are also great over rice as well. This recipe is a basic one pot dump and stir kind of recipe - it basically makes itself.
 </br>
 </br>
+
 ![Confit Tandoori Chickpeas](/images/uploads/2021_01_03_confit_tandoori_chickpeas_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ Confit simply means to slow cook in fat. Baking chickpeas low and slow in extra 
 Make sure to use a good quality extra virgin olive oil for this recipe. If you have your own blend of tandoori spices that you would like to use feel free to do so - or you can switch up the spices to this for a different twist on confit chickpeas. The garlic is to die for in this recipe - regular [garlic confit](https://www.oliveandmango.com/easy-garlic-confit/) like the one I already have on the blog is one thing (one very delicious thing) - adding the tandoori spices tomatoes and the chili’s takes it to another level. The garlic becomes so tender and spreadable and cooking it low and slow always makes it sweetener and less pungent. The tomatoes melt into the oil making it almost sauce-like and richer. I like to use fresh tomatoes but you can use canned cherry tomatoes also - just expect the dish to be a little saucier. 
 </br>
 </br>
+
 ![Confit Tandoori Chickpeas](/images/uploads/2021_01_03_confit_tandoori_chickpeas_5.jpg)
 </br>
 </br>
@@ -88,4 +92,5 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 3. Serve right from the pan or transfer to platter sprinkled with chopped fresh coriander alongside, yoghurt, lime wedges, with warm basmati rice or flatbread 
 
 </br>
+
 ![Confit Tandoori Chickpeas](/images/uploads/2021_01_03_confit_tandoori_chickpeas_6.jpg)

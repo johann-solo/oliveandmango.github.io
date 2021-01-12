@@ -14,6 +14,7 @@ description: Creamy custard balanced with a fruity layer that is both sweet and 
  There is nothing quite like breaking through crème brûlée's crispy caramelized top into a thick creamy custard base - pure bliss. Heavy cream, and egg yolks gives this classic its silky, rich texture that's like no other dessert. I tampered with a classic and added white chocolate to the custard making deliciously richer and to temper its sweetness I added a layer of tart but sweet stewed currants. A riff on a classic combo of raspberries and white chocolate using currants in place of raspberries. When I start to see currants around I get so excited - my mind starts racing on what to do with them. This was the year for creme brûlée! 
 </br>
 </br>
+
 ![White Chocolate Currant Crème Brûlée](/images/uploads/2019_08_16_white_chocolate_currant_creme_brulee_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ description: Creamy custard balanced with a fruity layer that is both sweet and 
 I went to an event earlier this year (as a food blogger you get invited to a lot of events to help promote them- I’m picky about the ones I accept and attend) and sat and enjoyed a lovely meal with complete strangers amongst loads of beautiful flowers in a greenhouse. It was such a lovely place and dinner and of course every conversation there revolved around food, more food and flowers. We sat in front of a couple who were celebrating their anniversary and their daughter had gifted them tickets to this event - it was also a celebration of mom having her last chemo treatment.  What a special treat for them and a wonderful reason to celebrate. We chatted about food and family and the woman mentioned her all time favorite dessert being a raspberry white chocolate creme brûlée - it was a recipe from a well known chef which I can’t remember now even though I searched high and low for the recipe at the time with no success. It stuck and I knew I had to make it as my hubby loves all things custard. 
 </br>
 </br>
+
 ![White Chocolate Currant Crème Brûlée](/images/uploads/2019_08_16_white_chocolate_currant_creme_brulee_3.jpg)
 </br>
 </br>
+
 ![White Chocolate Currant Crème Brûlée](/images/uploads/2019_08_16_white_chocolate_currant_creme_brulee_4.jpg)
 </br>
 </br>
@@ -31,9 +34,11 @@ I went to an event earlier this year (as a food blogger you get invited to a lot
 I have to be honest though, creme brûlée’s, flans, and creme caramel have always intimidated me. The whole caramelizing (Burning) sugar always made me nervous along with the flan flip over (btw flan testing is so happening soon). Just another thing on the list I was not very confident in doing. I was determined though and I became a proud owner of a kitchen torch this year so I basically had no excuse.  I compared 4 different recipes and bring you this one. You don’t have to add the currant layer but I strongly recommend it. 
 </br>
 </br>
+
 ![White Chocolate Currant Crème Brûlée](/images/uploads/2019_08_16_white_chocolate_currant_creme_brulee_5.jpg)
 </br>
 </br>
+
 ![White Chocolate Currant Crème Brûlée](/images/uploads/2019_08_16_white_chocolate_currant_creme_brulee_6.jpg)
 </br>
 </br>
@@ -41,6 +46,7 @@ I have to be honest though, creme brûlée’s, flans, and creme caramel have al
 The custard is perfectly creamy and every bite has three layers of flavours - that tangy sweet fruit layer, the caramelized white chocolate  along with creme brûlée’s singnature layer of crunchy caramelized sugar. It’s so easy to make! Basically whisk your eggs and sugar, warm your cream and chocolate to melt the chocolate, incorporate the the two together, bake and then caramelize the sugar with a kitchen torch or under the broiler  before serving. Its almost like dinner with a show if you are ever serving these at a dinner party. If I can make these you definitely can. They are also served cool and make for a great summery dessert. Grab all the currants you can get your hands on and make this if you can - you won’t regret it! 
 </br>
 </br>
+
 ![White Chocolate Currant Crème Brûlée](/images/uploads/2019_08_16_white_chocolate_currant_creme_brulee_7.jpg)
 </br>
 </br>
@@ -91,4 +97,5 @@ __To brûlée or caramelize__
 2. You can also use a broiler to achieve this affect. Place the ramekins on a baking sheet, and place it on the topmost rack beneath the broiler. If using a broiler, make sure the ramekins are rotated to prevent uneven caramelization. Watch them closely, they will caramelize quickly and you don’t want to burn the sugar too long. 
 
 </br>
+
 ![White Chocolate Currant Crème Brûlée](/images/uploads/2019_08_16_white_chocolate_currant_creme_brulee_8.jpg)

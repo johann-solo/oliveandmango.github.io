@@ -12,9 +12,11 @@ excerpt: Delicate buttery crust hugging ripe and delicious stone fruit layered o
 There are three very delicious components to this crostata or galette if you will - yes they are completely interchangeable. One is French and one is Italian. I decided to use crostata for this one because the crust in it is a little lighter and more tart-like than galette-like and in my brain that equates to a crostata.
 </br>
 </br>
+
 ![Apricot Blueberry and Almond Cream Crostata](/images/uploads/2018_08_31_apricot_blueberry_and_almond_cream_crostata_2.jpg)
 </br>
 </br>
+
 ![Apricot Blueberry and Almond Cream Crostata](/images/uploads/2018_08_31_apricot_blueberry_and_almond_cream_crostata_3.jpg)
 </br>
 </br>
@@ -22,9 +24,11 @@ There are three very delicious components to this crostata or galette if you wil
 Let’s get into the thee components. First off let’s talk about the crust. Like I said it’s light and buttery and very tart like and is made of all purpose flour and ground hazelnut or almonds. To make it gluten free I would recommend using and 1-1 GF all purpose flour. You can do the same for the frangipane as well.  Substitute the all purpose flour for the same 1-1 GF (gluten free) one. I love sprinkling the sliced almond over the edges to give them a little more crunch but they also frame the tart beautifully with them on it. Adding them is completely optional though.
 </br>
 </br>
+
 ![Apricot Blueberry and Almond Cream Crostata](/images/uploads/2018_08_31_apricot_blueberry_and_almond_cream_crostata_4.jpg)
 </br>
 </br>
+
 ![Apricot Blueberry and Almond Cream Crostata](/images/uploads/2018_08_31_apricot_blueberry_and_almond_cream_crostata_5.jpg)
 </br>
 </br>
@@ -32,9 +36,11 @@ Let’s get into the thee components. First off let’s talk about the crust. Li
 The recipe makes two doughs and as I mention in the recipe you can either make two doubling up the frangipane and fruit or you can save the other one in the freezer for up to a month for another tart or galette either sweet or savoury.  I always love to have some extra dough in the freezer. It comes in handy for a quick savoury galette which is perfect for dinner or a quick fruit dessert. You can definitely make the dough ahead of time. If making the night before it’s best stored in the fridge. Any longer, keep in the freezer wrapped tightly with plastic wrap.
 </br>
 </br>
+
 ![Apricot Blueberry and Almond Cream Crostata](/images/uploads/2018_08_31_apricot_blueberry_and_almond_cream_crostata_6.jpg)
 </br>
 </br>
+
 ![Apricot Blueberry and Almond Cream Crostata](/images/uploads/2018_08_31_apricot_blueberry_and_almond_cream_crostata_7.jpg)
 </br>
 </br>
@@ -42,9 +48,11 @@ The recipe makes two doughs and as I mention in the recipe you can either make t
 Let’s move on to the frangipane layer. The yummiest layer by far for me. Another fancy word for a simple almond butter cream.  Don’t let the big name intimidate you. It is simple to make and the perfect addition to any galette. It provides a very soft creamy and delicious layer for the fruit to be nestled into. You can doctor up the almond cream by adding your favorite spice to it. You can also switch up the extract to almond instead. You can even put a few drops of your favorite booze to give it some extra flavour. Whatever you do, do not over do it!  Just a pinch or just a drop will do the trick with the frangipane. Below is a very simple classic one that I use in a lot of my tarts  and galettes. It’s made in the food processor and can be made 1-2 days ahead and stored in the fridge or frozen for up to 2 weeks and thawed overnight in the fridge.
 </br>
 </br>
+
 ![Apricot Blueberry and Almond Cream Crostata](/images/uploads/2018_08_31_apricot_blueberry_and_almond_cream_crostata_8.jpg)
 </br>
 </br>
+
 ![Apricot Blueberry and Almond Cream Crostata](/images/uploads/2018_08_31_apricot_blueberry_and_almond_cream_crostata_9.jpg)
 </br>
 </br>
@@ -52,9 +60,11 @@ Let’s move on to the frangipane layer. The yummiest layer by far for me. Anoth
 The fruit is really the show stopper in this sort of pasty dessert. I made this one because I love apricots and had several that were all at the same level of ripeness. I couldn’t eat all of them at the same time so I decided to use them in this crostata. They bake up with a little tartness so I paired the apricots with the blueberries which bake up nice and sweet and can offset the slight tartness of the apricots. Apricots also pair well with the almond cream as do all the stone fruits so feel free so substitute the apricots for plums, peaches or nectarines. They interchange fabulously as do the berries. Blueberries are in their prime right now as are blackberries so either of those would be lovely in this tart. The sprinkling of sugar over them caramelizes the edges of the fruit and uplifts they flavour. I sometimes will drizzle the tart with a little honey before serving or in this case dust with a bit of powdered sugar. It just adds a touch of extra sweetness but that too is totally optional.
 </br>
 </br>
+
 ![Apricot Blueberry and Almond Cream Crostata](/images/uploads/2018_08_31_apricot_blueberry_and_almond_cream_crostata_10.jpg)
 </br>
 </br>
+
 ![Apricot Blueberry and Almond Cream Crostata](/images/uploads/2018_08_31_apricot_blueberry_and_almond_cream_crostata_11.jpg)
 </br>
 </br> 
@@ -62,6 +72,7 @@ The fruit is really the show stopper in this sort of pasty dessert. I made this 
 This was a well received tart by my family. I brought it to a family bbq and we all enjoyed it. It’s not overly sweet and is just perfect with a scoop of ice cream too. My mom loved how buttery the pastry was and how much flavour the almond cream gave this simple fruit based dessert.  You can literally whip this up in an hour with very little hands on time. Cutting fruit and rolling the pasty and folding in the edges of it is basically all the muscle you will need for it.  The rest is don’t by the food processor and the oven.  The pastry is very forgiving too and is pretty easy to roll out. I think this is the perfect way to showcase some of the fabulous stone fruit in season right now so go ahead and make it your baking project for the long weekend. You will love it!!
 </br>
 </br>
+
 ![Apricot Blueberry and Almond Cream Crostata](/images/uploads/2018_08_31_apricot_blueberry_and_almond_cream_crostata_12.jpg)
 </br>
 </br>

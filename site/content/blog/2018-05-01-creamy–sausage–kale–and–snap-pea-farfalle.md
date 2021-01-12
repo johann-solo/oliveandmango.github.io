@@ -12,6 +12,7 @@ excerpt: A pasta that's creamy, delicious and full of veggies.
 This past dish has just the right amount of greens and the right amount of comfort! Pasta is my kryptonite, or more accurately a degree of my kryptonite. Basically I love all savoury doughy things and pasta is high up on the list. Add cheese and cream and its a triple threat. I don’t eat that combo often but when I do I want it rich creamy and delicious. This is exactly what this dish offers. The lemon brightens this dish up and makes it feel like a lighter version of itself.
 </br>
 </br>
+
 ![Creamy Sausage Kale And Snap Pea Farfalle](/images/uploads/2018_05_01_creamy–sausage–kale–and–snap_pea_farfalle_2.jpg)
 </br>
 </br>
@@ -19,6 +20,7 @@ This past dish has just the right amount of greens and the right amount of comfo
 I’m a lover of greens and this pasta is fabulous because you can incorporate all the greens in season. I love the heartiness of kale and how well it goes with the sausage, but this would be equally delicious with spinach too. I love sugar snap peas and regular peas and even green beans in this dish. They have a very springy feel and add a little extra texture, a little sweetness and extra veggies, and with all the cheese and cream - we need all the veggies we can get in this dish. Somehow I feel less guilty about the cream and cheese when there’s this many veggies in a dish. They have a counteracting effect is what I keep telling myself.
 </br>
 </br>
+
 ![Creamy Sausage Kale And Snap Pea Farfalle](/images/uploads/2018_05_01_creamy–sausage–kale–and–snap_pea_farfalle_3.jpg)
 </br>
 </br>
@@ -26,6 +28,7 @@ I’m a lover of greens and this pasta is fabulous because you can incorporate a
 You can use any pasta you like for this dish as well. We love bow tie past or farfalle. We love the texture or bite the middle of the bow tie has and also how the bow tie’s folds or creases create the perfect vessel for more sauce on you pasta and in your mouth. Orchiette would be fabulous as well! I usually use GF pasta but you can use any shape, size, or kind according to your taste.
 </br>
 </br>
+
 ![Creamy Sausage Kale And Snap Pea Farfalle](/images/uploads/2018_05_01_creamy–sausage–kale–and–snap_pea_farfalle_4.jpg)
 </br>
 </br>
@@ -33,6 +36,7 @@ You can use any pasta you like for this dish as well. We love bow tie past or fa
 I love the flavours the sausage adds to the dish but you can keep it completely vegetarian if you would like or you can substitute bacon if you wanted to as well. I served this dish with more greens. My friend in Tobago who runs a pizza shop gifted me this bottle of rapini which I absolutely love and can eat it straight from the jar. I added a splash more lemon juice too it and it become our side salad with this dish along with a glass of wine.
 </br>
 </br>
+
 ![Creamy Sausage Kale And Snap Pea Farfalle](/images/uploads/2018_05_01_creamy–sausage–kale–and–snap_pea_farfalle_5.jpg)
 </br>
 </br>
@@ -82,4 +86,5 @@ This is the kind of meal that when it’s completed you feel totally satisfied a
 Inspired by _Saveur_
 
 </br>
+
 ![Creamy Sausage Kale And Snap Pea Farfalle](/images/uploads/2018_05_01_creamy–sausage–kale–and–snap_pea_farfalle_6.jpg)

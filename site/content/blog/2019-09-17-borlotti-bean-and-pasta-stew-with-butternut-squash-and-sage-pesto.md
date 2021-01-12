@@ -14,6 +14,7 @@ description: Pasta e fagioli is a comforting Italian soup full of delicious Borl
 This classic Italian creamy pasta and bean soup/stew gets a Fall twist with butternut squash, borlotti beans, and a bright sage pesto, it’s perfect for those chilly autumn evenings. Fall is fast approaching - literally days away by the calendar but the temperature has been feeling fall-like for the last week or two. I am not looking forward to the drop in temps but I do love fall flavours and warm and cozy drinks and foods especially soups and stews.
 </br>
 </br>
+
 ![Borlotti Bean and Pasta Stew With Butternut Squash and Sage Pesto](/images/uploads/2019_09_17_borlotti_bean_and_pasta_stew_with_butternut_squash_and_sage_pesto_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This classic Italian creamy pasta and bean soup/stew gets a Fall twist with butt
 This is one of these meals that warms the soul and fills the belly with all the nourishing veggies and pasta - it feels like comfort food but of the good kind. The kind you don’t have to detox after. Another great thing about it is that it all cooks in one pot. You don’t have to cook the pasta separately because you want the soup to thicken slightly and the pasta really helps that happen naturally as it cooks. The key to a good Pasta e fagioli — literally “pasta and beans” is the flavours the pasta is cooked in. The onions, garlic and veggies create the back bone of flavours along with the added herbs and seasoning. Traditionally some of the beans are puréed with some of the sauce to create an even creamier stew but I don’t usually do that - I think the stew is thick enough without having to purée any thing.  The starch from the pasta cooking does it all. There are many variations of this dish and you can really make it your own by using what you have in the pantry when it comes to beans and in the fridge when it comes to herbs and veggies. Have fun with it and experiment. 
 </br>
 </br>
+
 ![Borlotti Bean and Pasta Stew With Butternut Squash and Sage Pesto](/images/uploads/2019_09_17_borlotti_bean_and_pasta_stew_with_butternut_squash_and_sage_pesto_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ This is one of these meals that warms the soul and fills the belly with all the 
 I partnered up with GoGo Quinoa for his recipe and I really couldn’t wait to use their <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/anelli-vegetable-pasta/">Organic Anelli Rice & Quinoa Vegetable & Turmeric</a></span> blend pasta to make this classic Italian soup. This soup is usually made with short pasta and this was the perfect pasta shape for it. This gluten free bite sized pasta of premium quality is made with a blend of organic quinoa and white rice flour. It’s a tricolor pasta and the colours are obtained naturally from beets, spinach and turmeric. It’s the perfect addition to this soup and any soup and great as a pasta salad as well. It holds up really well and that is why I cooked it right in the soup as opposed to boiling it separately and adding it in to the soup after, although that is an option. If I can make any meal one-pan or pot I will and it worked well with this soup. 
 </br>
 </br>
+
 ![Borlotti Bean and Pasta Stew With Butternut Squash and Sage Pesto](/images/uploads/2019_09_17_borlotti_bean_and_pasta_stew_with_butternut_squash_and_sage_pesto_4.jpg)
 </br>
 </br>
@@ -39,6 +42,7 @@ I wanted a Fall twist on this and got inspired by a Fine Cooking recipe that add
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com">GoGo Quinoa</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Borlotti Bean and Pasta Stew With Butternut Squash and Sage Pesto](/images/uploads/2019_09_17_borlotti_bean_and_pasta_stew_with_butternut_squash_and_sage_pesto_5.jpg)
 </br>
 </br>
@@ -127,4 +131,5 @@ If using dried Borlotti beans, soak them in water overnight, then drain. Simmer 
 Adapted From _Fine Cooking_
 
 </br>
+
 ![Borlotti Bean and Pasta Stew With Butternut Squash and Sage Pesto](/images/uploads/2019_09_17_borlotti_bean_and_pasta_stew_with_butternut_squash_and_sage_pesto_6.jpg)

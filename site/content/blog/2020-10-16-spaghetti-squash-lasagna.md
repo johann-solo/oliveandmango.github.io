@@ -15,6 +15,7 @@ description: Strands of roasted spaghetti squash layered with marinara sauce, 3 
 This tasty and nutrient dense twist on lasagna uses spaghetti squash instead of pasta. Strands of roasted spaghetti squash are layered with marinara sauce, mozzarella and a veggie loaded ricotta cheese mixture, then baked in the oven until the cheese is melted and all the flavors bake together. It’s naturally a gluten-free and vegetarian bake up. To make this recipe vegan you can either omit the cheese altogether or make it using my [vegan ricotta blend](https://www.oliveandmango.com/vegan-spring-pasta-bake/) which is soooo tasty. As for the mozzarella - you may have to use a prepared one like Daiya which is sold in most grocery stores including Metro. Same goes for the Parmesan cheese - nutritional yeast is often a good option. 
 </br>
 </br>
+
 ![Spaghetti Squash Lasagna](/images/uploads/2020_10_16_spaghetti_squash_lasagna_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This tasty and nutrient dense twist on lasagna uses spaghetti squash instead of 
 I teamed up with Metro to create a recipe using spaghetti squash and this is a variation of one I love to make using spaghetti squash. The flavor and texture is not exactly like pasta, but it’s strands are reminiscent of it and it has a mild taste which lends itself well to sauces you would normally eat pasta with. This is also technically not a lasagna since there is no pasta in this dish, but it’s layered like a lasagna. I used Metro’s in house brand Irresistibles Tomato basil sauce which is handy to have in a pinch if you already went through your stash of homemade marinara. The ricotta mixture is a blend of cheese along with onion garlic mushrooms and kale. It’s absolutely delicious and although you could just use ricotta on its own I think adding the extra flavourings and veggies is worth the extra bit of effort. 
 </br>
 </br>
+
 ![Spaghetti Squash Lasagna](/images/uploads/2020_10_16_spaghetti_squash_lasagna_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ I teamed up with Metro to create a recipe using spaghetti squash and this is a v
 If it’s your first time making anything with spaghetti squash have no fear - it’s easy to cook and takes only afew steps to prepare. The first step is roasting the squash. There are many ways to roast squash but the easiest I have found is just slicing it lengthwise and roasting it face down until tender. It usually takes 45-60 minutes to roast squash this way depending on the size ofcourse. After that you just let it cool enough to handle and use a fork to gently separate your ‘spaghetti’ strands. It can be roasted ahead of time to save time for when you want to use it like in this lasagna - making prep a little faster and easier.  Full details below in the recipe notes. 
 </br>
 </br>
+
 ![Spaghetti Squash Lasagna](/images/uploads/2020_10_16_spaghetti_squash_lasagna_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ If it’s your first time making anything with spaghetti squash have no fear - i
 Now one common complaint about spaghetti squash is that it can get soggy or that it’s too wet. There are many tips out there to help with this like salting it after its sliced open and letting it sit to draw out out its moisture, or slicing it across the width into 1 inch rings and roasting it that way - apparently suppose to help roast off the moisture. I find that there is still moisture present even after these techniques are used.  When I make this lasagna I make sure to not introduce too much extra moisture into it. For example I will cook off any extra liquid from the veggies before adding them to the ricotta. I will also use a very thick marinara sauce.  If I’m making my own I make sure to cook off as much liquid in it as possible. When it comes to the spaghetti squash itself, once I start pulling away strands I place them on a paper towel (or clean dish cloth) lined baking dish and then I gently pat them with more paper towels to get a lot of the moisture out of them before layering them in the baking dish. 
 </br>
 </br>
+
 ![Spaghetti Squash Lasagna](/images/uploads/2020_10_16_spaghetti_squash_lasagna_5.jpg)
 </br>
 </br>
@@ -43,6 +47,7 @@ Now one common complaint about spaghetti squash is that it can get soggy or that
 When it comes to the flavor of spaghetti squash it has a very mild, almost neutral flavor and subtly sweet but not as sweet as other winter squashes like acorn and butternut. When it comes to the texture of the noodles they have a slight crunch to them. Spaghetti squash is considered a nutrient-dense food, which means it's low in calories but high in vitamins and minerals. Whether you’re aim is more veggies or fewer carbs or just a new way to enjoy spaghetti squash, this recipe is a sure bet. My family gobbled it up in no time. Your family will not be fooled into thinking it’s actually pasta but they will be pleasantly surprised at how delicious this ‘lasagna’ is without a trace of pasta in it. That being said, you can use regular spaghetti or even a combination of the two. Enjoy!
 </br>
 </br>
+
 ![Spaghetti Squash Lasagna](/images/uploads/2020_10_16_spaghetti_squash_lasagna_6.jpg)
 </br>
 </br>
@@ -111,4 +116,5 @@ Total time: 1 hr 50 min
 * Make ahead: The spaghetti squash strands can be stored in an airtight container in the fridge for up to a week. So feel free to roast yours ahead of time to save time when making this lasagna. 
 
 </br>
+
 ![Spaghetti Squash Lasagna](/images/uploads/2020_10_16_spaghetti_squash_lasagna_7.jpg)

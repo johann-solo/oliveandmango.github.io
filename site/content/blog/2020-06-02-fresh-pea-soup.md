@@ -14,6 +14,7 @@ description: A traditional French soup that's simple and luscious creamy.
 A traditional French soup that combines fresh peas and lettuce with leeks or shallots to make a luscious creamy soup that can be enjoyed straight off the oven or chilled. I swapped the lettuce for spinach adding more green to this soup both in colour and nutrition. It’s a delicious way to celebrate spring! Made with fresh or frozen peas, a touch of creme fraiche, and fresh chives,. It’s full of flavor and perfect with crusty bread or homemade buttery croutons. 
 </br>
 </br>
+
 ![Fresh Pea Soup (Potage Saint-Germain)](/images/uploads/2020_06_02_fresh_pea_soup_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ A traditional French soup that combines fresh peas and lettuce with leeks or sha
 This is a very light soup especially in comparison to a split pea soup which tends to be a bit more hearty, rich and filling. I crave my [split pea soup](https://www.oliveandmango.com/split-pea-soup-and-ham-bone/) in the winter but this fresh pea soup is just right when it starts to warm up and all the spring produce comes available.  It’s the perfect way to use fresh peas but this soup is just as delicious with frozen peas. It is just as wonderful hot or chilled. Take advantage of the fresh peas and enjoy this seasonal soup.
 </br>
 </br>
+
 ![Fresh Pea Soup (Potage Saint-Germain)](/images/uploads/2020_06_02_fresh_pea_soup_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ This is a very light soup especially in comparison to a split pea soup which ten
 Often times you can buy fresh peas already shelled at the grocery store but there is something about shelling them for yourself. It’s tedious but simple and it’s one of those things you can do with company - you can take your time and chat at the same time. To do it, remove the stem end of the pod, peel the stringy fiber from the seam, pry the pod open, and run your thumb along the interior to detach the peas. [Fine Cooking](https://www.finecooking.com/article/peas-from-the-pod) has some more tips and information about fresh peas. 
 </br>
 </br>
+
 ![Fresh Pea Soup (Potage Saint-Germain)](/images/uploads/2020_06_02_fresh_pea_soup_4.jpg)
 </br>
 </br>
@@ -90,4 +93,5 @@ Servings: <span itemprop="recipeYield">Serves 4-6
 1. Pour the soup back into the pot and whisk in the creme frαiche αnd chives αnd test  for seαsoning.
 
 </br>
+
 ![Fresh Pea Soup (Potage Saint-Germain)](/images/uploads/2020_06_02_fresh_pea_soup_5.jpg)

@@ -14,6 +14,7 @@ description: Gluten free all purpose sponge layer cake
 This Almond Flour Cake is light and fluffy, with a wonderfully rich flavour. Almond flour gives this cake a subtle nutty flavour, and it’s amazingly light and fluffy for having such a simple ingredient list. Almond flour works to tenderize and flavor. It has a rich flavour and pairs beautifully with summer fruits like strawberries, raspberries, blackberries and cherries. It’s by far my favoriting gluten free cake on the blog and dare I say my favorite layer cake in general on the blog. I served it and no one knew it was flourless and naturally gluten free. It’s that amazingly light and fluffy and delicious. 
 </br>
 </br>
+
 ![Lemon Blackberry Gluten Free Almond Flour Layer Cake](/images/uploads/2020_08_22_lemon_blackberry_gluten_free_almond_flour_layer_cake_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This Almond Flour Cake is light and fluffy, with a wonderfully rich flavour. Alm
 I used my go to for <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/almond-meal-flour.html">almond flour</a></span> by Bob’s Red Mill to make this cake. Their Almond Flour is made from the finest California-grown almonds, which have been blanched and ground to a fine meal that is ideal for gluten free baking. Bobʼs Red Mill has all the products you need for all your baking needs while catering to those in your family who have specific food allergies This is actually the first layer cake I’m sharing on the blog that is solely made of almond flour with the exception of the touch of <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/organic-coconut-flour.html">coconut flour</a></span> in it. It’s naturally gluten free, the nut flour stepping in for any wheat. It’s one of my go to recipes for gluten free baking when I want to make a layer cake that turns out pretty perfect every time. 
 </br>
 </br>
+
 ![Lemon Blackberry Gluten Free Almond Flour Layer Cake](/images/uploads/2020_08_22_lemon_blackberry_gluten_free_almond_flour_layer_cake_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ It’s a recipe I have made and loved from _Epicurious_. That version is a cocon
 You can use any fruity curd you would like and even a layer of jam that you like, or you could simply frost it in between layers. There are many options and fun ways to fill and top this cake. 
 </br>
 </br>
+
 ![Lemon Blackberry Gluten Free Almond Flour Layer Cake](/images/uploads/2020_08_22_lemon_blackberry_gluten_free_almond_flour_layer_cake_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ You can use any fruity curd you would like and even a layer of jam that you like
 When it comes to the frosting I did a basic buttercream adding some of the blackberry purée for colour. The more purée you add the more more colour you will see in the buttercream. As I mentioned in the recipe notes below - this makes enough frosting to make a baked cake - feel free to double if you want thick layers of frosting. I have also made this cake with a simple [vanilla stabilized whip cream](https://www.oliveandmango.com/stabilized-whipped-cream/) for the frosting. I made a double batch of it and did thick layers it with fresh strawberries in between - so so good! 
 </br>
 </br>
+
 ![Lemon Blackberry Gluten Free Almond Flour Layer Cake](/images/uploads/2020_08_22_lemon_blackberry_gluten_free_almond_flour_layer_cake_5.jpg)
 </br>
 </br>
@@ -44,6 +48,7 @@ When it comes to the frosting I did a basic buttercream adding some of the black
 Let’s talk eggs. Your eggs must be room temperature because essentially you are whipping the whites into a meringue. So the same rules apply to the eggs in this cake.  You may think - wow 10 eggs?!? That is a whole lotta eggs! And yes their are plenty of eggs in this cake just like there is in classic chiffon cakes, sponge cakes or angel food cakes.  Most of these cakes have no added leavening, but depend on the air beaten into egg whites, egg yolks or whole eggs for their high rise and tender texture. It's the air beaten into the eggs and the evaporation of steam during baking that lift and lighten them. Beating the whites with some cream of tartar, which is an acid helps stabilize the delicate foam. The eggs are essential for that lift especially in a cake with no leavening or flour in it.  It may seem like a lot of eggs but keep in mind that you are making three layers essentially three cakes. Also these cakes need to be cooled inverted to prevent them from sinking and losing their lift - this one included.  
 </br>
 </br>
+
 ![Lemon Blackberry Gluten Free Almond Flour Layer Cake](/images/uploads/2020_08_22_lemon_blackberry_gluten_free_almond_flour_layer_cake_6.jpg)
 </br>
 </br>

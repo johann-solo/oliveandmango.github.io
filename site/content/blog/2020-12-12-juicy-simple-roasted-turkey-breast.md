@@ -15,6 +15,7 @@ description: Perfect Tender and juicy turkey everytime
 This roasted turkey breast is roasted to golden brown perfection. The perfect quick and easy no fail option for entertaining a smaller group or everyday dinners. It’s tender, flavorful and juicy – no dry meat here!
 </br>
 </br>
+
 ![Juicy Simple Roasted Turkey Breast](/images/uploads/2020_12_12_juicy_simple_roasted_turkey_breast_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This roasted turkey breast is roasted to golden brown perfection. The perfect qu
 This has to be one of the easiest and most customizable roasted turkey breast recipes I have ever made. It’s one I love because it’s so easy but also because it’s so versatile. There’s very few steps involved in making this delicious and juicy turkey breast. I start the process by salting my turkey breast generously. Salting not only flavours the turkey but it also tenderizes it. You can salt and allow the turkey to sit out of the fridge at room temperature for 30-40 minutes or you can even salt it and refrigerate it uncovered over night which will do all those things I mentioned above plus help it dehydrate the skin allowing it to crisp up beautifully when roasted. It’s a simple step but one that I always leave room for. 
 </br>
 </br>
+
 ![Juicy Simple Roasted Turkey Breast](/images/uploads/2020_12_12_juicy_simple_roasted_turkey_breast_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ This has to be one of the easiest and most customizable roasted turkey breast re
 As you notice the recipe calls for only salt and pepper as the primary seasoning for the turkey. I love it simple just like that but sometimes I will add extra seasoning to the butter making it a herbs and garlic rub by adding finely chopped fresh herbs and minced garlic or I will add dry seasoning blends into the butter - any kind you like or are feeling for. Adding a few tsps of spices to the butter will help add the flavours of it to every part of the turkey. This is the part that is easily customizable so feel free to add what you like to the butter.  I used fresh herbs and garlic to rest the turkey over and this adds flavour to it and the pan drippings. I serve the garlic with the turkey as they are perfectly soft and can be eaten like that or even smeared on crusty bread. Feel free to switch up the herbs according to your taste as well. 
 </br>
 </br>
+
 ![Juicy Simple Roasted Turkey Breast](/images/uploads/2020_12_12_juicy_simple_roasted_turkey_breast_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ As you notice the recipe calls for only salt and pepper as the primary seasoning
 The butter makes all the difference in this recipe. Do not skimp on it and you can even add more as my notes below explain further. I love the flavours of the pan juices created by the butter and the natural juices of the turkey along with the herbs and garlic that eventually make it to the bottom of the pan. It’s super rich and you only need a tsp or so per serving to pour over. I prefer my turkey breast served with the butter pan juices but if you like a traditional gravy I have included how to make it with the pan juices in the notes below. 
 </br>
 </br>
+
 ![Juicy Simple Roasted Turkey Breast](/images/uploads/2020_12_12_juicy_simple_roasted_turkey_breast_5.jpg)
 </br>
 </br>
@@ -43,6 +47,7 @@ The butter makes all the difference in this recipe. Do not skimp on it and you c
 There’s really so many ways to cook turkey and turkey breast out there. Many recipe say cover turkey the whole time other say don’t season under the skin of the turkey as it’s pointless or risk tearing skin, some say never baste cause the fluctuation of oven temperature from opening and closing it will affect the bird. I think all those points may have a bit of merit but on the whole I have found this simple method of roasting the breast to be the easiest and has also proved to yield the most consistent result. I hope you find it just as easy and delicious. Enjoy! 
 </br>
 </br>
+
 ![Juicy Simple Roasted Turkey Breast](/images/uploads/2020_12_12_juicy_simple_roasted_turkey_breast_6.jpg)
 </br>
 </br>
@@ -97,4 +102,5 @@ I served my turkey with my [Roasted Brussel Sprouts and Grapes With Bacon](https
 * Although minimally seasoned this is definitely not a bland bird. If you would like to add more seasoning feel free too. I like to add minced fresh herbs and garlic to the butter to add more flavour or you can actually add any dry rub seasoning to it too. You can add lemon pepper, Cajun seasoning, Mexican seasoning, harissa seasoning, the list goes on. Adding a few tsp of spices to the butter will help add the flavours of it to every part of the turkey.
 
 </br>
+
 ![Juicy Simple Roasted Turkey Breast](/images/uploads/2020_12_12_juicy_simple_roasted_turkey_breast_7.jpg)

@@ -18,6 +18,7 @@ What camera do you use? This is one of the most commonly asked questions we get.
 If you aren't sure of what you are going to be shooting, or whether or not this is going to be a serious (or not so serious) hobby or even your new career, it probably means you don't want to invest too heavily to start. You probably just want to dip your toes in to see first. I'm a Canon shooter but at this stage most pro or semi-pro brands will give you roughly the same results – each with its own strengths and weakness. What you want to do at this stage is to gather experience, learn composition, editing and find your own style. These all take time.
 </br>
 </br>
+
 ![Canon 5D Mark 1 with 50mm lens](/images/uploads/2018_12_15_beginner_cameras_for_food_photography_1.jpg)
 </br>
 </br>
@@ -33,6 +34,7 @@ Get a **Canon 5D Mark 1** also known now as the Canon 5D Classic. At the time th
 First off this thing is a full frame camera. There are a tonne of benefits of this but the most immediate advantage is that it's great in low light. I was amazed that it blew away my newer T6 in this respect. There are also some intangible advantages too. There is something about the colours or the picture quality that set the images apart. Maybe it's the pixel density.  
 </br>
 </br>
+
 ![Canon 5D Mark 1 with 50mm lens](/images/uploads/2018_12_15_beginner_cameras_for_food_photography_2.jpg)
 </br>
 </br>

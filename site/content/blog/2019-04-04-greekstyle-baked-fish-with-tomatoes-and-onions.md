@@ -14,6 +14,7 @@ description: A Greek style fish that's a little taste of Corfu.
 I really enjoy seafood but often feel like I’m in a bit of a rut when it comes to how to cook it. I usually do lots of lemon and herbs or curried or blackened when it comes to preparing white fish. Although all those flavor are delicious, it’s always nice to add a new one every once in a while that is just as simple and delicious. I teamed up with Pomi USA to bring you a recipe just like that using their <span class="highlight"><a rel="nofollow" href="https://www.pomi.us.com/en-us/products/organic-line/organic-strained-tomatoes-bottle/17-6-oz/">Organic Finely Chopped Tomatoes</a></span>. If you aren’t too familiar with Pomi, let me share a few things that I like about them. Pomi is synonymous with Italian quality, and tomato traceability. You can actually trace their products from the store shelf to the field where the tomatoes were grown. Their products are 100% Italian and 100% sustainable from environmental, economical, ethical and social stand points. It’s a brand I love to use in my kitchen, and I couldn’t wait to start recipe testing.
 </br>
 </br>
+
 ![Greekstyle Baked Fish With Tomatoes and Onions (Bourdeto)](/images/uploads/2019_04_04_greekstyle_baked_fish_with_tomatoes_and_onions_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ I really enjoy seafood but often feel like I’m in a bit of a rut when it comes
 I wanted to make something light as spring is in the air and thought of a recipe or a version of a recipe my mom use to make. It’s like a fish stew that is baked and I remember it always having the most flavourful sauce. The thing is though, you are not going to get any measurements or specifics when you cook with my mom so I had to do a little research. Her version comes out differently every time too, as she adds things that she might have in the fridge or on hand like extra peppers or other veggies into the sauce.
 </br>
 </br>
+
 ![Greekstyle Baked Fish With Tomatoes and Onions (Bourdeto)](/images/uploads/2019_04_04_greekstyle_baked_fish_with_tomatoes_and_onions_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I wanted to make something light as spring is in the air and thought of a recipe
 The original dish calls for lots of onions, spices and tomatoes or tomato sauce and of course some sort of white fish. I did a little more digging and realized that this fish dish actually hails from the island of Corfu. Corfu’s cultural heritage reflects years spent under Venetian, French and British rule before it was united with Greece and so does its food. This dish is called _bourdeto_ - the word coming from the Venetian word brodeto which means broth. There are many versions of the fish and many types of fish that you can use to make it - it’s wonderful with a whole fish as well and is even commonly made with octopus.
 </br>
 </br>
+
 ![Greekstyle Baked Fish With Tomatoes and Onions (Bourdeto)](/images/uploads/2019_04_04_greekstyle_baked_fish_with_tomatoes_and_onions_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ The original dish calls for lots of onions, spices and tomatoes or tomato sauce 
 I decided to use halibut because I like the thickness of halibut and the texture of it is buttery and delicious and it holds up well when baked. But you can use any white fish you would like.  If the pieces are smaller and thinner make sure to adjust and reduce the baking time accordingly. Larger pieces like the one I used took the full amount of time listed below to cook through.
 </br>
 </br>
+
 ![Greekstyle Baked Fish With Tomatoes and Onions (Bourdeto)](/images/uploads/2019_04_04_greekstyle_baked_fish_with_tomatoes_and_onions_5.jpg)
 </br>
 </br> 
@@ -87,4 +91,5 @@ Serves 4-6
 9. Remove from the oven once done and serve with lemon wedges and capers and  with rice, or whatever side you prefer. 
   
 </br>
+
 ![Greekstyle Baked Fish With Tomatoes and Onions (Bourdeto)](/images/uploads/2019_04_04_greekstyle_baked_fish_with_tomatoes_and_onions_7.jpg)

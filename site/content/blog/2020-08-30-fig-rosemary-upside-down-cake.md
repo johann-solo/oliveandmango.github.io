@@ -14,6 +14,7 @@ description: Jammy figs, and tender crumb made with almond flour and polenta
 This upside down cake is loaded with jammy fresh figs baked into a almond flour and polenta batter. The polenta and almond flour mix gives the cake a delightful grainy texture while the tender, slowly baked figs in a honey caramel sauce gives the cake its sweet flavour and moist texture.  
 </br>
 </br>
+
 ![Fig Rosemary Upside Down Cake](/images/uploads/2020_08_30_fig_rosemary_upside_down_cake_2.jpg)
 </br>
 </br>
@@ -25,6 +26,7 @@ My favourite thing about upside down cakes is that top layer of caramelized frui
 It’s flavoured beautifully with a hint of citrus - either orange or lemon would work well.  It’s optional but recommended. The rosemary is also optional but it adds an unexpected savoury element. Added to the cake batter it adds a slight woody note that works nicely to balance the sweetness of the honey and figs. 
 </br>
 </br>
+
 ![Fig Rosemary Upside Down Cake](/images/uploads/2020_08_30_fig_rosemary_upside_down_cake_3.jpg)
 </br>
 </br>
@@ -87,4 +89,5 @@ __For the cake__
 Adapted from _Food52_
 
 </br>
+
 ![Fig Rosemary Upside Down Cake](/images/uploads/2020_08_30_fig_rosemary_upside_down_cake_4.jpg)

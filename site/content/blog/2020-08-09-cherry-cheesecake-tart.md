@@ -15,6 +15,7 @@ description: A creamy cheesecake with a chocolate wafer crust and swirls of cher
 This is a very tasty and creamy cheesecake with a chocolate wafer press in crust and swirls of cherry purée throughout it. A must make dessert full of Black Forest cake flavours. There’s always room for dessert especially when it’s cheesecake. My family can’t seem to get enough so it seems I’m charged with the ‘ultra difficult duty’ of making one with every seasonal fruit that comes along - oh the hardship! My family also has a love for Black Forest cake so every cherry season I feel this overwhelming desire to do a take on it. I have a more classic and simplified take on a [Black Forest cake](https://www.oliveandmango.com/black-forest-cake/) on the blog already - and its a family favourite. Last summer I made a [No bake Black Forest ice box cake](https://www.oliveandmango.com/no-bake-black-forest-icebox-cake/) and so this year I thought I would switch it up again and make a cheesecake. A simple one in tart form that requires very little effort and time to make compared to a classic cheese cake. 
 </br>
 </br>
+
 ![Cherry Cheesecake Tart](/images/uploads/2020_08_09_cherry_cheesecake_tart_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This is a very tasty and creamy cheesecake with a chocolate wafer press in crust
 The recipe comes from Fine Cooking and is a favorite of mine. It’s such a good one. It can easily be adapted to suit any berry and any stone fruit for that matter. The purée is simple to make and adds just enough flavour of the fruit you are showcasing - cherries in this case. The only thin I changed was I used greek yoghurt for the sour cream in the recipe as I didn’t have any sour cream on hand and yoghurt makes a good swap for it. I also added a touch of lemon juice to the filling as I think every cheesecake does well with a touch of lemon juice for texture and flavour. 
 </br>
 </br>
+
 ![Cherry Cheesecake Tart](/images/uploads/2020_08_09_cherry_cheesecake_tart_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ The recipe comes from Fine Cooking and is a favorite of mine. It’s such a good
 When it comes to the purée if you want to keep it alcohol free you can leave out the Kirsch or the cherry Brandy that I used in this recipe. Adding the cherry preserves adds some body to the cherry purée and some sweetness but an alternative if you don’t have cherry preserves or cherry jam is to add a little cornstarch to the purée to add that same sort of body to it, plus a sweetener if you want to sweeten up the cherry purée a bit. Just start by using 1 tsp of the cornstarch at first and add a pinch more at a time only if needed and as much sweetener as you prefer. 
 </br>
 </br>
+
 ![Cherry Cheesecake Tart](/images/uploads/2020_08_09_cherry_cheesecake_tart_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ When it comes to the purée if you want to keep it alcohol free you can leave ou
 The base is made with crushed chocolate wafer cookies. It’s a press in crust that gets baked for a few minutes and then allowed to cool before filling and baking again with the filling. On the very off chance that you cannot get your hands on chocolate wafer cookies you can use graham cracker cookies or even Oreo cookies for your base. If you use those I would definitely omit the sugar as they are already sweet. If you are truly desperate for those wafer cookies I have you covered - you can make your own at home using [this simple recipe](https://www.oliveandmango.com/chocolate-banoffee-pie/). 
 </br>
 </br>
+
 ![Cherry Cheesecake Tart](/images/uploads/2020_08_09_cherry_cheesecake_tart_5.jpg)
 </br>
 </br>
@@ -86,4 +90,5 @@ The cherry swirls are simple and you can get as fancy as you like with them. YOU
 * The tart can be made up to 1 day ahead. Cheesecakes will last up to 4 days in refrigerator or can be frozen for up to one month.
 
 </br>
+
 ![Cherry Cheesecake Tart](/images/uploads/2020_08_09_cherry_cheesecake_tart_6.jpg)

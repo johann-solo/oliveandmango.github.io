@@ -14,6 +14,7 @@ description: Crispy toasted coconut crust with the creamiest coconut custard
 I wanted to make a delicious coconut cream pie with the most basic ingredients and also with the most coconuty flavour but without using artificial flavours. I have made other desserts and pies with coconut extract and they are good but I wanted a richer coconut flavour and using coconut in the crust and the custard just had to happen. I found two recipes that I was happy with and I used a few components from each to get this yummy recipe right here. I’m very happy with it and so was my family. It’s a great make ahead dessert that is stress free - even the custard I promise. I made the crust and the custard the day before and topped it which whip cream just before serving.  Let me break it down and talk about each layer.
 </br>
 </br>
+
 ![Classic Coconut Cream Pie](/images/uploads/2019_04_03_classic_coconut_cream_pie_2.jpg)
 </br>
 </br>
@@ -22,9 +23,11 @@ I wanted to make a delicious coconut cream pie with the most basic ingredients a
 As I mentioned before the crust has coconut baked into it. What’s better than the flavour of regular coconut? Toasted coconut! It smelled heavenly while it baked. It’s a tender crisp crust that holds in that creamy custard perfectly. I learned something new when I made this tart from Chatelaine magazine. They suggested brushing a layer of melted white chocolate to the tart crust after its baked and once it’s cooled. Of course adding white chocolate to anything is never a bad idea but this is more than just adding white chocolate for flavour. It is added to create a seal for the crust and prevent it from getting soggy from the custard. It’s a wonderful little tip that I’m definitely holding onto and applying to other pies for sure. It was only appropriate then to add more white chocolate to the recipe as a garnish, so that is what I did. No regrets!
 </br>
 </br>
+
 ![Classic Coconut Cream Pie](/images/uploads/2019_04_03_classic_coconut_cream_pie_3.jpg)
 </br>
 </br>
+
 ![Classic Coconut Cream Pie](/images/uploads/2019_04_03_classic_coconut_cream_pie_4.jpg)
 </br>
 </br>
@@ -33,9 +36,11 @@ As I mentioned before the crust has coconut baked into it. What’s better than 
 This is a very simple and straightforward custard as far as custards go. Not only does it have shredded coconut in it, it’s also made with coconut milk - told you it was extra coconuty. It’s just a few minutes of whisking and your done. It tasted delicious and I dare you not to have a few spoonfuls (or more) of it as you wait for it to cool. The shredded coconut not only adds flavour to the custard but adds a bit of texture to it too. It doesn’t stay dry and crisp but softens as it cooks and adds a scrumptious texture and flavour to the custard.
 </br>
 </br>
+
 ![Classic Coconut Cream Pie](/images/uploads/2019_04_03_classic_coconut_cream_pie_5.jpg)
 </br>
 </br>
+
 ![Classic Coconut Cream Pie](/images/uploads/2019_04_03_classic_coconut_cream_pie_6.jpg)
 </br>
 </br>
@@ -47,6 +52,7 @@ It’s hard to resists this pie. The textures and flavours  are a real treat for
 Adapted from _Chatelaine_ and _Tasting Table_ 
 </br>
 </br>
+
 ![Classic Coconut Cream Pie](/images/uploads/2019_04_03_classic_coconut_cream_pie_7.jpg)
 </br>
 </br>
@@ -123,4 +129,5 @@ __For Serving__
 29. Garnish the whole pie or cut the pie into wedges and put the wedges on plates, then garnish each wedge individually with coconut and white chocolate curls.
 
 </br>
+
 ![Classic Coconut Cream Pie](/images/uploads/2019_04_03_classic_coconut_cream_pie_8.jpg)

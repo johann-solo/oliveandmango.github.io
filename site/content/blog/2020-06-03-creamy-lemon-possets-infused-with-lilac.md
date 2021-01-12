@@ -14,6 +14,7 @@ description: A creamy three ingredient chilled lemony custard dessert infused wi
 These creamy possets are made with basically 3 ingredients; cream, sugar, and flavored with lemon zest, and thickened with freshly squeezed lemon juice. They set into a pudding-like consistency almost like a creamier, less aggressive version of lemon curd. These possets are deceptively easy to make, and although they are quite fabulous on their own I love to infuse them or spice them up with different flavours. This time I chose to do that with lilac and the hint of lilac was so nice with the lemon.
 </br>
 </br>
+
 ![Creamy Lemon Posset Infused With Lilac](/images/uploads/2020_06_03_creamy_lemon_posset_infused_with_lilac_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ These creamy possets are made with basically 3 ingredients; cream, sugar, and fl
 Originally a posset was an English drink made from hot milk and honey, spiced and laced with ale or wine. It was popular in the Middle Ages as a remedy for colds and minor ailments and as a sleep-aid. It has changed over the years and nowadays it’s a cold set dessert made with cream and lemon juice. It has a good balance  of sweet-tart flavour, it has a thick lush consistency with a very delicious lemon tart flavour. 
 </br>
 </br>
+
 ![Creamy Lemon Posset Infused With Lilac](/images/uploads/2020_06_03_creamy_lemon_posset_infused_with_lilac_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ Originally a posset was an English drink made from hot milk and honey, spiced an
 There is definitely a simple science behind it. According to Serious Eats, adding the acidic lemon juice to the cream causes it to thicken into a spoonable dessert, and the sugar balances the tart lemon flavor. With no eggs, no gelatin, and no starch required to thicken the cream. It’s amazing how it sets into the creamiest dessert. A lot of recipes that I have read for possets say that you can use any citrus to achieve this perfectly set and spoonable treat but I have tested it with oranges and also with clementines - followed recipes to the tee and they just didn’t set. The thing about oranges, tangerines and clementines is that they have a higher sugar to acidity ratio than lemons and limes do so they will not set as quickly or as easily.  I haven’t experimented enough with them to say never try with oranges or clementines but I have never had mine set as well as they do when I use lemon or lime juice. A mixture works too. 
 </br>
 </br>
+
 ![Creamy Lemon Posset Infused With Lilac](/images/uploads/2020_06_03_creamy_lemon_posset_infused_with_lilac_4.jpg)
 </br>
 </br>
@@ -38,6 +41,7 @@ There is definitely a simple science behind it. According to Serious Eats, addin
 These possets are deceptively easy. The key is to boil the cream sugar and lemon zest mixture just enough to reduce the mixture but not to let the cream boil over. This sounds easier than it is. Milk tends to behave one second as it simmers but the next minute it’s boiling over. Just keep a close eye on it and if you have to remove it from the heat for a few seconds for it to calm down before placing it back on the heat it’s totally fine. After it’s reduced the lemon juice is stirred through it and that is when the magic happens. Allow it to sit for a few minutes and you will start to see it  thicken. I then like to pass it through a metal mesh sieve to remove any bits of zest but that is optional.  Pour it into ramekins and refrigerate for 4-6 hours until set and that is it. 
 </br>
 </br>
+
 ![Creamy Lemon Posset Infused With Lilac](/images/uploads/2020_06_03_creamy_lemon_posset_infused_with_lilac_5.jpg)
 </br>
 </br>
@@ -55,6 +59,7 @@ Get inspired to create and customize your own posset recipe. Here’s some optio
 * Flower/tea infusion: edible flower infusion is a really nice touch. Start with a little because once you add it’s hard to reduce the flavour. Overly floral notes in a dessert can make it overpowering and soapy smelling. Use edible flowers that you think will complement the lemon flavours of the dessert. The lemon flavour is the star and the floral flavours should be sort of in the background enhancing the lemon flavour. My favorite to use in lemon possets is lilac, lavender and elderflower. You can use either fresh or dried. Some lovely tea infusions would work too like earl grey or even chamomile.  
 
 </br>
+
 ![Creamy Lemon Posset Infused With Lilac](/images/uploads/2020_06_03_creamy_lemon_posset_infused_with_lilac_6.jpg)
 </br>
 </br>
@@ -62,6 +67,7 @@ Get inspired to create and customize your own posset recipe. Here’s some optio
 This simple dessert is the perfect make ahead dessert that is wildly creamy and delicious. It’s a refreshing and cooling dessert that is elegant and great to serve at a dinner party. 
 </br>
 </br>
+
 ![Creamy Lemon Posset Infused With Lilac](/images/uploads/2020_06_03_creamy_lemon_posset_infused_with_lilac_7.jpg)
 </br>
 </br>
@@ -113,4 +119,5 @@ Setting time: 4-6 hours
 * Make a jury stick by wrapping a rubber band around a chopstick or skewer at the two cup mark. Pour 2 cups of water in the pan you are planning to use for simmering the cream. Adjust marking accordingly. Then as cream reduces, occasionally insert this jury stick into the cream and use it to tell how far the liquid has reduced. Or pour out liquid into a measuring cup a couple of times while it’s boiling to check how much it has reduced and pouring it back into pan to further reduce as needed. 
 
 </br>
+
 ![Creamy Lemon Posset Infused With Lilac](/images/uploads/2020_06_03_creamy_lemon_posset_infused_with_lilac_8.jpg)

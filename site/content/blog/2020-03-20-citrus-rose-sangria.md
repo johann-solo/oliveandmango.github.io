@@ -14,6 +14,7 @@ description: A step by step guide on how to make Sangria. Sangria is a tradition
 This citrus Sangria is a light-bodied, fruity and refreshing one made with freshly squeezed citrus and topped  off with sparkling water! Not overly sweet and it gets its wonderful blush colour from the Rosé wine. 
 </br>
 </br>
+
 ![Citrus Rosé Sangria](/images/uploads/2020_03_20_citrus_rose_sangria_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This citrus Sangria is a light-bodied, fruity and refreshing one made with fresh
 Sangria is a wine based punch cocktail. Traditional Spanish Sangria is produced from fine Spanish red wine and a blend of natural citrus fruit flavors. 
 </br>
 </br>
+
 ![Citrus Rosé Sangria](/images/uploads/2020_03_20_citrus_rose_sangria_3.jpg)
 </br>
 </br>
@@ -46,6 +48,7 @@ Sangria is loaded with sliced fruit. Citrus and apples and pears are very popula
 Many sangria versions fortify this wine cocktail using vermouth, or brandy. Rum based additions have become more popular or a blend of liqueurs. Because this is a citrus sangria I chose a blend of brandy and Cointreau which is a citrus based liqueur. Grand Marnier will also work which is a blend of brandy and bitter orange. I love to add a dash or orange bitters to mine as well. You can do rum or brandy alone and you can vary the type as well. That pineapple one I referred to earlier would be great with a coconut rum.  A Fall apple and spice one would be wonderful with a spiced rum. 
 </br>
 </br>
+
 ![Citrus Rosé Sangria](/images/uploads/2020_03_20_citrus_rose_sangria_4.jpg)
 </br>
 </br>
@@ -53,6 +56,7 @@ Many sangria versions fortify this wine cocktail using vermouth, or brandy. Rum 
 Crushed ice and sparkling water are often added - like I did to mine but not necessary. Most times a sangria is made the night before being served so that all the flavours of the fruit can infuse the wine. If you are making it ahead do not add the sparkling water and ice until serving.
 </br>
 </br>
+
 ![Citrus Rosé Sangria](/images/uploads/2020_03_20_citrus_rose_sangria_5.jpg)
 </br>
 </br>
@@ -60,9 +64,11 @@ Crushed ice and sparkling water are often added - like I did to mine but not nec
 This is a fabulous sangria for all year round - it’s perfectly refreshing for the summer but also at its best and sweetest when the winter citrus is at its peek. We are nearing the end of the season so I decided to enjoy all of its bounty. Hope you do too. Enjoy! 
 </br>
 </br>
+
 ![Citrus Rosé Sangria](/images/uploads/2020_03_20_citrus_rose_sangria_6.jpg)
 </br>
 </br>
+
 ![Citrus Rosé Sangria](/images/uploads/2020_03_20_citrus_rose_sangria_7.jpg)
 </br>
 </br>
@@ -95,4 +101,5 @@ Serves 6-8
 </span>
 
 </br>
+
 ![Citrus Rosé Sangria](/images/uploads/2020_03_20_citrus_rose_sangria_8.jpg)

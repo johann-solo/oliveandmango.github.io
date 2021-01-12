@@ -15,6 +15,7 @@ description: Tender scones with crunchy edges and a good blend of sweet and savo
 These apple cheddar sage scones are irresistible. I always love a good sweet and savoury combo and apple and cheddar is bit of a classic combo - maybe not as well known and as accepted as peanut butter and jelly but  it’s definitely one I love. These scones are a fun take on apple pie with Cheddar. Apparently that combo has been around since the 17th century. Sage goes wonderfully with apples and so the trio of flavours had to come together in these scones. 
 </br>
 </br>
+
 ![Apple Cheddar Sage Scones](/images/uploads/2020_11_21_apple_cheddar_sage_scones_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ These apple cheddar sage scones are irresistible. I always love a good sweet and
 A lot of recipes I looked at involved roasting or cooking the apples before adding them to the scone dough. This most definitely adds to the flavour intensity of the apples and if you wanted to do that you could. I thought I would share a simple and quick recipe that includes them just as they are - chopped but not roasted. You get a nice sweetness in every bite from the apples with a savoury salty bite from the cheddar. They are so good! They are delicious just as they are but if you wanted a more intense flavour in the apple - go ahead and peel, core, chop your apples into chunks and then roast them on a sheet pan until they are half baked. Allow them to cool and then chop into smaller pieces and add them to the batter as called for in the recipe. 
 </br>
 </br>
+
 ![Apple Cheddar Sage Scones](/images/uploads/2020_11_21_apple_cheddar_sage_scones_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ A lot of recipes I looked at involved roasting or cooking the apples before addi
 For the most delicious tender but flaky scones you must keep a few things in mind apart from having very cold butter and cream. The best scones are the ones that are handled the least. That means try not to over process the dough in the food processor. I usually don’t process them non stop - I always pulse instead because there is less chance of over working the dough. I pulse just until I see some areas of the dough starting to come together. You don’t want a mass of dough forming around the blades - chances are if that happens it might be overworked. Messy and crumbly is a good thing! When it’s a shaggy dough it’s easier to add other ingredients to it before patting it into a disc too. 
 </br>
 </br>
+
 ![Apple Cheddar Sage Scones](/images/uploads/2020_11_21_apple_cheddar_sage_scones_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ For the most delicious tender but flaky scones you must keep a few things in min
 Once you have tossed your add in ingredients in with the dough you can gently knead the dough together (very messily as the dough is usually sticky) once or twice just enough to have a more uniform mass of dough. Again don’t over work it with your hands either. I also almost always pat my dough out into a disk gently as opposed to rolling it out. Patting the dough out gently with my hands yields a much more tender scone. I also love to chill my scones for a few minutes before baking them. This helps them avoid over-spreading, I usually recommend chilling the shaped scones for at least 15 minutes in the refrigerator before baking. In fact, you can even refrigerate overnight for a quick breakfast in the morning!
 </br>
 </br>
+
 ![Apple Cheddar Sage Scones](/images/uploads/2020_11_21_apple_cheddar_sage_scones_5.jpg)
 </br>
 </br>
@@ -86,4 +90,5 @@ These scones scream fall and are irresistibly crumbly, slightly savory from whit
 * Make Ahead: Unbaked scones can be formed 1 week ahead. Tightly wrap with plastic and freeze. To reheat, brush with cream as instructed and increase bake time to 20–25 minutes.
 
 </br>
+
 ![Apple Cheddar Sage Scones](/images/uploads/2020_11_21_apple_cheddar_sage_scones_6.jpg)

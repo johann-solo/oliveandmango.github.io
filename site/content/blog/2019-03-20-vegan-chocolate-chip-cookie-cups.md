@@ -14,6 +14,7 @@ description: Chewy vegan chocolate chip cookies baked in a muffin tin. Delicious
 These delicious little bites have the texture of a chocolate chip cookie bar but baked in individual portions in a muffin tin. They are like deep dish cookies with extra chew factor. Genius - yes! Did I come up with it - no, but I do love it. I think this style of chocolate chip cookies was on trend years ago as far as foodie trends go and they have been on my list to make for a while. I’m really late to the cookie party you guys, regretfully so as these have quickly become our family’s favorite cookies to make on a weekly basis.
 </br>
 </br>
+
 ![Vegan Chocolate Chip Cookie Cups](/images/uploads/2019_03_20_vegan_chocolate_chip_cookie_cups_2.jpg)
 </br>
 </br>
@@ -21,12 +22,15 @@ These delicious little bites have the texture of a chocolate chip cookie bar but
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to make a recipe using their flour and thought this would be the perfect opportunity to try these cookie cups. Bob’s Red Mill uses high-quality whole grains to satisfy all vegan, paleo, and gluten-free friendly cooking and baking needs which include these vegan chocolate chip cookie cups. Their <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/shop/flours-and-meals/organic-all-purpose-unbleached-white-flour.html">unbleached white all-purpose organic flour</a></span> is a staple in our home and is just the best for baking my favorite goodies including pies, cookies, and brownies.
 </br>
 </br>
+
 ![Vegan Chocolate Chip Cookie Cups](/images/uploads/2019_03_20_vegan_chocolate_chip_cookie_cups_3.jpg)
 </br>
 </br>
+
 ![Vegan Chocolate Chip Cookie Cups](/images/uploads/2019_03_20_vegan_chocolate_chip_cookie_cups_4.jpg)
 </br>
 </br>
+
 ![Vegan Chocolate Chip Cookie Cups](/images/uploads/2019_03_20_vegan_chocolate_chip_cookie_cups_5.jpg)
 </br>
 </br>
@@ -34,12 +38,15 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 You know I’m always looking out for a great vegan recipe and usually one that requires very basic ingredients (meaning no vegan butter or vegan cheese or anything that I don’t know much about and would need lots of experimenting to see which products I would  like of each ingredient). I found said recipe in Food 52 Genius Desserts Book. They have a version of these vegan cookies in it and I knew these were the ones I had to try baking in my muffin tin. These are eggless and they also have no butter in them. They use water and a neutral oil for the wet ingredients. See what I mean - simple ingredients! The recipe suggested any neutral oil and I went with the one that they suggested and one that I had which was grape-seed oil. Grape-seed oil is one of the most neutral oils you can use, nearly flavourless. Sunflower oil is also another good one. You can definitely use olive oil or coconut oil but be prepared for the flavours to transfer.
 </br>
 </br>
+
 ![Vegan Chocolate Chip Cookie Cups](/images/uploads/2019_03_20_vegan_chocolate_chip_cookie_cups_6.jpg)
 </br>
 </br>
+
 ![Vegan Chocolate Chip Cookie Cups](/images/uploads/2019_03_20_vegan_chocolate_chip_cookie_cups_7.jpg)
 </br>
 </br>
+
 ![Vegan Chocolate Chip Cookie Cups](/images/uploads/2019_03_20_vegan_chocolate_chip_cookie_cups_8.jpg)
 </br>
 </br>
@@ -47,12 +54,15 @@ You know I’m always looking out for a great vegan recipe and usually one that 
 What is the secret to Instagram’s chocolate puddle game? Let me tell you a secret about the secret - a lot of it is smearing extra melty chocolate over the existing chocolate, so don’t totally buy into it.  Hee hee! Really I have seen it in posts and it’s so obvious that they have smeared Nutella or melted chocolate over their chocolate goodies to make them look melty, and that is totally ok because it’s real food they are using to achieve the look and can still be eaten after the shoot, but there is a yummier and truer way of achieving the puddles. Just add more chocolate before baking the cookies off. You can either reserve a few of the chips from the recipe for this purpose or add a few extra to the recipe.  I like breaking the chocolate discs in half and sticking a couple extra halves into the tops of each cookie scooped mounds. Once they are out of the oven and cool enough to transfer and you want that drool-worthy shot, just dip the edge of a spoon into the chocolate disk swirl and pull away and you will get the meltiest chocolate puddle you have ever seen. You’re welcome-bonus you get a few extra pieces of chocolate in each bite.
 </br>
 </br>
+
 ![Vegan Chocolate Chip Cookie Cups](/images/uploads/2019_03_20_vegan_chocolate_chip_cookie_cups_9.jpg)
 </br>
 </br>
+
 ![Vegan Chocolate Chip Cookie Cups](/images/uploads/2019_03_20_vegan_chocolate_chip_cookie_cups_10.jpg)
 </br>
 </br>
+
 ![Vegan Chocolate Chip Cookie Cups](/images/uploads/2019_03_20_vegan_chocolate_chip_cookie_cups_11.jpg)
 </br>
 </br>
@@ -60,9 +70,11 @@ What is the secret to Instagram’s chocolate puddle game? Let me tell you a sec
 Have you made chocolate chip cookies in a muffin tin yet? If not it’s totally a must. You will have zero regrets and I would not judge you if you served these cups with a scoop of ice cream (vegan if you’re keeping things vegan) over them. Plan ahead when making these to allow time to refrigerate them and allow the flour to hydrate and the flavours to fully develop - seriously it’s worth the wait! These vegan ones are so so good and so simple to make. They don’t even taste vegan (I love vegan food so that statement is meant for all those who turn there nose up at it)  - no one would suspect them. They just taste like darn good cookies! Let me know what ya think!
 </br>
 </br>
+
 ![Vegan Chocolate Chip Cookie Cups](/images/uploads/2019_03_20_vegan_chocolate_chip_cookie_cups_12.jpg)
 </br>
 </br>
+
 ![Vegan Chocolate Chip Cookie Cups](/images/uploads/2019_03_20_vegan_chocolate_chip_cookie_cups_13.jpg)
 </br>
 </br>
@@ -70,6 +82,7 @@ Have you made chocolate chip cookies in a muffin tin yet? If not it’s totally 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Vegan Chocolate Chip Cookie Cups](/images/uploads/2019_03_20_vegan_chocolate_chip_cookie_cups_14.jpg)
 </br>
 </br>
@@ -111,4 +124,5 @@ Makes approx. 12-16
 Adapted from _Food 52_
 
 </br>
+
 ![Vegan Chocolate Chip Cookie Cups](/images/uploads/2019_03_20_vegan_chocolate_chip_cookie_cups_15.jpg)

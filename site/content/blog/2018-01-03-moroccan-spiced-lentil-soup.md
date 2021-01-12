@@ -17,6 +17,7 @@ description: A hearty soup using Moroccan flavours and spices
 Not another lentil soup you may say (eyes rolling). But this is no ordinary lentil soup. The warm spices in it give it so much flavour and all the veggies make it hearty, filling and give it lots of colour and texture. No doubt you already realise I have a love for lentils and all grains and legumes in general. It’s always great when you can switch things up with them by just just using different spices and veggies. 
 </br>
 </br>
+
 ![Moroccan Spiced Lentil Soup](/images/uploads/2018_01_03_moroccan_spiced_lentil_soup_2.jpg)
 </br>
 </br>
@@ -24,6 +25,7 @@ Not another lentil soup you may say (eyes rolling). But this is no ordinary lent
 I wanted to make a hearty fall lentil soup and was inspired by a Rachael Ray recipe for lentil soup with sausages and kale. I decided to go with some very delicious Moroccan spices to enhance the flavour of the lentils. Moroccan flavours can vary and some Moroccan seasonings can combine up to 27 spices. I kept things simple for this soup and used a combination of some very common Moroccan spices, ones you can easily find in you pantry: cinnamon, cumin and paprika. 
 </br>
 </br>
+
 ![Moroccan Spiced Lentil Soup](/images/uploads/2018_01_03_moroccan_spiced_lentil_soup_3.jpg)
 </br>
 </br>
@@ -31,6 +33,7 @@ I wanted to make a hearty fall lentil soup and was inspired by a Rachael Ray rec
 I wanted to add some of my favorite fall veggie into this soup so I went with sweet potatoes instead of yellow potatoes as the original recipe called for and I also wanted to add some squash or pumpkin in there too for extra sweetness and extra texture. I always love how butternut squash and pumpkin melt away into a soup and often thicken the texture a bit. I chose to use butternut squash but feel free to use pumpkin instead. 
 </br>
 </br>
+
 ![Moroccan Spiced Lentil Soup](/images/uploads/2018_01_03_moroccan_spiced_lentil_soup_4.jpg)
 </br>
 </br>
@@ -38,6 +41,7 @@ I wanted to add some of my favorite fall veggie into this soup so I went with sw
 It’s a hearty soup, one that both me and my husband love. It’s full of veggies and greens thanks to the kale which I love, it’s filling as most lentil dishes are and full of so much protein and all of the good stuff. It’s so flavourful and warming from the aromatic spices in it. If you love the flavours those spices bring, you will most definitely love this soup. 
 </br>
 </br>
+
 ![Moroccan Spiced Lentil Soup](/images/uploads/2018_01_03_moroccan_spiced_lentil_soup_5.jpg)
 </br>
 </br>
@@ -94,4 +98,5 @@ Feel free to use any sausage you like in it. I tend to use a spicy one but that 
 * If you want a soup with a creamier texture all you have to do is blend some of it. I usually do this before I add in the kale. I remove 1 cup of the soup (I usually pick out as much meat from the cup as possible) blend in a blender carefully using a towel over the lid so you don’t get burned and then pour it back into the soup and add your kale 
 
 </br>
+
 ![Moroccan Spiced Lentil Soup](/images/uploads/2018_01_03_moroccan_spiced_lentil_soup_6.jpg)

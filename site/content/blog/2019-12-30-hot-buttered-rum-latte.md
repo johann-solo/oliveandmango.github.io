@@ -14,6 +14,7 @@ description: Creamy spiced and boozy coffee
 Hot buttered rum is a classic hot cocktail that will warm your soul during the cold winter. I switched things up a little and instead of making it with water I decided to make it with coffee. I love a spiked coffee and in the name of bullet proof coffees (aka- the on going trend of adding grass fed butter to your coffee) I give you this hot buttered rum latte! 
 </br>
 </br>
+
 ![Hot Buttered Rum Latte](/images/uploads/2019_12_30_hot_buttered_rum_latte_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Hot buttered rum is a classic hot cocktail that will warm your soul during the c
 Hot buttered rum is the best way to warm up this winter. It’s the perfect sleep-in lazy kind of morning latte - you know the mornings when a tipple of Bailey’s (ps. there is a [homemade Irish cream](https://www.oliveandmango.com/homemade-irish-cream/) on the blog if you’re interested  ) is in order in your morning brew. Well this is even better as the spiced butter creates the nicest frothy creamy texture in your coffee and the rum adds just enough booziness allowed for a “cocktail” before noon! 
 </br>
 </br>
+
 ![Hot Buttered Rum Latte](/images/uploads/2019_12_30_hot_buttered_rum_latte_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ Hot buttered rum is the best way to warm up this winter. It’s the perfect slee
 I always blend my coffee in the morning - correction my hubby does. He makes the coffee everyday ( I know isn’t he the best) and we do blended lattes -  coffee with collagen, coconut oil or mct oil, and raw cocoa powder along with almond milk. It’s just the best start to the day. We did the same with these hot buttered rum lattes minus the rest of the stuff as these are more comfort cocktails than health food lattes. They get frothy from the butter alone but even frothier when they are blended in your vitamin or magic bullet. You just need to pulse or blend for a few seconds for the spiced butter to get fully incorporated then stir in your run and pour yourself this hug in a mug kind of drink. Perfect on a cold morning - work free preferably a slow Sunday, or on a cold evening  - makes the perfect night cap! Wrap your hands around your warm cup and breath in that creamy spiced aroma. 
 </br>
 </br>
+
 ![Hot Buttered Rum Latte](/images/uploads/2019_12_30_hot_buttered_rum_latte_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ I always blend my coffee in the morning - correction my hubby does. He makes the
 This batch makes enough to make a few small mason jars worth. I made a batch and shared it with one of my friends who I knew would really appreciate a boozy spiked coffee. It makes the best hostess gift. A jar of this a bottle of rum and a bag of coffee beans - who wouldn’t love a gift like that. In fact I may have to make another batch for friends we are visiting this weekend. You will love what a simple spiced butter can do to a drink. I hope you try it! And if you are opposed to boozy drinks - that is totally fine. The butter still adds that creamy spice to each cup with or without the rum!
 </br>
 </br>
+
 ![Hot Buttered Rum Latte](/images/uploads/2019_12_30_hot_buttered_rum_latte_5.jpg)
 </br>
 </br>
@@ -69,4 +73,5 @@ Serves 10-12
 Recipe adapted from _The Food Network_
 
 </br>
+
 ![Hot Buttered Rum Latte](/images/uploads/2019_12_30_hot_buttered_rum_latte_6.jpg)

@@ -14,6 +14,7 @@ description: Gluten free berry breakfast cake with a crispy crumble topping
 A delicious gluten free berry breakfast cake with a crispy crumble made in partnership with Bob’s Red Mill and their <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/gluten-free-1-to-1-baking-flour.html">Gluten Free 1 to 1 Baking Flour</a></span>. It’s made with either fresh or frozen berries, and Greek yoghurt making this cake super easy to make with very basic ingredients making this the perfect way to start your weekend breakfast or brunch off right with Bob’s Red Mill. 
 </br>
 </br>
+
 ![Greek Yoghurt Berry Breakfast Cake](/images/uploads/2019_05_31_greek_yoghurt_berry_breakfast_cake_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ A delicious gluten free berry breakfast cake with a crispy crumble made in partn
 The message on the back of the package of this Flour calls it a ‘miraculous flour blend‘ and I have to agree especially for someone like me who has never really experimented with Gluten Free flour blending. There are so many DIY GF flour blend recipes out there that include Ingredings like rice flour (many other grain flours included), tapioca flour, potato starch, xanthan gum, and the list goes on.
 </br>
 </br>
+
 ![Greek Yoghurt Berry Breakfast Cake](/images/uploads/2019_05_31_greek_yoghurt_berry_breakfast_cake_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ The message on the back of the package of this Flour calls it a ‘miraculous fl
 This blending also gets a bit tricky because gluten free flours react differently in pretty much every recipe you use them in - so a lot of experimenting has to go on.  This is where this flour steps in as the ‘miracle blend’. It’s already  blended with xanthan gum and fine tuned so that your baking recipes come out perfectly. You can use this flour in place of all-purpose flour in any recipe you would like that is why it’s called 1 to 1 Baking Flour. Although I’m not highly sensitive to gluten (partially when it comes to pasta) or suffer with coeliac disease, I do like to have a flour like this in my pantry as so many of my friends are intolerant. I can always whip up something GF without too much thinking required cause I just substitute it for my regular all-purpose one. 
 </br>
 </br>
+
 ![Greek Yoghurt Berry Breakfast Cake](/images/uploads/2019_05_31_greek_yoghurt_berry_breakfast_cake_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ This blending also gets a bit tricky because gluten free flours react differentl
 Bob’s Red Mill offers the largest lines of organic whole grain foods. All of their products are certified Kosher and made with ingredients grown from non-GMO seeds including this Gluten Free 1 to 1 Baking Flour which I love to use. You can find Bob’s Red Mill products online or in-store at Sprouts, Whole Foods, and more. 
 </br>
 </br>
+
 ![Greek Yoghurt Berry Breakfast Cake](/images/uploads/2019_05_31_greek_yoghurt_berry_breakfast_cake_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ Bob’s Red Mill offers the largest lines of organic whole grain foods. All of t
 Let me tell you more about his cake. You already know it’s delicious and simple to make but it’s also a light one too which is  great enjoyed with a morning coffee or an afternoon tea. The texture of it reminds me of a blueberry crumble muffin and that is exactly what I was going for.  Something lighter and fluffy loaded with berries and with a crunchy topping. If you like blueberry muffins you will love this cake.  I love to make it because I usually have everything I need to make it in the freezer fridge and pantry. I always have Greek yoghurt, eggs and butter around as well as frozen berries for my smoothies and the baking staples I also have stocked in my pantry. My family loves it and never tires of it and it travels well if you are invited to brunch.
 </br>
 </br>
+
 ![Greek Yoghurt Berry Breakfast Cake](/images/uploads/2019_05_31_greek_yoghurt_berry_breakfast_cake_6.jpg)
 </br>
 </br>
@@ -53,6 +58,7 @@ I served mine with a coconut whip which ended up looking more like a glaze over 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Greek Yoghurt Berry Breakfast Cake](/images/uploads/2019_05_31_greek_yoghurt_berry_breakfast_cake_7.jpg)
 </br>
 </br>
@@ -93,4 +99,5 @@ __For the topping__
 Adapted from _Epicurious_ 
 
 </br>
+
 ![Greek Yoghurt Berry Breakfast Cake](/images/uploads/2019_05_31_greek_yoghurt_berry_breakfast_cake_8.jpg)

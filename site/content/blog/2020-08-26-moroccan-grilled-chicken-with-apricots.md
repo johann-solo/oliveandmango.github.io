@@ -14,6 +14,7 @@ description: Spatchcocked grilled or roasted Moroccan spiced chicken and sweet a
 Grilled or roasted spatchcock Moroccan chicken is an easy and incredibly flavorful way to prepare a whole chicken. It’s seasoned with Moroccan spices and herbs [my homemade blend is easy](https://www.oliveandmango.com/all-purpose-moroccan-spice-blend-ras-el-hanout/), is tender, and it also goes wonderfully with couscous and the sweet apricots that are grilled and jammy. This grilled chicken dish transforms the sweet-savory elements of a Moroccan tagine - spiced sweet apricots and couscous - into a light, summery meal.
 </br>
 </br>
+
 ![Moroccan Grilled Chicken With Apricots](/images/uploads/2020_08_26_moroccan_grilled_chicken_with_apricots_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Grilled or roasted spatchcock Moroccan chicken is an easy and incredibly flavorf
 There’s simply nothing not to love about this easy grilled chicken. Spatchcocking it reduces cooking time and ensures the chicken is well seasoned throughout. It’s simple to do if you haven’t already prepared a whole chicken this way. Full details below on the directions along with a video included. The chicken is marinate for 1 hour or for even more flavour - overnight. I love to prepare this the night before and if I’m making it for company I will double the recipe. Then all you have to do the day of is grill and make your couscous. An easy dinner that is grilled to perfection. Got to love that bit of char on that skin. If you don’t have a grill that is no problem. You can use a skillet or grill pan or you can roast the chicken in the oven no problem. That goes for the apricots too. All the details for that in the directions 
 </br>
 </br>
+
 ![Moroccan Grilled Chicken With Apricots](/images/uploads/2020_08_26_moroccan_grilled_chicken_with_apricots_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ There’s simply nothing not to love about this easy grilled chicken. Spatchcock
 Apricots, usually dried, are often added to chicken tagine to add some sweet and tang to the dish. I decided to play up those same flavours using fresh apricots and grilling them in a grill pan.  They are tossed with a bit of the Moroccan spice blend, honey, lemon, pomegranate molasses and with some chopped shallots. The shallots caramelize beautiful and the apricots get beautifully jammy. You could place the apricots right on the grill if you want some grill marks on them but I would only grill them partially like that as they get quit soft and if they are small ones you could end up losing them through the grates. Give them a quick sear and finish them off in the tin with the rest of the ingredients. The glaze is so good over the chicken and the apricots practically melt in your mouth. 
 </br>
 </br>
+
 ![Moroccan Grilled Chicken With Apricots](/images/uploads/2020_08_26_moroccan_grilled_chicken_with_apricots_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ Apricots, usually dried, are often added to chicken tagine to add some sweet and
 I recommend serving the chicken with some quinoa or couscous (which takes just five minutes to make) and a leafy green salad with a lemony vinaigrette. Doesn’t get easier or more delicious. Enjoy! 
 </br>
 </br>
+
 ![Moroccan Grilled Chicken With Apricots](/images/uploads/2020_08_26_moroccan_grilled_chicken_with_apricots_5.jpg)
 </br>
 </br>
@@ -97,4 +101,5 @@ __For the apricots__
 1. Griddle, grill or barbecue for approx 15-20 mins per side or roast for 40 mins (depending on size of bird).
 
 </br>
+
 ![Moroccan Grilled Chicken With Apricots](/images/uploads/2020_08_26_moroccan_grilled_chicken_with_apricots_6.jpg)

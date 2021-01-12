@@ -15,6 +15,7 @@ description: Quick, easy and comforting chicken noodle soup with rosemary and sq
 There’s nothing more comforting then chicken soup especially when you might be feeling a bit under the weather or simply when you want to warm your belly on a cold day. This one adds the sweetness of squash in it and the aromatic flavours of rosemary and thyme. It’s quick and easy to make and the perfect soup to use up any leftover chicken or turkey from a roast or rotisserie and any odds and ends you might have left when it comes to squash - any squash you may have on hand. I seem to always have half a butternut squash leftover from a recipe. Instead of roasting it off I add it to this soup for another tasty version of a classic chicken noodle soup. 
 </br>
 </br>
+
 ![Rosemary and Squash Chicken Soup](/images/uploads/2020_11_26_rosemary_and_squash_chicken_soup_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ There’s nothing more comforting then chicken soup especially when you might be
 I love having soup recipes like this on hand as I tend to have leftover veggies and meats in the fridge at all times (plus cake and pie) - occupational hazards of a food blogger and photographer.  That is why this type of soup happens at least twice a week in our home. It’s a great way of using up leftovers and reducing waste.
 </br>
 </br>
+
 ![Rosemary and Squash Chicken Soup](/images/uploads/2020_11_26_rosemary_and_squash_chicken_soup_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ I love having soup recipes like this on hand as I tend to have leftover veggies 
 A recipe like this can be quite adaptable. You can use any squash you like or a variety of them in it. When it comes to the noodles I find that any short pasta works well. I usually use a gluten free one.  When it comes to the meat - as I mentioned above - leftover rotisserie chicken or leftovers from a chicken or turkey dinner work really well. But if you wanted to use ground chicken or turkey feel free to do that, just make sure to brown it before adding the onions garlic and veggies. Then continue with recipe as written. 
 </br>
 </br>
+
 ![Rosemary and Squash Chicken Soup](/images/uploads/2020_11_26_rosemary_and_squash_chicken_soup_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ A recipe like this can be quite adaptable. You can use any squash you like or a 
 Don’t be afraid to season your soup. When it comes to soups, season with salt and pepper early and check the seasoning often. Herbs are always a must in soup — I add fresh rosemary at the beginning in this one which help to add a herby backbone to the broth. Later I add the thyme which is the the perfect partner to rosemary when it comes to flavour.  I love to stir in some lemon juice and zest into mine but that is optional. A dollop of sour cream or creme fraiche adds a nice bit of creaminess to it, but that too is optional. Extra garnish of fresh thyme or chopped parsley are also great just before serving. 
 </br>
 </br>
+
 ![Rosemary and Squash Chicken Soup](/images/uploads/2020_11_26_rosemary_and_squash_chicken_soup_5.jpg)
 </br>
 </br>
@@ -97,4 +101,5 @@ This just like any chicken noodles soup brings warmth and comfort and is perfect
 Adapted from _Rachael Ray_
 
 </br>
+
 ![Rosemary and Squash Chicken Soup](/images/uploads/2020_11_26_rosemary_and_squash_chicken_soup_6.jpg)

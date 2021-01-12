@@ -14,6 +14,7 @@ description: Simple enough for a weeknight dinner and delicious enough for a spe
 This glossy caramelized chicken is simple enough for a weeknight dinner and delicious enough for a special occasion. The maple butter ensures a perfectly tender chicken, while its natural sugars caramelize and turns the skin a nutty brown. It’s sweet and savoury and smells so good while baking. 
 </br>
 </br>
+
 ![Maple Butter Roasted Chicken](/images/uploads/2019_12_14_maple_butter_roasted_chicken_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ This glossy caramelized chicken is simple enough for a weeknight dinner and deli
 There are so many ways to roast a whole chicken and if you are like me I tend to stick to very similar flavours. It’s not because I’m not adventurous but sometimes you just need dinner In the oven and don’t have time to mess about with plenty of other ingredients or flavours. When I have a spare moment I do love to try new flavours and this one is favorite in our house right now. It’s a recipe from NY Times and i have had it bookmarked for a very long time. I finally tried it and we all loved it. The original recipe called for rosemary but I only had thyme on hand. Both herbs work really well with this recipe so feel free to use both or a combo of both. 
 </br>
 </br>
+
 ![Maple Butter Roasted Chicken](/images/uploads/2019_12_14_maple_butter_roasted_chicken_3.jpg)
 </br>
 </br>
+
 ![Maple Butter Roasted Chicken](/images/uploads/2019_12_14_maple_butter_roasted_chicken_4.jpg)
 </br>
 </br>
@@ -31,6 +34,7 @@ There are so many ways to roast a whole chicken and if you are like me I tend to
 I served this chicken with some roasted veggies that are also roasted with a little maple syrup and they were wonderful. You can definitely serve this with a salad or a side of buttery rice or veggies. I had some butternut squash and decided to do a roasted veggie medley. It works well with the roasted veggies but it’s also wonderful served on its own with a green salad and crusty bread to sop up all the pan juices. Enjoy! 
 </br>
 </br>
+
 ![Maple Butter Roasted Chicken](/images/uploads/2019_12_14_maple_butter_roasted_chicken_5.jpg)
 </br>
 </br>
@@ -79,4 +83,5 @@ __For the veggies__
 4. If the veggies aren't quite browned enough when the chicken is done leave them in the oven for up to 10 minutes allowing them to brown while chicken rests. 
 
 </br>
+
 ![Maple Butter Roasted Chicken](/images/uploads/2019_12_14_maple_butter_roasted_chicken_6.jpg)

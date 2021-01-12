@@ -14,6 +14,7 @@ description: A simple rustic, free-form plum galette with an almond filling
 This simple rustic free form plum galette with an almond filling is the perfect way to enjoy plums. The plums bake up beautifully in this galette but really any seasonal fruit will work like strawberries, rhubarb, peaches, cherries, apricots or apples. The dough is buttery, flaky and very forgiving and it comes together in no time in a food processor. 
 </br>
 </br>
+
 ![Plum and Almond Galette](/images/uploads/2020_09_12_plum_and_almond_galette_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This simple rustic free form plum galette with an almond filling is the perfect 
 I can never resist a tangy plum dessert. This buttery crust enveloped dessert can be served as a brunch cake or for dessert topped with vanilla ice cream or whipped cream.  The crust or dough is easy to make and recommended but you can use store-bought dough if you want. That is what I love about galettes - they are so versatile and also so forgiving. The more rustic they look the better.  
 </br>
 </br>
+
 ![Plum and Almond Galette](/images/uploads/2020_09_12_plum_and_almond_galette_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I can never resist a tangy plum dessert. This buttery crust enveloped dessert ca
 The plums get naturally jammy in the galette. I normally do not peel them for pies and galettes. Especially for this galette where they are sliced and fanned out a bit; they give the finished dish a pretty look and color. The recipe calls for brushing plum or apricot preserves over the plums right out the oven to give them that gorgeous glazed look. This is completely optional and if you don’t have preserves to brush on I normally substitute with a little brush of honey. 
 </br>
 </br>
+
 ![Plum and Almond Galette](/images/uploads/2020_09_12_plum_and_almond_galette_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ The plums get naturally jammy in the galette. I normally do not peel them for pi
 The filing is simple and serves two purposes. The almond filling not only enhances the taste of the plums but it also prevents soggy pastry. The almond mixture helps to soak up the jammy juices from the plums. Don’t worry there is still bubbling juices happening just not enough to effect the texture of the crust. The goal is crispy on the outside and jammy on the inside. Feel free to flavour the filing with a hint of spice or even a little lemon or orange zest.  
 </br>
 </br>
+
 ![Plum and Almond Galette](/images/uploads/2020_09_12_plum_and_almond_galette_5.jpg)
 </br>
 </br>
@@ -96,4 +100,5 @@ __For the almond and plum filling__
 Adapted from _Food and Wine_ and _Martha Stewart_
 
 </br>
+
 ![Plum and Almond Galette](/images/uploads/2020_09_12_plum_and_almond_galette_6.jpg)

@@ -14,6 +14,7 @@ description: Tender sweet roasted radishes with feta, mint and a lemony vinaigre
 Roasting radishes is not only easy but a delicious way to enjoy them. Roasting them mellows their peppery flavor and turns them into a whole new root vegetable. They make the perfect side right out of the oven but I also love to toss them with a vinaigrette and some feta and fresh herbs for a light meal or side salad.
 </br>
 </br>
+
 ![Simple and Delicious Roasted Radishes](/images/uploads/2020_07_14_simple_and_delicious_roasted_radishes_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Roasting radishes is not only easy but a delicious way to enjoy them. Roasting t
 Yes - Radishes aren't just for pickling or salads anymore. This abundant, very colourful and very inexpensive veggie makes a great side to any meal. Raw radishes are crisp, crunchy and peppery, that can be eaten on their own or added to salads and I love them that way. But when you roast them, something magical happens. They soften, get tender and loose their peppery taste and instead become surprisingly sweet, while maintaining a slight kick at the end.
 </br>
 </br>
+
 ![Simple and Delicious Roasted Radishes](/images/uploads/2020_07_14_simple_and_delicious_roasted_radishes_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ Yes - Radishes aren't just for pickling or salads anymore. This abundant, very c
 They are edible. Using the green radish tops adds color and amps up the radish flavor. Be sure to rinse the green tops thoroughly before using them. They have a peppery bite and are fantastic quickly sautéed with olive oil and salt, or turned into a pesto. They are also great in salads when mixed with other greens and perfect chopped up and added to this salad as well. Ofcourse the greens should be fresh enough to use. If they aren’t just leave them out of the recipe. It happens - sometimes you have good intentions of using them as soon as you buy them but then forget and by the time you get to them the greens have lost all their life. 
 </br>
 </br>
+
 ![Simple and Delicious Roasted Radishes](/images/uploads/2020_07_14_simple_and_delicious_roasted_radishes_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ They are edible. Using the green radish tops adds color and amps up the radish f
 I love these roasted radishes in salad form. Tossing them with a simple vinaigrette makes them taste even better. I have a [fabulous vinaigrette](https://youtu.be/wlYtBpLq3Ok) that is my go-to that Johann calls the ‘fancy dressing’ (it’s really not that fancy) because I actually put effort into it and add more than olive oil and lemon juice to it and this is a version of it below. The one below is simple - requires no chopping of anything and  still has a little more complexity to it then just lemon juice and olive oil alone. You can really dress these radishes with just about any dressing you like or might have on hand but I am partial to lemony dressing or vinaigrette.  You can also add different herbs to them and even toss the radishes with dried herbs before roasting just like you would if you were roasting potatoes or carrots. They really are a versatile veggie. If you haven’t tried roasting them I strongly recommend. 
 </br>
 </br>
+
 ![Simple and Delicious Roasted Radishes](/images/uploads/2020_07_14_simple_and_delicious_roasted_radishes_5.jpg)
 </br>
 </br>
@@ -87,4 +91,5 @@ Toss radishes with the olive oil, salt, and pepper. Place in a large baking dish
 1. Salad can be served warm or room temperature. Leftovers will keep for a few days refrigerated. 
 
 </br>
+
 ![Simple and Delicious Roasted Radishes](/images/uploads/2020_07_14_simple_and_delicious_roasted_radishes_6.jpg)

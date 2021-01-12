@@ -14,6 +14,7 @@ description: These savoury mini pancakes are light and fluffy and perfect on you
 Pancakes are always a hit for breakfast. These mini scallion ones are the perfect savory ones to enjoy for brunch. They are so fluffy and so good with a dollop of sour cream or cream cheese and smoked salmon with all the fixings. It’s such an easy brunch platter to prepare and even easier considering I used a pancake mix to make these mini pancakes or blinis. 
 </br>
 </br>
+
 ![Mini Scallion Pancake Blini](/images/uploads/2020_09_26_mini_scallion_pancake_blini_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ Pancakes are always a hit for breakfast. These mini scallion ones are the perfec
 I’m all about from scratch when it comes to pancakes but when it comes to gluten free ones (banana or oat pancakes excluded) I’m all for premixed blends. I have partnered up with Bob’s Red Mill to showcase their Gluten Free Pancake Mix in some fun ways. A sweet way I used it is coming up next but this savoury version is a fun one for brunch or even dinner if you’re the breakfast for dinner kind of folks like we are. The mix is made from whole grain stone ground sorghum brown rice flour. The texture of the pancakes is great - perfectly light and fluffy not always what you get with some Gluten free blends. That is not the case here - another great Gluten free blend from Bob’s. Bobʼs Red Mill has all the products you need for your breakfast needs while catering to those in your family who have specific food allergies. Now let’s talk blinis... 
 </br>
 </br>
+
 ![Mini Scallion Pancake Blini](/images/uploads/2020_09_26_mini_scallion_pancake_blini_3.jpg)
 </br>
 </br>
+
 ![Mini Scallion Pancake Blini](/images/uploads/2020_09_26_mini_scallion_pancake_blini_4.jpg)
 </br>
 </br>
@@ -33,6 +36,7 @@ I’m all about from scratch when it comes to pancakes but when it comes to glut
 They are Russian Pancakes. They are traditionally made from a blend of buckwheat and all purpose flour; served with either sweet or savory fillings and toppings. They are usually round but the size can vary. Many times they are made a little larger and thinner like crepes and rollled with whatever filling you serve them with. They can also be made into mini pancakes - a little thicker than crepes and instead of being filled they are topped with any topping you chose. This is how I made them and I added a little extra flavour to them by adding some chopped scallions in them. A great way to add some extra flavour to the actual batter and overall blini brunch experience. 
 </br>
 </br>
+
 ![Mini Scallion Pancake Blini](/images/uploads/2020_09_26_mini_scallion_pancake_blini_5.jpg)
 </br>
 </br>
@@ -81,4 +85,5 @@ Total Time: 20 mins
 1. Garnish with: thinly sliced red onion, fresh dill, capers and anything else you would like to include. 
 
 </br>
+
 ![Mini Scallion Pancake Blini](/images/uploads/2020_09_26_mini_scallion_pancake_blini_7.jpg)

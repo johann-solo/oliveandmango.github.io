@@ -12,6 +12,7 @@ excerpt: A cozy Earl Grey tea latte with soothing hints of lavender from the inf
 I could never chose between coffee and tea, could you? I have my morning ritual of a protein coffee with breakfast and then in the afternoon and evening I love my tea. Tea is always a comfort for me in the afternoon and sort of soothing, while coffee is essential for my kindness and productivity meter alike in the morning. One of my favorite teas to drink especially in the evening and also on a road trip is earl grey. It doesn’t matter if it’s a beautiful loose leaf that smells heavily, or from a Twinnings box - I love it and I usually just need a dash of milk in it. Then I wrap my hands around the big mug I have it in and put my nose right up to it to enjoy that wonderful soothing aroma. It truly is the little things!
 </br>
 </br>
+
 ![Earl Grey Latte With Homemade Lavender Marshmallows](/images/uploads/2018_09_14_earl_grey_latte_with_homemade_lavender_marshmallows_2.jpg)
 </br>
 </br>
@@ -19,12 +20,15 @@ I could never chose between coffee and tea, could you? I have my morning ritual 
 Having it blended and frothy is whole other level good. This earl grey latte goes by a few names. It’s also called a London Fog, and often a tea misto. I will stick to calling it and earl grey latte though as it’s the more generic obvious name for it. It’s so simple to make and I love making it like I make my protein coffee too sometimes. It’s such a treat to drink it and it almost feels fancy. I wondered how I could step it up a notch in the fancy department and the cozy department too and decided some diy homemade marshmallows were necessary.
 </br>
 </br>
+
 ![Earl Grey Latte With Homemade Lavender Marshmallows](/images/uploads/2018_09_14_earl_grey_latte_with_homemade_lavender_marshmallows_3.jpg)
 </br>
 </br>
+
 ![Earl Grey Latte With Homemade Lavender Marshmallows](/images/uploads/2018_09_14_earl_grey_latte_with_homemade_lavender_marshmallows_4.jpg)
 </br>
 </br>
+
 ![Earl Grey Latte With Homemade Lavender Marshmallows](/images/uploads/2018_09_14_earl_grey_latte_with_homemade_lavender_marshmallows_5.jpg)
 </br>
 </br>
@@ -32,12 +36,15 @@ Having it blended and frothy is whole other level good. This earl grey latte goe
 I didn’t realize there were so many varieties. I chose to make the lightest and fluffiest ones I could find as I know they would be the nicest in a hot drink, that is why I chose the French style ones to make. French style marshmallows usually include whipped egg whites in them which make these marshmallows light and frothy almost. I will try making the eggless chewy ones another time, and when I do make those I promise I will put those on the blog as well.
 </br>
 </br>
+
 ![Earl Grey Latte With Homemade Lavender Marshmallows](/images/uploads/2018_09_14_earl_grey_latte_with_homemade_lavender_marshmallows_6.jpg)
 </br>
 </br>
+
 ![Earl Grey Latte With Homemade Lavender Marshmallows](/images/uploads/2018_09_14_earl_grey_latte_with_homemade_lavender_marshmallows_7.jpg)
 </br>
 </br>
+
 ![Earl Grey Latte With Homemade Lavender Marshmallows](/images/uploads/2018_09_14_earl_grey_latte_with_homemade_lavender_marshmallows_8.jpg)
 </br>
 </br>
@@ -45,12 +52,15 @@ I didn’t realize there were so many varieties. I chose to make the lightest an
 I wanted to amp up the marshmallows even more and decided to add a flavour that would compliment the earl grey tea. Naturally for me lavender came to mind and I had some on hand and I was very happy about the result. The lavender has a sweet, floral fragrance and is notably soothing, invoking relaxation. Combined with the classic blend of Earl Grey's citrus and a hint of cream, they are a heavenly match.
 </br>
 </br>
+
 ![Earl Grey Latte With Homemade Lavender Marshmallows](/images/uploads/2018_09_14_earl_grey_latte_with_homemade_lavender_marshmallows_9.jpg)
 </br>
 </br>
+
 ![Earl Grey Latte With Homemade Lavender Marshmallows](/images/uploads/2018_09_14_earl_grey_latte_with_homemade_lavender_marshmallows_10.jpg)
 </br>
 </br>
+
 ![Earl Grey Latte With Homemade Lavender Marshmallows](/images/uploads/2018_09_14_earl_grey_latte_with_homemade_lavender_marshmallows_11.jpg)
 </br>
 </br>
@@ -58,9 +68,11 @@ I wanted to amp up the marshmallows even more and decided to add a flavour that 
 They are really easy to whip up and I’m so disappointed I hadn’t made them sooner. My family loved them and we have been having the leftover ones with tea and coffee. They melt beautifully into your hot drink and your mouth and you get a beautiful soothing hint of lavender in each sip along with the fabulous frothy layer of deliciousness that they leave behind when melted. You can definitely use them in s’mores but I think that a chewier marshmallow would work a bit better as these will melt away so easily. So just an FYI if you plan on using them for some fancy lavender infused s’mores.
 </br>
 </br>
+
 ![Earl Grey Latte With Homemade Lavender Marshmallows](/images/uploads/2018_09_14_earl_grey_latte_with_homemade_lavender_marshmallows_12.jpg)
 </br>
 </br>
+
 ![Earl Grey Latte With Homemade Lavender Marshmallows](/images/uploads/2018_09_14_earl_grey_latte_with_homemade_lavender_marshmallows_13.jpg)
 </br>
 </br>
@@ -68,6 +80,7 @@ They are really easy to whip up and I’m so disappointed I hadn’t made them s
 The whole tea experience was elevated by these delicious puffy cloud-like marshmallows and I foresee enjoying my earl grey latte like this right through the winter. We loved it and I know you will love it!
 </br>
 </br>
+
 ![Earl Grey Latte With Homemade Lavender Marshmallows](/images/uploads/2018_09_14_earl_grey_latte_with_homemade_lavender_marshmallows_14.jpg)
 </br>
 </br>
@@ -133,4 +146,5 @@ __For the Earl Grey lattes__
 Recipe for the marshmallows was adapted from _Food and Wine_
 
 </br>
+
 ![Earl Grey Latte With Homemade Lavender Marshmallows](/images/uploads/2018_09_14_earl_grey_latte_with_homemade_lavender_marshmallows_15.jpg)

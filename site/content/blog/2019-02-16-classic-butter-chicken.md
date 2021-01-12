@@ -14,6 +14,7 @@ description: Easy to make butter chicken recipe from the talented Swayampurna Mi
 Butter chicken is one of those classic Indian dishes that most are familiar with and love. It’s ones of my husband’s favourite and I love it too. I have made quite a few versions but many times they are lacking in flavour, the texture is not right it, or they are way to complex to even try or have me motivated to try again. In comes _My Indian Kitchen_ by my talented Insta friend and author _Swayampurna Mishra_. I was so happy to get a message from her asking for my address to send me a copy of her new cookbook. I was super excited to receive it as I have been a huge fan of her work (blog and photography) since I joined the foodie insta family.
 </br>
 </br>
+
 ![Classic Butter Chicken](/images/uploads/2019_02_16_classic_butter_chicken_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Butter chicken is one of those classic Indian dishes that most are familiar with
 I have always been drawn to her and the likes of her as she is a wonderful writer and story teller. Something I’m lacking and so I find especially endearing in others. She is also super positive as a person and very much empowered and empowering. She tells it like it is and I totally admire that in people. I was very proud and excited of and for her when she announced her book. What’s amazing about the book is that her photography is all unmistakably her own. Not only her recipes and her beautiful writing, but her beautiful images are all her. Really this is a special book. Her 2nd little baby next to D.
 </br>
 </br>
+
 ![Classic Butter Chicken](/images/uploads/2019_02_16_classic_butter_chicken_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I have always been drawn to her and the likes of her as she is a wonderful write
 It arrived and I first went through and enjoyed all the photography, as it tells a story on its own. Then I took my time and checked all the recipes and bookmarked all the ones that I wanted to make and - there are a lot of them. I hear her voice clearly throughout the book, through her recipes and notes and her introduction. The book is so well put together starting with starters or appetizers ranging from simple to opulent and to desserts and drinks, with many delicious things in between. The titles of her chapters are so her as well. From Beginnings to My sweet life and Let’s drink - they all capture her and her voice.
 </br>
 </br>
+
 ![Classic Butter Chicken](/images/uploads/2019_02_16_classic_butter_chicken_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ It arrived and I first went through and enjoyed all the photography, as it tells
 I have also always been drawn to Swayampurna because of her love of food and her food relationship.  In this way we are similar and have a wonderful love for even basic foods and joy in even simple eats. Although our food experiences and cultures are different our love and appreciation for food from a very young age is very similar. And who doesn’t love to be around someone else who loves and enjoys food? It’s in us. I have only met two people in my life (sadly I’m sure there are more of them in this world) that would rather take food in a pill form than actually eat it - could not relate to them and that is why I can fully relate to Swayampurna and her book of delicious Indian dishes. Her book is an invitation into her kitchen, introducing you to Indian cuisine, something that may seem intimidating to some.  She simplifies it and shows you how anyone can do it and enjoy it and share it with loved ones.
 </br>
 </br>
+
 ![Classic Butter Chicken](/images/uploads/2019_02_16_classic_butter_chicken_5.jpg)
 </br>
 </br>
@@ -75,6 +79,7 @@ Asafetida = onion garlic powder combo
 Kasuri methi = fresh chopped celery leaves and fennel combo is the closest
 </br>
 </br>
+
 ![Classic Butter Chicken](/images/uploads/2019_02_16_classic_butter_chicken_6.jpg)
 </br>
 </br>
@@ -133,4 +138,5 @@ Makes 4 servings
 19. Serve with rice, naan and Mango-Saffron Lassi.
 
 </br>
+
 ![Classic Butter Chicken](/images/uploads/2019_02_16_classic_butter_chicken_7.jpg)

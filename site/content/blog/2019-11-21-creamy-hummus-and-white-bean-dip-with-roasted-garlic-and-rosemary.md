@@ -14,6 +14,7 @@ description: The secret to a creamy hummus and the most delicious white bean dip
 These are two of my all time favourite recipes for your basic hummus and white bean dip. Both of these dips are classic dips/spreads that always make it on my charcuterie or veggie platters. Actually I make the hummus quite often as I love it for snacking on with veggies and crisps or slathering it on a sandwich too. It turns out so creamy every time and is so flavourful.
 </br>
 </br>
+
 ![Creamy Hummus and White Bean Dip With Roasted Garlic and Rosemary](/images/uploads/2019_11_21_creamy_hummus_and_white_bean_dip_with_roasted_garlic_and_rosemary_2.jpg)
 </br>
 </br>
@@ -33,6 +34,7 @@ There is a [science behind it](https://beaninstitute.com/cooking-with-dry-beans-
 
 </br>
 </br>
+
 ![Creamy Hummus and White Bean Dip With Roasted Garlic and Rosemary](/images/uploads/2019_11_21_creamy_hummus_and_white_bean_dip_with_roasted_garlic_and_rosemary_3.jpg)
 </br>
 </br>
@@ -41,6 +43,7 @@ There is a [science behind it](https://beaninstitute.com/cooking-with-dry-beans-
 Ok so now let’s chat about this white bean dip. I know, I know - I didn’t use dried beans for this one, but you can if you want a creamy dreamy dip. When it comes to the white bean dip I don’t mind a bit of body to it so I love the recipe from _Food52_. It turns out perfect every time loaded with flavour from the roasted garlic and the rosemary. The roasted garlic is a must - it gives it that wonderful sweet garlic nutty flavour instead of a hard pungent hit of it if you used raw. You just can’t beat the flavours of roasted garlic. The rosemary also gets blended into the mix so you really get the flavour of it. It’s simple it’s delicious and just so good with the veggies but also great with pita chips too. 
 </br>
 </br>
+
 ![Creamy Hummus and White Bean Dip With Roasted Garlic and Rosemary](/images/uploads/2019_11_21_creamy_hummus_and_white_bean_dip_with_roasted_garlic_and_rosemary_4.jpg)
 </br>
 </br>
@@ -105,4 +108,5 @@ Makes approx 1.5-2 cups
 4. Transfer to a shallow serving bowl, smooth-out with the backside of spoon, dress with olive oil and rosemary.
 
 </br>
+
 ![Creamy Hummus and White Bean Dip With Roasted Garlic and Rosemary](/images/uploads/2019_11_21_creamy_hummus_and_white_bean_dip_with_roasted_garlic_and_rosemary_5.jpg)

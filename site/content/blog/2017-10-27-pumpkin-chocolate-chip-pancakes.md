@@ -17,6 +17,7 @@ description: These pumpkin pancakes are light and fluffy with crispy edges and l
 These pumpkin pancakes are light and fluffy with crispy edges and loaded with chocolate chips. They are my favorite fall pancakes. My preferred pancakes are always buttermilk ones for that extra rise. These not only have that but also have those warming fall flavours we all love so much. The pumpkin add a lovely fall flavor to these and that tone of orange we expect in anything pumpkin related. These are just such a treat to wake up to and your family will be happy you made them - just the most perfect breakfast with a hot cup of coffee on a cool fall morning!
 </br>
 </br>
+
 ![Pumpkin Chocolate Chip Pancakes](/images/uploads/2017_10_27_pumpkin_chocolate_chip_pancakes_2.jpg)
 </br>
 </br>
@@ -26,6 +27,7 @@ These pumpkin pancakes are light and fluffy with crispy edges and loaded with ch
 These pumpkin chocolate chip pancakes are so easy to whip not unlike any other buttermilk pancake recipe. (Ps - if you don’t don’t have buttermilk - [make your own in a pinch](https://www.foodnetwork.com/recipes/homemade-buttermilk-3645761) together and mixing just until combined. The key to getting light and fluffy pancakes is to be sure that they don't over whisk the batter. Then you are ready to make your pancakes.  Heat up a skillet, pour out the batter, cook each side for a couple of minutes and keep stacking them.  Feel free to add the chocolate chips into the batter or sprinkle some of them onto the pancakes before you flip them while they are in the pan. Some people prefer making them this way to prevent the chips from melting or burning in the pan. I don’t mind them melting but I also wipe the pan before pouring a new batch of batter into the pan. Feel free to add a bit more butter or cooking spray into pan between batches too if needed. 
 </br>
 </br>
+
 ![Pumpkin Chocolate Chip Pancakes](/images/uploads/2017_10_27_pumpkin_chocolate_chip_pancakes_3.jpg)
 </br>
 </br>
@@ -33,6 +35,7 @@ These pumpkin chocolate chip pancakes are so easy to whip not unlike any other b
 I have made these pancakes with or without the chocolate chips and they are delicious either way. We love them with the chocolate chips though.  Those melty bits of chocolate are such a treat to bite into. Makes for a very special and sweet breakfast.  Feel free to make them with or without. I even like these pumpkin pancakes with blueberries if you can believe it. It just works trust me. They are perfect warm and with a dollop of whip cream, drizzles of maple syrup and we love ours with some toasted chopped pecan. No need to go out for a tasty pancake breakfast when it’s this easy to make a breakfast like that at home.  
 </br>
 </br>
+
 ![Pumpkin Chocolate Chip Pancakes](/images/uploads/2017_10_27_pumpkin_chocolate_chip_pancakes_4.jpg)
 </br>
 </br>
@@ -40,6 +43,7 @@ I have made these pancakes with or without the chocolate chips and they are deli
 These pumpkin pancakes are the perfect thing to make if you have any leftover pumpkin purée from a previous recipe. They are definitely a good excuse to open a new can of purée too. Speaking of which you can make these with canned or with homemade pumpkin purée. I have included a simple recipe for homemade pumpkin purée below. It make a good amount so when I make it I usually freeze it. I measure out either ½ or 1 cup measurements and freeze them in 1 cup batches. 
 </br>
 </br>
+
 ![Pumpkin Chocolate Chip Pancakes](/images/uploads/2017_10_27_pumpkin_chocolate_chip_pancakes_5.jpg)
 </br>
 </br>
@@ -118,4 +122,5 @@ Some people prefer adding the chocolate chips as they cook the pancakes to preve
 6. You can also cut the whole pumpkin in half and roast pieces whole but this takes longer to roast and more work to scrape off the flesh from the skin after. I do both and result is the same it just depends on how much time I have on hand. 
 
 </br>
+
 ![Pumpkin Chocolate Chip Pancakes](/images/uploads/2017_10_27_pumpkin_chocolate_chip_pancakes_6.jpg)

@@ -12,6 +12,7 @@ excerpt: Bring this Korean classic to your home kitchen
 One of my favourites dishes to eat and make and most requested by my husband is beef bulgogi. I love making it too and when I make it I like to make bibimbap with it. The word bibimbap literally means "mixed rice" and really and truly that is what it is. A bowl of warm white rice topped with meat, veggies and sauces. That is very simplified. There are many variations of the dish and even the sauces used in the dish. This one that I’m sharing is a simple and basic rendition of it and the ever popular Korean beef - beef bulgogi.
 </br>
 </br>
+
 ![Beef Bibimbap](/images/uploads/2018_06_28_beef_bibimbap_2.jpg)
 </br>
 </br>
@@ -19,6 +20,7 @@ One of my favourites dishes to eat and make and most requested by my husband is 
 The meat usually cooked in Korean dishes is sliced very thinly and marinated for tenderness. Beef bulgogi is just mouthwateringly good and is wildly popular for its delicious garlicky and slightly sweet flavours. It’s one of those flavors that you can easily recall everytime you think of it. It has a signature flavour. I have a full post and recipe just for [beef bulgogi on the blog if you want to check it out](https://www.oliveandmango.com/beef-bulgogi--korean-style-beef-perfection/). I have included the recipe for the bulgogi below as well.
 </br>
 </br>
+
 ![Beef Bibimbap](/images/uploads/2018_06_28_beef_bibimbap_3.jpg)
 </br>
 </br>
@@ -26,6 +28,7 @@ The meat usually cooked in Korean dishes is sliced very thinly and marinated for
 I’m pretty wild about rice just in case you didn’t already know. Any rice and done any way. Give me veggies and rice for life and I would be a happy camper. I love this recipe for it’s versatility. You can build your own bibimbap with the veggies you have in your fridge just slice them and sauté them in a little sesame oil or peanut oil and season with salt and pepper. This may seem bland but your building flavours by adding different veggies as you can see in the pictures. The more veggies the better.
 </br>
 </br>
+
 ![Beef Bibimbap](/images/uploads/2018_06_28_beef_bibimbap_4.jpg)
 </br>
 </br>
@@ -33,6 +36,7 @@ I’m pretty wild about rice just in case you didn’t already know. Any rice an
 Another very important component of bibimbap is the sauce. There are several complex sauces in Korean cuisine. Gochujang is one of them and one of my favorites. It has complex flavour with some heat. I use store bought gochujang paste to make a sauce for the dish which is perfect with the dish and I included how I make it below.
 </br>
 </br>
+
 ![Beef Bibimbap](/images/uploads/2018_06_28_beef_bibimbap_5.jpg)
 </br>
 </br>
@@ -40,6 +44,7 @@ Another very important component of bibimbap is the sauce. There are several com
 There are other sauces that you can add and also fermented cabbage or as it’s called kimchi as well which is absolutely great for you and so delicious. I also like to add some extras into my bibimbap for some crunch and texture like sliced radishes and sesame seeds.
 </br>
 </br>
+
 ![Beef Bibimbap](/images/uploads/2018_06_28_beef_bibimbap_6.jpg)
 </br>
 </br>
@@ -47,6 +52,7 @@ There are other sauces that you can add and also fermented cabbage or as it’s 
 Believe it or not my first Korean food experience was not beef bulgogi or bibimbap but Korean spicy beef soup. They served it scalding hot and with an egg on the side. A raw one that you crack open or they crack open for you upon serving. The broth is so hot it cooks the egg. It was a fabulous experience. The broth is spicy and very complex and funky cause there are so many flavours that go into it. Although I loved the soup what kept me going back was the bibimbap and bulgogi and I usually got a small soup or broth on the side with some simple prep I knew it could be made at home so here is the recipe for this healthy and delicious meal so you can make it and enjoy it from your own home as well.
 </br>
 </br>
+
 ![Beef Bibimbap](/images/uploads/2018_06_28_beef_bibimbap_7.jpg)
 </br>
 </br> 
@@ -109,4 +115,5 @@ __For the gochujang sauce__
 * Combine all ingredients in a small bowl. Mix well.
 
 </br>
+
 ![Beef Bibimbap](/images/uploads/2018_06_28_beef_bibimbap_8.jpg)

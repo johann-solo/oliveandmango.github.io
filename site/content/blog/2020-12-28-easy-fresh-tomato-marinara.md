@@ -15,6 +15,7 @@ description: Rich and tasty homemade marinara sauce with fresh tomatoes, garlic,
 This Fresh Tomato Marinara Sauce is very easy to make and bursting with ripe, juicy tomatoes, garlic, and fresh herbs. Homemade is always better when it comes to a tasty marinara because you can season it just the way you like it. Simple ingredients...simple, fresh-tasting, flavorful marinara!
 </br>
 </br>
+
 ![Easy Fresh Tomato Marinara](/images/uploads/2020_12_28_easy_fresh_tomato_marinara_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This Fresh Tomato Marinara Sauce is very easy to make and bursting with ripe, ju
 This is not your Italian grandmother's slow-cooked-all-day, secret family recipe marinara. No need to prep the jars and get out the big old tomato press for this one either. But this is a fresh and delicious marinara no-less and done in just about 30 minutes. 
 </br>
 </br>
+
 ![Easy Fresh Tomato Marinara](/images/uploads/2020_12_28_easy_fresh_tomato_marinara_3.jpg)
 </br>
 </br>
@@ -69,4 +71,5 @@ This simple to make marinara sauce is amazing on pasta, served as a dipping sauc
 * The amount of sugar, salt, and pepper depends on the sweetness and acidity of the tomatoes you use and also your own preference. Start with a moderate amount and increase as needed. (Easier to add more then remove)
 
 </br>
+
 ![Easy Fresh Tomato Marinara](/images/uploads/2020_12_28_easy_fresh_tomato_marinara_4.jpg)

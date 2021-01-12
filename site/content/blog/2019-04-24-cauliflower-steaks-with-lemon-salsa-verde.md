@@ -14,6 +14,7 @@ description: A warm hearty cauliflower steak with bright lemony flavours
 This recipe is from a cookbook after my own heart. It’s from Love & Lemons Every Day by Jeanine Donofrio and Jack Mathews. There’s a few reasons I love this book - the obvious one is because I love my veggies and I mean all the veggies. Their recipes use very common  and simple to find ingredients that can be found mostly through the year at your local grocery store.  They use herbs and simple seasoning to add wonderful flavour and complexity to veggies. This dish is the perfect example. Plain roasted cauliflower with salt and pepper is paired with this lemon salsa verde which is made with a quick batch of preserved lemons, and garlicky miso cauli mash. You have yourself some complex and delicious flavours in this simple cauliflower dish.
 </br>
 </br>
+
 ![Cauliflower Steaks With Lemon Salsa Verde](/images/uploads/2019_04_24_cauliflower_steaks_with_lemon_salsa_verde_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This recipe is from a cookbook after my own heart. It’s from Love & Lemons Eve
 Apart from that Jeff and Jeanine are a husband wife blogging duo like Johann and I and I can completely relate to her intro. I too am a peach lover like her (like so many others – I know), and I too succumb to falling into routine eating - green smoothie in the morning, avo toast for lunch and pho for dinner (we share a few things in common). That is why I love this book - it has given me some inspo for getting me out of my rut.  As a blogger who has a day job and doesn’t always cook to eat but many times cooks to shoot, and shoot for others - I don’t always eat the food we cook (my family does and thanks me for it). I sometimes can’t even eat what I cooked for the blog the same day - have you ever felt like that about the food you prepped and made? - you just lose your appetite a bit. So I resort to a lot of avo toasts and smoothies and I have the leftovers the day after. For some reason I can stomach the leftovers the next day. Anyways life is more than avo toasts and this book has given me some inspo for some simple meals I can prep and feel good about for everyday eating (esp on days when I don’t feel like eating the food I shot but want simple and delicious veggies meals that make me feel light on my feet) - cause lets be real homemade gnocchi and lasagna are not the usual in my midweek life.
 </br>
 </br>
+
 ![Cauliflower Steaks With Lemon Salsa Verde](/images/uploads/2019_04_24_cauliflower_steaks_with_lemon_salsa_verde_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ Apart from that Jeff and Jeanine are a husband wife blogging duo like Johann and
 Apart from the delicious recipes and beautiful photography, their are some pretty awesome features in this book. The recipes are clear and easy to follow and the book is divided into sections that make sense. The extra features include various ways to make simple meals and desserts - like 6 ways to scramble eggs, fruit crumbles 4 ways, 5 easy pasta favorites plus some super awesome guides. The guides include guides on grilling vegetables, building an epic snack board, how to freeze herbs properly, a two page spread on how to build your own salad dressing and so many great step by step pictures on how to make some of the recipes which I always love and find helpful. There is a great cocktail section and also a really cool tea-tail section in the book as well.  I’m dying to try her matcha mojito and the hibiscus highball. There is also a homemade extras section that includes a few basic vegan recipes that I can’t wait to try. I have her vegan pie crust on my list and I’m using her vegan ricotta in a recipe I am making this weekend.
 </br>
 </br>
+
 ![Cauliflower Steaks With Lemon Salsa Verde](/images/uploads/2019_04_24_cauliflower_steaks_with_lemon_salsa_verde_4.jpg)
 </br>
 </br>
@@ -39,6 +42,7 @@ This is a delicious dish from the book that I was happy to try and happy to say 
 This book was a generous gift from _Penguin Canada_
 </br>
 </br>
+
 ![Cauliflower Steaks With Lemon Salsa Verde](/images/uploads/2019_04_24_cauliflower_steaks_with_lemon_salsa_verde_6.jpg)
 </br>
 </br>
@@ -100,4 +104,5 @@ __Lemon Salsa Verde__
 3. Cover and shake. Chill for at least 3 hours, preferably overnight. The lemons will last for about 1 week
 
 </br>
+
 ![Cauliflower Steaks With Lemon Salsa Verde](/images/uploads/2019_04_24_cauliflower_steaks_with_lemon_salsa_verde_7.jpg)

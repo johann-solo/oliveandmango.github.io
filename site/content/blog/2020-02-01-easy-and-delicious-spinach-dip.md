@@ -14,6 +14,7 @@ description: A classic dip that everyone loves
 This classic dip is always a hit and never goes out of style. If simple is what you are looking for look no further. It’s creamy, and can easily be thrown together in a pinch for any party or last minute guests. Recently a few blog followers requested a recipe for a spinach dip.  This is my fall back recipe that I usually make and it’s originally from Epicurious.  I make it with some simple tweaks to suit my taste and I have shared the recipe as I make it below. 
 </br>
 </br>
+
 ![Easy and Delicious Spinach Dip](/images/uploads/2020_02_01_easy_and_delicious_spinach_dip_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This classic dip is always a hit and never goes out of style. If simple is what 
 I always have frozen spinach on hand because I always include it in my smoothies plus soups and stews so it’s a staple in my freezer. It’s simple enough to defrost in the microwave if you are like me and at times forget to plan ahead and thaw it out which makes this the perfect dip for last minute entertaining. 
 </br>
 </br>
+
 ![Easy and Delicious Spinach Dip](/images/uploads/2020_02_01_easy_and_delicious_spinach_dip_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I always have frozen spinach on hand because I always include it in my smoothies
 It’s also one of those recipes that is pretty standard and tweakable.  If you wanted to spice it up you could add some jalapeños to it or you can even fry up some bacon and add it to the mix as well. Some love to add some extra cheese into it. Grated Parmesan would be a great addition to it adding a extra layer of cheesiness and cheesy funk in a good way. You could easy turn this into a baked cheese dip with a cheesy browned crust over it by  making it in a oven proof skillet, topping it with loads of your choice of melty cheese once it’s cooked, then transferring the pan to the oven and baking or broiling it for a few minutes until the cheese is melted, bubbling and golden.  
 </br>
 </br>
+
 ![Easy and Delicious Spinach Dip](/images/uploads/2020_02_01_easy_and_delicious_spinach_dip_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ It’s also one of those recipes that is pretty standard and tweakable.  If you 
 This is such an easy recipe and with so few ingredients you will be surprised how loaded with flavour it is.  I really like that this recipe calls for super simple ingredients that are easy to come by and ones you may already have on hand. It’s also mayo-less which I know a lot of people appreciate. I hope you try this simple recipe and make it your own by adding or tweaking it to your liking. It goes well with crusty bread, crisps and crackers along with all the veggies too. Enjoy! 
 </br>
 </br>
+
 ![Easy and Delicious Spinach Dip](/images/uploads/2020_02_01_easy_and_delicious_spinach_dip_5.jpg)
 </br>
 </br>
@@ -75,4 +79,5 @@ This is such an easy recipe and with so few ingredients you will be surprised ho
 * Dip can be made 1 day ahead. Store in an airtight container and chill. Warm before serving.
 
 </br>
+
 ![Easy and Delicious Spinach Dip](/images/uploads/2020_02_01_easy_and_delicious_spinach_dip_6.jpg)

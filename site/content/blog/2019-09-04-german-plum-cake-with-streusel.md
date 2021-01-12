@@ -14,6 +14,7 @@ description: This sweet and slightly tart cake is irresistibly buttery and delic
 This sweet and slightly tart cake is irresistibly buttery and delicious. It’s so easy to make and I bet you have all the ingredients you need for it in your fridge and pantry right now. 
 </br>
 </br>
+
 ![German Plum Cake with Streusel ](/images/uploads/2019_09_04_german_plum_cake_with_streusel_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This sweet and slightly tart cake is irresistibly buttery and delicious. It’s 
 The first time I heard about this cake is when I googled plum recipes. I do that for every fruit and veggie in season for inspiration. I saw the German name for this one pop up quite a few times in my search so I had to investigate. It’s also known by these other names _zwetschgendatschi_, _zwetschgenkuchen_, and _quetschekuche_. I was totally sold on it after each recipe went on about how simple it is and how fabulous it is. 
 </br>
 </br>
+
 ![German Plum Cake with Streusel ](/images/uploads/2019_09_04_german_plum_cake_with_streusel_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ The first time I heard about this cake is when I googled plum recipes. I do that
 I chose to go off the simplest recipe for both the cake and the streusel as you can imagine there are a whole whack of variations out there for both. The cake is a popular German cake – which could almost pass as a tart if you ask me. It’s most often made like this in a cake tin or in a sheet pan or slab cake/pie fashion. I went the cake route as it was the simplest with the fewest steps. 
 </br>
 </br>
+
 ![German Plum Cake with Streusel ](/images/uploads/2019_09_04_german_plum_cake_with_streusel_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ I chose to go off the simplest recipe for both the cake and the streusel as you 
 The cake has three layers essentially. The base which is between a cake and tart crust in texture. More accurately the very bottom of it gets slightly crust-like and the top part of it remains a bit spongy - likely due to the moisture from the jammy plums. That brings me to an important part of those to layers. Just like making a pie or a galette - there is a fine line between damp squidge in your cake/crust layer from the jammy fruit which is desirable, but sogginess certainly isn’t. That is why the dough is lined with vanilla pudding or if you are opposed to instant vanilla pudding than semolina or almond flour/meal is a great alternative. A sprinkle over the dough and then over the fruit layer does the trick. It soaks up the crimson juices of the ripe plums as they get jammified and delicious in the oven while baking. 
 </br>
 </br>
+
 ![German Plum Cake with Streusel ](/images/uploads/2019_09_04_german_plum_cake_with_streusel_5.jpg)
 </br>
 </br>
@@ -42,9 +46,11 @@ The cake has three layers essentially. The base which is between a cake and tart
 When it comes to the plums themselves, they do not need to be tossed in sugar or anything. I scored some fabulously sweet ones - I mean I haven’t had sweet ones like that in a long time.  Regardless the plums have just the right amount of sweetness with just enough tart to add a nice brightness to this cake. The dough and the streusel itself have enough sweetness in them already so no sugar is needed for the fruit layer. 
 </br>
 </br>
+
 ![German Plum Cake with Streusel ](/images/uploads/2019_09_04_german_plum_cake_with_streusel_6.jpg)
 </br>
 </br>
+
 ![German Plum Cake with Streusel ](/images/uploads/2019_09_04_german_plum_cake_with_streusel_7.jpg)
 </br>
 </br>
@@ -52,6 +58,7 @@ When it comes to the plums themselves, they do not need to be tossed in sugar or
 I cannot even tell you how many compliments I got on this simple little humble cake. By far it’s been my family’s favorite cake of the summer.  There are still plenty of plums out there - make sure and make making this cake a priority with some of them - 2 lbs of them to be exact. It’s great with tea, coffee, breakfast cause I don’t judge and most definitely with a dusting of powdered sugar and a dollop of whip cream. Heaven in each bite I’m telling you. 
 </br>
 </br>
+
 ![German Plum Cake with Streusel ](/images/uploads/2019_09_04_german_plum_cake_with_streusel_8.jpg)
 </br>
 </br>
@@ -94,4 +101,5 @@ __For the streusel__
 Adapted from _TheGuardian.com_
 </br>
 </br>
+
 ![German Plum Cake with Streusel ](/images/uploads/2019_09_04_german_plum_cake_with_streusel_9.jpg)

@@ -14,6 +14,7 @@ description: Deliciously creamy spreadable garlic condiment
 This creamy spreadable garlic condiment is irresistible and easy to make.  The word confit is a French word that describes more of a technique then a recipe. It’s the process of preserving food and in this case we are preserving garlic. Fresh organic and delicious home grown garlic. We had an abundance of it even after giving much of it away. The garlic is peeled and then gently poached in olive oil (although any oil or fat can be used). There’s no rules for which oil to use but olive oil is a good option  - it adds a pleasant, complementary flavour.  The process caramelizes the cloves making them buttery and smooth and also concentrates their sweetness while infusing them with the oil you poach them in. 
 </br>
 </br>
+
 ![Easy Garlic Confit](/images/uploads/2020_09_16_easy_garlic_confit_2.jpg)
 </br>
 </br>
@@ -26,6 +27,7 @@ The garlic confit will keep well in the fridge for up to two weeks. Some recipes
 The oil will harden being in the fridge but you can scoop it out and use it for sautéing or use it in dressings adding so match flavour to whatever you add it to. It liquifies pretty quickly at room temperature. 
 </br>
 </br>
+
 ![Easy Garlic Confit](/images/uploads/2020_09_16_easy_garlic_confit_3.jpg)
 </br>
 </br>
@@ -63,4 +65,5 @@ __Alternative add-ins (flavorings):__
 1. Using a slotted spoon, transfer the garlic, (herbs and chiles if using any) to one or more jars or any kind of sealed container. Pour the cooking oil on top, seal and refrigerate for up to 2 weeks. 
 
 </br>
+
 ![Easy Garlic Confit](/images/uploads/2020_09_16_easy_garlic_confit_4.jpg)

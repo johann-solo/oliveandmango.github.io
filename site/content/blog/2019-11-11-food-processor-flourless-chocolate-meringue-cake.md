@@ -14,6 +14,7 @@ description: A very fudgey and delicious cake with two topping alternatives
 This wonderful and simple to make flourless chocolate cake comes to us from the talented and fun TV star Mary Berg. This is the first book for Mary and I was so happy to get a copy of it thanks to her and Appetite by Random House. It’s called Kitchen Party and it’s a book full of effortless recipes for every occasion.
 </br>
 </br>
+
 ![Food Processor Flourless Chocolate Meringue Cake](/images/uploads/2019_11_11_food_processor_flourless_chocolate_meringue_cake_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ Mary loves food and loves sharing it with others. She shares 100 recipes that ar
 Her book is divided into different occasions for entertaining from brunch to cocktails, dinner parties, special occasion menus and even go a party of Two. Not only does she share inspiring recipes for these occasions but she also shares some of her favorite menu plans making it even easier to entertain. 
 </br>
 </br>
+
 ![Food Processor Flourless Chocolate Meringue Cake](/images/uploads/2019_11_11_food_processor_flourless_chocolate_meringue_cake_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ Her book is divided into different occasions for entertaining from brunch to coc
 I couldn’t wait to make her Food Professor Flourless Chocolate cake. I mean it’s made in the food processor - how amazing is that already?!?  I love baking and cooking hacks like this. It really is so simple to make and it gets even better in taste and texture the day after which makes it the perfect make ahead dessert. I have been wanting to make Nigella Lawsons cappuccino pavlova for a while now and decided this might be my opportunity to.  I have also wanted to make a flourless meringue cake for a while too so decided to put the two together and it was a marvelous marriage. I used Mary’s recipe for the cake, Nigella’s meringue (but I made it mocha instead of just cappuccino) and Martha Stewart’s methodology for this recipe, so you know this cake has to be good!! 
 </br>
 </br>
+
 ![Food Processor Flourless Chocolate Meringue Cake](/images/uploads/2019_11_11_food_processor_flourless_chocolate_meringue_cake_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ I couldn’t wait to make her Food Professor Flourless Chocolate cake. I mean it
 The cake is decadent and fudgey.  The intense cocoa flavour is made more distinct with the hint of espresso powder in it. I included Mary’s full recipe with her delicious mascarpone and fruit topping. I also included he meringue version. Both are fantastic so it’s really what you are feeling up to. The meringue baked over the cake is light and fluffy, slightly chewy and with crackly and crunchy edges that actually stay crunchy days after. The meringue puffs up quite a bit when it bakes as does the cake but have no fear it deflates quite quickly so no need to panic.  The best part about making this meringue is that there is no need to stress about it cracking - it’s inevitable and totally acceptable for it to have a crackly topping. Whatever topping you chose one thing for sure is that you won’t regret either. This cake is pretty fab and you could easily have it just as it is with just a dusting of powdered sugar. We will definitely be making this again and again - And again! Enjoy! 
 </br>
 </br>
+
 ![Food Processor Flourless Chocolate Meringue Cake](/images/uploads/2019_11_11_food_processor_flourless_chocolate_meringue_cake_5.jpg)
 </br>
 </br>
@@ -106,4 +110,5 @@ The top of the cake will fall once you take it out of the oven, but that’s all
 5. Transfer pan to a wire rack; let stand 10 minutes. Run a knife around the edge of the cake to loosen, and release sides of pan. Let cool, about 30 minutes, before slicing and serving.
 
 </br>
+
 ![Food Processor Flourless Chocolate Meringue Cake](/images/uploads/2019_11_11_food_processor_flourless_chocolate_meringue_cake_6.jpg)

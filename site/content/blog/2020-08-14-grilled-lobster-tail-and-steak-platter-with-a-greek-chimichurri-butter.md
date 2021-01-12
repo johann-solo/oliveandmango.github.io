@@ -14,6 +14,7 @@ description: A super easy surf and turf recipe and combo made with buttered, gri
 A super easy surf and turf recipe and combo made with buttered, grilled lobster tails and steak. The garlic butter is infused with lemon and lots of fresh herbs - a very Greekstyle blend of them for this chimichurri butter. This is the perfect anniversary dinner for two very hungry people but it also makes for a great grill platter that can be shared by 4.
 </br>
 </br>
+
 ![Grilled Lobster Tail and Steak Platter](/images/uploads/2020_08_14_grilled_lobster_tail_and_steak_platter_with_a_greek_chimichurri_butter_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ A super easy surf and turf recipe and combo made with buttered, grilled lobster 
 This platter is a great way to serve grilled steak and lobster tails - ready sliced and easy to enjoy with all the sides right on the same plate. I love to serve mine up with a [Greek horiatiki salad](https://www.oliveandmango.com/classic-greek-village-salad-horiatiki/) along with my [Greek potato salad](https://www.oliveandmango.com/greek-style-potato-salad/). Some grilled lemon to squeeze on to the surf & turf and grilled calabrese baguette that was either drizzled with olive oil before or slathered with some of the Greek chimichurri butter after. This platter enjoyed alfresco with a cold ale or white wine or just something cold - nothing like it. Grilled platters like these just scream summer. 
 </br>
 </br>
+
 ![Grilled Lobster Tail and Steak Platter](/images/uploads/2020_08_14_grilled_lobster_tail_and_steak_platter_with_a_greek_chimichurri_butter_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ This platter is a great way to serve grilled steak and lobster tails - ready sli
 First off, lobster tail is actually a lot easier than you’d think so no need to be intimidated by it. The only struggle I have with them is cutting through the shell, as these particular guys were on the brittle side, so they kept wanting to break on me instead of giving me a clean cut. The ones with the clean cut shell I butterflied but the others I just cut right down the center of them. The directions below have more detailed instructions but the video is super helpful too - make sure to take a second and watch it if you have never prepared lobster tails before. I used Frozen Rock Lobster Tail from Metro. I let it thaw in the fridge overnight. If you are short on time you can throw the whole package in a large bowl of cold water and give it some time to thaw that way as well. Rock lobster is slightly different than Maine lobster. The major difference is the size of the claw and antenna, On a rock lobster, the antenna is much larger, while the claw is pretty much nonexistent. The benefit is that the tail has more meat than the Maine lobster. That’s a little side note from some research I did cause you always gotta know what your cooking, right!? 
 </br>
 </br>
+
 ![Grilled Lobster Tail and Steak Platter](/images/uploads/2020_08_14_grilled_lobster_tail_and_steak_platter_with_a_greek_chimichurri_butter_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ First off, lobster tail is actually a lot easier than you’d think so no need t
 Steak is another one of those things that some people find intimidating to grill or cook. You will find that cooking a steak is the easiest thing ever and same with the lobster, after you make them. The ingredient list for this surf and turf dinner is quite short and simple. Aside from salt, pepper, and oregano, all you need are your steaks, lobster tails, and your herbed butter if you are serving it with your surf and turf - which I strongly recommend you do. Since the flavors in this dish are so simple, the key to making a great surf and turf dinner is timing. Have all ingredients ready and once you have grilled your steaks on one side - after you flip add the tails and they take no time to grill. Then you can take everything off the grill at one time. When it comes to grilling the steak itself make sure to season them well, and then simply grill - the tougher part is agreeing on how you want them done. 
 </br>
 </br>
+
 ![Grilled Lobster Tail and Steak Platter](/images/uploads/2020_08_14_grilled_lobster_tail_and_steak_platter_with_a_greek_chimichurri_butter_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ Steak is another one of those things that some people find intimidating to grill
 I recommend a meat thermometer if you or whoever your grilling for is picky about how they want their meat - it’s handy and can help you know when your steaks are done according to the way you want them done. I have more information on temperatures and doneness below. I got my cap off Rib Steaks from Metro also and they are such a great cut to grill! They are tender and flavourful and I learned that trimming off the Cap (in cap off steaks) means there is less waste, so better value for your money. One of the most flavourful tender steaks. It’s great for grilling but also great for pan-searing, or broiling. You can use your favorite cut for this surf and turf though. 
 </br>
 </br>
+
 ![Grilled Lobster Tail and Steak Platter](/images/uploads/2020_08_14_grilled_lobster_tail_and_steak_platter_with_a_greek_chimichurri_butter_6.jpg)
 </br>
 </br>
@@ -115,4 +120,5 @@ If you don’t have garlic butter you can easily make the herbed butter as is in
 1. Remove steaks from grill Let steaks rest for five minutes. The juices will redistribute throughout the meat, producing tender, juicy results.
 
 </br>
+
 ![Grilled Lobster Tail and Steak Platter](/images/uploads/2020_08_14_grilled_lobster_tail_and_steak_platter_with_a_greek_chimichurri_butter_7.jpg)

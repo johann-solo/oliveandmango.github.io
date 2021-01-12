@@ -19,6 +19,7 @@ This is such an easy recipe for making a very smooth and luscious citrus curd th
 Simply whisk together the sugar, cornstarch, yolks, zest, freshly squeezed juice of the citrus of your choice along with the butter over medium heat. It takes a little patience and whisking but that is it. Once it starts to thicken you remove it from the heat, pass it threw a fine sieve and it’s done. 
 </br>
 </br>
+
 ![How to Make a Simple No Fail Citrus Curd](/images/uploads/2020_07_10_how_to_make_a_simple_no_fail_citrus_curd_2.jpg)
 </br>
 </br>
@@ -27,6 +28,7 @@ Simply whisk together the sugar, cornstarch, yolks, zest, freshly squeezed juice
 You can easily add a little extra flavour to your curd by adding in some essence or extract and even some bitters.  What I love to do is add a little booze to mine. Especially citrus based liqueurs like Limoncello, Grand Marnier or Cointreau. They add a little extra depth to your curd and make it even more special. I would add no more than  2 tablespoons of additional flavourings in the curd in order for it to maintain the perfect texture. 
 </br>
 </br>
+
 ![How to Make a Simple No Fail Citrus Curd](/images/uploads/2020_07_10_how_to_make_a_simple_no_fail_citrus_curd_3.jpg)
 </br>
 </br>
@@ -69,4 +71,5 @@ __For a boozy spin add__
 4. Press plastic wrap directly on the surface of the curd to prevent skin from forming and refrigerate until needed.
 
 </br>
+
 ![How to Make a Simple No Fail Citrus Curd](/images/uploads/2020_07_10_how_to_make_a_simple_no_fail_citrus_curd_4.jpg)

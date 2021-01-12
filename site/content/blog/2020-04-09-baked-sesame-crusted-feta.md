@@ -14,6 +14,7 @@ description: A simple and delicious appetizer with crispy baked layer surroundin
 This is such a great quick-and-easy appetizer for any occasion that’s gone so fast - before you know it. I serve it up with pita chips or crusty bread but often times those are ignored. I understand why it’s so irresistible - nothing beats a sweet and savoury combo like this one. 
 </br>
 </br>
+
 ![Baked Sesame Crusted Feta](/images/uploads/2020_04_09_baked_sesame_crusted_feta_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This is such a great quick-and-easy appetizer for any occasion that’s gone so 
 There are so many different ways to enjoy feta other than in a Greek salad. There is pan fried feta, deep fried feta, breaded feta, panko crusted feta, phyllo wrapped feta and there’s even a different sort of baked feta with olives and veggies that you should [definitely check out](https://www.oliveandmango.com/spicy-baked-feta-bouyiourdi/) too. All the variations are delicious. I prefer baked or pan fried always over deep fried so I decided to do a nice baked version. The sesame seeds add a really nice crispy baked layer surrounding an entire block of feta. All that crispness but without being deep fried - gotta love that! 
 </br>
 </br>
+
 ![Baked Sesame Crusted Feta](/images/uploads/2020_04_09_baked_sesame_crusted_feta_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ There are so many different ways to enjoy feta other than in a Greek salad. Ther
 Feta isn’t really a melty cheese. It’s not the same kind of cheese that is used in Saganaki. It tends to hold its shape better and it’s really easy to work with. The outside of the cheese remains crispy, while the inside is warm, and soft and remains sharp and salty. I love to serve this with loads of syrupy honey which really goes well with that sharp and salty flavour of the feta. It makes a perfect appetizer served with crispy pita or on a charcuterie platter with fruits and veggies and also works on a brunch table as well. It never disappoints and if you love feta and have never tried to bake feta before - what are you waiting for?
 </br>
 </br>
+
 ![Baked Sesame Crusted Feta](/images/uploads/2020_04_09_baked_sesame_crusted_feta_4.jpg)
 </br>
 </br>
@@ -62,4 +65,5 @@ To serve: Honeycomb and fresh thyme to garnish and lemon zest
 3. Remove and serve immediately topped with honey, a sprinkle of fresh thyme and lemon zest and crusty bread or pita chips 
 
 </br>
+
 ![Baked Sesame Crusted Feta](/images/uploads/2020_04_09_baked_sesame_crusted_feta_5.jpg)

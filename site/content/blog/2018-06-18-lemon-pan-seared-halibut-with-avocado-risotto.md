@@ -18,6 +18,7 @@ description: A classy seafood dinner with pan-seared halibut and lovely avocado 
 I am a seafood lover. I never say no to a fish option when I can get it but and it’s a big but, I have very little experience and confidence when called on to make a seafood dish. I tend to stick to seafood that I do feel comfortable with like pan seared seafood for fish tacos or curry and probably the easiest of the bunch - shrimp. I’m always up for a challenge and when I got the opportunity to cook from _The Wickanninish cookbook_, although a little intimidating, I ended up choosing a fish dish that was actually quite simple to make and thought it would be the perfect one to share with my followers.
 </br>
 </br>
+
 ![Lemon Pan-Seared Halibut With Avocado Risotto](/images/uploads/2018_06_18_lemon_pan_seared_halibut_with_avocado_risotto_2.jpg)
 </br>
 </br>
@@ -25,6 +26,7 @@ I am a seafood lover. I never say no to a fish option when I can get it but and 
 The halibut is perfectly tender and flakes away in beautifully huge chunks. It’s simple to make because it requires very little work.  Basically salt and pepper, a good sear on either side and then into a pre-heated oven for a few minutes to finish cooking. Halibut is definitely not the most inexpensive fish out there but according to my parents who feasted on it - it’s worth every penny. They enjoyed this dish on the whole and so did I.
 </br>
 </br>
+
 ![Lemon Pan-Seared Halibut With Avocado Risotto](/images/uploads/2018_06_18_lemon_pan_seared_halibut_with_avocado_risotto_3.jpg)
 </br>
 </br>
@@ -32,6 +34,7 @@ The halibut is perfectly tender and flakes away in beautifully huge chunks. It�
 Along with the fish, I was actually pleasantly surprised that my parents loved loved loved the avocado risotto. My mom is of the rare kind that actually doesn’t like avocados and that’s why I was surprised she loved the risotto. We on the other hand loved it and I know you will too.  I knew it would be fabulous when I saw the recipe and knew this was the recipe to share as I know most of you love avocados as much as I do. Risotto in general is creamy and delicious - add avocado, cheese and butter and you get yourself a whole other level of rich creaminess.
 </br>
 </br>
+
 ![Lemon Pan-Seared Halibut With Avocado Risotto](/images/uploads/2018_06_18_lemon_pan_seared_halibut_with_avocado_risotto_4.jpg)
 </br>
 </br>
@@ -39,6 +42,7 @@ Along with the fish, I was actually pleasantly surprised that my parents loved l
 There is one thing that I did change in the risotto recipe though. I swapped out the morels with fresh crimini mushrooms because I couldn’t find any morels - dry or fresh. I’m sure  any other earthy flavoured mushroom do. The risotto was still fabulous without them but definitely use the morels if you have access to them.
 </br>
 </br>
+
 ![Lemon Pan-Seared Halibut With Avocado Risotto](/images/uploads/2018_06_18_lemon_pan_seared_halibut_with_avocado_risotto_5.jpg)
 </br>
 </br>
@@ -46,6 +50,7 @@ There is one thing that I did change in the risotto recipe though. I swapped out
 It’s a well balanced delicious meal that I served up with some steamed buttery green beans and a garden salad with lemon wedges for the halibut and we throughly enjoyed it! I will definitely be making the risotto again and again and of course the halibut as well. The halibut seems light in seasoning and that is quite alright. It’s a buttery flavourful fish to begin with that will be overshadowed with too much seasoning - just like a great steak would be too with more than salt pepper and a good compound butter if ya know what I mean.
 </br>
 </br>
+
 ![Lemon Pan-Seared Halibut With Avocado Risotto](/images/uploads/2018_06_18_lemon_pan_seared_halibut_with_avocado_risotto_6.jpg)
 </br>
 </br>

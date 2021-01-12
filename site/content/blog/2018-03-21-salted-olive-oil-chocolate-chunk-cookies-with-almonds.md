@@ -12,6 +12,7 @@ excerpt: Loaded rich and thick chocolate chunk cookies will keep you coming back
 I’m always in search of a great cookie and especially a chocolate chip one. There are so many variations out there and I want to try them all. Everyone has very different tastes when it comes to what they like in there chocolate chip cookies, probably the reason for all the variations.
 </br>
 </br>
+
 ![Salted Olive Oil Chocolate Chunk Cookies With Almonds](/images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_2.jpg)
 </br>
 </br>
@@ -19,12 +20,15 @@ I’m always in search of a great cookie and especially a chocolate chip one. Th
 I love chocolate chunk anything and this goes for cookies as well. I’m a fan of cookies that are loaded as well, just like these. They not only have chunks of chocolate but they also have chopped almonds in them too which add more texture, crunch and flavour. Who doesn’t love the flavour of toasted almonds. The olive oil gives them a rich flavour and texture too. You would never know they had olive oil in them because you don’t taste the olive oil so much as you notice a hint of something different. You can definitely use coconut oil if you don’t like olive oil but I think that you will lose a little of the richness that olive oil gives things.
 </br>
 </br>
+
 ![Salted Olive Oil Chocolate Chunk Cookies With Almonds](/images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_3.jpg)
 </br>
 </br>
+
 ![Salted Olive Oil Chocolate Chunk Cookies With Almonds](/images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_4.jpg)
 </br>
 </br>
+
 ![Salted Olive Oil Chocolate Chunk Cookies With Almonds](/images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_5.jpg)
 </br>
 </br>
@@ -32,12 +36,15 @@ I love chocolate chunk anything and this goes for cookies as well. I’m a fan o
 These are the best of both worlds when it comes to texture too. They are a thick cookie with a crispy exterior. Not a biscotti kind of crisp but a more gentler crisp with a tender slightly chewy interior. The mixture of flours along with the olive oil are what really affect the texture here and make it unique. When it comes to the flours you can also make a couple of changes. You can go all AP flour and that is fine. The texture won’t be altered too much, but going all whole wheat will change the texture of the cookie all together. The texture will be more bread-like.
 </br>
 </br>
+
 ![Salted Olive Oil Chocolate Chunk Cookies With Almonds](/images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_6.jpg)
 </br>
 </br>
+
 ![Salted Olive Oil Chocolate Chunk Cookies With Almonds](/images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_7.jpg)
 </br>
 </br>
+
 ![Salted Olive Oil Chocolate Chunk Cookies With Almonds](/images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_8.jpg)
 </br>
 </br>
@@ -45,12 +52,15 @@ These are the best of both worlds when it comes to texture too. They are a thick
 What also affects the rise and spread of the cookies I have learned is using all room temperature ingredients including the butter.  Making sure everything is room temperature and that the butter is softened and not melted is very important. Everything at room temperature will help these cookies stay thick with lots of yummy texture instead of spreading thin and flat. Not too say they wouldn’t still be delicious that way but if you want them on the thicker side - room temperature ingredients is key.
 </br>
 </br>
+
 ![Salted Olive Oil Chocolate Chunk Cookies With Almonds](/images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_9.jpg)
 </br>
 </br>
+
 ![Salted Olive Oil Chocolate Chunk Cookies With Almonds](/images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_10.jpg)
 </br>
 </br>
+
 ![Salted Olive Oil Chocolate Chunk Cookies With Almonds](/images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_11.jpg)
 </br>
 </br>
@@ -58,12 +68,15 @@ What also affects the rise and spread of the cookies I have learned is using all
 These cookie are super simple and quick to make and don’t require any kind of chilling making them even quicker to bake and get in my belly! I love to add a few extra chunks of chocolate on top of the cookie dough and a good sprinkle of sea last before they go into the oven to bake for extra goodness. The sea salt enhances all the sweet flavours in the cookies especially the chocolate. All these factors make these a great choice when you are baking for friends, baking with your kids, or making a batch for yourself. I need to hide these babies from plain sight when I bake them. Me and my husband love them and if they are in plain sight we will keep snacking on them and finish them off in one sitting. So addictive and sooo rich and delicious. Give them a try and see for yourself - you will add them to your favorite chocolate chip cookie list  guaranteed!
 </br>
 </br>
+
 ![Salted Olive Oil Chocolate Chunk Cookies With Almonds](/images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_12.jpg)
 </br>
 </br>
+
 ![Salted Olive Oil Chocolate Chunk Cookies With Almonds](/images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_13.jpg)
 </br>
 </br>
+
 ![Salted Olive Oil Chocolate Chunk Cookies With Almonds](/images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_14.jpg)
 </br>
 </br>
@@ -105,4 +118,5 @@ Store cookies in an airtight container for up to five days. Baked cookies can be
 Adapted from _Fit Mitten Kitchen_
 
 </br>
+
 ![Salted Olive Oil Chocolate Chunk Cookies With Almonds](/images/uploads/2018_03_21_salted_olive_oil_chocolate_chunk_cookies_with_almonds_12.jpg)

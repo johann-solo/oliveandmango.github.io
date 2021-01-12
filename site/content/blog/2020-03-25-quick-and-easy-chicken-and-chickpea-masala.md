@@ -14,6 +14,7 @@ description: Hearty, saucy chana (chickpea) and chicken dish made in the Instant
 This hearty saucy chickpea, chicken and tomato dish is loaded with warming spices. It’s so quick to make using the Instant pot or pressure cooker if you have one but worth the extra time if you decide to braise this stovetop or in the oven. Instructions for both included. 
 </br>
 </br>
+
 ![Quick and Easy Chicken and Chickpea Masala](/images/uploads/2020_03_25_quick_and_easy_chicken_and_chickpea_masala_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This hearty saucy chickpea, chicken and tomato dish is loaded with warming spice
 Not only is it loaded with flavour but it also has a good amount of greens added to it. It’s made of basic pantry tin ingredients like chickpeas and canned crushed tomatoes along with spices you may already have in your pantry with the exception of a few like the garam masala. Traditional garam masala is an incredibly complex spice blend that often contains more than 30 ingredients. A store bought blend is a great and easy way to go but if you can’t locate one you can substitute curry powder for a similar warmth but not the exact flavour, or a mixture of allspice and cumin. 
 </br>
 </br>
+
 ![Quick and Easy Chicken and Chickpea Masala](/images/uploads/2020_03_25_quick_and_easy_chicken_and_chickpea_masala_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ Not only is it loaded with flavour but it also has a good amount of greens added
 Authentic chana masala is typically made with whole spices, plus some dried mango powder (amchur). Mango powder isn’t a very simple spice for everyone to find that adds a sour tang to recipes, so that is why it’s often replaced with lemon juice/vinegar in recipes just like this one. It’s a tangy spice made from green mangos that have been dried and powdered. This is not as authentic, as we are using ground spices. Cooking them off in butter to bring out their best flavour. It’s a simplified version that is super tasty and does not disappoint. 
 </br>
 </br>
+
 ![Quick and Easy Chicken and Chickpea Masala](/images/uploads/2020_03_25_quick_and_easy_chicken_and_chickpea_masala_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ Authentic chana masala is typically made with whole spices, plus some dried mang
 This quick and easy chicken and chickpea masala recipe is great served over basmati rice or served with warm buttery naan. It’s loaded with warm spices, hearty, and makes great leftovers, too! The flavours actually get better the next day. It’s become a staple recipe on our home and worth pulling out the instant pot for a speedy dinner!  
 </br>
 </br>
+
 ![Quick and Easy Chicken and Chickpea Masala](/images/uploads/2020_03_25_quick_and_easy_chicken_and_chickpea_masala_5.jpg)
 </br>
 </br>
@@ -107,4 +111,5 @@ Serves 4-6
 Adapted from _Serious Eats_
 
 </br>
+
 ![Quick and Easy Chicken and Chickpea Masala](/images/uploads/2020_03_25_quick_and_easy_chicken_and_chickpea_masala_6.jpg)

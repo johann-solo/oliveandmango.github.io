@@ -14,12 +14,15 @@ description: This tender and delicious beef pie is made quick and easy in the In
 There’s nothing more comforting than a hot stew when the temperatures are freezing outside. Adding cheese and puff pastry to it and baking it off until its bubbling makes it even better. It’s the end of February and everyone keeps talking about spring but Spring has definitely not sprung in this part of the world yet. It’s been super cold and we just got another healthy dumping of snow. So meals like this are definitely in order. 
 </br>
 </br>
+
 ![Guinness Pie](/images/uploads/2020_02_27_guinness_pie_2.jpg)
 </br>
 </br>
+
 ![Guinness Pie](/images/uploads/2020_02_27_guinness_pie_3.jpg)
 </br>
 </br>
+
 ![Guinness Pie](/images/uploads/2020_02_27_guinness_pie_4.jpg)
 </br>
 </br>
@@ -28,12 +31,15 @@ There’s nothing more comforting than a hot stew when the temperatures are free
 I was looking for a good Guinness pie recipe and came across <span class="highlight"><a rel="nofollow" href="https://www.marthastewart.com/1511473/guinness-pie">Martha Stewart’s</a></span>. I loved it so this is my rendition of her recipe made in the <span class="highlight"><a rel="nofollow" href="https://instantpot.com">Instant Pot</a></span>. It makes making a pie like this super easy and cuts down so much on the cooking time. Instead of it braising for hours it cooks in the Instant Pot for 20 minutes and then bakes with the puff over it for another half hour. I have been getting more and more use out of my Instant Pot the last few months as we have been shooting content for companies that showcase recipes using it. So I thought I would incorporate a few recipe on the blog with options to make the dish using the Instant Pot. I have included braising instructions below if you wanted to make this on a slow Sunday on the stove top enjoying the smell of it braising away for a couple of hours - either way is delicious. 
 </br>
 </br>
+
 ![Guinness Pie](/images/uploads/2020_02_27_guinness_pie_5.jpg)
 </br>
 </br>
+
 ![Guinness Pie](/images/uploads/2020_02_27_guinness_pie_6.jpg)
 </br>
 </br>
+
 ![Guinness Pie](/images/uploads/2020_02_27_guinness_pie_7.jpg)
 </br>
 </br>
@@ -42,6 +48,7 @@ I was looking for a good Guinness pie recipe and came across <span class="highli
 I love adding beer to roasts and stews. I’m such a fan of the extra add ins that give meats like this one and their sauces so much flavour. I have a brisket chili recipe my brother inspired on my list to test soon that not only has Guinness in it but also coffee. Doesn’t that sound incredible!!? Guinness Beer gives this sauce an incredible rich, deep flavour, and the beef is fall-apart tender and is so delicious enveloped in cheese - yes cheese (optional but recommended) and buttery puff pastry. Let’s go back to the cheese shall we. The smoked cheddar adds even more depth of flavour and richness to this pie plus as an added bonus it also acts as a slight barrier between the filling and the pastry allowing the puff to crisp up well and stay crispy longer. Expect me sharing a few more cozy meals like this on the blog and perhaps a few more using the instant pot! Enjoy and stay warm!
 </br>
 </br>
+
 ![Guinness Pie](/images/uploads/2020_02_27_guinness_pie_8.jpg)
 </br>
 </br>
@@ -107,4 +114,5 @@ Serves 8-10
 If Instant Pot shows BURN notice that usually means either there isn’t enough liquid in the pot or that there are too many brown bits at the bottom of the pot that need to be released - otherwise they read as burned food to the IP. Simply depressurize the IP add more liquid and scrape the bottom well - replace lid and continue cooking. For more trouble shooting with instant pot BURN notices <span class="highlight"><a rel="nofollow" href="https://www.pressurecookrecipes.com/instant-pot-burn/">check this out</a></span>.
 
 </br>
+
 ![Guinness Pie](/images/uploads/2020_02_27_guinness_pie_9.jpg)

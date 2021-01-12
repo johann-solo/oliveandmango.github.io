@@ -14,6 +14,7 @@ description: Homemade cakey, tender doughnuts with a delicious vanilla glaze
 These sour cream donuts are cakey, tender with a delicious vanilla glaze that seeps into all the nooks and crannies of the doughnut. These require zero yeast and are fried to perfection. They are easy to make and you will be hooked after the first time you make them. They are just as good if not better than the ones they serve at your favorite doughnut shop.
 </br>
 </br>
+
 ![Homemade Sour Cream Glazed Doughnuts](/images/uploads/2020_06_04_homemade_sour_cream_glazed_doughnuts_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ These sour cream donuts are cakey, tender with a delicious vanilla glaze that se
 You all know I’m not into any thing deep fried. But when hubby requests doughnuts - I make doughnuts. We have a lot of amazing doughnut shops in the area and so he doesn’t ask often but considering the circumstances - homemade everything is in order. Hubby goes nuts for any doughnuts - me; not so much. My weakness though is a good sour cream glazed doughnut. I will never pass up a sour cream glazed doughnut or doughnut hole (Tim Bit). So I decided to make some at home. Crazy idea right- the smarter thing would have been to make my least favorite doughnut then there would be zero temptation to eat the whole dozen. Obviously today wasnt for smart decisions. You will definitely thank me for that bad decision just like my family did. 
 </br>
 </br>
+
 ![Homemade Sour Cream Glazed Doughnuts](/images/uploads/2020_06_04_homemade_sour_cream_glazed_doughnuts_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ You all know I’m not into any thing deep fried. But when hubby requests doughn
 It’s a simple process of making a simple non-yeasted dough made from cake flour, baking powder and some spices and ofcourse sugar and a bit of butter and we can’t leave out the sour cream. The dough needs to rest in the fridge after it’s mixed with a mixer (standing or hand held) and then it’s rolled out. It’s a very easy dough to work with. Once it’s rolled out you just cut out your doughnuts and then they are ready to be fried to perfection. After they have cooled for a couple of minutes they get dipped and flipped in a delicious vanilla glaze and then you can eat them warm or allow the glaze to set and let them cool. A simple process. The only intimidating part is the deep frying. The key is to make sure you use a deeper pot or dutch oven and carefully place and remove doughnuts into and out of the oil. 
 </br>
 </br>
+
 ![Homemade Sour Cream Glazed Doughnuts](/images/uploads/2020_06_04_homemade_sour_cream_glazed_doughnuts_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ It’s a simple process of making a simple non-yeasted dough made from cake flou
 You need something to cut them into doughnut shapes. You can use the commercial doughnut cutters that are available out there but a round biscuit cutter would work perfectly. You would need one larger one and a smaller one for the doughnut hole. I used a biscuit cutter for the doughnut and a piping tool with a large base for the doughnut hole. A mason jar lid would work well too and even the rim of a glass could work. The other thing I strongly recommend having to make the perfect doughnuts every time is a thermometer.  Whether you have a clip on candy thermometer or one you have to periodically place in the oil to read the temperature- it’s a great way to keep an eye on the temperature of the oil to ensure your doughnuts don’t cook too quickly and are burned on the outside and still not cooked through on the inside. If you don’t have one and absolutely need these doughnuts in your life, feel free to use your doughnut holes as tests to the temperature. Obviously the doughnuts themselves will take longer to cook so take that into consideration. The next thing you will need is a good metabolism because you will not be able to resist having multiples of these babies. 
 </br>
 </br>
+
 ![Homemade Sour Cream Glazed Doughnuts](/images/uploads/2020_06_04_homemade_sour_cream_glazed_doughnuts_5.jpg)
 </br>
 </br>
@@ -50,6 +54,7 @@ Cake flour/pastry flour has a low-protein content (sometimes also called soft fl
 This recipe calls for deep frying these doughnuts. Baking them will not give you the same texture or lift on these so I wouldn’t recommend it. Some people recommend air frying these but I have not tried doing that yet with this recipe but it’s on my list of things to experiment more with. If it works it is definitely a healthier way of making doughnuts. 
 </br>
 </br>
+
 ![Homemade Sour Cream Glazed Doughnuts](/images/uploads/2020_06_04_homemade_sour_cream_glazed_doughnuts_6.jpg)
 </br>
 </br>
@@ -117,4 +122,5 @@ __For the Glaze__
 Adapted from _Completely Delicious_
 
 </br>
+
 ![Homemade Sour Cream Glazed Doughnuts](/images/uploads/2020_06_04_homemade_sour_cream_glazed_doughnuts_7.jpg)

@@ -15,6 +15,7 @@ description: Crispy pull apart puff pastry pie with a spinach herb feta filling
 This spanakopita tarte au Soleil or sunflower as this pretty tart is often called, is not just impressive to look at but makes for the tastiest appetizer, snack and even a great addition to your brunch table. I’m partial to spinach pies and can’t get enough of all the flavours that make up spanakopita. From the spinach to the fresh herbs and the feta - I love them all - together they make up this delicious savoury filling for this crowd pleasing pie. It’s also extremely easy to make. Be sure to watch the video tutorial and whip one up today. 
 </br>
 </br>
+
 ![Spanakopita Tarte Soleil](/images/uploads/2020_12_30_spanakopita_sunflower_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This spanakopita tarte au Soleil or sunflower as this pretty tart is often calle
 This sunny pie is more traditionally known as a Tarte au Soleil and is a fun French appetizer made with a savory filling (most often pesto) and puff pastry. The pastry is sliced and twisted to create a large rounded tart that once baked, resembles a giant sun or as some call a sunflower.  This Spanakopita version is sure to become a family favorite and can even be a meal in itself. There are many meals in my life that were comprised of a slice or two of spanakopita and a side salad. The sunflower shape makes it particularly attractive and fun to bring to the table. 
 </br>
 </br>
+
 ![Spanakopita Tarte Soleil](/images/uploads/2020_12_30_spanakopita_sunflower_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ This sunny pie is more traditionally known as a Tarte au Soleil and is a fun Fre
 This looks like it might be complicated to make but trust me it’s not. The filling makes it a bit messy to work with but don’t worry about it the result will be beautiful. Just take your time and use both hand to help with twisting each spoke - one to twist and the other to hold and support the layers and filling together. You can technically make more cuts than you see here making more spokes to twist but with a filling like this I would keep it to this amount as it’s more manageable. This Tarte or pie can easily be made with any filling - both sweet and savoury. If you were making this with pesto or let’s say nutella - the filling would be much thinner and easier to manage so I would cut the pastry into even more pieces giving this pie an even more intricate looking pattern. It would also be great with a tapenade or sun dried tomato paste or even just a simple herb garlic butter. 
 </br>
 </br>
+
 ![Spanakopita Tarte Soleil](/images/uploads/2020_12_30_spanakopita_sunflower_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ This looks like it might be complicated to make but trust me it’s not. The fil
 The key thing when working with very high butter ratio dough like puff pastry is to know when to chill it. Soft gooey dough is not easy to twist and keep together and can be frustrating to work with - if it gets close to that point juts stop what you are doing and pop the whole pie in the freezer for a few minutes to cool and once it’s cool just pick up where you left off. The next thing that will help is to make sure your spinach is squeezed completely dry - it’s not fun making the tarte/pie with a very wet filling. 
 </br>
 </br>
+
 ![Spanakopita Tarte Soleil](/images/uploads/2020_12_30_spanakopita_sunflower_5.jpg)
 </br>
 </br>
@@ -88,4 +92,5 @@ You will love the flavours in this spanakopita tarte soleil. Traditional Greek f
 6. Meanwhile, preheat oven to 400 degrees F and place a rack in middle of oven. Brush tarte all over with reserved egg wash; sprinkle center with with sesame seeds if using then bake until risen and well browned all over, 25-30 minutes. Then enjoy!
 
 </br>
+
 ![Spanakopita Tarte Soleil](/images/uploads/2020_12_30_spanakopita_sunflower_6.jpg)

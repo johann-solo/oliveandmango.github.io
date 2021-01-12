@@ -15,9 +15,11 @@ description: Sweet spiced apple filling packed inside a delicious flaky pie crus
 This deep dish apple pie recipe is full of layers of sweet spiced apples packed in a buttery flaky pie crust. The words "apple pie" always conjure up warmth, aroma, and fall. This truly is the perfect pie for fall. Add some vanilla ice cream and it becomes the ultimate and classic homestyle dessert. There are a few steps to making this pie, but I promise that it’s not too difficult. The filling is incredibly easy to make and sweet, but not too sweet. I love to top this apple pie with a lattice design, but you could also cut out some pie crust to decorate the top or just cover it with a full piece of pie crust. 
 </br>
 </br>
+
 ![Classic Homemade Apple Pie](/images/uploads/2020_11_17_classic_homemade_apple_pie_2.jpg)
 </br>
 </br>
+
 ![Classic Homemade Apple Pie](/images/uploads/2020_11_17_classic_homemade_apple_pie_3.jpg)
 </br>
 </br>
@@ -25,9 +27,11 @@ This deep dish apple pie recipe is full of layers of sweet spiced apples packed 
 A lot of recipes out there call for precooking the apples for the filling. Apparently this reduces the chance of your filling slumping or shrinking and creating a large gap between the filling and the crust. It’s an added step and one I have always wanted to avoid so I did some research and according to Stella Parks - BraveTart book, macerating the apples for at least 1 hour to up to 4 hours helps. The apples soften, allowing you to put a lot more in the filling and leading to pie slices stacked to the brim with apples. You may think that 4.5 lbs of apples is too much but for this deep dish pie its the perfect amount. The recipe I came across with all this info is actually Smitten kitchens. She uses the same amount of apples in a regular 9 inch pie plate and piles the apple like 3 inched higher than the pie plate - sky high like a diner style apple pie. Feel free to try it out. I haven’t tried it in a regular pie plate cause I’m quiet happy with it in the deep dish. 
 </br>
 </br>
+
 ![Classic Homemade Apple Pie](/images/uploads/2020_11_17_classic_homemade_apple_pie_4.jpg)
 </br>
 </br>
+
 ![Classic Homemade Apple Pie](/images/uploads/2020_11_17_classic_homemade_apple_pie_5.jpg)
 </br>
 </br>
@@ -35,9 +39,11 @@ A lot of recipes out there call for precooking the apples for the filling. Appar
 I opted for a very simple pie crust recipe. It’s an all butter pie crust with super basic ingredients - no extras like vodka, vinegar, cornstarch. Just plain flour, butter, sugar a pinch of salt and ice cold water. It never fails me and always turned out great for all my fruit pies. The key thing to a successful pie crust is making sure your butter and water is cold. You can use a pastry cutter or your hands to cut in the butter but I’m quiet happy using the food processor. It’s quick and easy. I always recommend making your dough a day ahead or up to 3 days and keep it refrigerated until you are ready to bake it. I like the way the dough rolls out and behaves after its been sitting hydrating in the fridge overnight or longer.  When you are placing your crust into the pie plate make sure to do so without stretching it, just lift and press it into place. This will help prevent and shrinkage or irregularities. 
 </br>
 </br>
+
 ![Classic Homemade Apple Pie](/images/uploads/2020_11_17_classic_homemade_apple_pie_6.jpg)
 </br>
 </br>
+
 ![Classic Homemade Apple Pie](/images/uploads/2020_11_17_classic_homemade_apple_pie_7.jpg)
 </br>
 </br>
@@ -45,9 +51,11 @@ I opted for a very simple pie crust recipe. It’s an all butter pie crust with 
 When it comes to what variety of apples to use in your apple pie try to stick to baking apples like Granny Smith, Pink Lady, Cortland,Honeycrisp, Jazz, or Fuji. I really like to do a combination for added flavour as they do each have a distinct flavour difference, small but enough. Variety is nice in pie so feel free to mix it up.  I didn’t add lemon juice or zest in this pie and I have to say I really didn’t miss it. If you love that extra bit of tartness in your apple pie feel free to add a tsp or so in the filling.  I used a simple blend of spices but if you like more of any of them feel free to adjust the amounts and if you like adding extra spices definitely feel free to do so. If you wanted to add a hit of [salted caramel](https://www.oliveandmango.com/homemade-salted-caramel-sauce/) to your filling feel free to stir in a few spoonfuls of it into the filling. I personally love a simple classic version. 
 </br>
 </br>
+
 ![Classic Homemade Apple Pie](/images/uploads/2020_11_17_classic_homemade_apple_pie_8.jpg)
 </br>
 </br>
+
 ![Classic Homemade Apple Pie](/images/uploads/2020_11_17_classic_homemade_apple_pie_9.jpg)
 </br>
 </br>
@@ -133,4 +141,5 @@ So what are you waiting for? Put that abundant Fall apple harvest to use with th
 Adapted from _Cozy Kitchen_ and _Smitten Kitchen_
 
 </br>
+
 ![Classic Homemade Apple Pie](/images/uploads/2020_11_17_classic_homemade_apple_pie_10.jpg)

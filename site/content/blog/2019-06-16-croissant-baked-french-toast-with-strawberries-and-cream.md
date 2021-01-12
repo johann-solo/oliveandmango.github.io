@@ -14,6 +14,7 @@ description: Buttery croissants baked in a sweet spiced custard alongside sweet 
 Buttery croissants baked in a sweet spiced custard alongside sweet juicy berries and a cream cheese surprise in each bite. A very decadent luxe/splurge breakfast perfect for Sunday brunch. 
 </br>
 </br>
+
 ![Croissant Baked French Toast With Strawberries and Cream](/images/uploads/2019_06_16_croissant_baked_french_toast_with_strawberries_and_cream_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Buttery croissants baked in a sweet spiced custard alongside sweet juicy berries
 Baked French toast can be made with pretty much any bread you love from brioche and challah to panettone, but after you make it with croissants you may not want to use anything else to make it. The French toast is soft, tender, and the true definition of buttery perfection.
 </br>
 </br>
+
 ![Croissant Baked French Toast With Strawberries and Cream](/images/uploads/2019_06_16_croissant_baked_french_toast_with_strawberries_and_cream_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ Baked French toast can be made with pretty much any bread you love from brioche 
 It’s best to use day old croissants if possible that way they will soak up the custard a little better and end up with a better textured, puffed French toast that isn’t too soggy. It can easily be made the night before which is great when you want to have something ready first thing in the morning - just pop it in the oven in the morning and all you have to do is set the table and make the coffee while it bakes away. 
 </br>
 </br>
+
 ![Croissant Baked French Toast With Strawberries and Cream](/images/uploads/2019_06_16_croissant_baked_french_toast_with_strawberries_and_cream_4.jpg)
 </br>
 </br>
@@ -35,9 +38,11 @@ It’s best to use day old croissants if possible that way they will soak up the
 The berries that are nestled into the croissants become jammy and delicious. The croissants stay soft and tender but they develop a nice caramelised crispy exterior that is wonderful to cut into and enjoy. The subtly sweet cream cheese layer adds a decadence that puts this French toast over the top if it already wasn’t with the use of croissants in it. It is like jammy buttery toast and bagels with cream cheese combined. If you like both those things you will love this French toast. 
 </br>
 </br>
+
 ![Croissant Baked French Toast With Strawberries and Cream](/images/uploads/2019_06_16_croissant_baked_french_toast_with_strawberries_and_cream_5.jpg)
 </br>
 </br>
+
 ![Croissant Baked French Toast With Strawberries and Cream](/images/uploads/2019_06_16_croissant_baked_french_toast_with_strawberries_and_cream_6.jpg)
 </br>
 </br>
@@ -45,6 +50,7 @@ The berries that are nestled into the croissants become jammy and delicious. The
 The best thing about it is how easy it is to make and enjoy. Just assemble and chill until ready to bake, then bake and serve. Simple, beautiful, and delicious and just the most decadent way to enjoy croissants. Baked French toast is my family’s favourite kind of breakfast and this has quickly become their favourite version and I’m sure it has to do with the croissants. I think it will become a favourite in your home too, and is perfect enjoyed with maple syrup drizzles before enjoying each bite.
 </br>
 </br>
+
 ![Croissant Baked French Toast With Strawberries and Cream](/images/uploads/2019_06_16_croissant_baked_french_toast_with_strawberries_and_cream_7.jpg)
 </br>
 </br>
@@ -80,4 +86,5 @@ The best thing about it is how easy it is to make and enjoy. Just assemble and c
 12. Let stand at room temperature for 10 minutes. Dust with powdered sugar, cut into wedges, and serve with maple syrup
 
 </br>
+
 ![Croissant Baked French Toast With Strawberries and Cream](/images/uploads/2019_06_16_croissant_baked_french_toast_with_strawberries_and_cream_8.jpg)

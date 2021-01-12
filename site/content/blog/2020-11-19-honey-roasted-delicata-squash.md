@@ -15,6 +15,7 @@ description: A sweet and savory side that’s perfect for fall and winter meals
 This delicata squash recipe is roasted with honey, chili flakes, thyme and garlic for a sweet and savory side that’s perfect for fall and winter meals. Delicata squash is a delicious thin skinned winter squash that doesn't get enough attention. Its small size makes it much easier to handle than other squashes and it cooks much faster. When roasted, the squash gets creamy and sweet and I can't get over how pretty the flower shaped slices are! 
 </br>
 </br>
+
 ![Honey Roasted Delicata Squash](/images/uploads/2020_11_19_spicy_roasted_pumpkin_with_honey_thyme_and_feta_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This delicata squash recipe is roasted with honey, chili flakes, thyme and garli
 Originally I made this recipe using Caribbean pumpkin instead of delicata squash as I was living in Trinidad at the time and that variety of pumpkin was the most widely available of the squashes.  It suits any squash and pumpkin but the good thing about using delicata squash is that the skin is edible and you don’t have to peel it. The same goes for acorn squash although acorn squash is usually thicker and larger so keep those things in mind if you are using an alternative squash. That will definitely affect the roasting time. The thicker or larger the pieces, the longer you will have to roast them.
 </br>
 </br>
+
 ![Honey Roasted Delicata Squash](/images/uploads/2020_11_19_spicy_roasted_pumpkin_with_honey_thyme_and_feta_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ Originally I made this recipe using Caribbean pumpkin instead of delicata squash
 This dish heightens the natural sweetness of the delicata squash not only because you’re adding the honey to it but also because it’s roasted. Roasting squash or pumpkin - which I do whenever I’m using it for soups, purée or anything like that, makes it hands-down more delicious. It becomes sweeter, nuttier and caramelises naturally when roasting. No better way to eat it or prep it for some other use. This is great as a side but can be an entire meal if you ask me. I love to add some greens to it and it becomes somewhat of a harvest salad too. 
 </br>
 </br>
+
 ![Honey Roasted Delicata Squash](/images/uploads/2020_11_19_spicy_roasted_pumpkin_with_honey_thyme_and_feta_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ This dish heightens the natural sweetness of the delicata squash not only becaus
 If you prefer maple syrup or brown sugar instead of the honey feel free to replace it with either of those options. I also like using walnuts and almonds in place of the pecans but pecans are what I had on hand when I originally made this.
 </br>
 </br>
+
 ![Honey Roasted Delicata Squash](/images/uploads/2020_11_19_spicy_roasted_pumpkin_with_honey_thyme_and_feta_5.jpg)
 </br>
 </br>
@@ -83,4 +87,5 @@ Finishing it off with the crumbled feta, toasted chopped nuts and an extra drizz
 Adapted from _Epicurious_
 
 </br>
+
 ![Honey Roasted Delicata Squash](/images/uploads/2020_11_19_spicy_roasted_pumpkin_with_honey_thyme_and_feta_6.jpg)

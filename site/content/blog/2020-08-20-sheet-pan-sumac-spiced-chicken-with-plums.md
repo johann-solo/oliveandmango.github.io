@@ -14,6 +14,7 @@ description: Tangy sweet with a hint of warm spice - this is one delicious sheet
 The plums and spices combined make a simple roast chicken a fabulous one. The plums give the meat a delicious fruity, sticky flavour and the sumac and lemon zest and juice add just the right amount of tang to this dish balancing out the sweetness of the plums. There are a variety of plums available right now, in lots of interesting colours and flavours. You can use any variety in this sheet pan chicken dish. The tart ones ofcourse will add less sweetness but still be quite delicious. I love using the the redder ones that are sort of in between - a little tartness and some sweetness.  
 </br>
 </br>
+
 ![Sheet Pan Sumac Spiced Chicken With Plums](/images/uploads/2020_08_20_sheet_pan_sumac_spiced_chicken_with_plums_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ The plums and spices combined make a simple roast chicken a fabulous one. The pl
 I love to bake with plums. They get so jammy and delicious in a sweet bake up like my [German Plum Cake with Streusel](https://www.oliveandmango.com/german-plum-cake-with-streusel-pflaumenkuchen/) and also in my [Lemony Plum And Blackberry Upside Down Cake](https://www.oliveandmango.com/lemony-plum-and-blackberry-upside-down-cake/) . Roasting them really heightens their subtle taste and turns them into a sweet, sour and savoury jammy chutney that is so nice to eat with this roasted chicken and even with my [Slow Roasted Lamb With Plum Sriracha](https://www.oliveandmango.com/slow-roasted-lamb-with-plum-sriracha/) .This is an incredibly simple sheet pan chicken dish. The rub is easy to make and marinating can be from 30 minutes to overnight. Everything else gets tossed together and roasted.  Easy and delicious. 
 </br>
 </br>
+
 ![Sheet Pan Sumac Spiced Chicken With Plums](/images/uploads/2020_08_20_sheet_pan_sumac_spiced_chicken_with_plums_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ Sumac is a tangy, lemony spice often used in Mediterranean and Middle Eastern co
 It’s a spice that has gained even more popularity due in large part to bestselling cookbook author Yotam Ottolenghi, and his bestselling cookbooks. Social media posts and hashtags, have made it even more popular  and in demand and it has slowly become almost a standard spice you can find at the grocery store. 
 </br>
 </br>
+
 ![Sheet Pan Sumac Spiced Chicken With Plums](/images/uploads/2020_08_20_sheet_pan_sumac_spiced_chicken_with_plums_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ It’s a spice that has gained even more popularity due in large part to bestsel
 The other spices are warming spices and make for a great combo in this dish. Cinnamon and all-spice are often used in middle eastern dishes. Not just in sweet dishes. They are in savoury ones too especially when it comes to stews, and meat dishes like shawarma and meatballs. I love them and I have always added them to my meat sauce - something my mom always added to hers and still does. 
 </br>
 </br>
+
 ![Sheet Pan Sumac Spiced Chicken With Plums](/images/uploads/2020_08_20_sheet_pan_sumac_spiced_chicken_with_plums_5.jpg)
 </br>
 </br>

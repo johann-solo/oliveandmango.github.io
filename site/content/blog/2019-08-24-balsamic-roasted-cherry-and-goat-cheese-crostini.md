@@ -14,6 +14,7 @@ description: A delicious appetizer with a perfect balance of sweet and savoury
 I love summer fruit so much especially end of summer stone fruit here in Ontario. It’s best enjoyed fresh but it’s just as tasty baked into pies or crisps and even roasted and put into salads, and on crusty bread and paired with cheese. 
 </br>
 </br>
+
 ![Balsamic Roasted Cherry and Goat Cheese Crostini](/images/uploads/2019_08_24_balsamic_roasted_cherry_and_goat_cheese_crostini_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ I love summer fruit so much especially end of summer stone fruit here in Ontario
 The latter is the way I decided to use some of the cherries I have bee enjoying and I believe this might be the last cherry recipe I will be making or sharing on the blog until the next season. Sad but true although I still have some more time left to continue to gorge on them fresh as the season isn’t quite over here yet. 
 </br>
 </br>
+
 ![Balsamic Roasted Cherry and Goat Cheese Crostini](/images/uploads/2019_08_24_balsamic_roasted_cherry_and_goat_cheese_crostini_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ The latter is the way I decided to use some of the cherries I have bee enjoying 
 Crostini with a mix of sweet and savoury flavours via fresh or roasted fruit and fruit jellies are my favorite kind of appetizer. They are simple to make and so easy to ‘fancy’ up by means of herb and cheese variation. Roasted fruit is a simple way to use up any fruit you've got hanging out on the counter - it's fast, easy and delicious. 
 </br>
 </br>
+
 ![Balsamic Roasted Cherry and Goat Cheese Crostini](/images/uploads/2019_08_24_balsamic_roasted_cherry_and_goat_cheese_crostini_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ Crostini with a mix of sweet and savoury flavours via fresh or roasted fruit and
 Roasting fruit with balsamic vinegar brings out the cherry’s beautiful color and truly enhances their flavor. They are great served with a simple pound cake, over vanilla ice cream, yoghurt, added to salads or simply by themselves straight out the pan.  They are also perfect on these goat cheese crostini, that make a great appetizer but can easily double as a light dinner with a side salad and a crisp glass of white or rosé. 
 </br>
 </br>
+
 ![Balsamic Roasted Cherry and Goat Cheese Crostini](/images/uploads/2019_08_24_balsamic_roasted_cherry_and_goat_cheese_crostini_5.jpg)
 </br>
 </br>
@@ -71,4 +75,5 @@ Adapted from _Serious Eats_
 </br>
 <a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
+
 ![Balsamic Roasted Cherry and Goat Cheese Crostini](/images/uploads/2019_08_24_balsamic_roasted_cherry_and_goat_cheese_crostini_6.jpg)

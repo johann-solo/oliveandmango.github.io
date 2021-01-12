@@ -14,6 +14,7 @@ description: Simple to make BBQ sauce that’s perfect for marinating, dipping, 
 Delicious homemade BBQ sauce ready in no time and is the perfect combo of sweet and tangy made from scratch. Let’s be real we all have our idea of the perfect BBQ sauce and we all have or favorites. There are so many variations out there. But nothing beats a traditional and delicious one made in minutes which can easily be customized to your taste.
 </br>
 </br>
+
 ![Homemade BBQ Sauce](/images/uploads/2020_05_24_homemade_bbq_sauce_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ Delicious homemade BBQ sauce ready in no time and is the perfect combo of sweet 
 It really could not be easier to make at home. Simply whisk all the ingredients together in a saucepan. Simmer the sauce for 10-15 minutes or until it has thickened slightly and the serve. That’s it — your BBQ sauce is ready to use in any of your favorite recipes. We love to use ours combined with our favorite homemade rub and on our no fail BBQ ribs.
 </br>
 </br>
+
 ![Homemade BBQ Sauce](/images/uploads/2020_05_24_homemade_bbq_sauce_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ It really could not be easier to make at home. Simply whisk all the ingredients 
 BBQ sauce is usually made up of a few flavour palettes. Sweet, tangy with some smokey spices. The sweet comes from the brown sugar, molasses and the ketchup. The ketchup acts like the backbone to the sauce. Choose one with the fewest added ingredients. The simpler the better. The delicious tang comes from the apple cider vinegar which helps to balance the sweetness perfectly. A touch of lemon juice can also add an extra bit of tang if you would like to use that instead or add a bit of it for extra flavour.
 </br>
 </br>
+
 ![Homemade BBQ Sauce](/images/uploads/2020_05_24_homemade_bbq_sauce_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ BBQ sauce is usually made up of a few flavour palettes. Sweet, tangy with some s
 The Worcestershire sauce also balances the sweetness with the savoury flavor in the sauce. The seasoning spice blend adds so much flavour to the sauce - and is the part that is so easily adjusted to suit your taste. I love to use dried mustard, and a combo of smoked paprika, garlic powder, onion powder, black pepper, and salt plus a few pinches of cayenne, for some heat. Add more or less of each according to taste. This is a pretty mild sauce so if you like yours spicy definitely increase the amount of cayenne or even a splash or two of hot sauce.
 </br>
 </br>
+
 ![Homemade BBQ Sauce](/images/uploads/2020_05_24_homemade_bbq_sauce_5.jpg)
 </br>
 </br>
@@ -89,4 +93,5 @@ __Alternative ingredients__
 * Liquid smoke can also be added for a more authentic and smoky flavour. 1-2 tsp is usually enough
 
 </br>
+
 ![Homemade BBQ Sauce](/images/uploads/2020_05_24_homemade_bbq_sauce_6.jpg)

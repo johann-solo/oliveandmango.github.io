@@ -14,6 +14,7 @@ description: The creamiest blueberry and lemon filling with a crunchy granola c
 Summer is all about simple cooking and no bake treats. This no bake pie with a lemon blueberry filling and a crunchy granola crust is just the easiest to whip up and great to make a ahead and stash in your freezer for company or just to have an icy treat to come home to. I made this recipe in partnership with Bob’s Red Mill to showcase their brand new line of Pan-Baked Granolas. They come in 4 different flavours and are fabulous. Although these granolas are delicious on their own for breakfast or as a snack, I thought I would get creative and use them in some unexpected and delicious ways. I can’t wait to show you what I make with the rest of them. 
 </br>
 </br>
+
 ![Lemon Blueberry Crunch Pie](/images/uploads/2019_08_19_lemon_blueberry_crunch_pie_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ Summer is all about simple cooking and no bake treats. This no bake pie with a l
 The crust is very simple. It’s made with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/lemon-blueberry-pan-baked-granola.html">Bob’s Red Mill Lemon Blueberry Granola</a></span> which is perfect with this lemon blueberry filling. All you need is granola and butter to make the crust and it sets really well in the freezer. Their granolas are just like homemade granola and I say that honestly as their ingredient list looks a lot like my recipe for my homemade granola. It’s USDA Certified Organic, Kosher, and Non-GMO Project Certified, also made with Bob’s Red Mill Whole Grain Oats and GFCO Certified (Gluten Free). 
 </br>
 </br>
+
 ![Lemon Blueberry Crunch Pie](/images/uploads/2019_08_19_lemon_blueberry_crunch_pie_3.jpg)
 </br>
 </br>
+
 ![Lemon Blueberry Crunch Pie](/images/uploads/2019_08_19_lemon_blueberry_crunch_pie_4.jpg)
 </br>
 </br>
@@ -31,9 +34,11 @@ The crust is very simple. It’s made with <span class="highlight"><a rel="nofol
 The filling is so easy to whip up and it’s loaded with blueberries and lemon juice which makes this pie even more fresh and flavourful. The original recipe for the filling calls for whipped topping and I almost never use whipped topping but I did find a really good organic coconut whipped topping that I was comfortable using. It was delicious with it. The whipped topping gives the filing some stability and a lovely, frothy, mousse-like texture.
 </br>
 </br>
+
 ![Lemon Blueberry Crunch Pie](/images/uploads/2019_08_19_lemon_blueberry_crunch_pie_5.jpg)
 </br>
 </br>
+
 ![Lemon Blueberry Crunch Pie](/images/uploads/2019_08_19_lemon_blueberry_crunch_pie_6.jpg)
 </br>
 </br>
@@ -44,6 +49,7 @@ Together the two are perfect and we couldn’t stop eating it.  It’s has a lus
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Lemon Blueberry Crunch Pie](/images/uploads/2019_08_19_lemon_blueberry_crunch_pie_7.jpg)
 </br>
 </br>
@@ -79,4 +85,5 @@ __For the filling__
 Adapted from _Parade_
 
 </br>
+
 ![Lemon Blueberry Crunch Pie](/images/uploads/2019_08_19_lemon_blueberry_crunch_pie_8.jpg)

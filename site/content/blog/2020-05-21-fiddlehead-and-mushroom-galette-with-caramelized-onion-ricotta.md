@@ -14,6 +14,7 @@ description: Buttery crust with a creamy ricotta and caramelized onion filling w
 This savoury galette has a creamy ricotta filling with caramelized onions and also loaded with mushrooms and fiddleheads. All of that wrapped up in a buttery crust. The perfect appetizer but can also sit proudly in the center of your table, shared by a good salad and a bottle of wine, and you can call it dinner. 
 </br>
 </br>
+
 ![Fiddlehead and Mushroom Galette](/images/uploads/2020_05_21_fiddlehead_and_mushroom_galette_with_caramelized_onion_ricotta_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This savoury galette has a creamy ricotta filling with caramelized onions and al
 A galette is used primarily to refer to a rustic, free-form tart-made with a single crust of pastry or pie dough. This pastry takes the form as a sweet, open-faced tart piled high with fruit or chocolate, but there are also endless savory combinations that can turn a galette into a main course or an appetizer. The edges are usually folded over the filling or they can be crimped. It then gets baked up to perfection. It’s simpler then a pie but has all delicious things a pie has - a buttery golden crust and bubbling filling. 
 </br>
 </br>
+
 ![Fiddleheads raw](/images/uploads/2020_05_21_fiddlehead_and_mushroom_galette_with_caramelized_onion_ricotta_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ A galette is used primarily to refer to a rustic, free-form tart-made with a si
 Fiddleheads are the young shoots of the ostrich fern. Fresh fiddleheads are only available in the spring and the rest of the year they can be found frozen. They can be foraged for only a limited number of weeks each year, probably why everyone is always so excited about them when they are in season. If you blink you may miss the season but they are great from frozen too. 
 </br>
 </br>
+
 ![Fiddlehead and Mushroom Galette uncooked](/images/uploads/2020_05_21_fiddlehead_and_mushroom_galette_with_caramelized_onion_ricotta_4.jpg)
 </br>
 </br>
@@ -38,6 +41,7 @@ Fiddleheads are the young shoots of the ostrich fern. Fresh fiddleheads are only
 They have the flavour and texture that is very similar to asparagus with a touch of spinach in there too. In fact if you don’t have any available to make this galette feel free to use asparagus in their place. They can be cooked in the same way as well - grilled, roasted, or sautéed and drizzled with olive oil and a squeeze of lemon or they can be added to savoury tarts and galettes like this one. 
 </br>
 </br>
+
 ![Fiddlehead and Mushroom Galette ready to eat](/images/uploads/2020_05_21_fiddlehead_and_mushroom_galette_with_caramelized_onion_ricotta_5.jpg)
 </br>
 </br>
@@ -46,6 +50,7 @@ They have the flavour and texture that is very similar to asparagus with a touch
 Proper handling and thorough cooking of fiddleheads can reduce the potential for foodborne illness. Eating raw or undercooked fiddleheads can cause food poisoning so it’s important  to remove as much of the brown papery husk on the fiddlehead as possible. Wash the fiddleheads in several changes of  water to remove any residual husk or dirt. Then cook fiddleheads in boiling water for 15 minutes, or steam them for 10 to 12 minutes until tender. Discard the water used for boiling or steaming the fiddleheads. Cook them before sautéing, frying, baking, or using them in other dishes. 
 </br>
 </br>
+
 ![Close up of Fiddlehead and Mushroom Galette](/images/uploads/2020_05_21_fiddlehead_and_mushroom_galette_with_caramelized_onion_ricotta_6.jpg)
 </br>
 </br>
@@ -131,4 +136,5 @@ __Hand method__
 2. Roll dough as needed, or wrap the dough tightly in plastic wrap and refrigerate for up to 3 days. You can also freeze the dough for up to 1 month, wrapped in a plastic wrap and placed in a freezer bag.
 
 </br>
+
 ![Fiddlehead and Mushroom Galette With Caramelized Onion Ricotta](/images/uploads/2020_05_21_fiddlehead_and_mushroom_galette_with_caramelized_onion_ricotta_7.jpg)

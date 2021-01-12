@@ -14,6 +14,7 @@ description: These lemon ricotta waffles are soft, tender and so flavourful. Add
 These lemon ricotta waffles are soft, tender and so flavourful. Adding ricotta makes them extra fluffy and you really get a nice lemony zing in them thanks to the good amount of fresh lemon juice and zest.
 </br>
 </br>
+
 ![Fluffy Lemon Ricotta Waffles](/images/uploads/2019_01_20_fluffy_lemon_ricotta_waffles_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ These lemon ricotta waffles are soft, tender and so flavourful. Adding ricotta m
 My husband is a very big fan of breakfast. I may have mentioned this before but he truly is a bottomless pit when it come to breakfast and always ends up ordering two of them when we are out for breakfast or brunch. The first one is usually your typical hungry man breakfast with a couple of eggs, hash browns, bacon and sausages. But he just can’t resist a stack of pancakes or a stack of waffles and that is what his second order usually includes. I’m pretty typical when I’m out for breakfast - if there is eggs Benedict on the menu that is what I will be getting. I can’t resist a good hollandaise sauce and every place makes it different and I love to taste them to compare.
 </br>
 </br>
+
 ![Fluffy Lemon Ricotta Waffles](/images/uploads/2019_01_20_fluffy_lemon_ricotta_waffles_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ My husband is a very big fan of breakfast. I may have mentioned this before but 
 Back to these waffles though. I’m trying to make something special for hubby on Sundays especially since our schedules have changed a bit on a Sunday and have a little extra time to have a slow morning. Waffles are one of his favourites and so I’m trying to experiment with a few flavours to have a little variety.  Lemon ricotta are my favourite flavour addition to pancakes and I had to try them in in waffles. As I expected, they were delicious and not shy when it comes to lemon flavour which I love.
 </br>
 </br>
+
 ![Fluffy Lemon Ricotta Waffles](/images/uploads/2019_01_20_fluffy_lemon_ricotta_waffles_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ Back to these waffles though. I’m trying to make something special for hubby o
 As I mentioned above, ricotta adds a really nice fluffy texture to the waffles and who doesn’t want fluffy waffles with golden crisp edges? Ricotta isn’t something you necessarily taste in baked goods - the pancakes definitely don't taste "cheesy", but rather, the ricotta adds a really nice milky richness and creaminess to each bite.
 </br>
 </br>
+
 ![Fluffy Lemon Ricotta Waffles](/images/uploads/2019_01_20_fluffy_lemon_ricotta_waffles_5.jpg)
 </br>
 </br>
@@ -87,4 +91,5 @@ If using a standing waffle iron or one that you have to pour the batter into, yo
 </br>
 Recipe adpated from _The Food Network_ and _Joy the Baker_
 </br>
+
 ![Fluffy Lemon Ricotta Waffles](/images/uploads/2019_01_20_fluffy_lemon_ricotta_waffles_6.jpg)

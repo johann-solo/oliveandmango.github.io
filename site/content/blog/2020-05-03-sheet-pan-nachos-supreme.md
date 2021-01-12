@@ -14,6 +14,7 @@ description: Better than Taco Bell crispy nachos smothered with two types of che
 Loaded and delicious sheetpan nachos that do not disappoint. Seasoned ground beef (or any ground meat or meat alternative), nacho cheese sauce (I used [my homemade sauce](https://www.oliveandmango.com/nacho-cheese-sauce/), sour cream, chopped tomatoes and green onions make a fabulous flavor combination.
 </br>
 </br>
+
 ![Sheet Pan Nachos Supreme](/images/uploads/2020_05_03_sheet_pan_nachos_supreme_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Loaded and delicious sheetpan nachos that do not disappoint. Seasoned ground bee
 These are also pretty easy to put together and they literally get licked up fast so be sure to make more than one tray! You won’t regret it! Another good thing about this is you can load these nachos with anything else you want. Customise them by adding refried beans, corn, red onion, do them meatless, different cheeses, literally anything you like. The classic Taco Bell combo is the recipe below but I always love serving it with all the extras including sliced jalapeños, sliced avocados and ofcourse some hot sauce. When it comes to the recipe below feel free to adjust the amounts when it comes to the toppings. If you are a cheese lover you may want to add more cheese or cheese sauce. We love ours with sauce on them but with extra sauce on the side. So you see the recipe below is definitely a guide - you might like them a lot meatier that we do so feel free to add more meat, same goes for the extra veggies. 
 </br>
 </br>
+
 ![Sheet Pan Nachos Supreme](/images/uploads/2020_05_03_sheet_pan_nachos_supreme_3.jpg)
 </br>
 </br>
@@ -31,6 +33,7 @@ Making a homemade cheese sauce is always the better option if you have the time.
 I usually bake my nachos and cheese separately then load with the toppings for this particular one.  If you are loading the cheese up over all the rest of the ingredients (for example if you are doing a bean and meat one) then load them up add the cheese and then bake. I don’t usually broil as I don’t want the nachos to burn and baking them alone works perfectly to get your cheese all melty. Serve immediately out of the oven and make sure to serve with all the delcious and fresh fixings I mentioned earlier 
 </br>
 </br>
+
 ![Sheet Pan Nachos Supreme](/images/uploads/2020_05_03_sheet_pan_nachos_supreme_4.jpg)
 </br>
 </br>
@@ -38,6 +41,7 @@ I usually bake my nachos and cheese separately then load with the toppings for t
 These are totally delicious and simple, quick, they serve a crowd and are the perfect thing to snack on during game night, movie night, and even make a great appetizer. 
 </br>
 </br>
+
 ![Sheet Pan Nachos Supreme](/images/uploads/2020_05_03_sheet_pan_nachos_supreme_5.jpg)
 </br>
 </br>
@@ -103,4 +107,5 @@ One serving
 * Whisk all the ingredients in a small bowl. Then taste and adjust the salt or spices as desired. Store in an airtight container until ready to use.
 
 </br>
+
 ![Sheet Pan Nachos Supreme](/images/uploads/2020_05_03_sheet_pan_nachos_supreme_6.jpg)

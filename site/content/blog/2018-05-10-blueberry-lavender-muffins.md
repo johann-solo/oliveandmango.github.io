@@ -12,6 +12,7 @@ excerpt: Muffins bursting with blueberry flavour with lovely notes of lavender
 Each bite of these muffins is a joy! There’s a blueberry bursting in every bite. The sweet buttery and crumbling topping adds another layer of texture to each bite along with the perfectly moist and balanced amount of crumble. This is paired with the subtle scent and flavour of lavender which hits the tastebuds and the nostrils all at the same time.
 </br>
 </br>
+
 ![Blueberry Lavender Muffins](/images/uploads/2018_05_10_blueberry_lavender_muffins_2.jpg)
 </br>
 </br>
@@ -19,12 +20,15 @@ Each bite of these muffins is a joy! There’s a blueberry bursting in every bit
 Let’s talk lavender. Fresh or dried, lavender is one of those scents that is soothing and so wonderful. Using fresh lavender to infuse the sugar would be wonderful but we don’t have fresh lavender here so I used dried and it worked great to infuse that beautiful scent to the muffins. It lends well to the flavour of these muffins. I love warm spices and scents like this lavender with anything blueberry. The two seem to pair very well and the lavender always tends to bring out the fruity taste in berries in general and also brings out the sweetness in them. I love it but if you aren’t a fan then just omit it, but it is worth tying it. It’s subtle and very delicate. If you ARE a fan of lavender and think the infusion is too subtle feel free to add a little more. I wouldn’t add more than an extra &frac14; tsp though because adding too much can impart some bitterness, so just a caution.
 </br>
 </br>
+
 ![Blueberry Lavender Muffins](/images/uploads/2018_05_10_blueberry_lavender_muffins_3.jpg)
 </br>
 </br>
+
 ![Blueberry Lavender Muffins](/images/uploads/2018_05_10_blueberry_lavender_muffins_4.jpg)
 </br>
 </br>
+
 ![Blueberry Lavender Muffins](/images/uploads/2018_05_10_blueberry_lavender_muffins_5.jpg)
 </br>
 </br>
@@ -32,9 +36,11 @@ Let’s talk lavender. Fresh or dried, lavender is one of those scents that is s
 I’m actually quite shocked that this is my first blueberry muffin recipe on the blog. Shame on me. I do have other delicious blueberry baked goods on it but not muffins. Blueberry muffins are by far my favourite. If there’s ever a choice of what kind of muffin I want, it will always be blueberry. I never tire of it and I love to taste different ones and versions from different places. You know I always have a bit of a good story about my food experiences, so let me tell you how the love of blueberry muffins started.
 </br>
 </br>
+
 ![Blueberry Lavender Muffins](/images/uploads/2018_05_10_blueberry_lavender_muffins_6.jpg)
 </br>
 </br>
+
 ![Blueberry Lavender Muffins](/images/uploads/2018_05_10_blueberry_lavender_muffins_7.jpg)
 </br>
 </br>
@@ -42,12 +48,15 @@ I’m actually quite shocked that this is my first blueberry muffin recipe on th
 There’s a little coffee shop in Canada called _Tim Horton’s_. You may or may not have heard of it. Ha ha! Anyways that is where it all began. I use to car pool with a girl I worked with. I hated it! She was nice enough but she usually ran late and made me late and she would talk about her cat non-stop. I love animals and all but I didn’t want to hear about them at 6:45 in the morning right through for an hour of our drive to work. Anyways she was a Chatty Cathy. She also needed to stop at Tim Hortons for her usual large steeped tea with milk and a blueberry muffin every morning. That is the part that usually made us late. There was always a crazy line up. Anyways this always used to annoy me because I usually had breakfast at home or would bring it along. Eventually she got me hooked though and I started with the large steeped tea, milk only, and a blueberry muffin. It was almost ritualistic and over the years it became our thing. The habit was formed and also the addiction to those blueberry muffins.
 </br>
 </br>
+
 ![Blueberry Lavender Muffins](/images/uploads/2018_05_10_blueberry_lavender_muffins_8.jpg)
 </br>
 </br>
+
 ![Blueberry Lavender Muffins](/images/uploads/2018_05_10_blueberry_lavender_muffins_9.jpg)
 </br>
 </br>
+
 ![Blueberry Lavender Muffins](/images/uploads/2018_05_10_blueberry_lavender_muffins_10.jpg)
 </br>
 </br>
@@ -55,9 +64,11 @@ There’s a little coffee shop in Canada called _Tim Horton’s_. You may or may
 These are definitely better than those muffins. They might not be super sized like the ones at Tim Hortons but they are delicious. I worked along with _Smitten Kitchen's_ recipe for her perfect blueberry muffins which is a great recipe. Her recipe calls for 9 muffins but I usually get 10. It just depends how you spread the batter out. The more you spread it, the smaller the muffins obviously. I wanted a little more texture than just the sugar topping in her recipe so I used this crumble topping and of course I jazzed them up with the lavender.
 </br>
 </br>
+
 ![Blueberry Lavender Muffins](/images/uploads/2018_05_10_blueberry_lavender_muffins_11.jpg)
 </br>
 </br>
+
 ![Blueberry Lavender Muffins](/images/uploads/2018_05_10_blueberry_lavender_muffins_12.jpg)
 </br>
 </br>
@@ -65,9 +76,11 @@ These are definitely better than those muffins. They might not be super sized li
 They are perfect and I can’t resist them out of the oven. If their are leftovers the next day I will heat them in the oven and they are fab with a bit of butter. Overall a great recipe that I always make when I have a hankering for blueberry muffins and want to reminisce about my drives to work with Chatty Cathy. No for real though, I haven’t thought about all of that until I started thinking back to when I started loving these muffins and now I’m wondering how Jennifer is. Always fun to think about all the memories attached to foods. Hope you give these a try, I think you will love them with or without the lavender and with or without the crumble, although I recommend adding both!
 </br>
 </br>
+
 ![Blueberry Lavender Muffins](/images/uploads/2018_05_10_blueberry_lavender_muffins_13.jpg)
 </br>
 </br>
+
 ![Blueberry Lavender Muffins](/images/uploads/2018_05_10_blueberry_lavender_muffins_14.jpg)
 </br>
 </br>
@@ -121,4 +134,5 @@ __For the crumb topping__
 1. Bake for 25 to 30 minutes, until tops are golden and a tester inserted into the center of muffins comes out. Remove and let cool in pan for 10 minutes then the rest of the way on a cooling rack.
 
 </br>
+
 ![Blueberry Lavender Muffins](/images/uploads/2018_05_10_blueberry_lavender_muffins_15.jpg)

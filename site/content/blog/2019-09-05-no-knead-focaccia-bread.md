@@ -14,6 +14,7 @@ description: This focaccia has a crisp, olive oil-scented crust and a puffy, moi
 Focaccia is a flat oven-baked Italian bread similar in style and texture to pizza dough that is usually served as an antipasto, appetizer, table bread, or snack. There are many versions but the most famous is focaccia di Genova. This recipe is closest to the latter. It requires no kneading or stretching and results in a crisp, olive oil-scented crust and a puffy, moist, crumb with just the right amount of tender chew It's the easiest bread you can imagine making. All it takes is a bit of time as it rests overnight and then again for another two hours or so before baking. It is worth all the planning for because Its basically no effort with a fabulous result. 
 </br>
 </br>
+
 ![No Knead Focaccia Bread](/images/uploads/2019_09_05_no_knead_focaccia_bread_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ Focaccia is a flat oven-baked Italian bread similar in style and texture to pizz
 I chose a no knead recipe as my standing mixer dough hook attachment isnt working at its fullest potential right now and I really have to be in the mood to knead by hand for 10 minutes or longer (that’s called pure laziness btw). So I went on a search for a truly easy no knead  recipe that yields the best texture with barely touching the dough. My two favourite recipes are from AlexandraCooks.com and Seriouseats.com. I often turn to those two sites for advice and also for guidance and flavour inspiration. This time I chose Alexandra’s recipe over Kenji’s for one reason only. I love that Alexandra’s recipe calls for the bread to sit overnight in the refrigerator instead of on the counter. For some reason the out of sight out of mind I prefer - and in the fridge was the direction I went with. When it comes to the pan the recipe I favoured more calls for baking the focaccia in pie plates/pans. I used one baking pan and one skillet and the difference was that the one in the skillet baked up crispier and I much preferred it in the skillet. So if you have two skillets I recommend using them for this focaccia. We inhaled both but you can also freeze one while you enjoy the other. Like I said though ours didn’t last long at all. 
 </br>
 </br>
+
 ![No Knead Focaccia Bread](/images/uploads/2019_09_05_no_knead_focaccia_bread_3.jpg)
 </br>
 </br>
+
 ![No Knead Focaccia Bread](/images/uploads/2019_09_05_no_knead_focaccia_bread_4.jpg)
 </br>
 </br>
@@ -32,9 +35,11 @@ The choice in flour and olive oil is essential for the preparation of this recip
 The quality of Kalikori is very evident – from the smell, the feel and of course the taste. You may also notice a slight peppery finish to the oil. This comes from the first pressing of the olives and also gives it a distinct green colour. Kalikori wants to make sure that their product is of the highest quality and as a result each bottle comes with a best before date. 
 </br>
 </br>
+
 ![No Knead Focaccia Bread](/images/uploads/2019_09_05_no_knead_focaccia_bread_5.jpg)
 </br>
 </br>
+
 ![No Knead Focaccia Bread](/images/uploads/2019_09_05_no_knead_focaccia_bread_6.jpg)
 </br>
 </br>
@@ -46,6 +51,7 @@ This recipe is easy to make, and tastes so rich and wonderful with the addition 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="http://kalikori.com">Kalikori Olive Oil</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![No Knead Focaccia Bread](/images/uploads/2019_09_05_no_knead_focaccia_bread_7.jpg)
 </br>
 </br>
@@ -107,4 +113,5 @@ This recipe calls for making it in two 9 inch baking pans or skillets. 9 inch pi
 </br>
 <a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
+
 ![No Knead Focaccia Bread](/images/uploads/2019_09_05_no_knead_focaccia_bread_8.jpg)

@@ -14,6 +14,7 @@ description: Super quick to whip up, full of flavour, and absolutely drool wort
 These Easy Pulled Pork Sliders using the Instant Pot are super quick to whip up, full of flavor, and absolutely drool worthy. This is my very favourite pulled pork recipe that I have made many times from the Food Network. It can easily be made in the slow cooker using the same spice rub and just by reducing the amount of broth in the sauce ingredients. Using the slow cooker is wonderful but it’s not quick. It takes 8-10 hours on low or high for 3-4 hours. I decided to make it in the Instant Pot so that I could have a quicker version and I’m glad I did. It’s a great quick option. 
 </br>
 </br>
+
 ![Easy Instant Pot Pulled Pork Sliders](/images/uploads/2020_02_02_easy_instant_pot_pulled_pork_sliders_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ These Easy Pulled Pork Sliders using the Instant Pot are super quick to whip up,
 Whichever way you decide to make them I know you will love them. Sliders are just the best way to use the pulled pork. They are perfect for parties, gatherings and even family dinners. I decided to keep them simple by topping them with dill pickles and cheese. You can serve them with coleslaw on the side and you have yourself a complete meal. Pickled onions also make for a great topping - anything pickled for that matter. I love the tangy brininess against the sweet and saucy pork. 
 </br>
 </br>
+
 ![Easy Instant Pot Pulled Pork Sliders](/images/uploads/2020_02_02_easy_instant_pot_pulled_pork_sliders_3.jpg)
 </br>
 </br>
@@ -97,4 +99,5 @@ __For the sliders__
 2. Bake at 375ᵒF for about 15 minutes until cheese is melted and top buns are slightly crisp.
 
 </br>
+
 ![Easy Instant Pot Pulled Pork Sliders](/images/uploads/2020_02_02_easy_instant_pot_pulled_pork_sliders_4.jpg)

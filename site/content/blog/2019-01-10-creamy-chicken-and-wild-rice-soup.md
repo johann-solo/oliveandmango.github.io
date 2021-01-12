@@ -15,6 +15,7 @@ description: A classic chicken and rice soup which makes the perfect comfort foo
 This Creamy Chicken And Wild Rice Soup is warm, hearty and comforting. It’s made with chicken or turkey (the perfect soup to make with leftovers from a roast), tender vegetables cooked in a creamy and flavorful broth, mixed with nutty wild rice. Thyme, bacon if using and garlic adds aromatic depth to the soup, along with the classic base of onions, carrots, and celery. The soup is finished of with a drizzle of cream to add that nice creamy touch of richness. Pure creamy comfort food to warm the soul especially on the coldest of winter days. So quick, easy, and hearty with veggies, rice and chicken. 
 </br>
 </br>
+
 ![Homemade Creamy Chicken And Wild Rice Soup](/images/uploads/2019_01_10_creamy_chicken_and_wild_rice_soup_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This Creamy Chicken And Wild Rice Soup is warm, hearty and comforting. It’s ma
 When you want a richer flavour than your regular chicken rice soup this is definitely your best bet. It’s richer in flavour from the bacon and the addition of cream as well. You can add in whatever veggies you like. My favorite extra add ins include green peas and mushrooms for even more heartiness. The bacon is optional but adds loads of flavour to this soup. Feel free to just use butter or olive oil in the pan if you are leaving it out. For an even quicker version you can use precooked wild rice and reduce the simmering time accordingly. 
 </br>
 </br>
+
 ![Creamy Chicken And Wild Rice Soup](/images/uploads/2019_01_10_creamy_chicken_and_wild_rice_soup_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ When you want a richer flavour than your regular chicken rice soup this is defin
 The beauty of this soup is that it is perfect for using leftover rotisserie chicken or leftover turkey, or chicken you've pulled from the bone after making homemade chicken stock. It calls for basically the equivalent of 2-3 chicken breasts (depending on the size of them) if you wanted to roast some up especially for this recipe. To do that all you have to do is drizzle the chicken breasts with 1 tablespoon of the olive oil. Then sprinkle with a dash of each of the dried spices and bake at 375°F in a preheated oven until the chicken is cooked all the way through, 15 to 20 minutes or until cooked through. Remove it from the oven. Cut the chicken into cubes or strips and set aside until ready to add to the soup. It’s an extra step but if you have no leftover chicken or turkey it’s worth making just for this soup recipe. 
 </br>
 </br>
+
 ![Creamy Chicken And Wild Rice Soup](/images/uploads/2019_01_10_creamy_chicken_and_wild_rice_soup_4.jpg)
 </br>
 </br>
@@ -38,6 +41,7 @@ The beauty of this soup is that it is perfect for using leftover rotisserie chic
 This homemade chicken and rice recipe can make either a thicker soup or a thinner one. I like mine a little on the thinner side and a bit more brothy as I usually have leftovers and the soup gets progressively thicker as it sits in the fridges overnight. You might want to thin it out slightly with more cream or water when reheating it. So the thicker you initially make it, the thicker it will be when you reheat any leftovers. If you like a thick soup than use less broth. Start with 8 cups of the broth and see if you like that consistency. If you do, stop adding broth at that point, and if you want it a little more runny keep adding more up to the 10 cups. A lighter version of this soup would be to use milk in place of cream or ditch the milk all together if you don’t to dairy and just use a little extra broth.
 </br>
 </br>
+
 ![Creamy Chicken And Wild Rice Soup](/images/uploads/2019_01_10_creamy_chicken_and_wild_rice_soup_5.jpg)
 </br>
 </br>
@@ -45,6 +49,7 @@ This homemade chicken and rice recipe can make either a thicker soup or a thinne
 This makes quite the pot of soup and is great for company. It’s my favourite to make for a nice Sunday lunch on a cold day with a big loaf of country style crusty bread and maybe a glass of Pinot and then off to bed for a Sunday afternoon nap afterwards. The beauty of this homemade chicken and rice soup is that it doesn’t take long to make at all, especially if you are using up some leftover turkey or chicken and it makes such a delicious bowl of comfort food that you will be craving days after you finished it all off. Its loaded with veggies and lots of chicken and I love the bite and texture the wild rice adds to it too. It’s rich and delicious and I know it will be a hit with your family!!
 </br>
 </br>
+
 ![Creamy Chicken And Wild Rice Soup](/images/uploads/2019_01_10_creamy_chicken_and_wild_rice_soup_6.jpg)
 </br>
 </br>
@@ -98,4 +103,5 @@ This makes quite the pot of soup and is great for company. It’s my favourite t
 Recipe adapted from _Country Living_
 
 </br>
+
 ![Creamy Chicken And Wild Rice Soup](/images/uploads/2019_01_10_creamy_chicken_and_wild_rice_soup_7.jpg)

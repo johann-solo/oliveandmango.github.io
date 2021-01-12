@@ -14,6 +14,7 @@ description: Stuffed Acorn Squash With Bacon And Kale Bread Pudding is a stunnin
 Fall flavours are some of my favorites – full of warm spices and comfort food both savoury and sweet. Living in Trinidad for the last 6 years, I enjoyed fall flavours but without fall. This is the first year in many that I have enjoyed fall flavours with the fall weather, leaves and sweaters. If I were to choose I would choose fall flavours with tropical weather any day. Sorry to disappoint, I’m very much a warm weather lover and would even sacrifice the beauty of fall for warmer weather. What I don’t have to sacrifice no matter the weather is fall spices and flavours and this recipe is completely infused with them.
 </br>
 </br>
+
 ![Stuffed Acorn Squash With Bacon And Kale Bread Pudding](/images/uploads/2018_11_14_stuffed_acorn_squash_with_bacon_and_kale_bread_pudding_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ Fall flavours are some of my favorites – full of warm spices and comfort food 
 Pumpkin pie spice is for more than pumpkin pie - Savoury Stuffed squash with bacon & kale bread pudding - both the squash and creamy filling were spiced with _Club House’s_ Pumpkin Pie Spice and the result = a taste of fall in every bite! It’s nice to have a spice blend like this at your fingertips - saving time blending your own and pantry space. Club House has a few of these lovely and handy spice blends that make baking and cooking fun and convenient. Make sure and [checkout their website](https://www.helloflavour.ca) to see all the spice blends along with recipe ideas to use them in.
 </br>
 </br>
+
 ![Stuffed Acorn Squash With Bacon And Kale Bread Pudding](/images/uploads/2018_11_14_stuffed_acorn_squash_with_bacon_and_kale_bread_pudding_3.jpg)
 </br>
 </br>
+
 ![Stuffed Acorn Squash With Bacon And Kale Bread Pudding](/images/uploads/2018_11_14_stuffed_acorn_squash_with_bacon_and_kale_bread_pudding_4.jpg)
 </br>
 </br>
@@ -31,9 +34,11 @@ Pumpkin pie spice is for more than pumpkin pie - Savoury Stuffed squash with bac
 These stuffed squashes are stuffed to the brim with a delicious combo of ingredients. It’s called a bread pudding stuffed squash because part of the filling is cubed crusty bread which soaks up all the flavours so well from the spiced cream and also from the rest of the ingredients.
 </br>
 </br>
+
 ![Stuffed Acorn Squash With Bacon And Kale Bread Pudding](/images/uploads/2018_11_14_stuffed_acorn_squash_with_bacon_and_kale_bread_pudding_5.jpg)
 </br>
 </br>
+
 ![Stuffed Acorn Squash With Bacon And Kale Bread Pudding](/images/uploads/2018_11_14_stuffed_acorn_squash_with_bacon_and_kale_bread_pudding_6.jpg)
 </br>
 </br>
@@ -41,9 +46,11 @@ These stuffed squashes are stuffed to the brim with a delicious combo of ingredi
 The spiced cream with the bread takes this luscious dish from a starter/side dish to a main. It’s such a pretty looking dish as the shape of the squash is always eye catching and also makes it the main attraction as well. The liquid ingredients may look like a lot, but have no fear they are fully absorbed by the bread and the squash itself. Make sure to over-stuff the squash a little as the ingredients tend to sink in with the whole liquid absorption process.
 </br>
 </br>
+
 ![Stuffed Acorn Squash With Bacon And Kale Bread Pudding](/images/uploads/2018_11_14_stuffed_acorn_squash_with_bacon_and_kale_bread_pudding_7.jpg)
 </br>
 </br>
+
 ![Stuffed Acorn Squash With Bacon And Kale Bread Pudding](/images/uploads/2018_11_14_stuffed_acorn_squash_with_bacon_and_kale_bread_pudding_8.jpg)
 </br>
 </br>
@@ -51,9 +58,11 @@ The spiced cream with the bread takes this luscious dish from a starter/side dis
 If you don’t have any of these baby squashes around feel free to use baby pumpkins in place of them or you can use some small butternut squashes as well. Although if using those you will have to cut those in half lengthwise and stuff them open faced. The flesh of the squash gets so tender and is lightly spiced, seasoned and buttered before stuffing. It absorbs these flavours and then later the lovely flavours of the stuffing making it a delight to eat in each bite.
 </br>
 </br>
+
 ![Stuffed Acorn Squash With Bacon And Kale Bread Pudding](/images/uploads/2018_11_14_stuffed_acorn_squash_with_bacon_and_kale_bread_pudding_9.jpg)
 </br>
 </br>
+
 ![Stuffed Acorn Squash With Bacon And Kale Bread Pudding](/images/uploads/2018_11_14_stuffed_acorn_squash_with_bacon_and_kale_bread_pudding_10.jpg)
 </br>
 </br>
@@ -61,9 +70,11 @@ If you don’t have any of these baby squashes around feel free to use baby pump
 This recipe is easily made vegetarian by swapping the bacon for meaty mushrooms. The bacon itself can also be replaced with Pancetta or even spicy sausage pan fried in place of it. The meat, in this case the pork, adds so much flavour to the filling and a nice bit of saltiness and crunch. Speaking of crunch, I love the crunch the pecans add to the filling as well. They are perfect with anything spiced and that goes for this dish as well.
 </br>
 </br>
+
 ![Stuffed Acorn Squash With Bacon And Kale Bread Pudding](/images/uploads/2018_11_14_stuffed_acorn_squash_with_bacon_and_kale_bread_pudding_11.jpg)
 </br>
 </br>
+
 ![Stuffed Acorn Squash With Bacon And Kale Bread Pudding](/images/uploads/2018_11_14_stuffed_acorn_squash_with_bacon_and_kale_bread_pudding_12.jpg)
 </br>
 </br>
@@ -75,6 +86,7 @@ If you know me, you know I’m very much a savoury food lover not so much of swe
 This is a sponsored post for _Club House_. All thoughts and views are my own.
 </br>
 </br>
+
 ![Stuffed Acorn Squash With Bacon And Kale Bread Pudding](/images/uploads/2018_11_14_stuffed_acorn_squash_with_bacon_and_kale_bread_pudding_13.jpg)
 </br>
 </br>
@@ -139,4 +151,5 @@ __For the Spiced Cream__
 12. Serve immediately.
 
 </br>
+
 ![Stuffed Acorn Squash With Bacon And Kale Bread Pudding](/images/uploads/2018_11_14_stuffed_acorn_squash_with_bacon_and_kale_bread_pudding_14.jpg)

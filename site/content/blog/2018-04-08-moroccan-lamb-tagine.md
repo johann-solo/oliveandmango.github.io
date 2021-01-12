@@ -15,6 +15,7 @@ description: A fantastic Moroccan stew with lamb. This traditional Moroccan dish
 Moroccan flavours have always been elusive but loved by me.  I truly can’t remember my first experience tasting Moroccan food. I absolutely love the flavours in Moroccan dishes and the style of cooking. I love how layered the flavours are too. There’s usually an element of sweetness, some spice, a bit it tangy and salt as well in their dishes. That is as far as I go describing the flavours because I still am quite unversed when it comes to the complexity of the dishes and the flavours and the variations of these depending on the region of Morocco. I have tried several simplified recipes to a basic Moroccan Tajine/tagine (stew) and the flavours have always lacked something, and I knew that it is because you really can’t get those complex flavours by cheating this dish.
 </br>
 </br>
+
 ![Moroccan Lamb Tagine](/images/uploads/2018_04_08_moroccan_lamb_tagine_2.jpg)
 </br>
 </br>
@@ -22,9 +23,11 @@ Moroccan flavours have always been elusive but loved by me.  I truly can’t rem
 A real eye opener to that was when one of Deborah’s (_Rainydaybites_) Cookbook challenges included any one of _Paula Wolfert’s_ (amazing food writer and author of at least 9 cookbooks) cookbooks. I chose _The Food Of Morocco_ as my choice because i wanted to learn more about Moroccan food and more importantly it was the only book I could buy and download.  If I order any books they literally take months to come and even weeks still through Amazon Prime and would cost triple the price because of Customs Tax. Anyways her writing and photography are beautiful and I wish I had the actual book - it would be a great coffee table book just for the amazing food and street photography of Morocco.
 </br>
 </br>
+
 ![Moroccan Lamb Tagine](/images/uploads/2018_04_08_moroccan_lamb_tagine_3.jpg)
 </br>
 </br>
+
 ![Moroccan Lamb Tagine](/images/uploads/2018_04_08_moroccan_lamb_tagine_4.jpg)
 </br>
 </br>
@@ -32,9 +35,11 @@ A real eye opener to that was when one of Deborah’s (_Rainydaybites_) Cookbook
 I realised through that book that really any cheat recipe for a traditional tagine is truly cheating you out of experiencing Moroccan food. That truly was discouraging not because I shy away from a challenge but more so because I can’t get half the ingredients here to even make a proper _ras el hanout_ and of course I don’t own a traditional clay tagine, so I was on a mission to try to find a recipe that still uses traditional flavours but ones that I could easily find here and I would have to settle with using my heavy bottom Dutch oven in place of a traditional clay tagine.
 </br>
 </br>
+
 ![Moroccan Lamb Tagine](/images/uploads/2018_04_08_moroccan_lamb_tagine_5.jpg)
 </br>
 </br>
+
 ![Moroccan Lamb Tagine](/images/uploads/2018_04_08_moroccan_lamb_tagine_6.jpg)
 </br>
 </br> 
@@ -42,9 +47,11 @@ I realised through that book that really any cheat recipe for a traditional tagi
 I did this with the help of _thekitchn_ and also Melanie from _NaturallyNutricious_ and a few other recipes I had made in the past. I love the outcome. The meat is so flavourful from the very deliciously spiced up marinade. The meat is then cooked with the very same spice combinations and then simmers away slowly in the oven (covered in my clay pot aka Dutch oven) until tender. You end up with a very aromatic stew that has some brininess from the olives, some earthiness from the chickpeas, some sweetness from the dried apricot and is so satisfying. My husband loves stew. He is a stew man and this is one of his favourites. He couldn’t get enough and either could I.
 </br>
 </br>
+
 ![Moroccan Lamb Tagine](/images/uploads/2018_04_08_moroccan_lamb_tagine_7.jpg)
 </br>
 </br>
+
 ![Moroccan Lamb Tagine](/images/uploads/2018_04_08_moroccan_lamb_tagine_8.jpg)
 </br>
 </br>
@@ -126,4 +133,5 @@ __For the toppings and garnishes__
 11. Add the boiling chicken broth and the lemon juice, stir, cover and remove from heat. Let the mixture sit, covered, for 5 to 7 minutes, or until the couscous is tender and all the liquid has been absorbed. Fluff with a fork and serve with the tagine with all the fixings.
 
 </br>
+
 ![Moroccan Lamb Tagine](/images/uploads/2018_04_08_moroccan_lamb_tagine_9.jpg)

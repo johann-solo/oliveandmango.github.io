@@ -14,6 +14,7 @@ description: This fresh spring roll recipe with salmon and vegetables makes a gr
 This fresh spring roll recipe with salmon and vegetables makes a great Spring and Summer meal for lunch or dinner. They are unbelievably easy to make, delicious and healthy. Wrapping the rolls is not as intimidating as it looks (it’s actually super easy) and you can fill them with many different fillings. I love to serve them with homemade peanut sauce for dipping and they make a great light lunch, dinner or appetiser.
 </br>
 </br>
+
 ![Fresh Spring Rolls With Salmon and Peanut Sauce](/images/uploads/2020_05_19_fresh_spring_rolls_with_salmon_and_peanut_sauce_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This fresh spring roll recipe with salmon and vegetables makes a great Spring an
 My protein of choice for these particular ones is [Gold Seal’s traditional Wild Pink Salmon](https://goldseal.ca/products/canned-wild-pink-salmon/).  Canned salmon is an often overlooked seafood. It can be a great start to a fast and healthy meal just like these fresh spring rolls. It contains a range of nutrients, rich in protein, vitamin D, calcium (from the bones) and healthy omega-3 fats. Canada's Food Guide recommends we eat at least two servings of low-mercury fish such as salmon each week. Canned salmon is budget friendly way to have seafood in your diet.  It’s a great pantry item to  have stocked. It’s always a good idea to look for the traditional one which is packed as a whole piece of fish with skin and bones, making it an excellent source of calcium and omega-3s.
 </br>
 </br>
+
 ![Fresh Spring Rolls With Salmon and Peanut Sauce ingredients chopped](/images/uploads/2020_05_19_fresh_spring_rolls_with_salmon_and_peanut_sauce_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ My protein of choice for these particular ones is [Gold Seal’s traditional Wil
 These fresh spring rolls come together very very quickly so it’s a good idea to have all your ingredients assembled and prepped including the chopped veggies, salmon, noodles, herbs, and rice paper wrappers. Chop all of your vegetables into long, thin slices. Choose a variety to the love - the ones I have chosen below are just suggestions and the combo I love to put together. 
 </br>
 </br>
+
 ![Fresh Spring Rolls With Salmon and Peanut Sauce ingredients](/images/uploads/2020_05_19_fresh_spring_rolls_with_salmon_and_peanut_sauce_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ Dip wrappers in water. Fill a large shallow dish or pie plate with an inch or so
 Remove one rice paper wrapper from the package at a time and place it in the water to soak for about 10 to 15 seconds and then remove and place on a plate or countertop. The rice wrapper should still feel pretty firm at this point. It will soften as it sits and as you add the filling ingredients. (If you let it soak for too long it will tear easily when you roll it). You don’t want them water logged, but you want the colour to turn from white to clear. 
 </br>
 </br>
+
 ![Fresh Spring Rolls With Salmon and Peanut Sauce ready to serve](/images/uploads/2020_05_19_fresh_spring_rolls_with_salmon_and_peanut_sauce_5.jpg)
 </br>
 </br>
@@ -44,6 +48,7 @@ Remove one rice paper wrapper from the package at a time and place it in the wat
 Add filling. Layer everything on the &frac13; of the spring roll that is closest to you. Add a little of each ingredient. Leave about an inch on both sides unfilled so you can fold the sides in easily before you begin rolling them up from the bottom. They’re a bit fragile, so roll gently, but use firm pressure to keep the roll as tight as possible.
 </br>
 </br>
+
 ![A close up of Fresh Spring Rolls With Salmon and Peanut Sauce](/images/uploads/2020_05_19_fresh_spring_rolls_with_salmon_and_peanut_sauce_6.jpg)
 </br>
 </br>
@@ -51,6 +56,7 @@ Add filling. Layer everything on the &frac13; of the spring roll that is closes
 Wrap. Pick up the sides of the spring roll and fold them in over the toppings. Then pick up the edge closest to you and pull it up and snugly over the toppings. You can also start from the closest side to you first and then close in the sides, whichever feels more comfortable for you. Continue rolling all the way up like a burrito. Wrapping these is like making pancakes - the first one isn’t always the most perfect looking one but is still tasty.  Practice is key, the second one will be better and so forth, just try to keep all of the ingredients in tightly together as you roll everything up.
 </br>
 </br>
+
 ![Fresh Spring Rolls With Salmon and Peanut Sauce with Gold Seal](/images/uploads/2020_05_19_fresh_spring_rolls_with_salmon_and_peanut_sauce_7.jpg)
 </br>
 </br>
@@ -131,4 +137,5 @@ __Storage__
 They taste best the day they are made, but they can be stored for 2-3 days, wrapped individually and stored in an air-tight container in the refrigerator.
 
 </br>
+
 ![A plate of Fresh Spring Rolls](/images/uploads/2020_05_19_fresh_spring_rolls_with_salmon_and_peanut_sauce_8.jpg)

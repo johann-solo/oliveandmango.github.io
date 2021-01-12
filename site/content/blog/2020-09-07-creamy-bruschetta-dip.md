@@ -14,6 +14,7 @@ description: Creamy goat cheese marinated with tomatoes and a garlicky basic bal
 The easiest appetiser you will make and did I mention it’s crazy ‘lick the plate clean’ good. Creamy goat cheese topped with tomatoes and dressed with a basil balsamic vinaigrette. Like a bruschetta style goat cheese dip.  It’s perfect for parties and to take to parties. I first saw this appetiser when one of my friends brought it to a go - away party we attended years ago. I was very curious as to what she was doing in the kitchen. She had brought everything to the party and put the dip all together in my friend's kitchen. It was perfect and devoured so fast! 
 </br>
 </br>
+
 ![Creamy Bruschetta Dip](/images/uploads/2020_09_07_creamy_bruschetta_dip_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ The easiest appetiser you will make and did I mention it’s crazy ‘lick the p
 Simple ingredients that just totally work perfectly together and also very simple to put together quickly if you have unexpected guests and of course have all these ingredients handy. I have made it so many times and it’s always a hit and there’s never any left over. People always request the recipe when I’m make it for others. It’s simple, addictively good and a total crowd pleaser. What more could you want from an appetiser? It’s one of those recipes that really and truly doesn’t have a recipe. You can add extra or use less of any of the ingredients. You want more goat cheese - go for to.  More basil - your choice.  You get what I mean and as far as the vinaigrette goes - you can add as little or as much balsamic, olive oil and salt and pepper as you prefer. 
 </br>
 </br>
+
 ![Creamy Bruschetta Dip](/images/uploads/2020_09_07_creamy_bruschetta_dip_3.jpg)
 </br>
 </br>
@@ -80,4 +82,5 @@ I serve it with pita chips, or baguette crisps either store bought or homemade o
 * For more intense flavours to develop in your bruschetta mix - allow the tomatoes to marinate in the olive oil, balsamic and garlic for 10 minutes or cover and refrigerate for at least 30 minutes to allow flavors to blend. When ready to use, remove from refrigerator and add fresh basil. Spread bruschetta over the top of the cheese as directed and enjoy. 
 
 </br>
+
 ![Creamy Bruschetta Dip](/images/uploads/2020_09_07_creamy_bruschetta_dip_4.jpg)

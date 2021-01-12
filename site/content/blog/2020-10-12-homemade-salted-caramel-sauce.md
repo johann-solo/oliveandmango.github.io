@@ -15,9 +15,11 @@ description: A 5 ingredient salted caramel sauce that is salty, sweet, and irres
 This Salted Caramel recipe is about as easy  as caramel sauce gets! It only uses 5 ingredients, and it’s perfect for topping ice cream, brownies or any other desserts you want to add it too like my [Salted Caramel Apple Pie](https://www.oliveandmango.com/salted-caramel-apple-pie/). This recipe is from _Bobby Flay_ It is an easy no-fail recipe made with granulated sugar, water, heavy cream, unsalted butter, and of-course salt. Homemade caramel sauce is not as hard as people make it out to be and I can’t wait for you to try this recipe to see for yourself. It’s liquid gold - buttery smooth and sweet. 
 </br>
 </br>
+
 ![Homemade Salted Caramel Sauce](/images/uploads/2020_10_12_homemade_salted_caramel_sauce_2.jpg)
 </br>
 </br>
+
 ![Homemade Salted Caramel Sauce](/images/uploads/2020_10_12_homemade_salted_caramel_sauce_3.jpg)
 </br>
 </br>
@@ -25,9 +27,11 @@ This Salted Caramel recipe is about as easy  as caramel sauce gets! It only us
 Caramel sauce is easily bought at the store but it is so much better homemade. There are several ways to make homemade caramel sauce. There are dry and wet methods of making it. The wet method combines water and sugar in the first step, and the dry method uses just sugar. When using just sugar, you heat the sugar and allow it to melt before proceeding with adding the butter and cream. It can be a trickier process, sometimes leading to burning the sugar which causes a bitter tasting caramel sauce (if the sugar cooks for too long) and can seize up when you add the butter and sugar. The wet method is way more straight forward and a little harder to mess up. My kind of recipe. That is the method I use in this recipe. 
 </br>
 </br>
+
 ![Homemade Salted Caramel Sauce](/images/uploads/2020_10_12_homemade_salted_caramel_sauce_4.jpg)
 </br>
 </br>
+
 ![Homemade Salted Caramel Sauce](/images/uploads/2020_10_12_homemade_salted_caramel_sauce_5.jpg)
 </br>
 </br>
@@ -77,4 +81,5 @@ Caramel sauce is easily bought at the store but it is so much better homemade. T
 Recipe by _Bobby Flay_
 
 </br>
+
 ![Homemade Salted Caramel Sauce](/images/uploads/2020_10_12_homemade_salted_caramel_sauce_6.jpg)

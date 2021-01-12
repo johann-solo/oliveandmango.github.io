@@ -15,6 +15,7 @@ description: Spiced apples baked with a crunchy crisp streusel oat topping
 This is one of my favourite fall desserts ever.  It’s easy and perfect served warm with a scoop of vanilla ice cream and a drizzle of my [homemade caramel sauce](https://www.oliveandmango.com/homemade-salted-caramel-sauce/).  We have loads of apples right now and this delicious crisp is a great way to use them that doesn't take a lot of time. 
 </br>
 </br>
+
 ![Easy and Delicious Apple Crisp](/images/uploads/2020_10_14_easy_and_delicious_apple_crisp_2.jpg)
 </br>
 </br>
@@ -22,9 +23,11 @@ This is one of my favourite fall desserts ever.  It’s easy and perfect serve
 Making apple crisp (or some say crumble - to me they are interchangeable - but that’s just me - crisps usually have streusel topping crumbles an oat - this is a mixture of both I guess) is very easy and can also be made with any fruit you might have on hand. The filling is made with fresh sliced apples tossed with some sugar, lemon juice, and spices. You can also add some melted butter and flour for a richer thicker filling - either way is fine though. The topping is made of flour and oats with sugar added and then the cold butter is either mixed in by hand or with a food processor creating the crumbly topping for the crisp.  The apples go into a baking dish, followed by the crumbly topping which gets lightly pressed down into the apple mixture and then baked off until it’s golden, apples are tender and the filling is bubbling. 
 </br>
 </br>
+
 ![Easy and Delicious Apple Crisp](/images/uploads/2020_10_14_easy_and_delicious_apple_crisp_3.jpg)
 </br>
 </br>
+
 ![Easy and Delicious Apple Crisp](/images/uploads/2020_10_14_easy_and_delicious_apple_crisp_4.jpg)
 </br>
 </br>
@@ -32,9 +35,11 @@ Making apple crisp (or some say crumble - to me they are interchangeable - but t
 This recipe makes enough to feed a crowd. Feel free to cut the recipe in half if you want to make a smaller batch.  Also this particular crisp has a higher apple to topping ratio just because I love the filling and apples. If you would prefer to use less apples that is fine - I would reduce the amount by &frac13; and check the doneness of the them closer to the 45 min mark and also adjust the amount of spices and sweetness accordingly. Just be sure to slice or chop the apples thinly and evenly so that you don’t end up with some apples that aren’t cooked through. I do recommend peeling the apples too. Leaving the skin on will give a chewier texture to the apple filling. A great thing about crisps and crumbles is their versatility. If you don’t have enough apples no biggie I often add pears to the mix and even cranberries.  I also love adding some salted caramel sauce to the filling cause I just love apples and caramel together.  I always serve it with my [homemade caramel sauce](https://www.oliveandmango.com/homemade-salted-caramel-sauce/) on the side because a serving of this with a scoop of ice cream and some caramel sauce drizzled over it is just heavenly! 
 </br>
 </br>
+
 ![Easy and Delicious Apple Crisp](/images/uploads/2020_10_14_easy_and_delicious_apple_crisp_5.jpg)
 </br>
 </br>
+
 ![Easy and Delicious Apple Crisp](/images/uploads/2020_10_14_easy_and_delicious_apple_crisp_6.jpg)
 </br>
 </br>
@@ -102,4 +107,5 @@ Total Time: 1hr 15min - 1hr 20min
 To reheat the crisp simply scoop the amount you want into a bowl and reheat in the microwave for 1-2 minutes, depending on how big your serving is. You can also reheat in the oven too. Add your favorite toppings and dig in!
 
 </br>
+
 ![Easy and Delicious Apple Crisp](/images/uploads/2020_10_14_easy_and_delicious_apple_crisp_7.jpg)

@@ -14,6 +14,7 @@ description: The easy smoked salmon quiche that's perfect for breakfast or dinne
 This recipe came out of necessity to eat out all of the smoked salmon we had in the fridge. When you buy a Costco pack of it you get creative with it. Although really and truly my husband is quite happy eating it out of the package standing by the fridge. He does absolutely love it in quiche form as well and that is why I ended up making this quiche.
 </br>
 </br>
+
 ![Puff Pastry Smoked Salmon Quiche With Goat Cheese](/images/uploads/2018_10_20_puff_pastry_smoked_salmon_quiche_with_goat_cheese_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This recipe came out of necessity to eat out all of the smoked salmon we had in 
 I have made it before with many variations but this is my go to one, and this was the first time I decided to actually measure things more accurately when making it. The base recipe of eggs and cream is pretty standard for most quiches but the add ins is where you can really shine creatively. You can go as wild as you want to as simple as you want. I love leeks in bakes and in quiches and that’s why I included them in this quiche. Leeks are similar in flavour to green onions expect a lot milder and also have a sweetness that green onions do not have. You can definitely substitute with a small bunch green onions though if you can’t get your hands on any leeks.
 </br>
 </br>
+
 ![Puff Pastry Smoked Salmon Quiche With Goat Cheese](/images/uploads/2018_10_20_puff_pastry_smoked_salmon_quiche_with_goat_cheese_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I have made it before with many variations but this is my go to one, and this wa
 My husband was eating the smoked salmon on toast with goat cheese and that is why I decided to dollop goat cheese onto this quiche as I had some on hand. It adds a little tang and extra richness to the quiche We loved it but you can alternatively substitute with cream cheese or crumble feta over it instead also.
 </br>
 </br>
+
 ![Puff Pastry Smoked Salmon Quiche With Goat Cheese](/images/uploads/2018_10_20_puff_pastry_smoked_salmon_quiche_with_goat_cheese_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ My husband was eating the smoked salmon on toast with goat cheese and that is wh
 One of my favorite things about this recipe is that you can totally use store bought puff pasty for the base of the tart. What’s easier than that? Feel free to make some homemade if you like. I have a [recipe for homemade](https://www.oliveandmango.com/sausage-kale-and-mushroom-pot-pie/) on the blog that you can check out. But I always have some store bought puff pastry in the freezer and it’s totally perfect for dishes like this. There is no bling baking necessary. Both the filing and tart puff up quite a bit while baking but once the quiche is out of the oven and starts to rest, everything settles.
 </br>
 </br>
+
 ![Puff Pastry Smoked Salmon Quiche With Goat Cheese](/images/uploads/2018_10_20_puff_pastry_smoked_salmon_quiche_with_goat_cheese_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ One of my favorite things about this recipe is that you can totally use store bo
 Quiches are classic and are always in fashion and already always loved on the breakfast table, brunch table and even the lunch or dinner table too! This would be the perfect dinner with a side salad and a glass of wine and so low effort. It’s the perfect thing to make for brunch as well as it is meat and eggs in one. There are so many fabulous filling combinations that you could use and I will definitely be experimenting with many more to come in the meantime this is a fabulous classic combo of flavours in a quiche and think that you will love it!!
 </br>
 </br>
+
 ![Puff Pastry Smoked Salmon Quiche With Goat Cheese](/images/uploads/2018_10_20_puff_pastry_smoked_salmon_quiche_with_goat_cheese_6.jpg)
 </br>
 </br>

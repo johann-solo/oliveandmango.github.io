@@ -14,6 +14,7 @@ description: An easy to make lemon olive oil cake that is made in a food process
 Do you want a fabulously tart and lemony loaf in your recipe collection? This is definitely the one! It has a wonderful fluffy crumb texture, a very lemony zing from the syrup and the glaze plus the cake itself. It’s moist from the syrup and has a wonderful richness from the olive oil. I’m telling you - you do not need to look any further for a perfect lemon olive oil cake!
 </br>
 </br>
+
 ![Lemon Olive Oil Cake](/images/uploads/2018_06_15_lemon_olive_oil_cake_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Do you want a fabulously tart and lemony loaf in your recipe collection? This is
 How did I find this recipe? It actually found me! _Appetite by Random House_ so graciously sent me my very own copy of The _Wickaninnish Cookbook_ and I got to sample and share some of the wonderful recipes from the book.
 </br>
 </br>
+
 ![Lemon Olive Oil Cake](/images/uploads/2018_06_15_lemon_olive_oil_cake_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ How did I find this recipe? It actually found me! _Appetite by Random House_ so 
 _The Wickaninnish Cookbook_ is a book with a collection of beautiful recipes based on signature dishes (including their backstories) served at the exquisite __Wickaninnish Inn__ in Tofino BC. It is full of sophisticated dishes that are marvelously prepared, styled and photographed, and many very approachable ones too.
 </br>
 </br>
+
 ![Lemon Olive Oil Cake](/images/uploads/2018_06_15_lemon_olive_oil_cake_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ _The Wickaninnish Cookbook_ is a book with a collection of beautiful recipes bas
 I will pull directly from the Inn's website to describe this award winning Hotel. “Perched on the edge of the wild west coast of Vancouver Island, the Wickaninnish Inn in Tofino combines heritage and elegance with untamed natural beauty. Framed by ancient rainforest and the Pacific Ocean, each room at the Wickaninnish Inn is designed to charm with its attention to detail and connection with nature.” Doesn’t that sound like the perfect escape? You should see the beauty that surrounds it. Beautiful photography of the hotel and its surroundings are included throughout the cookbook along with the food.
 </br>
 </br>
+
 ![Lemon Olive Oil Cake](/images/uploads/2018_06_15_lemon_olive_oil_cake_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ I will pull directly from the Inn's website to describe this award winning Hotel
 I can dream about seaside dining at the Inn one day and hopefully I will get there. In the meantime though, I can enjoy some of the hotels finest dishes in the comfort of my own home through this cookbook. In it is a compilation of the hotel’s favourite signature dishes from past and present chefs. The Pacific Ocean is literally at the Inn’s doorstep so the book has some marvelous seafood dishes. There are also some amazing healthy breakfast dishes that I can’t wait to try along with exquisite desserts and cocktail recipes!! Appetite Random House has kindly offered to give away a copy of the book to one of my followers to enjoy but for the rest I wanted to makes sure you got a little glimpse of some of the recipes in the book.
 </br>
 </br>
+
 ![Lemon Olive Oil Cake](/images/uploads/2018_06_15_lemon_olive_oil_cake_6.jpg)
 </br>
 </br>
@@ -51,6 +56,7 @@ I can dream about seaside dining at the Inn one day and hopefully I will get the
 I chose to do the lemon olive oil cake and a delicious seafood recipe which I will be sharing soon. Let’s talk about the olive oil cake. I already described it to you but I will tell you about a few changes I made to it. The recipe calls for splitting the batter into two loaf pans but I did not do that. I thought the full batter was the perfect amount for a regular sized loaf tin or for two minis, but not for two regular sized loaf tins. I also did not use the full amount of syrup in the cake as I wanted the cake to maintain its crumb - feel free to use the full amount for a bit of a soaked texture though. That’s pretty much it. My husband loved this loaf sliced and served with a dollop of whip cream (unsweetened) that he thought perfectly balanced the tartness of the cake and mellowed the sweetness.
 </br>
 </br>
+
 ![Lemon Olive Oil Cake](/images/uploads/2018_06_15_lemon_olive_oil_cake_7.jpg)
 </br>
 </br>
@@ -58,6 +64,7 @@ I chose to do the lemon olive oil cake and a delicious seafood recipe which I wi
 The recipe calls for making the cake in the food processor but mine is still in Trinidad waiting for me and my mom's is too small for the full batter so I used my mixer and it was just fine. I also used the light corn syrup instead of the invert sugar because I couldn’t find any. The recipe is delicious, simple and a crowd pleaser. Definitely do try it out and don’t forget to qualify for the giveaway to win the beautiful cookbook this recipe comes from - The Wickaninnish Inn cookbook!
 </br>
 </br>
+
 ![Lemon Olive Oil Cake](/images/uploads/2018_06_15_lemon_olive_oil_cake_8.jpg)
 </br>
 </br>
@@ -113,4 +120,5 @@ Ever wondered why your baked goods don’t turn out the way they do at your favo
 Excerpted from The Wickaninnish Cookbook: Rustic Elegance on Nature’s Edge by The Wickaninnish Inn. Copyright © 2018 Wickaninnish Inn. Published by Appetite by Random House®, a division of Penguin Random House Canada Limited. Reproduced by arrangement with the Publisher. All rights reserved.
 
 </br>
+
 ![Lemon Olive Oil Cake](/images/uploads/2018_06_15_lemon_olive_oil_cake_9.jpg)

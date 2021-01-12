@@ -14,6 +14,7 @@ description: Sweet-tart rhubarb topped with a buttery oat crumble
 This is such an easy to make dessert and it just so happens to be a gluten free one if you are using gluten free oats and flour for the crumble part of it and it’s also refined sugar free and vegan if you sick to using maple syrup over honey and vegan butter. It’s perfect for any occasion and is one of those desserts you can prep before hand when you have company, stick it in the fridge before they arrive, and pop it in the oven while you are enjoying dinner. It will be ready to serve after dinner warm right out the oven with a dollop of whip cream or a scoop of icecream. What’s easier, more delicious and as low maintenance as that?!?
 </br>
 </br>
+
 ![Warm Vanilla Rhubarb Crisp](/images/uploads/2019_05_10_13_warm_vanilla_rhubarb_crisp_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ This is such an easy to make dessert and it just so happens to be a gluten free 
 Crisps/crumbles are my favorite desserts to eat. They aren’t too sweet (especially this one) and can almost pass for breakfast with all the fruit and oats involved. This particular one is a perfect balance of tart and sweet. The rhubarb definitely shines as it’s not completely masked by tons of sugar. It has just enough sweetness to make it appealing to the palate,  while still keeping that signature slight tartness that we want and are looking for in a rhubarb dessert - or at least I am.
 </br>
 </br>
+
 ![Warm Vanilla Rhubarb Crisp](/images/uploads/2019_05_10_13_warm_vanilla_rhubarb_crisp_3.jpg)
 </br>
 </br>
+
 ![Warm Vanilla Rhubarb Crisp](/images/uploads/2019_05_10_13_warm_vanilla_rhubarb_crisp_4.jpg)
 </br>
 </br>
@@ -31,9 +34,11 @@ Crisps/crumbles are my favorite desserts to eat. They aren’t too sweet (especi
 Have you used rhubarb before in baking? Rhubarb is a vegetable similar to celery but is utilized and cooked with like a fruit. It’s very tart and sour, and when you add sugar and cook it down, it’s becomes sweet, releasing a beautiful syrup-like juice like berries. It’s a sought after commodity right now as almost every food blogger known to man has included it in a spring recipe. The pressure is real!! In a good way, it keeps me on my toes and aware of what is in season. It isn’t really in season right now here in Ontario unless you are getting your hands on <span class="highlight"><a rel="nofollow" href="https://food52.com/blog/15812-your-winter-rhubarb-was-grown-in-the-dark-and-harvested-by-candlelight">forced rhubarb</a></span>. Happily I was able to locate some early rhubarb recently which I’m sure was imported not forced and could keep up with the foodie Jones’ for now. Anyways that is besides the point. When you do have rhubarb readily available to you forced or otherwise do make this crisp - you will love it!
 </br>
 </br>
+
 ![Warm Vanilla Rhubarb Crisp](/images/uploads/2019_05_10_13_warm_vanilla_rhubarb_crisp_5.jpg)
 </br>
 </br>
+
 ![Warm Vanilla Rhubarb Crisp](/images/uploads/2019_05_10_13_warm_vanilla_rhubarb_crisp_6.jpg)
 </br>
 </br>
@@ -41,6 +46,7 @@ Have you used rhubarb before in baking? Rhubarb is a vegetable similar to celery
 When I was in Trinidad and didn’t have access to it - I used pomerac/rose apple which has what I think to be a very similar texture to rhubarb. So feel free to use that instead if you are in the Caribbean and don’t naturally get it or if it’s rarely imported. You can also use frozen. The weekend I decided to make this I wasn’t finding fresh any where or frozen anywhere so when I finally located this bunch I almost did a happy dance down the aisle of the grocery store. Amazing what food bloggers get excited about. I really can’t wait for it to be in season here and know that there will be at least a few more recipes coming with this beautiful veggie and one of them will definitely include strawberries once they too are in season here.
 </br>
 </br>
+
 ![Warm Vanilla Rhubarb Crisp](/images/uploads/2019_05_10_13_warm_vanilla_rhubarb_crisp_7.jpg)
 </br>
 </br>
@@ -81,4 +87,5 @@ For the topping </span>
 Adapted from _Time_
 
 </br>
+
 ![Warm Vanilla Rhubarb Crisp](/images/uploads/2019_05_10_13_warm_vanilla_rhubarb_crisp_8.jpg)

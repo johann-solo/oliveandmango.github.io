@@ -14,6 +14,7 @@ description: A tender gluten free almond flour herbed crust with a creamy aspara
 This creamy and rich asparagus tart is a perfect make ahead one for a spring brunch spread, but also makes a satisfying dinner on its own with a side green salad. The crust is a simple press in one that is herbed, delicious, gluten free and vegan. I love to make it the day before I’m serving it and then reheat it just before serving. 
 </br>
 </br>
+
 ![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This creamy and rich asparagus tart is a perfect make ahead one for a spring bru
 A custard tart is basically a quiche. This particular one is made with cream and goat cheese which results in an extra luxurious custard when baked. To counteract the richness, a robust cheese like Gruyère, helps to give the quiche/tart more depth of flavor. The eggs and the little bit of flour in the custard give it some stability and act like a supporting player. It’s the butterfat in the cream and milk that is responsible for a good quiche’s rich custardy texture. This particular one not only has asparagus tips in it but after the stems are blanched they are puréed right into the custard incorporating more of the asparagus into the tart. 
 </br>
 </br>
+
 ![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ A custard tart is basically a quiche. This particular one is made with cream and
 First, a delicious custard tart should have a good homemade crust, preferably blind-baked. This tart has a crisp, savory, herbed and gluten free crust. The flavour and texture of the crust is delicious. Adding herbs to a crust whether it’s this one or a buttery pie/galette adds so much flavour to a pie or a tart.  The crust should be able to hold up next to the creamy filling. A good quiche should also have a good amount of dairy or butter fat if you want it to to be creamy and light as opposed to soupy or watery. That being said any veggies added should also be cooked separately—onions should be sautéed and wet vegetables need to be cooked to the point of releasing their liquid. Pat your blanched asparagus well with a paper towel before adding them to be puréed to lower the amount of added moisture to the filling.  
 </br>
 </br>
+
 ![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ First, a delicious custard tart should have a good homemade crust, preferably bl
 The crust is a wonderful one made with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/almond-meal-flour.html">Bob’s Red Mill Almond flour</a></span>. It’s by far one of my favorite flours to use in baking and In my simple press in tart crusts. It’s made from California-grown almonds, great for Gluten free baking and perfect for paleo and grain free baking recipes as well. The texture it gives things is always pleasing and I also love the slight nuttiness if adds to anything you bake with it. I always have it stocked and with what is going on right now with all the flour hoarding  it’s the key ingredient in a lot of my baking. Actually it’s the most available thing right now along with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/organic-all-purpose-unbleached-white-flour.html">Bob’s Red Mill All Purpose Flour</a></span> at my local grocery store. 
 </br>
 </br>
+
 ![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_5.jpg)
 </br>
 </br>
@@ -44,6 +48,7 @@ The crust is a wonderful one made with <span class="highlight"><a rel="nofollow"
 This month I’m featuring it in two very springlike recipes. First is this lovely asparagus tart that screams spring with its shade of green and also how strongly it features asparagus. The second recipe is a sweet one and a very simple one cause we all need a little something sweet these days. I can’t wait to share that one with you soon. Bob’s Red Mill has all the products you need for all your baking needs while catering to those in your family who have specific food allergies. Their flours come in stone-ground, whole grain,organic, gluten free, paleo, and vegan options, perfect for any spring recipes. 
 </br>
 </br>
+
 ![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_6.jpg)
 </br>
 </br>
@@ -116,4 +121,5 @@ __For The filling__
 5. Pour custard into cooked crust. Sprinkle with Gruyere and goat cheese and top with asparagus tips. Bake until edges of custard are puffed, top is golden brown, and center is set, about 35-40 minutes. (Tent with foil if necessary to prevent overbrowning.) Let cool on a wire rack 15 minutes before slicing and serving.
 
 </br>
+
 ![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_7.jpg)

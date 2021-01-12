@@ -14,6 +14,7 @@ description: Crispy skin, tender roasted chicken with extra crispy potatoes
 This Greek-style skillet roast chicken with crispy potatoes is pure & simple comfort food. With a simple dry salt brine and done in a hot skillet and with a lemon herb marinade - you have yourself a full meal that takes no time to roast with very little prep time. 
 </br>
 </br>
+
 ![Style Skillet Roast Chicken With Crispy Potatoes](/images/uploads/2020_02_16_greek_style_skillet_roast_chicken_with_crispy_potatoes_2.jpg)
 </br>
 </br>
@@ -80,4 +81,5 @@ __For the herby marinade__
 
 </span>
 </br>
+
 ![Style Skillet Roast Chicken With Crispy Potatoes](/images/uploads/2020_02_16_greek_style_skillet_roast_chicken_with_crispy_potatoes_4.jpg)

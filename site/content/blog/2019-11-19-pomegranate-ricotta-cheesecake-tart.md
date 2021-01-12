@@ -14,9 +14,11 @@ description: A classic cheesecake with an amazing pomegranate gelée
 It’s a happy day when you spot all the pomegranates making it into the grocery stores. I realized when going through my dessert section on the blog that I don’t have too many pomegranate recipes at all so I was keeping my eyes peeled for some pomegranate inspired recipes. I didn’t need to look too far - I found some inspo via _Southern Living_ magazine. I actually follow the photographer on Instagram that shot the beautiful pomegranate chess tart that caught my eye from the magazine and it was brilliant looking. My family loves cheesecake so I decided to make a cheesecake version instead of a chess tart. It has hints of citrus in the filling which is so creamy. The ricotta keeps the filling light and delicious also. 
 </br>
 </br>
+
 ![Pomegranate Ricotta Cheesecake Tart](/images/uploads/2019_11_19_pomegranate_ricotta_cheesecake_tart_2.jpg)
 </br>
 </br>
+
 ![Pomegranate Ricotta Cheesecake Tart](/images/uploads/2019_11_19_pomegranate_ricotta_cheesecake_tart_3.jpg)
 </br>
 </br>
@@ -24,9 +26,11 @@ It’s a happy day when you spot all the pomegranates making it into the grocery
 I used my favourite recipe of all time for my tart base - it comes out perfect every time and when I blind bake it it stay perfectly still, no shrinkage or bubbling - just a perfect tart case to fill to your hearts content. It’s a recipe I have been using for a while now and I can’t even remember who it’s from - it’s definitely not from me - but it’s the best one I have used for this sort of crust. I used <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/organic-all-purpose-unbleached-white-flour.html">Bob’s Red Mill Unbleached White Organic all-purpose flour</a></span> to make the tart base and for the filling as per usual. As I have mentioned in my other posts about this Bob’s Red Mill flour, its a premium baking flour milled from certified organic, it’s unbleached and unenriched, with no potassium bromate added and that is why it’s always stocked in my pantry. In fact all of Bob’s Red Mill products are certified Kosher and made with ingredients grown from non-GMO seeds. 
 </br>
 </br>
+
 ![Pomegranate Ricotta Cheesecake Tart](/images/uploads/2019_11_19_pomegranate_ricotta_cheesecake_tart_4.jpg)
 </br>
 </br>
+
 ![Pomegranate Ricotta Cheesecake Tart](/images/uploads/2019_11_19_pomegranate_ricotta_cheesecake_tart_5.jpg)
 </br>
 </br>
@@ -37,6 +41,7 @@ So far it’s sounding pretty good right?!? Great tart crust, great filling, but
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Pomegranate Ricotta Cheesecake Tart](/images/uploads/2019_11_19_pomegranate_ricotta_cheesecake_tart_6.jpg)
 </br>
 </br>
@@ -99,4 +104,5 @@ __For the gelée__
 1. Gently and slowly pour pomegranate mixture over top of chilled tart until just below edge of crust, being careful not to overfill (you may have extra pomegranate mixture). Continue to chill tart until gelée sets, about another 1 hour. Sprinkle with pomegranate arils just before serving, slice and enjoy. 
 
 </br>
+
 ![Pomegranate Ricotta Cheesecake Tart](/images/uploads/2019_11_19_pomegranate_ricotta_cheesecake_tart_7.jpg)

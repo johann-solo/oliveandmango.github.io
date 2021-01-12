@@ -14,6 +14,7 @@ description: A crunchy Greek savoury biscuit similar to Italian biscotti, this t
 These savoury biscotti are full of flavor thanks to the grated parmesan cheese, fresh rosemary, thyme and cracked black pepper and ofcourse the good quality olive oil that they are made with – and it’s a wonderful biscotti to serve on a cheese platter with wine, or alongside a salad or a hearty soup. 
 </br>
 </br>
+
 ![Savoury Parmesan and Herb Walnut Biscotti](/images/uploads/2019_11_09_savoury_parmesan_and_herb_walnut_biscotti_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ These savoury biscotti are full of flavor thanks to the grated parmesan cheese, 
 Olive oil seemed to be the perfect ingredient to use in these savoury biscotti. And when you are cooking with olive oil – for any recipe – you want to make sure to use a good quality extra virgin olive oil so that your finished recipe has the best quality flavors, and that is why I used <span class="highlight"><a rel="nofollow" href="http://kalikori.com">Kalikori Extra Virgin Olive Oil</a></span>. A high quality olive oil from Greece. 
 </br>
 </br>
+
 ![Savoury Parmesan and Herb Walnut Biscotti](/images/uploads/2019_11_09_savoury_parmesan_and_herb_walnut_biscotti_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ Olive oil seemed to be the perfect ingredient to use in these savoury biscotti. 
 There are two things I look for in a good olive oil - an olive oil that is not only wonderful to use in cooking but especially one that tastes good on its one as a finishing oil and one I would use at the dinner table or on a cheese board for dipping. Good olive oil—real olive oil—should smell and taste green, bright, peppery, earthy, grassy, or any combination thereof. That is exactly what Kalikori tastes like. It has a distinctive green colour and a peppery finish, moderately intense aromatic notes reminiscent of spring herbs and the Mediterranean sun.   
 </br>
 </br>
+
 ![Savoury Parmesan and Herb Walnut Biscotti](/images/uploads/2019_11_09_savoury_parmesan_and_herb_walnut_biscotti_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ There are two things I look for in a good olive oil - an olive oil that is not o
 The second thing I look for in a really good quality olive oil is that it has a low acidity of 0.8% or lower. This actually tells you the oil you are buying is from the first press of the olives and also related to the taste of the olive oil.  It’s the early harvest which gives the oil it’s aroma, and it’s peppery finish. Kalikori olive oil has an acidity level of 0.4% so it’s no wonder it tastes the way it does. It is also a first press olive oil proven by its low acidity. 
 </br>
 </br>
+
 ![Savoury Parmesan and Herb Walnut Biscotti](/images/uploads/2019_11_09_savoury_parmesan_and_herb_walnut_biscotti_5.jpg)
 </br>
 </br>
@@ -45,6 +49,7 @@ platter at any budget. I love to [make my own crisps when I can](https://www.oli
 I have partnered up with <span class="highlight"><a rel="nofollow" href="http://kalikori.com">Kalikori Olive Oil</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Savoury Parmesan and Herb Walnut Biscotti](/images/uploads/2019_11_09_savoury_parmesan_and_herb_walnut_biscotti_6.jpg)
 </br>
 </br>
@@ -78,4 +83,5 @@ Makes approx 24 biscotti
 5. Reduce oven temperature to 300°F. Carefully transfer logs to a cutting board. Using a sharp serrated knife, slice each log crosswise, on a slight diagonal, into approximately ½-inch slices. Return the slices to the baking sheet, laying them on their sides in a single layer and bake for 10-12 minutes. Remove from the oven and carefully flip each slice over. Bake for another 10-12 additional minutes. Cool for 5 minutes on the baking sheet before removing to a wire rack to cool completely. 
 
 </br>
+
 ![Savoury Parmesan and Herb Walnut Biscotti](/images/uploads/2019_11_09_savoury_parmesan_and_herb_walnut_biscotti_7.jpg)

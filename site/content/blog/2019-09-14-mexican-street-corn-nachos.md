@@ -14,6 +14,7 @@ description: Crunchy nachos topped with creamy corn, and loaded with cheese
 Cheesy nachos are taken to the next level not only with a creamy cheese sauce but 3 different cheeses. It doesn’t get better than that when it comes to snacking.  I wish I could tell you that I’m all about that game day but I’m not, if I was you better believe these  nachos are the perfect thing for game day, but also great for any party and definitely a great starter for taco night. They disappear quickly so it’s always best to make a double batch, thank me later. 
 </br>
 </br>
+
 ![Mexican Street Corn Nachos](/images/uploads/2019_09_14_mexican_street_corn_nachos_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Cheesy nachos are taken to the next level not only with a creamy cheese sauce bu
 There is reason Mexican street corn, a.k.a. _elote_, is so popular these days. I decided to hop on that train and do a twist that has already been thought of - elote over nachos. So it’s been done - in fact there are so many things getting an elote twist on them the reason being that grilled corn slathered in a mayo sour cream sauce, sprinkled with cotija and chili powder is just that good.
 </br>
 </br>
+
 ![Mexican Street Corn Nachos](/images/uploads/2019_09_14_mexican_street_corn_nachos_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ There is reason Mexican street corn, a.k.a. _elote_, is so popular these days. I
 I love grilled corn, the taste of it and that hint of smokiness is so good. If you have the time and patience to grill your corn for this recipe by all means do so. If not, the pan frying method works just as well in giving that corn some colour and a bit of char on it, it’s also a lot quicker to do. Using fresh corn may be limited to certain times of the year but you can make this recipe with frozen corn and it’s just as delicious - making this a perfect snack for any time of the year. 
 </br>
 </br>
+
 ![Mexican Street Corn Nachos](/images/uploads/2019_09_14_mexican_street_corn_nachos_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ I love grilled corn, the taste of it and that hint of smokiness is so good. If y
 I was so happy with the recipe from Simply recipes because it calls for baking the chips before being loaded for just a few minutes.  This makes all the difference -  I wouldn’t skip that step. It keeps the chips crispy longer instead of soggy with all the toppings. 
 </br>
 </br>
+
 ![Mexican Street Corn Nachos](/images/uploads/2019_09_14_mexican_street_corn_nachos_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ I was so happy with the recipe from Simply recipes because it calls for baking t
 These are really that good and simple to make. They do not skimp on any dairy. They are oozing with cheese sauce, melty cheeses as well as a salty crumbly cheese that is so perfect with the sweet corn. The lime makes it bright in flavour as does the cilantro and the chili powder gives it just enough smokey flavour with slight heat. There is extra heat from the jalapeños but you can control that by how much you add.  We love a little heat and welcome it. Customize to your taste buds and enjoy - cause these guys don’t last long on a table. 
 </br>
 </br>
+
 ![Mexican Street Corn Nachos](/images/uploads/2019_09_14_mexican_street_corn_nachos_6.jpg)
 </br>
 </br>
@@ -97,4 +102,5 @@ __For the nachos__
 Adapted from _Simply Recipes_
 
 </br>
+
 ![Mexican Street Corn Nachos](/images/uploads/2019_09_14_mexican_street_corn_nachos_7.jpg)

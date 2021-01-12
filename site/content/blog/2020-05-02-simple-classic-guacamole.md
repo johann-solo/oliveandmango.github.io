@@ -14,6 +14,7 @@ description: An irresistible homemade avocado based dip served either creamy or 
 The one snack I never tire of is chips and dip. Crispy salty chips that are really a mode to getting more of that dip in your mouth. My favourite combo is tortilla chips and guacamole. I could make a meal out of those two. 
 </br>
 </br>
+
 ![Classic homemade guacamole](/images/uploads/2020_05_02_simple_classic_guacamole_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ The one snack I never tire of is chips and dip. Crispy salty chips that are real
 Ideally the Hass variety of avocados are the best for making a nice guacamole. The are perfectly-sized and packed with flavour, and have an ideal amount of oil content to make it easy to mash into guacamole. They have to be nice and ripe – so dark colour skin and soft to the touch. And the key to a great guacamole in my opinion is that you need the freshest ingredients. I don’t want to say ‘in my opinion’ throughout the whole post so when I state something about guacamole preference, it’s just that – my preference and my opinion. I’m not the authority on guac or its authenticity. I’m just sharing how I love it. 
 </br>
 </br>
+
 ![Guacamole ingredients](/images/uploads/2020_05_02_simple_classic_guacamole_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ Ideally the Hass variety of avocados are the best for making a nice guacamole. T
 Fresh ingredients are a must, and lots of lime to add lots of flavour and to keep your beautiful dip from turning brown. If you’re making it ahead and worried about oxidation, lots of lime is the solution, as well as storing it in an airtight container with a few of the pits or seeds of the avo smushed in the dip. (Make sure to remove them before serving though) Another tip I have heard of but not tried is adding a ½ inch layer of water over the dip while it’s sitting in the fridge in a sealed container and then tipping the water out and stirring the guac before serving. The thin layer of water acts as a barrier to prevent oxidation. Whenever I make it, it’s gone way before that happens so I don’t usually worry about that. Along with that make sure you to add the  jalapeño or a chili of choice to it. It adds a really nice flavour to it. Feel free to adjust amount according to taste to control the heat. Fresh cilantro is also the way to go. It’s a key element of the signature flavours in guacamole. Season with salt liberally and you have yourself the perfect combination of flavours in your guacamole. 
 </br>
 </br>
+
 ![Guacamole ingredients chopped](/images/uploads/2020_05_02_simple_classic_guacamole_4.jpg)
 </br>
 </br>
@@ -38,6 +41,7 @@ Fresh ingredients are a must, and lots of lime to add lots of flavour and to kee
 The recipe below is how I make it always. I don’t add sour cream or mayo or any thing like that. I actually don’t even add tomatoes which many people love to add to it. Just my choice. I find they get a little soggy and I dislike the texture of them in it. If you don’t mind the texture of them in your guacamole then they are definitely a great add in. A few other things I add sometimes are a clove of garlic grated, chopped green onions or chives and extra peppers for more heat and flavour. If I’m organised and plan ahead I even like to roast my garlic and jalapeños which adds a smoky and fabulous flavour to the guacamole. 
 </br>
 </br>
+
 ![How to make guacamole](/images/uploads/2020_05_02_simple_classic_guacamole_5.jpg)
 </br>
 </br>
@@ -46,6 +50,7 @@ The recipe below is how I make it always. I don’t add sour cream or mayo or an
 Texture is completely all preference. Some like it super smooth and done in a food processor but I personally like it creamy but still chunky so I do the smashing with a fork which allows you to control how smooth or chunky you want it. I honestly think that guacamole should not be over-mixed - mix only till the flavours are combined, leaving plenty of chunks, and you'll see what a difference it makes. There you have it! Grab some avocados and make some of this glorious dip and enjoy it snacking on the couch and catching up on your Netflix, or if you’re like me while finishing up work in front of my computer. Either way enjoy!! 
 </br>
 </br>
+
 ![How to make guacamole](/images/uploads/2020_05_02_simple_classic_guacamole_7.jpg)
 </br>
 </br>
@@ -76,4 +81,5 @@ Serves 6-8
 4. Serve with your fav tortilla chips, or with tacos, burritos or literally slathered onto anything and enjoy!!
 
 </br>
+
 ![A bowl of guacamole](/images/uploads/2020_05_02_simple_classic_guacamole_6.jpg)

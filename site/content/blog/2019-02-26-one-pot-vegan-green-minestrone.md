@@ -14,6 +14,7 @@ description: A hearty and delicious one pot meal full of greens and protein
 Minestrone is a classic Italian thick vegetable, bean and pasta soup that is hearty and wonderful on a cold day. I already have a very delicious one on the blog but not a vegan one. Im working with _GoGo Quinoa_, an awesome Canadian company as you know, to come up with vegetarian and vegan friendly meals with a new line of their products. It’s always exciting to come up with fun and pretty easy recipes in collaboration with them. I love doing the research and testing recipes. It’s a fun process and building a recipe from many and adding your own twist to things takes some work but in the end it’s very satisfying and usually quite delicious.
 </br>
 </br>
+
 ![One Pot Vegan Green Minestrone](/images/uploads/2019_02_26_one_pot_vegan_green_minestrone_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Minestrone is a classic Italian thick vegetable, bean and pasta soup that is hea
 I decided to use <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/lentil-quinoa-rotini">GoGo Quinoa Lentil & Quinoa Rotini</a></span> in a minestrone recipe. As I mentioned above I already have a classic [minestrone recipe](https://www.oliveandmango.com/classic-minestrone-soup/) on the blog and all you have to do with that one to make it vegan is omit the cheese and the pancetta. Not a big feat but I wanted something a bit different. I came across several green minestrone recipes on line and I was intrigued. That was definitely the route I wanted to take - a green twist on minestrone was the way to go. You all know how much I love my greens so this was the perfect soup for me to get on the blog, easily made vegetation/vegan and a soup that any one will enjoy not only someone who is vegan. Plus I’m pretty much done with winter and wanted something green and something springlike on the blog, but hearty enough as unfortunately spring is still several weeks away and if we are talking spring-like weather - that could be a couple months away.
 </br>
 </br>
+
 ![One Pot Vegan Green Minestrone](/images/uploads/2019_02_26_one_pot_vegan_green_minestrone_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I decided to use <span class="highlight"><a rel="nofollow" href="https://www.gog
 The <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/lentil-quinoa-rotini">GoGo Quinoa Lentil & Quinoa Rotini</a></span> pasta is already loaded with protein and fiber making this soup a powerhouse of veggies, greens, protein and fiber. My kind of soup for sure. This pasta, just like the rest of _GoGo Quinoa’s_ pasta has a nice textual bite to it and was perfect in this soup. But a warning with all minestrone soups and any pasta you use in a minestrone soup, is do not add the pasta in too soon, to avoid super soft and mushy pasta. Some people cook the pasta separately and add it in to each serving bowl they dish the veggie broth into. That is a great idea and if you are really nervous about your pasta going too soft, that may be a great option for you. But in order for me to keep this a one-pot meal, I added the pasta to the pot at the last few minutes of cooking time, knowing that the pasta will still cook even after the pot is off the heat. The texture of the pasta was just perfect as I served it out.
 </br>
 </br>
+
 ![One Pot Vegan Green Minestrone](/images/uploads/2019_02_26_one_pot_vegan_green_minestrone_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ The <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/p
 I love to serve my minestrone soup with a dollop or a swirl of pesto in it along with some crusty bread. I make my pesto with any greens I may have. This one I made with baby spinach  but the classic basil pesto version is always great too.  It adds even more flavour to the soup and makes it even more luscious. I have the simplest bean pesto recipe bellow that is just wonderful in anything you would use pesto in - pizza, pasta.....etc, and bonus for this recipe - you add more greens to an already green soup.
 </br>
 </br>
+
 ![One Pot Vegan Green Minestrone](/images/uploads/2019_02_26_one_pot_vegan_green_minestrone_5.jpg)
 </br>
 </br>
@@ -46,6 +50,7 @@ If you are looking for a way to switch up your minestrone, this is it. Not only 
 This post is in partnership with _GoGo Quinoa_. All thoughts and views are my own. Thanks for supporting the brands that make Olive & Mango possible. 
 </br>
 </br>
+
 ![One Pot Vegan Green Minestrone](/images/uploads/2019_02_26_one_pot_vegan_green_minestrone_6.jpg)
 </br>
 </br>

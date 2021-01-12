@@ -14,6 +14,7 @@ description: A simple recipe for super moist and delicious chocolate zucchini br
 With the exception of my [banana bread](https://www.oliveandmango.com/no-fail-banana-bread/), this zucchini one has been the most requested by you guys and of course my family. It blew up on instagram and I was sorry I didn’t have the post ready sooner than when I posted the teaser picture of it. There is no question why this is so popular. It’s fabulously moist from the fresh zucchini baked right into it and so rich and chocolatey from the cocoa and the chocolate chunks.
 </br>
 </br>
+
 ![Chocolate Chunk Zucchini Bread](/images/uploads/2018_08_19_chocolate_chunk_zucchini_bread_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ With the exception of my [banana bread](https://www.oliveandmango.com/no-fail-ba
 I have made this so many time since I first shared it on Instagram and the result is always the same - perfection! I adapted the recipe from The Kitchn and it’s a wonderful one. I usually double the amount and make a larger loaf as you see here in one of my larger tins, so feel free to do that if you want, otherwise it’s great in a regular 9x5 loaf pan.
 </br>
 </br>
+
 ![Chocolate Chunk Zucchini Bread](/images/uploads/2018_08_19_chocolate_chunk_zucchini_bread_3.jpg)
 </br>
 </br>
+
 ![Chocolate Chunk Zucchini Bread](/images/uploads/2018_08_19_chocolate_chunk_zucchini_bread_4.jpg)
 </br>
 </br>
@@ -31,9 +34,11 @@ I have made this so many time since I first shared it on Instagram and the resul
 We have shared this one with so many and the response is always the same. It’s loved across the board and everyone always wants the recipe so I am very very excited to share it! This summer has been so busy that I’m a bit back logged with my blog posts. It’s a good problem to have and I’m totally not complaining but I apologize for those of you patiently waiting for this and others. I promise all of them will be up soon. Back to it being a hit with everyone...
 </br>
 </br>
+
 ![Chocolate Chunk Zucchini Bread](/images/uploads/2018_08_19_chocolate_chunk_zucchini_bread_5.jpg)
 </br>
 </br>
+
 ![Chocolate Chunk Zucchini Bread](/images/uploads/2018_08_19_chocolate_chunk_zucchini_bread_6.jpg)
 </br>
 </br>
@@ -41,9 +46,11 @@ We have shared this one with so many and the response is always the same. It’s
 The only thing that a few people mentioned is that they would reduce the amount of chocolate chunks. I love chocolate chunks in my bread and if you love them too I wouldn’t change a thing, but if you don’t like them, reduce the amount or leave them out completely. Have no worries the bread is just as fabulous without them. It stands alone well even without the chocolate chunks or chips but I’m all about the chocolate so I love to add them and I even add a few extra on the top for a decorative touch plus for extra chocolatey goodness.
 </br>
 </br>
+
 ![Chocolate Chunk Zucchini Bread](/images/uploads/2018_08_19_chocolate_chunk_zucchini_bread_7.jpg)
 </br>
 </br>
+
 ![Chocolate Chunk Zucchini Bread](/images/uploads/2018_08_19_chocolate_chunk_zucchini_bread_8.jpg)
 </br>
 </br>
@@ -51,9 +58,11 @@ The only thing that a few people mentioned is that they would reduce the amount 
 Some may say I went a little too far when I added the chocolate ganache but if you are a chocolate lover like I am you won’t regret it. I included the recipe below for a simple ganache that I use to drizzle on many things along with this zucchini bread. It’s totally optional but there if you want to add it and amp up the decadence of this bread.
 </br>
 </br>
+
 ![Chocolate Chunk Zucchini Bread](/images/uploads/2018_08_19_chocolate_chunk_zucchini_bread_9.jpg)
 </br>
 </br>
+
 ![Chocolate Chunk Zucchini Bread](/images/uploads/2018_08_19_chocolate_chunk_zucchini_bread_10.jpg)
 </br>
 </br>
@@ -61,6 +70,7 @@ Some may say I went a little too far when I added the chocolate ganache but if y
 It’s absolutely delicious and we love it to snack on but even more for breakfast. My husband loves to toast his slice and eat it lightly buttered. I love it in the afternoon with my tea. It’s just the right amount of chocolate. It’s also not overly sweet and that is why I excuse it for breakfast too. The things we try and justify - I tell ya!!
 </br>
 </br>
+
 ![Chocolate Chunk Zucchini Bread](/images/uploads/2018_08_19_chocolate_chunk_zucchini_bread_11.jpg)
 </br>
 </br>

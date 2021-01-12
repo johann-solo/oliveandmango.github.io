@@ -14,6 +14,7 @@ description: A bright and refreshing pink grapefruit salad with creamy avocado a
 There’s nothing like enjoying citrus season where citrus is actually grown. Sure we get it all imported here but there’s nothing quite like it off the tree. I thoroughly enjoyed all the delicious citrus we had off the tree (market fresh or from a friend's or workmate's tree) while living in Trinidad. Citrus was one of my favourite seasons, followed by mango season while living there. The variety of citrus on the island itself was wonderful. It was nice to make freshly squeezed orange and grapefruit juice with locally grown citrus, especially on a hot day. Totally refreshing.
 </br>
 </br>
+
 ![Pink Grapefruit and Avocado Salad](/images/uploads/2019_02_25_pink_grapefruit_and_avocado_salad_2.jpg) 
 </br>
 </br>
@@ -21,6 +22,7 @@ There’s nothing like enjoying citrus season where citrus is actually grown. Su
 I often include citrus in salad and I love how it adds just the best punch of sweetness and bit of tartnesss to a salad.  Many times I will have segments of citrus on their own and I will just and enjoy them with a simple vinaigrette, any chopped fresh herbs I may have on hand and some crumbled feta. I never really go off a recipe to make it so I thought I would get one down for you guys. One that is so totally versatile, according to your preference or what you may have available and on hand.
 </br>
 </br>
+
 ![Pink Grapefruit and Avocado Salad](/images/uploads/2019_02_25_pink_grapefruit_and_avocado_salad_3.jpg) 
 </br>
 </br>
@@ -29,6 +31,7 @@ I often include citrus in salad and I love how it adds just the best punch of sw
 I adapted this recipe and use it as a base for my citrus salads. I love the subtle sweet flavour the shallot adds and the creaminess of the avocado with the sweet tart grapefruit is totally delicious. I love a little crunch in mine and pistachios are always so good in citrus salad (all salads) so I will add those in or if I don’t have any on hand some sliced or chopped almonds work just as well. I absolutely love a little saltiness/brininess in my citrus salads too, and I usually add some crumbled feta or even some shaved Parmesan cheese. There all a lot more things you could add or replace and feel free to do that - this is definitely one of those recipes that you should make your own.
 </br>
 </br>
+
 ![Pink Grapefruit and Avocado Salad](/images/uploads/2019_02_25_pink_grapefruit_and_avocado_salad_4.jpg) 
 </br>
 </br>
@@ -36,6 +39,7 @@ I adapted this recipe and use it as a base for my citrus salads. I love the subt
 Feel free to make it with a variety of citrus. I have pink grapefruit in this one but I had a single white one I wanted to use up and added and I also had a single orange leftover from a shoot that I added as well. Some blood oranges would be totally gorgeous and delicious in a pink grapefruit salad too. So don’t be afraid to switch up the citrus combination in the salad.
 </br>
 </br>
+
 ![Pink Grapefruit and Avocado Salad](/images/uploads/2019_02_25_pink_grapefruit_and_avocado_salad_5.jpg) 
 </br>
 </br>
@@ -79,4 +83,5 @@ __The dressing__
 Salad adapted from _Food and Wine_, supreming instructions from _Saveur_
 
 </br>
+
 ![Pink Grapefruit and Avocado Salad](/images/uploads/2019_02_25_pink_grapefruit_and_avocado_salad_6.jpg)

@@ -14,6 +14,7 @@ description: Creamy whipped feta filling, layers of ripe tomatoes & crispy prosc
 A creamy feta cheese mixture and a blend of heirloom tomatoes and prosciutto tops a homemade crust in this savoury galette. There is not a tastier combo than tomatoes and cheese. I’m pretty partial to tomatoes and feta and decided to use my favourite creamy feta spread as the base of this tasty galette. The prosciutto gets crispy and is so good with the tomatoes and feta but that being said this galette is just as good without it if you are keeping things vegetarian. 
 </br>
 </br>
+
 ![Tomato Feta Galette With Prosciutto](/images/uploads/2020_09_17_tomato_feta_galette_with_prosciutto_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ A creamy feta cheese mixture and a blend of heirloom tomatoes and prosciutto top
 The crust stays well and crispy even though the tomatoes shed a bit of moisture. I don’t worry too much about them sogging up the crust as there is a layer of creamy feta between them and the crust. If this is a concern though there is a way to minimize their release of juices on baking. Salting the tomatoes ahead of time for 10-15 min and letting them release some of their liquid is helpful and then blotting them with paper towels before placing them on the galette. I didn’t find this necessary for this galette but if you are worried about the extra moisture feel free to prep your tomatoes this way. They get wonderfully caramelized with crispy edges when they bake up making this a great way to enjoy the last of summers tomato harvest. 
 </br>
 </br>
+
 ![Tomato Feta Galette With Prosciutto](/images/uploads/2020_09_17_tomato_feta_galette_with_prosciutto_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ The crust stays well and crispy even though the tomatoes shed a bit of moisture.
 The creamy feta filling is wonderful and easy to make and makes enough to fill the bottom of the galette quite heartily. If you want less of a filling you can reduce it by half and save the rest to slather on toast or anything else you want it on. It’s quite addictive and stores well in the fridge for a couple of days at least in a sealed container. If you didn’t feel up to making the creamy feta but still want a creamy cheesy component to this tart - my recommendation is to use a prepared herbed cream cheese spread or some creamy Boursin. 
 </br>
 </br>
+
 ![Tomato Feta Galette With Prosciutto](/images/uploads/2020_09_17_tomato_feta_galette_with_prosciutto_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ The creamy feta filling is wonderful and easy to make and makes enough to fill t
 The same goes for the crust. It’s simple enough to make a homemade one. This one is quite simple to work with. I usually recommend working quickly when rolling it out and if it gets too soft at any point just pop it in the fridge for a few minutes on the pan and all to make it easier to work with. Sometimes I find it easier to roll pastry dough between two sheets of parchment paper, and other times it’s easier without the top sheet of parchment. Try both ways to see what works best for you. Like I said with the cheese filling though - if you prefer using a store bought pie dough to make this galette that is perfectly fine 
 </br>
 </br>
+
 ![Tomato Feta Galette With Prosciutto](/images/uploads/2020_09_17_tomato_feta_galette_with_prosciutto_5.jpg)
 </br>
 </br>
@@ -119,4 +123,5 @@ Serve this galette with a fabulous green sauce (my fav on pizzas and savory gale
 Mix everything together and enjoy. Adjust less or more of the above ingredients according to taste. 
 
 </br>
+
 ![Tomato Feta Galette With Prosciutto](/images/uploads/2020_09_17_tomato_feta_galette_with_prosciutto_6.jpg)

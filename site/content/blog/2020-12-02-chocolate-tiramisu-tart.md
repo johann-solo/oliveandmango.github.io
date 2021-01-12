@@ -15,6 +15,7 @@ description: If you love the combination of rich dark chocolate and coffee, you 
 This chocolate tiramisu tart is a sweet take on the classic Italian dessert loved around the world. If you love the combination of rich dark chocolate and coffee, you will love this chocolate tiramisu tart.  It’s a delicious mashup between a classic tart and tiramisu. Tiramisu is one of my all time favorite desserts. It’s light, creamy, just enough boozy and just enough indulgent. I teamed up with Metro to showcase their Selections brand Dark Baking Chocolate and I thought what better way to show case it in all its glory in a rich dark chocolate ganache tart - thus the inspiration to make a tiramisu tart which combines chocolate with coffee and alcohol. 
 </br>
 </br>
+
 ![Chocolate Tiramisu Tart](/images/uploads/2020_12_02_chocolate_tiramisu_tart_2.jpg)
 </br>
 </br>
@@ -23,9 +24,11 @@ This chocolate tiramisu tart is a sweet take on the classic Italian dessert love
 The tart is comprised of three delicious layers. I tried to mimic the flavours of a traditional tiramisu in this tart so to start off with, the base is made with a lady finger (the hard crunchy ones) coffee shortcrust which uses instant espresso powder in it to add that much needed coffee flavour to the tart. It’s simple to make - just as easy as a graham cracker press in crust. I crushed the ladyfingers into crumbs (I used a food processor to do that) then mixed it with a little sugar, butter, espresso powder, then pressed it into the tart pan and baked for a few minutes. It gives this tart that all too familiar flavour of the coffee soaked ladyfingers only this time they make up the crisp and crumbly shortcrust base. If you can’t get your hands on ladyfingers not to worry - graham cracker crumbs will do the job just fine, any cookie crumb in fact. You can even do a chocolate wafer one if you want even more chocolate infusion into this dessert. 
 </br>
 </br>
+
 ![Chocolate Tiramisu Tart](/images/uploads/2020_12_02_chocolate_tiramisu_tart_3.jpg)
 </br>
 </br>
+
 ![Chocolate Tiramisu Tart](/images/uploads/2020_12_02_chocolate_tiramisu_tart_4.jpg)
 </br>
 </br>
@@ -34,9 +37,11 @@ The tart is comprised of three delicious layers. I tried to mimic the flavours o
 The next layer is a rich and delicious layer of boozy Marsala infused chocolate ganache.  I did not skimp on the booze here you guys so what I compare it to is a very rich chocolate boozy truffle. If you feel me on that one great, but if you prefer it to be less boozy then feel free to reduce it by half or use a more mellow liqueur in place of the Marsala (which is a fortified wine) like Frangelico a hazelnut liqueur or kahlua which is a coffee based liqueur. Many other recipes call for rum in their tiramisu so that is also a good option if you don’t have Marsala. I love the deep dark chocolate against the Marsala but if you want a less intense chocolate feel free to substitute the dark chocolate for semi sweet. 
 </br>
 </br>
+
 ![Chocolate Tiramisu Tart](/images/uploads/2020_12_02_chocolate_tiramisu_tart_5.jpg)
 </br>
 </br>
+
 ![Chocolate Tiramisu Tart](/images/uploads/2020_12_02_chocolate_tiramisu_tart_6.jpg)
 </br>
 </br>
@@ -45,6 +50,7 @@ The next layer is a rich and delicious layer of boozy Marsala infused chocolate 
 Finally we have the cream part of the tart. In a traditional tiramisu, zabaglione (custardlike mixture of egg yolks, sugar, and Marsala wine) is folded into mascarpone and  is the cream mixture that makes up the body of the dish. That wasn’t going to work in this tart so I opted for a delicious and light coffee mascarpone cream to top off this tart.  The filling is quite rich so I wanted something light, creamy and not too sweet to add on top and this was perfect. For aesthetic purposes I piped only the center of the tart with the cream but that was just for the photograph so that you are able to see and to distinguish the layers. When I am making this for my family I slather on the mascarpone cream on thick or pipe it on thick. It’s just too good, and I could easily eat it on it’s own by the spoonful. If you needed a mascarpone substitute cream cheese will work. While you won’t get quite the same flavor from cream cheese as from mascarpone, you can successfully use it as a substitute texturally. 
 </br>
 </br>
+
 ![Chocolate Tiramisu Tart](/images/uploads/2020_12_02_chocolate_tiramisu_tart_7.jpg)
 </br>
 </br>
@@ -115,4 +121,5 @@ enough to slice.
 4. Finish it off with a light dusting of cocoa powder. Slice and enjoy.
 
 </br>
+
 ![Chocolate Tiramisu Tart](/images/uploads/2020_12_02_chocolate_tiramisu_tart_8.jpg)

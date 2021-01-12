@@ -16,6 +16,7 @@ description: Don't be intimidated when roasting your turkey. Here are a few simp
 Crispy skin and perfectly tender turkey meat in only a few simple steps. Making a turkey can be intimidating for many - myself included. I’m still slowly getting more comfortable cooking large pieces of meat. What I am very good at is reading and doing my research. I have compiled a few simple techniques I have learned and experimented with to bring you a no-fail perfectly tender turkey. I’m going to keep things quite simple and going to try and keep things brief as well.
 </br>
 </br>
+
 ![Citrus Herb And Butter Turkey](/images/uploads/2018_12_11_citrus_herb_and_butter_turkey_2.jpg)
 </br>
 </br>
@@ -24,6 +25,7 @@ Crispy skin and perfectly tender turkey meat in only a few simple steps. Making 
 To brine or not to brine? The answer it ALWAYS brine. Wet brine is great but I don’t have the space and I have a huge huge aversion to any kind of meat juice, so when it comes to larger pieces of meat like turkey or even a chicken I prefer dry brining. For smaller cuts like pork chops I will still do a wet brine though. Why brine? Besides adding flavour through aromatics like garlic and bay leaves, brining helps meat retain moisture through the cooking process, resulting in unbelievably tender turkey – say goodbye to dry turkey!
 </br>
 </br>
+
 ![Citrus Herb And Butter Turkey](/images/uploads/2018_12_11_citrus_herb_and_butter_turkey_3.jpg)
 </br>
 </br>
@@ -32,6 +34,7 @@ How does dry brining work? The salt basically draws moisture from the bird. Once
 aside 24 hours with the brine, but for the best flavor, you want the brine to work it’s magic for three days so make sure and plan accordingly. Then when you are ready to roast, fry or smoke, use any recipe including this one. Just remember not to add extra salt and there is also no need to wipe off the salt mixture either. Just carry on with whatever recipe you want. Also a note, make sure that your turkey is thawed before brining and also make sure it hasn’t been injected with salt either as this could affect the flavour and saltiness of turkey.
 </br>
 </br>
+
 ![Citrus Herb And Butter Turkey](/images/uploads/2018_12_11_citrus_herb_and_butter_turkey_4.jpg)
 </br>
 </br>
@@ -41,9 +44,11 @@ aside 24 hours with the brine, but for the best flavor, you want the brine to wo
 This is my first time using this method for roasting my turkey and I will literally never roast it any other way. What does the cheesecloth do? The cheesecloth helps insulate the breast and slow down the cooking, which can help keep it from overcooking and drying out in the time needed to cook the dark meat through. It gets soaked in butter and flavorings and lays over the turkey almost protecting it in a way. You can remove the cheesecloth for the last half hour for the turkey to get a deeper brown colour but I didn’t do this and still got a deep golden brown bird. I baste the bird just before I peel it off to make sure it peels off easier. It’s a super simple step - too simple to skip and sacrifice a super tender and perfectly roasted turkey.
 </br>
 </br>
+
 ![Roasting a turkey using cheesecloth](/images/uploads/2018_12_11_citrus_herb_and_butter_turkey_5.jpg)
 </br>
 </br>
+
 ![Taking the temperature from a roasted turkey](/images/uploads/2018_12_11_citrus_herb_and_butter_turkey_6.jpg)
 </br>
 </br>
@@ -52,6 +57,7 @@ This is my first time using this method for roasting my turkey and I will litera
 I have been fortunate enough to be working with _Paderno_ and have been able to use some of their practical and excellent bakeware, including this stainless steel multi-roaster with removable rack. It’s a heavy duty durable roaster with an aluminum encapsulated base for even heat distribution meaning even roasting as well. It’s large enough to fit a big bird up to 22 lbs. Mine was only 12 lbs and had some great wriggle room in it. The removable rack with folding handles allows for easy drainage while in use as well as transferring the turkey in and out of the pan. What I appreciate the most about this roasting pan is the riveted or offset handles angled to fit most ovens. My first apartment after I got married, and several apartments after, had the tiniest ovens. So I basically said goodbye to almost all of my toasting pans because of the added bulk form the handles. My mom happily acquired my pans during that time. I enjoyed roasting my turkey in it and look forward to many more roasts in this beauty of a pan. 
 </br>
 </br>
+
 ![Removing a roasted turkey form the pan](/images/uploads/2018_12_11_citrus_herb_and_butter_turkey_7.jpg)
 </br>
 </br>
@@ -59,6 +65,7 @@ I have been fortunate enough to be working with _Paderno_ and have been able to 
 I decided to do a classic combo of flavorings when it came to the herbs because those are the ones I love. You can choose and swap out your favourite ones according to your taste. I love citrus and we are in the middle of citrus season so I thought it was appropriate to use all the wonderful citrus available. I kept it simple with just oranges and lemons, but you could use limes and grapefruit too. The flavours were absolutely delicious and they added a very nice hint of citrus to the gravy which we totally loved. The gravy is basic and simple to make and is totally delicious. No need for adding anything packaged to it. It is simple and the flavours are all from the lovely pan drippings.
 </br>
 </br>
+
 ![Serving Citrus Herb And Butter Turkey](/images/uploads/2018_12_11_citrus_herb_and_butter_turkey_8.jpg)
 </br>
 </br>
@@ -66,6 +73,7 @@ I decided to do a classic combo of flavorings when it came to the herbs because 
 I can’t say enough about this turkey recipe, and neither can my family. My mom loved it and was so intrigued as she watched me drape over a sopping cheese cloth over the turkey. It’s simple and flavourful and the most tender. I may switch up the flavouring the next time I make turkey but one thing I won’t change is my dry brine and my cheesecloth method! Why change a good thing - sorry a great thing? Give it a try yourself. I’m pretty sure you will love the result!!
 </br>
 </br>
+
 ![Citrus Herb And Butter Turkey](/images/uploads/2018_12_11_citrus_herb_and_butter_turkey_9.jpg)
 </br>
 </br>
@@ -163,4 +171,5 @@ This is a sponsored post for _Paderno_. All thoughts and views are my own. Thank
 Adapted from _The Kitchn_, _Serious Eats_, _Food and Wine_, and _Half Baked Harvest_
 
 </br>
+
 ![Citrus Herb And Butter Turkey](/images/uploads/2018_12_11_citrus_herb_and_butter_turkey_10.jpg)

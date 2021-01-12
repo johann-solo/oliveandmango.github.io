@@ -14,9 +14,11 @@ description:  Greek savoury spinach and leek pie with layers of crispy phyllo pa
 A Greek savoury spinach and leek pie with layers of crispy phyllo pastry. A very straightforward recipe with a vegan and non-vegan option. This is as authentic as it gets using store bought phyllo and a vegan alternative cheese. I’m still working on my homemade from scratch phyllo skills. My mom and aunts have honed their skills and make the thinnest flakiest homemade phyllo pastry dough which is absolutely the best. Mine is still a bit on the doughy side and needs some work. The next best thing is store bought, and really and truly only a machine can produce the absolute thinnest layers of flaky pastry so you cannot go wrong with store-bought. When it comes to vegan eats and phyllo - have no fear, most store bought phyllo pastry is naturally vegan made with vegetable oil and not butter or animal fat. If you are not vegan and want a traditional cheese filling option, I have it included in the recipe below.
 </br>
 </br>
+
 ![Vegan Spanakopita](/images/uploads/2019_07_11_vegan_spanakopita_2.jpg)
 </br>
 </br>
+
 ![Vegan Spanakopita](/images/uploads/2019_07_11_vegan_spanakopita_3.jpg)
 </br>
 </br>
@@ -24,9 +26,11 @@ A Greek savoury spinach and leek pie with layers of crispy phyllo pastry. A very
 Let’s talk about this vegan version for a second. I honestly didn’t know how my family would respond to this version as we are very much a feta loving family as most Greek families are. I may have mentioned this before but during allergy season I’m particularly careful with my dairy intake. It doesn’t fully agree with me anytime of the year but especially during allergy season. So that means no or low milk, cream yoghurt and anything dairy especially during this time. My dad is the same and his seasonal allergies are a bit more severe so I thought I would give this vegan spanakopita a try. The original recipe is from _Lazy Cat Kitchen_. I switched up the vegan cheese recipe to my own recipe and added leeks to mine as I love the flavour of the leeks and spinach together.  My mom makes an all leek version (prasopita) of this pie which I Iove and is another option if you love leeks as much as I do. You guys are probably wondering what my family thought of this vegan version aren’t you?? Well they actually loved it. The first one was gobbled up as soon as it was out the oven. Obviously you cannot truly replicate feta in any recipe but you do get the essence of it and all the wonderful flavours of a traditional spanakopita in his version. They enjoyed every bite and were surprised there was no egg or any kind of cheese in it.
 </br>
 </br>
+
 ![Vegan Spanakopita](/images/uploads/2019_07_11_vegan_spanakopita_4.jpg)
 </br>
 </br>
+
 ![Vegan Spanakopita](/images/uploads/2019_07_11_vegan_spanakopita_5.jpg)
 </br>
 </br>
@@ -34,9 +38,11 @@ Let’s talk about this vegan version for a second. I honestly didn’t know how
 When it comes to the filling and assembly of  this pie there is no need to stress. Your rolling skills do not need to be perfect and phyllo is quite forgiving if you are gently with it. The key is to spread out your filling evenly - not enthusiastically overfilling your first coil like I did and almost running out of filling for the other ones and another tip is to very delicately brush the olive oil on the phyllo - the lighter touch the better for a flakier finish. You can definitely play around with the amounts of spinach and herbs in the filling. This is a very standard amount.  Feel free to add more spinach if you like it filled with more greens. One thing I always do is add extra herbs. I love a very fresh and herby spanakopita and so I add more than the recipe below calls for. Another thing that is a constant when I make my spanakopita or prasopita is using good quality Extra Virgin olive oil in it and on it. I love a robust and good quality one in my spanakopita and anything I make in the kitchen that requires olive oil whether it is baked into something or using it to finish off a dish or salad. Kalikori is one of those olive oils I’m talking about and love. 
 </br>
 </br>
+
 ![Vegan Spanakopita](/images/uploads/2019_07_11_vegan_spanakopita_6.jpg)
 </br>
 </br>
+
 ![Vegan Spanakopita](/images/uploads/2019_07_11_vegan_spanakopita_7.jpg)
 </br>
 </br>
@@ -44,9 +50,11 @@ When it comes to the filling and assembly of  this pie there is no need to stres
 The quality of Kalikori is very evident – from the smell, the feel and of course the taste. That comes as no surprise as the olive oil comes exclusively from the village of Kalethéa in the Kalamata region of Greece. You may also notice a slight peppery finish to the oil. This comes from the first pressing of the olives and also gives it a distinct green colour. Kalikori wants to make sure that their product is of the highest quality and as a result each bottle comes with a best before date. You would be forgiven if you were tempted to take a swig of it own its own – I barely can control myself, but maybe that’s a Greek thing! I hope you enjoy this Greek pie loaded with spinach olive oil and herbs as much as I do!! Enjoy! 
 </br>
 </br>
+
 ![Vegan Spanakopita](/images/uploads/2019_07_11_vegan_spanakopita_8.jpg)
 </br>
 </br>
+
 ![Vegan Spanakopita](/images/uploads/2019_07_11_vegan_spanakopita_9.jpg)
 </br>
 </br>
@@ -54,6 +62,7 @@ The quality of Kalikori is very evident – from the smell, the feel and of cour
 I have partnered up with <span class="highlight"><a rel="nofollow" href="http://kalikori.com">Kalikori</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Vegan Spanakopita](/images/uploads/2019_07_11_vegan_spanakopita_10.jpg)
 </br>
 </br>
@@ -127,4 +136,5 @@ __For the spinach__
 14. Bake for approximately 45 minutes, until golden brown. Allow the pie to rest for a few minutes after baking before cutting into it.
 
 </br>
+
 ![Vegan Spanakopita](/images/uploads/2019_07_11_vegan_spanakopita_11.jpg)

@@ -14,6 +14,7 @@ description: Layers of tender chocolate chestnut crepes layered with ricotta che
 Mille Crepe cake is a classic French cake that translates to ’thousand’ crepe cake.  Its such a show - stopping and fun dessert that is also the perfect dessert if you aren’t a baker because it’s made entirely on the stove top. I wanted so badly to make something new this year with my chestnut purée. There are a few yummy recipe on the blog that are [chestnut](https://www.oliveandmango.com/tags/chestnuts) based and I just love them all. I love chocolate and chestnut together and I came up with this combo after watching a clip of Martha Stewart making chestnut crepes with Mario Batali. They are called Necci in Italian and they are served with ricotta and honey. They also happen to be naturally gluten free as they are made with chestnut flour. (That being said this recipe can also be made with all purpose flour too if you can’t get your hands on chestnut flour) I decided to do a crepe cake and add some cocoa to the mix. Sometimes my ideas don’t always work but this one absolutely did!! I went with the ricotta for the filling but kept the chestnut theme going and added some purée to the cream filling. It’s was so so good!! 
 </br>
 </br>
+
 ![Chocolate Chestnut Mille Crepe Cake](/images/uploads/2020_02_04_chocolate_chestnut_mille_crepe_cake_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ Mille Crepe cake is a classic French cake that translates to ’thousand’ crep
 The ingredient amounts below are a guide, since it really depends on the size of your crepes, and how much filling you spread on. I used an 8inch pan and got about 20-25 crepes. I used 2 tbsp of cream per layer which lasted me 20 layers which I think is perfect. I decided to make another half batch of cream filling to pipe some of it on top but that is purely decorative and optional. You’ll probably have a few more crepes than you need, which isn’t really a problem, and you can try to go even higher than I did, In fact it’s better to have a few extra than not enough. 
 </br>
 </br>
+
 ![Chocolate Chestnut Mille Crepe Cake](/images/uploads/2020_02_04_chocolate_chestnut_mille_crepe_cake_3.jpg)
 </br>
 </br>
+
 ![Chocolate Chestnut Mille Crepe Cake](/images/uploads/2020_02_04_chocolate_chestnut_mille_crepe_cake_4.jpg)
 </br>
 </br>
@@ -31,9 +34,11 @@ The ingredient amounts below are a guide, since it really depends on the size of
 My first crepe like my first pancake is always a wash so give yourself 2-3 tries before you get the temp and the technique down. Trust me after your tenth you will be on a roll. If you get really confident and you have a second similar size skillet feel free to do two at a time.  That will cut down on your crepe making time by half. It took me about 45 minutes to make them all in the one pan. That was at a decent pace so making two at a time would be great but not always possible. I didn’t mind the time it took to make them. I found it sort of therapeutic. 
 </br>
 </br>
+
 ![Chocolate Chestnut Mille Crepe Cake](/images/uploads/2020_02_04_chocolate_chestnut_mille_crepe_cake_5.jpg)
 </br>
 </br>
+
 ![Chocolate Chestnut Mille Crepe Cake](/images/uploads/2020_02_04_chocolate_chestnut_mille_crepe_cake_6.jpg)
 </br>
 </br>
@@ -41,6 +46,7 @@ My first crepe like my first pancake is always a wash so give yourself 2-3 tries
 There are a few things that help when it comes to making crepes. First make sure you are using a non stick pan. Getting the temperature of the pan right is also very important. If the pan is too hot, the crêpe batter will solidify before you have a chance to swirl it around. If its too cold, it may have a tendency to stick or be harder to flip. When it comes to making this crepe cake look uniform, (but still a bit rustic) it’s important to use a measuring scoop or cup to measure out the crepe batter. This will help ensure that every crepe is generally the same size and thickness. Don’t be too fussy if they all don’t look perfect or if one or two of them tears a little. You only need one perfect one for the top and even that one gets a slathering of cream over it so it’s a very forgiving cake. Some people like to trim the edges off it when it’s all stacked but I love the rustic ruffled edges. 
 </br>
 </br>
+
 ![Chocolate Chestnut Mille Crepe Cake](/images/uploads/2020_02_04_chocolate_chestnut_mille_crepe_cake_7.jpg)
 </br>
 </br>
@@ -48,6 +54,7 @@ There are a few things that help when it comes to making crepes. First make sure
 This was so much fun to make and put together. Once you get the hang of making the crepes the rest is sooooo easy. This makes for a great celebration cake as it looks so fancy and special the best part is that no baking was required. I think you guys will have fun making this one too - enjoy!! 
 </br>
 </br>
+
 ![Chocolate Chestnut Mille Crepe Cake](/images/uploads/2020_02_04_chocolate_chestnut_mille_crepe_cake_8.jpg)
 </br>
 </br>
@@ -95,4 +102,5 @@ __For the cream filling__
 The crepes and the cream can be made a day ahead and stored in sealed containers in the fridge. Put together just before you are ready to serve.
 
 </br>
+
 ![Chocolate Chestnut Mille Crepe Cake](/images/uploads/2020_02_04_chocolate_chestnut_mille_crepe_cake_9.jpg)

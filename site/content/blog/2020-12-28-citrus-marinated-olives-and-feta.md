@@ -15,6 +15,7 @@ description: Easy marinated olives make the perfect appetizer, snack or gift
 This easy recipe for marinated olives with feta, garlic, chilies and citrus peel is perfect for entertaining. They make a great appetizer to go with cocktails or wine and perfect on a charcuterie board. They keep well and get better over time so they also make a great hostess gift too. It’s a simple recipe that is also very versatile. 
 </br>
 </br>
+
 ![Citrus Marinated Olives and Feta](/images/uploads/2020_12_28_citrus_marinated_olives_and_feta_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This easy recipe for marinated olives with feta, garlic, chilies and citrus peel
 This recipe idea comes from Alison Roman’s book Nothing Fancy.  She uses grapefruit peel in her marinated olives and I just loved the idea of using something other than lemon to add flavour to these marinated olives. These are most definitely delicious with lemon but if you would like a change in the flavour profile, try using a different citrus fruit. I loved using orange - they infuse a nice almost sweetness to the olives and the oil in general. You can also add your favorites fresh herbs too. Citrus shines with rosemary and thyme, those are my favorite fresh herbs to add to this recipe but feel free to add whichever fresh herb you like to help fuurther infuse the olives and olive oil. 
 </br>
 </br>
+
 ![Citrus Marinated Olives and Feta](/images/uploads/2020_12_28_citrus_marinated_olives_and_feta_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ This recipe idea comes from Alison Roman’s book Nothing Fancy.  She uses gra
 You can keep the pits in the olives or just use already pitted ones if you like. By smashing them open to get the pit out - essentially more of the olive is infused with the oil and flavours so I don’t mind removing the pits myself. My favorite olives to use are Castelvetrano because I think they are delicious but also because I find they are the easiest to smash and remove the pits from. You can use whichever you like and you most definitely can use a variety of them combined together in this recipe. 
 </br>
 </br>
+
 ![Citrus Marinated Olives and Feta](/images/uploads/2020_12_28_citrus_marinated_olives_and_feta_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ You can keep the pits in the olives or just use already pitted ones if you like.
 They are so tasty to snack on and the oil is so beautifully infused you don’t want to waste a drop. I always serve these with crusty baguette to make sure you can mop up that fabulous infused olive oil with it. The original recipe did not call for feta in it but I thought it adds an extra layer of salty briny to these marinated olives. I have made them before with mini bocconcini as well and that was also delicious - the bocconcini were infused with so much flavour.  It’s really up to your preference. It’s also great with goat cheese - giving it similar flavours to my ever popular [Marinated Goat Cheese Spread](https://www.oliveandmango.com/marinated-goat-cheese-spread/). These marinated olives are just the easiest recipe to make and to create a delicious snack or appetizer. Enjoy!
 </br>
 </br>
+
 ![Citrus Marinated Olives and Feta](/images/uploads/2020_12_28_citrus_marinated_olives_and_feta_5.jpg)
 </br>
 </br>
@@ -74,4 +78,5 @@ They are so tasty to snack on and the oil is so beautifully infused you don’t 
 * The longer the olives sit in the infused oil, the more flavour they will have. So this is the perfect make ahead appetizer. Once the olives have cooled a bit you can transfer them to a sealed container or jar and refrigerate for at least 48 hours, or up to 1 month. 
 
 </br>
+
 ![Citrus Marinated Olives and Feta](/images/uploads/2020_12_28_citrus_marinated_olives_and_feta_6.jpg)

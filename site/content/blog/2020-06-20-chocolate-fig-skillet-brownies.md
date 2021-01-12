@@ -14,6 +14,7 @@ description: A delicious and simple skillet dessert giving you the ultimate suga
 Here’s a delicious and simple skillet dessert giving you the ultimate brownie experience. Rich, decadent double chocolate brownie is baked to perfection in a cast-iron skillet. It’s refined sugar free and naturally sweetened using fig paste and just enough flour (spelt in this case) to hold it together, keeping the centre super-rich, gooey and fudgey. 
 </br>
 </br>
+
 ![Chocolate Fig skillet brownies](/images/uploads/2020_06_20_chocolate_fig_skillet_brownies_2.jpg)
 </br>
 </br>
@@ -22,9 +23,11 @@ Here’s a delicious and simple skillet dessert giving you the ultimate brownie 
 You have heard of using date paste to sweeten baked goods but have you ever tried <span class="highlight"><a rel="nofollow" href="https://valleyfig.com/buy-figs/retail/?utm_source=olive%20and%20mango&utm_medium=sponpo&utm_campaign=buy%20figs">making fig paste with dried figs</a></span>? It’s so easy to make and is the most perfect way to sweeten these brownies without using refined sugar or any other sweetener. Dried figs can already be soft right out of the package but it’s always a good idea to soak them for a few minutes in hot water before turning them into paste. If they are on the drier side soak them for up to 15 minutes. Drain them and then chop them coarsely (your food processor will thank you) place them in a food processor and process until smooth, pausing every once in a while to scrape down the sides of the bowl.  If fig paste is too thick, add hot water, 1 tablespoon at a time until completely pureed. 
 </br>
 </br>
+
 ![Chocolate Fig skillet brownies](/images/uploads/2020_06_20_chocolate_fig_skillet_brownies_3.jpg)
 </br>
 </br>
+
 ![Chocolate Fig skillet brownies](/images/uploads/2020_06_20_chocolate_fig_skillet_brownies_4.jpg)
 </br>
 </br>
@@ -33,9 +36,11 @@ You have heard of using date paste to sweeten baked goods but have you ever trie
 I made these brownies in partnership with Valley Fig Growers and if you visit their website at <span class="highlight"><a rel="nofollow" href="https://valleyfig.com/buy-figs/retail/?utm_source=olive%20and%20mango&utm_medium=sponpo&utm_campaign=buy%20figs">Valleyfig.com</a></span> you will get all sorts of cool facts about figs and many <span class="highlight"><a rel="nofollow" href="https://valleyfig.com/dried-fig-recipes/?utm_source=olive%20and%20mango&utm_medium=sponpo&utm_campaign=dried%20fig%20recipes">recipes using dried figs too</a></span>.  A few facts on their website have to do with using figs and fig paste in baked goods. Using dried figs is a delicious and great way to sweeten baked goods, and can also be <span class="highlight"><a rel="nofollow" href="https://valleyfig.com/health-nutrition/fig-faqs/?utm_source=olive%20and%20mango&utm_medium=sponpo&utm_campaign=nutrition%20fig%20faq">used to replace fat</a></span> in them too. Using dried figs in baked goods naturally helps hold in moisture in baked goods, keeping them fresher longer.
 </br>
 </br>
+
 ![Chocolate Fig skillet brownies](/images/uploads/2020_06_20_chocolate_fig_skillet_brownies_5.jpg)
 </br>
 </br>
+
 ![Chocolate Fig skillet brownies](/images/uploads/2020_06_20_chocolate_fig_skillet_brownies_6.jpg)
 </br>
 </br>
@@ -44,9 +49,11 @@ I made these brownies in partnership with Valley Fig Growers and if you visit th
 Apart from them being a tasty snack and naturally sweetening baked goods, <span class="highlight"><a rel="nofollow" href="https://valleyfig.com/health-nutrition/fig-faqs/?utm_source=olive%20and%20mango&utm_medium=sponpo&utm_campaign=nutrition%20fig%20faq">dried figs have health benefits</a></span>. They are an excellent source of dietary fibre, loaded with essential minerals such as potassium, iron and calcium, and rich in health-promoting antioxidants and complex carbohydrates. Ounce for ounce, figs have more fibre than prunes and more potassium than bananas. For more benefits check out Valleyfig.com. 
 </br>
 </br>
+
 ![Chocolate Fig skillet brownies](/images/uploads/2020_06_20_chocolate_fig_skillet_brownies_7.jpg)
 </br>
 </br>
+
 ![Chocolate Fig skillet brownies](/images/uploads/2020_06_20_chocolate_fig_skillet_brownies_8.jpg)
 </br>
 </br>
@@ -54,9 +61,11 @@ Apart from them being a tasty snack and naturally sweetening baked goods, <span 
 Growing up we often had friends and family over and always had dried fruit and nuts (ξηρους καρπους) to serve with a drink. Dried figs and sultanas were the dried fruit of choice so my love for dried figs runs deep - along with my love for fresh figs as well. I was excited for the opportunity to work with Valley Fig Growers to create a recipe using their dried figs in a tasty bake up. Their figs are California grown. The two most common varieties of figs grown in California are the amber-coloured, slightly nutty-flavoured Golden and the dark purple, sweet Mission. California produces 100% of the nation’s dried figs and 98% of the fresh figs. I loved using their mission dried figs which I found to have a more intense sweetness to them. They were perfect in the fig paste. I used a combination of their Mission Dried Figs and Golden Dried Figs to top the brownie with and they added texture to the brownies and a pleasing design on top. 
 </br>
 </br>
+
 ![Chocolate Fig skillet brownies](/images/uploads/2020_06_20_chocolate_fig_skillet_brownies_9.jpg)
 </br>
 </br>
+
 ![Chocolate Fig skillet brownies](/images/uploads/2020_06_20_chocolate_fig_skillet_brownies_10.jpg)
 </br>
 </br>
@@ -64,6 +73,7 @@ Growing up we often had friends and family over and always had dried fruit and n
 Speaking of texture, figs naturally have texture in the flesh. I learned something pretty cool about what makes up that texture. You will never see blossoms on a fig tree. The fruit is the blossom— and it's actually an inverted flower. At maturity, the interior of the fig contains only the remains of the flower, including the tiny crunchy seeds that you taste when you eat figs. This naturally gets incorporated into the brownies— a little unexpected texture which we loved. The chocolate chips add more obvious texture to them which I also love and strongly recommend you not leave out. 
 </br>
 </br>
+
 ![Chocolate Fig skillet brownies](/images/uploads/2020_06_20_chocolate_fig_skillet_brownies_11.jpg)
 </br>
 </br>
@@ -116,4 +126,5 @@ Recipe is for one 9 inch round skillet or 8x8 baking dish
 1. Bake in the preheated oven until edges just begin to set, 20 minutes. Allow to cool and serve right out of the pan.
 
 </br>
+
 ![Chocolate Fig skillet brownies](/images/uploads/2020_06_20_chocolate_fig_skillet_brownies_12.jpg)

@@ -15,6 +15,7 @@ description: A delicious classic seafood stew with a little bit of everything fr
 This delicious Cioppino seafood stew is not only easy to make but absolutely delicious with the right ingredients. It’s a classic Italian American dish - originating in San Francisco made made with whatever fresh catch a fisherman has left over from his/her day of fishing. For me, it's whatever I can find at the grocery store and the same goes for you. It’s best made with the seafood you and your family enjoy to eat. It’s perfect piping hot on a cold day served with a loaf of warm, crusty bread for sopping up all the delicious broth! Like any stew - it tastes even better the next  day when all the flavours have had time to meld together - so make sure to make a big pot and count on some tasty leftovers. 
 </br>
 </br>
+
 ![Simple Cioppino](/images/uploads/2020_12_23_simple_cioppino_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This delicious Cioppino seafood stew is not only easy to make but absolutely del
 This classic seafood stew is made up of a little bit of everything from the sea. Shrimp, scallops, clams, mussels, and cod; or whatever seafood mix you might have on hand. I made this dish in partnership with Metro - one of my favourite grocery stores for fresh or frozen seafood. I can always count on them for either. In this recipe I used their fresh clams, mussels and cod and decided to use their Irresistibles brand frozen Shrimp & Bay Scallops which were the perfect addition to this stew. In fact any frozen seafood blend would work. You don't have to use every single one of these if you don't have them, or if you don't want to. Customize the seafood stew with what you want to use, and try it that way. I like to do an assortment of shell fish and some sort of white fish (Atlantic cod, haddock, hake, halibut...to name a few) or even some salmon. 
 </br>
 </br>
+
 ![Simple Cioppino](/images/uploads/2020_12_23_simple_cioppino_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ This classic seafood stew is made up of a little bit of everything from the sea.
 Make sure if you are adding clams or mussels that you are able to clean, soak and store them properly if not using them immediately. Your fishmonger or whoever is behind the counter of the seafood section at the grocery store can let you know all the details. Basically you want to make sure that your clams and mussels are clean of any debris outside of them and they also need to be soaked to expel any sand or debris remaining inside. If you find any mussels with open shells, lightly tap that mussel against the side of the sink. If the mussel closes up again in response to this turmoil, it's alive. If it doesn't move, discard it. Clams should all still be firmly shut too. If some have started to open, give them a tap. If they don’t snap shut relatively quickly, throw them away.
  </br>
 </br>
+
 ![Simple Cioppino](/images/uploads/2020_12_23_simple_cioppino_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ Make sure if you are adding clams or mussels that you are able to clean, soak an
 This versatile and tasty seafood stew in simply flavoured with salt, pepper, chili flakes and fennel seeds. Feel free to use extra herbs according to taste. Oregano and thyme are great with this stew and even basil. You can also add more veggies to the stew as well.  You can add carrots and celery for extra flavour and extra textures to the stew. I used a simple store bought seafood broth/stock but feel free to make your own and use it in this soup - it would be even more delicious with homemade. The fennel seed and the fennel in this stew add an amazing flavour to it - it’s a unique flavour that I love and finishing this stew off with a shot of Ouzo or any other anise based liquors really deepens the flavours in the stew. It’s a stew that is very much hands on - from eating the shellfish to mopping up all the delicious, savory broth you've just created with  some bread. Enjoy!!
 </br>
 </br>
+
 ![Simple Cioppino](/images/uploads/2020_12_23_simple_cioppino_5.jpg)
 </br>
 </br>
@@ -102,4 +106,5 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 Adapted from _Ina Garten_
 
 </br>
+
 ![Simple Cioppino](/images/uploads/2020_12_23_simple_cioppino_6.jpg)

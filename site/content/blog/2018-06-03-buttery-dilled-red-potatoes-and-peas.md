@@ -12,6 +12,7 @@ excerpt: A simple Summer side, perfect for BBQ & picnic season
 BBQ season is in full swing in Canada. We’ve only been here a few days and we can already smell everyone’s grills working overtime! This is the perfect side not only for all the barbecues but picnics as well that you will be having during the warm weather months. It’s a wonderfully easy side to make and is so buttery, lemony and fabulous with the fresh dill. They can be served warm or cold if you prefer which makes them especially perfect for picnics.
 </br>
 </br>
+
 ![Buttery Dilled Red Potatoes and Peas](/images/uploads/2018_06_03_buttery_dilled_red_potatoes_and_peas_2.jpg)
 </br>
 </br>
@@ -19,9 +20,11 @@ BBQ season is in full swing in Canada. We’ve only been here a few days and we 
 First let’s get back to me being in Canada. I’ve been talking a lot about going and being back home through Instagram and many of you have been wondering why I am back. Without getting into too many details, there are many different factors that played into our decision but one of the main factors was to be with and help my parents out a bit. As hard as it was so leave Trinidad we know it was time and for a good reason. It’s more of a see you soon rather than a goodbye to Trinidad though, as we will be back and forth, have family there and many friends and we will definitely be back to do more food styling and photography workshops. My connection to Trinidad is still quite strong and I have a few things in the works for the place I called home for almost 6 years.
 </br>
 </br>
+
 ![Buttery Dilled Red Potatoes and Peas](/images/uploads/2018_06_03_buttery_dilled_red_potatoes_and_peas_3.jpg)
 </br>
 </br>
+
 ![Buttery Dilled Red Potatoes and Peas](/images/uploads/2018_06_03_buttery_dilled_red_potatoes_and_peas_4.jpg)
 </br>
 </br>
@@ -29,9 +32,11 @@ First let’s get back to me being in Canada. I’ve been talking a lot about go
 So that’s a little bit about where I’m at right now. I’m just trying to set things up to move forward with the blog. I am going to continue working as a dental hygienist for some part but I really want to focus my energies on doing the best that I can to build up the blog and polish it up as much as I can as I have more time to spend on it.
 </br>
 </br>
+
 ![Buttery Dilled Red Potatoes and Peas](/images/uploads/2018_06_03_buttery_dilled_red_potatoes_and_peas_5.jpg)
 </br>
 </br>
+
 ![Buttery Dilled Red Potatoes and Peas](/images/uploads/2018_06_03_buttery_dilled_red_potatoes_and_peas_6.jpg)
 </br>
 </br>
@@ -39,9 +44,11 @@ So that’s a little bit about where I’m at right now. I’m just trying to se
 Now that that’s out of the way, back to these delicious potatoes. Don’t skimp on the butter! They are creamy and dreamy with it and if you want extra lemon go for it. I served them with an extra wedge of lemon on the side for that extra squeeze of lemon and lift. This is definitely a potato salad for the books and should be added to your summer potato salad rotation. Enjoy!
 </br>
 </br>
+
 ![Buttery Dilled Red Potatoes and Peas](/images/uploads/2018_06_03_buttery_dilled_red_potatoes_and_peas_7.jpg)
 </br>
 </br>
+
 ![Buttery Dilled Red Potatoes and Peas](/images/uploads/2018_06_03_buttery_dilled_red_potatoes_and_peas_8.jpg)
 </br>
 </br>
@@ -71,4 +78,5 @@ Now that that’s out of the way, back to these delicious potatoes. Don’t skim
 Adapated from _Buzzfeed_
 
 </br>
+
 ![Buttery Dilled Red Potatoes and Peas](/images/uploads/2018_06_03_buttery_dilled_red_potatoes_and_peas_9.jpg)

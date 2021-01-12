@@ -14,6 +14,7 @@ description: Simple citrus infused cupcakes with a luscious grapefruit infused b
 The last time I made these I was in Trinidad two years ago at the end of grapefruit season.  I remember having tons of citrus while I was living there. When in season, there is a plethora of citrus - and just the best time of year next to mango season in my opinion. I made these to feed a bit of a crowd originally and they are such a hit - like little mini cake-lets- perfect for feeding many. 
 </br>
 </br>
+
 ![Pink Grapefruit Cupcakes](/images/uploads/2019_06_14_pink_grapefruit_cupcakes_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ The last time I made these I was in Trinidad two years ago at the end of grapefr
 Getting invited or having people over is always a good excuse to try an new recipe and this is how I ended up making these. I never shy away from a new recipe even if you are trying it for the first time for company - worse case scenario it flops and you get take out or you pick up some brownies for dessert instead. These turned out to be really delicious though especially if you’re a fan of all things citrus! They are also super simple to make. The batter gets mixed with a spatula and the whole recipe is made from very basic ingredients. The yogurt and coconut oil/ vegetable oil makes them moist with a slight crumble and slightly more dense than your regular cupcake - like I said they resemble a little cake-let. 
 </br>
 </br>
+
 ![Pink Grapefruit Cupcakes](/images/uploads/2019_06_14_pink_grapefruit_cupcakes_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ Getting invited or having people over is always a good excuse to try an new reci
 I love the simplicity of the butter cream too. There’s just enough grapefruit infused in both the batter and the frosting without being too intense. They aren’t super tart or bitter if you are worried about that and you can use any variety of grapefruits you would like. In fact you could definitely use any citrus with this recipe. This time around I used pink grapefruit and decided to use a buttercream instead of a cream cheese frosting. I included both so that you have options. Cream cheese frosting is always a win but buttercream frosting is lighter and also way easier to pipe. So if you want to get fancy with your frosting swirls I recommend doing the buttercream frosting. The recipe for the frosting is from _Rosie Daykin_ and the best buttercream recipe ever!! It’s simple and perfect every time. 
 </br>
 </br>
+
 ![Pink Grapefruit Cupcakes](/images/uploads/2019_06_14_pink_grapefruit_cupcakes_4.jpg)
 </br>
 </br>
@@ -38,6 +41,7 @@ I love the simplicity of the butter cream too. There’s just enough grapefruit 
 I originally decorated the cupcakes with candied grapefruit infused with rosemary. It’s something I really wanted to test and they turned out beautifully but I used fresh slices this time for ease and the pink grapefruit was too pretty fresh not to use that way. I included the recipe below if you wanted to try it. You can use this same recipe for making any kind of candied citrus slices. It’s the simplest one I have seen out there and all I did differently from the original recipe is infuse the sugar water with the rosemary which actually turned out wonderfully. But you don’t have to infuse it with rosemary or anything. That is totally an optional step.
 </br>
 </br>
+
 ![Pink Grapefruit Cupcakes](/images/uploads/2019_06_14_pink_grapefruit_cupcakes_5.jpg)
 </br>
 </br>
@@ -45,6 +49,7 @@ I originally decorated the cupcakes with candied grapefruit infused with rosemar
 This is a pretty basic recipe overall and I think you will enjoy adding it to your cupcake repertoire! When I decided to remake these I shared a story on them on Instagram with a poll or how you wanted me to make them - in cupcake form or cake form infused or simple. By a long shot you guys chose simple and to leave the recipe in cupcake form. I listened and I left them super simple and without any infusion and in cupcake form. (But I left the alternative frosting recipe below along with the  the candied citrus) Hope you give them a try! 
 </br>
 </br>
+
 ![Pink Grapefruit Cupcakes](/images/uploads/2019_06_14_pink_grapefruit_cupcakes_6.jpg)
 </br>
 </br>
@@ -131,4 +136,5 @@ As an alternative here is the recipe I originally used to make the frosting out 
 1. Remove the slices from the syrup and set them on a cooling rack over a cookie sheet or paper towels to cool and complete dry which could take from 12 to 24 hours so plan ahead if using to decorate cakes or anything else
 
 </br>
+
 ![Pink Grapefruit Cupcakes](/images/uploads/2019_06_14_pink_grapefruit_cupcakes_7.jpg)

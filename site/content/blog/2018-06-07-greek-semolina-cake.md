@@ -12,12 +12,15 @@ excerpt: The simple sponge cake is taken to the next level with an aromatic simp
 Revani as we call this sweet semolina cake in Greek is basically a yellow sponge cake that gets steeped in a fragrant simple syrup. The sponge is fairly light with a nice crumb and when soaked with the syrup it becomes a delight to eat.
 </br>
 </br>
+
 ![Greek Semolina Cake](/images/uploads/2018_06_07_greek_semolina_cake_2.jpg)
 </br>
 </br>
+
 ![Greek Semolina Cake](/images/uploads/2018_06_07_greek_semolina_cake_3.jpg)
 </br>
 </br>
+
 ![Greek Semolina Cake](/images/uploads/2018_06_07_greek_semolina_cake_4.jpg)
 </br>
 </br>
@@ -25,12 +28,15 @@ Revani as we call this sweet semolina cake in Greek is basically a yellow sponge
 My aunt always use to make this cake and I loved her version of it along with my moms version which was probably the same recipe. I remember my aunts a little more because she would make it quite often. I clearly remember sitting at her table enjoying a small diamond cut slice in a flower shaped cut glass plate enjoying and savouring every bite.
 </br>
 </br>
+
 ![Greek Semolina Cake](/images/uploads/2018_06_07_greek_semolina_cake_5.jpg)
 </br>
 </br>
+
 ![Greek Semolina Cake](/images/uploads/2018_06_07_greek_semolina_cake_6.jpg)
 </br>
 </br>
+
 ![Greek Semolina Cake](/images/uploads/2018_06_07_greek_semolina_cake_7.jpg)
 </br>
 </br>
@@ -38,12 +44,15 @@ My aunt always use to make this cake and I loved her version of it along with my
 The other memories attached to this cake all include dining at one of our favourite spots in Greek town Toronto and being served a complimentary slice of this yummy cake after each meal. Watching them bring it out after what was usually a huge meal, I thought how could I possible stomach that, but nibble after nibble it was always demolished even on a full stomach.
 </br>
 </br>
+
 ![Greek Semolina Cake](/images/uploads/2018_06_07_greek_semolina_cake_8.jpg)
 </br>
 </br>
+
 ![Greek Semolina Cake](/images/uploads/2018_06_07_greek_semolina_cake_9.jpg)
 </br>
 </br>
+
 ![Greek Semolina Cake](/images/uploads/2018_06_07_greek_semolina_cake_10.jpg)
 </br>
 </br>
@@ -51,12 +60,15 @@ The other memories attached to this cake all include dining at one of our favour
 There is nothing really too sophisticated about this cake. It’s quite a humble cake but the syrup is infused with citrus and rose water which gives it a nice bright and floral flavour. You can leave out the rose water all together if you aren’t a fan and you can even substitute it with orange blossom water too. I love both so I always included one or the other in the mix. Many versions add cinnamon and even cardamom and mastic in the batter or the syrup but I like to keep it simple and let the citrus and the rose water or orange blossom water shine. Other versions add a few more eggs but I go by my moms recipe as I have found that I like the texture of hers. I also always fear that the _Revani_ will taste too eggy and so I err on the side of caution when it comes to adding more eggs.
 </br>
 </br>
+
 ![Greek Semolina Cake](/images/uploads/2018_06_07_greek_semolina_cake_11.jpg)
 </br>
 </br>
+
 ![Greek Semolina Cake](/images/uploads/2018_06_07_greek_semolina_cake_12.jpg)
 </br>
 </br>
+
 ![Greek Semolina Cake](/images/uploads/2018_06_07_greek_semolina_cake_13.jpg)
 </br>
 </br>
@@ -64,6 +76,7 @@ There is nothing really too sophisticated about this cake. It’s quite a humble
 When I say there are many version of this cake I really mean it and not only in Greek culture. This cake is very popular in Turkish culture as well in other Eastern European culture and also Egyptian culture. There is one thing that usually stays the same and that is the use of semolina in it. It gives it its unique flavour and texture and totally wouldn’t be the same without it.  Of the many version I have tried, tested and made, this is the one that works for me. It’s a simple recipe. It never fails and it’s so delicious. My husband loves it and  he couldn’t get enough when I made it- like piece after piece. If you are looking for a flavourful soaked cake simple to a poke cake with a bit of a Greek flare then this is what you are looking for. Enjoy!
 </br>
 </br>
+
 ![Greek Semolina Cake](/images/uploads/2018_06_07_greek_semolina_cake_14.jpg)
 </br>
 </br>
@@ -114,4 +127,5 @@ __For the Syrup__
 5. Once cool cut and serve pieces otherwise cover and keep refrigerated. Can be served room temperature or even cold. I like to cover and refrigerate mine for a few hours before serving to allow the syrup and flavours to fully penetrate but that is just personal preference. 
 
 </br>
+
 ![Greek Semolina Cake](/images/uploads/2018_06_07_greek_semolina_cake_15.jpg)

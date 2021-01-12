@@ -14,9 +14,11 @@ description: The fluffiest most decadent dark chocolate waffles recipe that are 
 _Chocolate and cherries just go hand in hand_. That is why making a cherry compote to go with these dark chocolate waffles I saw on Bon Appetit was a no brainer. The compote was just so perfect with these waffles along with a little unsweetened whip and an extra drizzle of maple syrup for a little extra decadence. I say extra but I should actually say extra extra decadence due to these waffles being extra decadent already on their own. They are dark and decadent made not only with cocoa powder but also with the addition of dark chocolate in the batter. Definitely my kind of waffles! 
 </br>
 </br>
+
 ![Dark Chocolate Waffles With Cherry Balsamic Compote](/images/uploads/2018_08_10_dark_chocolate_waffles_with_cherry_balsamic_compote_2.jpg)
 </br>
 </br>
+
 ![Dark Chocolate Waffles With Cherry Balsamic Compote](/images/uploads/2018_08_10_dark_chocolate_waffles_with_cherry_balsamic_compote_3.jpg)
 </br>
 </br>
@@ -24,12 +26,15 @@ _Chocolate and cherries just go hand in hand_. That is why making a cherry compo
 My husband is a big breakfast fan and eater. Anyone who knows him will agree. He seems to have a bottomless pit when it comes to breakfast and he always needs to have a savoury sweet component to it especially if we are eating out for breakfast or brunch. He can’t just have the eggs and bacon with toast - and he also can’t just have the pancakes or waffles. He needs it all. I’m always prepared to order three breakfasts between us. That is why it’s nice to have a full out breakfast at home once in a while which would always have to include waffles or pancakes or sometimes both. The good thing about making lots of either of those things is that any extras can get wrapped and frozen for brekkie later the same week- just pop them in the toaster and enjoy them hot. 
 </br>
 </br>
+
 ![Dark Chocolate Waffles With Cherry Balsamic Compote](/images/uploads/2018_08_10_dark_chocolate_waffles_with_cherry_balsamic_compote_4.jpg)
 </br>
 </br>
+
 ![Dark Chocolate Waffles With Cherry Balsamic Compote](/images/uploads/2018_08_10_dark_chocolate_waffles_with_cherry_balsamic_compote_5.jpg)
 </br>
 </br>
+
 ![Dark Chocolate Waffles With Cherry Balsamic Compote](/images/uploads/2018_08_10_dark_chocolate_waffles_with_cherry_balsamic_compote_6.jpg)
 </br>
 </br> 
@@ -37,9 +42,11 @@ My husband is a big breakfast fan and eater. Anyone who knows him will agree. He
 Did he like these ones? He definitely did! One thing we have in common (not big breakfasts - as I’m a toast and coffee kind of girl) is that we both love dark chocolate. He had these waffles for breakfast and dinner in the same day and dessert as well, so yeah, he totally loved them! I did too and but to me waffles are more of a dessert thing than a breakfast thing and these ones would be fantastic with ice cream and that same balsamic cherry compote! That is how me and the rest of my family enjoyed these. A total treat. 
 </br>
 </br>
+
 ![Dark Chocolate Waffles With Cherry Balsamic Compote](/images/uploads/2018_08_10_dark_chocolate_waffles_with_cherry_balsamic_compote_7.jpg)
 </br>
 </br>
+
 ![Dark Chocolate Waffles With Cherry Balsamic Compote](/images/uploads/2018_08_10_dark_chocolate_waffles_with_cherry_balsamic_compote_8.jpg)
 </br>
 </br> 
@@ -48,9 +55,11 @@ Did he like these ones? He definitely did! One thing we have in common (not big 
 The cherry compote is good on its own but the balsamic lends a lot to the flavour of the cherries. It makes the natural sweet and tart flavours of the cherries sing. It intensifies the beautiful flavours of fruits like these cherries and is also great with strawberries and grapes to name a few. If you have never used it with fruit before I strongly recommend it. 
 </br>
 </br>
+
 ![Dark Chocolate Waffles With Cherry Balsamic Compote](/images/uploads/2018_08_10_dark_chocolate_waffles_with_cherry_balsamic_compote_9.jpg)
 </br>
 </br>
+
 ![Dark Chocolate Waffles With Cherry Balsamic Compote](/images/uploads/2018_08_10_dark_chocolate_waffles_with_cherry_balsamic_compote_10.jpg)
 </br>
 </br>
@@ -59,9 +68,11 @@ The cherry compote is good on its own but the balsamic lends a lot to the flavou
 The waffles are perfectly fluffy and delicious and dense with rich cocoa flavour. How do they get so puffy? It most definitely has to do with beating the egg whites and folding them into the batter separately. It seems like such a chore to separate the whites from the yolks and then have to beat the eggs whites but trust me it’s worth the extra step for fluffy and delicious waffles. 
 </br>
 </br>
+
 ![Dark Chocolate Waffles With Cherry Balsamic Compote](/images/uploads/2018_08_10_dark_chocolate_waffles_with_cherry_balsamic_compote_11.jpg)
 </br>
 </br>
+
 ![Dark Chocolate Waffles With Cherry Balsamic Compote](/images/uploads/2018_08_10_dark_chocolate_waffles_with_cherry_balsamic_compote_12.jpg)
 </br>
 </br>
@@ -69,6 +80,7 @@ The waffles are perfectly fluffy and delicious and dense with rich cocoa flavour
 Whether you makes these for breakfast, brunch or for dessert you won’t be disappointed, especially if you love dark chocolate like we both do. These were such a treat and I do want to make them over and over again but I’m determined to try other waffles flavours both sweet and savoury. There are so many possibilities and I’m very much looking forward to experimenting - and hubby is pretty stoked about it too as his breakfast needs will be fully covered. 
 </br>
 </br>
+
 ![Dark Chocolate Waffles With Cherry Balsamic Compote](/images/uploads/2018_08_10_dark_chocolate_waffles_with_cherry_balsamic_compote_13.jpg)
 </br>
 </br>

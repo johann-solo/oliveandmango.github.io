@@ -14,6 +14,7 @@ description: A bright, delicious gluten free lemon custard tart that will have y
 This gluten free tart with the creamiest of lemon cream fillings is bright and delicious and will have you craving slice after slice. Citrus season had to include something lemony and something lemony always needs a bit of meringue when it comes in pie or tart form- thus this little creation. Let me tell you more about each element of it.
 </br>
 </br>
+
 ![Gluten Free Lemon Custard Cream Tart With Swiss Meringue](/images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This gluten free tart with the creamiest of lemon cream fillings is bright and d
 Going into making this tart I knew I wanted to keep the crust as simple and as no-fail as possible as I knew any lemon filling I chose would require quite a few steps to make a good one. That is why I wanted to keep the crust as simple as possible. I thought of doing a graham cracker crust or a biscuit crust but then I started reading about how easy it is to make an almond flour crust so I tested some of them out and decided this was my favourite because it had the least ingredients, didn’t require blind baking and also great with a filling that doesnt requires baking or one that does. Using <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/natural-almond-meal-flour.html">Bob’s Red Mill Superfine Almond Flour</a> from blanched whole almonds gave this tart exactly the crust I wanted and the flavour I wanted in a crust as well.
 </br>
 </br>
+
 ![Gluten Free Lemon Custard Cream Tart With Swiss Meringue](/images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ Going into making this tart I knew I wanted to keep the crust as simple and as n
 Using almond meal is interchangeable but almond meal is made with the whole almond including the skin, making a crust darker in colour and with a slightly coarser finish. I opted for <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/natural-almond-meal-flour.html">Bob’s Red Mill Superfine Almond Flour</a> for a tender shortbread  kind of crust with a paler finish. A quality product that I love and use in my baking. For over three decades, Bob’s Red Mill has been committed to providing people everywhere with the best quality foods available and helping their customers live a life through better nutrition especially in providing products that fit into some of the most restrictive diets. Their almond flour being one of them. The best part about this crust is how simple it is to make. It’s just a matter of processing your ingredients, then pressing them into the pan, punching some wholes into the bottom of the crust and baking. Easy peasy and you got yourself a simple GF tart crust.
 </br>
 </br>
+
 ![Gluten Free Lemon Custard Cream Tart With Swiss Meringue](/images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ Using almond meal is interchangeable but almond meal is made with the whole almo
 I wanted a very very creamy and lemony filling and for this I turned to a French style lemon tart filling which is different than curd. For a lemon curd you usually heat together the eggs, sugar, lemon juice, and butter, then cool into a spoonable, flexible substance to be used in all sorts of jam-like ways. But this French lemon custard takes butter out of the process and then whips it back in without giving it a chance to melt (that is why you have to allow the custard to get to room temp before adding the butter) The butter emulsifies and expands, capturing large amounts of air. The filling had a wonderful in texture, like a smooth aioli or French buttercream rather than a pourable curd. It’s heavenly and worth the extra simple steps to achieve it. I found it easier than nailing a good curd to be honest.
 </br>
 </br>
+
 ![Gluten Free Lemon Custard Cream Tart With Swiss Meringue](/images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_5.jpg)
 </br>
 </br>
@@ -44,6 +48,7 @@ I wanted a very very creamy and lemony filling and for this I turned to a French
 I decided to use <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/tapioca-flour.html">Bob’s Red Mill Finely Ground Tapioca Flour</a></span> for both the filling and the meringue as it’s one of my favorite grain free thickeners. Tapioca flour is a much better substitute for corn starch when using it with citrus or anything with a strong acidic component or a high sugar one as well. It also provides a much more transparent and glossy appearance and finish to a cream like this. It’s also great for those who have corn allergies and want a good alternative to corn starch. It worked beautifully in the Swiss meringue as well. Speaking of that Swiss meringue, let's get to talking more about it.
 </br>
 </br>
+
 ![Gluten Free Lemon Custard Cream Tart With Swiss Meringue](/images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_6.jpg)
 </br>
 </br>
@@ -52,6 +57,7 @@ I decided to use <span class="highlight"><a rel="nofollow" href="https://www.bob
 Choosing which type of meringue I would use for the tart was a no brainer. Swiss meringue is the most perfect meringue for topping tarts or pies. It requires one extra step than a French meringue but its definitely the way to go.  Swiss Meringue is the most stable of all meringues. It is also more dense and glossier, almost marshmallow like. It pipes like a dream and holds its shape well without weeping (weeping is when a meringue releases droplets of liquid and doesn’t adhere to the filling) for a much longer time than French meringue. For this reason, it is great to use as a pie topping especially if you aren’t serving it immediately. The preparation of Swiss meringue also makes it safer to eat if you aren’t baking it because you heat the mixture during the preparation. This recipe really is a no fail one for a great Swiss meringue, perfect for this lemon tart and any other tart. I always follow it to a tee and it always turns out beautifully.
 </br>
 </br>
+
 ![Gluten Free Lemon Custard Cream Tart With Swiss Meringue](/images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_7.jpg)
 </br>
 </br>
@@ -59,6 +65,7 @@ Choosing which type of meringue I would use for the tart was a no brainer. Swiss
 We enjoyed this tart with friends at their home as they hosted a card game night. They all seemed to really enjoy it. Unlike a curd filled tart that holds up well when left out at room temperature this lemon custard cream one tends to soften. It’s rich, creamy and just heavenly, but much easier to slice and serve when slightly chilled. Just an FYI if you are serving it out or taking it over to someone’s house. Keep it in the fridge until a few minutes before serving. You will love it and I do hope you give it a try.
 </br>
 </br>
+
 ![Gluten Free Lemon Custard Cream Tart With Swiss Meringue](/images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_8.jpg)
 </br>
 </br>
@@ -66,6 +73,7 @@ We enjoyed this tart with friends at their home as they hosted a card game night
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_. 
 </br>
 </br>
+
 ![Gluten Free Lemon Custard Cream Tart With Swiss Meringue](/images/uploads/2019_02_27_gluten_free_lemon_custard_cream_tart_with_swiss_meringue_9.jpg)
 </br>
 </br>

@@ -14,6 +14,7 @@ description: A decadent salted caramel cheesecake
 This cheesecake has a smooth, creamy and rich filling over a pretzel crust (salted or unsalted - you choose). It’s also doused with a caramel topping which gets a nice sprinkling of flaky sea salt to boost that caramel sweetness. 
 </br>
 </br>
+
 ![Caramel Cheesecake With a Pretzel Crust](/images/uploads/2020_02_15_caramel_cheesecake_with_a_pretzel_crust_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This cheesecake has a smooth, creamy and rich filling over a pretzel crust (salt
 My hubby is a cheesecake lover. Everytime we are invited somewhere and I’m asked to make a dessert he always requests cheesecake. He loves my classic cheesecake which I have actually never posted on here I just realized. My [cranberry orange](https://www.oliveandmango.com/cranberry-orange-cheesecake) one is the closest recipe to my classic one - except instead of ginger snap cookies for the crust I use graham crackers and I leave out the orange zest for the filling - and I vary the topping accordingly. Anyways I love variety so I view each of those requests as an opportunity to make a new cheesecake (stay tuned for a decadent chocolate stout cheesecake coming next month)  
 </br>
 </br>
+
 ![Caramel Cheesecake With a Pretzel Crust](/images/uploads/2020_02_15_caramel_cheesecake_with_a_pretzel_crust_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ My hubby is a cheesecake lover. Everytime we are invited somewhere and I’m ask
 This one comes inspired via Epicurious.com. Their filling is delicious and I love that it includes brown sugar in it to give it that caramelized flavour. Their recipe for the caramel topping is perfect too - but a great hack for the topping is just using storebought caramel sauce or dulce de leche sauce. It works perfectly and it makes this cheesecake even easier to whip up. I decided it would be fun to use pretzels as the base and I think you guys thought so too. When I previewed this recipe you guys all loved it and I’m super excited to share it with you. It’s a straightforward recipe that tastes delicious as all components come together. 
 </br>
 </br>
+
 ![Caramel Cheesecake With a Pretzel Crust](/images/uploads/2020_02_15_caramel_cheesecake_with_a_pretzel_crust_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ This one comes inspired via Epicurious.com. Their filling is delicious and I lov
 Each bite has creamy, crumbly and some sticky sweet in there from the caramel sauce. It was a hit with friends. I love testing recipes out on friends - they are usually pretty honest about each recipe. They enjoyed this one and packed it all up before anyone else could take some home. It’s worth a try if you enjoy a salted caramel and pretzel treat with some creamy goodness added to it. 
 </br>
 </br>
+
 ![Caramel Cheesecake With a Pretzel Crust](/images/uploads/2020_02_15_caramel_cheesecake_with_a_pretzel_crust_5.jpg)
 </br>
 </br>
@@ -43,6 +47,7 @@ Each bite has creamy, crumbly and some sticky sweet in there from the caramel sa
 A water bath is tedious but always works in my opinion - The steam from the hot water will lift the cheesecake up slowly and evenly, reducing the risk of cracks on the surface. Just make sure to wrap your pan tightly with a few pieces of foil to prevent any moisture from getting into the crust and cake. Do allow the cheesecake to cool to room temperature before wrapping tightly and refrigerating. Do give your cheesecake enough time to set in the fridge. I usually plan ahead and make it the night before I am sharing it with friends and family.
 </br>
 </br>
+
 ![Caramel Cheesecake With a Pretzel Crust](/images/uploads/2020_02_15_caramel_cheesecake_with_a_pretzel_crust_6.jpg)
 </br>
 </br>
@@ -95,4 +100,5 @@ __For caramel topping__
 3. Run knife around pan sides to loosen cake; release pan sides slice and serve 
 </span>
 </br>
+
 ![Caramel Cheesecake With a Pretzel Crust](/images/uploads/2020_02_15_caramel_cheesecake_with_a_pretzel_crust_7.jpg)

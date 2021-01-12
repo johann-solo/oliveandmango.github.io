@@ -12,6 +12,7 @@ excerpt: The perfect appetizer to bring to your next social event
 Baked Brie with caramelized apples and pecans is done in 15 minutes with only 6 ingredients And it’s the perfect appetizer to bring to family dinner or make for family dinner or anything social. Everyone loves it and did I mention it’s done in 15 minutes?!
 </br>
 </br>
+
 ![Baked Brie With Caramelized Apples](/images/uploads/2018_03_30_baked_brie_with_caramelized_apples_2.jpg)
 </br>
 </br>
@@ -19,9 +20,11 @@ Baked Brie with caramelized apples and pecans is done in 15 minutes with only 6 
 I actually love taking the ingredients and my little pan over to my family or friends house and prepping it in their kitchen (permission granted prior obviously) because this is best eaten oozing and hot out the oven. 
 </br>
 </br>
+
 ![Baked Brie With Caramelized Apples](/images/uploads/2018_03_30_baked_brie_with_caramelized_apples_3.jpg)
 </br>
 </br>
+
 ![Baked Brie With Caramelized Apples](/images/uploads/2018_03_30_baked_brie_with_caramelized_apples_4.jpg)
 </br>
 </br>
@@ -29,9 +32,11 @@ I actually love taking the ingredients and my little pan over to my family or fr
 The caramel sauce is so good and it’s a recipe I made from Donna Hay’s book while doing her recipes for _rainydaybitescookblookclub_. It was easy to whip up and great to make ahead and store in the fridge to eat by the spoonful and also use in a recipe like this. I’m sharing the recipe below and I have the step by step of how to make it in my IG highlights. If I can make it with a half operating candy thermometer, you can definitely make it. If you don’t have the time or the will to make it then definitely use store bought caramel sauce or you can even sub in dulce de leche also either  homemade or store bought and even something as simple as honey if you’re in a bind and need a quick substitution.
 </br>
 </br>
+
 ![Baked Brie With Caramelized Apples](/images/uploads/2018_03_30_baked_brie_with_caramelized_apples_5.jpg)
 </br>
 </br>
+
 ![Baked Brie With Caramelized Apples](/images/uploads/2018_03_30_baked_brie_with_caramelized_apples_6.jpg)
 </br>
 </br>
@@ -39,9 +44,11 @@ The caramel sauce is so good and it’s a recipe I made from Donna Hay’s book 
 Apples and cheese are totally great together and so are apples and caramel. They are a classic combo and always one that most people love, so this is definitely a crowd pleasing appetizer! They are also pretty much available all year round making this a great anytime recipe. Apples are also one ingredient that I have no trouble finding here because they are always importing them and that definitely makes things easier on me.
 </br>
 </br>
+
 ![Baked Brie With Caramelized Apples](/images/uploads/2018_03_30_baked_brie_with_caramelized_apples_7.jpg)
 </br>
 </br>
+
 ![Baked Brie With Caramelized Apples](/images/uploads/2018_03_30_baked_brie_with_caramelized_apples_8.jpg)
 </br>
 </br>
@@ -49,6 +56,7 @@ Apples and cheese are totally great together and so are apples and caramel. They
 I couldn’t find a large Brie wheel here in Trinidad when I was shooting this recipe so I improvised cause I have to do that lots here and I used two small ones. Improvising really has become second nature for me living on an island and I almost see it as a fun challenge (mostly - not so much when I’m in a bind and need something asap). It forces me to become more creative, think outside the box and definitely approach recipes differently. I have never used google to search ‘substitutions’ and ‘homemade’ more than I have in the last 5&frac12; years I have lived here. I was quite spoiled and always had everything I need ingredients wise available when living in Canada. I have definitely learned lots living here. I love whipping this up for company and I’m sure you will to. Hope you give it a try!! 
 </br>
 </br>
+
 ![Baked Brie With Caramelized Apples](/images/uploads/2018_03_30_baked_brie_with_caramelized_apples_9.jpg)
 </br>
 </br>
@@ -95,4 +103,5 @@ I couldn’t find a large Brie wheel here in Trinidad when I was shooting this r
 1. Pour into a bowl and allow to cool at room temperature. Makes 3½ cups
 
 </br>
+
 ![Baked Brie With Caramelized Apples](/images/uploads/2018_03_30_baked_brie_with_caramelized_apples_10.jpg)

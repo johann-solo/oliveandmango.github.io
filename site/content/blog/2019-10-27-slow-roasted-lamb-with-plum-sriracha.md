@@ -14,6 +14,7 @@ description: This tender pulled lamb brings the heat with a whole lot of sweetne
 Roasted lamb is always welcome in our home, my hubby and whole family love it so there’s always a good reason to make it. My folks have been craving a leg of lamb for a while and I picked up a couple of them while they were on sale. All I had to do next was decide how to roast them. I love my [Greek Style Roasted Lamb](https://www.oliveandmango.com/greek-style-roasted-lamb/) but I wanted to try something different. I had a whole bunch of plums that a friend had given us and my folks bought a bunch from the market so I was on the search for a good plum sauce based braised lamb and came across this one by Olive Magazine. It’s slow roasted and fabulous and the sauce has so much flavour. 
 </br>
 </br>
+
 ![Slow Roasted Lamb With Plum Sriracha](/images/uploads/2019_10_27_slow_roasted_lamb_with_plum_sriracha_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Roasted lamb is always welcome in our home, my hubby and whole family love it so
 The sauce actually reminded me of [Stifado](https://www.oliveandmango.com/stifado-homemade-greek-stew./) a fab Greek stew that has loads of onions in it that melt away beautifully into a sweet sauce while roasting. This recipe has a lot of red onions in it that do the same. They melt away into the sauce while the lamb roasts. The plums melt away adding further sweetness and add a certain richness that plums add to a dish like this. The sriracha, ginger and rice vinegar add some heat and some intensity cutting through a bit of the sweetness. 
 </br>
 </br>
+
 ![Slow Roasted Lamb With Plum Sriracha](/images/uploads/2019_10_27_slow_roasted_lamb_with_plum_sriracha_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ The sauce actually reminded me of [Stifado](https://www.oliveandmango.com/stifad
 The sauce is just so good and I loved this recipe because you don’t have to cook the sauce before putting it in the pan - you just have to give all the sauce/marinade  ingredients a whiz in the food processor and then slather you’re lamb with it. It’s a set it and forget it type of roast that needs a little bit of planning cause of having to marinade it beforehand - but other than timing it’s a cinch and perfect for a Sunday roast or family dinner. 
 </br>
 </br>
+
 ![Slow Roasted Lamb With Plum Sriracha](/images/uploads/2019_10_27_slow_roasted_lamb_with_plum_sriracha_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ The sauce is just so good and I loved this recipe because you don’t have to co
 We decided to play up the deep dark tones in our photography with this roast. Meat is not always the easiest to photograph but I always love the challenge and this one was fun to shoot - the roast itself is already dark and almost blackened so it adds a further dark intensity to the pics. We loved shooting this dark and it also adds some diversity to our photography portfolio. Thought I would share the thought process behind this shoot and why it’s so dark and dramatic. 
 </br>
 </br>
+
 ![Slow Roasted Lamb With Plum Sriracha](/images/uploads/2019_10_27_slow_roasted_lamb_with_plum_sriracha_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ We decided to play up the deep dark tones in our photography with this roast. Me
 We served this with sticky rice and hubby had leftovers on buttery rolls (like an Asian style pulled pork sandwich) but it would be great in lettuce wraps/cups with some crunchy pickled carrots or onions. We totally loved it and know you will too.
 </br>
 </br>
+
 ![Slow Roasted Lamb With Plum Sriracha](/images/uploads/2019_10_27_slow_roasted_lamb_with_plum_sriracha_6.jpg)
 </br>
 </br>
@@ -72,4 +77,5 @@ We served this with sticky rice and hubby had leftovers on buttery rolls (like a
 6. Spoon off the oily layer from the top of the sauce, and it’s ready to serve. It can be blended for a smoother sauce to serve on the side of the lamb. (I like it smooth so I blend mine) Shred the lamb meat with a couple of forks, then serve right from the pan using a pair of tongs. Serves well with sticky rice or also great on buttery rolls or lettuce cups
 
 </br>
+
 ![Slow Roasted Lamb With Plum Sriracha](/images/uploads/2019_10_27_slow_roasted_lamb_with_plum_sriracha_7.jpg)

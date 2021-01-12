@@ -14,6 +14,7 @@ description: This grilled corn salad is colourful, refreshing and satisfying, wi
 Summer is all about bbqs and summer bbqs are all about sides. Sides are my favorite things to make. Hearty salads are a great option - ones with grains or potatoes in them along with lots of crunchy veggies. Loaded salads like that hold up better in the heat and are very satisfying as opposed to lettuce based ones and they also travel well if you are picnicking. I was inspired to make this quinoa one with this very delicious dressing by a salad I ate for lunch at a restaurant I ate at recently. They served a spring salad with a jalapeño pesto dressing and it was sooo good!!  It wasn’t too spicy at all. It had a subtle heat but more flavour than heat and I knew I had to recreate it in something and that is how this salad came about. 
 </br>
 </br>
+
 ![Corn and Quinoa Salad With a Cilantro Jalapeño Lime Dressing](/images/uploads/2019_06_28_grilled_corn_and_quinoa_salad_with_a_cilantro_jalapeno_lime_dressing_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Summer is all about bbqs and summer bbqs are all about sides. Sides are my favor
 I love quinoa salads because quinoa adds such a nice texture and substance to them, besides the fact that it’s also so good for you too and a source of really good plant based protein. Cooking with quinoa has become so popular. It is so nutrient packed, healthy, easy to prepare and delicious!  I have teamed up with GoGo quinoa to share this delicious recipe with their <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/quinoa-white-red/">Organic Red and White Quinoa</a></span> and to share a simple tutorial for How To Cook Quinoa.
 </br>
 </br>
+
 ![Corn and Quinoa Salad With a Cilantro Jalapeño Lime Dressing](/images/uploads/2019_06_28_grilled_corn_and_quinoa_salad_with_a_cilantro_jalapeno_lime_dressing_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I love quinoa salads because quinoa adds such a nice texture and substance to th
 Quinoa seeds are rich in protein, dietary fiber, B vitamins, and dietary minerals in amounts greater than in many grains. It’s just as versatile as any other grain and naturally gluten-free.  It’s so versatile and so simple to make and is a great alternative for those with special diets or allergies, as it’s gluten-free and cholesterol-free and of course, vegetarian and vegan. 
 </br>
 </br>
+
 ![Corn and Quinoa Salad With a Cilantro Jalapeño Lime Dressing](/images/uploads/2019_06_28_grilled_corn_and_quinoa_salad_with_a_cilantro_jalapeno_lime_dressing_4.jpg)
 </br>
 </br>
@@ -62,6 +65,7 @@ Bring water to a boil and then turn down heat. Simmer quinoa in water on low for
 That is all it takes to get perfectly cooked quinoa every time. It can be served warm as a side, added to soups or stews and you can also allow it to cool and make a salad with it. The options are endless. It’s just as simple to cook as rice is and can be used in the same way as you would use rice or other grains. It's fluffy, creamy, crunchy and somewhat nutty, and you will love it. We loved it in this salad so much and know you will too! 
 </br>
 </br>
+
 ![Corn and Quinoa Salad With a Cilantro Jalapeño Lime Dressing](/images/uploads/2019_06_28_grilled_corn_and_quinoa_salad_with_a_cilantro_jalapeno_lime_dressing_5.jpg)
 </br>
 </br>
@@ -115,4 +119,5 @@ __For the dressing__
 * Pour dressing over veggies and quinoa and toss to combine. Now add avocado and toss gently so they don't mash together. Taste for seasoning and add salt and pepper as needed 
 
 </br>
+
 ![Corn and Quinoa Salad With a Cilantro Jalapeño Lime Dressing](/images/uploads/2019_06_28_grilled_corn_and_quinoa_salad_with_a_cilantro_jalapeno_lime_dressing_6.jpg)

@@ -14,6 +14,7 @@ description: It's cold outside so warm up with this tasty and nutritious quinoa 
 I had the privilege of working with GoGo Quinoa again and I couldn’t be happier. They are a Canadian company that primarily focuses on quinoa. Their mission is to provide nutritious and flavourful products, which are ethically and responsibly sourced. I have had a wonderful time creating some simple and flavourful dishes using their wonderful products. The first of three that I’m featuring is their _Quinoa Royal_ - the Red quinoa specifically. Its organic and non GMO, gluten free and vegan and I wanted to create something sweet with it as I usually make something savoury with quinoa.
 </br>
 </br>
+
 ![Spiced Quinoa Pudding With Baked Pears With Honey and Nuts](/images/uploads/2018_10_26_spiced_quinoa_pudding_with_baked_pears_with_honey_and_nuts_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ I had the privilege of working with GoGo Quinoa again and I couldn’t be happie
 Quinoa cooks up similar to rice so I kept thinking of sweet recipes that rice is in and although there area quite of few ways to eat sweet rice there is one way that I kept going back to and that is rice pudding. Rice pudding was a staple dessert or treat in our home growing up and was especially beloved my my father. I remember the aroma of rice cooking away in warm sweet milk and it brings back all sorts of nostalgia. The rice pudding served in our home was sweetened with vanilla powder and that’s as far as the spices and flavourings went while it was cooking. A dash of cinnamon was added just before serving and thats about it. Simple, creamy and delicious. Classic comfort food in our home.
 </br>
 </br>
+
 ![Spiced Quinoa Pudding With Baked Pears With Honey and Nuts](/images/uploads/2018_10_26_spiced_quinoa_pudding_with_baked_pears_with_honey_and_nuts_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ Quinoa cooks up similar to rice so I kept thinking of sweet recipes that rice is
 I thought I would recreate that cozy feeling especially as it is fall and the temperatures are dropping. My taste buds have matured a bit since my earliest memories of having moms rice pudding and so i thought i would do a spiced one with the lovely warm flavours of cinnamon and clove but also the slightly citrusy cardamom that is so fragrant and perfectly paired with the other two spices.
 </br>
 </br>
+
 ![Spiced Quinoa Pudding With Baked Pears With Honey and Nuts](/images/uploads/2018_10_26_spiced_quinoa_pudding_with_baked_pears_with_honey_and_nuts_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ I thought I would recreate that cozy feeling especially as it is fall and the te
 Toasting the spices really does boost their flavour. The heat wakes up the oils in the spices and makes them more intense tasting, that is why a little goes a long way. The milk and quinoa simmers away with the spices and the aroma is just amazing. If you can’t get your hands on the whole spices feel free to use ground but add the ground spices in when you add the quinoa, as toasting ground spices can be difficult to do without burning them. If you are going to use ground spices do &frac14; tsp of the clove and cardamom and 1 tsp of cinnamon.
 </br>
 </br>
+
 ![Spiced Quinoa Pudding With Baked Pears With Honey and Nuts](/images/uploads/2018_10_26_spiced_quinoa_pudding_with_baked_pears_with_honey_and_nuts_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ Toasting the spices really does boost their flavour. The heat wakes up the oils 
 I love my warm porridge in the morning with fruit. In the colder months I love to caramelise apples and bananas and add them to it and it adds some more natural sweetness to the it. This time I thought I would roast some pears as they are in season and are so tender and delicious when roasted and i thought they would be perfect with this spiced pudding. I used similar spices on them to keep on the spiced theme of the dish and I absolutely love my fruit with honey and nuts so adding those two things to the pears was really a no brainer. The added lime zest to the pudding really pulls all the flavours together and adds a very light balanced hint of acidity.
 </br>
 </br>
+
 ![Spiced Quinoa Pudding With Baked Pears With Honey and Nuts](/images/uploads/2018_10_26_spiced_quinoa_pudding_with_baked_pears_with_honey_and_nuts_6.jpg)
 </br>
 </br>
@@ -49,6 +54,7 @@ I love my warm porridge in the morning with fruit. In the colder months I love t
 I was so happy with each component of this quinoa pudding and made a few batches of it while recipe testing and throughly enjoyed having this for breakfast and a snack. It’s such a great breakfast that can easily be made ahead and eaten cold or reheated with extra milk. It is way more nourishing than a white rice pudding, yet is still delivers all the warm and cozy vibes. It’s perfect for the colder days ahead and I know you will all enjoy. 
 </br>
 </br>
+
 ![Spiced Quinoa Pudding With Baked Pears With Honey and Nuts](/images/uploads/2018_10_26_spiced_quinoa_pudding_with_baked_pears_with_honey_and_nuts_7.jpg)
 </br>
 </br>
@@ -56,6 +62,7 @@ I was so happy with each component of this quinoa pudding and made a few batches
 I have been sponsored and monetarily compensated for this blog post by _GoGo Quinoa_.
 </br>
 </br>
+
 ![Spiced Quinoa Pudding With Baked Pears With Honey and Nuts](/images/uploads/2018_10_26_spiced_quinoa_pudding_with_baked_pears_with_honey_and_nuts_8.jpg)
 </br>
 </br>

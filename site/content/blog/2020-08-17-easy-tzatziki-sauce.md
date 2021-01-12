@@ -14,6 +14,7 @@ description:
 This creamy tzatziki is a classic Greek garlic yoghurt dip or suace made from thick strained yogurt, cucumber, garlic, olive oil, and fresh dill. It’s super simple to make and irresistibly good. This is so tangy full of bright flavors and delicious; a very versatile sauce. You can use it as a dipping sauce for breads or vegetables, on [souvlakia](https://www.oliveandmango.com/greek-style-souvlaki-with-homemade-tzatziki/), gyros, or as a condiment. It’s also great with rice almost like a Greekstyle raita. 
 </br>
 </br>
+
 ![Easy Tzatziki Sauce](/images/uploads/2020_08_17_easy_tzatziki_sauce_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This creamy tzatziki is a classic Greek garlic yoghurt dip or suace made from th
 It’s so easy to make and homemade is always best as you can customize it to your liking. The grated cucumber is optional but adds a freshness and a really nice texture. The fresh herbs are also optional but I strongly recommend as they add even more flavour to this yummy sauce. I definitely insist on straining the yoghurt - it makes all the difference. You can skip straining the cucumber cause you can use your hands to squeeze the liquid out of the cucumber, but you can’t really do that with the yoghurt. This requires just a bit of planning. I usually strain mine overnight. 
 </br>
 </br>
+
 ![Easy Tzatziki Sauce](/images/uploads/2020_08_17_easy_tzatziki_sauce_3.jpg)
 </br>
 </br>
@@ -54,4 +56,5 @@ Makes 1&frac12; - 2 cups
 2. Tzatziki should last about 5-7 days in the refrigerator, but you’ll find so many amazing ways to use it up, it will be gone long before that.
 
 </br>
+
 ![Easy Tzatziki Sauce](/images/uploads/2020_08_17_easy_tzatziki_sauce_4.jpg)

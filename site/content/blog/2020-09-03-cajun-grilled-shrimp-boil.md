@@ -14,6 +14,7 @@ description: Grilled shrimp, smoked sausage, corn and potatoes smothered in Caju
 This is my grilled twist on a classic shrimp boil. Grilled shrimp, smoked sausage, corn and potatoes all smothered in Cajun seasoned garlic butter. It's the ultimate summer main course. It’s super flavourful thanks to that tasty garlic butter. It’s fun to serve and to eat. 
 </br>
 </br>
+
 ![Cajun Grilled Shrimp Boil](/images/uploads/2020_09_03_cajun_grilled_shrimp_boil_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This is my grilled twist on a classic shrimp boil. Grilled shrimp, smoked sausag
 A more traditional shrimp boil is done in a large pot of seasoned water.  Ears of corn, potatoes, onions, and heads of garlic are usually in the mix along with smoked sausage - usually andouille. Some variations also include crawfish, mussels, clams, oysters, lobster or crab. The essential ingredient is crab boil seasoning, Old Bay seasoning or Zatarian are the most popular ones - which are a mix a mix of spices including mustard seeds, coriander, cayenne pepper, bay leaves, dill and allspice. Everything gets boiled and cook until it's done. Then everything gets dumped onto a newspaper covered table and served with hot sauce, lemon and melted butter. 
 </br>
 </br>
+
 ![Cajun Grilled Shrimp Boil](/images/uploads/2020_09_03_cajun_grilled_shrimp_boil_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ A more traditional shrimp boil is done in a large pot of seasoned water.  Ears o
 I love it done traditionally but I have to say nothing beats it grilled in my opinion. In this version the potatoes and corn do get boiled for a few minutes then they get tossed in that fabulous Cajun seasoned garlic butter. The smoked sausages are grilled rather than boiled which I much prefer and the shrimp also get tossed with the garlic butter before hitting the grill.  I love the extra smoky flavour grilling gives everything. I used Irresistibles brand Cajun seasoning in place of the traditional and it was fabulous - just enough spice and smokiness added to the the garlic butter.  The flavours are not lost in the water so to speak but get doused with them before each item is grilled up and then served with extra for drizzling or dipping after. 
 </br>
 </br>
+
 ![Cajun Grilled Shrimp Boil](/images/uploads/2020_09_03_cajun_grilled_shrimp_boil_4.jpg)
 </br>
 </br>
@@ -74,4 +77,5 @@ Cook Time: <meta itemprop="cookTime" content="PT55M">55 mins
 4. Slice the sausages into 1 inch pieces. Transfer everything to a large bowl or serving platter. Serve with remaining butter mixture on the side. Sprinkle with chopped parsley and serve with extra lemon wedges and hot sauce.
 
 </br>
+
 ![Cajun Grilled Shrimp Boil](/images/uploads/2020_09_03_cajun_grilled_shrimp_boil_5.jpg)

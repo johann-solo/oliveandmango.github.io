@@ -15,6 +15,7 @@ description: Dessert bars with a creamy pumpkin spiced filling and press in crus
 These creamy pumpkin pie bars are made with a delicious pumpkin spiced filling and a press in short crust.  They are way easier to make, but just as delicious as traditional pumpkin pie!There is no pie crust to roll out, just a simple press-in shortbread crust.  These dessert bars can be made with either fresh pumpkin purée or canned. If you like pumpkin pie you will love the convenience of these pumpkin pie bars. They have a luscious custard-like texture just like pie but can be cut into squares just like a brownie. They are perfect with a dollop of whip cream and here I served them decorated with some fall pie cutouts just for fun. 
 </br>
 </br>
+
 ![Creamy Pumpkin Pie Bars](/images/uploads/2020_10_24_creamy_pumpkin_pie_bars_2.jpg)
 </br>
 </br>
@@ -24,9 +25,11 @@ These creamy pumpkin pie bars are made with a delicious pumpkin spiced filling a
 Pumpkin pie bars are  so much easier to make than a traditional pie. No crust chilling. No crimping. Just a quick press into the pan and your crust will be ready to go. The crust is more similar to a shortbread crust, but the filling is just like the one you know and love. I simply mix the shortbread crust ingredients together until they form a dough, transfer it to a prepared pan, bake it until the edges are golden. While it cools I whisk together the filling ingredients, pour them over the crust and bake again until the filling is just set. Then it’s very important to allow the bars to come to room temperature first and then chill them in the refrigerator for a couple of hours to allow them to fully set. Then slice and enjoy. 
 </br>
 </br>
+
 ![Creamy Pumpkin Pie Bars](/images/uploads/2020_10_24_creamy_pumpkin_pie_bars_3.jpg)
 </br>
 </br>
+
 ![Creamy Pumpkin Pie Bars](/images/uploads/2020_10_24_creamy_pumpkin_pie_bars_4.jpg)
 </br>
 </br>
@@ -34,9 +37,11 @@ Pumpkin pie bars are  so much easier to make than a traditional pie. No crust ch
 The crust is made with a combination of flour, butter, brown sugar and pecans.  When it comes to the flour I use the flour I always have stocked and the perfect one for all your fall baking needs. It’s <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/unbleached-all-purpose-white-flour.html">Bob’s Red Mill Unbleached White All Purpose Flour</a></span>. It’s unbleached, unbromated, enriched baking flour milled from the highest quality North American wheat. Bob’s Red Mill products are made with clean high quality ingredients yielding into wonderful baked goods that your whole family will love. I added some chopped pecans to the crust which add a wonderful nutty flavour and texture to the crust but that is totally an optional add in. If there is an allergy concern or you don’t have any on hand just leave them out and the crust will be just as good even without them. 
 </br>
 </br>
+
 ![Creamy Pumpkin Pie Bars](/images/uploads/2020_10_24_creamy_pumpkin_pie_bars_5.jpg)
 </br>
 </br>
+
 ![Creamy Pumpkin Pie Bars](/images/uploads/2020_10_24_creamy_pumpkin_pie_bars_6.jpg)
 </br>
 </br>
@@ -44,6 +49,7 @@ The crust is made with a combination of flour, butter, brown sugar and pecans.  
 Pumpkin Pie is a delicious fall treat, one of the easiest pies you can make and this version is made even easier. With a creamy filling and crunchy crust, it's the perfect balance for a seasonal dessert. The spicy pumpkin goodness of the traditional pie without the fuss of a pastry crust. Homemade always tastes better - and homemade doesn’t get any easier than these tasty pumpkin pie bars. Bake up a batch today to share with your family and friends.
 </br>
 </br>
+
 ![Creamy Pumpkin Pie Bars](/images/uploads/2020_10_24_creamy_pumpkin_pie_bars_7.jpg)
 </br>
 </br>
@@ -107,4 +113,5 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 * •Pumpkin Pie Spice: if you don’t have prepared pumpkin pie spice, you can use &frac14;-½ teaspoon each: ground allspice and ground ginger AND &frac14; teaspoon each: ground nutmeg and ground cloves.
 
 </br>
+
 ![Creamy Pumpkin Pie Bars](/images/uploads/2020_10_24_creamy_pumpkin_pie_bars_8.jpg)

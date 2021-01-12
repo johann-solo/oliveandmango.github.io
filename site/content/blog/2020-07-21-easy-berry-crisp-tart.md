@@ -14,6 +14,7 @@ description: Gluten free berry filled tart with a crunchy crumble sweet topping 
 Berry tarts like this one are quick and easy and a dessert everyone loves. A cross between a pie and a crumble that can be made in tart form or into crumble bars. This is a great make ahead dessert making it perfect for taking to summer bbqs and gatherings. This and some icecream and dessert is sorted. 
 </br>
 </br>
+
 ![Easy Berry Crisp Tart](/images/uploads/2020_07_21_easy_berry_crisp_tart_2.jpg)
 </br>
 </br>
@@ -22,9 +23,11 @@ Berry tarts like this one are quick and easy and a dessert everyone loves. A cro
 It’s an easy one folks. It’s made up of a simple dough made with oats, <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/almond-meal-flour.html">almond flour</a></span> and butter. Combined they turn into a great little crumble that gets pressed into the pan and crumbled over the filling. Speaking of that filling - its a versatile one. I used Saskatoon berries in this one that a very sweet friend of mine picked and gave me. They have a bit of a tougher skin on them then blueberries and many bakers precook them before using them in pie but I don’t mind that they don’t break down fully in the pie. Some get very jammy and others stay whole. That won’t happen as much if you use blueberries, blackberries, strawberries or currants. They will breakdown into a jammier filling. Just a little FYI. The crumble gets nice and crunchy after it bakes up and the whole combination works really well with a scoop of vanilla icecream. 
 </br>
 </br>
+
 ![Easy Berry Crisp Tart](/images/uploads/2020_07_21_easy_berry_crisp_tart_3.jpg)
 </br>
 </br>
+
 ![Easy Berry Crisp Tart](/images/uploads/2020_07_21_easy_berry_crisp_tart_4.jpg)
 </br>
 </br>
@@ -32,9 +35,11 @@ It’s an easy one folks. It’s made up of a simple dough made with oats, <span
 This tart is gluten free as it’s made with almond flour and gluten free old fashioned rolled oats from Bob’s Red Mill. The flavour and texture from both are perfect for this tart, both the base and the crumble. Bob’s Red Mill has all the products you need for all your baking needs while catering to those in your family who have specific food allergies with organic, gluten free, paleo, and vegan options - perfect for any summer recipe. 
 </br>
 </br>
+
 ![Easy Berry Crisp Tart](/images/uploads/2020_07_21_easy_berry_crisp_tart_5.jpg)
 </br>
 </br>
+
 ![Easy Berry Crisp Tart](/images/uploads/2020_07_21_easy_berry_crisp_tart_6.jpg)
 </br>
 </br>
@@ -96,4 +101,5 @@ __For the crust and crumble__
 To make tart gluten free make sure to use GF old fashion oats. To make this tart vegan use vegan butter or coconut oil in place of the butter. You can replace the sugar for maple syrup or honey if you wish to use an alternative. 
 
 </br>
+
 ![Easy Berry Crisp Tart](/images/uploads/2020_07_21_easy_berry_crisp_tart_7.jpg)

@@ -14,6 +14,7 @@ description: Tender vegan Greek meatballs full of flavour, fiber and protein
 Greek meatballs are delicious, savory meatballs, seasoned and traditionally made with fresh herbs, lean ground beef, garlic, and either pan fried or baked to juicy perfection. They are perfect for no-fuss weeknight dinners, excellent as a mezze or for including in your mezze platter and also for grab-n-go meals. They are a staple in Greek cuisine and are definitely one of my favorites.
 </br>
 </br>
+
 ![Vegan Greek Meatballs](/images/uploads/2019_04_06_vegan_greek_meatballs_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Greek meatballs are delicious, savory meatballs, seasoned and traditionally made
 I’ve partnered up with GoGo Quinoa to bring you one heck of a delicious quinoa recipe and I am beyond excited about this recipe. It’s very easy to make, super versatile, and of course – crazy delicious and as you have already guessed is a vegan version of Greek meatballs or keftedakia. Greek meatballs are perfect on their own with a squeeze of lemon juice and perfect dipped into some garlicky herbed yoghurt sauce otherwise known to us Greeks as tzatziki. But these little guys go wonderfully stuffed in a pita with veggies and more of that tzatziki sauce and I love them with my Greek spinach rice (spanakorizo) bowls that make the best lunch or dinner for that matter. They go wonderfully with saltsa or a red sauce/marinara served taverna style with a side of French fries or loaded Greek fries or homestyle with buttery rice. I also love them in an avgolemono meatball soup/stew called youverlakia. You can see just from that list how versatile they are. They are full of flavour from the fresh herbs and the onion and garlic and we just love them!!
 </br>
 </br>
+
 ![Vegan Greek Meatballs](/images/uploads/2019_04_06_vegan_greek_meatballs_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I’ve partnered up with GoGo Quinoa to bring you one heck of a delicious quinoa
 Why make a vegan version? Well I’m not vegan but I have drastically reduced my meat intake in the last 6 years. So much so that I really can’t stomach a lot of it. My parents think I’m such a weirdo because, yes there are many realities to the movie My Big Fat Greek wedding - Greeks do love their meat and my dad is definitely one of those Greek men who doesn’t think a meal is a proper meal unless it’s served with meat. He doesn’t fuss but he just never feels full without meat. Needless to say he didn’t quite get this version of Greek meatballs but my mom loved them and she loves quinoa too and couldn’t believe these little guys were made with it.  I also decided to make these as I love falafel and  got to thinking how I could make Greek meatballs more like falafel (bean based) and came across _Minimalist Baker's_ Italian style meatballs and modeled this recipe off hers.
 </br>
 </br>
+
 ![Vegan Greek Meatballs](/images/uploads/2019_04_06_vegan_greek_meatballs_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ Why make a vegan version? Well I’m not vegan but I have drastically reduced my
 These meatballs are made of cooked and cooled (very important step - the cooling that is ) quinoa, black beans that have been baked a bit to completely dry them out which does wonders to their texture and helps the meatballs from getting overly mushy. <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/organic-tri-color-royal-quinoa/">Organic Tri-Color Royal Quinoa</a></span> plus the beans make these meatballs rich in fiber and protein. They are packaged pre-washed and cleaned and cook in 15 minutes. The tri-colour quinoa gave these meatballs some extra colour. There is also gluten free flour in the meatballs to help with binding. In the original recipe the flour is substituted for vegan Parmesan cheese but Greek style  meatballs don’t have cheese in them therefore the flour. The original recipe called for tomato paste as a binder but I thought tahini would be the perfect substitute because I love it and because it completely suits the flavours. Traditional Greek meatballs  have neither tomato paste or tahini in them but eggs to bind - but these are vegan and that is why you must get creative with your binding agents.
 </br>
 </br>
+
 ![Vegan Greek Meatballs](/images/uploads/2019_04_06_vegan_greek_meatballs_5.jpg)
 </br>
 </br>
@@ -46,6 +50,7 @@ These got a Greek mama’s approval - mind you my mom isn’t your typical Greek
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com">GoGo Quinoa</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Vegan Greek Meatballs](/images/uploads/2019_04_06_vegan_greek_meatballs_6.jpg)
 </br>
 </br>
@@ -80,4 +85,5 @@ Makes 18-22 (1-1&frac12; tbsp each)
 Adapted from _Minimalist Baker_
 
 </br>
+
 ![Vegan Greek Meatballs](/images/uploads/2019_04_06_vegan_greek_meatballs_7.jpg)

@@ -14,6 +14,7 @@ description: A delicious gluten free one pan skillet pot pie
 A comforting meal that is perfect for fall and winter when out come the warm clothes and you start preparing your favorite cool weather themed recipes. When you crave hearty and creamy dishes like this that warm the belly and can be served right out of the skillet. One pan meals are my favorite esp for the midweek. I appreciate a meal that I can just dump  things into one pan or pot and not think about prepping things separately. Definitely saves on cleaning multiple pots and pans which ultimately saves us some time as well. 
 </br>
 </br>
+
 ![Drop Biscuit Chicken Pot Pie](/images/uploads/2019_10_23_drop_biscuit_chicken_pot_pie_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ A comforting meal that is perfect for fall and winter when out come the warm clo
 The pot pie filling is loaded with flavour. I use bacon in my pot pie to start the first layer of flavours. The rest of the ingredients cook with the bacon and with the bacon fat building on those flavours. I love to add mushrooms to the usual mirepoix mix of carrots, celery, onions and garlic. They add a delicious meatiness and I just love them in it. 
 </br>
 </br>
+
 ![Drop Biscuit Chicken Pot Pie](/images/uploads/2019_10_23_drop_biscuit_chicken_pot_pie_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ The pot pie filling is loaded with flavour. I use bacon in my pot pie to start t
 I decided to switch things up for the pot pie topping. Instead of doing a puff pastry crust or a pie crust covering, I decided to do a gluten free drop biscuit topping. I love a quick and easy drop biscuit recipe and I wanted to keep these biscuits GF. My go to way of doing that when it comes to baked goods is using <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/gluten-free-1-to-1-baking-flour.html">Bob’s Red Mill Gluten Free 1-to-1 Baking Flour</a></span>. It’s a simple to use flour blend that can replace all purpose flour in just about any recipe. Bob’s Red Mill offers whole grain foods in the country. All of its products are certified Kosher and made with ingredients grown from non-GMO seeds.
 </br>
 </br>
+
 ![Drop Biscuit Chicken Pot Pie](/images/uploads/2019_10_23_drop_biscuit_chicken_pot_pie_4.jpg)
 </br>
 </br>
@@ -39,6 +42,7 @@ I'm pretty sure you are going to love this one - what’s not to love? - creamy,
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Drop Biscuit Chicken Pot Pie](/images/uploads/2019_10_23_drop_biscuit_chicken_pot_pie_5.jpg)
 </br>
 </br>
@@ -89,4 +93,5 @@ __For the GF Drop Biscuits (makes 6-9 depending on size)__
 8. Drop dollops of the dough over the top of the pot pie filling to mostly cover the surface. Transfer the skillet to the oven and bake for about 20 - 22 minutes until the biscuits are golden and the filling is bubbling. 
 
 </br>
+
 ![Drop Biscuit Chicken Pot Pie](/images/uploads/2019_10_23_drop_biscuit_chicken_pot_pie_6.jpg)

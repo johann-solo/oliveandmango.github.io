@@ -14,9 +14,11 @@ description: A delicious cranberry tart that is vegan with a chewy, nutty crust 
 A delicious cranberry tart that is vegan with a chewy, nutty crust and a lovely custard-like tart and sweet curd filling. Topped with a dollop of coconut whip and it’s the perfect dessert, the perfect way to take advantage of cranberry season and not to mention the prettiest as well.
 </br>
 </br>
+
 ![Orange Cranberry Tart With Cocoa Quinoa Flake Almond Crust](/images/uploads/2018_11_26_orange_cranberry_tart_with_cocoa_quinoa_flake_almond_crust_2.jpg)
 </br>
 </br>
+
 ![Orange Cranberry Tart With Cocoa Quinoa Flake Almond Crust](/images/uploads/2018_11_26_orange_cranberry_tart_with_cocoa_quinoa_flake_almond_crust_3.jpg)
 </br>
 </br>
@@ -24,9 +26,11 @@ A delicious cranberry tart that is vegan with a chewy, nutty crust and a lovely 
 I am very happy to be working with [GoGo Quinoa](https://www.gogoquinoa.com/) again to bring you another recipe using their fabulous products. This time it’s a recipe using their quinoa flakes. I had never tried them before and was so very excited to get my hands on them. Since then I have been experimenting with them a lot. I enjoy using them as I would use oats. The great thing about quinoa flakes is that they are completely gluten free. Pure oats technically are gluten free if they are not contaminated. Most commercial oats are processed in facilities that also process wheat, barley, and rye so read your packaging carefully if that is a concern. That is not the case with these quinoa flakes. They are 100 percent to gluten free, are fully tested and certified NON-GMO, gluten-free, kosher and organic.
 </br>
 </br>
+
 ![Orange Cranberry Tart With Cocoa Quinoa Flake Almond Crust](/images/uploads/2018_11_26_orange_cranberry_tart_with_cocoa_quinoa_flake_almond_crust_4.jpg)
 </br>
 </br>
+
 ![Orange Cranberry Tart With Cocoa Quinoa Flake Almond Crust](/images/uploads/2018_11_26_orange_cranberry_tart_with_cocoa_quinoa_flake_almond_crust_5.jpg)
 </br>
 </br>
@@ -34,9 +38,11 @@ I am very happy to be working with [GoGo Quinoa](https://www.gogoquinoa.com/) ag
 I really like the texture of the quinoa flakes and loved using them in a simple coconut milk porridge as well. They were fun to work with and I couldn’t wait to try making a tart crust with them. They made for a wonderful crust and tart base. The crust isn’t baked for too long so you get some crispy edges but also a slight chewiness to it too. It works well with the custard like curd filling. The flakes really help create a nice texture along with the almonds in the crust. There is a slight hint of citrus in it along with a hint of cocoa as well. It smells amazing while it’s baking. It’s lightly sweetened and the mellow cocoa and nutty flavours work beautifully with the tart and sweet curd filling.
 </br>
 </br>
+
 ![Orange Cranberry Tart With Cocoa Quinoa Flake Almond Crust](/images/uploads/2018_11_26_orange_cranberry_tart_with_cocoa_quinoa_flake_almond_crust_6.jpg)
 </br>
 </br>
+
 ![Orange Cranberry Tart With Cocoa Quinoa Flake Almond Crust](/images/uploads/2018_11_26_orange_cranberry_tart_with_cocoa_quinoa_flake_almond_crust_7.jpg)
 </br>
 </br>
@@ -44,9 +50,11 @@ I really like the texture of the quinoa flakes and loved using them in a simple 
 The filling is quite simple to make. When it comes to this and many other vegan curds, it is corn starch or arrow root that give it its curd-like thickness. The vegan butter or plant based butter give it its silky texture. It takes a few steps to make but all the steps are quite straightforward and simple and worth any bit of effort.
 </br>
 </br>
+
 ![Orange Cranberry Tart With Cocoa Quinoa Flake Almond Crust](/images/uploads/2018_11_26_orange_cranberry_tart_with_cocoa_quinoa_flake_almond_crust_8.jpg)
 </br>
 </br>
+
 ![Orange Cranberry Tart With Cocoa Quinoa Flake Almond Crust](/images/uploads/2018_11_26_orange_cranberry_tart_with_cocoa_quinoa_flake_almond_crust_9.jpg)
 </br>
 </br>
@@ -54,9 +62,11 @@ The filling is quite simple to make. When it comes to this and many other vegan 
 This was a delight to eat and is a wonderful vegan option for the dessert table. Other than the crust, it’s a no bake tart that once filled gets refrigerated until serving which makes it a very approachable and low maintenance kind of tart to make. The processor does most of the heavy lifting when it comes to the crust and the rest of it is just a few minutes over the stove top with the cranberries. We enjoyed the sweet and tart flavours in this lovely cranberry orange tart and we thought it was perfect with a dollop of [coconut whip](https://www.oliveandmango.com/strawberry-almond-tea-cake/) which pleasantly cuts through the sweetness and adds a smooth richness to every bite. Hope you give it a try!
 </br>
 </br>
+
 ![Orange Cranberry Tart With Cocoa Quinoa Flake Almond Crust](/images/uploads/2018_11_26_orange_cranberry_tart_with_cocoa_quinoa_flake_almond_crust_10.jpg)
 </br>
 </br>
+
 ![Orange Cranberry Tart With Cocoa Quinoa Flake Almond Crust](/images/uploads/2018_11_26_orange_cranberry_tart_with_cocoa_quinoa_flake_almond_crust_11.jpg)
 </br>
 </br>
@@ -64,6 +74,7 @@ This was a delight to eat and is a wonderful vegan option for the dessert table.
 This is a sponsored post for GoGo Quinoa.  All thoughts and views are my own. Thanks so much for supporting the brands that make Olive & Mango possible. 
 </br>
 </br>
+
 ![Orange Cranberry Tart With Cocoa Quinoa Flake Almond Crust](/images/uploads/2018_11_26_orange_cranberry_tart_with_cocoa_quinoa_flake_almond_crust_12.jpg)
 </br>
 </br>
@@ -117,4 +128,5 @@ Makes approx 2-2&frac12; cups of curd
 21. Leave overnight for a firmer texture before serving
 
 </br>
+
 ![Orange Cranberry Tart With Cocoa Quinoa Flake Almond Crust](/images/uploads/2018_11_26_orange_cranberry_tart_with_cocoa_quinoa_flake_almond_crust_13.jpg)

@@ -12,6 +12,7 @@ excerpt: A beautiful chilled soup with all of Summer's bounty
 I was so very excited to open up this box when it arrived at my doorstep. I knew what was in it and couldn’t wait to open it and start using it. What was in it of course, was this __KitchenAid The Professional Series® Blender__ which is ultimate tool for making healthy, nutritious eating easy. It’s a beast of a blender - high powered 3.5 Peak HP motor, making it not only the most powerful blender I have ever used but it's KitchenAid's most powerful blender, capable of blending even the toughest ingredients. I was ready to put it to the test with all my smoothie needs and more.
 </br>
 </br>
+
 ![Creamy Delicious Gazpacho](/images/uploads/2018_08_02_creamy_delicious_gazpacho_2.jpg) 
 </br>
 </br>
@@ -19,9 +20,11 @@ I was so very excited to open up this box when it arrived at my doorstep. I knew
 I partnered up with KitchenAid to create something delicious using their blender and I was looking forward to making this creamy summer gazpacho. Although the ingredients marinade for a while, making them slightly softer, they still are raw ingredients that are getting blended with very little moisture. I knew this beautiful machine was up for the challenge. It’s asymmetric stainless-steel blade blends at four different angles to pull ingredients into the blending vortex for the creamiest and the smoothest result. It blended this gazpacho in seconds. It was simple to use with a precision power-dial that offers 11 different speeds, plus “Pulse” and “Blend” options to meet all your blending needs! Watch how easy it is to use and how I made this beautiful gazpacho with it in [this video](https://www.instagram.com/tv/Bl_TgMNlPnQ/).
 </br>
 </br>
+
 ![Creamy Delicious Gazpacho](/images/uploads/2018_08_02_creamy_delicious_gazpacho_3.jpg) 
 </br>
 </br>
+
 ![Creamy Delicious Gazpacho](/images/uploads/2018_08_02_creamy_delicious_gazpacho_4.jpg) 
 </br>
 </br>
@@ -29,9 +32,11 @@ I partnered up with KitchenAid to create something delicious using their blender
 The best gazpacho is one with the freshest and ripest of ingredients. It’s a simple chilled soup that is great for the Summer months and hot weather when you’re not up to creating anything that doesn’t require the use of the stove or anything that will raise the temperature in the house. It’s a great starter for dinner parties but I also love it as the main attraction served with grilled or crusty bread.
 </br>
 </br>
+
 ![Creamy Delicious Gazpacho](/images/uploads/2018_08_02_creamy_delicious_gazpacho_5.jpg) 
 </br>
 </br>
+
 ![Creamy Delicious Gazpacho](/images/uploads/2018_08_02_creamy_delicious_gazpacho_6.jpg) 
 </br>
 </br>
@@ -39,9 +44,11 @@ The best gazpacho is one with the freshest and ripest of ingredients. It’s a s
 It’s cooling and refreshing and a nice change from summer salads. As I mentioned before fresh and ripe ingredients are what make a delicious gazpacho and the main ingredients to a classic one is basically tomatoes, cucumber, bread, onions and garlic. Simple ingredients, but when combined make a delicious chilled soup. There are so many ways to make a basic gazpacho your own. This is my verison. It includes the basics but I also added a little sweetness from the peppers, and a very tame bit of heat from the serrano pepper. I also had some garden fresh zucchini so I added one to it as well which is always a fabulous option.
 </br>
 </br>
+
 ![Creamy Delicious Gazpacho](/images/uploads/2018_08_02_creamy_delicious_gazpacho_7.jpg) 
 </br>
 </br>
+
 ![Creamy Delicious Gazpacho](/images/uploads/2018_08_02_creamy_delicious_gazpacho_8.jpg) 
 </br>
 </br>
@@ -49,6 +56,7 @@ It’s cooling and refreshing and a nice change from summer salads. As I mention
 The options are limitless with what else you could add. Other additions include corn, avocado for a creamier texture, and some add watermelon for some extra sweetness and you can add even more heat by adding some dry spicy seasonings like chile powder or cayenne.
 </br>
 </br>
+
 ![Creamy Delicious Gazpacho](/images/uploads/2018_08_02_creamy_delicious_gazpacho_9.jpg) 
 </br>
 </br> 
@@ -56,6 +64,7 @@ The options are limitless with what else you could add. Other additions include 
 Adding bread to gazpacho can be very divisive. I personally love the texture it gives the gazpacho but if you don’t like it or the idea of it then feel free to leave it out for a more runny or a brothier soup. It will still have those delicious classic flavours but with a little less texture. The bread or alternatively nuts give the soup a bit of body and texture that I fully appreciate in a gazpacho so I love to include either or.
 </br>
 </br>
+
 ![Creamy Delicious Gazpacho](/images/uploads/2018_08_02_creamy_delicious_gazpacho_10.jpg) 
 </br>
 </br>
@@ -63,6 +72,7 @@ Adding bread to gazpacho can be very divisive. I personally love the texture it 
 A great way to keep the gazpacho cold when serving is to make a few gazpacho ice cubes with some of it. Once it’s blended I usually pour some of it into a clean ice cube tray and put it in the freezer to freeze. When I’m dishing out my gazpacho to serve, I pop out a few of the gazpacho ice cubes and put one in each bowl or glass or dish - whatever I happen to be serving it in. It’s the perfect way to keep every spoonful chilled. As it’s best served cold, once I have blended it and made my cubes I refrigerate it until it’s time to serve. And like many other dishes, soups and stews, gazpacho tastes even better the next day as the flavours have had enough time to mingle so feel free to make ahead.
 </br>
 </br>
+
 ![Creamy Delicious Gazpacho](/images/uploads/2018_08_02_creamy_delicious_gazpacho_11.jpg) 
 </br>
 </br>
@@ -70,6 +80,7 @@ A great way to keep the gazpacho cold when serving is to make a few gazpacho ice
 With all the fresh plum tomatoes around right now I strongly recommend making this gazpacho. Use it as a base to create your own brilliant version of this refreshing raw and cool soup - I know you will love it!
 </br>
 </br>
+
 ![Creamy Delicious Gazpacho](/images/uploads/2018_08_02_creamy_delicious_gazpacho_12.jpg) 
 </br>
 </br>
@@ -117,4 +128,5 @@ Adapted from _The Kitchn_
 This is a sponsored post in collaboration with KitchenAid. All ideas and opinions expressed are all my own.
 
 </br>
+
 ![Creamy Delicious Gazpacho](/images/uploads/2018_08_02_creamy_delicious_gazpacho_13.jpg)

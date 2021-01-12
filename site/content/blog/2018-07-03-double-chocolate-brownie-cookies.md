@@ -16,9 +16,11 @@ description: These cookies take your favourite things about brownies and literal
 These cookies take your favourite things about brownies and literally put them in each bite. That crackly top that everyone loves about brownies surrounds every surface of the cookie, minus that chewy rich and chocolatey centre.
 </br>
 </br>
+
 ![Double Chocolate Brownie Cookies](/images/uploads/2018_07_03_double_chocolate_brownie_cookies_2.jpg)
 </br>
 </br>
+
 ![Double Chocolate Brownie Cookies](/images/uploads/2018_07_03_double_chocolate_brownie_cookies_3.jpg)
 </br>
 </br>
@@ -26,9 +28,11 @@ These cookies take your favourite things about brownies and literally put them i
 It took a couple of recipes to find this gem of a recipe for these cookies. I came across this one from Food and Wine and loved it. Super easy, basic and I absolutely love how rich and chocolaty they are. You will understand what I mean when you see how much chocolate is in the recipe.
 </br>
 </br>
+
 ![Double Chocolate Brownie Cookies](/images/uploads/2018_07_03_double_chocolate_brownie_cookies_4.jpg)
 </br>
 </br>
+
 ![Double Chocolate Brownie Cookies](/images/uploads/2018_07_03_double_chocolate_brownie_cookies_5.jpg)
 </br>
 </br>
@@ -36,9 +40,11 @@ The chewiness factor is so perfect in these. So much so that I thought they made
 
 </br>
 </br>
+
 ![Double Chocolate Brownie Cookies](/images/uploads/2018_07_03_double_chocolate_brownie_cookies_6.jpg)
 </br>
 </br>
+
 ![Double Chocolate Brownie Cookies](/images/uploads/2018_07_03_double_chocolate_brownie_cookies_7.jpg)
 </br>
 </br>
@@ -46,15 +52,18 @@ I made these with semi-sweet chocolate chips but you can definitely go bitter-sw
 
 </br>
 </br>
+
 ![Double Chocolate Brownie Cookies](/images/uploads/2018_07_03_double_chocolate_brownie_cookies_8.jpg)
 </br>
 </br>
+
 ![Double Chocolate Brownie Cookies](/images/uploads/2018_07_03_double_chocolate_brownie_cookies_9.jpg)
 </br>
 </br>
 These are very simple to make and if you are a chocolate lover like I am you will adore these! I ate them with a sprinkling of flaky salt which helps intensify the the cocoa flavour even more and balances the sweetness. I always love a little salted sweetness but it’s totally optional. Hope you enjoy them!
 </br>
 </br>
+
 ![Double Chocolate Brownie Cookies](/images/uploads/2018_07_03_double_chocolate_brownie_cookies_10.jpg)
 </br>
 </br>

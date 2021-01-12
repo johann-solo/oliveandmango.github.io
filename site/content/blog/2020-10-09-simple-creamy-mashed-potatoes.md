@@ -15,6 +15,7 @@ description: Perfectly fluffy and creamy mashed potatoes every time
 These perfectly fluffy and creamy mashed potatoes are really easy to make and turn out perfect every time. There’s no real rocket science behind great mashed potatoes - butter, cream or milk and some elbow grease is really all you need but you might need a few tips to make your current recipe for them even better. Ultimately a potato ricer is prime for achieving completely lump free mashed potatoes but not everyone has that handy tool in their kitchens. Don’t worry - a good sturdy masher will get you just about close enough. Ofcourse processing in a food processor or blending the potatoes will get you there but more often then not those methods over blend/mash the potatoes so that instead of creamy they end up gummy - not so good. It’s a fine line so I usually DO NOT recommend it. 
 </br>
 </br>
+
 ![Simple Creamy Mashed Potatoes](/images/uploads/2020_10_09_simple_creamy_mashed_potatoes_2.jpg)
 </br>
 </br>
@@ -31,6 +32,7 @@ These perfectly fluffy and creamy mashed potatoes are really easy to make and tu
 * After draining the cooked potatoes put the potatoes back in the hot pot, and let them sit there shaking them up a bit in the pot for 1 minutes. This lets the potatoes dry out a bit which leads to more flavorful and less waterlogged potatoes. Then start adding the butter and cream.  
 
 </br>
+
 ![Simple Creamy Mashed Potatoes](/images/uploads/2020_10_09_simple_creamy_mashed_potatoes_3.jpg)
 </br>
 </br>
@@ -39,6 +41,7 @@ These perfectly fluffy and creamy mashed potatoes are really easy to make and tu
 I love to keep things simple with the add ins to my mashed potatoes but there are plenty of things you can add to them for extra flavour and tang. Feel free to use sour cream, buttermilk or even cream cheese for extra flavour and tang. You can add garlic and herbs to them too. Some people like to roast their garlic or boil it in with the potatoes to soften it and make it mash-able. I love infusing those extra flavours into the milk or cream while I heat it up. Just throw your cream on the stove with some thyme, rosemary, garlic, or whatever other aromatics you enjoy. Simmering the cream on low heat will infuse that flavor directly into the liquid. Strain it after you’re done and ditch the aromatics to keep the texture of the mashed potatoes pure.
 </br>
 </br>
+
 ![Simple Creamy Mashed Potatoes](/images/uploads/2020_10_09_simple_creamy_mashed_potatoes_4.jpg)
 </br>
 </br>
@@ -78,4 +81,5 @@ Of course you could add cheese and bacon bits and other yummy toppings that you 
 1. Transfer to serving bowl, drizzle over some extra melted butter sprinkle with some pepper and fresh chives or herbs of choice then serve!
 
 </br>
+
 ![Simple Creamy Mashed Potatoes](/images/uploads/2020_10_09_simple_creamy_mashed_potatoes_5.jpg)

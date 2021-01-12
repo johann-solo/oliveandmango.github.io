@@ -14,6 +14,7 @@ description: Simple vegetarian dish of zucchini stuffed with herby ricotta filli
 Involtini is an Italian dish that consists of a filling (often cheese) that is rolled up in some type of outer layer (beef, chicken, vegetables, cured meat etc). Eggplant is a very popular choice for for this meal but I thought I would use zucchini - also popular. I had plenty of zucchini to use and saw a fabulous recipe on _Food52_ site which I had to make. I kept close to the recipe expect I made my own sauce for it which is so simple to whip up and so delicious and I also used spinach instead of chard in it to keep things simple and it was also what I had in the fridge. 
 </br>
 </br>
+
 ![Zucchini Involtini](/images/uploads/2019_08_29_zucchini_involtini_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Involtini is an Italian dish that consists of a filling (often cheese) that is r
 I love that the zucchini slices are roasted and not fried making it a bit lighter. We made this for dinner one midweek evening and although there are a few steps involved in making it, they are all super simple and totally doable even in the midweek. That being said, I am a multitasker and I don’t mind a recipe with a few steps. But this one can also easily be made ahead. The whole thing can be made and wrapped and stored in the fridge until you are ready to bake it (I wouldn’t keep it in the fridge for longer than a day) or what I like to do is roast my veggies and prep the sauce the day before and then the next day I just need to fill roll and bake. You could also use a store-bought sauce to make it even easier and one less step. 
 </br>
 </br>
+
 ![Zucchini Involtini](/images/uploads/2019_08_29_zucchini_involtini_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I love that the zucchini slices are roasted and not fried making it a bit lighte
 This is a very delicious vegetarian meal but very easily made vegan as well using my favourite flavourful vegan ricotta recipe. I included it below and it is totally perfect for this recipe if you are looking to keep it dairy free. The creamy ricotta filling - vegan or regular makes this dish rich without being overly heavy probably because the ricotta is wrapped not in pasta or meat but roasted slices of zucchini. 
 </br>
 </br>
+
 ![Zucchini Involtini](/images/uploads/2019_08_29_zucchini_involtini_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ This is a very delicious vegetarian meal but very easily made vegan as well usin
 This is one of those meals that you can literally take out of the oven, set on the table with a few forks and spoons and crusty bread and that is all you need! The sauce is fabulous and deserves to be mopped up with crusty bread after each zucchini roll-up disappears from the pan- trust me they disappear quickly. This will be on repeat all through zucchini season. If you love zucchini make sure to check out the [zucchini salad](https://www.oliveandmango.com/shaved-zucchini-salad-with-a-lemony-vinaigrette/) I just posted and do stay tuned for one of my favourite zucchini loaves coming to the blog soon - in the meantime try this [Chocolate Chunk Zucchini Bread](https://www.oliveandmango.com/chocolate-chunk-zucchini-bread/).
 </br>
 </br>
+
 ![Zucchini Involtini](/images/uploads/2019_08_29_zucchini_involtini_5.jpg)
 </br>
 </br>
@@ -114,4 +118,5 @@ __For the Garnishes__
 3. In a medium bowl, mix together the tofu, steamed spinach, oregano, lemon zest, red pepper flakes, harissa (if using) and a few grinds of black pepper. Stir in the cashew. Taste and add more salt, if desired.
 
 </br>
+
 ![Zucchini Involtini](/images/uploads/2019_08_29_zucchini_involtini_6.jpg)

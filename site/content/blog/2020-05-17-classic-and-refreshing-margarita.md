@@ -14,6 +14,7 @@ description: A simple refreshing classic that is the perfect combo of salty, swe
 This simple refreshing classic is the perfect combo of salty, sweet,and tangy.  It’s made with three simple ingredients. The classic Margarita combines, lime juice and 2 types of alcohol. Tequila and orange liquor. The most common ones used are Cointreau and Triple Sec. The perfect margarita is all about fresh, crisp flavors. Knowing what it shouldn’t taste like helps us understand what it should taste like. A classic and perfect margarita in my taste, should not be overly sweet and sticky, and the tequila flavors should never be non-existent but not overly unpleasant either. The tequila flavours should be smooth but add a peppery note to the drink. The tart lime juice and triple sec or Cointreau should combine into a citrus flavor that enhances and brings out the aromatic side of tequila. That makes for a balanced, smooth margarita without taking away from the tequila.
 </br>
 </br>
+
 ![Classic and Refreshing Margarita](/images/uploads/2020_05_17_classic_and_refreshing_margarita_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This simple refreshing classic is the perfect combo of salty, sweet,and tangy.  
 First choose your vessel. Use a classic margarita glass or use any glass you got.  The vessel doesn’t matter as much as what you do with it. That brings us to the salty part. I like to use a coarse flaky salt to salt my glass but any coarseness will do but salting the rim of a margarita is a must. There are a lot of variations of flavours when it comes to the salting.  A lot like to add flavouring like spices or lime zest to the salt and that is totally fine. Get creative but make sure there is salt. More details on how to do this below. 
 </br>
 </br>
+
 ![Classic and Refreshing Margarita](/images/uploads/2020_05_17_classic_and_refreshing_margarita_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ First choose your vessel. Use a classic margarita glass or use any glass you got
 The most important thing is choosing your tequila. I am no specialist when it comes to tequila but I do know there are decent tequilas out there at any price point. So choose the one you can find that tastes good to you and makes you happy - just make sure it’s one that is made from 100% agave. There are some really fabulous tequila mixes out there but I prefer a non mixed tequila for my margarita. 
 </br>
 </br>
+
 ![Classic and Refreshing Margarita](/images/uploads/2020_05_17_classic_and_refreshing_margarita_4.jpg)
 </br>
 </br>
@@ -58,4 +61,5 @@ Lime juice is a huge component and a wedge or slice of lime to garnish is always
 6. Garnish with a lime wedge/slice 
 
 </br>
+
 ![Classic and Refreshing Margarita](/images/uploads/2020_05_17_classic_and_refreshing_margarita_5.jpg)

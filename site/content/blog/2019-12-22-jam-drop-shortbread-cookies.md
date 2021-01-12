@@ -15,6 +15,7 @@ description: Buttery melt-in-your-mouth shortbread biscuits from Fläviken
 An incredibly easy recipe to make but totally irresistible and using the best quality ingredients you can get makes them even better. I was thrilled to receive another _Magnus Nilsson_ book from Phaidon. This one I couldn’t wait to read. This one is called Fäviken after Magnus’s restaurant in Sweden. I had seen an episode of Chef’s table all about Magnus and the restaurant and was completely taken in by it. I have a not so secret dream of living a life like his one day - living off the land, being a master pickler and preserver of things and knowing my way around the woods. Those are only a few of the enviable things about Magnus, and those were things he was taught growing up. If you watched the show or if you pick up a copy of this book you will get to know that he is a very young chef with a very accomplished background and plethora of experience apart from what he learned growing up. 
 </br>
 </br>
+
 ![Jam Drop Shortbread Cookies](/images/uploads/2019_12_22_jam_drop_shortbread_cookies_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ An incredibly easy recipe to make but totally irresistible and using the best qu
 His whole story - and career thus far is intriguing and his connection to and familiarly of the outdoors is really what pulls me and has my attention especially when the outdoors involve a place like Sweden. As wonderful and stunningly beautiful as it is, it hold some challenges when it comes to using local produce. Sweden is a country with big differences in daylight, and the winters are also long and frigid. Fäviken is known for using local produce. Nilsson grows and hunts much of the ingredients locally. Because of the local climate over the winter, efforts are made to preserve ingredients in a way that retains their freshness. He is passionate about that and all the processes he uses are just amazing. I’m even more amazed because i don’t know anything about these methods (pickling, fermentation etc...) but I wish I did. I wish I had the time to explore and experiment and be able to preserve more than some jam. One day..... Thanks to his book I will now be preserving my fresh herbs in a herb salt. A genius idea and simple method of preserving the wonderful flavours in a brightly coloured salt that if done properly can last the winter. 
 </br>
 </br>
+
 ![Jam Drop Shortbread Cookies](/images/uploads/2019_12_22_jam_drop_shortbread_cookies_3.jpg)
 </br>
 </br>
@@ -40,6 +42,7 @@ Lingonberry jam which I though would be perfect with these. I used an [organic o
 Disclaimer: I received this book as a gift but all thoughts and opinions are my own. The recipe for Magnus Nilsson's Jam Drop Shortbread Cookies (pg. 208) from his cookbook "Fläviken". This recipe is shared with permission from the publisher.
 </br>
 </br>
+
 ![Jam Drop Shortbread Cookies](/images/uploads/2019_12_22_jam_drop_shortbread_cookies_4.jpg)
 </br>
 </br>
@@ -79,4 +82,5 @@ Disclaimer: I received this book as a gift but all thoughts and opinions are my 
 1. Immediately shape the dough using a small cookie scoop into little balls, place on the baking tray leaving a few centimeters in between and make an indentation in each with your finger. Fill the indentation with jam and bake in the oven for 10 minutes or until golden brown. Do not over bake. Eat them as soon as they are cool enough to eat and enjoy them at their best. 
 
 </br>
+
 ![Jam Drop Shortbread Cookies](/images/uploads/2019_12_22_jam_drop_shortbread_cookies_5.jpg)

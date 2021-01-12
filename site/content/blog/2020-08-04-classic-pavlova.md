@@ -14,6 +14,7 @@ description: A sweet pavlova with crisp chewy exterior, and marshmallowy soft an
 A classic pavlova is a fabulous dessert with a crisp meringue shell and soft, marshmallowy centre. It’s irresistible loaded with a little curd, pillowy fresh whipped cream and seasonal fruit. It’s simpler to make than most realize and I thought I would share a few tips I have learned along the way.  
 </br>
 </br>
+
 ![Classic Pavlova](/images/uploads/2020_08_04_classic_pavlova_2.jpg)
 </br>
 </br>
@@ -35,6 +36,7 @@ I usually plan on making it the night before I serve it and leave it in the oven
 • If you want to add vanilla to your pavlova add a maximum of 1 tsp. Adding vanilla can change the colour of the meringue so be mindful of that and if the vanilla extract has water, adding further moisture can also cause the pavlova to weep.
 </br>
 </br>
+
 ![Classic Pavlova](/images/uploads/2020_08_04_classic_pavlova_4.jpg)
 </br>
 </br>
@@ -43,6 +45,7 @@ I usually plan on making it the night before I serve it and leave it in the oven
 Short answer is NO! Small Cracks and bumps on the pavlova are very normal but the pavlova shouldn’t completely deflate when you take it out of the oven or transfer it to plate. It may start to collapse after the toppings have settled and that is normal. That is why I always place the toppings on right before I serve. The toppings add weight and moisture to the pavlova so it’s normal that it will crack with the weight of them and while serving. 
 </br>
 </br>
+
 ![Classic Pavlova](/images/uploads/2020_08_04_classic_pavlova_5.jpg)
 </br>
 </br>
@@ -104,4 +107,5 @@ __For the toppings__
 * If you are adding vanilla extract to the mix add no more than 1 tsp and add it with the vinegar.
 
 </br>
+
 ![Classic Pavlova](/images/uploads/2020_08_04_classic_pavlova_6.jpg)

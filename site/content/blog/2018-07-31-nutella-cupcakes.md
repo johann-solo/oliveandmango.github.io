@@ -12,9 +12,11 @@ excerpt: Gluten free cupcakes exploding with pure decadence
 These Nutella cupcakes have been a long time coming. I have made them a few times before but for one reason or another I kept putting them on the back burner to post. I have a long list of things that I want and need to remake and retake photographs and also a long list of my favourite things that I make all the time but have not made it to the blog yet. These fabulous cupcakes are on that list. They are perfectly moist and the frosting is made of two ingredients and totally to die for! If you are crazy about Nutella or any hazelnut spread even if you make your own hazelnut spread (good for you btw) you will adore these.
 </br>
 </br>
+
 ![Nutella Cupcakes](/images/uploads/2018_07_31_nutella_cupcakes_2.jpg)
 </br>
 </br>
+
 ![Nutella Cupcakes](/images/uploads/2018_07_31_nutella_cupcakes_3.jpg)
 </br>
 </br>
@@ -22,9 +24,11 @@ These Nutella cupcakes have been a long time coming. I have made them a few time
 It’s been 2 whole months since we have come back to Canada and the transition has been slow in some ways and very fast in other ways. I started working at a dental office a few days after we landed and blog life has continued pretty seamlessly as I worked my butt off trying to get extra content prepped for guys before I left Trinidad knowing that there would be a transitional period over here with zero props and backgrounds (utensils and anything for that matter). Am I settled? Not really - or fully but slowly getting there. I’m pretty adaptable so things have been interesting at times - and I have had to find the humour in things especially when shooting.
 </br>
 </br>
+
 ![Nutella Cupcakes](/images/uploads/2018_07_31_nutella_cupcakes_4.jpg)
 </br>
 </br>
+
 ![Nutella Cupcakes](/images/uploads/2018_07_31_nutella_cupcakes_5.jpg)
 </br>
 </br>
@@ -32,9 +36,11 @@ It’s been 2 whole months since we have come back to Canada and the transition 
 Ok why the long explanation - well the transition back to these cupcakes is this: since I’m back in Canada I have a little better  access to certain ingredients and flours (like GF ones) that I would refuse to buy in Trinidad cause there was no way I was going to pay that much for them - to experiment with them especially because I’m not celiac and don’t have a gluten intolerance. But I realise many have gluten sensitivities and I always wanted to experiment with them. Here they are so affordable and messing up a recipe and having to test one multiple times isn’t as hard on the pocket book if you know what I mean. So I started by experimenting with all purpose gluten free flours and found one that didn’t require the addition of xanthum gum or anything else - it’s 100 percent 1:1 all purpose Gluten free flour. It was simple to use and the result was delicious! People couldn’t tell the difference unless they knew one was GF between the two when I made both GF and non GF. I was very happy using the flour and was so pleased it was so transitional.  I have yet to experiment with blending GF flours but baby steps right?
 </br>
 </br>
+
 ![Nutella Cupcakes](/images/uploads/2018_07_31_nutella_cupcakes_6.jpg)
 </br>
 </br>
+
 ![Nutella Cupcakes](/images/uploads/2018_07_31_nutella_cupcakes_7.jpg)
 </br>
 </br>
@@ -42,9 +48,11 @@ Ok why the long explanation - well the transition back to these cupcakes is this
 That being said, these cupcakes can be made with regular all purpose flour or your choice of GF all purpose flour that is 1:1 unless you are a master GF baker and know your ratios of blending xanthum and other ingredients. They turn predictably perfect every time and they are always a hit for a party, bbq (where I tested them on two occasions among two groups of friends) or any excuse you want for making cupcakes. They whip up pretty quickly and are quite  easy to make.
 </br>
 </br>
+
 ![Nutella Cupcakes](/images/uploads/2018_07_31_nutella_cupcakes_8.jpg)
 </br>
 </br>
+
 ![Nutella Cupcakes](/images/uploads/2018_07_31_nutella_cupcakes_9.jpg)
 </br>
 </br>
@@ -52,12 +60,15 @@ That being said, these cupcakes can be made with regular all purpose flour or yo
 To fill them all I used was a thin piping attachment and literally placed it into the cupcakes and piped as much as it would allow for. You will know when it’s full. The filling will start to overflow. The other alternative is to use one of those cupcake centre poppers which I use to have but left it behind in Trinidad. You can also use a knife to cut out a portion of it as directed below. Either option works well I just piped it in without removing any bit of the cupcake for ease and speed.
 </br>
 </br>
+
 ![Nutella Cupcakes](/images/uploads/2018_07_31_nutella_cupcakes_10.jpg)
 </br>
 </br>
+
 ![Nutella Cupcakes](/images/uploads/2018_07_31_nutella_cupcakes_11.jpg)
 </br>
 </br>
+
 ![Nutella Cupcakes](/images/uploads/2018_07_31_nutella_cupcakes_12.jpg)
 </br>
 </br>
@@ -65,6 +76,7 @@ To fill them all I used was a thin piping attachment and literally placed it int
 You can use any hazelnut spread you would like and you can also substitute the cream cheese with mascarpone for an even richer frosting. Just make sure is you use mascarpone allow it to come to room temperature before mixing and do not over mix  it so that it’s stays smooth and creamy. Cream cheese a delicious option that I usually choose cause I almost always have it on hand and is a more budget friendly if that is a concern. Both give you a luscious frisking that according to my husband - is to die for. He likes to pipe it straight into his mouth and must lick the bowl. These really are a sweet treat and you will just have to try them yourself to see what I mean.
 </br>
 </br>
+
 ![Nutella Cupcakes](/images/uploads/2018_07_31_nutella_cupcakes_13.jpg)
 </br>
 </br>

@@ -14,6 +14,7 @@ description: Crispy edges with a chewy, gooey molten centre
 This giant chocolate chip raspberry skillet cookie has crispy edges and a chewy and gooey centre - truly the best of both worlds. Pulled hot from the oven, this baby is totally molten in the centre and begging for a scoop or two of vanilla bean ice cream. It’s big enough to share, but (dangerously) delicious enough to eat alone. Spoon this warm treat straight out of the pan or cut it into wedges and serve with your favourite ice cream. 
 </br>
 </br>
+
 ![Chocolate Chip Raspberry Skillet Cookie](/images/uploads/2019_08_21_chocolate_chip_raspberry_skillet_cookie_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ This giant chocolate chip raspberry skillet cookie has crispy edges and a chewy 
 I felt the need to make a recipe with raspberries after I did a white chocolate and currant recipe, so I decided on this one and instead of pairing them with white chocolate as I usually do, I went with semi-sweet. This is a very very decadent skillet cookie as you can see from the amount of butter and sugar in it. It’s just the best treat and I have to say it wasn’t easy to photograph without wanting to dig into it with my spoon.  You will feel the same way after it comes out of the oven. 
 </br>
 </br>
+
 ![Chocolate Chip Raspberry Skillet Cookie](/images/uploads/2019_08_21_chocolate_chip_raspberry_skillet_cookie_3.jpg)
 </br>
 </br>
+
 ![Chocolate Chip Raspberry Skillet Cookie](/images/uploads/2019_08_21_chocolate_chip_raspberry_skillet_cookie_4.jpg)
 </br>
 </br>
@@ -31,6 +34,7 @@ I felt the need to make a recipe with raspberries after I did a white chocolate 
 I used some spelt flour in my version of this recipe but feel free to use all-purpose. I love that it adds a nuttiness to whatever it’s baked into and I also had some to use up - I’m glad I did. I loved it in this skillet cookie. Another thing I added which I love to add into cakes and other baked goods is instant vanilla pudding powder. This too is optional but I love what it does to baked goods. Adding it increases the hydration in the batter of whatever you are baking and increases that chew factor.  It’s completely optional - the change in texture is minutely different especially in this skillet cookie which is quite chewy and molten-like on its own. It also has a leavening affect - there’s a whole chemistry behind adding it which I don’t really understand but a lot of bakeries and bakers add it in for the very reasons I mentioned above. 
 </br>
 </br>
+
 ![Chocolate Chip Raspberry Skillet Cookie](/images/uploads/2019_08_21_chocolate_chip_raspberry_skillet_cookie_5.jpg)
 </br>
 </br>
@@ -38,6 +42,7 @@ I used some spelt flour in my version of this recipe but feel free to use all-pu
 I really can’t say enough about this dessert! My friends and family loved it and it was gone super fast. Bring this crowd-pleasing dessert to the table with plenty of extra spoons and watch it disappear before your eyes! 
 </br>
 </br>
+
 ![Chocolate Chip Raspberry Skillet Cookie](/images/uploads/2019_08_21_chocolate_chip_raspberry_skillet_cookie_6.jpg)
 </br>
 </br>
@@ -71,4 +76,5 @@ I really can’t say enough about this dessert! My friends and family loved it a
 8. Bake the skillet cookie for 25-30 minutes, it should look puffed and golden brown with a gooey centre. Leave to cool for at least 20 minutes, before serving warm with ice cream.
 
 </br>
+
 ![Chocolate Chip Raspberry Skillet Cookie](/images/uploads/2019_08_21_chocolate_chip_raspberry_skillet_cookie_7.jpg)

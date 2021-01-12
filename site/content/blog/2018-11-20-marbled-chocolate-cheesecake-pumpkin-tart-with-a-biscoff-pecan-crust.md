@@ -14,6 +14,7 @@ description: Creamy pumpkin cheesecake with decadent chocolate swirls over a cri
 This pumpkin chocolate swirl cheesecake tart is quite irresistible. Bite after bite you will keep going back for more. The cookie crust is delicious with the addition of the pecans and cinnamon and the pumpkin pie spiced filling is perfectly creamy with rich chocolate swirls throughout it. Its the perfect fall dessert. I love to make it in a tart pan but it can easily be made into bars baked in a square baking pan. Chocolate  and pumpkin are so good together in any baked good including this delicious cheesecake tart. 
 </br>
 </br>
+
 ![Marbled Chocolate Cheesecake Pumpkin Tart With A Biscoff Pecan Crust](/images/uploads/2018_11_20_marbled_chocolate_cheesecake_pumpkin_tart_with_a_biscoff_pecan_crust_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This pumpkin chocolate swirl cheesecake tart is quite irresistible. Bite after b
 One of the many good things going for this tart is how quickly it bakes up compared to a regular cheesecake. It also does not require a water bath when baking.  It’s super simple to whip up being that the crust is a press in cookie crust requiring very little effort to make. Speaking of the crust, I choose a biscoff biscuit one for two reasons, one - I haven’t had them in forever and I love them and two - they have a beautiful caramel flavour that plays well with the pumpkin spices. If you don’t have any biscoff biscuits available where you live that is quite alright. I have made this same tart with graham cracker crumbs and with ginger snap crumbs as well and both were fabulous so feel free to substitute to suit. 
 </br>
 </br>
+
 ![Marbled Chocolate Cheesecake Pumpkin Tart With A Biscoff Pecan Crust](/images/uploads/2018_11_20_marbled_chocolate_cheesecake_pumpkin_tart_with_a_biscoff_pecan_crust_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ One of the many good things going for this tart is how quickly it bakes up compa
 When it comes to the filling, you will unfortunately have to dirty a few bowls making it but it is so worth it. The original recipe I had posted called for melted chocolate instead of the cocoa powder that is now in the existing recipe and I will explain why. I loved the version with the melted chocolate but I found on testing it a few more times that when it came time to dolloping it onto the cheesecake it was already starting to set and almost impossible to swirl. What I would end up doing is sticking it in the microwave for a few seconds to help it melt and become pourable again. This wouldn’t happen every time I made it but it was unpredictable enough to make me want to look for another chocolate swirl method - thus the cocoa powder method which is totally predictable, stays pourable and makes the prettiest chocolate swirls. That being said if you would like to use the melted chocolate version over the cocoa powder just melt 3 oz of dark chocolate and whisk it into the reserved cheesecake mixture as the recipe requires.
 </br>
 </br>
+
 ![Marbled Chocolate Cheesecake Pumpkin Tart With A Biscoff Pecan Crust](/images/uploads/2018_11_20_marbled_chocolate_cheesecake_pumpkin_tart_with_a_biscoff_pecan_crust_4.jpg)
 </br>
 </br>
@@ -97,4 +100,5 @@ You have to add this rich and fabulous pumpkin dessert to your fall baking list.
 10.	Transfer to oven on a baking sheet and bake approx 25 minutes or until just set. Cool completely and then refrigerate at least 1-2 hours to fully set. Remove from pan, slice and serve. Leftovers can be stored in a sealed container for up to 5 days. 
 
 </br>
+
 ![Marbled Chocolate Cheesecake Pumpkin Tart With A Biscoff Pecan Crust](/images/uploads/2018_11_20_marbled_chocolate_cheesecake_pumpkin_tart_with_a_biscoff_pecan_crust_5.jpg)

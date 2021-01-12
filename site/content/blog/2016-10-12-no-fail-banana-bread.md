@@ -17,9 +17,11 @@ description: Super-moist, soft crumb, buttery banana flecked bread
 This super-moist, soft crumb, buttery banana flecked bread is my favorite banana bread recipe of all time. You need 4 ripe bananas and the chocolate chips and nuts are optional but add extra flavour and texture to your banana bread. The nuts can be substituted with seeds or left out all together if allergies are a concern. I love to have  it still warm out of the oven or toasted with a smear of salted butter over it. It’s easy to make and is a hit with everyone. 
 </br>
 </br>
+
 ![No Fail Banana Bread](/images/uploads/2016_10_12_no_fail_banana_bread_2.jpg)
 </br>
 </br>
+
 ![No Fail Banana Bread](/images/uploads/2016_10_12_no_fail_banana_bread_3.jpg)
 </br>
 </br>
@@ -27,9 +29,11 @@ This super-moist, soft crumb, buttery banana flecked bread is my favorite banana
 Have you ever searched ‘Best Banana Bread’ on Pinterest or google? There’s literally hundreds and even possibly thousands of recipes that claim they are the best. There are so many takes on banana bread. Nuts, no nuts. Chocolate chips, no chips. Butter no butter but instead oil or vice versa. Gluten free, vegan, paleo, pumpkin and the list goes on and on and on! I have tried many different recipes. This is the one I make over and over and me and my family never tire of, and any time I share it with someone or bring it to work its always a hit. 
 </br>
 </br>
+
 ![No Fail Banana Bread](/images/uploads/2016_10_12_no_fail_banana_bread_4.jpg)
 </br>
 </br>
+
 ![No Fail Banana Bread](/images/uploads/2016_10_12_no_fail_banana_bread_5.jpg)
 </br>
 </br>
@@ -44,9 +48,11 @@ I think banana bread is one of those foods that people have different opinions o
 * Recipe uses basic pantry ingredients which is always such a bonus  
 
 </br>
+
 ![No Fail Banana Bread](/images/uploads/2016_10_12_no_fail_banana_bread_6.jpg)
 </br>
 </br>
+
 ![No Fail Banana Bread](/images/uploads/2016_10_12_no_fail_banana_bread_7.jpg)
 </br>
 </br>
@@ -110,4 +116,5 @@ The original recipe is from the food network by _Tyler Florence_. I adapted it b
 Adapted from _Tyler Florence’s_ banana bread with pecans
 
 </br>
+
 ![No Fail Banana Bread](/images/uploads/2016_10_12_no_fail_banana_bread_8.jpg)

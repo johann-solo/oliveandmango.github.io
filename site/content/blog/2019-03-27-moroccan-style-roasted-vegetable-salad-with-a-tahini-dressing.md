@@ -14,6 +14,7 @@ description: A Moroccan style salad with a hint spice and a creamy dressing
 This is the first Spring that I have been in Canada for in 6-7 years.  Every time I would visit home from Trinidad it was always around the winter holiday season or the Fall and I think once in the Summer but never the Spring. It’s funny how different you see things after not being around them a while. I use to love the Spring time, the whole transition period and everything. I had a friend who use to tell me that she hated Spring, apart from it being the start of allergy season, she always pointed out how rainy it was and soggy and rotten everything was right up until it got warm enough for things to start blooming. I used to wonder how she could feel that way about it. I do get the whole 'April showers bring May flowers' but I do think that it’s a bit of a tough season. I have a hard time with the crazy fluctuations in temps, but I will definitely tolerate all things (including allergies – I get them in the Spring and during ragweed season) knowing that Summer comes after all of them.
 </br>
 </br>
+
 ![Moroccan Style Roasted Vegetable Salad With a Tahini Dressing](/images/uploads/2019_03_27_moroccan_style_roasted_vegetable_salad_with_a_tahini_dressing_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This is the first Spring that I have been in Canada for in 6-7 years.  Every tim
 I think being a food blogger and photographer of food has shaped the way I feel about seasons also, and in fact has really helped me embrace the seasons and appreciate them for more than the weather changing.  Every season brings fresh in-season produce. You can get anything and everything throughout the year here in Canada – but no one could argue with the fact that it all tastes better when it’s actually eaten during it’s time or season. Spring is the time for lighter brighter foods including all the green things in sight along with all the rhubarb.
 </br>
 </br>
+
 ![Moroccan Style Roasted Vegetable Salad With a Tahini Dressing](/images/uploads/2019_03_27_moroccan_style_roasted_vegetable_salad_with_a_tahini_dressing_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I think being a food blogger and photographer of food has shaped the way I feel 
 Greens and green things are my favourite to eat and I look forward to them each Spring - greens, asparagus, peas...as for rhubarb though I have to be honest with you, I haven’t fully embraced it fully, other than in pie form. This is probably because I haven’t had it available to me for so many years - but this year I will get my fill and am looking forward to adding a few rhubarb recipes to the blog. In the meantime I would like to introduce you to a wonderful salad that is the perfect transition from Winter to Spring. I got some lovely greens in it but it’s also not all lettuce or greens. It has plenty of sweet roasted root veggies that make this salad hearty enough to have as a meal.
 </br>
 </br>
+
 ![Moroccan Style Roasted Vegetable Salad With a Tahini Dressing](/images/uploads/2019_03_27_moroccan_style_roasted_vegetable_salad_with_a_tahini_dressing_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ Greens and green things are my favourite to eat and I look forward to them each 
 This salad also has some of my favorite flavours in it. The flavours begin with the roasted veggies. They are seasoned well with harissa seasoning. Harissa is a fiery chilli paste or spice blend mix used liberally in Tunisia, other North African countries and the Middle East to flavour all kinds of foods and dishes such as soups, stews, tagines, marinades, hummus, couscous, vegetables, dips etc. I love it and thought I would use that seasoning as the theme for this salad. It’s a Moroccan styled salad which includes lots of textures and flavours. Different textures in salads makes them interesting and a delight to eat. The roasted seasoned veggies give this salad some sweetness and definitely bulk up the salad with something more substantial thank leafy greens. The dried apricots give the salad a little sweet chew factor and go so well with that bit of heat from the spices in the veggies. The pumpkin seeds give just enough crunch to it and the pomegranate adds a pop of tart/sweet into the salad as well. The feta adds some saltiness or brine to it and - lets be honest - is salad even salad without feta on it in a Greek household? Hee hee - I promise it does really suit the salad but if you want to keep it vegan feel free to leave it out.
 </br>
 </br>
+
 ![Moroccan Style Roasted Vegetable Salad With a Tahini Dressing](/images/uploads/2019_03_27_moroccan_style_roasted_vegetable_salad_with_a_tahini_dressing_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ This salad also has some of my favorite flavours in it. The flavours begin with 
 Last but not least there’s that tahini dressing. It’s creamy, fresh, slightly nutty tasting and lemony. The perfect taste and texture to add to this hearty salad. We absolutely loved it. It’s great as a light meal or definitely as a side too. It’s one of those salads that might take a bit of time and effort (chopping) to make but it’s well worth it. It’s definitely one you want to add to your winter to spring salad list.
 </br>
 </br>
+
 ![Moroccan Style Roasted Vegetable Salad With a Tahini Dressing](/images/uploads/2019_03_27_moroccan_style_roasted_vegetable_salad_with_a_tahini_dressing_6.jpg)
 </br>
 </br>
@@ -92,4 +97,5 @@ __For the dressing__
 8. Drizzle over the dressing or serve it on the side along with warm pita bread
 
 </br>
+
 ![Moroccan Style Roasted Vegetable Salad With a Tahini Dressing](/images/uploads/2019_03_27_moroccan_style_roasted_vegetable_salad_with_a_tahini_dressing_7.jpg)

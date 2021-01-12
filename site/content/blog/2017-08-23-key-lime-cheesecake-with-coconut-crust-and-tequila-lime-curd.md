@@ -15,6 +15,7 @@ description: A zesty, fresh lime curd cheesecake that is guaranteed to brighten 
 This creamy rich cheesecake has a very fresh and tropical taste. From the coconut filled  crust to the lime infused creamy rich filling and finally the tequila lime curd. Like any cheesecake, this one is a fabulous make ahead dessert and also perfect for entertaining. 
 </br>
 </br>
+
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_2.JPG)
 </br>
 </br>
@@ -22,9 +23,11 @@ This creamy rich cheesecake has a very fresh and tropical taste. From the coconu
 I love cheesecake but in moderation. I like small junior sized pieces because cheesecake is usually a rich and decadent dessert perfect for sharing. That’s my take on it but not everyone feels that way about cheesecake, like my husband for example. I literally only make cheesecake when we are having a big group over. I do this purposely because if I make it just for us, my husband eats the entire cheesecake, spread over a week but still, a whole cheesecake! Anyways where I’m getting at with all that is- I can only have a bite or two and I’m done-too rich after that. Well folks not with this one, as soon as the shoot was over I had to taste it, as with all the food I shoot. That actually annoys my husband so much. He is always telling me,’ Why don’t we clean up and then eat?’ And I reply ‘impossible!’ And carry on eating. I couldn’t stop at one bite of this cheesecake and neither could he. There were no words about cleaning up. We sat quietly enjoying 1 and then for some of us 2 pieces of this cake. 
 </br>
 </br>
+
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_3.JPG)
 </br>
 </br>
+
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_4.JPG)
 </br>
 </br>
@@ -32,6 +35,7 @@ I love cheesecake but in moderation. I like small junior sized pieces because ch
 It’s still rich and decadent but the lime in the cake and curd really brighten it up and cut through the richness somehow. This curd, by the way, is adapted from a Martha Stewart recipe and is by far the [best curd recipe](https://www.oliveandmango.com/how-to-make-a-simple-no-fail-citrus-curd/) I have tried! It’s very hard to screw up. I added the tequila and citrus liqueur to my usual recipe to add a bit extra flavour to it and it was the perfect addition to this cheesecake. 
 </br>
 </br>
+
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_5.JPG)
 </br>
 </br>
@@ -39,6 +43,7 @@ It’s still rich and decadent but the lime in the cake and curd really brighten
 The [stabilized whip cream](https://www.oliveandmango.com/stabilized-whipped-cream/) on top really lightens it up and is a perfect balance to the sweetness of the cake. I love to pipe it on if I’m making it for a celebration but on other occasions I will just dollop and swirl it straight onto the cheesecake. The crust is made with graham crackers and shredded coconut and just the right amount of coconutty flavour adding another layer of goodness to the cake
 </br>
 </br>
+
 ![Key Lime Cheesecake](/images/uploads/2017_08_23_key_lime_cheesecake_6.JPG)
 </br>
 </br>

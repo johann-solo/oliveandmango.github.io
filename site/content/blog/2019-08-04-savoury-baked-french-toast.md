@@ -14,9 +14,11 @@ description: A savoury dish loaded with caramelized onions, cheddar, and bacon
 This Savoury Baked French Toast is loaded with caramelized onions, cheddar, and bacon all baked together in a casserole dish or the way I like it in a spring form pan... If you prefer savory over sweet when it comes to breakfast, this is definitely a recipe you will love.
 </br>
 </br>
+
 ![Savoury Baked French Toast](/images/uploads/2019_08_04_savoury_baked_french_toast_2.jpg)
 </br>
 </br>
+
 ![Savoury Baked French Toast](/images/uploads/2019_08_04_savoury_baked_french_toast_3.jpg)
 </br>
 </br>
@@ -24,9 +26,11 @@ This Savoury Baked French Toast is loaded with caramelized onions, cheddar, and 
 It’s similar to a strata and a cross between a quiche, French toast and and omelette or frittata.  Just like a frittata, this baked fresh toast can really be made with any leftover bits of cheese and veggies but this is my all time favorite combination of add ins to it. The caramelized onions add a sweet and delicious note to it and I just can’t resist bacon and cheddar together. Those three ingredients can be switched up in so many ways. Ie- can you imagine how yummy this would be with chives, smoked salmon and dollops of cream cheese in the bake, how about onions sweet pepper and sun-dried tomatoes with a bit of ricotta or Parm? You see what I mean - so many options. 
 </br>
 </br>
+
 ![Savoury Baked French Toast](/images/uploads/2019_08_04_savoury_baked_french_toast_4.jpg)
 </br>
 </br>
+
 ![Savoury Baked French Toast](/images/uploads/2019_08_04_savoury_baked_french_toast_5.jpg)
 </br>
 </br>
@@ -34,9 +38,11 @@ It’s similar to a strata and a cross between a quiche, French toast and and om
 The 3 main ingredients that make this are eggs, milk, and bread. The rest you can play around with.  This is a classic combo that we love and know you will too! It’s really easy to throw together and fairly quick. The caramelized onions may take a bit of time but if I’m tight for time I like to make them while the bread is “soaking” and sprinkle them in once they have cooled and while placing the bread in the pan.
 </br>
 </br>
+
 ![Savoury Baked French Toast](/images/uploads/2019_08_04_savoury_baked_french_toast_6.jpg)
 </br>
 </br>
+
 ![Savoury Baked French Toast](/images/uploads/2019_08_04_savoury_baked_french_toast_7.jpg)
 </br>
 </br>
@@ -44,6 +50,7 @@ The 3 main ingredients that make this are eggs, milk, and bread. The rest you ca
 My hubby loves baked French toast. He always requests it on a long weekend.  I actually made this the last long weekend which was about 4 weeks ago and shared the recipe with my subscribers. I knew I was not going to be able to post it immediately so I sent it out early to them first. Well another long weekend is upon us and I’m still not feeling great after several days of being sick so no baked French toast this long long weekend. Taking the time to recoup and get ready for a long week of work ahead after it. There is still plenty of time for you to enjoy it so grab some bread, milk and eggs and get creative or try this tested combo out that we love - you too will  love it whether it’s for breakfast lunch or dinner. 
 </br>
 </br>
+
 ![Savoury Baked French Toast](/images/uploads/2019_08_04_savoury_baked_french_toast_8.jpg)
 </br>
 </br>
@@ -78,4 +85,5 @@ My hubby loves baked French toast. He always requests it on a long weekend.  I a
 9. Remove from oven and allow it to rest for 5 minutes before removing the springform and cutting into slices to serve. Garnish with parsley and  black pepper.
 
 </br>
+
 ![Savoury Baked French Toast](/images/uploads/2019_08_04_savoury_baked_french_toast_9.jpg)

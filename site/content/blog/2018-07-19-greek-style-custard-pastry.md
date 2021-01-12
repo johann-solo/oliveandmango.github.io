@@ -12,12 +12,15 @@ excerpt: Creamy semolina custard enveloped by crispy buttery phyllo
 This tops the list when it comes to hubby’s favourite Greek foods. I don’t blame him as nothing is more welcoming than the aroma of it baking in the oven. It’s most delicious warm out of the oven too. Crispy layers of buttery phyllo make up the top and bottom layers of this delicious Greek delight and between those layers lies a creamy custard made of milk and semolina and slightly sweetened with a dash of sugar and flavoured with vanilla and then a little lemon juice and zest. Sounds like I’m making a big deal out of phyllo and cream and I definitely am because it’s just that good.
 </br>
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_2.jpg)
 </br>
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_3.jpg)
 </br>
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_4.jpg)
 </br>
 </br>
@@ -25,12 +28,15 @@ This tops the list when it comes to hubby’s favourite Greek foods. I don’t b
 _Bougatsa_ is often eaten or served for breakfast but can easily work it’s way into being a snack and of course a mildly sweet dessert. Serves up perfectly on a brunch or brekkie table dusted with cinnamon and powdered sugar and served with some Greek coffee. My husband prefers it any time and all the time. Him and my father favour custardy things so this and it’s honey soaked counterpart _galaktoboureko_, are their favourites and are what they request the most.
 </br>
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_5.jpg)
 </br>
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_6.jpg)
 </br>
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_7.jpg)
 </br>
 </br>
@@ -38,15 +44,19 @@ _Bougatsa_ is often eaten or served for breakfast but can easily work it’s way
 I on the other hand generally stay away from dairy unless it’s goat feta and cheese in my sandwich and the odd gorging on a charcuterie platter so custards and creamy things are usually a little too heavy for me. Not that I don’t like them but 1-2 bites is all that I need and then I’m done. That being said this one was not overly sweet and it beckoned me to have more than one piece.
 </br>
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_8.jpg)
 </br>
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_9.jpg)
 </br>
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_10.jpg)
 </br>
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_11.jpg)
 </br>
 </br>
@@ -54,15 +64,19 @@ I on the other hand generally stay away from dairy unless it’s goat feta and c
 There are quite a few versions of this recipe and to tell you the truth I’m sure they are all delicious. Why I make mine this way is because it’s a very simple recipe. It doesn’t taste eggy at all. The custard is super easy to make and the whole thing is also easy to put together. It also doesn’t have a ton of sugar in it which I love. I also love the size of this one too. It makes just enough for a small brownie tin.  Some recipes call for a huge amount which could feed an army.  You most definitely can double and triple the amounts if you are feeding an army but if not than this recipe is perfect for you as it is for me.
 </br>
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_12.jpg)
 </br>
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_13.jpg)
 </br>
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_14.jpg)
 </br>
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_15.jpg)
 </br>
 </br>
@@ -70,6 +84,7 @@ There are quite a few versions of this recipe and to tell you the truth I’m su
 I  want to experiment with different sweeteners and also try and see if I can make it completely vegan. That is in the works and if I do succeed you better believe I will be sharing it with all of you! In the meantime enjoy this delicious treat!! I view it as the Greek equivalent to a custard filled croissant - buttery, crispy, delicious, cream filled and perfect with your morning beverage. Enjoy!!!
 </br>
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_16.jpg)
 </br>
 </br>
@@ -115,4 +130,5 @@ I  want to experiment with different sweeteners and also try and see if I can ma
 Check out a [video of me putting it together here](https://www.instagram.com/tv/BkbFD5XBCzK/). 
 
 </br>
+
 ![Greek-Style Custard Pastry](/images/uploads/2018_07_19_greek_style_custard_pastry_17.jpg)

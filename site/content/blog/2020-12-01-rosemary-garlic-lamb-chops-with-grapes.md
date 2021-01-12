@@ -15,6 +15,7 @@ description: Delicious pan fried lamb chops seasoned with garlic and rosemary an
 A simple recipe for an impressive main course. Delicious pan fried lamb chops seasoned with garlic and rosemary and served with a sweet and delicious grape sauce. The grape sauce is made with a mixture of grapes, white wine, and just a touch of honey along with the pan juices and is another delicious main dish that combines both savoury and sweet flavours. 
 </br>
 </br>
+
 ![Rosemary Garlic Lamb Chops With Grapes](/images/uploads/2020_12_01_rosemary_garlic_lamb_chops_with_grapes_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ A simple recipe for an impressive main course. Delicious pan fried lamb chops se
 Lamb chops have to be the easiest dish to make. They grill up easily and when you have to put the grill away they pan fry beautifully too. For great tasting lamb it’s important to know what flavours and what seasoning works best with it to compliment it’s unique flavour. Lamb is excellent when seasoned with garlic, rosemary, thyme, oregano, savory, lemon, fennel, mustard and mint, just to name a few of my favorite ways to season it. It also goes well with middle eastern spices that tend to be very warming but also a little more intense. I have included a few other spices I love to use with my lamb in the recipe notes below. They are easy to cook and no reason to be intimidated by them. 
 </br>
 </br>
+
 ![Rosemary Garlic Lamb Chops With Grapes](/images/uploads/2020_12_01_rosemary_garlic_lamb_chops_with_grapes_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ Lamb chops have to be the easiest dish to make. They grill up easily and when yo
 Marinating or putting a rub on the chops ahead of time serves two purposes. It’s an excellent way to pre-salt and season the meat, which helps the chops retain moisture while they cook. Marinating with herbs and garlic gives the lamb also gives them a lot of extra flavour. The rub in this recipe includes fresh rosemary, salt and pepper, and garlic. You could easily substitute other herbs or seasonings if you’d like, such as thyme or oregano. Marinating the lamb for at least 30 minutes, or up to 24 hours if you are making ahead is most ideal. But even a quick 15 minutes will add extra flavour if you are low on time. The extra rosemary and garlic are cooked into the sauce but also cook up with the chops in the oil so they will be infused while they cook as well. 
 </br>
 </br>
+
 ![Rosemary Garlic Lamb Chops With Grapes](/images/uploads/2020_12_01_rosemary_garlic_lamb_chops_with_grapes_4.jpg)
 </br>
 </br>
@@ -86,4 +89,5 @@ I love to serve these with a side salad and either some wild rice, or smashed po
 Adapted from _Food and Wine_
 
 </br>
+
 ![Rosemary Garlic Lamb Chops With Grapes](/images/uploads/2020_12_01_rosemary_garlic_lamb_chops_with_grapes_5.jpg)

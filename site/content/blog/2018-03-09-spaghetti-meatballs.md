@@ -13,6 +13,7 @@ excerpt: Fork-tender meatballs in a deliciously flavourful marinara sauce
 Like many people I am a huge fan of pasta (even gluten free). I can eat it with anything and everything or even plain or for a quick bite-buttered, tossed with fresh tomatoes, feta and drizzled with olive oil and with a lot of cracked black pepper on it.  Mmmmm! Yum! But add meat and a good sauce and it's a whole new level of love!
 </br>
 </br>
+
 ![Spaghetti Meatballs](/images/uploads/2018_03_09_spaghetti_meatballs_2.jpg)
 </br>
 </br>
@@ -20,9 +21,11 @@ Like many people I am a huge fan of pasta (even gluten free). I can eat it with 
 I grew up in an area with a lot of Italians. I mean a lot. The place was called Stoney Creek but often referred to by its nickname Tony's Creek – an ode to how many Italians live there (or lived there – I heard the demographic has changed quite a bit). I have a lot of dear Italian friends that really feel like family to me.  Although the food may have its differences the Italian culture is very similar to Greek culture so really all my friends felt like an extension of my family.
 </br>
 </br>
+
 ![Spaghetti Meatballs](/images/uploads/2018_03_09_spaghetti_meatballs_3.jpg)
 </br>
 </br>
+
 ![Spaghetti Meatballs](/images/uploads/2018_03_09_spaghetti_meatballs_4.jpg)
 </br>
 </br>
@@ -34,6 +37,7 @@ Walking into their homes was always an experience for the senses. Aromas of food
 My friend's mom would make the best arancini or rice balls I have ever had. I had another friend who would make an out of this world tender veal in a fantastic marinara. Just perfection! I can go on about all the amazing food my friends and their mother's make.  I have lots of favorites. Like who's mom made the best pizzelle, the best anginetti, the best pesche dolci, the best pasta etc.... the list of this amazing food can go on and on.
 </br>
 </br>
+
 ![Spaghetti Meatballs](/images/uploads/2018_03_09_spaghetti_meatballs_5.jpg)
 </br>
 </br>
@@ -41,9 +45,11 @@ My friend's mom would make the best arancini or rice balls I have ever had. I ha
 But I will keep things simple with an easy marinara that you can make at home instead of using the store bought. It's perfect for any of your sauce needs. Whether it's just for your pasta, meatballs, lasagna, or anything else you would use a marinara for. You can make it ahead like the day before and just heat it up when you need. I do a big batch when I'm making lasagna and keep some extra for shakshuka or for a cacciatore, or chicken or eggplant parm.
 </br>
 </br>
+
 ![Spaghetti Meatballs](/images/uploads/2018_03_09_spaghetti_meatballs_6.jpg)
 </br>
 </br>
+
 ![Spaghetti Meatballs](/images/uploads/2018_03_09_spaghetti_meatballs_7.jpg)
 </br>
 </br>
@@ -51,6 +57,7 @@ But I will keep things simple with an easy marinara that you can make at home in
 The meatballs are super flavorful so nice and fork-tender. I love them.  My friend is married to an Italian and she ate my meatballs once and asked "how do you get your meatballs to taste so Italian?" Well the answer is ask an Italian how they make their meatballs and follow suit! This is a very basic meatball recipe.  It's also a very flexible one too.  The ratio of bread and breadcrumbs can be altered to taste.  Some people don't like adding the Parmesan cheese to them and that is fine. And you can play up the herbs a little too.  You could also add a third meat like many do. Often added is ground veal. So feel free to add it in or even do all ground beef if you don't have the pork. This is the way I like mine.  You could change and add things to your personal taste. Hope you love these as much as my husband and I do! Let me know what you add to your meatballs and sauce!
 </br>
 </br>
+
 ![Spaghetti Meatballs](/images/uploads/2018_03_09_spaghetti_meatballs_8.jpg)
 </br>
 </br>
@@ -155,4 +162,5 @@ Place the meatballs on a baking sheet drizzle with a little olive oil and bake u
 Adapted from _Giada De Laurentiis_
 </br>
 </br>
+
 ![Spaghetti Meatballs](/images/uploads/2018_03_09_spaghetti_meatballs_9.jpg)

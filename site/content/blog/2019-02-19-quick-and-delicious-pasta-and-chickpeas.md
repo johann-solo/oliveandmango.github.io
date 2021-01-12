@@ -14,6 +14,7 @@ description: An iconic Roman pasta that includes chickpeas. Pasta e ceci has a f
 When it comes to comfort food, nothing is more comforting than pasta. This one in particular is a delicious one that we love to make and is loaded with protein and literally warms the soul on these dark and frigid winter evenings we have been having these days.
 </br>
 </br>
+
 ![Quick and Delicious Pasta and Chickpeas (Pasta e Ceci)](/images/uploads/2019_02_19_quick_and_delicious_pasta_and_chickpeas_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ When it comes to comfort food, nothing is more comforting than pasta. This one i
 This dish is found throughout Italy but believed to have originated in Rome. Each region may have slight variations but the basic three ingredients stand the same no matter the region: pasta, chickpeas and tomatoes. The Roman version usually includes anchovies which are a delicious flavour bomb but I wanted to keep this version vegan/vegetarian so I left them out and amped the flavours via fresh herbs.
 </br>
 </br>
+
 ![Quick and Delicious Pasta and Chickpeas (Pasta e Ceci)](/images/uploads/2019_02_19_quick_and_delicious_pasta_and_chickpeas_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ This dish is found throughout Italy but believed to have originated in Rome. Eac
 Pasta e Ceci is a one pan pasta meaning the pasta and the whole meal cooks all together. The texture of the pasta and thickness of the sauce or broth is really a personal preference. It’s meant to be more of a ‘stoup’ or somewhere between a stew and a soup. Feel free to add more liquid as it cooks down if you like it soupier or let it simmer longer if you would like a bit of a thicker sauce. The longer the dish sits, the thicker the sauce gets so if you are reheating do add a bit of broth to it or a splash of water to loosen up the sauce.
 </br>
 </br>
+
 ![Quick and Delicious Pasta and Chickpeas (Pasta e Ceci)](/images/uploads/2019_02_19_quick_and_delicious_pasta_and_chickpeas_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ Pasta e Ceci is a one pan pasta meaning the pasta and the whole meal cooks all t
 I was introduced to pasta e ceci by my friend's mother. I was quite young and was over having a play date and she had prepared this for us. I inhaled it I remember, and had seconds. I have always been a good eater. There was something familiar about it, it reminded me of manestra or _krytharaki_, a Greek dish made with orzo and prepared in a similar way, minus the chickpeas. The pasta is cooked in the sauce the same way. It’s a dish I love and its the dish I thought of as I ate the delicious bowl of pasta and chickpeas that very first time.
 </br>
 </br>
+
 ![Quick and Delicious Pasta and Chickpeas (Pasta e Ceci)](/images/uploads/2019_02_19_quick_and_delicious_pasta_and_chickpeas_5.jpg)
 </br>
 </br>
@@ -43,6 +47,7 @@ I was introduced to pasta e ceci by my friend's mother. I was quite young and wa
 I have mentioned this before I’m sure, I usually have gluten free pasta if I am going to have pasta at all. Pasta is the one thing that affects me when it comes to gluten, more than bread, although even when it comes to bread I stick to whole grain, sprouted and sourdough. The pasta dishes you see on the blog are usually made with gluten free pasta or they are for my family to enjoy who don’t have any issues with gluten.
 </br>
 </br>
+
 ![Quick and Delicious Pasta and Chickpeas (Pasta e Ceci)](/images/uploads/2019_02_19_quick_and_delicious_pasta_and_chickpeas_6.jpg)
 </br>
 </br>
@@ -50,6 +55,7 @@ I have mentioned this before I’m sure, I usually have gluten free pasta if I 
 That being the case I’m super happy that my partnership with _GoGo Quinoa_ has continued and I got to use their pasta to make some of my favourite dishes. I used their <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/cauliflower-fusilli">GoGo Quinoa Organic Cauliflower Fusilli</a></span> for this one and I loved the texture (hubby did too and he is hard to please when it comes to GF goods) and it went really well with this dish. Bonus - this pasta is not just a great source of fiber and protein but there is a &frac12; portion of vegetables per 85 grams of it, so you get some veggies in per serving. I’m always pleased with all their products and always excited to try the different varieties of pastas they offer, and so very happy to be working with them.
 </br>
 </br>
+
 ![Quick and Delicious Pasta and Chickpeas (Pasta e Ceci)](/images/uploads/2019_02_19_quick_and_delicious_pasta_and_chickpeas_7.jpg)
 </br>
 </br>
@@ -57,6 +63,7 @@ That being the case I’m super happy that my partnership with _GoGo Quinoa_ has
 This is a hearty dish that is quick and easy to make. It’s budget friendly and although it’s authentically made using dry chickpeas, using canned is totally acceptable and makes for a quick dinner to warm and fill your belly. The finishing oil is a total must. It adds some luscious flavour to the dish and you wont regret making it. Hope you love this comforting Italian classic dish as much a we do!
 </br>
 </br>
+
 ![Quick and Delicious Pasta and Chickpeas (Pasta e Ceci)](/images/uploads/2019_02_19_quick_and_delicious_pasta_and_chickpeas_8.jpg)
 </br>
 </br>
@@ -64,6 +71,7 @@ This is a hearty dish that is quick and easy to make. It’s budget friendly and
 This post is in partnership with _GoGo Quinoa_. All thoughts and views are my own. Thanks for supporting the brands that make Olive & Mango possible. 
 </br>
 </br>
+
 ![Quick and Delicious Pasta and Chickpeas (Pasta e Ceci)](/images/uploads/2019_02_19_quick_and_delicious_pasta_and_chickpeas_9.jpg)
 </br>
 </br>
@@ -113,4 +121,5 @@ __To make finishing oil__
 Adapted from _The Tasting Table_ and finishing oil from _Smitten Kitchen_
 
 </br>
+
 ![Quick and Delicious Pasta and Chickpeas (Pasta e Ceci)](/images/uploads/2019_02_19_quick_and_delicious_pasta_and_chickpeas_10.jpg)

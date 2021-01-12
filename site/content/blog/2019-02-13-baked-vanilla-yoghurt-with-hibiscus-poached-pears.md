@@ -14,6 +14,7 @@ description: This baked vanilla yoghurt with hibiscus poached pears is a perfect
 If you have never had baked yoghurt before I strongly recommend it. It tastes like a cross between panna cotta and cheesecake filling. It’s rich, creamy and sweet. Not overpowering in sweetness though. The sweetness is balanced with the slight tanginess of the yoghurt. The combination of all the flavours makes it the perfect creamy dessert that goes really well with roasted or poached fruit.
 </br>
 </br>
+
 ![Baked Vanilla Yoghurt With Hibiscus Poached Pears](/images/uploads/2019_02_13_baked_vanilla_yoghurt_with_hibiscus_poached_pears_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ If you have never had baked yoghurt before I strongly recommend it. It tastes li
 When we moved back to Canada from Trinidad last year in June, one of the things I made sure to bring was a pack of dried sorrel mix. Sorrel in Trinidad refers to roselle which is a species of Hibiscus. It’s quite tart and like other species of hibiscus, stains anything that gets steeped with it or married with it a brilliant pink to red tone. It’s wonderful and vibrant. In Trinidad the sorrel packs are filled with dried roselle flowers and some lovely fragrant spices and commonly made into a drink. [Check my recipe for this drink](https://www.oliveandmango.com/winter-sorrel-hibiscus-margarita/) and more on what the flowers look like on the blog.
 </br>
 </br>
+
 ![Baked Vanilla Yoghurt With Hibiscus Poached Pears](/images/uploads/2019_02_13_baked_vanilla_yoghurt_with_hibiscus_poached_pears_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ When we moved back to Canada from Trinidad last year in June, one of the things 
 I knew I would miss the sorrel season as I would be in Canada so I stocked up on a few packs. I just flew back from Trinidad after a whirlwind 6 day trip and I promised myself that I would remember to bring back more but I totally forgot, so I’m totally kicking myself for forgetting. We will likely have to go back soon so it will be high on my list of things to get while I’m there.
 </br>
 </br>
+
 ![Baked Vanilla Yoghurt With Hibiscus Poached Pears](/images/uploads/2019_02_13_baked_vanilla_yoghurt_with_hibiscus_poached_pears_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ I knew I would miss the sorrel season as I would be in Canada so I stocked up on
 Something so sweet and rich as this baked yoghurt deserves a slightly tart and fragrant accompaniment. That is how these hibiscus poached pears came about. The hibiscus gives them this deep yet vibrant red hue which also looks wonderful with the baked yoghurt. It makes for an exquisite looking dessert that looks like hours was spent on it when it only took minutes to prep.
 </br>
 </br>
+
 ![Baked Vanilla Yoghurt With Hibiscus Poached Pears](/images/uploads/2019_02_13_baked_vanilla_yoghurt_with_hibiscus_poached_pears_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ Something so sweet and rich as this baked yoghurt deserves a slightly tart and f
 Don’t be too intimidated when it comes to coring the pears. Coring them is optional and more instructions can be found below on other ways to prep them to make your life easier. I like my poached pears to be slightly boozy so I added some red wine to mine but that isn’t necessary if you wanted to keep them non alcoholic. A friend of mine suggested using sorrel or hibiscus port wine instead of regular red wine and I thought that would be genius and add even more of that sorrel flavour to them, so if you can get your hands on something like that, definitely sub the red wine out for it. Feel free to use any sweetener to poach them with, and adjust sweetness to taste. I didn’t overly sweeten them because I was serving them up with this sweet and rich baked yoghurt. If you were serving them with a creme anglaise or a just with a simple dollop of whip then you may want to sweeten them further.
 </br>
 </br>
+
 ![Baked Vanilla Yoghurt With Hibiscus Poached Pears](/images/uploads/2019_02_13_baked_vanilla_yoghurt_with_hibiscus_poached_pears_6.jpg)
 </br>
 </br>
@@ -49,6 +54,7 @@ Don’t be too intimidated when it comes to coring the pears. Coring them is opt
 This is such a tasty dessert and those beautiful hibiscus poached pears make it quite the show stopping dessert. I call this a Winter Panna Cotta because it’s baked and delicious and really and truly goes with any fruit you would like to add to it. It's a hit at home as we are all lovers of yoghurt in our house and also because it is so darn simple to make and turns out delicious every time. Can’t recommend it enough. Hope you try it - I know you’ll love it!
 </br>
 </br>
+
 ![Baked Vanilla Yoghurt With Hibiscus Poached Pears](/images/uploads/2019_02_13_baked_vanilla_yoghurt_with_hibiscus_poached_pears_7.jpg)
 </br>
 </br>
@@ -106,4 +112,5 @@ Makes 1 shallow 9 inch pie/tart dish or 4 small to medium ramekins
 &ast;&ast; To core the pears while keeping them intact, you can use a melon baller to scoop out just the part of the core that has the seeds in it. You can use a corer and a small knife or sharp-edged spoon as well. If you are too worried about ruining the pears, you can skip this step and poach them whole with the core and just remove it as you eat. Another option is to halve the pears lengthways and scoop out the core from each half, then poach the halves (you will need to reduce the cooking time by 10-12 minutes as they will poach a lot faster this way).
 
 </br>
+
 ![Baked Vanilla Yoghurt With Hibiscus Poached Pears](/images/uploads/2019_02_13_baked_vanilla_yoghurt_with_hibiscus_poached_pears_8.jpg)

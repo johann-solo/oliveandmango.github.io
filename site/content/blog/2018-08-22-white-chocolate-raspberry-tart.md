@@ -14,15 +14,19 @@ description: A delicious white chocolate raspberry tart with the vegan option. T
 White chocolate and raspberries go together in the dessert world like chocolate and hazelnut. They are the perfect match. The white chocolate is rich and sweet and creamy and the raspberries have a very shy kind of sweetness overpowered by their more pronounced tartness. They cut through the richness of the white chocolate and wake up your taste buds with fruitiness. The base of both the vegan and non vegan tarts is wonderful. Buttery tasting and the perfect sweet, crispy, crumbly crust for these decadent tarts.
 </br>
 </br>
+
 ![White Chocolate Raspberry Tart](/images/uploads/2018_08_22_white_chocolate_raspberry_tart_2.jpg)
 </br>
 </br>
+
 ![White Chocolate Raspberry Tart](/images/uploads/2018_08_22_white_chocolate_raspberry_tart_3.jpg)
 </br>
 </br>
+
 ![White Chocolate Raspberry Tart](/images/uploads/2018_08_22_white_chocolate_raspberry_tart_4.jpg)
 </br>
 </br>
+
 ![White Chocolate Raspberry Tart](/images/uploads/2018_08_22_white_chocolate_raspberry_tart_5.jpg)
 </br>
 </br>
@@ -30,15 +34,19 @@ White chocolate and raspberries go together in the dessert world like chocolate 
 Why the vegan option? Two reasons really. A lot of you guys ask me for vegan options and I love to experiment with certain recipes that I think I can convert. It’s like a little challenge and sometimes I like a good challenge. Secondly my mother in law is vegan, and although I have yet to share anything vegan that I have made with her - when I’m making something vegan I always ask myself If my mother in law would like it and eat it. So there, now you know.
 </br>
 </br>
+
 ![White Chocolate Raspberry Tart](/images/uploads/2018_08_22_white_chocolate_raspberry_tart_6.jpg)
 </br>
 </br>
+
 ![White Chocolate Raspberry Tart](/images/uploads/2018_08_22_white_chocolate_raspberry_tart_7.jpg)
 </br>
 </br>
+
 ![White Chocolate Raspberry Tart](/images/uploads/2018_08_22_white_chocolate_raspberry_tart_8.jpg)
 </br>
 </br>
+
 ![White Chocolate Raspberry Tart](/images/uploads/2018_08_22_white_chocolate_raspberry_tart_9.jpg)
 </br>
 </br>
@@ -46,15 +54,19 @@ Why the vegan option? Two reasons really. A lot of you guys ask me for vegan opt
 It would really be hard to choose which one I prefer best. They both have unique and delicious things about them. My mother and father (both not vegan) both preferred the vegan one as they found the non vegan was a little rich for them. They loved it but found the vegan one a little lighter. If you twisted my arm and made me choose I would say the non vegan one because I love how the white chocolate ganache gets a little oozey when it comes to room temperature. I loved the vegan one too because it has a lighter filling and I love the very subtle hint of coconut oil from the crust and the cocoa butter is just divine. Let’s put it this way - I could have a full slice of the vegan one easily but only half of the non vegan as it’s also too rich and decadent for me. My brother and husband on the other hand could eat two of those non vegan ones and still have a hankering for more. They definitely love their rich, decadent and sweet things.
 </br>
 </br>
+
 ![White Chocolate Raspberry Tart](/images/uploads/2018_08_22_white_chocolate_raspberry_tart_10.jpg)
 </br>
 </br>
+
 ![White Chocolate Raspberry Tart](/images/uploads/2018_08_22_white_chocolate_raspberry_tart_11.jpg)
 </br>
 </br>
+
 ![White Chocolate Raspberry Tart](/images/uploads/2018_08_22_white_chocolate_raspberry_tart_12.jpg)
 </br>
 </br>
+
 ![White Chocolate Raspberry Tart](/images/uploads/2018_08_22_white_chocolate_raspberry_tart_13.jpg)
 </br>
 </br>
@@ -62,6 +74,7 @@ It would really be hard to choose which one I prefer best. They both have unique
 Both are perfect for making ahead and would be great for a dinner party! The non vegan one has a wonderful crust but requires that the crust be rolled out for each individual tart. The vegan one just needs to be mixed and the pressed into the mold which makes it slightly easier and quicker to make. Both are delightful and both can be made with any berry as a substitute for raspberries if you would prefer something different or you just don’t have them available. We all truly loved them both and I think it’s great to always have a vegan tart up your sleeve for those occasions where you might be entertained by or entertaining someone who is vegan.
 </br>
 </br>
+
 ![White Chocolate Raspberry Tart](/images/uploads/2018_08_22_white_chocolate_raspberry_tart_14.jpg)
 </br>
 </br>
@@ -234,4 +247,5 @@ This ganache tart has no thickening agent or anything added to it to set the fil
 </br>
 <a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
+
 ![White Chocolate Raspberry Tart](/images/uploads/2018_08_22_white_chocolate_raspberry_tart_15.jpg)

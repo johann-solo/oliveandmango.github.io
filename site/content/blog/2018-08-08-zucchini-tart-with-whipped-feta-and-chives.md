@@ -12,12 +12,15 @@ excerpt: A savoury tart filled with the taste of Summer
 Two things that are great to have on hand at anytime are puff pastry and whipped feta. Both are so perfect for last minute dinner parties or guests and can be topped with either savoury or sweet things. Both are so versatile and they also go extremely well together too! If you do have the time to make your own - that is awesome and I have a great recipe that I use when I have the time (which is almost never) [here](https://www.oliveandmango.com/leek-and-pancetta-turnover/). If not than definitely feel free to use the store bought stuff! There is absolutely no shame in it.
 </br>
 </br>
+
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_2.jpg)
 </br>
 </br>
+
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_3.jpg)
 </br>
 </br>
+
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_4.jpg)
 </br>
 </br>
@@ -25,12 +28,15 @@ Two things that are great to have on hand at anytime are puff pastry and whipped
 There are plenty of zucchinis everywhere and although our garden is scant of them this year, our friends gardens are not and we have been veery happy recipients of large amounts of them from them. I decided to make a few recipes with all the zucchinis. This is one of three recipes I made. The first was zucchini fritters which are actually a childhood favourite of mine and are [on the blog here](https://www.oliveandmango.com/zucchini-fritters/). This tart was the second and the third is a ridiculously good dark and rich chocolate chunk zucchini bread that is going to be up on the blog soon. In the meantime let’s talk about this super easy and delicious tart of mine.
 </br>
 </br>
+
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_5.jpg)
 </br>
 </br>
+
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_6.jpg)
 </br>
 </br>
+
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_7.jpg)
 </br>
 </br>
@@ -38,12 +44,15 @@ There are plenty of zucchinis everywhere and although our garden is scant of the
 I chose small sweet tender zucchini for this tart because they shine in this recipe and you don’t want them overly mushy and you also want them to have some sweetness. I chose the multi-coloured ones for the visuals but definitely not required. Use whichever one you would like.
 </br>
 </br>
+
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_8.jpg)
 </br>
 </br>
+
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_9.jpg)
 </br>
 </br>
+
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_10.jpg)
 </br>
 </br>
@@ -51,12 +60,15 @@ I chose small sweet tender zucchini for this tart because they shine in this rec
 The whipped feta is pure heaven and it was quite difficult not to eat it by the spoonful as I scooped it out of the food processor. It’s creamy and it has the brininess of the feta with some coolness and slight tang from the cream cheese. It’s a delicious blend of the two, making the creamiest of spreads. I slather is on toast and eat it just like that but it’s great topped with tomatoes and even sliced peaches or roasted grapes. It’s also great in this tart. Make sure to make a double portion so you have enough for the tarts and more for slathering on toast or eating by the spoonful.
 </br>
 </br>
+
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_11.jpg)
 </br>
 </br>
+
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_12.jpg)
 </br>
 </br>
+
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_13.jpg)
 </br>
 </br>
@@ -64,6 +76,7 @@ The whipped feta is pure heaven and it was quite difficult not to eat it by the 
 This tart bakes up quick and easy and will be loved by your family and whoever you serve it too. It’s great as an appetiser, a snack and we had them as a light dinner with a big salad on the side - cause what’s better than a dinner like that in the summer months? Enjoy!
 </br>
 </br>
+
 ![Zucchini Tart With Whipped Feta and Chives](/images/uploads/2018_08_08_zucchini_tart_with_whipped_feta_and_chives_14.jpg)
 </br>
 </br>

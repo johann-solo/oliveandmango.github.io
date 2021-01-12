@@ -14,6 +14,7 @@ description: A quintessential Philippine stew, served with rice both at daily me
 This is a great recipe by Jenny for this classic Filipino dish that requires very simple ingredients and can be done in less than an hour. It’s simple to make and the flavours are wonderful and get better the longer this dish stays in the fridge. 
 </br>
 </br>
+
 ![Chicken Adobo](/images/uploads/2020_01_21_chicken_adobo_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This is a great recipe by Jenny for this classic Filipino dish that requires ver
 This is the first dish she cooked for her husband Will and he loved it. Reminded me of one of my friends who is Filipino and this too was the first dish she made for her husband. It’s been on my list to try and I gravitated to it when I spotted it in Jenny’s book Easy Keto Meal Prep. Adobo refers to a method of marinating and stewing meat or fish in a briny mixture of vinegar, soy sauce, and spices. Filipino adobo is not the same as spicy Spanish adobo sauce or the chilies. For such little effort and prep you have a very flavourful chicken in a very tasty sauce that leaves you wanting more and more. 
 </br>
 </br>
+
 ![Chicken Adobo](/images/uploads/2020_01_21_chicken_adobo_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ This is the first dish she cooked for her husband Will and he loved it. Reminded
 Let me tell you more about Jenny’s fabulous book.  I have been following Jenny for a while now on Instagram (@cookandsavor) and she has always been a source of inspiration when it comes to meal prepping. She is a pro at it and shares all her meal prep tips and recipes on Sunday’s as that is when she meal preps. Although this book is keto - based (healthy balanced keto meals not just bacon and butter coffee as Jenny says) it’s really a great book for all if you aren’t opposed to including meat in your diet. Her recipes are and have always been fabulous looking and her food always look wonderful too. She shares these recipes in her well organized book along with all her meal plan tricks and tips to make meal planning easy, efficient and using basic grocery store items that are easy to find. 
 </br>
 </br>
+
 ![Chicken Adobo](/images/uploads/2020_01_21_chicken_adobo_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ Let me tell you more about Jenny’s fabulous book.  I have been following Jenny
 Her book includes 4 weeks of healthy ketogenic meal plans with over 100 simple recipes for any day of the week. Eating this way with all the meal planning and prepping is not only a very balanced and healthy way of eating but it saves you so much time during the week and is also cheaper as you eat out less and waste less food because you are buying items that are part of your meal plan. She shares these recipes along with recipes for all the sauces she uses in them. She also has all the info you need about how long things keep when you prep the recipes and how they should be stored which is so practical when you are meal prepping. There are so many recipe I have yet to try that I’m very excited about like her simple Kung Pao chicken, instant pot Beef Barbacoa, chicken korma, five spice meatballs, crispy carnitas and the list goes on you guys! 
 </br>
 </br>
+
 ![Chicken Adobo](/images/uploads/2020_01_21_chicken_adobo_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ Her book includes 4 weeks of healthy ketogenic meal plans with over 100 simple r
 There are so many tasty recipes and so much inspo for how to meal prep. Along with the recipes she has the meals planned out for you with several variations to keep things interesting. Each week is categorized by what’s on the menu, separated into sides, condiments and main dishes followed by a full 7-day meal plan and an option to meal prep all on one day or between two days. Then there’s a grocery list provided, game plan, and then a step by step of what the meal prep involves plus a spot for you to make notes. 
 </br>
 </br>
+
 ![Chicken Adobo](/images/uploads/2020_01_21_chicken_adobo_6.jpg)
 </br>
 </br>
@@ -77,4 +82,5 @@ Serves 8
 1. Add the coconut milk and the chilies if using. Stir to combine. Simmer uncovered until the sauce is reduced by half, 8-10 minutes, stirring occasionally and then serve
 
 </br>
+
 ![Chicken Adobo](/images/uploads/2020_01_21_chicken_adobo_7.jpg)

@@ -14,6 +14,7 @@ description: Tender roasted poblanos filled with southwestern flavours and loade
 These stuffed poblanos are loaded with delicious southwestern flavours that I love. From the smokey chorizo to the tomatoes, corn and beans. These ones are stuffed  with quinoa too which adds a little more nutritional value to these stuffed peppers plus some extra texture too. They are finished off with melty cheese and then loaded with all the fixings. They are usually gone fast in our home but if there are any leftovers to fight over the next day, they reheat beautifully. 
 </br>
 </br>
+
 ![Easy Stuffed Poblano Peppers](/images/uploads/2020_04_06_easy_stuffed_poblano_peppers_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ These stuffed poblanos are loaded with delicious southwestern flavours that I lo
 Poblanos are mild chili peppers originating in Mexico, and when dried are called ancho chile peppers. They are generally mild in flavor, but occasionally and unpredictably just like shishito peppers, can have significant heat. They are large like a green bell pepper but are skinnier and have a narrow and pointy tip, similar to jalapeños. Roasting is one of the best ways to cook poblano peppers since this allows their fruity flavors to shine. Grilling them is also a great way to have them. 
 </br>
 </br>
+
 ![Easy Stuffed Poblano Peppers](/images/uploads/2020_04_06_easy_stuffed_poblano_peppers_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ Poblanos are mild chili peppers originating in Mexico, and when dried are called
 There are so many ways to stuff poblanos just like there are so many ways to stuff regular peppers. We loved using chorizo for the meat component but you can use any sausage or ground meat. We always have a bit of cooked quinoa hanging out in the fridge and I thought it adds a nice texture to the filling and extra protein too. You can easily substitute it for any other cooked  grain you like though. 
 </br>
 </br>
+
 ![Easy Stuffed Poblano Peppers](/images/uploads/2020_04_06_easy_stuffed_poblano_peppers_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ There are so many ways to stuff poblanos just like there are so many ways to stu
 These stuffed peppers they are pretty mild  when it comes to heat levels. You can make them as spicy or mild as you like though. We love our heat - so spicy chorizo it is for us - but you can use a mild sausage or any ground meat you have on hand. You can also forego the jalapeño pepper and the chili powder too if you can’t do too much heat. They will still be delicious no matter the level of heat you make them in. 
 </br>
 </br>
+
 ![Easy Stuffed Poblano Peppers](/images/uploads/2020_04_06_easy_stuffed_poblano_peppers_5.jpg)
 </br>
 </br>
@@ -44,6 +48,7 @@ These stuffed peppers they are pretty mild  when it comes to heat levels. You ca
 They make great appetizers or starters but you can easily make a meal out of these guys. I like to serve mine with a side salad and maybe some chips and salsa on the side. Enjoy! 
 </br>
 </br>
+
 ![Easy Stuffed Poblano Peppers](/images/uploads/2020_04_06_easy_stuffed_poblano_peppers_6.jpg)
 </br>
 </br>
@@ -86,4 +91,5 @@ Cilantro, salsa, sour cream for serving
 No poblanos, no problem - swap them out for sweet green peppers or hatch chilies. Substitute diced tomatoes for salsa if you want a little more of a  zesty kick. You can also substitute the chorizo or Italian sausage with ground beef, turkey or chicken or keep it meatless if you want a vegetarian option 
 
 </br>
+
 ![Easy Stuffed Poblano Peppers](/images/uploads/2020_04_06_easy_stuffed_poblano_peppers_7.jpg)

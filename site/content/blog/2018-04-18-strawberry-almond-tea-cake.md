@@ -24,9 +24,11 @@ I have to say that when I was planning on making this cake, which is actually a 
 Let's just put it this way – I am not one for cakes (maybe a bite here and there because I always want to taste them), but this one had me going for a whole piece and then some.  I actually think it's because I don't have a sweet tooth when it comes to cakes.  I find they are always super sweet and I can only really handle a bite or two- probably the reason I'm so fond of cupcakes. This cake differs in that it's not overly sweet. It smells sweet and tastes sweet without the zing or sugar rush to your taste buds.
 </br>
 </br>
+
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_5.jpg)
 </br>
 </br>
+
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_6.jpg)
 </br>
 </br>
@@ -34,12 +36,15 @@ Let's just put it this way – I am not one for cakes (maybe a bite here and the
 I have never tried it with all almond flour. I have only used the almond meal and AP flour version as well as the gluten free version using all almond meal or ground almonds.  The difference with that gluten free version is that the cake isn't as light.  It's a little denser but the flavours are still exactly the same.  I am not gluten free so I haven't experimented with any other gluten free flours but I'm sure this would work beautifully with all almond flour or possibly even coconut flour. If you have any alterantives i would love to get your input. 
 </br>
 </br>
+
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_7.jpg)
 </br>
 </br>
+
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_8.jpg)
 </br>
 </br>
+
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_9.jpg)
 </br>
 </br>
@@ -47,12 +52,15 @@ I have never tried it with all almond flour. I have only used the almond meal an
 The reaction between the acidity of the orange juice and the baking soda and powder give it it's extra lift, so one of the recipes I was comparing this one too gave some good advice especially if you're going to make it fully gluten free with the almond meal or GF flour. As soon as you fold in the dry ingredients to the wet don't dilly dally, top it with the berries and almond flakes and put it right into the oven so that it holds its lift or airiness created by the chemical reaction.
 </br>
 </br>
+
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_10.jpg)
 </br>
 </br>
+
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_11.jpg)
 </br>
 </br>
+
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_12.jpg)
 </br>
 </br>
@@ -60,6 +68,7 @@ The reaction between the acidity of the orange juice and the baking soda and pow
 I serve this dusted with some powdered sugar and with coconut whip cream (recipe below) and extra berries. A quick and easy recipe! Simply, perfect for Spring and Summer when fresh berries are in abundance! If you live in a place where fresh berries are not in abundace like I do at the moment, then definity use frozen. That is what I use and it always turns out fabulously. This time around making it, I garnished with strawberry chips, which are really over the top but I was inspired by my friend Jennifer over at The lemon apron and used Martha Stewart's recipe for them. I used frozen berries to make the chips which took a little more time to dry and dehydrate but they turned out soo good and looked so pretty. The recipe I used is included below. You just need a bit of patience to make them but its so worth the extra effort I promise. Enjoy!
 </br>
 </br>
+
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_13.jpg)
 </br>
 </br>

@@ -14,6 +14,7 @@ description: A delicous easy to make Fall cocktail. This Apple cider ginger beer
 Every season should include a cocktail. Truly nothing says Fall better than apples and spice and so I thought this apple cider based cocktail is the perfect autumnal cocktail and there’s bourbon in it folks so you know it’s going to be good! I’m thinking up some winter ones too. Winter ones are my favourite as the season is full of citrus, not to mention cranberries and pomegranate. I love citrus cocktails so stay tuned! In the meantime the recipe for this cocktail is below.
 </br>
 </br>
+
 ![Apple Cider Ginger Beer Punch](/images/uploads/2018_11_19_apple_cider_ginger_beer_punch_2.jpg)
 </br>
 </br>
@@ -42,4 +43,5 @@ Makes 2
 1. Garnish with apple slices and Enjoy!🥃
 
 </br>
+
 ![Apple Cider Ginger Beer Punch](/images/uploads/2018_11_19_apple_cider_ginger_beer_punch_3.jpg)

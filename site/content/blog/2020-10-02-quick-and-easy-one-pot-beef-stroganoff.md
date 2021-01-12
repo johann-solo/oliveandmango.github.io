@@ -14,6 +14,7 @@ description: Creamy beef stroganoff made with ground beef and egg noodles all in
 This creamy beef stroganoff made with ground beef and egg noodles all made in one pan is comfort food at its finest. This classic saucy Russian dish is traditionally made with sliced beef and finished with a healthy dose of sour cream. This easy weeknight version uses ground beef instead which is browned and then simmered with paprika, wine, beef broth, and browned mushrooms. Dried egg noodles are tossed right into the pot to cook until tender, and sour cream is stirred in at the end to finish the creamy sauce.
 </br>
 </br>
+
 ![Quick and Easy One Pot Beef Stroganoff](/images/uploads/2020_10_02_quick_and_easy_one_pot_beef_stroganoff_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This creamy beef stroganoff made with ground beef and egg noodles all made in on
 Stroganoff sauce is a sour cream gravy made with beef broth that’s thickened with flour. It’s flavoured with mustard. It’s so simple yet so pleasing - keeps you wanting more. This is the most requested meal by my hubby - and I thought I should get it on the blog ASAP because it’s one of those recipes that is so simple and that anyone can make including him - and if it’s on the blog he really has no excuse. My husband calls meals like this ‘bachelor delights’ definition: easy and quick to make delicious eats that make great leftovers.  I have had some of the meals he considers bachelor delights and I got to say this is definitely better than his ‘curry surprise’ (don’t even ask) but just as easy and looks a lot fancier if you are making it for others. 
 </br>
 </br>
+
 ![Quick and Easy One Pot Beef Stroganoff](/images/uploads/2020_10_02_quick_and_easy_one_pot_beef_stroganoff_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ Stroganoff sauce is a sour cream gravy made with beef broth that’s thickened w
 I think the traditional method of making it with sliced steak is absolutely delicious and perfect but I decided to make a ground beef version for two important reasons. Most of us have some ground beef/meat stocked in the freezer over steak. The second is that it’s harder to over cook ground beef than it is steak - harder to mess up really - and this version turns out perfect every time. 
 </br>
 </br>
+
 ![Quick and Easy One Pot Beef Stroganoff](/images/uploads/2020_10_02_quick_and_easy_one_pot_beef_stroganoff_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ I think the traditional method of making it with sliced steak is absolutely deli
 I also love this version because the whole meal is made in one pan - aren’t one pan meals the best?!? They really save the day on those busy days or on those days when you just want a low fuss dinner. This is one of those meals. Add a salad and you are done. It’s also quick. Done in under 30 minutes. Sold on it yet? If you wanted to use a different ground meat in place of the beef that is totally fine. If you wanted to make it meatless that is fine too. I would double the amount of mushrooms for extra flavour and texture. We love mushrooms in stroganoff sauce and there are times we make it with just mushrooms and love it that way too. You could also use any noodles in place of the egg noodles and even gluten free noodles too. I love egg noodles so I’m pretty partial to them but any pasta would work. 
 </br>
 </br>
+
 ![Quick and Easy One Pot Beef Stroganoff](/images/uploads/2020_10_02_quick_and_easy_one_pot_beef_stroganoff_5.jpg)
 </br>
 </br>
@@ -88,4 +92,5 @@ This is a super simple one pan dish I think you guys are going to love. I know y
 Adapted from _Food Network_
 
 </br>
+
 ![Quick and Easy One Pot Beef Stroganoff](/images/uploads/2020_10_02_quick_and_easy_one_pot_beef_stroganoff_6.jpg)

@@ -14,9 +14,11 @@ description: Rich and creamy salmon pasta salad loaded with veggies and with a t
 This bright and flavorful smoked salmon pasta salad with arugula, peas and asparagus and a creamy tangy yoghurt dressing is done and ready in under 20 minutes and sure to become a summertime favorite. My husband loves smoked salmon and can eat it on its own. He especially loves it over cream cheese and a bagel. I thought I would combine those same flavours, switch out the carb and add some extra greens and veggies to make this a full meal or also a great side. Feel free to use any shape pasta you prefer I just recommend it’s a short pasta. I’m partial to shells and I always use gluten free pasta but you can use regular pasta too - cooked according to the package directions. I cook mine 1 minute longer usually when I’m making pasta salad because as pasta cools it’s starch and texture changes and this can give cooled/chilled pasta the texture of undercooked pasta. So an extra minute of boiling is quite fine or even recommended. 
 </br>
 </br>
+
 ![Smoked Salmon Pasta Salad](/images/uploads/2020_07_28_smoked_salmon_pasta_salad_2.jpg)
 </br>
 </br>
+
 ![Smoked Salmon Pasta Salad](/images/uploads/2020_07_28_smoked_salmon_pasta_salad_3.jpg)
 </br>
 </br>
@@ -24,9 +26,11 @@ This bright and flavorful smoked salmon pasta salad with arugula, peas and aspar
 It’s such a delicious make-ahead recipe perfect for a summer picnic, bbq or lunch. It can easily be doubled to feed a crowd at a potluck or any larger gathering. If I’m making this ahead of time I usually make it the morning I plan to serve it or overnight and usually hold off on adding the arugula until just before serving so that it doesn’t wilt overnight. If arugula isn’t your favorite thing you can easy swap it out for baby kale which holds up in a pasta salad well or you can use baby spinach also for a mellower green. I love my pasta salad loaded so I went with the peas and asparagus but this is just as good with just the pasta and the salmon and the luscious yoghurt dressing. The peas and asparagus are an easy and fab addition and are cooked right in the same pot as the pasta, and the dressing can easily be whipped up in the serving bowl. Then simply toss and enjoy. It's the perfect fresh and lighter dinner or lunch option and makes a great brunch option too. 
 </br>
 </br>
+
 ![Smoked Salmon Pasta Salad](/images/uploads/2020_07_28_smoked_salmon_pasta_salad_4.jpg)
 </br>
 </br>
+
 ![Smoked Salmon Pasta Salad](/images/uploads/2020_07_28_smoked_salmon_pasta_salad_5.jpg)
 </br>
 </br>
@@ -78,4 +82,5 @@ __For the creamy tangy yoghurt dressing__
 1. Pour the dressing over the pasta mixture and stir to thoroughly incorporate. Cover the bowl with plastic wrap and refrigerate for at least 1 hour before serving. Taste the salad again for seasoning before serving, adding more salt or pepper if needed.
 
 </br>
+
 ![Smoked Salmon Pasta Salad](/images/uploads/2020_07_28_smoked_salmon_pasta_salad_6.jpg)

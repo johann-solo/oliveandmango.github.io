@@ -14,6 +14,7 @@ description: Light crisp and delicious zucchini fritters with tzatziki dipping s
 These Greek style zucchini fritters (KOLOKITHOKEFTEDES) are tender on the inside and crispy on the outside. They are loaded with fresh herbs and even a bit of cheese. There are so many zucchini fritters recipes out there but these Greek style ones are my favorite. They are easy to make and are pan fried lightly to make them just crispy enough without absorbing too much oil. 
 </br>
 </br>
+
 ![Zucchini Fritters](/images/uploads/2018_07_24_zucchini_fritters_2.jpg)
 </br>
 </br>
@@ -21,12 +22,15 @@ These Greek style zucchini fritters (KOLOKITHOKEFTEDES) are tender on the inside
 These always remind of me of summer as a kid. We loved coming inside from a day playing outside to find a stack of these waiting for us to enjoy. My dad was and is an avid gardener. Since his knee replacement happened during gardening prep time, his garden this year is pretty much non existent other than garlic and the odd strawberry and blackberry. But in the past it’s been loaded with peppers, zucchini, tomatoes, chives, onions, garlic just to name a few. There was always so much zucchini small and large. We would eat it slice and grilled, pan fried and in these delicious fritters. This time I had some extra from a recipe I was making with them and I thought I would make them with my mom for old time sake, plus they are delicious and I could finally nail down a measured recipe for you all. 
 </br>
 </br>
+
 ![Zucchini Fritters](/images/uploads/2018_07_24_zucchini_fritters_3.jpg)
 </br>
 </br>
+
 ![Zucchini Fritters](/images/uploads/2018_07_24_zucchini_fritters_4.jpg)
 </br>
 </br>
+
 ![Zucchini Fritters](/images/uploads/2018_07_24_zucchini_fritters_5.jpg)
 </br>
 </br>
@@ -34,12 +38,15 @@ These always remind of me of summer as a kid. We loved coming inside from a day 
 The most important thing when it comes to making these Greek style fritters is making sure you have almost no moisture left in them so be prepared to use some muscles when prepping these little guys. I usually wring them out by hand first and then use paper towels to wring then out dry as well. Too much moisture means soggy fritters and you don’t want that. Sweating them by adding a little salt and letting them sit for 10 minutes helps a lot as the salt draws out moisture and then you wring them out. 
 </br>
 </br>
+
 ![Zucchini Fritters](/images/uploads/2018_07_24_zucchini_fritters_6.jpg)
 </br>
 </br>
+
 ![Zucchini Fritters](/images/uploads/2018_07_24_zucchini_fritters_7.jpg)
 </br>
 </br>
+
 ![Zucchini Fritters](/images/uploads/2018_07_24_zucchini_fritters_8.jpg)
 </br>
 </br>
@@ -47,9 +54,11 @@ The most important thing when it comes to making these Greek style fritters is m
 We use to eat these plain with maybe a bit of feta but I thought I would pair these babies with my [creamy and delicious tzatziki](https://www.oliveandmango.com/easy-tzatziki-sauce-garlic-yogurt-cucumber-dip/) which is light and tangy and pairs so well with the fritters. 
 </br>
 </br>
+
 ![Zucchini Fritters](/images/uploads/2018_07_24_zucchini_fritters_9.jpg)
 </br>
 </br>
+
 ![Zucchini Fritters](/images/uploads/2018_07_24_zucchini_fritters_10.jpg)
 </br>
 </br>
@@ -57,6 +66,7 @@ We use to eat these plain with maybe a bit of feta but I thought I would pair th
 The fritters themselves are light and so flavourful packed with the fresh herbs and seasonings. They make great appetisers and perfect dippers. I know you will love this super simple recipe for Greek style zucchini fritters.Enjoy! 
 </br>
 </br>
+
 ![Zucchini Fritters](/images/uploads/2018_07_24_zucchini_fritters_11.jpg)
 </br>
 </br>
@@ -109,4 +119,5 @@ Total time: 50 mins
 * Depending on how moist the zucchini mixture is you may need to add a little extra flour. Basically you want your mixture to hold like you would when making meatballs. If it’s not holding sprinkle in extra flour a tablespoon at a time until mixture holds together.
 
 </br>
+
 ![Zucchini Fritters](/images/uploads/2018_07_24_zucchini_fritters_12.jpg)

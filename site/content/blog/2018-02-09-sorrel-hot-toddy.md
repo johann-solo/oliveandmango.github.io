@@ -12,6 +12,7 @@ excerpt: A warm and soothing drink – bright in colour and cozy in flavours
 Is there anything better than curling up with a warm cup of goodness that is a hot toddy? The origin of a hot toddy is a little murky and as far as rules go for the recipe - well there aren’t any.
 </br>
 </br>
+
 ![Sorrel Hot Toddy](/images/uploads/2018_02_09_sorrel_hot_toddy_2.jpg)
 </br>
 </br>
@@ -19,6 +20,7 @@ Is there anything better than curling up with a warm cup of goodness that is a h
 The basic formula of one includes hot water, adding a tea bag is also an option, a spirit of choice, a sweetener of choice, a citrus of choice and a spice of choice. There’s lots of room for creativity. This lovely hot drink packs tons of vitamin C and is hot and soothing, the spirit knocks you out so really it’s the more natural alternative to Neo Citran or Nyquil if you’re feeling a little stuffy or if you have a full blown cold.
 </br>
 </br>
+
 ![Sorrel Hot Toddy](/images/uploads/2018_02_09_sorrel_hot_toddy_3.jpg)
 </br>
 </br>
@@ -26,6 +28,7 @@ The basic formula of one includes hot water, adding a tea bag is also an option,
 I made this variation with Caribbean sorrel/roselle (a plant/flower of the hibiscus family) made from the sepals (flower petals). I used fresh because it’s still in season here but there is dried sorrel available here and in many grocery stores in North America in the ethnic section available all year around. Sorrel is very tart in flavour and very high in vitamin C and other nutrients giving you more excuses to drink a hot toddy, if you need them.
 </br>
 </br>
+
 ![Sorrel Hot Toddy](/images/uploads/2018_02_09_sorrel_hot_toddy_4.jpg)
 </br>
 </br>
@@ -33,6 +36,7 @@ I made this variation with Caribbean sorrel/roselle (a plant/flower of the hibis
 The colour of sorrel is exquisite. It’s bright and almost fluorescent. I absolute love making things with it. Jams and jellies are fabulous made of sorrel. If you’re interested check out my recipe for it here on the blog. I saw a hibiscus tart recently that I would love to try with it too. So many recipes to try and so little time!  Steeping the petals with the aromatics really is the start of making any kind of sorrel drink or syrup.  It infuses it with warm flavours making the end result of the hot toddy even cosier.
 </br>
 </br>
+
 ![Sorrel Hot Toddy](/images/uploads/2018_02_09_sorrel_hot_toddy_5.jpg)
 </br>
 </br>
@@ -40,6 +44,7 @@ The colour of sorrel is exquisite. It’s bright and almost fluorescent. I absol
 I chose honey as the sweetener but you can use brown sugar, agave, maple syrup or any other sweetener.  It will definitely need it though because of the tartness of the sorrel.  I used just enough to cut that tartness and it was perfect. You can adjust amounts to preference. The extra citrus juice adds a really nice brightness to the drink that I love plus extra vitamin C right!
 </br>
 </br>
+
 ![Sorrel Hot Toddy](/images/uploads/2018_02_09_sorrel_hot_toddy_6.jpg)
 </br>
 </br>
@@ -47,6 +52,7 @@ I chose honey as the sweetener but you can use brown sugar, agave, maple syrup o
 My mom would make us something similar to a hot toddy when we weren’t feeling well and although I hated it at the time it did really help us go to sleep and feel a lot better the next day. She would warm wine or mix tea with a touch of whiskey or *tsipouro* (Greek alcoholic drink made from pressed grapes herbs and berries) when we had a bad cough or cold. It always worked wonders and if it didn’t it would knock us out cold! Got to love home remedies! Wether you have a cold or not a hot toddy is really just spiking your tea and so worth trying!
 </br>
 </br>
+
 ![Sorrel Hot Toddy](/images/uploads/2018_02_09_sorrel_hot_toddy_7.jpg)
 </br>
 </br>
@@ -85,4 +91,5 @@ Makes 2 cups
 Inspired by a basic hot toddy recipe from *The Spruce*
 </br>
 </br>
+
 ![Sorrel Hot Toddy](/images/uploads/2018_02_09_sorrel_hot_toddy_8.jpg)

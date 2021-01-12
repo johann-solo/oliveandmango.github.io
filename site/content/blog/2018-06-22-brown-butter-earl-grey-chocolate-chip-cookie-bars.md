@@ -20,6 +20,7 @@ description: Chocolate chip blondies with chewy centers, crackly top, and crispy
 I had been seeing a lot of tea infused baked goods on instagram lately and I really wanted to have a go at it. At the same time I also wanted to make some blondies or chocolate chip cookie bars and I thought those would be great infused with some tea. Cookies and tea are just perfect together so why not in this scenario too right?
 </br>
 </br>
+
 ![Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_2.jpg)
 </br>
 </br>
@@ -27,9 +28,11 @@ I had been seeing a lot of tea infused baked goods on instagram lately and I rea
 I had tried a recipe for white chocolate cranberry cookie bars from _TheKitchn_ and I absolutely loved the texture so I used it as a template to make these chocolate chip cookies bars.
 </br>
 </br>
+
 ![Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_3.jpg)
 </br>
 </br>
+
 ![Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_4.jpg)
 </br>
 </br>
@@ -37,9 +40,11 @@ I had tried a recipe for white chocolate cranberry cookie bars from _TheKitchn_ 
 There are a few ways to infuse baked good. You can infuse them through the sugar as I did with my [lavender blueberry muffins](https://www.oliveandmango.com/blueberry-lavender-muffins/). You can use the actual dried pieces of the herb, flower or tea right in the batter. You can also infuse the butter or milk in a recipe just like you would steep tea in hot liquid. That is what I decided to do as this recipe called for melted butter.
 </br>
 </br>
+
 ![Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_5.jpg)
 </br>
 </br>
+
 ![Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_6.jpg)
 </br>
 </br>
@@ -47,9 +52,11 @@ There are a few ways to infuse baked good. You can infuse them through the sugar
 Choosing the type of tea for me was a no brainer. One of my favorite teas is earl grey. It has a subtle earthy sweet hint of bergamot and I love it! I love the taste and the aroma of it. Since I had to melt the butter I thought let’s take it to another level and essentially brown it and add the most delicious, nutty and caramel flavour to these cookie bars.
 </br>
 </br>
+
 ![Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_7.jpg)
 </br>
 </br>
+
 ![Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_8.jpg)
 </br>
 </br>
@@ -57,6 +64,7 @@ Choosing the type of tea for me was a no brainer. One of my favorite teas is ear
 That is basically how I came about making these bars. I’m so happy I had my thinking cap on that day because we totally loved these and the subtle delicious flavours added to them from the brown butter and the earl grey.
 </br>
 </br>
+
 ![Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_9.jpg)
 </br>
 </br>
@@ -64,6 +72,7 @@ That is basically how I came about making these bars. I’m so happy I had my th
 Chewy centers, crackly top, crispy edges basically the perfect weekend simple baking project that’s done in one bowl. Can’t beat that and you will have the most delicious treat to dunk into your afternoon tea!
 </br>
 </br>
+
 ![Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_10.jpg)
 </br>
 </br>
@@ -105,4 +114,5 @@ Chewy centers, crackly top, crispy edges basically the perfect weekend simple ba
 14. Cut into whatever shape or size you would like.
 
 </br>
+
 ![Brown Butter Earl Grey Chocolate Chip Cookie Bars](/images/uploads/2018_06_22_brown_butter_earl_grey_chocolate_chip_cookie_bars_12.jpg)

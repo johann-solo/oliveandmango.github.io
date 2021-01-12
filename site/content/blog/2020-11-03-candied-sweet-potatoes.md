@@ -16,6 +16,7 @@ These deliciously sweet and lightly spiced sweet potatoes with caramelized edges
 are a simple yet satisfying side dish that is the perfect accompaniment to chicken, pork, turkey and beef, you name it. 
 </br>
 </br>
+
 ![Candied Sweet Potatoes](/images/uploads/2020_11_03_candied_sweet_potatoes_2.jpg)
 </br>
 </br>
@@ -23,6 +24,7 @@ are a simple yet satisfying side dish that is the perfect accompaniment to chick
 There are a lot of sweet potato sides and casserole dishes out there. This simple  candied version is one of my favorite ways to enjoy this vegetable. I also love them mashed and I think mashed sweet potatoes or squash casseroles like my [butternut squash savoury crumble](https://www.oliveandmango.com/butternut-squash-crumble/) make the most perfect side dishes during the fall. I love a crunchy topping as opposed to a marshmallow  one on my casseroles - how about you guys? Yes or no to marshmallow topping for your sweet potatoes? 
 </br>
 </br>
+
 ![Candied Sweet Potatoes](/images/uploads/2020_11_03_candied_sweet_potatoes_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ There are a lot of sweet potato sides and casserole dishes out there. This simpl
 These candied sweet potatoes are a must-have during the fall and winter months. These  are quick enough to put together on a busy weeknight, yet elegant enough for company. You can even customize your sweet potatoes by adding a variety of flavors and spices to them or the syrup and a variety of toppings. My favorite thing to top these with is crispy fried sage - sage that is lightly pan fried in butter then removed and placed on a plate lined with paper towel to get crispy. I also love topping mine with lightly toasted chopped pecans that add a nice crunch to every bite. 
 </br>
 </br>
+
 ![Candied Sweet Potatoes](/images/uploads/2020_11_03_candied_sweet_potatoes_4.jpg)
 </br>
 </br>
@@ -79,4 +82,5 @@ The sauce is so wonderful in these. It thins out as it bakes due to the water co
 Adapted from _delish.com_
 
 </br>
+
 ![Candied Sweet Potatoes](/images/uploads/2020_11_03_candied_sweet_potatoes_5.jpg)
