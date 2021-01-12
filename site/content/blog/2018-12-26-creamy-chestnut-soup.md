@@ -16,6 +16,7 @@ description: A silky smooth soup with slightly earthy notes from the chestnuts. 
 Silky smooth with slightly earthy notes from the chestnuts. This comforting soup is the perfect starter to any meal. I love it so much. It’s the full meal when I make it. It’s wonderful with some crusty bread and the best way to use up the last of my homemade chestnut purée.
 </br>
 </br>
+
 ![Creamy Chestnut Soup](/images/uploads/2018_12_26_creamy_chestnut_soup_2.jpg)
 </br>
 </br>
@@ -23,6 +24,7 @@ Silky smooth with slightly earthy notes from the chestnuts. This comforting soup
 I have already went on and on about how much I love chestnut anything. From roasting them to making them into a creamy purée and then finding delicious ways to enjoy the purée. I have loved using them in baking like in [my chocolate chestnut cake](https://www.oliveandmango.com/chocolate-chestnut-cake/) and in savoury dishes as well. I knew I had to make a soup with some of my purée and this one turned out perfectly. The flavours are absolutely wonderful. I think the leek has a lot to do with it along with sautéing the veggies in a bit of the bacon fat. So much flavour!
 </br>
 </br>
+
 ![Creamy Chestnut Soup](/images/uploads/2018_12_26_creamy_chestnut_soup_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ I have already went on and on about how much I love chestnut anything. From roas
 I have had chestnut soup before unknowingly, only to find out later that it was chestnut in it and marveling at how luxuriously creamy it was. The earthy nutty flavours are delicious and it’s definitely a soup we couldn’t get enough of.
 </br>
 </br>
+
 ![Creamy Chestnut Soup](/images/uploads/2018_12_26_creamy_chestnut_soup_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ I have had chestnut soup before unknowingly, only to find out later that it was 
 This recipe calls for using jarred or canned chestnuts which makes whipping this soup up so easy. I used my homemade purée which takes a little bit of effort to make but really made this soup even more velouté or velvety. The homemade version is linked in the recipe if you want to roast and make your own but either jarred canned or homemade is totally acceptable to use.
 </br>
 </br>
+
 ![Creamy Chestnut Soup](/images/uploads/2018_12_26_creamy_chestnut_soup_5.jpg)
 </br>
 </br>
@@ -44,6 +48,7 @@ This recipe calls for using jarred or canned chestnuts which makes whipping this
 Like any creamy smooth soup, decorating it is half the fun whether it’s with cream or crème fraîche. The garnish options are endless. I stuck to the basics with some chopped chives and the crispy bacon from the recipe but you really could top it with more fresh herbs, crispy onions and the list goes on.
 </br>
 </br>
+
 ![Creamy Chestnut Soup](/images/uploads/2018_12_26_creamy_chestnut_soup_6.jpg)
 </br>
 </br>
@@ -51,6 +56,7 @@ Like any creamy smooth soup, decorating it is half the fun whether it’s with c
 This soup tastes wonderful and definitely feels like a special occasion soup that can be served as a starter or even an appetizer in shot glasses or tea cups. It’s delicious and if you get your hands on some chestnuts it’s a must to make. You will love it! I have some leftover sweetened chestnut purée and I’m heading into the kitchen to bake up some sweet chestnut bread with it. Nothing must be wasted. Will let you know how it goes!
 </br>
 </br>
+
 ![Creamy Chestnut Soup](/images/uploads/2018_12_26_creamy_chestnut_soup_7.jpg)
 </br>
 </br>
@@ -104,4 +110,5 @@ This soup tastes wonderful and definitely feels like a special occasion soup tha
 Adapted from _Epicurious_
 
 </br>
+
 ![Creamy Chestnut Soup](/images/uploads/2018_12_26_creamy_chestnut_soup_8.jpg)

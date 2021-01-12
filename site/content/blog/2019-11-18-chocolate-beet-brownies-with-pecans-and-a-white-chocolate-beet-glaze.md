@@ -14,9 +14,11 @@ description: These beet brownies are ultra rich, decadent and fudgey
 You guys know how much I love to bake with pumpkin and sweet potato. This beet brownie recipe was bound to happen. I’m so happy to team up with Love Beets to bring you guys two awesome recipes using beets that I love. The first one I’m sharing is a sweet recipe and the second is a savoury. I love beets and always have. Greeks love their beets but almost always have them in savoury form and usually in a yoghurt based salad or one with lots of garlic and red wine vinegar or some sort of variation of both. It’s delicious and I grew up eating beats that way and made my hubby a lover of them too. I have never baked a sweet treat with them so I’m super happy to be sharing this brownie recipe that we loved and makes the fudgiest brownies around thanks to the fabulous beet purée!
 </br>
 </br>
+
 ![Chocolate Beet Brownies With Pecans and a White Chocolate Beet Glaze](/images/uploads/2019_11_18_chocolate_beet_brownies_with_pecans_and_a_white_chocolate_beet_glaze_2.jpg)
 </br>
 </br>
+
 ![Chocolate Beet Brownies With Pecans and a White Chocolate Beet Glaze](/images/uploads/2019_11_18_chocolate_beet_brownies_with_pecans_and_a_white_chocolate_beet_glaze_3.jpg)
 </br>
 </br>
@@ -24,9 +26,11 @@ You guys know how much I love to bake with pumpkin and sweet potato. This beet b
 I used <span class="highlight"><a rel="nofollow" href="https://www.lovebeets.com/products/organic-cooked-beets/">Ready-to-Eat Love Beets Organic Cooked Beets</a></span> </span> to make the purée for these brownies. No need to peel or boil or roast - all the work is already done for you pre-packaging - which is kind of genius and means no red stained nails and fingers too and saves you a lot of time. They are so versatile and can be enjoyed either hot or cold in a variety of dishes, from sandwiches, smoothies, juices and def in these brownies. They are organic, non-GMO, kosher and have no preservatives. Convenient and practical and no bad stuff - love it in a prepackaged food item. 
 </br>
 </br>
+
 ![Chocolate Beet Brownies With Pecans and a White Chocolate Beet Glaze](/images/uploads/2019_11_18_chocolate_beet_brownies_with_pecans_and_a_white_chocolate_beet_glaze_4.jpg)
 </br>
 </br>
+
 ![Chocolate Beet Brownies With Pecans and a White Chocolate Beet Glaze](/images/uploads/2019_11_18_chocolate_beet_brownies_with_pecans_and_a_white_chocolate_beet_glaze_5.jpg)
 </br>
 </br>
@@ -34,9 +38,11 @@ I used <span class="highlight"><a rel="nofollow" href="https://www.lovebeets.com
 Just like pumpkin, zucchini and sweet potatoes make any baked good super moist and fabulous, these beets do the same. These brownies pack a lot of beets in them which I love - hello extra veggies in your diet! They are also loaded with cocoa and some pecans for a little extra texture. I wanted to inject a little more beet into this recipe so I thought I would get a glaze on these guys made with beet juice. I used <span class="highlight"><a rel="nofollow" href="https://www.lovebeets.com/product/organic-beet-juice/">Love Beets Organic Beet Juice</a></span> for the glaze. That and some white chocolate together not only makes the tastiest glaze but the prettiest one out there using nothing but the beet juice to achieve it. No artificial colouring needed at all.  The brownies are fabulous on their own but the glaze puts them over the top, plus you get a little more veggies in too! 
 </br>
 </br>
+
 ![Chocolate Beet Brownies With Pecans and a White Chocolate Beet Glaze](/images/uploads/2019_11_18_chocolate_beet_brownies_with_pecans_and_a_white_chocolate_beet_glaze_6.jpg)
 </br>
 </br>
+
 ![Chocolate Beet Brownies With Pecans and a White Chocolate Beet Glaze](/images/uploads/2019_11_18_chocolate_beet_brownies_with_pecans_and_a_white_chocolate_beet_glaze_7.jpg)
 </br>
 </br>
@@ -47,6 +53,7 @@ If you are looking for another way to add some veggies to your baked goods you m
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.lovebeets.com">Love Beets</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Chocolate Beet Brownies With Pecans and a White Chocolate Beet Glaze](/images/uploads/2019_11_18_chocolate_beet_brownies_with_pecans_and_a_white_chocolate_beet_glaze_8.jpg)
 </br>
 </br>
@@ -82,4 +89,5 @@ __For the white chocolate beet glaze__
 1. While the brownies are cooling make the white chocolate beet glaze. In a small sauce pan on medium-low heat, melt the chopped white chocolate with the beet juice whisking frequently until mixture is smooth in consistency. Allow to cool and then drizzle over brownies and serve. 
 
 </br>
+
 ![Chocolate Beet Brownies With Pecans and a White Chocolate Beet Glaze](/images/uploads/2019_11_18_chocolate_beet_brownies_with_pecans_and_a_white_chocolate_beet_glaze_9.jpg)

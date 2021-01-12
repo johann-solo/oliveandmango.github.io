@@ -15,6 +15,7 @@ description: These crunchy almond biscotti make the perfect treat with your favo
 These Cranberry Orange Almond Biscotti or Cantucci as they are more specifically called are crunchy and delicious whether you enjoy them with a cup of coffee, tea or cocoa or even wine (a Tuscan tradition). I added cranberries to these crunchy almond cookies as well as some orange zest which adds a nice bright flavour to them. 
 </br>
 </br>
+
 ![Cranberry Orange Almond Biscotti](/images/uploads/2020_12_18_cranberry_orange_almond_biscotti_2.jpg)
 </br>
 </br>
@@ -31,6 +32,7 @@ I made these in partnership with Bob’s Red Mill. I used their <span class="hig
 This is a pretty basic recipe for these almond biscuits. You can easily switch out your add ins to create combos of your own. You can replace the almonds with chocolate chips, hazelnuts, pistachios, other dried fruits. The possibilities are endless. These Cantucci or Biscotti di Prato are not generally dipped in coffee, but in a sweet, fabulous dessert wine. But there are no rules when it comes to cookies. They can be enjoyed however you please. Personally I love mine with a hot cup of coffee. I also love to dip mine in melted chocolate to add another layer of flavour but that is optional. Dark or white chocolate go so well with these! 
 </br>
 </br>
+
 ![Cranberry Orange Almond Biscotti](/images/uploads/2020_12_18_cranberry_orange_almond_biscotti_3.jpg)
 </br>
 </br>
@@ -85,4 +87,5 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 7. If you want your biscotti chocolate dipped: Melt semisweet chocolate (I usually melt 2 cups of semi sweet chips or chunks) and dip biscotti tips in them then transfer them to cooling rack garnish with chopped nuts if you would like and allow them to set. 
 
 </br>
+
 ![Cranberry Orange Almond Biscotti](/images/uploads/2020_12_18_cranberry_orange_almond_biscotti_4.jpg)

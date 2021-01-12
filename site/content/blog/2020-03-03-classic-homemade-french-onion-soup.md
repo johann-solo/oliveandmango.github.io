@@ -14,6 +14,7 @@ description: Want to know how to make a classic homemade French onion soup? This
 This is one of the best French onion soup recipes I have made - the homemade beef stock really is the key to a fabulous and easy French onion soup. I say easy because a French onion soup - a classic and delicious one doesn’t have to be difficult or overwhelming it just needs a bit of time and patience. This recipe is by Giselle Courteau and her newest book _Duchess at Home_. The book is a wonderful compilation of beloved sweet and savoury recipes from Giselle’s home kitchen. From warming soup, stews to breads, preserves and of course delicious desserts. Her first book Duchess Bake Shop was all about her bake shop and sharing her most popular recipes from it in an approachable way for a homemaker. This book is more about what she loves to bake/make at home. Before I get into more details from this book let’s talk about what makes a classic French onion soup so great. 
 </br>
 </br>
+
 ![Classic Homemade French Onion Soup](/images/uploads/2020_03_03_classic_homemade_french_onion_soup_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This is one of the best French onion soup recipes I have made - the homemade bee
 To me there is truly nothing more delicious than a good French onion soup. There are three components that make up a delicious one. The stock must have a rich flavour whether you make it from scratch or buy it. So if you are buying do buy a good quality one. The onions have to be deeply caramelized and cooked down so that there is absolutely no crunch or bite in them - they add so much flavour to the soup when they are golden and caramelized until intensely sweet. There are not a ton of ingredients in this soup - basics: onions, butter, beef stock, and some flavour boosters: garlic, wine, and thyme. It just needs a bit of time -  so this is definitely a great soup to make on a slow Sunday while you are catching up on things and don’t mind occasionally tending to it. 
 </br>
 </br>
+
 ![Classic Homemade French Onion Soup](/images/uploads/2020_03_03_classic_homemade_french_onion_soup_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ To me there is truly nothing more delicious than a good French onion soup. There
 Along with a good stack and caramelized onions is some sort of crusty cheesy bread over your soup. This and many recipes call for baking the soup with the bread and cheese over top but if you don’t have stove friendly dishes just make your own cheesy toasts separately and serve them on top of the soup. Baking it is nice but it’s just as delicious served over top too. Let’s talk a bit more about the homemade beef stock recipe that Giselle includes in her book. It’s absolutely delicious and it freezes really well so it’s something you can make ahead and store in the freezer. Don’t be intimidated by the bones - they are easier to source than you think. Some grocery stores sell them packaged out with their other meat - you probably have never seen them or have missed them cause you weren’t looking for them. Or if your local grocery store doesn’t have any showcased - just ask the person behind the butcher counter - they will be happy to bag some up for you. With all those components in place you have yourselves a classic french onion soup recipe. 
 </br>
 </br>
+
 ![Classic Homemade French Onion Soup](/images/uploads/2020_03_03_classic_homemade_french_onion_soup_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ Along with a good stack and caramelized onions is some sort of crusty cheesy bre
 Giselle’s book is full of recipes like these. Ones that warm the soul and ones you are proud to serve friends and family. She starts the book off by sharing some excellent tips about how to be a better home baker and I couldn’t agree more with all her tips - very practical tips that may seem obvious but as a homemaker myself, forget often. She also includes short chapters on Tools & Equipment, Ingredients and Weights & Measurements. I’m determined to use my scale more after reading that section. The rest of the book is sectioned off based on occasions like Family Breakfast, Sunday afternoons, childhood favourites, a tribute to France, and celebrations. 
 </br>
 </br>
+
 ![Classic Homemade French Onion Soup](/images/uploads/2020_03_03_classic_homemade_french_onion_soup_5.jpg)
 </br>
 </br>
@@ -43,6 +47,7 @@ Giselle’s book is full of recipes like these. Ones that warm the soul and ones
 The recipes are well tested and the directions are very clear. I love the tips she adds to her recipes and she also includes step by step photos for some of them along with templates you can copy and use for piping for example croquembouche. I have to say though, one of my favourite chapters in the book is I Remember - in it Giselle shares her Francophone heritage with dishes like Pouding-chômier, Maple Sugar Pie, Maple & Beer baked ham, Maple Baked beans, and a Tourtière.  Can you see why I love this chapter?!? It’s dripping in maple syrup and French Canadian’ness which I love! The photography suits the style of book perfectly - I seriously feel like it’s all done in Giselle’s kitchen and instantly feel like I can pull up a seat at her table and dig in. This book is inspiring me and I may even try some of her more complex recipes as she includes such well written instructions for tackling them. Thanks so much Giselle and Appetite By Random House for sending me a copy of this book!!
 </br>
 </br>
+
 ![Classic Homemade French Onion Soup](/images/uploads/2020_03_03_classic_homemade_french_onion_soup_6.jpg)
 </br>
 </br>
@@ -100,4 +105,5 @@ For the croutons, I like to use sourdough bread. Bones for roasting and making s
 10. When ready to serve, set your oven to broil. Ladle the hot soup into ovenproof soup bowls. Top each serving with a handful of croutons and grated gruyère. Place under the broiler until the cheese is bubbling and brown. Serve hot.
 
 </br>
+
 ![Classic Homemade French Onion Soup](/images/uploads/2020_03_03_classic_homemade_french_onion_soup_7.jpg)

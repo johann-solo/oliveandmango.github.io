@@ -14,6 +14,7 @@ description: Roasted Greek fries loaded with pancetta and tzatziki
 One of my biggest weaknesses when it comes to food is French fries. The smell of them, their crispy salty edges, I just can’t resist them. What’s better than plain French fries? Loaded French fries! One of my all time favourite loaded French fries are of course Greek fries. Usually your typical Greek fries are a stack of fresh hot fries, topped with oregano, feta and sometimes fresh herbs and paprika. They are fantastic that way but I thought I would load them with some extra goodness so I came up with this version and it’s pretty darn good. I came up with it to enter a competition a potato company was having. They didn’t win any prizes but they are so so good and needed to be on the blog so I’m adding them on here.
 </br>
 </br>
+
 ![Greek Fries With Pancetta](/images/uploads/2019_01_30_greek_fries_with_pancetta_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ One of my biggest weaknesses when it comes to food is French fries. The smell of
 There are two things that make these even better then regular Greek fries. The first reason is that, as I mentioned above, they are loaded with extra goodies making them even more delicious! The second reason is that they are roasted not fried. I completely avoided fried food - if I can help it. If hubby is eating his fries, you better believe I’m going to nab a few of them. I’m only human! But I won’t order them ever for myself and so I basically fit in to that whole stereotype of the woman eating fries off her man's plate while she orders a salad. When asked why she didn’t order her own - she (me) replies ‘I don’t eat fries, but yours taste so good’. The only difference is I never order just salad, but I do always steal a few fries off Johann’s plate.  
 </br>
 </br>
+
 ![Greek Fries With Pancetta](/images/uploads/2019_01_30_greek_fries_with_pancetta_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ There are two things that make these even better then regular Greek fries. The f
 Back to these ‘fries’. They get perfectly crisp in the oven and because they are roasted smothered in herbs, they taste amazing. The herbs and spices get locked in and make them so flavourful. The key to getting roasted potatoes nice and crisp is all in the preparation. It’s a must to soak them in a large bowl of water and let them sit for at least 30 minutes to an hour which helps draw out some of the starch, then drain and dry them in a clean kitchen towel. This step definitely ensures extra crispy edges on your roasted potatoes. Other recipes call for dusting them with cornstarch, arrowroot or baking powder before roasting them but there was no need for that in this recipe.
 </br>
 </br>
+
 ![Greek Fries With Pancetta](/images/uploads/2019_01_30_greek_fries_with_pancetta_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ Back to these ‘fries’. They get perfectly crisp in the oven and because they
 I love the herb dressing that gets drizzled over the fries before serving. It’s a nice touch and adds so much more flavour. It’s completely optional though. You don’t have to dress them if you would prefer not to. The pancetta gives a nice salty crispy bite to the fries and the tzatziki is alway the perfect thing to serve these with, either dolloped over them or on the side to dip them in. I have attached my go-to quick tzatziki recipe below. The feta adds a nice briny flavour that I wouldnt trade for he world and I always love a squeeze of fresh lemon juice before serving them. They are out of this world and I know you will love them. They are roasted making them practically guilt free and are perfect for any game day cause your guests can grab fries as they please and chow down. Game day and award season is all about the finger food while you’re parked in front of the TV! These will be a definitely be a hit. Enjoy!
 </br>
 </br>
+
 ![Greek Fries With Pancetta](/images/uploads/2019_01_30_greek_fries_with_pancetta_5.jpg)
 </br>
 </br>
@@ -93,4 +97,5 @@ I love the herb dressing that gets drizzled over the fries before serving. It’
 2. Add more lemon juice for a bit more zing and more garlic for a more intensely garlicky tzatziki. Store in an airtight container in the fridge for up to 5 days.
 
 </br>
+
 ![Greek Fries With Pancetta](/images/uploads/2019_01_30_greek_fries_with_pancetta_6.jpg)

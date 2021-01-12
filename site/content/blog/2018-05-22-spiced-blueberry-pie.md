@@ -12,12 +12,15 @@ excerpt: Totally delicious blueberry pie with the easiest filling recipe
 Blueberries have to be one of my favourite berries – up there with all the rest. I use them for smoothies a lot and muffins and scones but I had never made a berry pie. _National Pie Day_ was coming up and I decided I would try my hand at a berry pie. The dilemma here in Trinidad is getting fresh berries. You can get them, but you will pay an arm and a leg to get fresh, mediocre imported ones, that is why I always use frozen here. So I was on the look out for a good pie filling recipe that was simple and also used frozen berries.
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_2.jpg)
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_3.jpg)
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_4.jpg)
 </br>
 </br>
@@ -25,15 +28,19 @@ Blueberries have to be one of my favourite berries – up there with all the re
 One of the pie people I follow on IG just so happened to post a blueberry pie on her feed as I was on the search and she recommended a _Serious Eats_ recipe for the best blueberry pie filling recipe that is a total no-fail using fresh or frozen berries. Who am I to ever question anything from serious eats? So I went straight over and started reading. The pie filling recipe sounded super simple. When I say simple you guys, and when it comes to pie filling, I really mean simple. Toss everything and dump into pie crust. That is exactly what this recipe was about. There was no boiling fruit, straining fruit and cooking and reducing syrup. It was a simple toss and dump.
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_5.jpg)
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_6.jpg)
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_7.jpg)
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_8.jpg)
 </br>
 </br>
@@ -41,15 +48,19 @@ One of the pie people I follow on IG just so happened to post a blueberry pie on
 I always worry about soggy soft dough and crusts when I’m baking with frozen berries and that is where the tapioca flour came into play. According to _Serious Eats_, it’s the ultimate thickener for pies especially using frozen fruit. I cannot agree more. I increased my tapioca flour by 1 tsp because I was nervous and that is the only thing I changed from the recipe along with the type of berries I used. I only had one type of blueberry - but the original recipe calls for a mix of wild and cultivated. I only had the regular frozen ones so that was what I used.
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_9.jpg)
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_10.jpg)
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_11.jpg)
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_12.jpg)
 </br>
 </br>
@@ -57,15 +68,19 @@ I always worry about soggy soft dough and crusts when I’m baking with frozen b
 I wanted the blueberries to really shine in this pie, which I think they would no matter what spice I used. I wanted to spice them up a little extra to bring out their sweetness and also give them a little more depth of flavour, especially since the filling lacked the wild berries that would give it a flavour boost. That is why I decided to use the combo of cinnamon, allspice and ground coriander. We loved the subtle combination of spice and the blueberries. They all are warm spices that go really with the blueberries.
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_13.jpg)
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_14.jpg)
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_15.jpg)
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_16.jpg)
 </br>
 </br>
@@ -73,15 +88,19 @@ I wanted the blueberries to really shine in this pie, which I think they would n
 I used my usual pie crust method which I use for pretty much every pie crust I make. It’s so simple and it always turns out perfectly even with my imperfect pie baking hands and skills. I knew this pie needed a top layer which meant I needed to double the pie crust recipe. I decided to make a simple lattice. I have never done a lattice before and I drummed up the courage to do it. I looked at a few tutorials, pics and directions and made a very basic one. I have included the simple directions I used from _The Kitchn_ below. Not too difficult at all. The thing that makes it difficult in the Caribbean is the heat factor. I don’t have AC in the kitchen or throughout my apartment, so try making dough and playing with it in 30 plus degree weather. It’s a sopping mess after you place the first strip of dough down. That is ok though - it took a lot of running back and forth to the freezer, from making the strips to laying them on the pie, but it was totally worth it and boosted my confidence to make a tighter lattice for my next one. As I always say, if I can do it you can too!!!
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_17.jpg)
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_18.jpg)
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_19.jpg)
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_20.jpg)
 </br>
 </br>
@@ -89,6 +108,7 @@ I used my usual pie crust method which I use for pretty much every pie crust I m
 This is truly a delicious pie and it is such a simple recipe that I recommend it to anyone! Hope you give it a try whether you are a seasoned pie maker or like me still in the beginners phase of pie making. We could not even wait until the pie fully set for two reasons. One I needed to have a taste, like really really needed to. Second reason was we were losing light to shoot it, thus the bit of blueberry mess on the plate. If we had waited the allotted cooling time the filling would have set completely as we learned later when we went for our second and third slices. You live you learn - some lessons are delicious and worth learning the hard way though.
 </br>
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_21.jpg)
 </br>
 </br>
@@ -167,4 +187,5 @@ __For simple Lattice instructions__
 1. Crimp the edges: Trim the edges with a sharp knife if needed, then roll them inwards toward the center of the pie. Firmly crimp the edges to seal. Use your egg wash and prepare to bake as normal.
 
 </br>
+
 ![Spiced Blueberry Pie](/images/uploads/2018_05_22_spiced_blueberry_pie_22.jpg)

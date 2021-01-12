@@ -14,6 +14,7 @@ description: A deliciously seasoned one pan dinner that the family will love. Th
 Nothing fills the air with a lovely aroma and warms the kitchen more than roasted chicken and veggies on a Sunday. It’s such a classic and iconic Sunday lunch or dinner that always makes me think of family around the table sharing this lovely meal and lots of animated conversation. When it comes to Greeks my husband says it involves lots of what he thinks is yelling. We call it animated conversation.
 </br>
 </br>
+
 ![Roasted Balsamic Chicken And Potatoes With Okra](/images/uploads/2018_11_01_roasted_balsamic_chicken_and_potatoes_with_okra_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ Nothing fills the air with a lovely aroma and warms the kitchen more than roaste
 Simple meals like this that require very little when it comes to prep are wonderful, especially if you are hosting. They pack lots of flavour from roasting slow in the oven with the veggies and aromatics. And because most of the work is done in the oven, you have more time to make salad and dessert more leisurely or more time to just to sit back and enjoy your company.
 </br>
 </br>
+
 ![Roasted Balsamic Chicken And Potatoes With Okra](/images/uploads/2018_11_01_roasted_balsamic_chicken_and_potatoes_with_okra_3.jpg)
 </br>
 </br>
+
 ![Roasted Balsamic Chicken And Potatoes With Okra](/images/uploads/2018_11_01_roasted_balsamic_chicken_and_potatoes_with_okra_4.jpg)
 </br>
 </br>
@@ -31,6 +34,7 @@ Simple meals like this that require very little when it comes to prep are wonder
 Many are put off by okra in dishes like these because when many people think of okra they think gumbo and very very slimy bits of okra swimming in it. That is definitely the case in gumbo and callaloo but doesnt have to be with okra in general.  I have posted some tips in the past with some of my other okra dishes like my [braised chicken and okra](https://www.oliveandmango.com/greekstyle-braised-okra-bamies-with-chicken/) similar to this recipe that I have on the blog and also my [fried okra recipe](https://www.oliveandmango.com/trini-breakfast-with-a-taste-of-the-east/) on the blog. Both of those recipe use two different techniques to maintaining the integrity of the okra thus reducing the slime factor. Many also steam the okra first and then dry them thoroughly and still others flash fry them which kind of crisps them up preventing them from breaking down easily and releasing the slime factor.
 </br>
 </br>
+
 ![Roasted Balsamic Chicken And Potatoes With Okra](/images/uploads/2018_11_01_roasted_balsamic_chicken_and_potatoes_with_okra_5.jpg)
 </br>
 </br>
@@ -38,6 +42,7 @@ Many are put off by okra in dishes like these because when many people think of 
 Okra is a wonderfully tender crisp veggie that pairs so well with so many other veggies. I love them roasted like they are in this recipe. I actually used a combination of fresh and frozen okra and both worked very well. I did not soak the frozen okra and added them frozen from the package and they did better at holding their integrity then the fresh ones believe it or not. I have used all frozen before and I do have to say I prefer using them frozen. They stay quite tender and the edges get so nice and golden brown and crisp when roasted.  They keep their integrity quite well, so if you have the opportunity to use use frozen, definitely take advantage of them.
 </br>
 </br>
+
 ![Roasted Balsamic Chicken And Potatoes With Okra](/images/uploads/2018_11_01_roasted_balsamic_chicken_and_potatoes_with_okra_6.jpg)
 </br>
 </br>
@@ -45,6 +50,7 @@ Okra is a wonderfully tender crisp veggie that pairs so well with so many other 
 Sunday lunch or dinner couldnt be any easier or more delicious with this dish as the chicken roast and releases it’s natural flavours and juices which mix with the veggies and potatoes giving them such wonder flavours. As the veggies become tender they soak in all the pan juices leaving enough for a thin sauce that you can drizzle over each serving or sop up with some crusty bread. I love to serve this with a simple salad or even just some sliced tomatoes sprinkled with a little salt and pepper and definitely some feta on the side. It’s a wonderful family meal that is simple in seasoning but absolutely fragrant and delicious from everything roasting and melding together. Hope you enjoy!
 </br>
 </br>
+
 ![Roasted Balsamic Chicken And Potatoes With Okra](/images/uploads/2018_11_01_roasted_balsamic_chicken_and_potatoes_with_okra_7.jpg)
 </br>
 </br>
@@ -80,4 +86,5 @@ Sunday lunch or dinner couldnt be any easier or more delicious with this dish as
 9. Remove and enjoy garnished with more fresh parsley and crusty bread to sop up the pan juices.
 
 </br>
+
 ![Roasted Balsamic Chicken And Potatoes With Okra](/images/uploads/2018_11_01_roasted_balsamic_chicken_and_potatoes_with_okra_8.jpg)

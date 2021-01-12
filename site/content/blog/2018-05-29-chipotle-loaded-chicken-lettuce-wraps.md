@@ -12,9 +12,11 @@ excerpt: A lighter low carb option
 This chipotle style chicken filling is so wonderful and can fill more than lettuce. You can use it in hard or soft tacos, and I absolutely love using it in a taco bowl over [cilantro rice](https://www.oliveandmango.com/vegan-and-vegetarian-fiesta-bowl/) with all the add ins. It's so versatile and has just the right amount of heat, at least to my liking. You can definitely add more chipotle or adobo sauce if you want more heat
 </br>
 </br>
+
 ![Chipotle Loaded Chicken Lettuce Wraps](/images/uploads/2018_05_29_chipotle_loaded_chicken_lettuce_wraps_2.jpg)
 </br>
 </br>
+
 ![Chipotle Loaded Chicken Lettuce Wraps](/images/uploads/2018_05_29_chipotle_loaded_chicken_lettuce_wraps_3.jpg)
 </br>
 </br>
@@ -22,9 +24,11 @@ This chipotle style chicken filling is so wonderful and can fill more than lettu
 Best of all it’s so easy to whip up and great for company as most taco recipes are. What better than a taco station for feeding a crowd? Lay everything out on the table and let everyone put there tacos together. It’s a fun, casual and delicious way of eating.
 </br>
 </br>
+
 ![Chipotle Loaded Chicken Lettuce Wraps](/images/uploads/2018_05_29_chipotle_loaded_chicken_lettuce_wraps_4.jpg)
 </br>
 </br>
+
 ![Chipotle Loaded Chicken Lettuce Wraps](/images/uploads/2018_05_29_chipotle_loaded_chicken_lettuce_wraps_5.jpg)
 </br>
 </br>
@@ -32,9 +36,11 @@ Best of all it’s so easy to whip up and great for company as most taco recipes
 The lettuce lightens up the meal a bit and adds some fresh crunch to your tacos. It keeps things low carb if you are looking for low carb meal options and increases your veggie intake. There’s definitely nothing wrong with that! I like to do both especially for company. Giving a GF option is great for company because there’s always someone in the crowd that is either intolerant or sensitive to it.
 </br>
 </br>
+
 ![Chipotle Loaded Chicken Lettuce Wraps](/images/uploads/2018_05_29_chipotle_loaded_chicken_lettuce_wraps_6.jpg)
 </br>
 </br>
+
 ![Chipotle Loaded Chicken Lettuce Wraps](/images/uploads/2018_05_29_chipotle_loaded_chicken_lettuce_wraps_7.jpg)
 </br>
 </br>
@@ -42,9 +48,11 @@ The lettuce lightens up the meal a bit and adds some fresh crunch to your tacos.
 These are also wonderful without the meat. The beans, corn and veggies make quite a filling on their own without the meat so these are also easily and deliciously made vegan. You would just have to hold off on the yoghurt in the avocado cream.
 </br>
 </br>
+
 ![Chipotle Loaded Chicken Lettuce Wraps](/images/uploads/2018_05_29_chipotle_loaded_chicken_lettuce_wraps_8.jpg)
 </br>
 </br>
+
 ![Chipotle Loaded Chicken Lettuce Wraps](/images/uploads/2018_05_29_chipotle_loaded_chicken_lettuce_wraps_9.jpg)
 </br>
 </br>
@@ -119,4 +127,5 @@ chopped green onion or chives, chopped tomato, shredded cheese, fresh or pickled
 * Mix all spices together and that’s basically equivalent to a store-bought taco seasoning packet
 
 </br>
+
 ![Chipotle Loaded Chicken Lettuce Wraps](/images/uploads/2018_05_29_chipotle_loaded_chicken_lettuce_wraps_10.jpg)

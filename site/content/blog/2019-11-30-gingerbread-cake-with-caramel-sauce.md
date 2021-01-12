@@ -14,9 +14,11 @@ description: Simple and classic gluten free and refined sugar free ginger bread 
 Gingerbread flavours are ones I love no matter what form they come in - this cake is no exception. This is definitely my kind of cake. It’s a simple bowl and whisk kind of cake, sweetened with honey and molasses, and spiced with my favourite warming spices. The rich molasses and spice flavour of this dessert is complemented with a buttery caramel sauce and I love mine with dollops of fluffy plain whip. 
 </br>
 </br>
+
 ![Gingerbread Cake With Caramel Sauce](/images/uploads/2019_11_30_gingerbread_cake_with_caramel_sauce_2.jpg)
 </br>
 </br>
+
 ![Gingerbread Cake With Caramel Sauce](/images/uploads/2019_11_30_gingerbread_cake_with_caramel_sauce_3.jpg)
 </br>
 </br>
@@ -24,9 +26,11 @@ Gingerbread flavours are ones I love no matter what form they come in - this cak
 I used my partner <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/gluten-free-1-to-1-baking-flour.html">Bob’s Red Mill Gluten Free 1-to-1 Baking Flour</a></span>. It always makes it easy to transform traditional recipes to gluten free without any special additions needed. This special blend of gluten free flours and starches includes xanthan gum and is ideal for food all your baked goods. I use it as a direct replacement for all purpose baking flour and it has yet to disappoint. Like all Bob’s Red Mill products it’s certified Kosher and made with ingredients grown from non-GMO seeds. 
 </br>
 </br>
+
 ![Gingerbread Cake With Caramel Sauce](/images/uploads/2019_11_30_gingerbread_cake_with_caramel_sauce_4.jpg)
 </br>
 </br>
+
 ![Gingerbread Cake With Caramel Sauce](/images/uploads/2019_11_30_gingerbread_cake_with_caramel_sauce_5.jpg)
 </br>
 </br>
@@ -37,6 +41,7 @@ I always love to try something new when it comes to gingerbread flavours. This y
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Gingerbread Cake With Caramel Sauce](/images/uploads/2019_11_30_gingerbread_cake_with_caramel_sauce_6.jpg)
 </br>
 </br>
@@ -82,4 +87,5 @@ __For the caramel sauce__
 6. For caramel sauce, in a small saucepan, combine brown sugar and cornstarch. Stir in water until smooth. Bring to a boil; cook and stir for 2 minutes or until thickened. Remove from the heat; stir in butter and vanilla until smooth. Serve warm over cake topped with whipped cream if desired. 
 
 </br>
+
 ![Gingerbread Cake With Caramel Sauce](/images/uploads/2019_11_30_gingerbread_cake_with_caramel_sauce_7.jpg)

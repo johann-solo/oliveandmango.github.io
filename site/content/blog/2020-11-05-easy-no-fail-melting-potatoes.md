@@ -15,6 +15,7 @@ description: These melting potatoes are creamy, caramelized coins that melt in y
 This is a fool proof recipe that I have made over and over again that will turn out perfectly every time and please even the pickiest of eaters. 
 </br>
 </br>
+
 ![Easy No Fail Melting Potatoes](/images/uploads/2020_11_05_easy_no_fail_melting_potatoes_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This is a fool proof recipe that I have made over and over again that will turn
 I was first introduced to this style potato when we did a shoot for thekitchn. We shot some absolutely delicious fondant potatoes for them. I couldn’t get over the buttery creaminess of those potatoes. While I loved the flavour I was on the search for a recipe that was a little more hands off and fully made in the oven for these delicious golden gems. I came a cross this fantastic recipe from Real Simple for melting potatoes and it did not fail me - easy and delicious and fully done in the oven. It’s almost like a pared down version of fondant potatoes.  Every time I make these I always get asked for the recipe so finally I  thought it was time to share it here. 
 </br>
 </br>
+
 ![Easy No Fail Melting Potatoes](/images/uploads/2020_11_05_easy_no_fail_melting_potatoes_3.jpg)
 </br>
 </br>
@@ -64,4 +66,5 @@ The key to getting these potatoes right every time relies on a few things. First
 5. Remove and transfer to a serving platter, drizzle with sauce and garnish with more fresh thyme if desired.
 
 </br>
+
 ![Easy No Fail Melting Potatoes](/images/uploads/2020_11_05_easy_no_fail_melting_potatoes_4.jpg)

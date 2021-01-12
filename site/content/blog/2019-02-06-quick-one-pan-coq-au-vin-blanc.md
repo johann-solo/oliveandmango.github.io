@@ -14,6 +14,7 @@ description: This Coq Au Vin Blanc is a classic French meal that you can make in
 Coq au vin is a great French classic dish that I’m quite fond of. It is a very homey traditional slow braised rooster or chicken, usually made with red wine. It’s one of those dishes that is made up of layers of flavours and when prepared  authentically reminds me of beef bourguignon, in that almost each element of the dish gets its own pan time. This has a lot to do with building those fabulous layers of flavour in both of those dishes, but it can also be time consuming to make. Another thing that can be intimidating to some when cooking coq au vin is that after all that time and effort, in the end, there is a chance you will be left with purple chicken from it simmering in red wine.
 </br>
 </br>
+
 ![Quick One Pan Coq Au Vin Blanc](/images/uploads/2019_02_06_quick_one_pan_coq_au_vin_blanc_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Coq au vin is a great French classic dish that I’m quite fond of. It is a very
 I partnered up with _Black Celler Wine_, a Canadian wine company, to make something fabulous using their Pinot Grigio. I couldn’t wait to use it in my quick one pan coq au vin blanc recipe that I love making! It was perfect in it. The best part is that this version is a one pan version as the name implies, so no need to sauté each ingredient individually which saves a lot of time, and another bonus is that it always turns out the same colour as it’s made with white wine (also implied by the name).
 </br>
 </br>
+
 ![Quick One Pan Coq Au Vin Blanc](/images/uploads/2019_02_06_quick_one_pan_coq_au_vin_blanc_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I partnered up with _Black Celler Wine_, a Canadian wine company, to make someth
 The Pinot Grigio is smooth and refreshingly crisp - perfect in this rich and creamy dish. It adds a nice lightness to it and cuts through the richness of it. It also is the perfect pairing for the dish too. What you use in cooking should be good enough to drink and enjoy too, and this is definitely one of those wines that’s good for both.
 </br>
 </br>
+
 ![Quick One Pan Coq Au Vin Blanc](/images/uploads/2019_02_06_quick_one_pan_coq_au_vin_blanc_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ The Pinot Grigio is smooth and refreshingly crisp - perfect in this rich and cre
 It’s a great dish that can be made even in the mid week. Because it’s a one pan meal, it’s less fuss and a lot less time to make than the traditional version. It’s perfect over buttery egg noodles which take next to nothing to boil and have ready and the perfect meal for date night as well. It’s also great with mashed potatoes or even just some crusty bread on the side to dip into that wonderful sauce. It’s incredibly warming and comforting like a delicious hug in bowl and when the weather turns cool, it’s always a meal I crave.
 </br>
 </br>
+
 ![Quick One Pan Coq Au Vin Blanc](/images/uploads/2019_02_06_quick_one_pan_coq_au_vin_blanc_5.jpg)
 </br>
 </br>
@@ -46,6 +50,7 @@ I do love the original version braised low and slow in red wine, but to be hones
 This post is in partnership with Black Cellar Wine. All thoughts and views are my own. Thanks for supporting the brands that make Olive & Mango possible.
 </br>
 </br>
+
 ![Quick One Pan Coq Au Vin Blanc](/images/uploads/2019_02_06_quick_one_pan_coq_au_vin_blanc_6.jpg)
 </br>
 </br>
@@ -92,4 +97,5 @@ Serves 4-6
 Adapted from _Chatelaine_
 
 </br>
+
 ![Quick One Pan Coq Au Vin Blanc](/images/uploads/2019_02_06_quick_one_pan_coq_au_vin_blanc_7.jpg)

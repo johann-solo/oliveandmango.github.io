@@ -15,6 +15,7 @@ description: Fudgey brownie-like Chocolate Cake topped with sliced pears and spr
 This Chocolate Hazelnut Pear Cake is a moist and easy cake to make. A fudgey brownie-like Chocolate Cake topped with sliced pears and sprinkled with chopped hazelnuts. The perfect breakfast, tea or dessert cake. There is a delicate sweetness that pears add which balances the richness of the chocolate, creating a very delicious combo. Apple and cinnamon are a famous combo that we all know and love, I thought I would switch this classic combo up with one not as conventional but just as good - pear, chocolate and cardamom.  When it is baking in the oven, the smell is pretty heavenly and comforting, it immediately says ‘home’.
 </br>
 </br>
+
 ![Chocolate Hazelnut Pear Cake](/images/uploads/2020_11_13_chocolate_hazelnut_pear_cake_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This Chocolate Hazelnut Pear Cake is a moist and easy cake to make. A fudgey bro
 Fall season is usually all about apples and pumpkins. In fact a very popular and traditional greek dessert for the fall is a simple apple cake that most greek households know of and love. Everyone’s family has there own version. It’s a fall tradition and a simple cake to accompany tea or coffee. I thought I would switch things up and instead of doing an apple cake or ‘milopita’ i would make a pear cake which is just as simple and delicious. 
 </br>
 </br>
+
 ![Chocolate Hazelnut Pear Cake](/images/uploads/2020_11_13_chocolate_hazelnut_pear_cake_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ Fall season is usually all about apples and pumpkins. In fact a very popular and
 I went a few steps further and made it a chocolate pear cake and added hazelnuts too. Plus I also made it GF by using <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/gluten-free-1-to-1-baking-flour.html">Bob’s Red Mill Gluten Free 1-to-1 Baking Flour</a></span> - traditional but with a twist. This is a flour I always have stocked which takes the guesswork out of GF baking. It’s a special 1-1 blend of gluten free flours, starches and xanthan gum. It’s perfect for quick breads, cookies, brownies and cakes.  The fact that it’s a 1-1 baking flour means you can use it as a straight substitute for all purpose flour and get excellent results. It works really well with this recipe. The cake sets up well when baking, it firms up even more as it cools and yet retains its fudgey texture. 
 </br>
 </br>
+
 ![Chocolate Hazelnut Pear Cake](/images/uploads/2020_11_13_chocolate_hazelnut_pear_cake_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ I went a few steps further and made it a chocolate pear cake and added hazelnuts
 The pears get nice and tender, making the cake irresistible and they also add a lovely decorative topping to the cake as well. The hazelnuts don’t only add a nice crunchy texture to the cake, but the sweet and nutty flavours from the hazelnuts work so well with chocolate and pear and cardamom. Having them ground and in the batter accentuates that and adds a little extra body to the batter itself. It’s a very light and naturally sweetened cake with a squidgey like brownie texture. Its not only refined sugar free and egg free making it vegan but its also gluten free if you use a gluten free 1-1 baking flour like Bob’s. It’s perfect served with a dusting of powered sugar and even served with a dollop of crème fraîche or whip cream.
 </br>
 </br>
+
 ![Chocolate Hazelnut Pear Cake](/images/uploads/2020_11_13_chocolate_hazelnut_pear_cake_5.jpg)
 </br>
 </br>
@@ -88,4 +92,5 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 Adapted from _The Modern Vegetarian Kitchen_
 
 </br>
+
 ![Chocolate Hazelnut Pear Cake](/images/uploads/2020_11_13_chocolate_hazelnut_pear_cake_6.jpg)

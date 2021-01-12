@@ -15,6 +15,7 @@ description: A creamy unami flavoured and delicious way to have greens
 This miso creamed kale recipe is a much more mature and flavour packed take on steakhouse creamed spinach. It’s made with kale - a heartier green and also includes delicious unami packed flavours of miso and the richness of cream, along with the meatiness of the soy flavoured mushrooms. It’s easy to make and also very quick to make and goes great with beef, poultry or pork and even seafood for fancy meals or homestyle comforting favourites.
 </br>
 </br>
+
 ![Miso Creamed Kale](/images/uploads/2020_12_17_miso_creamed_kale_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This miso creamed kale recipe is a much more mature and flavour packed take on s
 I came across a creamed spinach recipe I thought was interesting by Chrissy Teigen that sounded so good with great flavour combos and a cool way to add the cream in creamed spinach by using silken tofu. This took me into a deep dive through the internet rabbit hole of searching other creamed spinach recipes and came across this one. This one is from _Oregon Live_ and is the one I wanted to try - because it was made with a heartier green and also because it added Japanese flavours but with a westernized spin on them. It was everything I imagined and more. This will be the star of your dinner table. It’s one of those dishes that you just keeping reaching in for more so I recommend you make a double batch. 
 </br>
 </br>
+
 ![Miso Creamed Kale](/images/uploads/2020_12_17_miso_creamed_kale_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ I came across a creamed spinach recipe I thought was interesting by Chrissy Teig
 The miso adds that unique flavour that is almost pungent but in a good way almost like Parmesan cheese in a cream sauce. My husband actually thought it was a cheese sauce and couldn’t quite place the flavours. This isn’t your average creamed greens. It’s rich in flavours and personality as I like to say. So if you are use to a more plain creamed greens side dish this will definitely wake up your tastebuds. It’s so rich and so satisfying though and worth a try if you want to switch up your creamed greens recipe. 
 </br>
 </br>
+
 ![Miso Creamed Kale](/images/uploads/2020_12_17_miso_creamed_kale_4.jpg)
 </br>
 </br>
@@ -80,4 +83,5 @@ This recipe can be made dairy free using coconut cream or cashew creamer in plac
 * Feel free to make this dairy free by substituting  the cream with either coconut milk or a cashew creamer and using some sort of plant based butter. 
 
 </br>
+
 ![Miso Creamed Kale](/images/uploads/2020_12_17_miso_creamed_kale_5.jpg)

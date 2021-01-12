@@ -15,6 +15,7 @@ description: Simple roast chicken tender and juicy on the inside with golden cri
 This simple roast chicken with garlic herbed butter turns out perfect every time. Its tender and juicy on the inside with golden crisp skin. It  has the tastiest pan juices that can easily be turned into a luscious gravy. It’s hard to believe it’s taken me this long to share a basic and classic roast chicken recipe, but I suppose it’s better late than never.  There are so many variations of a classic roast chicken. This is one of my favorites because it’s infused with wonderful flavours and there are loads of delicious pan juices that are used to sauce to the chicken with or to make into a gravy if you are serving it with mashed potatoes or [cauliflower mash](https://www.oliveandmango.com/cider-braised-chicken-thighs-with-the-creamiest-cauliflower-mash/). 
 </br>
 </br>
+
 ![Simple Roast Chicken](/images/uploads/2020_10_08_simple_roast_chicken_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This simple roast chicken with garlic herbed butter turns out perfect every time
 It makes for a great meal that requires minimal prep work with fantastic textures and flavors with the garlic, butter and herbs. I know a lot of roast chicken recipes call for roasting veggies with the chicken or under the chicken and Im not opposed to that but it’s not my favorite either. I don’t like how mushy the veggies get. I usually roast my veggies separately so they stay tender and cook more evenly. This delicious roast chicken recipe does have something roasting under it though. It’s roasted over a bed of garlic and onion. This keeps the chicken elevated and off the pan which allows it to cook evenly and as a bonus adds extra flavour to the pan juices. 
 </br>
 </br>
+
 ![Simple Roast Chicken](/images/uploads/2020_10_08_simple_roast_chicken_3.jpg)
 </br>
 </br>
@@ -35,6 +37,7 @@ It makes for a great meal that requires minimal prep work with fantastic texture
 * Always allow 10-15 min of resting uncovered before slicing into it so the juices collect and the chicken remains moist.  
 
 </br>
+
 ![Simple Roast Chicken](/images/uploads/2020_10_08_simple_roast_chicken_4.jpg)
 </br>
 </br>
@@ -109,4 +112,5 @@ I love the flavour the wine gives to the pan juices but feel free to substitute 
 Adapted from _Recipe Tin Eats_
 
 </br>
+
 ![Simple Roast Chicken](/images/uploads/2020_10_08_simple_roast_chicken_5.jpg)

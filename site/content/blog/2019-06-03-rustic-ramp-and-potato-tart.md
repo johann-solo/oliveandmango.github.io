@@ -14,6 +14,7 @@ description: A buttery tart made with Spring’s most deliciously flavourful gre
 A buttery tart made with spring’s most deliciously flavourful greens!! The season seems to only now be starting here as I’m seeing them pop up at the market. The ones I got were imported and at Whole Foods a few weeks ago. Ramps are a wild onion and often called wild garlic. They look similar to a scallion but ramps have prettier and more tender greens. Their flavor is slightly more pronounced than a leek, scallion, or onion, but less than garlic- but somehow reminiscent of all four.
 </br>
 </br>
+
 ![Rustic Ramp And Potato Tart](/images/uploads/2019_06_03_rustic_ramp_and_potato_tart_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ A buttery tart made with spring’s most deliciously flavourful greens!! The sea
 They can be eaten sliced thin and raw on top of rice bowls and salads or sauté them in butter or olive oil and fold them into potato salad , omelets, skillet-seared meat dishes, or pasta with cream. Spin them into pesto, toss them on to a pizza, or turn them into a wild jam. I used them along with potatoes in this tart but I also tuned the rest of my stash into ramp butter which I used in all sorts of ways - I will share the recipe for the ramp butter soon along with how I used it.
 </br>
 </br>
+
 ![Rustic Ramp And Potato Tart](/images/uploads/2019_06_03_rustic_ramp_and_potato_tart_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ They can be eaten sliced thin and raw on top of rice bowls and salads or sauté 
 This tart is a really nice one that doesn’t take too much fussing. The crust itself is a free form one like a galette but even less fussy. You don’t need to get your folds perfect just folded over enough to hold the filling in. Speaking of that filling - it’s nothing to complex either. The base is a creamy layer of goat cheese mixed with the chopped white parts of the ramps and a sprinkle of fresh dill. Then a layer of very thinly sliced (I used a mandolin) potatoes. Then a whisked egg gets poured over the mixture which helps bind everything plus adds a certain extra layer of creaminess to the tart. The green parts of the ramps are added on top and by the time the tart bakes off the ramps develops the most delicious flavour. The edges of them get a little toasted and delicious like charred scallion with a garlicky bite.
 </br>
 </br>
+
 ![Rustic Ramp And Potato Tart](/images/uploads/2019_06_03_rustic_ramp_and_potato_tart_4.jpg)
 </br>
 </br>
@@ -38,6 +41,7 @@ Feel free to crumble extra goat cheese on top before serving along with some mor
 Adapted from _Food52_ and _Bon Appétit_
 </br>
 </br>
+
 ![Rustic Ramp And Potato Tart](/images/uploads/2019_06_03_rustic_ramp_and_potato_tart_5.jpg)
 </br>
 </br>
@@ -84,4 +88,5 @@ __For the filling__
 5. Pour the one whisked egg over, brush the other beaten egg over the edges of the crust and bake for 30-40 min until golden brown 
 
 </br>
+
 ![Rustic Ramp And Potato Tart](/images/uploads/2019_06_03_rustic_ramp_and_potato_tart_6.jpg)

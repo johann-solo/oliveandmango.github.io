@@ -12,15 +12,19 @@ excerpt: Flourless, naturally sweetened and fabulous
 I saw Tieghan’s (_Half Baked Harvest_) recipe for these using peanut butter and I knew exactly what had to be done. I needed to make an almond butter version. So glad I did too. These are the perfect snack. We couldn’t get enough! My husband was a little suspect about them, but one after the other they were gone in no time. They have a very nice and chewy texture and the chocolate drizzle and extra nuts add even more texture and a bit of crunch. 
 </br>
 </br>
+
 ![Chocolate Dipped Almond Butter Cookies](/images/uploads/2018_06_12_chocolate_dipped_almond_butter_cookies_2.jpg)
 </br>
 </br>
+
 ![Chocolate Dipped Almond Butter Cookies](/images/uploads/2018_06_12_chocolate_dipped_almond_butter_cookies_3.jpg)
 </br>
 </br>
+
 ![Chocolate Dipped Almond Butter Cookies](/images/uploads/2018_06_12_chocolate_dipped_almond_butter_cookies_4.jpg)
 </br>
 </br>
+
 ![Chocolate Dipped Almond Butter Cookies](/images/uploads/2018_06_12_chocolate_dipped_almond_butter_cookies_5.jpg)
 </br>
 </br>
@@ -28,15 +32,19 @@ I saw Tieghan’s (_Half Baked Harvest_) recipe for these using peanut butter an
 I stuck pretty close to the original recipe. I just added some almond meal. I thought it would add a bit more texture to the cookies and I was happy with the outcome and glad that I added it to them. They may feel a little on the oily side when you are rolling them but have no fear they bake up perfect.
 </br>
 </br>
+
 ![Chocolate Dipped Almond Butter Cookies](/images/uploads/2018_06_12_chocolate_dipped_almond_butter_cookies_6.jpg)
 </br>
 </br>
+
 ![Chocolate Dipped Almond Butter Cookies](/images/uploads/2018_06_12_chocolate_dipped_almond_butter_cookies_7.jpg)
 </br>
 </br>
+
 ![Chocolate Dipped Almond Butter Cookies](/images/uploads/2018_06_12_chocolate_dipped_almond_butter_cookies_8.jpg)
 </br>
 </br>
+
 ![Chocolate Dipped Almond Butter Cookies](/images/uploads/2018_06_12_chocolate_dipped_almond_butter_cookies_9.jpg)
 </br>
 </br>
@@ -44,15 +52,19 @@ I stuck pretty close to the original recipe. I just added some almond meal. I th
 We stored ours in the freezer in a sealed container because I made these in Trinidad and if left out of the fridge, the chocolate would become a very gooey mess. They would do just fine in the fridge as well if you actually have any leftover to store. They go pretty quickly.
 </br>
 </br>
+
 ![Chocolate Dipped Almond Butter Cookies](/images/uploads/2018_06_12_chocolate_dipped_almond_butter_cookies_10.jpg)
 </br>
 </br>
+
 ![Chocolate Dipped Almond Butter Cookies](/images/uploads/2018_06_12_chocolate_dipped_almond_butter_cookies_11.jpg)
 </br>
 </br>
+
 ![Chocolate Dipped Almond Butter Cookies](/images/uploads/2018_06_12_chocolate_dipped_almond_butter_cookies_12.jpg)
 </br>
 </br>
+
 ![Chocolate Dipped Almond Butter Cookies](/images/uploads/2018_06_12_chocolate_dipped_almond_butter_cookies_13.jpg)
 </br>
 </br>
@@ -60,6 +72,7 @@ We stored ours in the freezer in a sealed container because I made these in Trin
 Not only are they fabulous but they are fully made in the food processor and take under 30 minutes to make from start to finish. Simple to whip up and you will be making a second batch immediately after so don’t bother washing out the food processor after your first batch or just plan to make two batches right off the bat. Enjoy!
 </br>
 </br>
+
 ![Chocolate Dipped Almond Butter Cookies](/images/uploads/2018_06_12_chocolate_dipped_almond_butter_cookies_14.jpg)
 </br>
 </br>
@@ -90,4 +103,5 @@ and allow them to cool.
 9. Allow them to fully set in the refrigerator or eat immediately. They can be stored in an air tight container for up to 4 days. 
 
 </br>
+
 ![Chocolate Dipped Almond Butter Cookies](/images/uploads/2018_06_12_chocolate_dipped_almond_butter_cookies_15.jpg)

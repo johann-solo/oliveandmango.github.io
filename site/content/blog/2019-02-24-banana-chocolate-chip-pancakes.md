@@ -14,6 +14,7 @@ description: Thick fluffy pancakes with mashed bananas and chocolate chips are p
 Banana bread is a classic and one of my husband’s favourites. I’m pretty sure he buys extra bananas to make sure some don’t get eaten fast enough before getting over ripe and banana bread ready.  I’m OK with it as I love it too and banana bread is one of the easiest things to bake up. Make sure and check out some of my favourite banana bread recipes on the blog. You will love them.
 </br>
 </br>
+
 ![Banana Chocolate Chip Pancakes](/images/uploads/2019_02_24_banana_chocolate_chip_pancakes_2.jpg)
 </br>
 </br> 
@@ -21,6 +22,7 @@ Banana bread is a classic and one of my husband’s favourites. I’m pretty sur
 Since the love is real for banana bread, I knew it would be just as real for these banana chocolate chip pancakes. They taste like banana bread but a very fluffier version which tastes even better slathered in maple syrup.
 </br>
 </br>
+
 ![Banana Chocolate Chip Pancakes](/images/uploads/2019_02_24_banana_chocolate_chip_pancakes_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ Since the love is real for banana bread, I knew it would be just as real for the
 They are the perfect thing to make to use up those speckled bananas I know you have in your fruit basket. Chocolate and bananas go so well together and when you combine them in fluffy pancakes with golden edges – it makes for one delicious breakfast or dinner (no judgement here).
 </br>
 </br>
+
 ![Banana Chocolate Chip Pancakes](/images/uploads/2019_02_24_banana_chocolate_chip_pancakes_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ They are the perfect thing to make to use up those speckled bananas I know you h
 The chocolate chips melt into the batter as they cook making each bite of these pancakes delicious. These extra fluffy, super thick, chocolate chip filled banana bread in pancake form pancakes will be a hit on the breakfast/brunch table or the dinner table if you are doing breakfast for dinner. Be sure to have these on your list of things to make with all your over ripe bananas.
 </br>
 </br>
+
 ![Banana Chocolate Chip Pancakes](/images/uploads/2019_02_24_banana_chocolate_chip_pancakes_5.jpg)
 </br>
 </br>

@@ -14,6 +14,7 @@ description: A wonderful little banana based cake filled with Caribbean flavours
 A wonderful little banana based cake filled with Caribbean flavours - pineapple, coconut and lightly spiced with cinnamon and allspice. This yummy cake recipe can easily be doubled to make it as it’s classically made - stacked into a layer cake or leave as is to enjoy as a single layered snack cake. 
 </br>
 </br>
+
 ![Vegan Hummingbird Cake completed](/images/uploads/2020_04_30_vegan_hummingbird_cake_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ A wonderful little banana based cake filled with Caribbean flavours - pineapple,
 As I mentioned above it’s a banana based cake that is nicely spiced and a cake that is as popular and beloved as carrot cake. It comes as no surprise as they both have very similar textures, they both have the same amount of variations out there (so many variations), they both get their moisture  from fruits or veggies and they also both go really well with cream cheese frosting. Hummingbird cake is said to originate in Jamaica named after the island's national bird. It became extremely popular on this side of the world when a recipe for it was published in Southern Living magazine - that was in the late 70’s. Since its welcome it’s become a favorite cake in many homes. 
 </br>
 </br>
+
 ![Vegan Hummingbird Cake sliced](/images/uploads/2020_04_30_vegan_hummingbird_cake_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ As I mentioned above it’s a banana based cake that is nicely spiced and a cake
 Ours included. I love any cake with pineapple and this cake not only has pineapple in it but it’s also loaded with pecans and spiced just right. Because it tends to be on the moister side of things I thought it would be a great cake to make into a gluten free one. Something I think a lot of gluten free all purpose flours translate well in. I used <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/shop/gluten-free/gluten-free-1-to-1-baking-flour.html">Bob’s Red Mill Gluten Free 1-1 Baking Flour</a></span> in this recipe and I was happy with the result. It easily fits into any baking recipe without any add ins to worry about. I get away with using it unnoticed in a lot of my baking as a 1-1 substitute for all purpose flour. Bob’s Red Mill has you covered when it comes to all of your baking needs while catering to those in your family who have specific food allergies. Their flours come in stone-ground, whole grain, organic, gluten free, paleo, and vegan options, perfect for any spring recipes. 
 </br>
 </br>
+
 ![Vegan Hummingbird Cake with pieces cut](/images/uploads/2020_04_30_vegan_hummingbird_cake_4.jpg)
 </br>
 </br>
@@ -40,6 +43,7 @@ The leavening agents along with the apple cider vinegar help give the cake that 
 I also added some shredded coconut in mine too as I think pineapple and coconut are perfect together. I went with a vegan buttercream that can easily be made with any vegan/plant based butter. It’s a lot lighter than a cream cheese frosting and it goes with everything. I used coconut extract instead of vanilla for extra coconut flavour in the frosting and I simply decorated the whole thing by sprinkling it with toasted coconut slices. 
 </br>
 </br>
+
 ![Vegan Hummingbird Cake ready to serve](/images/uploads/2020_04_30_vegan_hummingbird_cake_5.jpg)
 </br>
 </br>
@@ -102,4 +106,5 @@ __For the Vegan buttercream frosting__
 10. Store any leftover cake in the refrigerator.
 
 </br>
+
 ![Vegan Hummingbird Cake top view](/images/uploads/2020_04_30_vegan_hummingbird_cake_6.jpg)

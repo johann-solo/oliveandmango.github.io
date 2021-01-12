@@ -12,6 +12,7 @@ excerpt: I dare you to not eat this pie all in one sitting
 There’s one last piece of this pie in the fridge and it’s taking all sorts of power to not eat it.  I promised a friend a piece and hers just happens to be the last one! I need to drop it off for her or she needs to pick it up pronto before our self control runs out.
 </br>
 </br>
+
 ![Chocolate Chess Pie](/images/uploads/2018_03_14_chocolate_chess_pie_2.jpg)
 </br>
 </br>
@@ -19,9 +20,11 @@ There’s one last piece of this pie in the fridge and it’s taking all sorts o
 Pi day! I’m slowly learning all the important food days in the blogosphere and Pi day is one of the big ones.  Not Pie day but Pi day - why? Your guess is as good as mine especially since π in Greek is pronounced “P” – which doesn’t sound as appealing as pie. I personally think bloggers need any excuse to celebrate food, me included, so why not take advantage of Pi day too since you can conveniently use the mathematical formula as you slice your pie. 
 </br>
 </br>
+
 ![Chocolate Chess Pie](/images/uploads/2018_03_14_chocolate_chess_pie_3.jpg)
 </br>
 </br>
+
 ![Chocolate Chess Pie](/images/uploads/2018_03_14_chocolate_chess_pie_4.jpg)
 </br>
 </br>
@@ -29,6 +32,7 @@ Pi day! I’m slowly learning all the important food days in the blogosphere and
 I knew what kind of pie I was making way before as I was planning for Pi day. It was going to be a chocolate chess pie. I love my salty honey pie and always wanted to try a chocolate version.  I saw Katie Clova post one and I was dying – and needed to have it.  I did a little research because who knew chess pies have so many variations when it comes to egg ratios, along with which type of milk product to use and even the debate about using flour vs cornmeal.
 </br>
 </br>
+
 ![Chocolate Chess Pie](/images/uploads/2018_03_14_chocolate_chess_pie_5.jpg)
 </br>
 </br>
@@ -40,9 +44,11 @@ I knew the texture I wanted mine to have and I used _Katie Clova’s_ recipe as 
 Just like the salty honey pie, it’s just a matter of making your crust, (which I always make in advance - like the night before) mixing the custard, pouring it in the crust and baking it. It’s a no fuss pie and the perfect dessert to make ahead as well.  As I mentioned I make the crust in advance, but I also will bake the pie and refrigerate it up to a day in advance. Perfect for company. I make the whip cream topping just before I serve it and you can either serve it cold or allow it to come to room temperature before adding the whip cream topping.
 </br>
 </br>
+
 ![Chocolate Chess Pie](/images/uploads/2018_03_14_chocolate_chess_pie_6.jpg)
 </br>
 </br>
+
 ![Chocolate Chess Pie](/images/uploads/2018_03_14_chocolate_chess_pie_7.jpg)
 </br>
 </br>
@@ -50,9 +56,11 @@ Just like the salty honey pie, it’s just a matter of making your crust, (which
 It’s a total crowd pleaser as very few can resist a luscious chocolate desert. The original recipe called for a sweeter whip topping but I think less sugar is better to offset the sweet chocolate custard layer, but do add more sugar if you prefer it a little sweeter. I used my go to pie crust recipe because its simple and always - like always even when I think it’s a fail it yields a tender, flaky with the right amount of crispness, pie crust. You can use mine or anyone you feel comfortable with though.
 </br>
 </br>
+
 ![Chocolate Chess Pie](/images/uploads/2018_03_14_chocolate_chess_pie_8.jpg)
 </br>
 </br>
+
 ![Chocolate Chess Pie](/images/uploads/2018_03_14_chocolate_chess_pie_9.jpg)
 </br>
 </br>
@@ -60,9 +68,11 @@ It’s a total crowd pleaser as very few can resist a luscious chocolate desert.
 This sweet and creamy filing would go wonderfully with a buttermilk based pie crust too. The slight tang would be great with the rich chocolate. That’s the same pie crust I used in the salty honey pie.  Are you sick of hearing about that salty honey pie yet? Sorry it’s only the pie that changed my life and view of pies. So glad I got to eat that life-changing pie at _Four & Twenty Blackbirds_ in Brooklyn. Anyways since then I’m a convert from cake to pie.  I never really understood the fuss, and that’s because I had never had a great pie   before then (sad but true). More like mediocre pies that I could take or leave after one bite. I’m learning a lot about them now and although my decorating needs work and I’m building up to a basic lattice, I’m totally loving them and now fully appreciate the fuss!
 </br>
 </br>
+
 ![Chocolate Chess Pie](/images/uploads/2018_03_14_chocolate_chess_pie_10.jpg)
 </br>
 </br>
+
 ![Chocolate Chess Pie](/images/uploads/2018_03_14_chocolate_chess_pie_12.jpg)
 </br>
 </br>
@@ -70,6 +80,7 @@ This sweet and creamy filing would go wonderfully with a buttermilk based pie cr
 Although this pie has no fancy lattice or cutout work, its pleases the palate immensely with all the creamy sweet textures and that flaky tender buttery crust. Who could ask for a more perfect dessert? Definitely not me! Give this a go and let me know how you feel about it.
 </br>
 </br>
+
 ![Chocolate Chess Pie](/images/uploads/2018_03_14_chocolate_chess_pie_11.jpg)
 </br>
 </br>
@@ -134,4 +145,5 @@ __For the chocolate whipped topping__
 1. Once cooled, prepare the whipped cream topping. Beat the heavy cream, sugar and vanilla extract until stiff peaks form. Spread the whipped cream on top of the pie and serve with a dusting of cocoa powder. 
 
 </br>
+
 ![Chocolate Chess Pie](/images/uploads/2018_03_14_chocolate_chess_pie_13.jpg)

@@ -19,6 +19,7 @@ This skillet pizza is the way to go for a delicious crispy crust and for a quick
 First you need a good heavy bottom skillet 9-12" cast-iron is totally fine. Any size pan is really fine, but just remember the smaller the pan, the thicker the crust will be and the longer it may need to bake. If deep dish-style pizza is your thing, go for the 9".  If you want a crispier crust, use a larger pan. You want to preheat the pan so it's hot but not smoking (just watch your hands—and don't grab the handle without oven mitts) that is why the pan is preheated in the oven. This kicks start the baking process. Drizzle the hot pan with some olive oil set the dough snugly in the pan (again, watch your fingers). Pull the sides of the dough up the sides of the pan so it doesn't slump back down, being sure to distribute the dough evenly. Brush the top of the dough with olive oil. Then pile on your toppings and carefully put it in the oven to bake off for another 12-15 minutes and done! It’s that easy. 
 </br>
 </br>
+
 ![Spicy Honey Soppressata Cast Iron Skillet Pizza](/images/uploads/2020_04_03_spicy_honey_soppressata_cast_iron_skillet_pizza_2.jpg)
 </br>
 </br>
@@ -26,6 +27,7 @@ First you need a good heavy bottom skillet 9-12" cast-iron is totally fine. Any 
 This is one of my favorite flavour combos when it comes to pizza. I’m definitely a pepperoni and cheese kind of girl and love a little heat. The addition of honey is so genius - I got the idea from a local pizza place and knew I needed to add it to the toppings list for the next pizza night. The sweet, salty, and spicy flavours go so well together. If you aren’t a fan of the heat just use regular salami - I promise you will be addicted to the sweet and savoury combo!! 
 </br>
 </br>
+
 ![Spicy Honey Soppressata Cast Iron Skillet Pizza](/images/uploads/2020_04_03_spicy_honey_soppressata_cast_iron_skillet_pizza_3.jpg)
 </br>
 </br>
@@ -33,6 +35,7 @@ This is one of my favorite flavour combos when it comes to pizza. I’m definite
 This pizza comes together super fast if you have store-bought pizza dough on hand or if you have premade pizza dough. I have my favorite pizza dough recipe below that I love to make on Friday night in preparation for pizza night Saturday. It only needs 1-1&frac12; hours to rest but I like to make it a day ahead. It’s easy but requires a little bit of elbow grease. It’s worth it and I always find kneading super therapeutic! It’s like an end of the week therapy session when I’m making my pizza dough. What I love about this dough is that it’s so versatile - if you want a thin crust style pizza your just stretch or roll it out thin - if you want a thicker crust it works as well - whether it’s thicker or thinner the texture is perfect - it’s got that slight chew that you want in your crust and the bottom and edges have a nice crunch.  The edges puff up perfectly and it also gets those fabulous air pockets I love in pizza - even when your roll it. This dough behaves really well and responds well to just using your hands to stretch it out - but I like to get mine started with a few rolls to begin with and then I stretch it out by hand to the size I want it to be. Using store bought is totally acceptable though and even quicker so feel free to use whatever you like. 
 </br>
 </br>
+
 ![Spicy Honey Soppressata Cast Iron Skillet Pizza](/images/uploads/2020_04_03_spicy_honey_soppressata_cast_iron_skillet_pizza_4.jpg)
 </br>
 </br>
@@ -40,6 +43,7 @@ This pizza comes together super fast if you have store-bought pizza dough on han
 The same goes for the pizza sauce - store bought is totally fine but I have also included my go-to recipe for a super delicious thick and rich pizza sauce. It’s super easy to make and lasts in the fridge for at least a week so it’s easy to make ahead. Homemade always tastes better to me, but when it comes to getting dinner on the table fast I’m definitely not above a good store bought cheat.  
 </br>
 </br>
+
 ![Spicy Honey Soppressata Cast Iron Skillet Pizza](/images/uploads/2020_04_03_spicy_honey_soppressata_cast_iron_skillet_pizza_5.jpg)
 </br>
 </br>

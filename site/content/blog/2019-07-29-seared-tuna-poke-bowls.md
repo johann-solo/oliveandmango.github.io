@@ -14,6 +14,7 @@ description: Tasty marinated seared tuna slices over rice with all the fixings
 Poke bowls have become ever so popular over the past few years. If you are a fan of sushi you will definitely be a fan of poke. It’s said to be the next generation of sushi but easier to eat and even more customizable. Poke means “to slice or cut” in Hawaiian (it’s a dish native to Hawaii) and refers to chunks of raw, marinated fish — usually tuna — which is then tossed over rice and topped with vegetables and sauces. 
 </br>
 </br>
+
 ![Seared Tuna Poke Bowls](/images/uploads/2019_07_29_seared_tuna_poke_bowls_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Poke bowls have become ever so popular over the past few years. If you are a fan
 Poke bowls are usually composed of a few main components - rice, fish, seasoning, dressing, vegetables and hot sauce. The warm rice, usually Jasmin, is a nice compliment to the cold fish and veggies. You can also do noodles or even zoodles for a less traditional way of eating poke. When it comes to the fish, poke bowls are made with sushi grade ahi tuna, or salmon and snapper. If you are like me and are not too keen on preparing raw fish, you can use other alternatives like the one I chose here. I used <span class="highlight"><a rel="nofollow" href="https://www.metro.ca/en/online-grocery/aisles/frozen/fish-seafood/fish-filets-steaks/frozen-seared-tuna-tataki/p/059749968058">Irresistibles Seared Tuna Tataki</a></span>. It’s ready to eat seared tuna with a peppercorn and garlic rub. It was delicious as is but even more delicious after being marinated in all the fabulous flavours in the poke marinade, which brings us to the seasonings and dressing. The fish is mixed with scallions, sesame seeds flakes of sea salt and chopped kukui nuts (which I didnt have but a good alternative is macadamia nuts or cashews as I used in my recipe) to enhance the flavor.
 </br>
 </br>
+
 ![Seared Tuna Poke Bowls](/images/uploads/2019_07_29_seared_tuna_poke_bowls_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ Poke bowls are usually composed of a few main components - rice, fish, seasoning
 The dressing is usually made up of salty sauces often made with soy sauce, shoyu, ponzu and even black bean paste. Mine is a combo of soy sauce, sesame oil, rice vinegar, a squeeze of lime juice and a little sriracha. When it comes to the vegetable toppings - there are so many options. I had listed some of my favourites below but I believe that a good poke bowl needs some crisp and crunchy veggies along with some creaminess of avocado. Really it all depends on your taste. Purists enjoy theirs with very few or no toppings - they like to enjoy the flavours of the marinated fish. For others like me - bring on all the textures and colours of the toppings. 
 </br>
 </br>
+
 ![Seared Tuna Poke Bowls](/images/uploads/2019_07_29_seared_tuna_poke_bowls_4.jpg)
 </br>
 </br>
@@ -39,6 +42,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 
 </br>
 </br>
+
 ![Seared Tuna Poke Bowls](/images/uploads/2019_07_29_seared_tuna_poke_bowls_5.jpg)
 </br>
 </br>
@@ -86,4 +90,5 @@ __Extra garnish options__
 3. Remove from fridge and serve over a bed of white rice along with any garnishes you would like and some hot sauce/sriracha on the side. 
 
 </br>
+
 ![Seared Tuna Poke Bowls](/images/uploads/2019_07_29_seared_tuna_poke_bowls_6.jpg)

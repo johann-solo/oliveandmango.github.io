@@ -14,6 +14,7 @@ description: A classic herb yogurt dressing with a blend of chives and fresh her
 This creamy herb yogurt dressing is tangy, and delicious and ready in just minutes. A blend of yogurt, chives and fresh herbs is the perfect way to dress up any salad or veggie tray and even slather on a sandwich. 
 </br>
 </br>
+
 ![Creamy Lemon Herb Yogurt Dressing](/images/uploads/2020_07_28_creamy_lemon_herb_yogurt_dressing_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This creamy herb yogurt dressing is tangy, and delicious and ready in just minut
 This is not only a versatile dressing but it’s also customizable. I love to use any fresh herbs I have on hand and if I don’t have fresh chives or green onions I often grate in a clove of garlic. It’s an easy one to whip up and it even tastes better the next day making it a great make ahead dressing that you can keep on hand in the fridge. It keeps well in the fridge for up to 3 days. We go through it quicker that that cause it’s really that good. I recommend using a full fat greek yoghurt for the base as this adds to the creamier texture of the dressing.  I love using avocado mayo but any mayo would work well here.  I know you will love it and will want to slather it on just about it anything. Enjoy! 
 </br>
 </br>
+
 ![Creamy Lemon Herb Yogurt Dressing](/images/uploads/2020_07_28_creamy_lemon_herb_yogurt_dressing_3.jpg)
 </br>
 </br>
@@ -70,4 +72,5 @@ Total time: 35 min
 1. Store unused dressing tightly covered in the refrigerator for up to 3 days. 
 
 </br>
+
 ![Creamy Lemon Herb Yogurt Dressing](/images/uploads/2020_07_28_creamy_lemon_herb_yogurt_dressing_4.jpg)

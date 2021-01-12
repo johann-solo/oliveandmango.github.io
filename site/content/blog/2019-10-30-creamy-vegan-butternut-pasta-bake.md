@@ -14,6 +14,7 @@ description: A pasta bake big on comfort but not the heaviness
 November comfort foods need not make you feel heavy with their richness - this pasta bake delivers on comfort but not the heaviness. It’s totally plant based and totally delicious. It combines the sweetness and creaminess of butternut squash with tomato sauce and the hit of salty tang from the sun dried tomatoes. If tomato sauce with pumpkin purée is a thing than tomato sauce with butternut squash is a no brainer 
 </br>
 </br>
+
 ![Creamy Vegan Butternut Pasta Bake](/images/uploads/2019_10_30_creamy_vegan_butternut_pasta_bake_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ November comfort foods need not make you feel heavy with their richness - this p
 I checked up a lot of recipes for a vegan sauce and this by far was my favorite - no tamari in it and no other add-ins necessary to give this sauce great flavour - the herbs and the sun dried tomatoes are all the flavour boost this sauce needs. It’s simple to make and the butternut squash cooks in with the tomato sauce absorbing all the flavours before everything is puréed together to make a velvety sauce. 
 </br>
 </br>
+
 ![Creamy Vegan Butternut Pasta Bake](/images/uploads/2019_10_30_creamy_vegan_butternut_pasta_bake_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I checked up a lot of recipes for a vegan sauce and this by far was my favorite 
 I loved using GoGo Quinoa Amaranth Pasta in this bake. I always find that all their GF pastas hold up so well in bakes. They have a variety of GF pastas - which I totally appreciate as I almost always eat GF pasta. It’s also one my hubby doesn’t turn his nose up at. The pasta absorbs that luscious sauce and bakes up beautifully and the crunchy herby breadcrumb topping adds a little more flavour and texture to each bite! 
 </br>
 </br>
+
 ![Creamy Vegan Butternut Pasta Bake](/images/uploads/2019_10_30_creamy_vegan_butternut_pasta_bake_4.jpg)
 </br>
 </br>
@@ -38,6 +41,7 @@ November is the ultimate comfort food month - as is every month of the winter if
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com">GoGo Quinoa</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Creamy Vegan Butternut Pasta Bake](/images/uploads/2019_10_30_creamy_vegan_butternut_pasta_bake_5.jpg)
 </br>
 </br>
@@ -92,4 +96,5 @@ __For the breadcrumb topping__
 7. Let cool for a few minutes before serving. (I served mine with fried sage leaves over it - pan fry sage leaves in olive oil for a minute or two, remove sage from oil and garnish pasta bake with them adding a little extra crunch to each serving) 
 
 </br>
+
 ![Creamy Vegan Butternut Pasta Bake](/images/uploads/2019_10_30_creamy_vegan_butternut_pasta_bake_6.jpg)

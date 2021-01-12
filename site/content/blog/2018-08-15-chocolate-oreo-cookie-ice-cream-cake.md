@@ -12,12 +12,15 @@ excerpt: Quick and easy take on a classic ice cream cake – better than DQ
 What better treat is there than ice cream, especially in the hot months of the summer or if you live in the Caribbean - basically anytime? Who doesn’t love ice-cream with a bit of cake? Truthfully, that would be me. The only thing I mix with ice cream is pie and maybe brownies if they are super gooey and chewy. For me cake is a stand alone, but not for my dad and my husband - who combined, have the sweetest teeth I know and the reason I made this ice cream cake. They both have an evening ice cream eating ritual. Either they will go out and grab some or have some at home. They are so bad for each other. They know they shouldn’t and yet they can’t stop themselves either.
 </br>
 </br>
+
 ![Chocolate Oreo Cookie Ice Cream Cake](/images/uploads/2018_08_15_chocolate_oreo_cookie_ice_cream_cake_2.jpg)
 </br>
 </br>
+
 ![Chocolate Oreo Cookie Ice Cream Cake](/images/uploads/2018_08_15_chocolate_oreo_cookie_ice_cream_cake_3.jpg)
 </br>
 </br>
+
 ![Chocolate Oreo Cookie Ice Cream Cake](/images/uploads/2018_08_15_chocolate_oreo_cookie_ice_cream_cake_4.jpg)
 </br>
 </br>
@@ -25,12 +28,15 @@ What better treat is there than ice cream, especially in the hot months of the s
 My parents had their anniversary coming up and I was trying to think of something special to make my dad in particular, as he has had a few rough months and thought ice cream cake would be the best option. He kept asking for cheesecake but I said I would save that one for later. I think he was happy I went with the ice cream cake and so was my husband who was rooting for that option right from the start.
 </br>
 </br>
+
 ![Chocolate Oreo Cookie Ice Cream Cake](/images/uploads/2018_08_15_chocolate_oreo_cookie_ice_cream_cake_5.jpg)
 </br>
 </br>
+
 ![Chocolate Oreo Cookie Ice Cream Cake](/images/uploads/2018_08_15_chocolate_oreo_cookie_ice_cream_cake_6.jpg)
 </br>
 </br>
+
 ![Chocolate Oreo Cookie Ice Cream Cake](/images/uploads/2018_08_15_chocolate_oreo_cookie_ice_cream_cake_7.jpg)
 </br>
 </br>
@@ -38,12 +44,15 @@ My parents had their anniversary coming up and I was trying to think of somethin
 I wanted to do a pretty basic one and I know my dad loves cookies and cream ice cream so this flavour of cake was pretty much the best option. This ice cream cake is incredibly easy to make. I have added the options for making portions of it from scratch but you also have the option of store bought for some of the ingredients too. I made my go to chocolate cake which is super simple to make. I had made it ahead of time and had it ready for when I wanted to put the ice cream cake together and it was fabulous. Using a plain store bought one works just fine as well, so if your tight for time or just don’t feel like baking, definitely do store bought. This was much cheaper to make than to buy at any of the ice cream shops and it’s way more special when you make it yourself. It was thoroughly enjoyed by the whole family.
 </br>
 </br>
+
 ![Chocolate Oreo Cookie Ice Cream Cake](/images/uploads/2018_08_15_chocolate_oreo_cookie_ice_cream_cake_8.jpg)
 </br>
 </br>
+
 ![Chocolate Oreo Cookie Ice Cream Cake](/images/uploads/2018_08_15_chocolate_oreo_cookie_ice_cream_cake_9.jpg)
 </br>
 </br>
+
 ![Chocolate Oreo Cookie Ice Cream Cake](/images/uploads/2018_08_15_chocolate_oreo_cookie_ice_cream_cake_10.jpg)
 </br>
 </br>
@@ -51,6 +60,7 @@ I wanted to do a pretty basic one and I know my dad loves cookies and cream ice 
 It took very little effort to decorate as well. Chocolate ganache or even extra sauce is the perfect garnish along with more of the cookies. Some people love to add a layer or design the cake with prepared whip cream or homemade whip and that is completely optional. You can also sub out the Oreos for your fav candy bar as well. I may make it again with _Kit Kat_! I think it will taste amazing with some _Ferrero Rocher_ too. I will experiment and let you guys know how it goes. In the meantime this is definitely a keeper and has already been requested for other occasions!
 </br>
 </br>
+
 ![Chocolate Oreo Cookie Ice Cream Cake](/images/uploads/2018_08_15_chocolate_oreo_cookie_ice_cream_cake_11.jpg)
 </br>
 </br>

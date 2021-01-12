@@ -12,6 +12,7 @@ excerpt: The quickest pie you will ever make full of creamy textures and sweetne
 This pie was the first experience I ever had with anything ‘banoffee’.  There’s no particular reason for  avoiding it, it just never happened. When I saw the opportunity to make it for _Rainydaybites_ cookbook challenge I knew I had to take it and make it.
 </br>
 </br>
+
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_2.jpg)
 </br>
 </br>
@@ -19,12 +20,15 @@ This pie was the first experience I ever had with anything ‘banoffee’.  Ther
 Banoffee pie is typically layers of bananas, toffee, and cream all on a base of crumbled cookies.  The one from _Bringing it Home_, in Gail Simmons book, called for a chocolate wafer crumbled bottom layer. You would think plain chocolate wafer cookies would be very easy to come by, by not here. I had no time to experiment with Oreo cookies (include the filling or remove - lick and eat the filling) and so glad I came across this recipe from The cooking channel TVs website and had all the ingredients to make homemade ones from scratch. Super simple recipe with basic pantry ingredients. Whipped them up and stored in a cookie jar until I was ready to make the pie. If you can get your hands on them to buy - even better and quicker! But if you can’t this is a great recipe for the wafers and you will have leftovers which are great with ice cream - just saying. You can also use graham cracker wafers and scrap the whole chocolate thing all together if that’s all you have in your pantry. Chocolate adds another dimension of yumminess though. Either would work just great. It’s always good to have options right?
 </br>
 </br>
+
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_3.jpg)
 </br>
 </br>
+
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_4.jpg)
 </br>
 </br>
+
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_5.jpg)
 </br>
 </br>
@@ -32,15 +36,19 @@ Banoffee pie is typically layers of bananas, toffee, and cream all on a base of 
 The dulce de leche is also super simple to make at home. Gail Simmons method kind of scared me - with the possibility of the can exploding if you don’t monitor the water levels throughout the whole process, so I opted to use an old method I have been using from _Food52_. It’s a no fail method and no real monitoring required.  Even if your dulce de leche gets a little thick from baking, you can thin it out with a little milk or water. It’s easy and all fears of explosion and cleaning up condescend milk from your walls and ceiling are removed. If you don’t feel like DIYing your dulce de leche or have a storebought bottle you have been looking for an excuse to open and use, definitely use it in this recipe.  Either would be perfect.
 </br>
 </br>
+
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_6.jpg)
 </br>
 </br>
+
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_7.jpg)
 </br>
 </br>
+
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_8.jpg)
 </br>
 </br>
+
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_9.jpg)
 </br>
 </br>
@@ -48,12 +56,15 @@ The dulce de leche is also super simple to make at home. Gail Simmons method kin
 This is a fabulously easy pie to put together and perfect for entertaining. I made the wafers ahead and also the dulce de leche. After making the dulce de leche I poured it into a jar, let it cool and stored in the fridge until I made the pie. While I made the crust I brought out the dulce de leche  out of the fridge allowing it to come to room temp and a pourable consistency ready for when I put the layers of the pie together.  Super simple, no stress pie. It doesn’t need to look perfect either. The layers hold together when chilled. Presentation is kind of fleeting when it comes to this pie because 1) when it comes to room temp its starts to soften and droop 2) it’s gone and gobbled up before anyone notices how good it looks. It’s that good!
 </br>
 </br>
+
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_10.jpg)
 </br>
 </br>
+
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_11.jpg)
 </br>
 </br>
+
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_12.jpg)
 </br>
 </br>
@@ -61,9 +72,11 @@ This is a fabulously easy pie to put together and perfect for entertaining. I ma
 Because it’s chilled it tastes like a cross between a banana split and a marsbar. So delicious and totally a sinful indulgence. At least if feels that’s way with each bite. It’s very creamy, crunchy and salty from the nuts and rich and decadent from the dulce de leche. My husband thought he would be put off by the banana sliding around in between layers but that was not the case. They added another layer of sweetness along with a creamy texture. The banana flavour is mellowed but the nuts and dulce.
 </br>
 </br>
+
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_13.jpg)
 </br>
 </br>
+
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_14.jpg)
 </br>
 </br>
@@ -71,6 +84,7 @@ Because it’s chilled it tastes like a cross between a banana split and a marsb
 You will love this pie and you will wonder why you never made it sooner. Whether you DIY it or use store-bought products, the end result is sweet sinful layers of deliciousness that you may possibly regret sharing. So make it for yourself or share it with company and enjoy every sinful bite!
 </br>
 </br>
+
 ![Chocolate Banoffee Pie](/images/uploads/2018_03_02_chocolate_banoffee_pie_15.jpg)
 </br>
 </br>

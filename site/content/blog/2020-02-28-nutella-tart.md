@@ -14,6 +14,7 @@ description: A Nutella tart with a tender, grain-free and gluten free crust with
 This Nutella tart is one of my favourite by far - obviously because of my love of Nutella but also for my love of simple, straightforward and delicious dessert recipes! From the tender grain-free crust to the creamy chocolate hazelnut filling - it’s a dessert that never disappoints. What is truly disappointing is actually me - I can’t believe It’s taken me this long to get a Nutella tart up on the blog. There are so many good ones out there to choose from you guys but I wanted to share one on here that is super simple to make and also one that doesn’t require cream cheese - I wanted it to be lighter and creamier than a Nutella cheesecake. That’s where mascarpone comes in - but before we get to the cream cheese of Italy let me start from the bottom up with this awesome versatile crust. 
 </br>
 </br>
+
 ![No Bake Nutella Tart](/images/uploads/2020_02_28_nutella_tart_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This Nutella tart is one of my favourite by far - obviously because of my love o
 Did you notice something missing in the crust? It’s sugar free making this a crust that can be used for sweet or savoury tarts. Something else that is missing is a whole lot of directions and fuss. This is a stir and press in crust that bakes up beautifully! It’s forgiving, and so simple to make. The <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/almond-meal-flour.html">almond </a></span> and <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/organic-coconut-flour.html">coconut</a></span> flour add a fabulous nuttiness to the crust and a very subtle sweetness that sits well behind the flavours of any filling. Both the coconut flour and the almond flour by Bob’s Red Mill which I always have stocked in my pantry - I do a lot of client work that requires both those flours and I just love using them. I have gained a bit more experience using them from the client work that I do and they make a great flour blend and replacement in crust, brownies and even cookies. Bob’s has you covered when it comes to all baking needs - Grain/Gluten Free, vegan or paleo - grab these flours and more on line or in store at Wholefoods. 
 </br>
 </br>
+
 ![Nutella Tart With A Gluten Free Crust](/images/uploads/2020_02_28_nutella_tart_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ Did you notice something missing in the crust? It’s sugar free making this a c
 Let’s talk about that filling. It’s basically two ingredients - TWO - the other two don’t technically count cause I add them to everything - like I add salt and pepper to all my savoury dishes - a little salt and vanilla go into most if not all my baking too. I won’t argue the numbers too much though - the point is it’s minimal ingredients and so simple to make. Mascarpone has a much richer, creamier taste and higher fat content than cream cheese and a lot less tang. I love how mellow it is and how rich it is and it’s definitely the way to go when making this tart. If you absolutely cannot get your hands on mascarpone check this link out on how to fake it with  <span class="highlight"><a rel="nofollow" href="https://www.google.ca/amp/s/spoonuniversity.com/lifestyle/mascarpone-vs-cream-cheese/amp">cream cheese</a></span>.  Or you can make your own like I did when I was living in Trinidad. I always used <span class="highlight"><a rel="nofollow" href="https://food52.com/blog/12319-homemade-mascarpone-cheese">this recipe</a></span>. You don’t have to use Nutella brand to make this tart. Feel free to use any other chocolate hazelnut spread. I have to admit though I have never tried this particular recipe with homemade or all natural chocolate hazelnut spread so the texture and consistency may be different if using those. The generic ones you get that are similar to Nutella will yield the most similar result in taste and texture. 
 </br>
 </br>
+
 ![How to make a Nutella Tart](/images/uploads/2020_02_28_nutella_tart_4.jpg)
 </br>
 </br>
@@ -90,4 +93,5 @@ __For the topping__
 Adapted from __Epicurious__
 </br>
 </br>
+
 ![Nutella Tart](/images/uploads/2020_02_28_nutella_tart_5.jpg)

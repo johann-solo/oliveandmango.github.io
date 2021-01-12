@@ -14,9 +14,11 @@ description: This is a pillowy rich white chocolate eggnog mousse made with lusc
 You guys know how much I love olive oil. Especially a very good quality one. Good olive oil, real olive oil, should smell and taste green, bright, peppery, earthy, grassy, or any combination thereof. That is exactly what _Kalikori_ tastes like. It has a distinctive green colour and a peppery finish, moderately intense aromatic notes reminiscent of spring herbs and the Mediterranean sun. I love what it does to food, of course, but I also love it in baked goods. It gives a [wonderful flavour and texture to cakes](https://www.oliveandmango.com/vegan-chocolate-olive-oil-cake-with-olive-oil-frosting/); it gives [cookies](https://www.oliveandmango.com/salted-olive-oil-chocolate-chunk-cookies-with-almonds/) a little something special too! 
 </br>
 </br>
+
 ![White Chocolate Eggnog Mousse](/images/uploads/2019_12_15_white_chocolate_eggnog_mousse_2.jpg)
 </br>
 </br>
+
 ![White Chocolate Eggnog Mousse](/images/uploads/2019_12_15_white_chocolate_eggnog_mousse_3.jpg)
 </br>
 </br>
@@ -24,9 +26,11 @@ You guys know how much I love olive oil. Especially a very good quality one. Goo
 The olive oil doesn’t just bring its distinct flavour to the mousse, it creates its smooth, soft, pillowy texture that is creamy yet light and frothy. Along with the olive oil this mousse has some very classic eggnog flavours in it. It’s got the eggs, sugar, cream, booze and nutmeg. The white chocolate gives it a rich quality to it that I love. I used _Nigella Lawson’s_ recipe for olive oil chocolate mousse as a basis for the recipe but I had to switch several things up as white chocolate responds a little differently due to fat content, it’s also more sensitive to high heat and sweeter than dark chocolate. 
 </br>
 </br>
+
 ![White Chocolate Eggnog Mousse](/images/uploads/2019_12_15_white_chocolate_eggnog_mousse_4.jpg)
 </br>
 </br>
+
 ![White Chocolate Eggnog Mousse](/images/uploads/2019_12_15_white_chocolate_eggnog_mousse_5.jpg)
 </br>
 </br>
@@ -37,6 +41,7 @@ This is a wonderful light but decadent dessert that is it lightly spiced and boo
 I have partnered up with <span class="highlight"><a rel="nofollow" href="http://kalikori.com"><span class="highlight"><a rel="nofollow" href="http://kalikori.com">Kalikori</a></span></a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![White Chocolate Eggnog Mousse](/images/uploads/2019_12_15_white_chocolate_eggnog_mousse_6.jpg)
 </br>
 </br>
@@ -81,4 +86,5 @@ Note: the egg yolks are whisked over a Bain-Marie in this recipe, but that doesn
 7. Pour the mousse into either one large bowl or in 4-6 small ramekins or glasses then refrigerate until set. If it’s in smaller dishes it should take approx 1-2 hours, and the larger dish can take appox 4 hours.
 
 </br>
+
 ![White Chocolate Eggnog Mousse](/images/uploads/2019_12_15_white_chocolate_eggnog_mousse_7.jpg)

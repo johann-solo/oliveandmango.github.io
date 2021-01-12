@@ -14,6 +14,7 @@ description: Greek Corfu Chicken and Bucatini is a very typical Sunday meal on t
 Greek Corfu Chicken and Bucatini – otherwise known as _Pastitsada Korfiatiki_ is the most perfect Sunday meal to share with family or friends. It’s a very typical Sunday meal on the island of Corfu that I’m sure fills the streets as it braises in it’s very aromatic sauce. Every household has their own recipe for this fabulous sauce and dish and you can even buy a pre blend of seasoning and spices in Corfu just for this dish. It’s a blend of at least 8-10 spices depending on who you ask. In doing my research I also learned that many people add curry powder to the spice blend as well. That was a first for me to learn and I was so excited to try it in this dish.
 </br>
 </br>
+
 ![Greek Corfu Chicken and Bucatini (Pastitsada Korfiatiki)](/images/uploads/2018_12_23_greek_corfu_chicken_and_bucatini_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Greek Corfu Chicken and Bucatini – otherwise known as _Pastitsada Korfiatiki_ 
 Cinnamon is a very popular spice to add to tomato sauce based dishes in Greek cuisine. I love to add it to my bolognese along with a good bit of clove. I just love the flavour they impart to the sauce and anything in it. When I read about Pastitsada that not only has those two spices in it, but along list of others to follow, I knew I had to make it. Dishes as aromatic as this one are pure comfort food. The warming spices are exactly that - warming and comforting. I was curious though how curry could have been introduced to a dish from the Greek islands. Well I did a little research and read that curry and other spices were brought to the island by British sea men while the island was under siege by England.
 </br>
 </br>
+
 ![Greek Corfu Chicken and Bucatini (Pastitsada Korfiatiki)](/images/uploads/2018_12_23_greek_corfu_chicken_and_bucatini_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ Cinnamon is a very popular spice to add to tomato sauce based dishes in Greek cu
 I chose chicken to use in this dish although it’s traditionally made with rooster and I also read it was made with horse meat as well. You can definite make it with stewing beef too but it will likely take longer to cook and get tender.
 </br>
 </br>
+
 ![Greek Corfu Chicken and Bucatini (Pastitsada Korfiatiki)](/images/uploads/2018_12_23_greek_corfu_chicken_and_bucatini_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ I chose chicken to use in this dish although it’s traditionally made with roos
 Many recipes call for marinating your chicken over night with the spices and wine but I chose not too to save on prep and cooking time. The dish is already so lovely and aromatic, although it never hurts to marinade, I didn’t find it necessary with the chicken. I may rethink that if I’m going to make it with with beef though. Some recipes also call for coating and dredging the chicken pieces in flour and pan frying them before but I also didn’t do this. I think the sauce gets thick enough without the extra flour and the skin softens regardless as the chicken stews so I skipped that step all together. I’m just letting you know about these extra steps Incase you wanted to incorporate them into this dish. I know that some will help infuse the dish with even more flavours, so definitely add in the extra steps if you have the extra time.
 </br>
 </br>
+
 ![Greek Corfu Chicken and Bucatini (Pastitsada Korfiatiki)](/images/uploads/2018_12_23_greek_corfu_chicken_and_bucatini_5.jpg)
 </br>
 </br>
@@ -87,4 +91,5 @@ Serves 6
 11. Sprinkle with grated cheese and some chopped fresh herbs and enjoy!!
 
 </br>
+
 ![Greek Corfu Chicken and Bucatini (Pastitsada Korfiatiki)](/images/uploads/2018_12_23_greek_corfu_chicken_and_bucatini_6.jpg)

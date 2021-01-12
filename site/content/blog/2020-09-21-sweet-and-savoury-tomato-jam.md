@@ -14,6 +14,7 @@ description: A sweet tomato preserve to enjoy with both sweet and savoury foods
 A sweet tomato preserve to enjoy with both sweet and savoury foods. Tomatoes, onions, sugar, and peaches are stewed together with some spices until they are reduced and thickened and delicious. The best way I can describe it is like a tomato chutney but - less tart more sweet. It’s a surprising flavour and quite addictive to eat. It smells of stewed tomatoes (delicious) and then it hits your lips and it’s surprisingly sweet with a jam like consistency. I know there are skeptics out there about this sweet & savoury tomato jam - but it’s just one of those things you are going to have to trust me on. 
 </br>
 </br>
+
 ![Sweet and Savoury Tomato Jam](/images/uploads/2020_09_21_sweet_and_savoury_tomato_jam_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ A sweet tomato preserve to enjoy with both sweet and savoury foods. Tomatoes, on
 First things first let’s talk tomatoes. You can use any tomatoes you might have available or on hand. I used cherry and grape tomatoes because it was what I had on hand.  I had quite a few of them from a shoot. I really loved it with the baby tomatoes and would recommend it if you have them or even a blend of them with whatever other variety you have. You may have noticed that the whole tomato goes in the pot -skin and seeds included. The smaller the tomatoes the smaller the seeds plus all the flavour is concentrated. They are sweeter, and have thinner skin than regular tomatoes and therefore the seeds and skins almost melt away and easily go unnoticed when the jam is enjoyed. 
 </br>
 </br>
+
 ![Sweet and Savoury Tomato Jam](/images/uploads/2020_09_21_sweet_and_savoury_tomato_jam_3.jpg)
 </br>
 </br>
@@ -60,4 +62,5 @@ Servings: <span itemprop="recipeYield">Makes approx 2-2&frac12; cups
 Adapted from _Food52_
 
 </br>
+
 ![Sweet and Savoury Tomato Jam](/images/uploads/2020_09_21_sweet_and_savoury_tomato_jam_4.jpg)

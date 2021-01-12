@@ -14,6 +14,7 @@ description: Delicious, creamy, golden beet and apple soup topped with a hazelnu
 Soup season calls for lots of experimenting in the kitchen. I have a few coming your way that I love, but first up is this beet soup. I had saved a recipe for golden beet soup long ago and remembered it when I started spotting golden beets at the grocery store. Golden beets are very much the same in taste if you are comparing them to red ones. They do have a more subtle earthiness than the red ones and tend to be a bit sweeter. They are not as vibrant looking but no less pretty. Some varieties are beautifully striated in the same way as some varieties of radishes are. That doesn’t really make a difference in this recipe though as they get blitzed in the blender anyways. We used the beets in the soup and steamed the beet greens and enjoyed them with a lemon/olive oil vinaigrette – nothing gets wasted!
 </br>
 </br>
+
 ![Creamy Roasted Golden Beet And Apple Soup](/images/uploads/2019_02_11_creamy_roasted_golden_beet_and_apple_soup_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Soup season calls for lots of experimenting in the kitchen. I have a few coming 
 Beets have a very earthy sweet flavour that only intensifies when you roast them. Technically you can make this soup by just boiling everything in a pot but you will definitely miss that extra bit of flavour boost that roasting gives to the beets and the apples. Most veggie soups benefit greatly from roasting the veggies first and so I strongly recommend it. The apples get beautiful caramelized and the beets develop a nuttier sweeter flavour. The two together are so fabulous and the apples balance out that earthiness of the beets that some people find off putting (they reduce the dirt taste as some describe it) as do the rest of the veggies.
 </br>
 </br>
+
 ![Creamy Roasted Golden Beet And Apple Soup](/images/uploads/2019_02_11_creamy_roasted_golden_beet_and_apple_soup_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ Beets have a very earthy sweet flavour that only intensifies when you roast them
 Cream soups are some of my favourite things to make because they are usually so simple to make and are deliciously velvety.  They are the perfect thing to dip your grilled cheese in or any kind of crusty bread. They are also perfect to top with all sorts of things because they are usually thick enough to hold a cream or chili oil swirl and plenty of garnishes. You have so many delicious options to garnish like crunchy croutons, toasted nuts, fresh herbs, crispy bacon or crispy fried onions.
 </br>
 </br>
+
 ![Creamy Roasted Golden Beet And Apple Soup](/images/uploads/2019_02_11_creamy_roasted_golden_beet_and_apple_soup_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ Cream soups are some of my favourite things to make because they are usually so 
 I have always wanted to do a savoury granola as I have been seeing people topping their savoury oats and also their salads with it on many blogs and on IG and thought this would be a perfect opportunity to try it as it would add a nice crunchy textured topping to this soup. I’m so glad I did. We loved it over the soup and also just straight snacking on it out of the jar, plus it’s perfect over any salad as well. It’s simple to make on the stove top in a skillet and it can easily be adapted to your preference when it comes to herbs, seasonings and choices when it comes to nuts and seeds. I have a feeling you will be as addicted to this savory granola as I am. It’s perfect on and off the soup - hope you try and enjoy both!
 </br>
 </br>
+
 ![Creamy Roasted Golden Beet And Apple Soup](/images/uploads/2019_02_11_creamy_roasted_golden_beet_and_apple_soup_5.jpg)
 </br>
 </br>
@@ -109,4 +113,5 @@ You can definitely add or replace any of the seeds, nuts or flakes with what you
 Soup adapted from _Feast Magazine_ and granola adapted from _Green Kitchen Stories_ and _Rachael Ray_. 
 
 </br>
+
 ![Creamy Roasted Golden Beet And Apple Soup](/images/uploads/2019_02_11_creamy_roasted_golden_beet_and_apple_soup_6.jpg)

@@ -15,6 +15,7 @@ description: Hearty red lentils, spicy chorizo, fragrant sweet smoked paprika gi
 Hearty red lentils, spicy chorizo, fragrant sweet smoked paprika give this filling soup its layers of warmth and flavour. The perfect soup for any weeknight. 
 </br>
 </br>
+
 ![Smokey Red Lentil and Chorizo Soup](/images/uploads/2021_01_03_smokey_red_lentil_and_chorizo_soup_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ Hearty red lentils, spicy chorizo, fragrant sweet smoked paprika give this filli
 I got this recipe from a soup book called Hearty soups. Great little book that I think was gifted to me a long time ago. I have been making this red lentil soup for a long time too even before I ever made or tasted dhal with red lentils, an easy Indian inspired dish which i first tasted when I moved to Trinidad. More on that fabulous recipe on another post. This red lentil soup has a different flavour than that dhal. The paprika gives it a nice smokiness and it also has a lot of garlic and ginger in it too so it is not lacking any flavour at all. I have adapted the original recipe because I like to add in some pumpkin too and a little cayenne for a little heat as well. I also think that the original recipe calls for way too much red lentils in it for the amount of water/broth it asks for.
 </br>
 </br>
+
 ![Smokey Red Lentil and Chorizo Soup](/images/uploads/2021_01_03_smokey_red_lentil_and_chorizo_soup_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ I got this recipe from a soup book called Hearty soups. Great little book that I
 When I was back home it was really really easy to get my hands on chorizo and very good chorizo too, but here in Trinidad that is not always the case. I find it as sandwich meat at the grocery store sometimes but not often enough to be able to just depend on having it on hand every time I make this soup. I’m sure I can find it at one of the specialty stores here but I will also be paying specialty prices for it too. So instead what I usually do is fry up some bacon and spice it up with a chorizo blend of spices after it’s been frying for a while (chorizo spice being: some chilli powder, cumin and clove, you can also add coriander and oregano and thyme too for a more complex blend) and tada- you have chorizo’ish bacon bits!! Solves that problem. The real thing is obviously better but the soup itself works well with plain old bacon if you can’t get your hands on chorizo or maybe if you want a more frugal option. But I found out recently that @delmanofoods makes an awesome chorizo sausage here locally so next time I make this recipe I will be frying those up instead.
 </br>
 </br>
+
 ![Smokey Red Lentil and Chorizo Soup](/images/uploads/2021_01_03_smokey_red_lentil_and_chorizo_soup_4.jpg)
 </br>
 </br>
@@ -83,4 +86,5 @@ Red lentils are so easy to cook. They cook in no time as well. They don’t take
 * You do not need to add the pumpkin or Squash to the soup. This is optional. It adds a nice sweetness to the soup that we love but if you prefer to not add it or you don’t have any, feel free to leave it out.
 
 </br>
+
 ![Smokey Red Lentil and Chorizo Soup](/images/uploads/2021_01_03_smokey_red_lentil_and_chorizo_soup_5.jpg)

@@ -12,6 +12,7 @@ excerpt: A creamy and fragrant dip that makes the perfect starter
 If you are a fan of hummus you will absolutely love this dip or spread that goes perfectly with roasted pita bread, crisps or toasted baguette. We inhaled this in one sitting. Just me and hubby - it’s that good!
 </br>
 </br>
+
 ![Crushed Puy Lentils With Tahini And Eggplant](/images/uploads/2018_09_28_crushed_puy_lentils_with_tahini_and_eggplant_2.jpg)
 </br>
 </br>
@@ -19,6 +20,7 @@ If you are a fan of hummus you will absolutely love this dip or spread that goes
 It is so full of flavour from the garlic and cumin and garlic and has just the creamiest luscious texture from the eggplant, and tahini. The tomato and the lemon and cilantro boost the flavours a bit along with add a slight bite. It’s also so simple to make and made with very simple ingredients.
 </br>
 </br>
+
 ![Crushed Puy Lentils With Tahini And Eggplant](/images/uploads/2018_09_28_crushed_puy_lentils_with_tahini_and_eggplant_3.jpg)
 </br>
 </br>
@@ -26,6 +28,7 @@ It is so full of flavour from the garlic and cumin and garlic and has just the c
 It’s a great vegetarian appetizer or if you are like me and hubby, it’s hearty enough to have as a light meal. It’s also a dish that we found comforting if that makes any sense. It’s warm and the texture is creamy and slightly chunkier than a hummus, a little deeper in flavour than hummus as well.
 </br>
 </br>
+
 ![Crushed Puy Lentils With Tahini And Eggplant](/images/uploads/2018_09_28_crushed_puy_lentils_with_tahini_and_eggplant_4.jpg)
 </br>
 </br>
@@ -33,6 +36,7 @@ It’s a great vegetarian appetizer or if you are like me and hubby, it’s hear
 Its a fabulous meatless dish full of protein and naturally gluten free. Making this a very guilt-free comfort food that is appropriate for those with food sensitivities as well. You will love it and I strongly recommend you make some to snack on this weekend. Enjoy!
 </br>
 </br>
+
 ![Crushed Puy Lentils With Tahini And Eggplant](/images/uploads/2018_09_28_crushed_puy_lentils_with_tahini_and_eggplant_5.jpg)
 </br>
 </br>
@@ -82,4 +86,5 @@ __To garnish__
 Adapted by _Food and Wine_ and _Yotam Ottolenghi_
 </br>
 </br>
+
 ![Crushed Puy Lentils With Tahini And Eggplant](/images/uploads/2018_09_28_crushed_puy_lentils_with_tahini_and_eggplant_6.jpg)

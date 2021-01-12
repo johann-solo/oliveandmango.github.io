@@ -14,6 +14,7 @@ description: This creamy No Bake Cheesecake Recipe is so easy to make and super 
 This deliciously creamy No Bake Cheesecake Recipe is so easy to make! There are certain days during the summer when the last place anyone wants to be is in a hot kitchen and this no bake cheesecake is the perfect summertime dessert. It’s got a mousse-like strawberry cream cheese filling with a simple no bake graham cracker crust. It’s great topped with fresh berries and the berry rim adds a great show stopping aesthetic to it with so very little effort.
 </br>
 </br>
+
 ![No bake Strawberry Cheesecake](/images/uploads/2020_07_01_no–bake_strawberry_cheesecake_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This deliciously creamy No Bake Cheesecake Recipe is so easy to make! There are
 No Bake Cheesecake, just like classic cheesecake, is an amazing make-ahead dessert. It’s always an impressive and fantastic dessert for parties or special occasions. Both the crust and the filling require no baking and take no time to prepare. The crust is a simple press-in graham cracker crust. The cream cheese is blended with a strawberry jam or purée until creamy smooth. What makes this no bake cheesecake work is that the filling gets finished off by folding in the whipped cream. It gives it that mousse like quality and helps it set nicely.  It provides the volume and creaminess. And a little sour cream and lemon juice adds the necessary tanginess. It's all around the perfect texture. That’s it - no water bath no baking or cooling before refrigerating - just wrap and refrigerate. 
 </br>
 </br>
+
 ![No bake Strawberry Cheesecake](/images/uploads/2020_07_01_no–bake_strawberry_cheesecake_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ No Bake Cheesecake, just like classic cheesecake, is an amazing make-ahead desse
 No bake cheese cake like a regular  cheesecake needs to be refrigerated. If you skip the chill time, slicing it will be difficult. I recommend serving the cheesecake cold straight from the refrigerator. It needs at least 6 hours of chill time, but the longer the better so I always make it the night before. 
 </br>
 </br>
+
 ![No bake Strawberry Cheesecake](/images/uploads/2020_07_01_no–bake_strawberry_cheesecake_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ No bake cheese cake like a regular  cheesecake needs to be refrigerated. If you 
 Yes you can make your cheesecake ahead of time and store it in the freezer for up to a week. Defrost your cheesecake in the refrigerator or you can serve it straight from the freezer. 
 </br>
 </br>
+
 ![No bake Strawberry Cheesecake](/images/uploads/2020_07_01_no–bake_strawberry_cheesecake_5.jpg)
 </br>
 </br>
@@ -95,4 +99,5 @@ __For the Cheesecake filling__
 1. Serve cheesecake with extra berries. Cover and store leftover cheesecake in the refrigerator for up to 5 days.
 
 </br>
+
 ![No bake Strawberry Cheesecake](/images/uploads/2020_07_01_no–bake_strawberry_cheesecake_6.jpg)

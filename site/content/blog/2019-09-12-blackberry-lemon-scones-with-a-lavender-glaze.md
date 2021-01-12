@@ -14,6 +14,7 @@ description: Tender, buttery, and packed with juicy blackberries
 These scones are tender, buttery, and packed with juicy blackberries from our thriving blackberry bush in the back yard. The end of the summer always is fruitful in my parents garden and backyard. Their little blackberry bush has totally taken over that side of the garden this year and I have to say I’m loving it. This year the garden has been better than last. We were able to plant much more and have really been enjoying all it’s bounty. 
 </br>
 </br>
+
 ![Lemon Scones With a Lavender Glaze](/images/uploads/2019_09_12_blackberry_lemon_scones_with_a_lavender_glaze_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ These scones are tender, buttery, and packed with juicy blackberries from our th
 Everything this year came in a bit later for us as spring was sort of delayed. I was wondering if our tomatoes would ever turn red from green and our blackberries purple from reddish pink.  The last week has seen those changes many times over as our blackberry bush has doubled in size this year and our tomato plants have been heavy with green tomatoes. Every time I go and check (daily) there is always something to pick from either. 
 </br>
 </br>
+
 ![Lemon Scones With a Lavender Glaze](/images/uploads/2019_09_12_blackberry_lemon_scones_with_a_lavender_glaze_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ Everything this year came in a bit later for us as spring was sort of delayed. I
 One of my favorite things to make with fresh and delicious berries (after I have had my fill of them fresh that is) is make scones. They are fairly simple and straightforward to make  whether you are making them with or without a food processor. I have included directions for both methods below in case you don’t have a food processor. 
 </br>
 </br>
+
 ![Lemon Scones With a Lavender Glaze](/images/uploads/2019_09_12_blackberry_lemon_scones_with_a_lavender_glaze_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ One of my favorite things to make with fresh and delicious berries (after I have
 I love blueberries and blackberries with lavender - they suit each other so well and I had to make a glaze with that heavenly aroma. Feel free to leave out the lavender (and skip the step of steeping the milk with lavender) if you just want some unadulterated blackberry scones. I loved them with or without and feel free to substitute any berry you would like if you don’t have blackberries. If you are using frozen berries make sure to keep them frozen. Do not thaw them and dust them lightly in a bit of flour before tossing them into the dough. These scones are loaded with blackberries - just the way I love my berry scones. Not overly sweet and so simple to make. I really hope you give them a try! 
 </br>
 </br>
+
 ![Lemon Scones With a Lavender Glaze](/images/uploads/2019_09_12_blackberry_lemon_scones_with_a_lavender_glaze_5.jpg)
 </br>
 </br>
@@ -93,4 +97,5 @@ __For the glaze__
 3. Drizzle the glaze over each scone and garnish with lavender. (The lavender glaze is optional - you can just make the glaze without steeping the milk, omit the lavender and just whisk together the rest of the ingredients along with a &frac12; tsp of lemon zest if you want a lemony note in the glaze) 
 
 </br>
+
 ![Lemon Scones With a Lavender Glaze](/images/uploads/2019_09_12_blackberry_lemon_scones_with_a_lavender_glaze_6.jpg)

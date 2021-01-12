@@ -14,6 +14,7 @@ description: This chocolate chestnut cake is a perfect compliment to any joyous 
 Everyone needs a flourless chocolate cake in their lives and this one is a very special one. It includes chestnuts and is simply a joy to eat. It feels so sinful to eat too, almost like it’s too rich but then the slice that you thought you wouldnt/couldn’t finish on your plate in front of you is gone and your eyeing the piece beside you.
 </br>
 </br>
+
 ![Chocolate Chestnut Cake](/images/uploads/2018_12_05_chocolate_chestnut_cake_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Everyone needs a flourless chocolate cake in their lives and this one is a very 
 This cake is really that good. It’s got a marvelous texture as most flourless chocolate cakes have but the chestnut does add an extra layer of delicious flavours plus a hint of something different. I can only describe it as adding flavour that is something between a sweet potato with the nuttiness of walnuts. Sounds kind of weird I know. It’s hard to nail the flavour and describe it perfectly if you have never had it. Many are not huge fans of it or at least they think they aren’t until they have it in this cake or in my chestnut soup recipe which I will be posting soon.
 </br>
 </br>
+
 ![Chocolate Chestnut Cake](/images/uploads/2018_12_05_chocolate_chestnut_cake_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ This cake is really that good. It’s got a marvelous texture as most flourless 
 I love chestnuts on the whole. They always smell wonderful roasting. That’s my favorite way to prepare them. I use the recipe below when I’m roasting and making a purée. You don’t have to make your own to make this recipe though.  You most definitely can use canned purée, just make sure you get the unsweetened kind for this recipe.
 </br>
 </br>
+
 ![Chocolate Chestnut Cake](/images/uploads/2018_12_05_chocolate_chestnut_cake_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ I love chestnuts on the whole. They always smell wonderful roasting. That’s my
 I think it’s fun making the purée. I love mindless, quiet tasks like scoring and peeling the chestnuts as much as I love doing dishes and other tasks like that. I find enjoyment doing them, it’s kind of a quiet activity that I love to use to think about the day reflect on what I have to do or even watch something on Netflix or catch up on a program while I do these kinds of kitchen tasks. Of course you could get your friends and family involved and use it as an opportunity to catch up and chat (and get some help at the same time) but I have learned that there aren’t that many who enjoy the task as much as us weirdos who find these tasks kind of relaxing. I know I’m not alone - I know there’s a whole group of us out there!!
 </br>
 </br>
+
 ![Chocolate Chestnut Cake](/images/uploads/2018_12_05_chocolate_chestnut_cake_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ I think it’s fun making the purée. I love mindless, quiet tasks like scoring 
 Some muscle and patience is involved in pressing the purée through a metal sieve to get the smoothest purée ever but it’s worth it and I can’t wait to make some more as I’m dying to make a version of a Mont Blanc introduced to me by a friend.  Stay tuned for more on that wonderful dessert! I finally got my hands on some chestnut flour so I can’t wait to make it!!
 </br>
 </br>
+
 ![Chocolate Chestnut Cake](/images/uploads/2018_12_05_chocolate_chestnut_cake_6.jpg)
 </br>
 </br>
@@ -49,6 +54,7 @@ Some muscle and patience is involved in pressing the purée through a metal siev
 This cake is quite simple to whip up and it’s decadent and fabulous. It’s perfect with a dusting of confectioners sugar (decorative or not) or even a dollop of whip cream.  It’s serves well to all those people in your life who may be allergic to gluten as it is flourless. The texture is absolutely fabulous and is like nothing else and I have a feeling you will love it. It has the sort of decadence and richness  that keeps you going back for more bite after bite. It’s the perfect dessert for all the chocoholics in your life. Hope you make it enjoy it as much as we did! All this talking about it has me wanting to make it again – I just might have to!
 </br>
 </br>
+
 ![Chocolate Chestnut Cake](/images/uploads/2018_12_05_chocolate_chestnut_cake_7.jpg)
 </br>
 </br>
@@ -103,4 +109,5 @@ This cake is quite simple to whip up and it’s decadent and fabulous. It’s pe
 Adapted from _Nigella Lawson’s_ recipe 
 
 </br>
+
 ![Chocolate Chestnut Cake](/images/uploads/2018_12_05_chocolate_chestnut_cake_8.jpg)

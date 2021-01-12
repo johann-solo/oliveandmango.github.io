@@ -15,6 +15,7 @@ This colorful, naturally sweet and delicious salad is simple to put together and
 Sweet strawberries, salty feta and crunchy walnuts make up this simple spinach salad. The balsamic vinaigrette is easy to make and definitely a keeper and one that you will make over and over again for other salads too. It’s the perfect salad to bring to a party, bbq or potluck. It’s easy, crowd-pleasing, and very adaptable. This is definitely one of those salads that you can alter and adjust the recipe to suit your taste. Here are the basic components and some substitutions you can make. 
 </br>
 </br>
+
 ![Strawberry Spinach Salad](/images/uploads/2020_06_17_strawberry_spinach_salad_2.jpg)
 </br>
 </br>
@@ -31,6 +32,7 @@ I always go for baby spinach as it’s usually ready to serve without having to 
 Strawberries and spinach seem to be the most classic salad combo but they aren’t the only one. This salad goes with any berries and I would go as far as saying any summer fruit. I love this spinach salad with stone fruit too. Adding fruit to salad can be a bit new for some people but berries seem to be a nice way to sneak them in for colour and some sweetness without being too objectionable. Once people try the combo they can’t seem to get enough. 
 </br>
 </br>
+
 ![Strawberry Spinach Salad](/images/uploads/2020_06_17_strawberry_spinach_salad_3.jpg)
 </br>
 </br>
@@ -46,6 +48,7 @@ You all know I love feta. It goes so well in salads. It’s tangy and creamy and
 Nuts and seeds in a salad give it extra crunch and texture. I’m a huge fan of all nuts. I chose walnuts for this one because I love walnuts and feta together but feel free to use toasted slivered almonds or toasted pecans. I love to toast mine with butter for extra flavour and some decadence but that is optional. Some people like to candy them and that is also great. I find this salad has enough sweetness on its own so I don’t candy them in this recipe. You can dry toast them in the oven in a sheet pan or in the pan as is directed if you would rather not use the butter. If you are allergic to nuts feel free to sub them out for seeds. Pepita crunch in a salad is always good! 
 </br>
 </br>
+
 ![Strawberry Spinach Salad](/images/uploads/2020_06_17_strawberry_spinach_salad_4.jpg)
 </br>
 </br>
@@ -55,6 +58,7 @@ Nuts and seeds in a salad give it extra crunch and texture. I’m a huge fan of 
 To add it or not to add it is definitely the question and also your choice. I love adding it to the salad as long as it’s very finely sliced. A tip for using raw like this in a salad is to soak the red onion slices in water for a few minutes first. This preserves the onions’ flavor but removes the harsh/sharp aftertaste. If you would rather a more mellow flavour you can use sliced shallots in place of the red onion. Or if you are not a fan of either just leave them out. 
 </br>
 </br>
+
 ![Strawberry Spinach Salad](/images/uploads/2020_06_17_strawberry_spinach_salad_5.jpg)
 </br>
 </br>
@@ -117,4 +121,5 @@ __For the Balsamic Vinaigrette__
 1. In a large bowl, add spinach, strawberries, walnuts, onions and feta. Drizzle vinaigrette over salad and toss until evenly coated.
 
 </br>
+
 ![Strawberry Spinach Salad](/images/uploads/2020_06_17_strawberry_spinach_salad_6.jpg)

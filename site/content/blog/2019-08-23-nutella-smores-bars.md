@@ -14,6 +14,7 @@ description: S’mores blondies swirled with Nutella and marshmallow and topped 
 The official dessert of summer has never looked or tasted better than with this Nutella twist. S’mores treats are one of my favorite treats year-round but I especially love them in the summer time. I decided to recreate that classic treat by turning it into a blondie or bar, and let me tell you, it did not disappoint. 
 </br>
 </br>
+
 ![Nutella S'mores Bars](/images/uploads/2019_08_23_nutella_smores_bars_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ The official dessert of summer has never looked or tasted better than with this 
 These are so simple to make and unlike other s’mores bars - these are not made or baked layer by layer. That means they are a lot quicker to bake which ultimately means they hit your lips a lot faster too! 
 </br>
 </br>
+
 ![Nutella S'mores Bars](/images/uploads/2019_08_23_nutella_smores_bars_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ These are so simple to make and unlike other s’mores bars - these are not made
 How do you guys feel about Fluff? I’m totally fine with using it as it’s pretty much the same as using store bought marshmallows. But if I had the time and wanted to make it myself my [go to recipe for fluff is here](https://www.thekitchn.com/recipe-homemade-marshmallow-fluff-222088)
 </br>
 </br>
+
 ![Nutella S'mores Bars](/images/uploads/2019_08_23_nutella_smores_bars_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ How do you guys feel about Fluff? I’m totally fine with using it as it’s pre
 I love the texture that that little bit of graham cracker crumb gives these bars and I love how gooey they are from the Nutella, fluff and little puddles of chocolate. The crumbled graham crackers cookies over top add the perfect bit of crunch. These are just the best - and I hope you guys get a chance to try them - campfire not necessary! 
 </br>
 </br>
+
 ![Nutella S'mores Bars](/images/uploads/2019_08_23_nutella_smores_bars_5.jpg)
 </br>
 </br>
@@ -69,4 +73,5 @@ I love the texture that that little bit of graham cracker crumb gives these bars
 1. Bake for 20 to 25 minutes or until a toothpick inserted in the center shows several moist crumbs when removed. The bars should be light golden brown, slightly puffed, and the edges will have begun to come away from the sides of the pan. Do not over bake. Cool in the pan set on a rack. Cut into 16 bars (4 x 4). Store at room temperature for up to 3 days in an airtight container in single layers separated by parchment paper.
 
 </br>
+
 ![Nutella S'mores Bars](/images/uploads/2019_08_23_nutella_smores_bars_6.jpg)

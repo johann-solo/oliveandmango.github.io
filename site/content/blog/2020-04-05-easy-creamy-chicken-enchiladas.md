@@ -14,6 +14,7 @@ description: A recipe for homemade enchiladas that is simple to make and only re
 These enchiladas are creamy, cheesy and loaded with a delicious filling. They also pack a good amount of veggies in them too. Just enough to trick your brain into thinking it’s totally fine to eat half the baking dish on your own. True story! They are great with the meat in them but feel free to switch up the filling to something vegetarian. More details about what to add in as a meat replacement below. They are so good and one of the most requested potluck dishes I make.
 </br>
 </br>
+
 ![Easy Creamy Chicken Enchiladas](/images/uploads/2020_04_05_easy_creamy_chicken_enchiladas_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ These enchiladas are creamy, cheesy and loaded with a delicious filling. They al
 They are super simple to make and require pretty basic ingredients found in the freezer or your pantry. Just like a lasagna they are a great make ahead meal and they freeze well too. All the details below on how to do that. They are great for making ahead for your family making your week easier and especially great if you are having company over. I always make them the night before which makes entertaining less stressful. You just have to pop them in the oven just before dinner time. Less time fussing in the kitchen, more time socializing. 
 </br>
 </br>
+
 ![Easy Creamy Chicken Enchiladas](/images/uploads/2020_04_05_easy_creamy_chicken_enchiladas_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ They are super simple to make and require pretty basic ingredients found in the 
 I love to serve them with a simple side salad and all the fresh fixings. Load them up and enjoy with sliced jalapeños, chopped cilantro, sliced avocado, chopped red onions...etc. It’s a recipe the whole family will love and one you will be making over and over just like us. Enjoy! 
 </br>
 </br>
+
 ![Easy Creamy Chicken Enchiladas](/images/uploads/2020_04_05_easy_creamy_chicken_enchiladas_4.jpg)
 </br>
 </br>
@@ -96,4 +99,5 @@ Mix all spices together and that’s basically equivalent to a store-bought taco
 * For Vegetarian option omit the chicken altogether and enjoy as is or sub the chicken for sautéed or roasted veggies and black beans that you can sauté with the taco mix
 
 </br>
+
 ![Easy Creamy Chicken Enchiladas](/images/uploads/2020_04_05_easy_creamy_chicken_enchiladas_5.jpg)

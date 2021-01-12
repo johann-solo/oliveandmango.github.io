@@ -14,6 +14,7 @@ description: A delicious one pan Spring dish baked with lemon slices and finishe
 This is a fresh and Springy take on a classic French dish "Chicken with 40 cloves of garlic". I made it with creamy white beans that roast along with the chicken, lemon slices, and unpeeled garlic that roasts up into garlic butter that goes perfectly on crusty bread that you can dip into the pan juices of this fab dish. I finish it off by tossing the beans with fresh herbs and serve it with an extra squeeze of lemon juice. The perfect meal if you ask me. 
 </br>
 </br>
+
 ![Roasted Chicken With White Beans and 20 Cloves of Garlic](/images/uploads/2020_04_14_roasted_chicken_with_white_beans_and_20_cloves_of_garlic_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This is a fresh and Springy take on a classic French dish "Chicken with 40 clove
 I have always wanted to make this French classic dish but was always skeptical of the recipe and cooking 40 unpeeled cloves with chicken. I even tried one version from a reputable food magazine that sounded like a great idea being made in the slow cooker. I thought that would mellow the garlic a bit. It was good but not great and I even added bacon to the mix to add more flavour to the brothy beans and fresh herbs and the chicken was even broiled after to give it a nice crispy exterior but the flavours were just not right - bland and just not the way I pictured this French dish. Until I found Nigella’s recipe. That is when it all made sense. 
 </br>
 </br>
+
 ![Roasted Chicken With White Beans and 20 Cloves of Garlic](/images/uploads/2020_04_14_roasted_chicken_with_white_beans_and_20_cloves_of_garlic_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I have always wanted to make this French classic dish but was always skeptical o
 She says it perfectly: “Certainly, if you peeled and chopped - let alone minced - the garlic, it would be inedible, but garlic cloves cooked encased in their skins grow sweet and caramelly as they cook, like savoury bonbons in their sticky wrappers, rather than breathing out acrid heat”. She is 100 perfectly right about that. That was the case in the other recipe which called for chopping the garlic - I even halved the garlic amount and only did 20 cloves but it didn’t help. So I listened to Nigella and used the whole heads instead. I just sliced them in half for visual appeal and for ease of scooping out that caramelly garlic goodness out of them and not having to fish out every clove from the pan.  
 </br>
 </br>
+
 ![Roasted Chicken With White Beans and 20 Cloves of Garlic](/images/uploads/2020_04_14_roasted_chicken_with_white_beans_and_20_cloves_of_garlic_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ She says it perfectly: “Certainly, if you peeled and chopped - let alone mince
 It’s a marvelous dish and I decided to add a little Greek flare to it and use some oregano instead of thyme and load it up with lemon slices and zest along with adding some fresh dill and parsley to the dish. To me this screams Spring and it’s a dish that my family loves and devours every time I make it. We are definitely bean people though. I have made this with butter beans and love it just as much. Gigantes would work too but I had loads of white beans on hand and used them when I made it this time around. 
 </br>
 </br>
+
 ![Roasted Chicken With White Beans and 20 Cloves of Garlic](/images/uploads/2020_04_14_roasted_chicken_with_white_beans_and_20_cloves_of_garlic_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ It’s a marvelous dish and I decided to add a little Greek flare to it and use 
 It’s a simple throw everything into a pan and let it roast in the oven until done kind of meal - set it and forget it as I say just like my [Chicken Marbella dish](https://www.oliveandmango.com/chicken-marbella/) which is so beloved by all of you. Those are my kind of dishes. Very little prep with maximum reward and flavour. Enjoy!! 
 </br>
 </br>
+
 ![Roasted Chicken With White Beans and 20 Cloves of Garlic](/images/uploads/2020_04_14_roasted_chicken_with_white_beans_and_20_cloves_of_garlic_6.jpg)
 </br>
 </br>
@@ -77,4 +82,5 @@ It’s a simple throw everything into a pan and let it roast in the oven until d
 2. Bonus - serve with chopped preserved lemon for more lemony zing
 
 </br>
+
 ![Roasted Chicken With White Beans and 20 Cloves of Garlic](/images/uploads/2020_04_14_roasted_chicken_with_white_beans_and_20_cloves_of_garlic_7.jpg)

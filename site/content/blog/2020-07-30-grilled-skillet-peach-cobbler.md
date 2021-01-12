@@ -18,6 +18,7 @@ Make an incredibly delicious peach cobbler grill style, by cooking this dessert,
 If you really want to make the best Grilled Skillet Peach Cobbler ever you need to make sure your peaches are sweet and your grill is hot. Serve it right off the grill - warm, with a big old scoop of ice cream on top. A cast iron skillet is the perfect pan for this delicious cobbler. I think it gives it more flavor and it’s so easy to use on the grill or to bake with, but if you don’t have one any oven/grill safe pan will work. Just be careful putting it on and taking it off the grill or in and out the oven. 
 </br>
 </br>
+
 ![Grilled Skillet Peach Cobbler](/images/uploads/2020_07_30_grilled_skillet_peach_cobbler_2.jpg)
 </br>
 </br>
@@ -26,6 +27,7 @@ If you really want to make the best Grilled Skillet Peach Cobbler ever you need 
 First heat up your grill one side only to control amount of heat. Toss your peaches (peeled or unpeeled, your choice) with some sugar and spice and then toss them and their juices into your buttered skillet. Grill them covered for 10-12 minutes. Next you will mix up the ingredients for the almond flour biscuits and the cinnamon sugar in a mixing bowl. And you can scoop them carefully right on to the peaches when ready. Brush them with egg wash and sprinkle on the cinnamon sugar and then grill for another 10-15 minutes until they are golden and the peaches are bubbling. Then pull it off the grill carefully, allow to cool for a few minutes then dig in!! 
 </br>
 </br>
+
 ![Grilled Skillet Peach Cobbler](/images/uploads/2020_07_30_grilled_skillet_peach_cobbler_3.jpg)
 </br>
 </br>
@@ -39,6 +41,7 @@ This recipe is easily adapted to be 100 percent paleo. All you have to do is rep
 Yes! I recommend using fruits that are soft and don’t require a ton of cooking time like berries and other stone fruit would be great. If you use apples or pears I would make sure to slice them very thinly so they cook faster. You can even combine fruits. I love peaches with blackberries so that would be a great combo for this cobbler. 
 </br>
 </br>
+
 ![Grilled Skillet Peach Cobbler](/images/uploads/2020_07_30_grilled_skillet_peach_cobbler_4.jpg)
 </br>
 </br>
@@ -138,4 +141,5 @@ Whisk almond flour, baking soda, cinnamon, sugar and salt together in a bowl; st
 • These almond flour biscuits are great on their own as well. If you wanted to bake up a batch of them without the cobbler just scoop them out onto a baking sheet lined with parchment paper and bake at 350°F for 12-15 minutes. You can also add up to &frac14; cup of fruit or even cheese or precooked bacon pieces into the batter to switch them up. 
 
 </br>
+
 ![Grilled Skillet Peach Cobbler](/images/uploads/2020_07_30_grilled_skillet_peach_cobbler_5.jpg)

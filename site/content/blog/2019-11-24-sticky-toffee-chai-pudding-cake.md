@@ -14,6 +14,7 @@ description: A perfectly spiced bundt that is dripping with caramel
 This is a delicious bundt version of this classic and decadent dessert. This is definitely a dessert that reminds me of winter time. It’s best served slightly warm, sauce included and enjoyed alongside something warm to drink. The perfect wintertime treat when you are craving caramel’ly comfort. It’s sweet and decadent and perfectly spiced and you truly can’t beat a dessert that is dowsed in a rich caramel sauce.  I made this bundt in partnership with Metro, the local grocery store that I depend on almost daily. It’s always got what I need and everything I used in this cake can be found at Metro. 
 </br>
 </br>
+
 ![Sticky Toffee Chai Pudding Cake](/images/uploads/2019_11_24_sticky_toffee_chai_pudding_cake_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This is a delicious bundt version of this classic and decadent dessert. This is 
 The cake gets a good brush of caramel sauce as soon as it’s flipped out of the bundt pan while it’s still hot so that it absorbs that delicious flavour plus it keeps the cake super moist. The dates get soaked in tea for a boost in flavour and a boost in moisture also. The original recipe I went off of to make this cake is from Jamie Oliver - his recipe is fabulous by the way as is - he uses Earl Grey tea to soak the dates in but I wanted to do a chai spice version of it so I used chia tea. I also used chai flavours in the cake to boost those flavours even further. The dates soak and then get puréed with the spices. It’s so tasty and it not only adds flavour to the batter base but also adds to the texture of it.  It also makes this cake moist and fabulous. 
 </br>
 </br>
+
 ![Sticky Toffee Chai Pudding Cake](/images/uploads/2019_11_24_sticky_toffee_chai_pudding_cake_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ The cake gets a good brush of caramel sauce as soon as it’s flipped out of the
 I love that the recipe calls for self rising flour - that shortens the ingredients list further and simplifies the recipe. If you don’t have self rising flour though check out this simple alternative [homemade self rising flour](https://www.oliveandmango.com/maple-pecan-cinnamon-rolls/). Another time saver is using a store-bought caramel sauce. I used <span class="highlight"><a rel="nofollow" href="https://www.metro.ca/en/online-grocery/aisles/pantry/cereals-spreads-syrups/chocolate-sweet-spreads/dulce-de-leche-caramel-spread/p/059749903684">Irresistibles brand Dulce De Leche caramel spread</a></span> which worked wonderfully. I just heated it up to make it pourable and so that i could brush it onto the cake. If you are feeling adventurous feel free to make it at home - I have the homemade recipe included below.  
 </br>
 </br>
+
 ![Sticky Toffee Chai Pudding Cake](/images/uploads/2019_11_24_sticky_toffee_chai_pudding_cake_4.jpg)
 </br>
 </br>
@@ -38,6 +41,7 @@ It takes no time to whip this cake up - the steeping and soaking of the tea and 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.metro.ca/en">Metro Ontario</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Sticky Toffee Chai Pudding Cake](/images/uploads/2019_11_24_sticky_toffee_chai_pudding_cake_5.jpg)
 </br>
 </br>
@@ -78,4 +82,5 @@ __For the homemade caramel sauce__
 1. Sprinkle with the pecans and a little sea salt and serve with more sauce and a little whip cream, or ice cream. Can be served still warm or at room temperature. 
 
 </br>
+
 ![Sticky Toffee Chai Pudding Cake](/images/uploads/2019_11_24_sticky_toffee_chai_pudding_cake_6.jpg)

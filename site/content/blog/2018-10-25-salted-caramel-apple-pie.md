@@ -14,9 +14,11 @@ description: What smells better than apple pie baking? This salted caramel apple
 What can I say that hasn’t been already said about apple pie? Probably nothing new that is for sure. It’s such a classic dessert in general, not just in the fall and a beloved dessert of mine too. What smells better than apple pie baking? The aroma of the apples being cooked in warm spices, their natural juices and sugars breaking down making them even sweeter in a pie and the buttery dough baking. The smell of any pie baking is delicious but I’m focusing on apple as its the most iconic for fall, so I had to include a classic apple pie in all the apple related recipes on the blog.
 </br>
 </br>
+
 ![Salted Caramel Apple Pie](/images/uploads/2018_10_25_salted_caramel_apple_pie_2.jpg)
 </br>
 </br>
+
 ![Salted Caramel Apple Pie](/images/uploads/2018_10_25_salted_caramel_apple_pie_3.jpg)
 </br>
 </br>
@@ -24,9 +26,11 @@ What can I say that hasn’t been already said about apple pie? Probably nothing
 How is salted caramel apple pie classic? Well I think its as classic as a regular apple pie. One of the most popular apple pie combos that you can can find online is caramel or salted caramel and rightly so, the two were made for each other. If you're not a fan of caramel with your apple pie, (I forgive you) no problem, just omit the caramel from the recipe and the added salt and ta-da you have yourself a very very classic apple pie.
 </br>
 </br>
+
 ![Salted Caramel Apple Pie](/images/uploads/2018_10_25_salted_caramel_apple_pie_4.jpg)
 </br>
 </br>
+
 ![Salted Caramel Apple Pie](/images/uploads/2018_10_25_salted_caramel_apple_pie_5.jpg)
 </br>
 </br>
@@ -34,9 +38,11 @@ How is salted caramel apple pie classic? Well I think its as classic as a regula
 The salted caramel version adds a dimension of sweetness and flavour with that edge of saltiness that is just so good with this apple pie. Speaking of adding more flavours to your apple pie - have you ever lived on the edge and mixed your variety of apples in your apple pie? Go ahead and try it, I dare you. No seriously, the mix of apple varieties make for a more complex flavour in the pie. They also breakdown differently too so texturally its much more interesting. While some hold their shape others breakdown further and become syrupy and soft. The only one I wouldn’t use in my pies is red delicious apple as they do not cook too well. I like _Cortland_ and _Granny Smith_, along with _Honey Crisp_ and _Mutsu_.
 </br>
 </br>
+
 ![Salted Caramel Apple Pie](/images/uploads/2018_10_25_salted_caramel_apple_pie_6.jpg)
 </br>
 </br>
+
 ![Salted Caramel Apple Pie](/images/uploads/2018_10_25_salted_caramel_apple_pie_7.jpg)
 </br>
 </br>
@@ -44,9 +50,11 @@ The salted caramel version adds a dimension of sweetness and flavour with that e
 As you noticed no fancy lattice work in this one. I decided to use some of my cutouts and this truly was the easiest pie topping i have ever made. In hindsight, i really should have made the cutouts a little closer to each other and made a few extra cuts, but i will definitely remember that the next time I use them. I cant wait to make another one soon. I still have some pie making in me before the fall is over.
 </br>
 </br>
+
 ![Salted Caramel Apple Pie](/images/uploads/2018_10_25_salted_caramel_apple_pie_8.jpg)
 </br>
 </br>
+
 ![Salted Caramel Apple Pie](/images/uploads/2018_10_25_salted_caramel_apple_pie_9.jpg)
 </br>
 </br>
@@ -54,6 +62,7 @@ As you noticed no fancy lattice work in this one. I decided to use some of my cu
 The dough recipe is a classic one that I use all the time but the filling is from _Four & Twenty Blackbirds_. Their pies are epic and I had to go with their recipe for this one as it’s such an easy one and it turns our great all the time. The key to making sure you get the flakiest pie is to keep the dough well chilled before baking, the rest is simple and will yield a very yummy apple pie. The hardest thing to do after that is wait until it’s completely cool (did not do that with this pie by the way as you can see it was extra leaky cause I was impatient and the filling hadn’t set yet and how could you blame me for it - its smelled sooooooo good) before you cut into it and the hardest decision after that will be what to have it with - ice cream or whipped cream or drizzled with extra caramel sauce or all three.
 </br>
 </br>
+
 ![Salted Caramel Apple Pie](/images/uploads/2018_10_25_salted_caramel_apple_pie_10.jpg)
 </br>
 </br>

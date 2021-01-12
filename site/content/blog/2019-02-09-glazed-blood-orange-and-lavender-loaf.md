@@ -15,6 +15,7 @@ description: A classic citrus loaf with a blood orange punch of flavour both in 
 This citrus packed blood orange and lavender loaf cake topped with a beautiful blood orange glaze is how I’m celebrating citrus season. Who doesn’t love a classic citrus loaf with that extra special citrus punch of flavour both in the cake and in the glaze? I’m always drawn to citrus based desserts. I love tangy and tart things both sweet and savoury. They have a way of exciting the tastebuds like nothing else and I love it
 </br>
 </br>
+
 ![Glazed Blood Orange and Lavender Loaf](/images/uploads/2019_02_09_glazed_blood_orange_and_lavender_loaf_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This citrus packed blood orange and lavender loaf cake topped with a beautiful b
 I have been thinking of making a blood orange glaze since I made my [lemon ricotta waffles](https://www.oliveandmango.com/fluffy-lemon-ricotta-waffles/) but we opted for just maple syrup. But I have been bit obsessed with the gorgeous color of the blood oranges and had to make a glaze for something and that is why I decided to make a tasty blood orange loaf with them. I took a classic lemon loaf recipe and used blood oranges instead. The recipe is originally from Chatelaine. I adapted it according to what I had on hand. 
 </br>
 </br>
+
 ![Glazed Blood Orange and Lavender Loaf](/images/uploads/2019_02_09_glazed_blood_orange_and_lavender_loaf_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ I have been thinking of making a blood orange glaze since I made my [lemon ricot
 The recipe is really simple and can be made with a bowl, whisk or wooden spoon. It’s made with yoghurt which you could sub out for sour cream or even butter milk. It’s also an oil based loaf/ cake and I usually use a neutral vegetable oil in this one but you can use whatever vegetable oil you might have like canola, coconut or for a more intensely flavoured cake - olive oil. When it comes to the citrus you can use whatever you have - this would be lovely as a lemon or orange loaf as well. There is a bit of squeezing and a bit of zesting involved in making this blood orange cake but it’s worth the effort and I just love the smell of fresh citrus being zested in the air. Just inhale and enjoy the lovely aroma as you zest and squeeze those oranges.
 </br>
 </br>
+
 ![Glazed Blood Orange and Lavender Loaf](/images/uploads/2019_02_09_glazed_blood_orange_and_lavender_loaf_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ The recipe is really simple and can be made with a bowl, whisk or wooden spoon. 
 I’m keeping this brief as there’s nothing really more to be said about this loaf other than it’s fabulous, simple and such a classic recipe which you can make as I mentioned with any citrus you have available. I added the lavender because lavender goes so well with citrus flavours. Lavender’s sweet, fragrant flavor complements a range of foods, both sweet and savory and I love it with citrus. It’s not overpowering in the recipe. In fact if you wanted it to be more prominent you can add a touch more to the recipe. I think a little goes a long way though. The hint of it is enough to add another dimension of flavour to this loaf. 
 </br>
 </br>
+
 ![Glazed Blood Orange and Lavender Loaf](/images/uploads/2019_02_09_glazed_blood_orange_and_lavender_loaf_5.jpg)
 </br>
 </br>
@@ -43,6 +47,7 @@ I’m keeping this brief as there’s nothing really more to be said about this 
 We really enjoyed shooting this loaf for obvious reasons. The glaze is just the prettiest hue of pink and the light was so nice that day so we could not have had a better day to shoot this little beauty. I only had a slice and the rest was eaten and enjoyed by the rest of the family and some friends that were over after we shot it. It was loved by all and I know you would enjoy it too. It will def make it to your favorites list for sure! 
 </br>
 </br>
+
 ![Glazed Blood Orange and Lavender Loaf](/images/uploads/2019_02_09_glazed_blood_orange_and_lavender_loaf_6.jpg)
 </br>
 </br>
@@ -107,4 +112,5 @@ We really enjoyed shooting this loaf for obvious reasons. The glaze is just the 
 Adapted from _Chatelaine_
 
 </br>
+
 ![Glazed Blood Orange and Lavender Loaf](/images/uploads/2019_02_09_glazed_blood_orange_and_lavender_loaf_7.jpg)

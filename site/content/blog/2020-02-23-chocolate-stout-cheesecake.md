@@ -14,6 +14,7 @@ description: A super rich and decadent dark chocolate cheesecake
 This super rich and decadent dark chocolate cheesecake is for all you chocolate lovers like me who can’t resist any dessert that has chocolate in it. For me it has to be dark chocolate. The darker the better - I don’t have a sweet tooth but when it comes to chocolate I can’t resist but I’m definitely more of a dark chocolate lover than a milk chocolate lover. This satisfies all chocolate cravings and not only does it have a rich chocolate filling but also a chocolate cookie base and if you want it to be a little extra do include the rich chocolate ganache over it. It’s optional but recommended. 
 </br>
 </br>
+
 ![Chocolate Stout Cheesecake](/images/uploads/2020_02_23_chocolate_stout_cheesecake_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This super rich and decadent dark chocolate cheesecake is for all you chocolate 
 Lets talk about the cookie base. Well it’s that simple I used Oreo cookies and butter and you have your base. This cookie crumb base is simple to make. You basically just crush the cookies into crumbs using a food processor or blender or if you have neither use the old tried and true method of placing them in a ziplock and using your rolling pin over them to crush them. Stir some butter in and then press into the pan.  Easy and perfect for this chocolatey dessert. Chocolate wafer cookies would work too but I don’t always find them. I just saw some prepackaged chocolate cookie crumbs at the grocery store today and those would work too. You could even just use plain graham cracker crumbs too for a plain base with no chocolate. It’s totally up to you. I went full force chocolate with this one. 
 </br>
 </br>
+
 ![Chocolate Stout Cheesecake](/images/uploads/2020_02_23_chocolate_stout_cheesecake_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ Lets talk about the cookie base. Well it’s that simple I used Oreo cookies and
 My hubby’s fav part. This is where it gets fun because this is where we added the stout beer! Why you ask use a perfectly good drinking beer in cheesecake? Why use a perfectly good wine in sauces? The answer is they are both flavour boosters. They enhance the flavours in a recipe and add a richness to them. Like coffee, extracts and salt enhance the flavour of chocolate and sweets overall so does stout beer. You won’t taste the beer taste at all, it’s merely a richness that enhances my love of chocolate and deepens the flavours overall. Feel free to enjoy the rest of the can while you bake off the cheesecake. 
 </br>
 </br>
+
 ![Chocolate Stout Cheesecake](/images/uploads/2020_02_23_chocolate_stout_cheesecake_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ My hubby’s fav part. This is where it gets fun because this is where we added 
 Always use room temp cream cheese - softened cream cheese blends better with the other ingredients in the recipe. If the cream cheese is too cold, your mix will be lumpy, and so will your finished cake.  Don’t over mix the batter. The cream cheese and sugar can be mixed well and for a bit but once you start adding the rest of the ingredients only mix until incorporated remembering to scrape the side of bowl a few times.  I always do a water bath - I prefer it over the steam method. It’s a technique of putting your cake pan in a container/pan of water while baking. The water helps the heat disperse evenly, resulting in an evenly baked cake without cracks. Evenly baking and not over baking along with cooling the cake gradually also ensures that your cake is crackless. The cake should have a slight jiggle in the middle when it’s done baking. The cake should be room temperature before placing in the fridge. This helps prevent cracks but prevents too much condensation from forming, which  makes for blotches and gummy texture on top. 
 </br>
 </br>
+
 ![Chocolate Stout Cheesecake](/images/uploads/2020_02_23_chocolate_stout_cheesecake_5.jpg)
 </br>
 </br>
@@ -89,4 +93,5 @@ __For the ganache__
 </span>
 
 </br>
+
 ![Chocolate Stout Cheesecake](/images/uploads/2020_02_23_chocolate_stout_cheesecake_6.jpg)

@@ -14,6 +14,7 @@ description: A complete one pan meal that will get you through the day. Deliciou
 A complete meal in a pan, and quite a satisfying one too, that’s exactly what this is. It’s perfect served for brunch with fried or poached eggs, and I have to admit there are many times we have whipped this up and gobbled it down for dinner.
 </br>
 </br>
+
 ![Rosemary Sage Sweet Potato Kale and Sausage Hash](/images/uploads/2019_03_22_rosemary_sage_sweet_potato_kale_and_sausage_hash_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ A complete meal in a pan, and quite a satisfying one too, that’s exactly what 
 The sage and rosemary give it a beautiful flavour and aroma. Sage and sweet potatoes are a match made in heaven. Not so much for my husband though in his experience. He once made us an awesome sweet potato mash with sage but added too much sage (recipe misread) and we both couldn’t even stand to take a bite. It’s super fragrant and you don’t need much to add the flavour you want. A little goes a long way. It has a sweet savoury flavour but can also overpower and can almost be a bit pungent if you go over board. Same with rosemary. So in this recipe you only need a pinch of both.
 </br>
 </br>
+
 ![Rosemary Sage Sweet Potato Kale and Sausage Hash](/images/uploads/2019_03_22_rosemary_sage_sweet_potato_kale_and_sausage_hash_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ The sage and rosemary give it a beautiful flavour and aroma. Sage and sweet pota
 This is a real stick to your bones kind of breakfast. With eggs and a side of bread, some good hot sauce and a good strong coffee, you really can’t go wrong. Loved it and know you will too.
 </br>
 </br>
+
 ![Rosemary Sage Sweet Potato Kale and Sausage Hash](/images/uploads/2019_03_22_rosemary_sage_sweet_potato_kale_and_sausage_hash_4.jpg)
 </br>
 </br>
@@ -63,4 +66,5 @@ Serves 4
 9. Serve hot with eggs and hot sauce and some toasted hearty bread. 
 
 </br>
+
 ![Rosemary Sage Sweet Potato Kale and Sausage Hash](/images/uploads/2019_03_22_rosemary_sage_sweet_potato_kale_and_sausage_hash_5.jpg)

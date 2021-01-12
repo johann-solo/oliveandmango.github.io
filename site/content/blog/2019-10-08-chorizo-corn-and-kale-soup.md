@@ -14,6 +14,7 @@ description: A hearty and delicious one pot soup that is sure to please all
 Another soup season is upon us and I have to say that that is the best part of fall and winter for me. We love soup and there are just so many endless soup recipes out there that I can’t wait to try. When fresh corn is in abundance or even when it’s not this chorizo, corn and kale soup is where it’s at when it comes to flavour and simplicity. 
 </br>
 </br>
+
 ![Chorizo Corn and Kale Soup](/images/uploads/2019_10_08_chorizo_corn_and_kale_soup_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Another soup season is upon us and I have to say that that is the best part of f
 It’s hearty and loaded with corn. The chorizo gives it a smokiness that I love and the rest of the veggies add so much heartiness to this soup. It takes next to no time to make and it’s all done in one pot making cleanup easy. 
 </br>
 </br>
+
 ![Chorizo Corn and Kale Soup](/images/uploads/2019_10_08_chorizo_corn_and_kale_soup_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ It’s hearty and loaded with corn. The chorizo gives it a smokiness that I love
 The cream addition to the soup isn’t necessary, so feel free to substitute more broth for it. We always add it because it gives this soup a wonderfully rich texture and flavour. It also gives this soup a bit of a chowder quality but its not as thick as a chowder. It’s one of our favorite soups this fall and is absolutely delicious whether you use fresh or frozen corn. It makes for the perfect dinner party starter or a full meal. 
 </br>
 </br>
+
 ![Chorizo Corn and Kale Soup](/images/uploads/2019_10_08_chorizo_corn_and_kale_soup_4.jpg)
 </br>
 </br>
@@ -65,4 +68,5 @@ Serves 4
 Adapted from _Rachael Ray_
 
 </br>
+
 ![Chorizo Corn and Kale Soup](/images/uploads/2019_10_08_chorizo_corn_and_kale_soup_5.jpg)

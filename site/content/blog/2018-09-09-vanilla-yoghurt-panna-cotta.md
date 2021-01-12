@@ -12,12 +12,15 @@ excerpt: A elegant and lightly sweetened creamy dessert that can double as break
 Panna Cotta is such a wonderful dessert. I love to serve it up for company because it’s easy to whip up and great for making ahead totally making entertaining easy. It’s an Italian dessert of sweetened cream and in this case a mixture of cream and yoghurt, thickened with a little gelatin and molded in a cup or in any container you would like it in. For ease of serving I love to serve it in glass cups. It’s not only easy for individual servings but perfectly elegant looking and you don’t have to worry about unmolding it onto a plate perfectly.
 </br>
 </br>
+
 ![Vanilla Yoghurt Panna Cotta](/images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_2.jpg)
 </br>
 </br>
+
 ![Vanilla Yoghurt Panna Cotta](/images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_3.jpg)
 </br>
 </br>
+
 ![Vanilla Yoghurt Panna Cotta](/images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_4.jpg)
 </br>
 </br>
@@ -25,12 +28,15 @@ Panna Cotta is such a wonderful dessert. I love to serve it up for company becau
 I chose to do a yoghurt one as my family loves their Greek yoghurt and I love a little tang or acidity added to creamy deserts like this. Although still rich and delicious, the addition of the yoghurt really lightens and brightens it up. I love this recipe and it’s on repeat. It’s a recipe by Smitten kitchen. It’s the perfect base for all the yummy toppings that you can dream up! It has never failed me and is so super easy to make. You can doctor it a bit but using alternative ways to flavour it. I love to use different extracts to help do this. This time I chose to do a basic but always delicious vanilla one. Doesn’t get better than that!
 </br>
 </br>
+
 ![Vanilla Yoghurt Panna Cotta](/images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_5.jpg)
 </br>
 </br>
+
 ![Vanilla Yoghurt Panna Cotta](/images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_6.jpg)
 </br>
 </br>
+
 ![Vanilla Yoghurt Panna Cotta](/images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_7.jpg)
 </br>
 </br>
@@ -38,12 +44,15 @@ I chose to do a yoghurt one as my family loves their Greek yoghurt and I love a 
 For the topping I chose to use peaches and nectarines. What’s yummier than peaches and cream of any sort? A combination that you can never go wrong with and always a hit. I had fresh thyme leftover from another recipe an thought it would be perfect with the peaches and nectarines, giving them a hint of floral and a slight woodsy flavouring. It brings out the sweet flowery essence of the fruit and is just a great pairing without being over powering.
 </br>
 </br>
+
 ![Vanilla Yoghurt Panna Cotta](/images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_8.jpg)
 </br>
 </br>
+
 ![Vanilla Yoghurt Panna Cotta](/images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_9.jpg)
 </br>
 </br>
+
 ![Vanilla Yoghurt Panna Cotta](/images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_10.jpg)
 </br>
 </br>
@@ -51,12 +60,15 @@ For the topping I chose to use peaches and nectarines. What’s yummier than pea
 Any stone fruit would work in this recipe and any fruit for that matter. Roasting it brings out the sweetness and adding fruit to the Panna Cotta adds a bright layer of flavour and something syrupy to swirl into your Panna Cotta.
 </br>
 </br>
+
 ![Vanilla Yoghurt Panna Cotta](/images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_11.jpg)
 </br>
 </br>
+
 ![Vanilla Yoghurt Panna Cotta](/images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_12.jpg)
 </br>
 </br>
+
 ![Vanilla Yoghurt Panna Cotta](/images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_13.jpg)
 </br>
 </br>
@@ -64,6 +76,7 @@ Any stone fruit would work in this recipe and any fruit for that matter. Roastin
 We totally love this dessert and love how you can make the Panna Cotta ahead making it ideal for entertaining. It’s simple to make and worth giving a try. Hope you enjoy it!
 </br>
 </br>
+
 ![Vanilla Yoghurt Panna Cotta](/images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_14.jpg)
 </br>
 </br>
@@ -123,4 +136,5 @@ __For the roasted peaches and nectarines__
 To get the layered angled affect I used a square baking pan (the one I use for brownies) to stabilise my angled positioned glasses. I lined the baking pan with a dish cloth (to add some bulk between glasses for stability) and tipped each glass against each corner of pan at roughly the same angle. I then placed an inverted smaller glass in the middle of the pan to stabilised the other cups. Pour the mixture carefully into each tipped glass and then carefully transfer the entire baking dish into the refrigerator for the Panna Cotta to set on an angle in the cups. 
 
 </br>
+
 ![Vanilla Yoghurt Panna Cotta](/images/uploads/2018_09_09_vanilla_yoghurt_panna_cotta_15.jpg)

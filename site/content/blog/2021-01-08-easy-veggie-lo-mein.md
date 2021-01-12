@@ -15,6 +15,7 @@ description: A quick Asian noodle stir fry that makes for a tasty dinner or side
 Skip takeout and make the easiest lo mein you will ever make in 15 minutes at home that's packed with vegetables. It is my go-to for a quick Asian noodle stir fry and makes for a tasty dinner or side. 
 </br>
 </br>
+
 ![Easy Veggie Lo Mein](/images/uploads/2021_01_08_easy_veggie_lo_mein_2.jpg)
 </br>
 </br>
@@ -23,6 +24,7 @@ Skip takeout and make the easiest lo mein you will ever make in 15 minutes at ho
 Lo Mein is an authentically Chinese dish, a popular one in China and North America too, especially when it comes to take out. Lo means ‘tossed‘. So, when we’re talking about lo mein, it’s simply ‘tossed noodles‘. Sometimes there is confusion between lo mein and chow mein. This is probably because both lo mein and chow mein are made from the same type of Chinese noodle. The way the noodles are prepared is what makes the difference. Lo mein noodles are boiled then tossed with sauce and veggies whereas chow mein noodles are fried noodles (chow means fried). They are both delicious. 
 </br>
 </br>
+
 ![Easy Veggie Lo Mein](/images/uploads/2021_01_08_easy_veggie_lo_mein_3.jpg)
 </br>
 </br>
@@ -31,6 +33,7 @@ Lo Mein is an authentically Chinese dish, a popular one in China and North Ameri
 Who knew how easy it could be to make Lo Mein at home? Simply boil your noodles while you stir fry all your veggies and prepare a simple sauce. Once the veggies are stir fried remove them from pan, drain your noodles very well and then add them to the pan and toss well with the sauce. Stir in your veggies and you are done. When it comes to the noodles you can use whatever noodles you like or have on hand. It’s easy for me to get my hands on chow mein noodles but if you can’t then you can easily use ramen noodles or regular pasta too. It may not be the authentic choice but it will be a practical one and still a delicious one too. 
 </br>
 </br>
+
 ![Easy Veggie Lo Mein](/images/uploads/2021_01_08_easy_veggie_lo_mein_4.jpg)
 </br>
 </br>
@@ -38,6 +41,7 @@ Who knew how easy it could be to make Lo Mein at home? Simply boil your noodles 
 When it comes to the veggies you can add whatever you like. I always turn to this dish when I’m craving saucy noodles and also when I want to clean out the fridge of all the little odds and ends of veggies. You can use almost any vegetables like: red pepper, carrots, spinach, bok choy, mushrooms, snap peas, onions, cabbage, and broccoli. This recipe comes together super fast. Prepping and chopping the veggies is the most time consuming part of this recipe so I recommend having them all chopped and ready to go before you start boiling your noodles. 
 </br>
 </br>
+
 ![Easy Veggie Lo Mein](/images/uploads/2021_01_08_easy_veggie_lo_mein_5.jpg)
 </br>
 </br>
@@ -95,4 +99,6 @@ I didn’t add meat to mine this time but feel free to add and stir fry any meat
 Adapted from _Food and Wine_
 
 </br>
-![Easy Veggie Lo Mein](/images/uploads/2021_01_08_easy_veggie_lo_mein_6.jpg)
+
+![Easy Veggie Lo Mein](/images/uploads/2021_01_08_easy_veggie_lo_mein_5.jpg)
+

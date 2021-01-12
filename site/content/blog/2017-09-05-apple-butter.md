@@ -88,4 +88,5 @@ I also made a spice cake with it (sharing that soon too) and you can definitely 
 1. Remove from heat and let cool for a few minutes and transfer to a  sealed container and it can last for up to a month refrigerated.
 
 </br>
+
 ![Apple Butter](/images/uploads/2017_09_05_apple_butter_9.jpg)

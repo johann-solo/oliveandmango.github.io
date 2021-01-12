@@ -15,6 +15,7 @@ description: Rich meat sauce, creamy béchamel and loads of mozzarella make up t
 This is the ultimate lasagna bolognese. Homemade is always best when it comes to lasagna. The rich bolognese sauce or meat sauce is full of flavour and easy to make. The white sauce or béchamel sauce gives this lasagna an incredible creamy richness like no other. And we can’t call this the ultimate lasagna without it having loads of cheese in it. Layers of shredded mozzarella are in each layer and then loaded on top for that extra cheesy topping with crispy edges. It’s ooey, it’s gooey and it’s soooo good!! 
 </br>
 </br>
+
 ![Ultimate Lasagna Bolognese](/images/uploads/2020_12_20_ultimate_lasagna_bolognese_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This is the ultimate lasagna bolognese. Homemade is always best when it comes to
 An authentic lasagna bolognese may be slightly different using more pork in the meat sauce and pancetta in it too. You could definitely use a blend of ground meat in your bolognese or meat sauce and even start with browning some pancetta before adding the veggies for extra flavour. Most commonly white wine is used in the sauce too - I used red because I like mine with red. Feel free to use whichever you like. When it comes to simmering the sauce, I thought 45 min was enough to reduce mine enough for the lasagna and still be brimming with rich flavour but if you want to simmer it longer for more flavour feel free too. Many bolognese recipes call for it to simmer away for over two hours to build that extra flavour, adding extra liquid as needed. If you have the time or if you are making the sauce ahead - go for it! 
 </br>
 </br>
+
 ![Ultimate Lasagna Bolognese](/images/uploads/2020_12_20_ultimate_lasagna_bolognese_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ An authentic lasagna bolognese may be slightly different using more pork in the 
 When it comes to the pasta itself - homemade is always best but the next best is buying it fresh. This reduces the overall cooking time and baking time of this lasagna recipe. The texture of fresh pasta is always better I find too. I love how it’s doesn’t absorb as much of the sauce so you still end up with a predictably saucy lasagna - not saucy when it goes in and then dry when it comes out of the oven. If you can’t source fresh it’s not a problem. I have all the details about making this lasagna with no-bake pasta or pre-boiled pasta in notes below. 
 </br>
 </br>
+
 ![Ultimate Lasagna Bolognese](/images/uploads/2020_12_20_ultimate_lasagna_bolognese_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ When it comes to the pasta itself - homemade is always best but the next best is
 Lasagna can be quite an intimidating thing to make for some. Let me reassure you that you can do it. Think of it in three basic steps. Step 1 - make the bolognese sauce. Step 2 make the béchamel sauce. Step 3 assemble. I love to make the bolognese the day before to save me a step. When I make it ahead I let it cool down and then I refrigerate it until I need it - usually the day after. The bolognese sauce is the thing that takes the longest to make because of it having to simmer for a while and also is the portion of the lasagna with the most ingredients in it. Once you have that out of the way the rest is a cinch and takes no time to do. 
 </br>
 </br>
+
 ![Ultimate Lasagna Bolognese](/images/uploads/2020_12_20_ultimate_lasagna_bolognese_5.jpg)
 </br>
 </br>
@@ -43,6 +47,7 @@ Lasagna can be quite an intimidating thing to make for some. Let me reassure you
 The béchamel sauce is amazing and adds that extra luscious richness to lasagna. It’s sounds so fancy but it’s quite easy to make as well. The key to a good one is to make sure you stay  close to it and whisk it often or even continually. It’s not something you walk away and allow to simmer and thicken on its own. I always recommend using whole milk in it for full richness and also seasoning it well too. 
 </br>
 </br>
+
 ![Ultimate Lasagna Bolognese](/images/uploads/2020_12_20_ultimate_lasagna_bolognese_6.jpg)
 </br>
 </br>
@@ -129,4 +134,5 @@ I truly can’t resist a cheesy gooey messy slice of lasagna. It has to be one o
 Adapted from _Recipe Tin Eats_
 
 </br>
+
 ![Ultimate Lasagna Bolognese](/images/uploads/2020_12_20_ultimate_lasagna_bolognese_7.jpg)

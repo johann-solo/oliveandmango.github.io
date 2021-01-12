@@ -14,6 +14,7 @@ description: Versatile, chewy and delicious no bake granola bars
 These versatile, chewy and delicious no bake granola bars are my go to recipe for homemade ones. They are delicious and easy to make with basic pantry ingredients. They can pass as a quick breakfast, and they make a perfect grab and go snack.
 </br>
 </br>
+
 ![Easy Homemade Granola Bars](/images/uploads/2020_09_09_easy_homemade_granola_bars_2.jpg)
 </br>
 </br>
@@ -23,6 +24,7 @@ These versatile, chewy and delicious no bake granola bars are my go to recipe fo
 Skip the store-bought ones and opt for making your own granola bars. They are more delicious and couldn’t be easier to make.  Simply toast your oats and nuts or seeds for a few minutes. While they are toasting melt your butter, sugar and honey and then stir them into the oat mix. Incorporate the rest of your add-in ingredients and simply press the mixture firmly into a lined square baking pan. That’s the critical part. Take a minute and really press all the ingredients into the pan firmly. Refrigerate 2 hours until set and then slice and enjoy! They are satisfying, and just sweet enough.
 </br>
 </br>
+
 ![Easy Homemade Granola Bars](/images/uploads/2020_09_09_easy_homemade_granola_bars_3.jpg)
 </br>
 </br>
@@ -32,6 +34,7 @@ Skip the store-bought ones and opt for making your own granola bars. They are mo
 This super easy Granola Bar Recipe can be customized with your favorite add-ins. I love mine full of almonds and chocolate chips. If you wanted to go nut free feel free to use seeds for that extra bit of crunch in your bars.  When it comes to dried fruit I love the tangy sweetness that dried cranberries add but feel free to use raisins, dried cherries, apricots and even chopped dried figs or dates. Other nuts to use include peanuts, pistachios, cashews or hazelnuts. The possibilities are endless — all you need to know is the base. The staple ingredients that stay consistent are the oats, butter, honey and brown sugar. I often use maple syrup for honey or coconut sugar instead of brown sugar but other than that, those three things stay consistent. The honey and sugar not only provide sweetness but together with the butter are the glue that holds everything together. Chocolate chips or chunks are also a great option - totally a must in my books. 
 </br>
 </br>
+
 ![Easy Homemade Granola Bars](/images/uploads/2020_09_09_easy_homemade_granola_bars_4.jpg)
 </br>
 </br>
@@ -83,4 +86,5 @@ Total Time: 2 hours 20 minutes
 1. Store in airtight container for up to one week room temp for softer bars and for crunchier bars in the fridge 
 
 </br>
+
 ![Easy Homemade Granola Bars](/images/uploads/2020_09_09_easy_homemade_granola_bars_5.jpg)

@@ -12,12 +12,15 @@ excerpt: Sweet and slightly boozy peaches wrapped up in a buttery and flaky crus
 It’s been so hot and it’s a few days into September already and I truly am not sad about it! What’s making me so happy is that there are still plenty of peaches and plums on trees in the Niagara Region providing us sweet fresh produce to enjoy well into September. When any fruit season comes along I always have to use it ina pie. I didn’t do a strawberry one this season but i did do a galette which is pretty much a rustic or in my case a much more rustic pie as all my pies look rustic already.
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_2.jpg)
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_3.jpg)
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_4.jpg)
 </br>
 </br>
@@ -25,12 +28,15 @@ It’s been so hot and it’s a few days into September already and I truly am n
 I pretty much have a staple pie crust recipe that is so good with all sorts of fillings. It’s wonderfully easy to make and has never failed me yet. I strongly recommend you having a look at it but feel free to use your own if you are very comfortable with it. This one is buttery and flaky and hold ups so well even with the juiciest fruit.
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_5.jpg)
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_6.jpg)
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_7.jpg)
 </br>
 </br>
@@ -38,12 +44,15 @@ I pretty much have a staple pie crust recipe that is so good with all sorts of f
 When I make a new pie or experiment with a new filling I love to do my research. I have no time for fails in the kitchen so I do my due diligence and try to plan all the flavours before I make it. Some great resources I use are the Serious eats website, along with the kitchn and several other very informative websites that help me out with the fillings when it comes to the ratio of ingredients to ensure a nice pie filling. Not too runny and not too thick. This time I came across Zoe from _Zoebakes_ making her peach pie on her Instagram stories. Her stories are the best by the way and I learn so much from her. Her filling recipe was simple and straight forward. Not quite a dump your peaches in and done but simple enough for me to make, so that should tell you enough.
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_8.jpg)
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_9.jpg)
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_10.jpg)
 </br>
 </br>
@@ -51,12 +60,15 @@ When I make a new pie or experiment with a new filling I love to do my research.
 She recommended peeling them and the easiest way to do so which I have actually done with tomatoes many times before. A very simple step but a good one especially to make sure no skins are floating around in your pie. A few skins won’t kill you, I promise you that so if you skip that step it’s not the end of world. Then the peaches hang out with some sugar and release their wonderful juices and then you make a quick thickened sauce with them and their juices before putting them in the pie. Really easy steps which are definitely worth it for a delicious pie filling.
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_11.jpg)
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_12.jpg)
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_13.jpg)
 </br>
 </br>
@@ -64,12 +76,15 @@ She recommended peeling them and the easiest way to do so which I have actually 
 Let’s talk about the rum and bitters. The original recipe called for bourbon and if you prefer bourbon then feel free to sub it out and I have a none alcoholic option below as well. Bitters is what I got so accustomed using while I lived in Trinidad and I guess it has stuck with me. It’s great in all fruity cocktails and juices, fruit salads and I love to use it in cakes too. I used the _Angostura_ orange bitters in this pie and it was amazing but the original is just perfect with it too. It always adds a wonderful flavour to baked goods. I usually replace the extract with it or go half and half with vanilla or almond when I decide to use it in my baked goods. It’s made with warming baking spices that just go so well in pies!
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_14.jpg)
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_15.jpg)
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_16.jpg)
 </br>
 </br>
@@ -77,6 +92,7 @@ Let’s talk about the rum and bitters. The original recipe called for bourbon a
 I know you will love this pie with a big ol scoop of ice cream or dollop of whip. My favourite way of eating it is warmed in the oven and with some ice cream that melts into a cream that you can dip each bite of pie into. Heavenly! Enjoy you guys and get all the peaches in you in whatever form before the season is over!
 </br>
 </br>
+
 ![Rum And Bitters Peach Pie](/images/uploads/2018_09_06_rum_and_bitters_peach_pie_17.jpg)
 </br>
 </br>

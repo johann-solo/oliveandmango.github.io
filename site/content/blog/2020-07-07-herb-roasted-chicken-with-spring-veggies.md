@@ -14,6 +14,7 @@ description: Tender chicken thighs roasted with lemons and herbs and tossed with
 These tender chicken thighs are roasted to perfection with lemons and herbs and tossed with spring veggies. A very simple meal that gets thrown together in no time. No fuss and so delicious. Easy enough for a midweek meal but just as good for Sunday lunch.
 </br>
 </br>
+
 ![Herb Roasted Chicken With Spring Veggies](/images/uploads/2020_07_07_herb_roasted_chicken_with_spring_veggies_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ I generally choose thighs for this roasted chicken recipe and most of my recipes
 I’m a dark meat kind of girl and love how tender chicken thighs roast up and how quickly they cook too. These ones are seasoned with fresh or dried rosemary and thyme and lemon zest. They roast with shallots and lemon slices adding flavour to the chicken itself and also the pan juices. Those pan juices are just too good. 
 </br>
 </br>
+
 ![Herb Roasted Chicken With Spring Veggies](/images/uploads/2020_07_07_herb_roasted_chicken_with_spring_veggies_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ I’m a dark meat kind of girl and love how tender chicken thighs roast up and h
 I adapted this recipe from BBCgoodfood and loved it. I used different seasoning then the recipe called for and you can too. If you prefer a different herb blend feel free to make it your own and switch it up. I love rosemary and thyme together and once the chicken has roasted I toss in the mint at the end. I love the freshness that mint adds to any dish and its great tossed in after instead of before as a garnish and also to add a more intense minty flavour to the dish before serving. The feta gets tossed in just before serving as well and it adds a nice salty creamy briny flavour to the dish. I definitely add more then the &frac12; cup listed in the recipe and you can too or if you aren’t a fan of the feta feel free to leave it out. 
 </br>
 </br>
+
 ![Herb Roasted Chicken With Spring Veggies](/images/uploads/2020_07_07_herb_roasted_chicken_with_spring_veggies_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ I adapted this recipe from BBCgoodfood and loved it. I used different seasoning 
 Let’s talk about the veggies. Yes I know - blanched veggies tossed into your roast? Trust me it works and the veggies keep more of their vibrancy intact. Roasting them with the chicken would work but they would definitely overcook. If you prefer them roasted I recommend tossing them with a little olive oil and roasting them separately in another pan 10-15 minutes before the chicken is done. You can also steam them instead of boiling them or you can even pan fry them in a bit of olive oil for a few minutes before tossing them in with the chicken. 
 </br>
 </br>
+
 ![Herb Roasted Chicken With Spring Veggies](/images/uploads/2020_07_07_herb_roasted_chicken_with_spring_veggies_5.jpg)
 </br>
 </br>
@@ -83,4 +87,5 @@ Cook Time: <meta itemprop="cookTime" content="PT50M">40-50 mins
 1. Drain the vegetables and toss in with the chicken, toss in the mint as well coating everything well with the cooking juices. Crumble over the feta and serve. 
 
 </br>
+
 ![Herb Roasted Chicken With Spring Veggies](/images/uploads/2020_07_07_herb_roasted_chicken_with_spring_veggies_6.jpg)

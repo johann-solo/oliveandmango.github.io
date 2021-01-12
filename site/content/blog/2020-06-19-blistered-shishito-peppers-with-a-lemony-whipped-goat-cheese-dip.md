@@ -15,6 +15,7 @@ description: Blistered shishito peppers are so tasty as an appetizer and so easy
 There is a lot of love for peppers on the whole in Greek culture. Whatever you do to them - whether you stuff them, roast them, char grill them - we love them. Grilling red peppers is a thing we do every year in our home - then peel them, bag and freeze them. They always show up on a mezze platter or on the dinner table especially in the summer with a drizzle of olive oil, a little bit of garlic- yup full on chopped garlic in them and seasoned with salt and pepper. The best with some feta or goat cheese and crusty bread. Shishito peppers give me the same feels as those peppers do and so I decided to share a super simple recipe of how to sauté/blister them and serve them up with a super creamy and fabulous goat cheese dip. 
 </br>
 </br>
+
 ![Blistered Shishito Peppers With a Lemony Whipped Goat Cheese Dip](/images/uploads/2020_06_19_blistered_shishito_peppers_with_a_lemony_whipped_goat_cheese_dip_2.jpg)
 </br>
 </br>
@@ -23,6 +24,7 @@ There is a lot of love for peppers on the whole in Greek culture. Whatever you d
 Shishito peppers are a small variety of peppers that come from East Asia. They are small and slender bright green peppers that eventually mature to red, but are mostly eaten green. They have a bit of a wrinkled texture making them look like wrinkled, thin-skinned jalapeños. They only resemble them in look not in flavour. They are also similar to the Spanish Padrone, but the shishito has a distinctive flavor and appearance all on its own. 
 </br>
 </br>
+
 ![Blistered Shishito Peppers With a Lemony Whipped Goat Cheese Dip](/images/uploads/2020_06_19_blistered_shishito_peppers_with_a_lemony_whipped_goat_cheese_dip_3.jpg)
 </br>
 </br>
@@ -31,6 +33,7 @@ Shishito peppers are a small variety of peppers that come from East Asia. They a
 Their flavour is lively, slightly sweet with a hint of smokiness. They are addictive because of their sweet, mild and slightly smoky flavour and their size makes them easy to just pop in your mouth and enjoy. Every so often a particular pod will pack some heat and surprise you. About 1 in 10 (or even 1 in 20 I have found) shishito peppers reach the higher range when it comes to heat but even the hottest of those are still quite mild even when compared to jalapeños. Eating them is often compared to a game of Russian roulette. You just don’t know when you might bite into that ‘hot’ one. That definitely adds to the thrill and enjoyment of eating them. 
 </br>
 </br>
+
 ![Blistered Shishito Peppers With a Lemony Whipped Goat Cheese Dip](/images/uploads/2020_06_19_blistered_shishito_peppers_with_a_lemony_whipped_goat_cheese_dip_4.jpg)
 </br>
 </br>
@@ -39,6 +42,7 @@ Their flavour is lively, slightly sweet with a hint of smokiness. They are addic
 Shishito peppers can be eaten raw like any pepper, but they really shine in recipes when they are cooked. Shishito peppers can be fire roasted on a grill, they can be done in the oven on broil, or pan-fried. The whole pepper is edible but I would not recommend eating the stem. They grill and sauté up quickly as they are small and thin skinned. They pop and hop in the pan quite a bit while they sauté so don’t be startled. All they need is a couple minutes on each side with a few charred spots and then they are out of the pan and ready to enjoy. There are loads of recipes out there to enjoy them in various ways - here is [a list of some fun ways to eat them](https://www.foodandwine.com/vegetables/shisito-pepper-recipes) 
 </br>
 </br>
+
 ![Blistered Shishito Peppers With a Lemony Whipped Goat Cheese Dip](/images/uploads/2020_06_19_blistered_shishito_peppers_with_a_lemony_whipped_goat_cheese_dip_5.jpg)
 </br>
 </br>
@@ -89,4 +93,5 @@ __For the dip__
 2. Pour into serving bowl and enjoy with your shishito peppers
 
 </br>
+
 ![Blistered Shishito Peppers With a Lemony Whipped Goat Cheese Dip](/images/uploads/2020_06_19_blistered_shishito_peppers_with_a_lemony_whipped_goat_cheese_dip_6.jpg)

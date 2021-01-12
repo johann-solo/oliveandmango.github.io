@@ -14,6 +14,7 @@ description: Thick and rich chocolate sauce perfect over ice cream
 This thick and rich chocolate sauce is perfect over ice cream. It’s so easy to make and stores very well in the fridge. Just reheat as needed and enjoy! 
 </br>
 </br>
+
 ![Easy Homemade Hot Fudge Sauce](/images/uploads/2020_09_01_easy_homemade_hot_fudge_sauce_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This thick and rich chocolate sauce is perfect over ice cream. It’s so easy to
 Other than eating it by the spoonful and poured over ice cream and banana splits -  you can also enjoy it drizzled over brownies or soufflés, for dipping or drizzling over fruit, drizzling over hot or cold cocoa beverages and also great in ice cream cakes or over them like in my [Hula pie recipe](https://www.oliveandmango.com/hula-pie-ice-cream-pie/). It’s made with simple pantry ingredients with no additives like the store bought stuff. It’s irresistible and you won’t regret making a batch! 
 </br>
 </br>
+
 ![Easy Homemade Hot Fudge Sauce](/images/uploads/2020_09_01_easy_homemade_hot_fudge_sauce_3.jpg)
 </br>
 </br>
@@ -47,4 +49,5 @@ Makes approx 6 cups
 1. Transfer to a mason jar or sealed container and store in the refrigerator. It will harden as it cools so when ready to use, simply reheat in a saucepan over medium-low heat. When stored properly, it will last up to 4 months in the fridge.
 
 </br>
+
 ![Easy Homemade Hot Fudge Sauce](/images/uploads/2020_09_01_easy_homemade_hot_fudge_sauce_4.jpg)

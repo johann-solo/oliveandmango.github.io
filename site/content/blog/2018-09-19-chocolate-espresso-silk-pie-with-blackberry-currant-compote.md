@@ -12,6 +12,7 @@ excerpt: Rich, chocolatey and silky smooth. Simple and so delicious
 This pie is exactly the way it’s name suggests. Rich, chocolatey and silky smooth. I have been looking for a very simple chocolate silk pie recipe and this is the one you guys. It uses a simple graham cracker base which is made in a jiffy and the filling is whipped up in your mixer. Can’t get more delicious and simpler than that.
 </br>
 </br>
+
 ![Chocolate Espresso Silk Pie](/images/uploads/2018_09_19_chocolate_espresso_silk_pie_with_blackberry_currant_compote_2.jpg)
 </br>
 </br>
@@ -19,9 +20,11 @@ This pie is exactly the way it’s name suggests. Rich, chocolatey and silky smo
 One thing that we should talk about but that we won’t dwell on too much is the use of uncooked eggs in the recipe. We won’t dwell on it too much as so many other desserts and dressings contain uncooked eggs in them like mousses, tiramisu, caesar dressing etc. The key to ‘safely’ using uncooked eggs is using the freshest possible pasteurized eggs with intact shells. I have made this and many many other uncooked egg recipes in my life and have served them without incidence so here’s hoping to that streak continuing. Hee hee! All jokes aside I have no problem with it and feel totally comfortable with the recipe and others that use uncooked eggs - if you are not than maybe this recipe isn’t for you. Check my [chocolate chess pie](https://www.oliveandmango.com/chocolate-chess-pie/) instead - it’s baked and also totally fabulous. Worth a look even if you are making this one too!
 </br>
 </br>
+
 ![Chocolate Espresso Silk Pie](/images/uploads/2018_09_19_chocolate_espresso_silk_pie_with_blackberry_currant_compote_3.jpg)
 </br>
 </br>
+
 ![Chocolate Espresso Silk Pie](/images/uploads/2018_09_19_chocolate_espresso_silk_pie_with_blackberry_currant_compote_4.jpg)
 </br>
 </br>
@@ -29,9 +32,11 @@ One thing that we should talk about but that we won’t dwell on too much is the
 Moving on now. One of the best things about this recipe other than how fabulously silky smooth and melt in your mouth it is, is that the filling doesn’t need to be baked. The only baking required is for the crust which takes just minutes. Then you just whip up the filing while the crust cools and refrigerate and done.
 </br>
 </br>
+
 ![Chocolate Espresso Silk Pie](/images/uploads/2018_09_19_chocolate_espresso_silk_pie_with_blackberry_currant_compote_5.jpg)
 </br>
 </br>
+
 ![Chocolate Espresso Silk Pie](/images/uploads/2018_09_19_chocolate_espresso_silk_pie_with_blackberry_currant_compote_6.jpg)
 </br>
 </br>
@@ -39,9 +44,11 @@ Moving on now. One of the best things about this recipe other than how fabulousl
 I wanted to all mention that the compote goes wonderfully with the blackberries and the currants, adding a nice tart balance to the rich and sweet pie. I do understand though that you may not have these berries all year round and available to you. That is no problem. Use any frozen berry you have available and it will be a very delicious pairing with this silk pie. Feel free to decorate with whip cream as an alternative to the fresh berries, especially if you don’t have any fresh ones around anymore. I used the last of the gardens blackberries in this dessert but using frozen berries is perfect in the compote.
 </br>
 </br>
+
 ![Chocolate Espresso Silk Pie](/images/uploads/2018_09_19_chocolate_espresso_silk_pie_with_blackberry_currant_compote_7.jpg)
 </br>
 </br>
+
 ![Chocolate Espresso Silk Pie](/images/uploads/2018_09_19_chocolate_espresso_silk_pie_with_blackberry_currant_compote_8.jpg)
 </br>
 </br>
@@ -49,6 +56,7 @@ I wanted to all mention that the compote goes wonderfully with the blackberries 
 This has very quickly become one of those desserts that is a go to for dinner parties cause it’s nice and easy to make. I can totally make it ahead, (like the night before) and everyone loves it. Can’t beat that when it comes to a dessert that tastes and looks this good! Hope you love it! Do tag me or let me know if you give it a try.
 </br>
 </br>
+
 ![Chocolate Espresso Silk Pie](/images/uploads/2018_09_19_chocolate_espresso_silk_pie_with_blackberry_currant_compote_9.jpg)
 </br>
 </br>
@@ -131,4 +139,5 @@ Adapted from _Food and Wine_
 </br>
 <a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
+
 ![Chocolate Espresso Silk Pie](/images/uploads/2018_09_19_chocolate_espresso_silk_pie_with_blackberry_currant_compote_10.jpg)

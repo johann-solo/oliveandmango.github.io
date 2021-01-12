@@ -16,6 +16,7 @@ description: The perfect fall side dish that has a huge flavor impact
 These Roasted brussel sprouts with candied pecans and bacon make the perfect fall side dish that has a huge flavor impact. The Brussel sprouts have a nice smokiness from the bacon, they have wonderfully caramelized edges and the candied pecans add some extra sweetness crunch. They are quiet addictive and you will want to eat them straight out the oven and straight out the pan. 
 </br>
 </br>
+
 ![Roasted Brussel Sprouts With Candied Pecans and Bacon](/images/uploads/2017_01_29_roasted_brussel_sprouts_with_candied_pecans_and_bacon_2.jpg)
 </br>
 </br>
@@ -23,9 +24,11 @@ These Roasted brussel sprouts with candied pecans and bacon make the perfect fal
 The key to making delicious Brussel sprouts is ensuring that they are not over roasted  or over cooked. When they are over done they can taste a little on the bitter side and can even get a bit soggy. Once you see those edges starting to get golden then you know they are pretty much done. To prepare them, start by trimming off the bottom of them and then slicing the brussels sprouts in half or even in quarters if they are on the larger side. Let any outer, brownish leaves fall off. I like to give them a good rinse under cold water at this point and also give them a pat dry before cooking them. Some people like to blanch them for a couple minutes in boiling water and that is ok too. I have used frozen ones before too. I have steamed them or blanched them first then drained the excess water and then cooked them as the recipe calls for. They cook a little faster when you do this, so you may have to adjust how long you roast them based on that.
 </br>
 </br>
+
 ![Roasted Brussel Sprouts With Candied Pecans and Bacon](/images/uploads/2017_01_29_roasted_brussel_sprouts_with_candied_pecans_and_bacon_3.jpg)
 </br>
 </br>
+
 ![Roasted Brussel Sprouts With Candied Pecans and Bacon](/images/uploads/2017_01_29_roasted_brussel_sprouts_with_candied_pecans_and_bacon_4.jpg)
 </br>
 </br>
@@ -33,9 +36,11 @@ The key to making delicious Brussel sprouts is ensuring that they are not over r
 These guys start off in the pan but finish off in the oven. I think roasting Brussel sprouts is one of my favorite ways to enjoy them. They always taste better roasted I find. It brings out their delicious flavor. I know there are a lot of skeptics out there when it comes to Brussel sprouts. This is the perfect recipe to ease any one in to enjoying Brussel sprouts. The bacon definitely helps. Bacon and Brussel sprouts were sort of made for each other. In fact cooking the Brussel sprouts in some of the bacon fact is definitely one of the best ways to add flavour to them. This dish is not for those counting calories. There is butter and bacon fat and brown sugar and maple syrup in there so this is one of those totally delicious sides that you just have a portion of and not the whole plate of. Moderation is key after all.
 </br>
 </br>
+
 ![Roasted Brussel Sprouts With Candied Pecans and Bacon](/images/uploads/2017_01_29_roasted_brussel_sprouts_with_candied_pecans_and_bacon_5.jpg)
 </br>
 </br>
+
 ![Roasted Brussel Sprouts With Candied Pecans and Bacon](/images/uploads/2017_01_29_roasted_brussel_sprouts_with_candied_pecans_and_bacon_6.jpg)
 </br>
 </br>
@@ -83,4 +88,5 @@ This tasty side dish is the perfect blend of fats, sweetness, saltiness and crun
 7.	Once the brussel sprouts are finished roasting remove from oven carefully (don’t burn yourself on the pan handle by accident like I do all the time), plate and toss with the candied bacon and pecans and serve.
 
 </br>
+
 ![Roasted Brussel Sprouts With Candied Pecans and Bacon](/images/uploads/2017_01_29_roasted_brussel_sprouts_with_candied_pecans_and_bacon_7.jpg)

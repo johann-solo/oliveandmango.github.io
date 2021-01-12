@@ -15,6 +15,7 @@ description: A simple herb roasted pork with caramelized apples and pears
 This roast pork with apples pears and shallots  is not only easy to make but so delicious from the simple herb rub to the caramelized sweetness from the apples and pears. I love combining seasonal fruit with savoury dishes and there is not a more classic pairing than pork and apples. The sweetness of the apples pears and shallots nicely compliments the roast pork. With its crisp skin and succulent melt-in-your-mouth flavor, this will be your new favourite one pan meal. I love to serve it with wild rice and salad. You have yourself a superb meal elegant enough for company but easy enough for a simple Sunday lunch or dinner with loads of leftovers to enjoy the next day. 
 </br>
 </br>
+
 ![Pork roast with apples and pears ](/images/uploads/2020_11_07_pork_roast_with_apples_and_pears_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This roast pork with apples pears and shallots  is not only easy to make but s
 It’s a set it and forget it kind of meal. I use to be intimidated to cook a roast like this but I learned that there’s really nothing to it. Having a meat thermometer is so handy and helps ensure your pork is perfectly done every time. The best part of cooking up a pork roast like this is all the delicious leftovers according to my husband. I love to slice all the leftover pork up in to thin slices. I usually freeze half to enjoy later and then enjoy the rest fried up with my eggs for breakfast or in a brioche bun with chow chow. 
 </br>
 </br>
+
 ![Pork roast with apples and pears ](/images/uploads/2020_11_07_pork_roast_with_apples_and_pears_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ It’s a set it and forget it kind of meal. I use to be intimidated to cook a ro
 A pork rib roast is simple to make but impressive to present. Slathered with a  fragrant herb oil paste the meat is roasted whole and then sliced at the dinner table. What makes this extra impressive to serve and bring to the table is the decorative frenching of the bones. That really makes it a showstopper.
 </br>
 </br>
+
 ![Pork roast with apples and pears ](/images/uploads/2020_11_07_pork_roast_with_apples_and_pears_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ A pork rib roast is simple to make but impressive to present. Slathered with a 
 Using pork loin with bone-in helps to keep the pork moist and always adds wonderful flavour. All this roast needs is a small amount of seasonings, the fat from this rib roast gives it all the flavor it needs. Feel free to switch up the herbs if you prefer to use another herb blend. I love the blend of apples, pears and shallots but you can chose to do one or the other when it comes to the fruit. And if you wanted to use red or yellow onions over shallots that is also fine. 
 </br>
 </br>
+
 ![Pork roast with apples and pears ](/images/uploads/2020_11_07_pork_roast_with_apples_and_pears_5.jpg)
 </br>
 </br>
@@ -93,4 +97,5 @@ This pork roast is easy to make, goes with any side dish, and perfect for specia
 Adapted from _Martha Stewart_
 
 </br>
+
 ![Pork roast with apples and pears ](/images/uploads/2020_11_07_pork_roast_with_apples_and_pears_6.jpg)

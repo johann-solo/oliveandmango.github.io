@@ -12,9 +12,11 @@ excerpt: Tenders pears get the Fall treatment in this salted maple glazed galett
 A galette for every season and every fruit is necessary and pear season was not going to pass me but without making a few tasty things with them.
 </br>
 </br>
+
 ![Spiced Pear Galette With Salted Maple Glaze](/images/uploads/2018_10_05_spiced_pear_galette_with_salted_maple_glaze_2.jpg)
 </br>
 </br>
+
 ![Spiced Pear Galette With Salted Maple Glaze](/images/uploads/2018_10_05_spiced_pear_galette_with_salted_maple_glaze_3.jpg)
 </br>
 </br>
@@ -22,9 +24,11 @@ A galette for every season and every fruit is necessary and pear season was not 
 This recipe includes a really basic galette. Simple enough and great with any type of galette whether sweet or savoury. I use it for all my galettes and if I switch things up this is still the base recipe that I either add spice to or a different grain.
 </br>
 </br>
+
 ![Spiced Pear Galette With Salted Maple Glaze](/images/uploads/2018_10_05_spiced_pear_galette_with_salted_maple_glaze_4.jpg)
 </br>
 </br>
+
 ![Spiced Pear Galette With Salted Maple Glaze](/images/uploads/2018_10_05_spiced_pear_galette_with_salted_maple_glaze_5.jpg)
 </br>
 </br>
@@ -32,9 +36,11 @@ This recipe includes a really basic galette. Simple enough and great with any ty
 The spiced pears bake up perfectly. I tend to slice them nice and thin so that they are perfectly tender when baked. I have included a note below on how to spice them without tossing them to keep the the stacks together if you want to style them on the pasty like I have.
 </br>
 </br>
+
 ![Spiced Pear Galette With Salted Maple Glaze](/images/uploads/2018_10_05_spiced_pear_galette_with_salted_maple_glaze_6.jpg)
 </br>
 </br>
+
 ![Spiced Pear Galette With Salted Maple Glaze](/images/uploads/2018_10_05_spiced_pear_galette_with_salted_maple_glaze_7.jpg)
 </br>
 </br>
@@ -42,6 +48,7 @@ The spiced pears bake up perfectly. I tend to slice them nice and thin so that t
 Pears get overlooked many time as apples are way more popular when it comes to pies and baked goods in the fall season, but I have a thing for pears and I think they bake up just as  good and if not better than apples (dare I say) with all the fall spices.
 </br>
 </br>
+
 ![Spiced Pear Galette With Salted Maple Glaze](/images/uploads/2018_10_05_spiced_pear_galette_with_salted_maple_glaze_8.jpg)
 </br>
 </br>
@@ -49,6 +56,7 @@ Pears get overlooked many time as apples are way more popular when it comes to p
 There are so many wonderful flavours to bake with in the fall season. Lots of spices, all things pumpkin, caramel and apple but by far my favorite thing to add flavour to fall things is maple syrup!  I love how it mixes well with so many other foods I love like nuts, all sorts of fruit and it’s also the perfect glaze to pour over these spiced pears. Caramel is also fabulous but I wanted something lighter and more syrupy for this galette. I wouldn’t change my mind about it - it was soo good I had a hard time keeping myself from drinking it!
 </br>
 </br>
+
 ![Spiced Pear Galette With Salted Maple Glaze](/images/uploads/2018_10_05_spiced_pear_galette_with_salted_maple_glaze_9.jpg)
 </br>
 </br>
@@ -56,6 +64,7 @@ There are so many wonderful flavours to bake with in the fall season. Lots of sp
 If you are looking for a delicious and fairly simple dessert for family dinner or company this is a beautiful option! Our family loved it and it perfect served with some vanilla bean ice-cream and an extra drizzle of that maple glaze!
 </br>
 </br>
+
 ![Spiced Pear Galette With Salted Maple Glaze](/images/uploads/2018_10_05_spiced_pear_galette_with_salted_maple_glaze_10.jpg)
 </br>
 </br>

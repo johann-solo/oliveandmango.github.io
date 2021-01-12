@@ -14,6 +14,7 @@ description: A traditional Swedish challah bread paired with wonderful roasted t
 I’m such a bread person you guys. I’m definitely one of those people that really can’t live without it. The smell of it baking is just heavenly. I’m a novice bread baker but hoping with practice that will change. I was quite happy to receive Magnus Nilsson’s most recent book _The Nordic Baking Book_. I was also sent his previous two books The Nordic Cook Book and Nordic: A Photographic Essay of Landscapes, Food and People - the latter being a personally curated selection of Magnus Nilsson’s photographs from The Nordic Cookbook, also including previously unpublished images taken during his research. It’s beautiful. He does not call himself a photographer but his snap shots  say otherwise - his eye for photography is amazing - a true artist when it comes to food and photography.
 </br>
 </br>
+
 ![Classic Roasted Tomato And Sweet Pepper Soup With Swedish Poppy Seed Bread](/images/uploads/2019_03_08_swedish_wheat_loaf_with_poppy_seeds_2.jpg)
 </br>
 </br> 
@@ -21,9 +22,11 @@ I’m such a bread person you guys. I’m definitely one of those people that re
 The Nordic Cook Book is a documentary of recipes compiled in a way that people can understand what Nordic cooking  is all about and that it’s more than gravlax, herrings and meatballs. The Nordic Baking Book is very much a continuation of the Cook Book. Magnus himself calls it a snapshot of what people actually bake today in the Nordic region that he has compiled. It contains pretty much all the dishes of the Nordic region containing grains: from porridge to pasties, breads, cakes, cookies and pastries. That is why I was excited to receive these books. 
 </br>
 </br>
+
 ![Classic Roasted Tomato And Sweet Pepper Soup With Swedish Poppy Seed Bread](/images/uploads/2019_03_08_swedish_wheat_loaf_with_poppy_seeds_3.jpg)
 </br>
 </br>
+
 ![Classic Roasted Tomato And Sweet Pepper Soup With Swedish Poppy Seed Bread](/images/uploads/2019_03_08_swedish_wheat_loaf_with_poppy_seeds_4.jpg)
 </br>
 </br>
@@ -31,9 +34,11 @@ The Nordic Cook Book is a documentary of recipes compiled in a way that people c
 A little more on the man behind these amazing books. Magnus Nilsson is a Swedish chef who is head chef at the restaurant Fäviken in Sweden. He was in the Netflix series Chef’s Table season one, if you are a fan of the series like we are, you may remember his restaurant in which he serves incredible dishes in a quick paced succession - approximately 30 dishes in a span of approximately 2&frac12; hours. How excited was I to receive his books by Phaidon Publishing company! The categories in each Cook Book are laid out logically and the recipes are very clear and the book also has some very helpful illustrations especially when it comes to more complex bread shaping.
 </br>
 </br>
+
 ![Classic Roasted Tomato And Sweet Pepper Soup With Swedish Poppy Seed Bread](/images/uploads/2019_03_08_swedish_wheat_loaf_with_poppy_seeds_5.jpg)
 </br>
 </br>
+
 ![Classic Roasted Tomato And Sweet Pepper Soup With Swedish Poppy Seed Bread](/images/uploads/2019_03_08_swedish_wheat_loaf_with_poppy_seeds_6.jpg)
 </br>
 </br>
@@ -41,9 +46,11 @@ A little more on the man behind these amazing books. Magnus Nilsson is a Swedish
 It was recommended that I make two specific recipes from the Nordic Baking Book and the first one I was asked to make and share is a Swedish Wheat Loaf with Poppy Seeds. It’s a white milk bread which has its roots in a traditional challah. The Swedified version though does not contain any eggs (except in the egg wash if you count that) and doesn’t have the traditional braided appearance that challah does. It’s a fabulous bread and actually quite easy to make. It was my first time using fresh yeast and I loved using it but this way - it dissolves nicely and I will def be using it again. If you don’t have fresh yeast available, according to Nigella.com if the recipe has 30g (1 ounce) fresh yeast then you can use 15g (&frac12; ounce) active dry yeast or 7g (&frac14; ounce) instant yeast instead.
 </br>
 </br>
+
 ![Classic Roasted Tomato And Sweet Pepper Soup With Swedish Poppy Seed Bread](/images/uploads/2019_03_08_swedish_wheat_loaf_with_poppy_seeds_7.jpg)
 </br>
 </br>
+
 ![Classic Roasted Tomato And Sweet Pepper Soup With Swedish Poppy Seed Bread](/images/uploads/2019_03_08_swedish_wheat_loaf_with_poppy_seeds_8.jpg)
 </br>
 </br>
@@ -51,9 +58,11 @@ It was recommended that I make two specific recipes from the Nordic Baking Book 
 The bread is light but still has substance to it when it comes to texture. The recipe calls for making it in a standing mixer but mine for some reason couldn’t handle it so I used good old elbow grease. I made it a couple of times and noticed that I was more confident in recognising when the dough is ready to proof. You really do get a feel for it. I really can’t wait to bake more of the breads and baked goods in the book.
 </br>
 </br>
+
 ![Classic Roasted Tomato And Sweet Pepper Soup With Swedish Poppy Seed Bread](/images/uploads/2019_03_08_swedish_wheat_loaf_with_poppy_seeds_9.jpg)
 </br>
 </br>
+
 ![Classic Roasted Tomato And Sweet Pepper Soup With Swedish Poppy Seed Bread](/images/uploads/2019_03_08_swedish_wheat_loaf_with_poppy_seeds_10.jpg)
 </br>
 </br>
@@ -61,6 +70,7 @@ The bread is light but still has substance to it when it comes to texture. The r
 We enjoyed this bread with a fabulous roasted tomato and sweet pepper soup. It’s one of my favourite soups to dip bread into and thought this one most definitely would be delicious with it.  It’s just a simple soup recipe that I love to make and I love to eat it with toasted bread slathered with a bit of pesto.  This was the perfect bread to do that with - it was also the perfect sandwich bread and perfect bread for  French toast. I will share a snap of it made into that on insta soon. I can’t wait to share the second recipe with you guys which is actually in both the Cook Book and the Baking Book. It’s going to be pretty epic! In the meantime do make this loaf and do make this soup - you will love them together and you will have enough leftovers for French toast the next day.
 </br>
 </br>
+
 ![Classic Roasted Tomato And Sweet Pepper Soup With Swedish Poppy Seed Bread](/images/uploads/2019_03_08_swedish_wheat_loaf_with_poppy_seeds_11.jpg)
 </br>
 </br>
@@ -132,4 +142,5 @@ Serves 4
 2. Stir well and serve sprinkled with fresh basil, a drizzle of good olive oil or heavy cream and some toasted bread with a slathering of pesto (homemade or store bought)
 
 </br>
+
 ![Classic Roasted Tomato And Sweet Pepper Soup With Swedish Poppy Seed Bread](/images/uploads/2019_03_08_swedish_wheat_loaf_with_poppy_seeds_12.jpg)

@@ -14,6 +14,7 @@ description: A simple recipe for creamy pasta and shrimp in a garlic lemon butte
 Creamy pasta and shrimp in a garlic lemon butter sauce - basically what I’m craving daily!  This is such a great midweek meal that we love. Simple and on the table in no time. It takes longer to cook the pasta then prep the sauce. You cannot beat that for the midweek!
 </br>
 </br>
+
 ![Lemon Garlic Shrimp Pasta](/images/uploads/2019_08_22_lemon_garlic_shrimp_pasta_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ Creamy pasta and shrimp in a garlic lemon butter sauce - basically what I’m cr
 I made this recipe in collaboration with <span class="highlight"><a rel="nofollow" href="https://www.zwilling.ca/zwilling-canada/">Zwilling</a></span> and this brand new <span class="highlight"><a rel="nofollow" href="https://www.zwilling.ca/product/new-zwilling-rose-10-piece-cookware-set/">Rosé 10 Piece Cookware Set</a></span> of pots and pans they sent me. It’s a gorgeous set and I have to say they came at the right time for me. As many of you know I moved back here from living in Trinidad for 6 years last year. We left for Trinidad with most of our belongings all packed in a container. We came back with only 6 suitcases. We gave away and left back almost everything. It was a crazy freeing experience but it was a slight bit crushing too. I’m not overly attached to things but when it comes to my kitchen comforts and my favourite pots and pans, skillets and Dutch ovens that I have accumulated over the last 13 years of marriage and as a food blogger - I have to say I missed them and it was hard to see them go (they went to happy and appreciative homes though) because we get comfortable with our stuff and cooking with it plus a lot of it I have had from my wedding. Anyways I’m not too sentimental about it but I got to say I was super happy to receive this beautiful set and was in the market for one for sure - so huge thanks to Zwilling! 
 </br>
 </br>
+
 ![Lemon Garlic Shrimp Pasta](/images/uploads/2019_08_22_lemon_garlic_shrimp_pasta_3.jpg)
 </br>
 </br>
+
 ![Lemon Garlic Shrimp Pasta](/images/uploads/2019_08_22_lemon_garlic_shrimp_pasta_4.jpg)
 </br>
 </br>
@@ -31,9 +34,11 @@ I made this recipe in collaboration with <span class="highlight"><a rel="nofollo
 Zwilling not only kindly sent me a set but also offered to giveaway a set to one of my followers. Make sure and check out my Instagram post for more details and how you can win this set. Let me tell you more about it because not only are these beautiful but they have some really nice features. They are polished stainless steel. And all of the pots feature a measuring scale integrated on the interior which I think is super cool and saves you dirtying a measuring cup if you are adding anything to the pot. They have Ergonomic V-shape riveted 18/10 stainless steel handles provide comfortable control, and stay cool while cooking for enhanced safety and they are in a lovely rose gold. The dripless pouring rims help prevent kitchen spills which is always a plus for me!! 
 </br>
 </br>
+
 ![Lemon Garlic Shrimp Pasta](/images/uploads/2019_08_22_lemon_garlic_shrimp_pasta_5.jpg)
 </br>
 </br>
+
 ![Lemon Garlic Shrimp Pasta](/images/uploads/2019_08_22_lemon_garlic_shrimp_pasta_6.jpg)
 </br>
 </br>
@@ -45,6 +50,7 @@ I enjoy cooking in these and know you will too! This is one of many recipes I wi
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.zwilling.ca/zwilling-canada/">Zwilling</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Lemon Garlic Shrimp Pasta](/images/uploads/2019_08_22_lemon_garlic_shrimp_pasta_7.jpg)
 </br>
 </br>
@@ -89,4 +95,5 @@ Serves 4
 Adapted from _Cafedelites.com_
 
 </br>
+
 ![Lemon Garlic Shrimp Pasta](/images/uploads/2019_08_22_lemon_garlic_shrimp_pasta_8.jpg)

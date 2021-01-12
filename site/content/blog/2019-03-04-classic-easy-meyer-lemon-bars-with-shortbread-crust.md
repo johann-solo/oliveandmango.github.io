@@ -14,6 +14,7 @@ description: Lemons bars with a crisp, buttery crust and a creamy lemon filling
 Lemon bars - crisp, buttery crust and creamy lemon filling, make this classic a popular favourite. This is a simple recipe. From making the crust in the food processor to just whisking and pouring your filling into the pan. They bake up beautifully with the nicest lemony filling that is just enough tart and sweet - not too sweet, but just enough to meet the tartness right in the middle.
 </br>
 </br>
+
 ![Classic Easy Meyer Lemon Bars With Shortbread Crust](/images/uploads/2019_03_04_classic_easy_meyer_lemon_bars_with_shortbread_crust_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Lemon bars - crisp, buttery crust and creamy lemon filling, make this classic a 
 There are so many lemon bar recipes out there, and I’m very sure that there may be some that yield a creamier filling or a richer one but they also probably require making a custard and a few extra steps. I was looking for a fab bar that requires as few steps as possible with a delicious filling that is easy to make and a buttery press in crust. This was definitely it.
 </br>
 </br>
+
 ![Classic Easy Meyer Lemon Bars With Shortbread Crust](/images/uploads/2019_03_04_classic_easy_meyer_lemon_bars_with_shortbread_crust_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ There are so many lemon bar recipes out there, and I’m very sure that there ma
 I chose to use meyer lemons for these lemon bars as this is the first year that I have had them available to me so I was super excited to get my hands on some and enjoy their flavour to the fullest. They are said to be a cross between a regular lemon and a mandarin orange. They tend to be slightly sweeter than other lemons, the are a little smaller and rounder in size with a slightly orange tinge of color to their skin and pulp. Their rind/zest is much more fragrant and that is why I recommend you don’t stinge on it in the recipe where it calls for it. That being said you can definitely use a different variety of lemons in this recipe, in fact, you can use any other citrus in the place of the lemon also. The measurements stay the same though and you will get a different citrus note of flavour according to the citrus you choose.
 </br>
 </br>
+
 ![Classic Easy Meyer Lemon Bars With Shortbread Crust](/images/uploads/2019_03_04_classic_easy_meyer_lemon_bars_with_shortbread_crust_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ I chose to use meyer lemons for these lemon bars as this is the first year that 
 These were a total hit with my family - they were gone so fast. I was hoping to save one for a friend of mine who adores lemon bars but not this batch. None made it alive after a day. Another batch is definitely in order! Make sure and make one for yourselves as well - you will love them.
 </br>
 </br>
+
 ![Classic Easy Meyer Lemon Bars With Shortbread Crust](/images/uploads/2019_03_04_classic_easy_meyer_lemon_bars_with_shortbread_crust_5.jpg)
 </br>
 </br>
@@ -84,4 +88,5 @@ Adapted from _Chatelaine_ and _Amanda Frederickson_
 </br>
 <a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
+
 ![Classic Easy Meyer Lemon Bars With Shortbread Crust](/images/uploads/2019_03_04_classic_easy_meyer_lemon_bars_with_shortbread_crust_6.jpg)

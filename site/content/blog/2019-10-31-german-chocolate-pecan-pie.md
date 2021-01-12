@@ -14,9 +14,11 @@ description: A sweet mashup of two very delicious desserts
 A sweet mashup of two very delicious desserts together in pie form. German chocolate cake is such a classic. Many times the frosting or filling on it and in it is usually made of pecans and coconut. I thought it would be genius to make a pecan pie with those same flavours - the addition of chocolate and coconut. Well I did some searching and I was definitely not the genius that came up with this mashup. This is a recipe from Southern Living and is just absolutely delicious. I used a few substitutions that I added to this recipe according to what I had in the pantry and fridge and it’s just a wild and decadent dessert that none of us could get enough of. 
 </br>
 </br>
+
 ![German Chocolate Pecan Pie](/images/uploads/2019_10_31_german_chocolate_pecan_pie_2.jpg)
 </br>
 </br>
+
 ![German Chocolate Pecan Pie](/images/uploads/2019_10_31_german_chocolate_pecan_pie_3.jpg)
 </br>
 </br>
@@ -24,9 +26,11 @@ A sweet mashup of two very delicious desserts together in pie form. German choco
 It’s three layers of delciousness. The first layer is comprised by the most flaky of crusts. A basic pie crust that always works so well. It’s a mix of butter and shortening which makes for that flaky crust. I use what I always have stocked in my pantry to make the crust and in this case to also make the chocolate filling - that is <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/organic-all-purpose-unbleached-white-flour.html">Bob’s Red Mill Unbleached White Organic all-purpose flour</a></span>. Its a premium baking flour milled from certified organic, hard red wheat. You can use this high quality wheat flour product for all of your baked goods, in yeast breads, quick breads, biscuits, muffins, cookies and cakes and most definitely this pie. It’s unbleached and unenriched, with no potassium bromate added. Bob’s Red Mill offers whole grain foods in the country. All of its products are certified Kosher and made with ingredients grown from non-GMO seeds. 
 </br>
 </br>
+
 ![German Chocolate Pecan Pie](/images/uploads/2019_10_31_german_chocolate_pecan_pie_4.jpg)
 </br>
 </br>
+
 ![German Chocolate Pecan Pie](/images/uploads/2019_10_31_german_chocolate_pecan_pie_5.jpg)
 </br>
 </br>
@@ -34,9 +38,11 @@ It’s three layers of delciousness. The first layer is comprised by the most fl
 The next layer is that chocolate custard layer which Im pretty sure can make a delicious pie on it’s own - kind of like my [chess pie](https://www.oliveandmango.com/chocolate-chess-pie/). It’s just a decadent layer that is irresistible and made even better by being topped with that third equally decadent syrupy layer. The second custard layer is the classic pecan pie filling with the addition of the coconut. The coconut adds just a bit of extra texture and hint of coconuty flavour to it. 
 </br>
 </br>
+
 ![German Chocolate Pecan Pie](/images/uploads/2019_10_31_german_chocolate_pecan_pie_6.jpg)
 </br>
 </br>
+
 ![German Chocolate Pecan Pie](/images/uploads/2019_10_31_german_chocolate_pecan_pie_7.jpg)
 </br>
 </br>
@@ -47,6 +53,7 @@ I thought this would be right up my hubby’s alley as he loves desserts and swe
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![German Chocolate Pecan Pie](/images/uploads/2019_10_31_german_chocolate_pecan_pie_8.jpg)
 </br>
 </br>
@@ -100,4 +107,5 @@ __For the coconut-pecan filling__
 Adapted from _Southern Living_
 
 </br>
+
 ![German Chocolate Pecan Pie](/images/uploads/2019_10_31_german_chocolate_pecan_pie_9.jpg)

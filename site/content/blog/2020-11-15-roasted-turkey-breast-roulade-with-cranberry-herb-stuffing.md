@@ -15,6 +15,7 @@ description: Rolled turkey breast with a hearty and aromatic stuffing
 This Roasted Turkey breast roulade with cranberry herb stuffing is a delicious and an easy to carve option. It’s also done in no time. It’s perfect when you want something simpler to roast than a whole turkey but something just as elegant and delicious to make for a dinner party and simple enough for Sunday family dinner. The stuffing or filling can be made the day before making it even quicker and easier to whip up for a great dinner! It’s surprisingly easy to make, super flavorful and perfect with a side of [buttery mashed potatoes](https://www.oliveandmango.com/simple-creamy-mashed-potatoes/).
 </br>
 </br>
+
 ![Roasted Turkey Breast Roulade With Cranberry Herb Stuffing](/images/uploads/2020_11_15_roasted_turkey_breast_roulade_with_cranberry_herb_stuffing_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This Roasted Turkey breast roulade with cranberry herb stuffing is a delicious a
 I recently had to shoot a roulade for a company that requested making it from a whole turkey. It’s was my first time deboning an entire turkey and actually went through two of them to get it just right. The key is to keep the skin intact so you can utilize it to keep your roulade or turkey roll together. You have to check out Youtube to see it done properly. It’s quite an undertaking especially if you don’t love handling meat like me. My hands were sore for a couple of days after deboning that much meat, but it did feel like an accomplishment. Despite all the work and toil our shot never made the cut - they went with a shot of a turkey breast roulade unfortunately, which was fine but a little disappointing as it’s wasn’t really what the recipe called for. 
 </br>
 </br>
+
 ![Roasted Turkey Breast Roulade With Cranberry Herb Stuffing](/images/uploads/2020_11_15_roasted_turkey_breast_roulade_with_cranberry_herb_stuffing_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ I recently had to shoot a roulade for a company that requested making it from a 
 Anyway I did really enjoy the filling in the recipe and I thought I would share it on the blog with a very simplified version of a turkey roulade - namely a turkey breast roulade. Deboning a turkey breast is a lot easier than a whole turkey. It’s simply cutting along the bone to loosen it from the rest of the meat and it actually comes away quite easily. You can buy whole turkey breast deboned too though or you can also get your butcher to do the work for you. Just try your best to keep the skin intact. The roulade stays together by means of the skin primarily so it’s good to keep it intact. The skin also acts as a barrier to hinder the turkey breast from drying out while it’s cooking (it WILL still dry out if you overcook it though!).
 </br>
 </br>
+
 ![Roasted Turkey Breast Roulade With Cranberry Herb Stuffing](/images/uploads/2020_11_15_roasted_turkey_breast_roulade_with_cranberry_herb_stuffing_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ Anyway I did really enjoy the filling in the recipe and I thought I would share 
 One you have your turkey deboned it is important to season it well with salt and pepper. I usually don’t need to use a meat tenderizer to get the meat flatter as it tends to do just fine. But if you want your turkey to be a bit flatter in order to roll it easier feel free to flatten it out a bit with a tenderizer before spreading over the filling. When it comes to the filling or stuffing, I love the texture the wild rice gives the filling. It’s has a nutty flavour and a chewy texture. If you want a substitute you can use quinoa or even omit it and use some chopped nuts in place of it like almond or hazelnuts. I really love the flavour of sage, rosemary and cranberries with turkey but if you prefer to use a different herb medley feel free to do so. The kale is a way to add extra green to your filling and a great idea. Spinach would work really well too or any hearty green. The amount of filling to turkey is a moderate amount. Feel free to double it if you want a hefty amount of filling and make sure to season it generously. 
 </br>
 </br>
+
 ![Roasted Turkey Breast Roulade With Cranberry Herb Stuffing](/images/uploads/2020_11_15_roasted_turkey_breast_roulade_with_cranberry_herb_stuffing_5.jpg)
 </br>
 </br>
@@ -108,4 +112,5 @@ It roasts up beautifully and using the maple syrup as a glaze to baste it with g
 1. Slice and serve with the gravy!
 
 </br>
+
 ![Roasted Turkey Breast Roulade With Cranberry Herb Stuffing](/images/uploads/2020_11_15_roasted_turkey_breast_roulade_with_cranberry_herb_stuffing_6.jpg)

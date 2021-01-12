@@ -14,6 +14,7 @@ description: Take your homemade banana bread to another level with the addition 
 You heard butter is better and that’s true but what’s even better is nutella. What’s even better than one or the other is combining the two in this banana bread.  This recipe combines those two things with yet another loved thing in our home - banana bread! Banana bread is one of those baked goods that I never tire of and is pretty hard to mess up if you have a good recipe. This banana bread is a spin on my classic recipe which yields a crowd pleasing loaf every time. It’s a pretty basic recipe that I have been using and adapting recipes from for years. [More on that recipe here](https://www.oliveandmango.com/no-fail-banana-bread/).
 </br>
 </br>
+
 ![Brown Butter Nutella Banana Bread](/images/uploads/2018_02_23_brown_butter_nutella_banana_bread_2.jpg)
 </br>
 </br>
@@ -21,12 +22,15 @@ You heard butter is better and that’s true but what’s even better is nutella
 Ok let’s get down to the nitty gritty of this recipe! First off why brown butter? Not because I wanted a hipster banana loaf in my recipe log, but because brown butter gives everything a delicious caramel’y sweet nuttiness. I also find it amplifies all the other flavours in baked goods.  It also smells amazing when you make it – I have to hold back from having more than a taste while making it.  If you don’t want those flavours in your bread no problem just melt the butter and carry on as normal with the recipe. If you have never tried it and are intimidated, don’t be! It’s basically just slowly over melting your butter.
 </br>
 </br>
+
 ![Brown Butter Nutella Banana Bread](/images/uploads/2018_02_23_brown_butter_nutella_banana_bread_3.jpg)
 </br>
 </br>
+
 ![Brown Butter Nutella Banana Bread](/images/uploads/2018_02_23_brown_butter_nutella_banana_bread_4.jpg)
 </br>
 </br>
+
 ![Brown Butter Nutella Banana Bread](/images/uploads/2018_02_23_brown_butter_nutella_banana_bread_5.jpg)
 </br>
 </br>
@@ -34,9 +38,11 @@ Ok let’s get down to the nitty gritty of this recipe! First off why brown butt
 Let’s talk briefly about the Nutella. Very briefly cause not much else to say other than I would add it to everything if I could and that’s why it was necessary in this banana bread. I actually have a long list of both chocolate and Nutella things I want to make for the blog but they are on the back burner cause I know I post way too much chocolate or Nutella stuff. I’m trying to widen out a bit. But if you are also a fan - don’t worry I have not gone off them just pacing myself with the chocolate Nutella posts. They’re coming......
 </br>
 </br>
+
 ![Brown Butter Nutella Banana Bread](/images/uploads/2018_02_23_brown_butter_nutella_banana_bread_6.jpg)
 </br>
 </br>
+
 ![Brown Butter Nutella Banana Bread](/images/uploads/2018_02_23_brown_butter_nutella_banana_bread_7.jpg)
 </br>
 </br>
@@ -44,9 +50,11 @@ Let’s talk briefly about the Nutella. Very briefly cause not much else to say 
 I love the swirls of Nutella through the bread and over the top of it too.  The bread smells heavenly while it bakes and it’s really hard not to tear into it right out of the oven. Neither flavours overpower but blend well together. You definitely taste and smell a cocoa component and a warm nuttiness too, both from the brown butter and the Nutella. This could easily be made with the addition of toasted hazelnuts and some chocolate chips or chunks. How fabulous would that be? It would give it more texture, crunch and flavour.  Will definitely be trying it that way the next time!
 </br>
 </br>
+
 ![Brown Butter Nutella Banana Bread](/images/uploads/2018_02_23_brown_butter_nutella_banana_bread_8.jpg)
 </br>
 </br>
+
 ![Brown Butter Nutella Banana Bread](/images/uploads/2018_02_23_brown_butter_nutella_banana_bread_9.jpg)
 </br>
 </br>
@@ -54,9 +62,11 @@ I love the swirls of Nutella through the bread and over the top of it too.  The 
 This is a great version of banana bread especially if you are looking to switch up your staple banana bread recipe and a lover of Nutella.  I know you will love it!
 </br>
 </br>
+
 ![Brown Butter Nutella Banana Bread](/images/uploads/2018_02_23_brown_butter_nutella_banana_bread_10.jpg)
 </br>
 </br>
+
 ![Brown Butter Nutella Banana Bread](/images/uploads/2018_02_23_brown_butter_nutella_banana_bread_11.jpg)
 </br>
 </br>
@@ -110,4 +120,5 @@ This is a great version of banana bread especially if you are looking to switch 
 Inspired by *Zoebakes* and *Foodnetwork*
 </br>
 </br>
+
 ![Brown Butter Nutella Banana Bread](/images/uploads/2018_02_23_brown_butter_nutella_banana_bread_12.jpg)

@@ -15,6 +15,7 @@ description:
 These Kourabiedes (or Kourabiethes) Greek Almond shortbread cookies often called butter cookies are delicious, melt-in-your-mouth and a staple in Greek households. They are quite often served during festive occasions but you will be wanting them on any occasion. This is a small batch recipe for them that I love because its quick and simple, not too sweet, nutty, buttery and downright addictive. A lot of recipes yield 80 sometimes 100 cookies - perfect if you are making them for a wedding but sometimes you just want a smaller batch. This recipe is very easy to double or triple if you ever need to make a larger batch.
 </br>
 </br>
+
 ![Kourabiethes](/images/uploads/2020_12_22_greek_almond_shortbread_butter_cookies_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ These Kourabiedes (or Kourabiethes) Greek Almond shortbread cookies often called
 These cookies fall under the shortbread category but I have heard them described as snowball cookies or crescent cookies depending on what shape you bake them in. They have a delicious buttery flavour similar to shortbread cookies with a slightly more crumbly texture. Our version has plenty of vanilla flavouring, a pinch of salt, and is coated in lots of powdered sugar. 
 </br>
 </br>
+
 ![Kourabiethes](/images/uploads/2020_12_22_greek_almond_shortbread_butter_cookies_3.jpg)
 </br>
 </br>
@@ -37,6 +39,7 @@ This is what you will need to make these cookies:
 As you can see these are made with pretty simple ingredients. Because butter shines in shortbread cookies including these, it’s always best to use the highest quality butter that you can find or use. It will add to the flavour and texture of the dough. 
 </br>
 </br>
+
 ![Kourabiethes](/images/uploads/2020_12_22_greek_almond_shortbread_butter_cookies_4.jpg)
 </br>
 </br>
@@ -51,6 +54,7 @@ There are a few other flavour add ins that are optional or that can be swapped f
 * The icing sugar is one of the signature features of the cookie recipe. Feel free to reduce the amount used. I grew up having these with ample amounts of it but I know others prefer just a very light dusting on there’s. You decide how you like them.  
 
 </br>
+
 ![Kourabiethes](/images/uploads/2020_12_22_greek_almond_shortbread_butter_cookies_5.jpg)
 </br>
 </br>
@@ -58,6 +62,7 @@ There are a few other flavour add ins that are optional or that can be swapped f
 The key to making the very BEST kourabiedes no matter what recipe you make is ensuring that you beat the butter and sugar until its very light and fluffy - like I mean a good 8-10 minutes until it almost resembles whip cream. This will help ensure that your cookies are αφρατα / afrata or light and fluffy and crumbly and melt in your mouth good. You also don’t want to over work or over mix the dough. I like to incorporate the last bit of flour in the recipe either mixing it in with my hands or folding it in with the spatula. The rest is super easy and pretty no fail. 
 </br>
 </br>
+
 ![Kourabiethes](/images/uploads/2020_12_22_greek_almond_shortbread_butter_cookies_6.jpg)
 </br>
 </br>
@@ -119,4 +124,5 @@ They smell so fragrant while baking, your nose will tell you when they are just 
 * If freezing the whole portions of dough, make sure to wrap it really well and it freezes very well – up to three months. Thaw overnight in the refrigerator then allow to come to room temperature and continue with step 6. 
 
 </br>
+
 ![Kourabiethes](/images/uploads/2020_12_22_greek_almond_shortbread_butter_cookies_7.jpg)

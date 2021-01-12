@@ -14,6 +14,7 @@ description: Tender sheet pan baked salmon with crispy roast potatoes and veggie
  Tender sheet pan baked salmon with a honey Dijon garlic chili sauce glaze, crispy roast potatoes and veggies. A complete meal on one tray using minimal ingredients you already have in your kitchen! Full of flavour and so easy to make! What I love about sheet-pan meals like this one is that you can prep your ingredients as you go.  While the potatoes roast you can prep the glaze for the salmon and then everything goes on the pan with the potatoes to bake up for another few minutes and done. The entire meal is done in no time and all baked on a sheet pan for an easy dinner with very little fuss. 
 </br>
 </br>
+
 ![Sheetpan Salmon and Potatoes With Veggies](/images/uploads/2020_08_06_sheetpan_salmon_and_potatoes_with_veggies_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ description: Tender sheet pan baked salmon with crispy roast potatoes and veggie
 The glaze for the salmon is one of my favorites to use. You can use it on these smaller fillets or even on a whole one. Don’t let the sriracha fool you, it’s not an Asian style glaze although it can be turned into one if you would like. The sriracha not only adds a bit of colour to the glaze but adds a really deep and delicious smoky garlic flavour with a touch of heat that I love. It’s not too much heat though. Although if you don’t like any heat I suppose you could reduce the amount or leave it out completely and add a touch more seasoning. The honey gets caramelized and adds a nice sweetness and the Dijon adds a nice tangy, savory flavour. Dijon mustard is truly one of those secret ingredients that truly makes everything taste better. I think that the glaze is just the right amount for our taste but you are welcome to double it if you want to really slather it on for extra flavour. 
 </br>
 </br>
+
 ![Sheetpan Salmon and Potatoes With Veggies](/images/uploads/2020_08_06_sheetpan_salmon_and_potatoes_with_veggies_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ The glaze for the salmon is one of my favorites to use. You can use it on these 
 These sheetpan roasted potatoes have to be the tastiest and the crispiest - I missing one more iest - and the easiest to make!  I kid you not. Baby potatoes are loved in our house and so I whip these up the same way all the time - with the salmon but also if I need a side that never disappoints. You can switch up the seasoning on them to suit anything you are making and I even double the amount if I’m making them as a side. They turn out so crispy and if you are baking them on their own just put them in for the whole 35 minutes checking halfway to give them a shake or a flip. Crispy edges, perfect every time and so addictive. 
 </br>
 </br>
+
 ![Sheetpan Salmon and Potatoes With Veggies](/images/uploads/2020_08_06_sheetpan_salmon_and_potatoes_with_veggies_4.jpg)
 </br>
 </br>
@@ -80,4 +83,5 @@ Total time: 45 mins
 I used lemon pepper for the seasoning blend and loved it but I also love using Italian seasoning blend as well. You can use whichever blend you like. A harissa  blend or za’atar blend would be nice or even herbs de Provence or Tex Mex. Really it’s according to your preference. The sauce on the salmon is super versatile and can go with any seasoning blend for the most part.  The only caution I would give is to monitor the salt in the seasoning blend you add. If there’s already salt in it I would reduce the amount you add or don’t add any at all.
 
 </br>
+
 ![Sheetpan Salmon and Potatoes With Veggies](/images/uploads/2020_08_06_sheetpan_salmon_and_potatoes_with_veggies_5.jpg)

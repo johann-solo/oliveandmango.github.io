@@ -14,6 +14,7 @@ description: How to make galaktoboureko or Greek custard pie. Galaktoboureko is 
 Crispy layers of phyllo filled with a vanilla [semolina](https://en.wikipedia.org/wiki/Semolina) custard soaked in a citrus sweet syrup. Do I need to say more? Probably not but you know I am going to! _Galaktoboureko_ is a traditional Greek dessert. It’s made of buttery layers of phyllo and a very creamy custard. It's rich and definitely a treat. It’s one of those desserts that you make sure to leave room for after dinner. It’s made of three delicious layers – the phyllo, the custard and the syrup. Why don’t we talk a little about each of them.
 </br>
 </br>
+
 ![Galaktoboureko – Greek Custard Pie](/images/uploads/2019_01_15_galaktoboureko_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ Crispy layers of phyllo filled with a vanilla [semolina](https://en.wikipedia.or
 You can definitely make them from scratch but I never do. I can never get the layers thin enough to be as light and fluffy as store bought phyllo. You can get away with thicker phyllo in a savoury pie but not when making Greek custard pie. This pie gets soaked so thicker phyllo sheets would really get weighed down by the syrup and the layers would lose their crispness. Store bought always makes things so much easier and it’s so easy to work with as well.
 </br>
 </br>
+
 ![Galaktoboureko – Greek Custard Pie, phyllo layers](/images/uploads/2019_01_15_galaktoboureko_3.jpg)
 </br>
 </br>
@@ -31,6 +33,7 @@ Phyllo dough is usually found in the frozen food section. Each package usually c
 These sheets can become gummy if too damp, or brittle if too dry. To prevent either of those things from happening, first you must make sure to defrost phyllo in the fridge, not on the counter. This prevents too much condensation from forming and making the outer layers of phyllo gummy, making them want to stick to each other. I usually defrost it overnight. Remember to also place unwrapped phyllo dough on a damp kitchen towel and cover with another damp towel or paper towels. The towels shouldn't be wet but just damp to the touch. After taking a sheet or two to work with, recover the remaining phyllo. Again, the goal is to keep the dough hydrated and prevent it from drying out. Then you’re ready to start layering! Another important thing when layering phyllo to get those light and crunchy layers, is to try not to touch the phyllo with the pastry brush too much when you are adding the butter in between layers. Drizzle it over instead of brushing it on and if you must brush it on do so very lightly.
 </br>
 </br>
+
 ![Galaktoboureko – Greek Custard Pie](/images/uploads/2019_01_15_galaktoboureko_4.jpg)
 </br>
 </br>
@@ -39,6 +42,7 @@ These sheets can become gummy if too damp, or brittle if too dry. To prevent eit
 When you are making custard of any kind it’s important to use high quality eggs and butter (no margarine here please) and also use heavy cream not just milk alone. The custard must be rich and flavourful and good quality, full fat milk and cream will give you that wonderful flavour. This is not a creamy custard by any means when you make it and that is ok. It doesn’t need to be pushed though a sieve or anything like that. The mistaken view for the custard in galaktoboureko is that it should be velvety smooth, but getting a texture like that will not create a good end result in your custard after it bakes. It will look smooth but it will be starchy or gelatinous looking, heavy and tight. You want it almost frothy and not eggy tasting or smelling either. The best way that I have learned to make it with those results, is by whipping the eggs into a meringue and slowly folding them into the custard after it cools slightly. I did quite a lot of reading on the subject and this is definitely the method that has yielded the best custard results when it comes to _galaktoboureko_. Some recipes call for separating the yolks from the whites but I don’t do that. It’s much easier keeping the two together.
 </br>
 </br>
+
 ![Galaktoboureko – Greek Custard Pie](/images/uploads/2019_01_15_galaktoboureko_5.jpg)
 </br>
 </br>
@@ -47,6 +51,7 @@ When you are making custard of any kind it’s important to use high quality egg
 The syrup is what brings the dessert together. It’s traditionally flavored with cinnamon and lemon but I like to switch things up sometimes and do orange or grapefruit too. Feel free to chose which flavour you would like to infuse it with. It’s so wonderfully fragrant and delicious. The syrup must be completely cool before pouring it over the piping hot pie right out the oven (can easily be made the day before). This will keep the top layers crisp and syrupy at the same time. If the syrup is hot it will just soak the top layers right through and they will loose their crispness. The syrup should be ladled over gently and methodically over the entire pie so it soaks evenly. Here’s where tastes differ though. Some like their pie dripping with syrup. If that is the case then use the full amount of syrup. If you like it less soaked and more on the drier side (not dripping with syrup) just make half the amount. I always like to make the full amount though because I like it between those two - slightly dripping. I gauge how much I am going to use while I’m ladling it on and seeing how much of it gets soaked through.
 </br>
 </br>
+
 ![Galaktoboureko – Greek Custard Pie](/images/uploads/2019_01_15_galaktoboureko_6.jpg)
 </br>
 </br>
@@ -58,6 +63,7 @@ Recipe adapted from _BBC Food_ and _Akis Petretzikis_
 
 </br>
 </br>
+
 ![Galaktoboureko – Greek Custard Pie](/images/uploads/2019_01_15_galaktoboureko_7.jpg)
 </br>
 </br>
@@ -123,4 +129,5 @@ __For the custard filling__
 21. Allow to cool and then slice along the scored parts and serve. (See syrup notes above for more details and how to store it)
 
 </br>
+
 ![Galaktoboureko – Greek Custard Pie](/images/uploads/2019_01_15_galaktoboureko_8.jpg)

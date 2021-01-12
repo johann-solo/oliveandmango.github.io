@@ -14,6 +14,7 @@ description: Learn how to make fluffy buttermilk pancakes with perfect golden cr
 These buttermilk pancakes are buttery, super fluffy, with perfect golden crispy edges. Have them plain with a bit of butter or loaded with fresh fruit or with plenty of maple syrup.  
 </br>
 </br>
+
 ![Easy Delicious and Fluffy Buttermilk Pancakes](/images/uploads/2020_03_21_easy_delicious_and_fluffy_buttermilk_pancakes_2.jpg)
 </br>
 </br>
@@ -23,6 +24,7 @@ These buttermilk pancakes are buttery, super fluffy, with perfect golden crispy 
 The buttermilk activates the leavening agents in the pancake mix to help create the fluffiest pancakes. You can see this happen right before your eyes. As soon as you add the wet ingredients to the dry you will notice a big difference when you use buttermilk. The batter develops large bubbles that you know will translate into fluffy pancakes. It also helps make the pancakes extra soft and keeps them moist as well. It adds it’s distinct tang to the batter as well - making these slighty sweet, with a bit of tang and totally irresistible. If you don’t have buttermilk stocked in your fridge or in your local grocery store, no biggie - it’s so easy to make. If you have regular milk and either lemon juice or standard white vinegar you have everything you need to make  homemade buttermilk. For the exact details check out [this post](https://www.google.ca/amp/s/www.thekitchn.com/how-to-make-a-quick-easy-buttermilk-substitute-cooking-lessons-from-the-kitchn-185757%3famp=1)
 </br>
 </br>
+
 ![Easy Delicious and Fluffy Buttermilk Pancakes](/images/uploads/2020_03_21_easy_delicious_and_fluffy_buttermilk_pancakes_3.jpg)
 </br>
 </br>
@@ -32,6 +34,7 @@ The buttermilk activates the leavening agents in the pancake mix to help create 
 This simple batter is key. Simple, and basic ingredients make up the batter so you never ever have to reach for the boxed stuff ever again. The key to the most perfect buttermilk pancakes is easy, do not over mix your batter, and use a very good nonstick skillet or pan or griddle set on medium/low heat. Take your time and let them do their thing. Once you start seeing those distinct bubbles happening on the surface and the edges start to get a nice colour, flip and be just as patient while the other side cooks. Using a rubber flat spatula makes your flip easy, swift and perfect every time with the flick of your wrist. 
 </br>
 </br>
+
 ![Easy Delicious and Fluffy Buttermilk Pancakes](/images/uploads/2020_03_21_easy_delicious_and_fluffy_buttermilk_pancakes_4.jpg)
 </br>
 </br>
@@ -41,6 +44,7 @@ This simple batter is key. Simple, and basic ingredients make up the batter so y
 Use this fabulous recipe as a base for adding fruit or chocolate chips. I usually add 1 cup of fresh or frozen berries or chocolate ships to the recipe to make these buttermilk blueberry pancakes or buttermilk chocolate chip ones. I don’t mix them into the batter cause they tend to sink to the bottom of the bowl in the batter. I scoop out my batter onto the pan as usual then I sprinkle on a few berries or chips and they sink into the batter of each pancake beautifully. Then flip like normal. These pancakes are the pancakes that got me hooked on pancakes - I can take or leave the thin flat ones (I know I’m one of those people) but these in an never pass up - they are simple delicious and perfect every time! Enjoy! 
 </br>
 </br>
+
 ![Easy Delicious and Fluffy Buttermilk Pancakes](/images/uploads/2020_03_21_easy_delicious_and_fluffy_buttermilk_pancakes_5.jpg)
 </br>
 </br>
@@ -75,4 +79,5 @@ Makes approx 10 pancakes
 4. Serve with a dollop of butter, berries and maple syrup.
 
 </br>
+
 ![Easy Delicious and Fluffy Buttermilk Pancakes](/images/uploads/2020_03_21_easy_delicious_and_fluffy_buttermilk_pancakes_6.jpg)

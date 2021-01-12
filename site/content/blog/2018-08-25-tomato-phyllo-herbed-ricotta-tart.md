@@ -12,9 +12,11 @@ excerpt: A perfectly delicious way to showcase all your plum tomatoes
 Tomatoe season has just been so amazing this year. We have been having juicy succulent tomato based salads every day and lots of cheese and tomato or tomato and aioli sandwiches! I can’t get enough! As much as I love roasted tomatoes and sauces, for me nothing beats them uncooked and freshly picked from garden. Sweet and tart and juicy and totally perfect.
 </br>
 </br>
+
 ![Tomato Phyllo Herbed Ricotta Tart](/images/uploads/2018_08_25_tomato_phyllo_herbed_ricotta_tart_2.jpg)
 </br>
 </br>
+
 ![Tomato Phyllo Herbed Ricotta Tart](/images/uploads/2018_08_25_tomato_phyllo_herbed_ricotta_tart_3.jpg)
 </br>
 </br>
@@ -22,9 +24,11 @@ Tomatoe season has just been so amazing this year. We have been having juicy suc
 This is the 4th tomato recipe that has been on repeat for us this season and I have one more coming. We always have a good old [horiatiki salad](https://www.oliveandmango.com/classic-greek-village-salad-horiatiki/) on repeat in our house, nothing screams summer louder than a light and [delicious gazpacho](https://www.oliveandmango.com/creamy-delicious-simple-and-classic-gazpacho/), and my husband especially can’t get enough of this [salad](https://www.oliveandmango.com/easy-chickpea-caprese-salad/). This tart is the perfect addition to all these yummy tomato rich recipes.
 </br>
 </br>
+
 ![Tomato Phyllo Herbed Ricotta Tart](/images/uploads/2018_08_25_tomato_phyllo_herbed_ricotta_tart_4.jpg)
 </br>
 </br>
+
 ![Tomato Phyllo Herbed Ricotta Tart](/images/uploads/2018_08_25_tomato_phyllo_herbed_ricotta_tart_5.jpg)
 </br>
 </br>
@@ -32,9 +36,11 @@ This is the 4th tomato recipe that has been on repeat for us this season and I h
 This is one of my favorite summer appetizers! It doesn’t require a lot of effort to make and only minutes in the oven. It’s great for a crowd and hits all the flavour marks too. Creamy, crispy and juicy all in one bite.
 </br>
 </br>
+
 ![Tomato Phyllo Herbed Ricotta Tart](/images/uploads/2018_08_25_tomato_phyllo_herbed_ricotta_tart_6.jpg)
 </br>
 </br>
+
 ![Tomato Phyllo Herbed Ricotta Tart](/images/uploads/2018_08_25_tomato_phyllo_herbed_ricotta_tart_7.jpg)
 </br>
 </br>
@@ -42,9 +48,11 @@ This is one of my favorite summer appetizers! It doesn’t require a lot of effo
 It’s not only simple to make and delicious but it also pretty easy on the eyes. It’s a stunning way to showcase all the gorgeous tomatoes. I had a few garden heirloom tomatoes given to me and thought his way would be the best to really showcase them and more importantly enjoy them! They were so plum and delicious - and perfect for this tart.
 </br>
 </br>
+
 ![Tomato Phyllo Herbed Ricotta Tart](/images/uploads/2018_08_25_tomato_phyllo_herbed_ricotta_tart_8.jpg)
 </br>
 </br>
+
 ![Tomato Phyllo Herbed Ricotta Tart](/images/uploads/2018_08_25_tomato_phyllo_herbed_ricotta_tart_9.jpg)
 </br>
 </br>
@@ -52,6 +60,7 @@ It’s not only simple to make and delicious but it also pretty easy on the eyes
 Ricotta and tomatoes are so wonderful together but ricotta is pretty much a good match to many things - sweet and savoury. The original recipe called for a cream cheese and mayo based creamy layer but I went with the ricotta because ricotta is creamy and delicious but also mellow enough to allow the tomatoes to rule in this recipe. This would also be wonderful with my [whipped feta](https://www.oliveandmango.com/zucchini-tart-with-whipped-feta-and-chives/) as the base as well. You will love it and goes very well with some wine and good company! Hope you enjoy!
 </br>
 </br>
+
 ![Tomato Phyllo Herbed Ricotta Tart](/images/uploads/2018_08_25_tomato_phyllo_herbed_ricotta_tart_10.jpg)
 </br>
 </br>

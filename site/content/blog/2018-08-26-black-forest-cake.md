@@ -12,12 +12,15 @@ excerpt: Simple decadent and perfect for special occasions
 Absolutely a delicious cake and always a show stopper. There can’t be an easier way to make it. Of course there are a few steps involved as there are layers of flavour in a Black Forest cake. All the steps are quite easy to follow and do and are very manageable. If I’m planning ahead when I make this cake I usually pit and stew the cherries the day before. Pitting the cherries is probably the longest, hardest and messiest (most annoying) thing about this recipe especially if you don’t have a proper pitter. I did them by hand without a pitter and made very good use of my time by watching Netflix while i pitted.
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_2.jpg)
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_3.jpg)
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_4.jpg)
 </br>
 </br>
@@ -25,12 +28,15 @@ Absolutely a delicious cake and always a show stopper. There can’t be an easie
 Once I stewed them I separated them from their liquid and packed them separately and stored them in the fridge until the next day when I was ready to make the cake. You can also make the ganache in advance and keep it refrigerated but you will still have to heat it back up to make it spreadable so I usually make it while the cake is baking as it’s a very simple step and making it ahead doesn’t really save too much time. The cakes can be made ahead of time too. I like to let them cool, brush them with the syrup and wrap them tightly with plastic wrap and refrigerate them overnight or you can also freeze them if you are making them ahead more than one night. Just thaw them overnight in the fridge before putting the cake together.
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_5.jpg)
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_6.jpg)
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_7.jpg)
 </br>
 </br>
@@ -38,12 +44,15 @@ Once I stewed them I separated them from their liquid and packed them separately
 The reason why I bake certain things lies heavily hinged on the two men in my life. My dad and my hubby. This time it was dad though. Black Forest cake always reminds me of him. He loves it and growing up he loved Tim Hortons Black Forest cake - like loved it. Anytime we were invited over to family or friends and he was craving it he insisted my mom not make dessert but we pickup black forest cake from Timmies. I hated it!! I hated the fake plastic tasting whip cream, the canned cherry filling that to my young palate tasted bitter from whatever they soaked them and the very fluffy chocolate cake in. I had zero appreciation for it and couldn’t understand his obsession with it.
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_8.jpg)
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_9.jpg)
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_10.jpg)
 </br>
 </br>
@@ -51,12 +60,15 @@ The reason why I bake certain things lies heavily hinged on the two men in my li
 I have come to appreciate the flavours in It much more over the years but I’m still not a fan of the store bought kind. I wanted to make him a homemade one so he could really see the difference in flavours. He loved this version of course cause homemade cakes almost always taste better and I was so happy he did. Now he will call on me to make this every time he has a craving for some and I’m fine with that!
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_11.jpg)
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_12.jpg)
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_13.jpg)
 </br>
 </br>
@@ -64,12 +76,15 @@ I have come to appreciate the flavours in It much more over the years but I’m 
 When it comes to decorating this cake - it’s super easy - the ganache provides a gorgeous drippy and delectable topping for it and fresh cherries are all it needs. You most definitely can take it up a notch with some shaved chocolate and a dusting of powdered sugar, but we loved it just like this. You can also totally cover it with extra frosting or whip and then put on the cherries but I kept it minimal and rustic as I’m not so great in the cake decorating department. It’s a good thing rustic is in!
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_14.jpg)
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_15.jpg)
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_16.jpg)
 </br>
 </br>
@@ -77,6 +92,7 @@ When it comes to decorating this cake - it’s super easy - the ganache provides
 My husband who doesn’t like cooked fruit in dessert (he’s one of those) absolutely loved this cake and so did our friends who we shared it with. It’s an updated and simplified classic (cause I like things simplified and dumbed down in the kitchen as much as possible) that I loved making and will def make again. It’s quite a statement cake and has some presence, making it a great one for special occasions. I hope you give it a try. I know you will love it!
 </br>
 </br>
+
 ![Black Forest Cake](/images/uploads/2018_08_26_black_forest_cake_17.jpg)
 </br>
 </br>

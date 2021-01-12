@@ -14,6 +14,7 @@ description: A simple pita bread is a yeast-leavened flatbread common in Mediter
 This simple pita bread is a yeast-leavened flatbread common in Mediterranean and Middle Eastern cuisines. It can be made with or without an interior pocket. Either way, the possibilities are endless—pita stuffed with falafel, veggies, shawarma or souvlaki. Watching the dough puff to glorious heights is extremely satisfying to say the least. And the soft, pillowy results will make the whole process worth it. 
 </br>
 </br>
+
 ![Fresh Homemade Pita Bread](/images/uploads/2020_08_17_fresh_homemade_pita_bread_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This simple pita bread is a yeast-leavened flatbread common in Mediterranean and
 They’re soft, so chewy and the flavor is just so good. They are easier than you think to make. If you can make pizza dough, you can make these. And even if you haven’t you can still make these - trust me! The video is helpful so I strongly recommend checking it out and reading through the whole recipe before you get started. They are so simple and the dough is really easy to work with. 
 </br>
 </br>
+
 ![Fresh Homemade Pita Bread](/images/uploads/2020_08_17_fresh_homemade_pita_bread_3.jpg)
 </br>
 </br>
@@ -70,4 +72,5 @@ Total time: 3 hrs 10 mins
 1. These are best eaten fresh, but will keep in a ziplock bag for a few days or in the freezer
 
 </br>
+
 ![Fresh Homemade Pita Bread](/images/uploads/2020_08_17_fresh_homemade_pita_bread_4.jpg)

@@ -14,6 +14,7 @@ description: Homemade S'mores and sweet crisp crackers
 Homemade graham crackers are easier than you think to make. They are perfect to snack on but ultimately the most ideal thing to make s’mores with. I have included my recipe for making s’mores in the oven below. 
 </br>
 </br>
+
 ![Homemade S'mores and Graham Crackers](/images/uploads/2020_06_30_homemade_smores_and_graham_crackers_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Homemade graham crackers are easier than you think to make. They are perfect to 
 I have always wanted to share a homemade recipe for graham crackers on the blog but until this recipe I wasn’t happy with the ones I had tried. You see while living in the Caribbean  I often made things from scratch because things like graham crackers, nila wafers, or chocolate wafers, were not always consistently available. I actually had to make my own chocolate wafers for my [Chocolate Banoffee Pie](https://www.oliveandmango.com/chocolate-banoffee-pie/) just to make the crust. They were so tasty it was almost a shame to have to make them into crumbs. But if I needed them I had to learn how to make them. I have scanned through many recipes for graham crackers but I always found that they weren’t worth making because half the time I didn’t have the ingredients to make them.  If I couldn’t find graham crackers, I most definitely wouldn’t be able to find graham flour; a coarse ground whole wheat flour specific to many graham cracker recipes. 
 </br>
 </br>
+
 ![Homemade S'mores and Graham Crackers](/images/uploads/2020_06_30_homemade_smores_and_graham_crackers_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I have always wanted to share a homemade recipe for graham crackers on the blog 
 I discovered a super simple recipe from Smitten Kitchen’s blog which she got from 101 Cookbooks and originally from Nancy Silverton. It’s the best one yet and there is no reason to look any further for the perfect graham cracker recipe. I made some very miner tweaks to the recipe overall - the biggest change I made was make them with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/gluten-free-1-to-1-baking-flour.html">Bob’s Red Mill Gluten Free 1-to-1 Baking Flour </a></span>. This was the easiest swap for all purpose flour in the recipe making them them the most perfect gluten free graham crackers. 
 </br>
 </br>
+
 ![Homemade S'mores and Graham Crackers](/images/uploads/2020_06_30_homemade_smores_and_graham_crackers_4.jpg)
 </br>
 </br>
@@ -96,4 +99,5 @@ Using a toothpick or skewer prick the dough to form a pattern of dotted rows (op
 * Remove from the oven and top with the remaining graham crackers, pressing down slightly to make a sandwich. Serve immediately, while still warm.
 
 </br>
+
 ![Homemade S'mores and Graham Crackers](/images/uploads/2020_06_30_homemade_smores_and_graham_crackers_5.jpg)

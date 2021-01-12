@@ -14,6 +14,7 @@ description: A moist and delicious strawberry rhubarb cake with an olive oil str
 A moist and delicious strawberry rhubarb cake with an olive oil streusel topping. There are plenty of our favourite summer fruits in season, meaning there’s never been a better time to enjoy them and bake with them.  Whether you have a bunch of berries that  were on sale or peaches from your market haul, there’s no better way to enjoy them than in a cobbler, crisp or buckle. 
 </br>
 </br>
+
 ![Strawberry Rhubarb Ricotta Skillet Buckle](/images/uploads/2019_06_24_strawberry_rhubarb_ricotta_skillet_buckle_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ A moist and delicious strawberry rhubarb cake with an olive oil streusel topping
 Cobblers and crisps are the most common ways to have baked fruit and the easiest especially when compared to pies. Buckles are just as easy to make but a bit different than a crisp or cobbler. Buckles are moist fruit cakes with streusel topping and they are called buckles because of the way their toppings/streusel buckle when baked. We love them and I finally got around to making one that I had save a while ago from _Food52_. I spotted it and it caught my eye because it’s made with a blend of AP flour and dark rye flour.   I don’t have much experience baking with rye but I do know I love it when I have had it in baked goods that others have made. 
 </br>
 </br>
+
 ![Strawberry Rhubarb Ricotta Skillet Buckle](/images/uploads/2019_06_24_strawberry_rhubarb_ricotta_skillet_buckle_3.jpg)
 </br>
 </br>
+
 ![Strawberry Rhubarb Ricotta Skillet Buckle](/images/uploads/2019_06_24_strawberry_rhubarb_ricotta_skillet_buckle_4.jpg)
 </br>
 </br>
@@ -31,9 +34,11 @@ Cobblers and crisps are the most common ways to have baked fruit and the easiest
 I turned to <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/organic-dark-rye-flour.html">Bob’s Red Mill</a></span></span> to get my dark rye flour - as you know Bob’s Red Mill uses high quality whole grains. They work hard to ensure the highest quality by maintaining a close relationship with their products every step of the way-- starting with the farmers who produce the grain and ending with shipping the finished product to your door! Why did I chose dark rye? Well it’s such an aromatic whole grain - and for a lot more than just bread. It’s malty, nuttty and slightly milky tasting and so good in baked goods. It’s always good to pair it with other milder wheat flours that can accommodate the individual or peculiar features or rye. It lends itself well with cherries and other stone fruit, rhubarb and most definitely chocolate. 
 </br>
 </br>
+
 ![Strawberry Rhubarb Ricotta Skillet Buckle](/images/uploads/2019_06_24_strawberry_rhubarb_ricotta_skillet_buckle_5.jpg)
 </br>
 </br>
+
 ![Strawberry Rhubarb Ricotta Skillet Buckle](/images/uploads/2019_06_24_strawberry_rhubarb_ricotta_skillet_buckle_6.jpg)
 </br>
 </br>
@@ -41,9 +46,11 @@ I turned to <span class="highlight"><a rel="nofollow" href="https://www.bobsredm
 The original recipe called for plums but I decided to do strawberries and rhubarb and it was just the best. I was so happy the recipe also called for olive oil too as I love baking with olive oil. I replaced the sour cream with ricotta and adjusted a couple of other things in the recipe as well.  The cake is tender with a fine crumb and the streusel is so delicious and a must. It gives the whole cake a lot of texture and flavour. You can use any fruit in this recipe just keep it to the alotted measurement of fruit in the recipe by weight. This will be perfect with peaches when there are in season here, but for now I’m happy with using all the berries and rhubarb any chance I get!!
 </br>
 </br>
+
 ![Strawberry Rhubarb Ricotta Skillet Buckle](/images/uploads/2019_06_24_strawberry_rhubarb_ricotta_skillet_buckle_7.jpg)
 </br>
 </br>
+
 ![Strawberry Rhubarb Ricotta Skillet Buckle](/images/uploads/2019_06_24_strawberry_rhubarb_ricotta_skillet_buckle_8.jpg)
 </br>
 </br>
@@ -51,6 +58,7 @@ The original recipe called for plums but I decided to do strawberries and rhubar
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Strawberry Rhubarb Ricotta Skillet Buckle](/images/uploads/2019_06_24_strawberry_rhubarb_ricotta_skillet_buckle_9.jpg)
 </br>
 </br>
@@ -94,4 +102,5 @@ __For crumble topping__
 8. Let cool in the skillet for about 30 minutes, and serve warm or at room temperature, straight from the pan 
 
 </br>
+
 ![Strawberry Rhubarb Ricotta Skillet Buckle](/images/uploads/2019_06_24_strawberry_rhubarb_ricotta_skillet_buckle_10.jpg)

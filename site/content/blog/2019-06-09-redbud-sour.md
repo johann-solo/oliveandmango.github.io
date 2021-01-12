@@ -14,6 +14,7 @@ description: A lovely floral cocktail recipe that can be used with any edible fl
 A lovely floral cocktail recipe that can be used with any edible flower in season.  This is a blush pink cocktail that is easy on the eyes and goes down with a subtle sweet floral flavour. A great spring/summer sipping cocktail with a hint of citrus and with just the right amount of sweet. 
 </br>
 </br>
+
 ![Redbud Sour](/images/uploads/2019_06_09_redbud_sour_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ A lovely floral cocktail recipe that can be used with any edible flower in seaso
 This is the second cocktail I have on the blog that is floral. My first was using sorrel or [hibiscus](https://www.oliveandmango.com/winter-sorrel-hibiscus-margarita/) in Trinidad and I have to say It got me hooked on making floral based syrups and finding uses for them. 
 </br>
 </br>
+
 ![Redbud Sour](/images/uploads/2019_06_09_redbud_sour_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ This is the second cocktail I have on the blog that is floral. My first was usin
 I do miss the beauty of the flowers, fauna and trees in Trinidad quite a lot. There was a time and season for all of them. I miss the bright and fantastic bougainvillea, flamboyant and  the poui trees that would light the hills on fire with their bright colours. What a site. We have some beauties here in Canada that I missed while living away and happy to see again too.  Redbud trees are among some of my favourite trees. Lilac and magnolias are definitely on the list.
 </br>
 </br>
+
 ![Redbud Sour](/images/uploads/2019_06_09_redbud_sour_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ I do miss the beauty of the flowers, fauna and trees in Trinidad quite a lot. Th
 I actually never knew that redbud trees even existed in Ontario. I found out that they were edible through Bella’s blog post and recipe on her blog _Ful-Fillled_ of her <span class="highlight"><a rel="nofollow" href="https://www.ful-filled.com/2017/03/25/redbud-lemon-cornmeal-loaf-cake/">Redbud &amp; Lemon Cornmeal Loaf Cake</a></span>. It’s such a beautiful tree with the loveliest flowers. Just like lilacs and magnolia though, the flowers disappear in a blink. By the time I realized that my parents front yard tree was a redbud, I had just enough time to pick what I needed to make one batch of this syrup. Apologies for the late post (posting when all the blooms are gone) The good news is this recipe can be applied to all edible flowers. The colour of course may vary but this is a very good and adaptable recipe for any floral syrup using elderflower, lilac and even rose. 
 </br>
 </br>
+
 ![Redbud Sour](/images/uploads/2019_06_09_redbud_sour_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ I actually never knew that redbud trees even existed in Ontario. I found out tha
 The syrup can be used in baked goods too and in virgin cocktails or tonics adding some colour and some floral flavour to them. I made a very similar lilac syrup to use in a cake glaze the other day and I can’t wait to share that with you guys tomorrow.  Hope you enjoyed this post if even just for the pretty pink hues of the cocktail or the beautiful blooms. If you feel adventurous give the recipe a try with any edible flower in season at the moment where you live.
 </br>
 </br>
+
 ![Redbud Sour](/images/uploads/2019_06_09_redbud_sour_6.jpg)
 </br>
 </br>
@@ -91,4 +96,5 @@ If using redbud flowers and you notice your syrup turning yellow-green while boi
 Adapted from _LCBO_ and _Cupcake Project_
 
 </br>
+
 ![Redbud Sour](/images/uploads/2019_06_09_redbud_sour_7.jpg)

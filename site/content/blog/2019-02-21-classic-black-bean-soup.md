@@ -14,6 +14,7 @@ description: A smokey and rich bean soup with just right amount of heat. THis be
 Spring is suppose to be around the corner but tell that to my constantly cold extremities! It’s been freezing all week and its the end of February and I’m really hoping that march brings warmer temperatures. The likelihood of that happening is slim considering it is Canada, so let the soup season and all the cozy eats continue.
 </br>
 </br>
+
 ![Classic Black Bean Soup](/images/uploads/2019_02_21_classic_black_bean_soup_2.jpg)
 </br>
 </br> 
@@ -21,6 +22,7 @@ Spring is suppose to be around the corner but tell that to my constantly cold ex
 You know how much I love soups and one soup that I didn’t have on the blog yet was a classic bean black bean soup. A soup that I totally love so I had to get it on here. I love black bean soup that has some smokiness to it, is rich in flavour not just beans, and it must have a slight bit of heat. I have combined 3 recipes to create the one below and it is super tasty friends, and had my kitchen smelling amazing while it cooked. One sample bite after I took the lid off the pressure cooker and I knew this was the version going on the blog.
 </br>
 </br>
+
 ![Classic Black Bean Soup](/images/uploads/2019_02_21_classic_black_bean_soup_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ You know how much I love soups and one soup that I didn’t have on the blog yet
 Let talk ingredients or more specifically the beans. I know you may be tempted to fast track and use canned beans, but if you want a super tasty soup do not use canned black beans. That really does go for any soup or stew that calls for beans. I know we are all busy and don’t have time to cook beans, but believe me when I tell you it’s worth it. I chose <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/black-turtle-beans.html"> Bob’s Red Mill Premium Quality Black Turtle Beans</a></span> for this soup because I love them. They cook up predictably delicious every time. Perfectly tender, mild and subtlety sweet, and  always a high quality product as expected when it comes to <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span>. Bob’s Red Mill offers the largest lines of organic, whole grain food in the country. All of their products are certified Kosher and made with ingredients grown from non-GMO seeds.
 </br>
 </br>
+
 ![Classic Black Bean Soup](/images/uploads/2019_02_21_classic_black_bean_soup_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ Let talk ingredients or more specifically the beans. I know you may be tempted t
 The instructions on the back of the package are basically what I do when it comes to all dried beans I cook. The instructions call for washing and soaking your beans. It's a debatable matter as I heard some of the cool kids aren’t soaking anymore but there is good reason to soak your beans. I soak mine to help the beans cook faster, plus soaking them is suppose to breakdown some of the complex sugars that can make beans hard to digest for many. It’s not a difficult thing to do and makes a difference. All it takes is some planning as it is best to soak them the night before you want to cook them.
 </br>
 </br>
+
 ![Classic Black Bean Soup](/images/uploads/2019_02_21_classic_black_bean_soup_5.jpg)
 </br>
 </br>
@@ -44,6 +48,7 @@ The instructions on the back of the package are basically what I do when it come
 One of the favourite ways to cook bean soup is to use a pressure cooker or any of the multi-cookers out there with the pressure cooker feature in them. What usually takes two hours of simmering takes 20 minutes.  A pressure cooker is a life saver and brings this soup to the table in no time. I have the instructions below for stove top cooking with no pressure cooker if you don’t have one or if you just want to cook your bean soup low and slow.
 </br>
 </br>
+
 ![Classic Black Bean Soup](/images/uploads/2019_02_21_classic_black_bean_soup_6.jpg)
 </br>
 </br>
@@ -55,6 +60,7 @@ This soup is delicious on its own but we know that a big part of it is all the t
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting Olive & Mango.
 </br>
 </br>
+
 ![Classic Black Bean Soup](/images/uploads/2019_02_21_classic_black_bean_soup_7.jpg)
 </br>
 </br>
@@ -116,4 +122,5 @@ Cook time 40 minutes
 &ast; This soup freezes well. Allow to cool completely and then transfer to plastic freezer bags, mason jars, or plastic container, leaving a least 1-2 inches of space from seal for expansion. It can keep frozen for up to 3 months. Defrost it overnight in the fridge and reheat on the stove top.
 
 </br>
+
 ![Classic Black Bean Soup](/images/uploads/2019_02_21_classic_black_bean_soup_8.jpg)

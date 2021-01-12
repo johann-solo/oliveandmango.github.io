@@ -14,6 +14,7 @@ description: Succulent grilled shrimp and charred greens with the tastiest dress
 Grilling season is all year round for my family.  No matter the weather the grill is on either outside or inside via the grill pan. I especially enjoy grilling in the summer months. Nothing says summer like the smell of grill smoke in the air, cold drink in hand enjoying late sunsets outdoors. The beauty of grilling - indoor or outdoor is how quick and easy a meal can be put together.
 </br>
 </br>
+
 ![Grilled Bok Choy And Shrimp Salad With A Sesame Soy Miso Dressing](/images/uploads/2019_04_11_grilled_bok_choy_and_shrimp_salad_with_a_sesame_soy_miso_dressing_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Grilling season is all year round for my family.  No matter the weather the gril
 I was happy to partner up with Metro to bring you a quick and delicious shrimp recipe from their Irresistible brand Pacific White frozen Shrimp. Not only is Metro a convenient place for me to shop, it’s a place where I always find what I’m looking for. Frozen shrimp is a great thing to have on hand in your freezer because they are quick to thaw and wonderful for whipping up a quick appetizer, great in a quick pasta dish and totally delicious on the grill. These shrimp literally take no time to grill along with the Bok Choy and are so delicious and full of flavour.  We served them with a side of rice that cooked up while I grilled everything but they are also great with some garlic chili noodles if you wanted to get more creative than rice, or even in fresh rolls. It’s also a great salad on its own as a light lunch or dinner.
 </br>
 </br>
+
 ![Grilled Bok Choy And Shrimp Salad With A Sesame Soy Miso Dressing](/images/uploads/2019_04_11_grilled_bok_choy_and_shrimp_salad_with_a_sesame_soy_miso_dressing_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I was happy to partner up with Metro to bring you a quick and delicious shrimp r
 I got the idea for the wedge salad from the LCBO spring issue. It had a feature of all sorts of wedge salads that you can make and enjoy this spring/summer season. This wasn’t one of them but I thought of making it when I saw a delicious sesame miso tahini dressing. That’s where the inspiration came from for this recipe. Instead of using tahini in the dressing and marinade, I decided to use miso paste as I love it and the flavours are perfect together. I decided to use shrimp as they grill so quickly and one of my favorite greens to have with a garlicky sesame- soy dressing is Bok Choy. I love stir frying them on the regular and thought they would be perfect grilled. Well I was right y’all. It was a fantastic combo. The dressing is fantastic. Loaded with lots of flavour from the miso, garlic and ginger and of course the sesame oil and soy sauce. Not only do you dress your salad with it after it’s all grilled but the dressing actually doubles as the marinade for the shrimp or at least part of it is reserved for that very purpose. The dressing gets brushed on to the Bok Choy just before  they hit the grill while the shrimp marinate in some of the dressing.
 </br>
 </br>
+
 ![Grilled Bok Choy And Shrimp Salad With A Sesame Soy Miso Dressing](/images/uploads/2019_04_11_grilled_bok_choy_and_shrimp_salad_with_a_sesame_soy_miso_dressing_4.jpg)
 </br>
 </br>
@@ -39,6 +42,7 @@ I thought that a little colour and extra crunch and sweetness was needed and so 
 I have partnered up with _Metro_ to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting Olive & Mango. 
 </br>
 </br>
+
 ![Grilled Bok Choy And Shrimp Salad With A Sesame Soy Miso Dressing](/images/uploads/2019_04_11_grilled_bok_choy_and_shrimp_salad_with_a_sesame_soy_miso_dressing_5.jpg)
 </br>
 </br>
@@ -85,4 +89,5 @@ __For the dressing__
 If you don’t have a grilling basket or sheet which helps prevent shrimp from sticking or falling through the grill - feel free to thread the shrimp onto soaked skewers and grease grill well before grilling them.
 
 </br>
+
 ![Grilled Bok Choy And Shrimp Salad With A Sesame Soy Miso Dressing](/images/uploads/2019_04_11_grilled_bok_choy_and_shrimp_salad_with_a_sesame_soy_miso_dressing_6.jpg)

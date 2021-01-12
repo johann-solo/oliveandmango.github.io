@@ -14,6 +14,7 @@ description: Elevate your baked goods and keep them looking fresher longer with 
 Stabilizing your whipped cream allows your whip cream to hold up and stay fresh looking longer and makes it easier to pipe and spread onto cakes and desserts. If you use plain whipping cream your deserts can look limp and the cream often starts to weep or get watery. Stabilizing your whipped cream helps with this and can elevate the look of your baked goods. 
 </br>
 </br>
+
 ![Stabilized Whipped Cream](/images/uploads/2020_07_10_stabilized_whipped_cream_2.jpg)
 </br>
 </br>
@@ -23,6 +24,7 @@ Stabilizing your whipped cream allows your whip cream to hold up and stay fresh 
 There are actually several ways to do this. Simply adding certain ingredients to your whipping cream can add volume and stabilize it. The most popular ones being cornstarch, powdered sugar, pudding mix and even milk powder. But the one I use the most is gelatin. I find gelatin or agar agar for a vegan option works the best. A little goes a long way. A simple add in to create a whipped cream that pipes perfectly and spreads easily. This is a basic vanilla whip but you can easily stabilize any of your whip cream recipes by using the same measurement of a 1-1 ratio. 1 tsp of gelatin to 1 cup of whipping cream. It’s easy and works like a charm every time. 
 </br>
 </br>
+
 ![Stabilized Whipped Cream](/images/uploads/2020_07_10_stabilized_whipped_cream_3.jpg)
 </br>
 </br>
@@ -56,4 +58,5 @@ Makes 2 cups
 This whipped cream will hold up just fine at room temperature for a couple of hours, but it's best to keep your dessert refrigerated. It keeps in the fridge for 2-3 days if making ahead.
 
 </br>
+
 ![Stabilized Whipped Cream](/images/uploads/2020_07_10_stabilized_whipped_cream_4.jpg)

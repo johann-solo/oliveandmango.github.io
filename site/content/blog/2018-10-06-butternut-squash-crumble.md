@@ -14,6 +14,7 @@ excerpt: A delicious Fall side – tender squash with a savoury crunchy topping
 There are so many ways to enjoy butternut squash and this recipe is yet another way to do so. Buttery roasted squash topped with a savoury crumble that I could easily snack on alone. A great mixture of textures and tastes all in one dish.
 </br>
 </br>
+
 ![Butternut Squash Crumble](/images/uploads/2018_10_06_butternut_squash_crumble_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ There are so many ways to enjoy butternut squash and this recipe is yet another 
 It’s a wonderful side dish option for a big lunch or dinner especially on the weekend when you have a little more time in the kitchen. Its not an overly fussy dish but requires a little bit of time to make from prepping and cutting the squash to browning it and then roasting. All the steps are pretty simple, nothing overly complex but they do take a little time. Well worth it though!
 </br>
 </br>
+
 ![Butternut Squash Crumble](/images/uploads/2018_10_06_butternut_squash_crumble_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ It’s a wonderful side dish option for a big lunch or dinner especially on the 
 The squash itself lends its sweet sweet flavour that we all love. It’s worth the time it takes to gently brown it before roasting as it gives it a nice nutty flavour and adds an element of texture within it preventing it from turning into mush when it bakes - at least that is what I noted.
 </br>
 </br>
+
 ![Butternut Squash Crumble](/images/uploads/2018_10_06_butternut_squash_crumble_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ The squash itself lends its sweet sweet flavour that we all love. It’s worth t
 The topping is totally delicious. Sage goes so well with pumpkin and squash and is just so nice in this topping - the scent of it runs right through it. Sage is not something that everyone loves and I totally understand that, so if that is the case you can swap it out for some more thyme. The mixture of the breadcrumbs and corn meal is so good. It adds so much crunch to this topping and the Parmesan cheese makes it savoury and irresistible.
 </br>
 </br>
+
 ![Butternut Squash Crumble](/images/uploads/2018_10_06_butternut_squash_crumble_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ The topping is totally delicious. Sage goes so well with pumpkin and squash and 
 If you are looking to change up your sides dishes this fall and have never made this version of a butternut squash bake, I strongly recommend it.  We loved it and in fact I ate the leftovers as a meal on its own. I had it with a little feta on the side and it was soo good. The briny salt feta is perfect with the sweet butternut squash. Hope you give it a try and enjoy it!
 </br>
 </br>
+
 ![Butternut Squash Crumble](/images/uploads/2018_10_06_butternut_squash_crumble_6.jpg)
 </br>
 </br>

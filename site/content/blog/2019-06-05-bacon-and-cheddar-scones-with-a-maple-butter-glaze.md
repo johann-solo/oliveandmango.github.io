@@ -14,6 +14,7 @@ description: Tender savoury scones loaded with cheddar cheese and bacon
 These ones are made even more special and delicious with the addition of ramp butter. In my last post [rustic ramp and potato tart](https://www.oliveandmango.com/rustic-ramp-and-potato-tart/) tart I showed you how to use ramps in a tart. Ramps come into season quick and almost without wanting and are gone even faster. There are several ways to preserve them including making pesto with them and freezing the pesto in ice cube trays- that’s usually my go to. This time I’m preserving it - at least for as long as it last in butter form. I made a compound butter infused with the ramps and it is so delicious and can be used in pasta or on crostini, and basically anywhere you would normally use a savoury butter. That got me thinking of where else I could use this very delicious butter.  I have always wanted to add a savoury scone recipe to the blog. The first flavour I thought of was cheddar chive. Such a classic flavour - then I thought what could make that combo even better? - it had to be bacon and so this combo was born. It really was out of necessity as I couldn’t let all this delicious butter go to waste. 
 </br>
 </br>
+
 ![Bacon and Cheddar Scones With a Maple Butter Glaze](/images/uploads/2019_06_05_bacon_and_cheddar_scones_with_a_maple_butter_glaze_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ These ones are made even more special and delicious with the addition of ramp bu
 If you don’t have ramp butter do not worry these are still extremely delicious with just regular butter as well. These are tender and buttery scones with a bit of cheese and bacon in each bite. The key to making sure they are tender and crumbly and delicious (as all scones should be) is to make sure all your ingredients are as cold as can be. The next important thing to remember when making scones is to make sure and not overwork your dough - whether you are using your hands to make them or the food processor. Overworked scones will be a little on the tougher side. Once you remember those two things, your scones with always turn out beautifully. 
 </br>
 </br>
+
 ![Bacon and Cheddar Scones With a Maple Butter Glaze](/images/uploads/2019_06_05_bacon_and_cheddar_scones_with_a_maple_butter_glaze_3.jpg)
 </br>
 </br>
+
 ![Bacon and Cheddar Scones With a Maple Butter Glaze](/images/uploads/2019_06_05_bacon_and_cheddar_scones_with_a_maple_butter_glaze_4.jpg)
 </br>
 </br>
@@ -32,12 +35,15 @@ If you don’t have ramp butter do not worry these are still extremely delicious
 Let’s talk about that ramp butter for a second. It’s super easy to make. I decided to sauté my ramps beforehand to soften them a bit and to give them a little extra flavour as opposed to blanching them which is also acceptable. Once your ramps are ready and off the pan and your butter is softened, all you have to do is put it all in your food processor and whiz it around until the ramps have broken down and green butter starts to develop. Easy as that. I usually store some in the fridge to use right away and store the rest in the freezer to use as I need it. It will last a lot longer in the freezer. It’s not only great in these scones, but as I said before its wonderful melted through pasta, risotto and great on a steak our under the skin of a chicken or turkey. 
 </br>
 </br>
+
 ![Bacon and Cheddar Scones With a Maple Butter Glaze](/images/uploads/2019_06_05_bacon_and_cheddar_scones_with_a_maple_butter_glaze_5.jpg)
 </br>
 </br>
+
 ![Bacon and Cheddar Scones With a Maple Butter Glaze](/images/uploads/2019_06_05_bacon_and_cheddar_scones_with_a_maple_butter_glaze_6.jpg)
 </br>
 </br>
+
 ![Bacon and Cheddar Scones With a Maple Butter Glaze](/images/uploads/2019_06_05_bacon_and_cheddar_scones_with_a_maple_butter_glaze_7.jpg)
 </br>
 </br>
@@ -45,6 +51,7 @@ Let’s talk about that ramp butter for a second. It’s super easy to make. I d
 Finally let’s talk about the glaze I chose to use on thee little guys. I chose to do a maple butter glaze because bacon and maple just  belong together and savory and sweet combos always have my heart. If they don’t have yours - that is totally fine just leave out the glaze. I dare you to try it anyways though, you might change your mind about it. 
 </br>
 </br>
+
 ![Bacon and Cheddar Scones With a Maple Butter Glaze](/images/uploads/2019_06_05_bacon_and_cheddar_scones_with_a_maple_butter_glaze_8.jpg)
 </br>
 </br>
@@ -109,4 +116,5 @@ Makes about 2 cups
 You can also pack compound butter into air-tight containers or even ramekins and store them in the refrigerator for about a week. The traditional method is to roll the butter into logs, either in parchment or plastic wrap, so they can be chilled and sliced. You can freeze the rolls for months and just slice off what you need and re-wrap well.
 
 </br>
+
 ![Bacon and Cheddar Scones With a Maple Butter Glaze](/images/uploads/2019_06_05_bacon_and_cheddar_scones_with_a_maple_butter_glaze_9.jpg)

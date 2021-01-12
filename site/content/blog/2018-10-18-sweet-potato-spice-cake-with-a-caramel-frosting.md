@@ -14,6 +14,7 @@ description: A spice cake that is perfect for entertaining or for a light aftern
 I love a quick and easy cake that comes together quickly and is very low stress or low maintenance but tastes fantastic. Can you get all that in a cake? Absolutely! Snack cakes make that happen. They usually require just a bowl and whisk to make them with, regular pantry ingredients, and are always delicious. It’s a great cake to make if your a beginner when it comes to baking but also great for someone who loves to bake but doesn’t have the time to spend a full day in the kitchen baking.
 </br>
 </br>
+
 ![Sweet Potato Spice Cake With A Caramel Frosting](/images/uploads/2018_10_18_sweet_potato_spice_cake_with_a_caramel_frosting_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ I love a quick and easy cake that comes together quickly and is very low stress 
 My hubby loves spiced cakes and cookies so Im always keeping my eyes pealed for new recipes for spiced things. I came across one recipe that I really liked from Fine cooking with a streusel topping and what really peaked my curiosity was that it was made with sweet potatoes. I love sweet potatoes and I always have them around and knew I had to try it! I wanted to spice it up a bit further so I changed the spices up a little bit and added slightly more as I wasn’t making the streusel with it which packed a lot of extra spice on it. I also chose to add the chocolate and pecans to the recipe. I decided to frost the cake instead as I came across a caramel frosting that I thought would be perfect with it from NYT cooking. The frosting on their site was paired with and apple spiced cake and I thought naturally it would be great with this one too.
 </br>
 </br>
+
 ![Sweet Potato Spice Cake With A Caramel Frosting](/images/uploads/2018_10_18_sweet_potato_spice_cake_with_a_caramel_frosting_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ My hubby loves spiced cakes and cookies so Im always keeping my eyes pealed for 
 They were all very good choices. And now you know the process of my recipe development. The cake actually came from three different recipes and I used 2 different recipes to guide me with the caramel frosting. The reason being is that the original one called for melting caramel candies. I thought it was just easier to use store bought sauce or just use some homemade sauce that I had leftover from another recipe.  Please look up the recipe on NYT cooking for the caramel candy version if you would prefer that one. They didn’t have a conversion ratio for the amount of caramel sauce you would yield with the candy so I used another recipe to guide the amount of sauce to use that is why I put &frac14; cup to a &frac13;.  Between those to measures is perfectly fine without influencing the thickness of the frosting. It’s a lot of work this recipe development thing ya know - but it is fun and my family loves it cause they get to taste everything along the way.
 </br>
 </br>
+
 ![Sweet Potato Spice Cake With A Caramel Frosting](/images/uploads/2018_10_18_sweet_potato_spice_cake_with_a_caramel_frosting_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ They were all very good choices. And now you know the process of my recipe devel
 I tested this recipe and brought it to a friend’s gathering and it was well received and loved by all and so that made the recipe a win and landed itself a place on the blog. I know for sure that you will love it too.  I’m also pretty sure you might have some sweet potatoes around that you are dying to throw into a cake so this cake is just begging to be made. You will thank me later and this is a frosting you will definitely be using on other cakes and cupcakes -  at least know I will be. 
 </br>
 </br>
+
 ![Sweet Potato Spice Cake With A Caramel Frosting](/images/uploads/2018_10_18_sweet_potato_spice_cake_with_a_caramel_frosting_5.jpg)
 </br>
 </br>

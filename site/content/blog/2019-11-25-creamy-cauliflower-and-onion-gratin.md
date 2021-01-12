@@ -15,6 +15,7 @@ description: This is one creamy side by Alison Roman
 I love sides more than the main dishes - almost always. So when I spotted this one in Alison Roman’s new cookbook _Nothing Fancy_, I knew it had to make it on my list of sides on the blog. A warm gratin coming out of the oven and on the the table is always and I mean always a welcome sight and smell. This cauliflower one is no exception. Think of all the flavours in a mac and cheese and instead swap the pasta for the cauliflower and there’s no need for a bechamel sauce either. It’s simple to make, creamy, nutty cause cauliflower always gets nutty tasting and delicious when roasted - and is just the perfect vegetarian side. 
 </br>
 </br>
+
 ![Creamy Cauliflower and Onion Gratin](/images/uploads/2019_11_25_creamy_cauliflower_and_onion_gratin_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ I love sides more than the main dishes - almost always. So when I spotted this o
 I really enjoyed reading through Alison’s new book - she had a natural charm to her and I can relate to her control freak tendencies and it’s nice to read a book and recipe that’s been created by someone who shares that in a personality. Over the years I have learned to let go but by nature being in dental has shaped a bit of my personality - attention to detail, perfectionism, clean freak, (I’m still a bit messy though but I like things clean) and a control freak.  It’s been a balance to maintain that at work but let go in my personal life cause let’s face it - that type is not so fun to be around outside of work. Anyways that took a bit of left turn but it’s related to the book I promise.  Alison has created a book full of fantastic recipes to feed those you love and have over with meals that are very fuss free so that having people over can be less about the stress of it all and more about letting go and having fun - even if dinner is late or something else goes wrong because let’s face it we cannot control everything no matter how prepared we think we are. 
 </br>
 </br>
+
 ![Creamy Cauliflower and Onion Gratin](/images/uploads/2019_11_25_creamy_cauliflower_and_onion_gratin_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ I really enjoyed reading through Alison’s new book - she had a natural charm t
 The key to that Alison says is always have lots of snacks available and seltzer because who doesn’t love seltzer. Her snacks are pretty fabulous from dips to seafood snacks like her spicy marinated anchovies with potato chips, and cheesy snacks like her spicy tomato-marinated feta (Of course that one caught my attention), marinated artichoke hearts and so many more. The flavours she puts together are delicious. I am in love with her salad section as she prefers her salads like I do - In her words: “salads must be hyper acid and pleasingly salty. I’m talking to the point where each bite is as addictive as a bag of Cool Ranch Doritos.” I would take it as far as Miss Vickies Sea Salt & Malt vinegar - but I’m a bit extreme. The variety in this section of the book is also wonderful as is the rest of the sides. She has a delish main dish section with a lot of approachable and no fuss meat options from seafood to poultry, pork and beef. And her desserts section is also wonderful - simple enough to be made the same day, but easily made the day before as well. 
 </br>
 </br>
+
 ![Creamy Cauliflower and Onion Gratin](/images/uploads/2019_11_25_creamy_cauliflower_and_onion_gratin_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ The key to that Alison says is always have lots of snacks available and seltzer 
 The photography is lovely in the book and I would expect nothing less. The photographers are a Toronto based Uber, and I mean UBER, talented team made up of Michael Graydon and Nikole Herriott. Impeccable styling and photos using that very signature Bon Appetit harsh light that I loath when not done right - which with these two is never! I tried to mimic that lighting style. We are still trying and experimenting with it and just love the process but it’s not quite the same.. but I still like the light in our shot. Anyways, the book is a keeper and I have so many recipes I want to try especially the mains - the mains are amazing! Alison Roman’s book does not disappoint and neither does this cauliflower gratin!! Time to dig into it now! 
 </br>
 </br>
+
 ![Creamy Cauliflower and Onion Gratin](/images/uploads/2019_11_25_creamy_cauliflower_and_onion_gratin_5.jpg)
 </br>
 </br>
@@ -83,4 +87,5 @@ Scatter the breadcrumb mixture over the top and bake until those are deeply and 
 DO AHEAD - Gratin can be baked two days ahead, then kept covered and refrigerated. To reheat, place in a 400°F oven, uncovered until return to its bubbling Golden State 10 to 15 minutes
 
 </br>
+
 ![Creamy Cauliflower and Onion Gratin](/images/uploads/2019_11_25_creamy_cauliflower_and_onion_gratin_6.jpg)

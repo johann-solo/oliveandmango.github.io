@@ -14,6 +14,7 @@ description: A deliciously easy and refreshing cocktail that can be made with on
 A deliciously easy and refreshing cocktail that can be made with only the fruit itself or with homemade prickly pear syrup. Served over ice, this prickly pear mojito is perfect for happy hour. Prickly pear (cactus pear) are round to oval fruits obtained from the cactus plants. The last time I had a cactus fruit cocktail was in Santorini several years ago. It was overpriced but totally refreshing and when I saw these prickly pears at the grocery store I knew I had to make a cocktail out of them. Mojitos are on my list of top 5 cocktails. I prefer mine without the simple syrup and just loads of fresh mint. Same goes for this mojito - I muddled fruit with the mint and it was good enough for me.  But my hubby loves his sweet drinks so I made a simple syrup with the prickly pears which you could add to give some extra sweetness to this mojito. But before we get into that let me share a few things about these fab little fruits! 
 </br>
 </br>
+
 ![Prickly Pear Mojito](/images/uploads/2020_08_12_prickly_pear_mojito_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ A deliciously easy and refreshing cocktail that can be made with only the fruit 
 Prickly pears are grown predominantly in California, the Southwest, Mexico, Africa, Australia and the Mediterranean. They are refreshingly sweet fruits with loads of health benefits. They are rich in antioxidants and mineral and also high in fiber. The flesh of the Prickly Pear is a bright, magenta color, and it tastes very sweet. It tastes like something between a banana and raspberries. The flesh is studded with tons of little EDIBLE seeds, if you like them, feel free to just chop the prickly pear up and eat, seeds and all. You can enjoy the peeled fruit as is, or chop some more and blend the pieces into a juice. The juice from prickly pear can be used in many ways - to flavor frosting, added to juices, used in vinaigrettes for salads and if you simmer it down into a syrup it can be enjoyed in cocktails with club soda, lemonade, iced tea, hot tea or water. More on that below. 
 </br>
 </br>
+
 ![Prickly Pear Mojito](/images/uploads/2020_08_12_prickly_pear_mojito_3.jpg)
 </br>
 </br>
@@ -32,6 +34,7 @@ The ones fresh off the cactus are covered with thorns. The ones you buy at the s
 • Peel away the skin from the fruit inside of it. Or if using spoon just spoon out the flesh from the skin. Discard the skin and enjoy the fruit. 
 </br>
 </br>
+
 ![Prickly Pear Mojito](/images/uploads/2020_08_12_prickly_pear_mojito_4.jpg)
 </br>
 </br>
@@ -90,4 +93,5 @@ Makes 1 cocktail
 4. Refrigerate and use in juices and cocktails with club soda, lemonade, iced tea, hot tea or water. 
 
 </br>
+
 ![Prickly Pear Mojito](/images/uploads/2020_08_12_prickly_pear_mojito_5.jpg)

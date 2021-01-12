@@ -14,6 +14,7 @@ description: A crispy twist on a this vegetarian classic
 These crispy baked spanakopita spring rolls are a fun twist on this vegetarian classic. You all know how much I love spanakopita and when I saw this recipe on [olivemagazine.com](https://www.olivemagazine.com/recipes/vegetarian/spanakopita-spring-rolls/) I thought genius!!! I had to try them.  I used my own filling recipe and I also changed  the method of cooking the filling too. 
 </br>
 </br>
+
 ![Crispy Spanakopita Spring Rolls](/images/uploads/2020_02_08_crispy_spanakopita_spring_rolls_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ These crispy baked spanakopita spring rolls are a fun twist on this vegetarian c
 These are addictive, they have that extra special crunch that spring rolls do with a very delicious creamy spinach leek and feta filling. When my mom makes pita with her homemade phyllo recipe I always go for the corner pieces - the crunchiest ones. I know I’m not alone - we all love those buttery crispy edges. Well each bite of these rolls is like that corner piece - irresistibly good. 
 </br>
 </br>
+
 ![Crispy Spanakopita Spring Rolls](/images/uploads/2020_02_08_crispy_spanakopita_spring_rolls_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ These are addictive, they have that extra special crunch that spring rolls do wi
 No need to make your own phyllo or even fuss with buttering layers of store-bought phyllo pastry - just stuff these wonton or spring roll wrappers with the yummy filling - roll - egg wash- bake. Easy and sooooo darn good! Don’t get me wrong I have nothing against the traditional methods of making spanakopita, but I do love a good twist on a classic recipe and this is just such a smart one - I couldn’t pass up trying it and sharing it with you. 
 </br>
 </br>
+
 ![Crispy Spanakopita Spring Rolls](/images/uploads/2020_02_08_crispy_spanakopita_spring_rolls_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ No need to make your own phyllo or even fuss with buttering layers of store-boug
 These make for a perfect appetizer. I warn you though - they will be gone before you set them down onto your table - they are that good. Make a double batch for sure and it’s even ok to use the smaller wrappers to make them bite size. You can easily make double the amount with the smaller wrappers. Or make the same size but and double the filling amounts and wrappers to make a larger batch of them. The texture of the wrapper may be different according to the type and brand of wrapper you use, but one things will stay consistent - all of them crisp up nicely in the oven. Deep frying them will obviously get them even crunchier but if you know me you know I don’t typically deep fry anything so this baked version is right up my alley. 
 </br>
 </br>
+
 ![Crispy Spanakopita Spring Rolls](/images/uploads/2020_02_08_crispy_spanakopita_spring_rolls_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ These make for a perfect appetizer. I warn you though - they will be gone before
 My mom loved these and put an order in for 50 of them to be made for a party she is invited too - they will be a cinch to whip up and as long as you don’t cover them when they are warm they will stay nice and crisp for a few hours. They are perfect with tzatziki on the side to dip these babies in. I have linked my homemade tzatziki recipe below but feel free to use store bought to keep this super simple and breezy for entertaining. You are going to love this version - give it a try and let me know what you think!
 </br>
 </br>
+
 ![Crispy Spanakopita Spring Rolls](/images/uploads/2020_02_08_crispy_spanakopita_spring_rolls_6.jpg)
 </br>
 </br>
@@ -86,4 +91,5 @@ My mom loved these and put an order in for 50 of them to be made for a party she
 Adapted from _Olive Magazine_
 
 </br>
+
 ![Crispy Spanakopita Spring Rolls](/images/uploads/2020_02_08_crispy_spanakopita_spring_rolls_7.jpg)

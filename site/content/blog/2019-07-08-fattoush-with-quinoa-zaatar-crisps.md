@@ -14,6 +14,7 @@ description: Lebanese style chopped salad with a tangy, sweet and minty dressing
 This salad is a flavourful as tabbouleh which I know a lot of us are more familiar with but they have their differences. I love them both equally but when I want a salad with chunkier veggies in it, fattoush is what I make. And instead of bulgur or couscous in it, fattoush has pieces of flat bread (usually day old or leftover pieces) or toasted pita. I call it the Levantine panzanella. 
 </br>
 </br>
+
 ![Fattoush With Quinoa Za'atar Crisps](/images/uploads/2019_07_08_fattoush_with_quinoa_zaatar_crisps_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This salad is a flavourful as tabbouleh which I know a lot of us are more famili
 There is some serious flavor in the dressing. The combination of sumac and pomegranate molasses is what gives this salad it’s Lebanese edge. The pomegranate molasses also known as pomegranate syrup is tangy but not too sweet. You can use the syrup as a sauce, marinade, dressing, or a sweet and tart dessert like the one I have on the blog along with a few other savoury recipe like <span class="highlight"><a rel="nofollow" href="https://www.oliveandmango.com/pomegranate-cake-with-a-orange-blossom-whip-cream-frosting/">Pomegranate Cake</a></span>, <span class="highlight"><a rel="nofollow" href="https://www.oliveandmango.com/one-pan-pomegranate-molasses-chicken-and-potatoes/">Pomegranate Molasses Chicken</a></span> and <span class="highlight"><a rel="nofollow" href="https://www.oliveandmango.com/muhammara-dip-red-pepper-and-walnut-spread/">Muhammara Dip</a></span>.
 </br>
 </br>
+
 ![Fattoush With Quinoa Za'atar Crisps](/images/uploads/2019_07_08_fattoush_with_quinoa_zaatar_crisps_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ There is some serious flavor in the dressing. The combination of sumac and po
 The sumac Is a tangy Middle Eastern spice which adds a big flavor punch. It’s actually quite tart and a little goes a long way. I love it sprinkled on top of things — fresh greens, a cucumber salad, grilled chicken or bread. It has a lemony flavour which I love. The sumac and pomegranate molasses are fabulous together in this salad. What also works well with this salad are my quinoa za’atar crisp I made to go with the fattoush instead of flat bread. Za’atar is a Middle Eastern spice blend that like salt brings out the flavor of foods. It was wonderful in these quinoa crisps which I loved in this salad.  They get nice and crisp and stay crunchy longer in the salad.
 </br>
 </br>
+
 ![Fattoush With Quinoa Za'atar Crisps](/images/uploads/2019_07_08_fattoush_with_quinoa_zaatar_crisps_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ The sumac Is a tangy Middle Eastern spice which adds a big flavor punch. It’s 
 I made these super easy quinoa and seed za’atar crackers in partnership with GoGo Quinoa and their Organic Tri-colour quinoa. They are vegan, gluten-free and high protein and make the perfect snack with hummus or any other dip and also the perfect accompaniment to this salad.  
 </br>
 </br>
+
 ![Fattoush With Quinoa Za'atar Crisps](/images/uploads/2019_07_08_fattoush_with_quinoa_zaatar_crisps_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ I made these super easy quinoa and seed za’atar crackers in partnership with G
 I can’t get enough of this salad for the summer time. It has all I want in a summer salad - it’s loaded with all the bight flavours. It’s light, refreshing and satisfying especially with the quinoa za’atar crisp which I can snack on all day just on their own and are so simple to make that it’s worth making a double batch because you will go through the first one so quickly. They are well seasoned for this dish with the za’atar but they are versatile enough that you can use any spice blend in them, so you can experiment with flavours according to what you want to serve them with. You will love them and this salad I’m sure and hope you try them both!
 </br>
 </br>
+
 ![Fattoush With Quinoa Za'atar Crisps](/images/uploads/2019_07_08_fattoush_with_quinoa_zaatar_crisps_6.jpg)
 </br>
 </br>
@@ -49,6 +54,7 @@ I can’t get enough of this salad for the summer time. It has all I want in a s
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com">GoGo Quinoa</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Fattoush With Quinoa Za'atar Crisps](/images/uploads/2019_07_08_fattoush_with_quinoa_zaatar_crisps_7.jpg)
 </br>
 </br>
@@ -94,4 +100,5 @@ __For the salad__
 7. For the salad, toss the romaine, tomatoes, onion, cucumber, radishes, and quinoa za’atar crips in a salad bowl. Toss the salad with the vinaigrette. Dust with the remaining sumac, fresh mint and freshly ground black pepper. Serve immediately.
 
 </br>
+
 ![Fattoush With Quinoa Za'atar Crisps](/images/uploads/2019_07_08_fattoush_with_quinoa_zaatar_crisps_8.jpg)

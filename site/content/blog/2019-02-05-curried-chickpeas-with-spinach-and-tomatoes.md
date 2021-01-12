@@ -14,6 +14,7 @@ description: Totally packed with flavor, this curried chickpea recipe is a great
 When the temperature drops and the air has that chilly bite, warm up with a hot bowl of these hearty curried chickpeas with spinach. Totally packed with flavor, this vegan dish is delicious and filling enough to bring vegetarians and carnivores together over one meal.
 </br>
 </br>
+
 ![Curried Chickpeas Recipe](/images/uploads/2019_02_05_curried_chickpeas_with_spinach_and_tomatoes_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ When the temperature drops and the air has that chilly bite, warm up with a hot 
 This quick curried chickpea recipe is warming, hearty, delicious and just the simplest dish to make. We make a version of this once a week especially if I’m home from the office late - it’s super quick to make and ultra satisfying.
 </br>
 </br>
+
 ![Curried Chickpeas With Spinach and Tomatoes](/images/uploads/2019_02_05_curried_chickpeas_with_spinach_and_tomatoes_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ This quick curried chickpea recipe is warming, hearty, delicious and just the si
 I finally got this recipe on paper and on the blog in collaboration with the _Mc Master Silhouette_ (Hamilton’s university newspaper). I was asked to share a ‘student-friendly’ recipe with simple ingredients that are easily accessed by them. This is definitely one of those recipes. It was featured on the front page of the newspaper and the full recipe was included in the inside article along with some very kind words by the editor about the blog and our work. I think the students will love it and I know you will too! Here’s the [link to the article](https://www.thesil.ca/in-the-kitchen-with-joanne-rappos) online if you wanted to check it out.
 </br>
 </br>
+
 ![Curried Chickpeas With Spinach and Tomatoes](/images/uploads/2019_02_05_curried_chickpeas_with_spinach_and_tomatoes_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ I finally got this recipe on paper and on the blog in collaboration with the _Mc
 It’s one of those dishes that tastes better the next day. The flavours seem to develop more over night so make sure and make a little extra cause you will want to be enjoying leftovers the next day. It also freezes marvelously so that is even more reason to make a little extra to add to your freezer stash and meal prep roster.
 </br>
 </br>
+
 ![Curried Chickpeas With Spinach and Tomatoes](/images/uploads/2019_02_05_curried_chickpeas_with_spinach_and_tomatoes_5.jpg)
 </br>
 </br>
@@ -43,6 +47,7 @@ It’s one of those dishes that tastes better the next day. The flavours seem to
 This is a great staple recipe made with mostly pantry items. It’s one of those back pocket recipes that’s great to pull out when you have very little time to prep a meal or when you are tempted to order take-out but don’t want to spend the money and want a low effort but delicious meal. It is also so versatile too. If you wanted to make it creamier you could add some coconut milk to it and if you did want to add meat you could do that too. All you have to do it sauté it separately or first before adding the onion, garlic, chili and ginger. You could add more veggies or replace the spinach with kale too. There are many way you could doctor this up to suit your taste. That’s why I call it a staple basic recipe that is fabulous as is but that you can also get creative with so give it a try and have fun with it!
 </br>
 </br>
+
 ![Curried Chickpeas With Spinach and Tomatoes](/images/uploads/2019_02_05_curried_chickpeas_with_spinach_and_tomatoes_6.jpg)
 </br>
 </br>
@@ -88,4 +93,5 @@ To freeze, portion out into meal prep containers, cool completely, then freeze f
 Recipe adapted from _Bon Appetit_
 
 </br>
+
 ![Curried Chickpeas With Spinach and Tomatoes](/images/uploads/2019_02_05_curried_chickpeas_with_spinach_and_tomatoes_7.jpg)

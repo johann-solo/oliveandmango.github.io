@@ -14,6 +14,7 @@ description: Perfectly crisp exterior and pillowy in the middle and made with fr
 These corn waffles are perfectly crisp on the outside and pillowy in the middle. They have a natural sweetness because of the grated corn in them and the slight bit of sugar in the batter. Although they are sweet corn waffles, they can be made more savoury by omitting the sugar. A savoury corn waffle would be delicious along with a bowl of chili or stew. Or serve them with fried eggs or fried chicken, sausages...there are so many possibilities with these. 
 </br>
 </br>
+
 ![Corn Waffles With Caramelized Apples](/images/uploads/2020_10_04_corn_waffles_with_caramelized_apples_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ These corn waffles are perfectly crisp on the outside and pillowy in the middle.
 I served mine with caramelized apples. Caramelized apples are basically apples sautéed with butter and sugar until they are tender and the sauce has thickened enough to pour beautifully over these waffles or anything you would like them on - pancakes, oats, toast, cake. So many possibilities. I had plenty of apples and corn on hand and thought the two were great together in this recipe.
 </br>
 </br>
+
 ![Corn Waffles With Caramelized Apples](/images/uploads/2020_10_04_corn_waffles_with_caramelized_apples_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I served mine with caramelized apples. Caramelized apples are basically apples s
 I came across a lot of good recipes when planning to make corn waffles (also known as corn bread waffles) but a lot of them were just made of corn meal.  Corn meal is all good and I love baking and cooking with it - it makes these waffles heartier and gives them those nice crispy edges but I wanted them to be a bit ‘cornier’. I wanted them to actually have fresh corn in them.  There were lots of recipes out there that had whole corn kernels in them but that was not quite what I was looking for. 
 </br>
 </br>
+
 ![Corn Waffles With Caramelized Apples](/images/uploads/2020_10_04_corn_waffles_with_caramelized_apples_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ I came across a lot of good recipes when planning to make corn waffles (also kno
 Finally I found this _Bon Appetit_ recipe that has grated corn in it. So no big chunks of corn kernels in the waffles - only that sweet delcious corn nectar and tiny bits that are grated into the batter. Just the perfect recipe for corn waffles especially right now while the sweet corn is in season and available. If you don’t have fresh form to grate have no fear.  You can also use canned or frozen corn (make sure to allow to thaw) and just either chop it until super fine or pop some in the food processor and allow it to do the chopping. 
 </br>
 </br>
+
 ![Corn Waffles With Caramelized Apples](/images/uploads/2020_10_04_corn_waffles_with_caramelized_apples_5.jpg)
 </br>
 </br>
@@ -102,4 +106,5 @@ They freeze really well so feel free to make a double batch and freeze some. All
 Adapted from _Bon Appetit_
 
 </br>
+
 ![Corn Waffles With Caramelized Apples](/images/uploads/2020_10_04_corn_waffles_with_caramelized_apples_6.jpg)

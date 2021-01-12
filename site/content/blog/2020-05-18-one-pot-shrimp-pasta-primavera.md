@@ -14,6 +14,7 @@ description: A creamy spring veggie loaded pasta made in one pan and in under 30
 Penne with a buttery lemon, cream, Parmesan sauce, and plenty of fresh vegetables - mushrooms, peas, asparagus, tomatoes, garlic, basil and shrimp. This delicious Shrimp Pasta Primavera is IDEAL for busy weeknights! It's ready in 30 minutes and uses just one pot for everything making cleanup a breeze. 
 </br>
 </br>
+
 ![One Pot Shrimp Pasta Primavera](/images/uploads/2020_05_18_one_pot_shrimp_pasta_primavera_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ Penne with a buttery lemon, cream, Parmesan sauce, and plenty of fresh vegetable
 Primavera means springtime in Italian so Pasta Primavera really is a pasta loaded with all of spring’s tasty fresh veggies. It’s believed to be created in New York City in the late 1970s. It’s loaded with vegetables, doused in butter, a touch of cream and lots of parmesan cheese. I have sliced and diced carrots, bell peppers, peas, spring onions, baby broccolini, asparagus, snow peas etc...into my primavera. It’s so versatile and you can literally use whatever veggies are your favourite or that you might have on hand. For this one I just had to include local Ontario mushrooms which are in season right now and are so delicious in a creamy pasta. 
 </br>
 </br>
+
 ![One Pot Shrimp Pasta Primavera](/images/uploads/2020_05_18_one_pot_shrimp_pasta_primavera_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ Primavera means springtime in Italian so Pasta Primavera really is a pasta loade
 The key to this one-pot dish is cooking the shrimp, vegetables, and pasta in stages. When combined, all of the ingredients will be perfectly al dente and coated in a tasty sauce that is slightly thickened by the starch in the pasta. Add more spring flavour by stirring in chopped fresh herbs such as parsley, dill, or basil into the pasta and of course lemon zest for extra fresh and delicious flavours. There are many variations of this dish especially in the way the veggies are prepared ahead of time.  Some recipes call for grilling the veggies, others ask that you roast them before or even blanch them. All of them are great and affect the texture and flavours of this pasta. 
 </br>
 </br>
+
 ![One Pot Shrimp Pasta Primavera](/images/uploads/2020_05_18_one_pot_shrimp_pasta_primavera_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ The key to this one-pot dish is cooking the shrimp, vegetables, and pasta in sta
 This quick version doesn’t require any of that. The heartier veggies get either pan fried with the onions as they cook at the beginning and the rest get added in and get steamed and cooked along with the pasta until they are tender. When it comes to the protein addition - there are options. The shrimp cooks perfectly in just a few minutes of getting stirred in with the pasta. But if you wanted to add chicken you definitely would have to pan fry it before. You can either pan fry it first (then remove it from pan and continue with recipe as is) or grill it or roast it then add it back to the pan when you add the Parmesan cheese. If you want to make this a meatless pasta primavera that is totally ok too. Leave out the shrimp and either replace with more veggies or leave as is. I love it both ways. For a vegan version I would use a veggie based broth and either finish it off with a vegan butter or instead some olive oil. When I want a lighter version that is how I make mine. As for of Parmesan cheese feel free to leave out or add a little bit of nutritional yeast. 
 </br>
 </br>
+
 ![One Pot Shrimp Pasta Primavera](/images/uploads/2020_05_18_one_pot_shrimp_pasta_primavera_5.jpg)
 </br>
 </br>
@@ -48,6 +52,7 @@ You will love this Shrimp Pasta Primavera because you can make it in one pot, on
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.metro.ca/en">Metro Ontario</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![One Pot Shrimp Pasta Primavera](/images/uploads/2020_05_18_one_pot_shrimp_pasta_primavera_6.jpg)
 </br>
 </br>
@@ -89,4 +94,5 @@ Serves 4-6
 1. Divide pasta among plates. Top with basil, and additional Parmesan.
 
 </br>
+
 ![One Pot Shrimp Pasta Primavera](/images/uploads/2020_05_18_one_pot_shrimp_pasta_primavera_7.jpg)

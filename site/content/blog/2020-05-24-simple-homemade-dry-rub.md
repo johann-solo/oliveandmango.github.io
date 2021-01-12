@@ -14,6 +14,7 @@ description: An all purpose dry rub perfect for ribs, chicken and even veggies
 A simple blend of spices that pairs perfectly with chicken, and pork. It's great for grilled, roasted or smoked meats and you can even use it on veggies and potatoes.
 </br>
 </br>
+
 ![Simple Homemade Dry Rub](/images/uploads/2020_05_24_simple_homemade_dry_rub_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ A simple blend of spices that pairs perfectly with chicken, and pork. It's great
 A great sweet BBQ Rub is ESSENTIAL to have in your grilling arsenal. This is a great base recipe that can easily be customized to suit your taste whether you like yours a bit spicier or sweeter.
 </br>
 </br>
+
 ![Simple Homemade Dry Rub](/images/uploads/2020_05_24_simple_homemade_dry_rub_3.jpg)
 </br>
 </br>
@@ -47,6 +49,7 @@ __Spice (heat)__
 When it comes to the heat feel free to add or remove more of the heat inducing spices like cayenne pepper and chili powder. Some other spices that really kick up the heat are, red chili flakes, or even dried chipotle. Test the heat as you add it to ensure it’s tolerable.
 </br>
 </br>
+
 ![Simple Homemade Dry Rub](/images/uploads/2020_05_24_simple_homemade_dry_rub_4.jpg)
 </br>
 </br>
@@ -54,6 +57,7 @@ When it comes to the heat feel free to add or remove more of the heat inducing s
 Sprinkle it on just before you put your meat on the grill or in the oven to roast or rub it on your meat and let it marinate in the refrigerator for a few hours or overnight. Enjoy and feel free to experiment with different spices and flavours.
 </br>
 </br>
+
 ![Simple Homemade Dry Rub](/images/uploads/2020_05_24_simple_homemade_dry_rub_5.jpg)
 </br>
 </br>
@@ -84,4 +88,5 @@ __To use:__ Spread mixed dry rub in a rimmed baking sheet or a large bowl, which
 __To store:__ For the best way to keep dry rubs fresh, store in an air-tight container or keep in the freezer in a sealable plastic bag. It can also be stored up to 6-months in air-tight jar in a cool dark place or in the refrigerator.
 
 </br>
+
 ![Simple Homemade Dry Rub](/images/uploads/2020_05_24_simple_homemade_dry_rub_6.jpg)

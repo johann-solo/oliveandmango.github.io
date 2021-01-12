@@ -14,6 +14,7 @@ description: A gluten-free, quick and intensely chocolately mug cake
 I never tire of a chocolate treat. I hope you don’t either. This is one I crave every once in a while when I need an instant chocolate fix (you know what I mean ladies). You can’t beat a cake that is personal sized and done in 70 seconds. If you are opposed to using a microwave or want to make a batch in the oven, there are directions below on how to do that. If you do end up using an oven to make this I would recommend prepping a batch because preheating an oven for one mug cake just doesn’t make any sense. 
 </br>
 </br>
+
 ![Vegan Buckwheat Chocolate Mugcake](/images/uploads/2019_05_10_24_vegan_buckwheat_chocolate_mugcake_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ I never tire of a chocolate treat. I hope you don’t either. This is one I crav
 I partnered up with _GoGo Quinoa_ to share this recipe using their Organic Buckwheat Flakes.  I always love sharing unique ways to use ingredients. These buckwheat flakes can be used in any way that you would use oat flakes.  I love making oat flour with oat flakes and thought I would do the same with these buckwheat flakes. Buckwheat flour is hearty, gluten-free, and a good source of magnesium, copper, and dietary fiber. We enjoy its health benefits, but we also love it for its bold, nutty flavor. I wanted to use it to make a sweet GF (yes Buckwheat is a seed and therefore naturally GF) treat that will quickly satisfy my sweet tooth when it’s begging for something chocolatey.
 </br>
 </br>
+
 ![Vegan Buckwheat Chocolate Mugcake](/images/uploads/2019_05_10_24_vegan_buckwheat_chocolate_mugcake_3.jpg)
 </br>
 </br>
+
 ![Vegan Buckwheat Chocolate Mugcake](/images/uploads/2019_05_10_24_vegan_buckwheat_chocolate_mugcake_4.jpg)
 </br>
 </br>
@@ -31,9 +34,11 @@ I partnered up with _GoGo Quinoa_ to share this recipe using their Organic Buckw
 These little mug cakes take only minutes to prep and just over a minute to cook in the microwave. They come out fluffy and delicious with a bold, toasty, and rich flavour.  They are best eaten warm right out of the microwave topped with either a dollop of coconut cream or melty icecream and a dusting of cocoa powder. The best part of eating them warm is the gooey centre created by the dollop of your choice of filling. I used Nutella cause that is always my first choice but feel free to use peanut butter or any other nut or seed butter and even a fruit preserve or purée of choice.
 </br>
 </br>
+
 ![Vegan Buckwheat Chocolate Mugcake](/images/uploads/2019_05_10_24_vegan_buckwheat_chocolate_mugcake_5.jpg)
 </br>
 </br>
+
 ![Vegan Buckwheat Chocolate Mugcake](/images/uploads/2019_05_10_24_vegan_buckwheat_chocolate_mugcake_6.jpg)
 </br>
 </br>
@@ -104,4 +109,5 @@ Yields approx 1 cup plus 2 tbsps of buckwheat flour
 Can you make these in the oven? Sure you can! Make sure you are using an oven safe mug though and increase baking time to approx 20- 25 minutes at 350 &deg; F. If using an oven to make this I would recommend prepping a batch because preheating an oven for one mug cake just doesn’t make any sense. 
 
 </br>
+
 ![Vegan Buckwheat Chocolate Mugcake](/images/uploads/2019_05_10_24_vegan_buckwheat_chocolate_mugcake_8.jpg)

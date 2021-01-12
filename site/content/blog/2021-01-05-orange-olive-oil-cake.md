@@ -15,6 +15,7 @@ description: A moist cake with a crackling crust and an aromatic oil rich middle
 This orange olive oil cake is an effortlessly delicious dessert. A moist cake with a crackling crust and an aromatic oil rich middle that could almost taste custard like. It’s made with olive oil, orange zest and freshly squeezed orange juice, and Gran Marnier or any other orange liqueur you might have and loads of orange flavor. It requires no-mixer - you can stir everything up with a bowl (two bowls to be exact) with pretty basic pantry items. Easy, refined and delicious. 
 </br>
 </br>
+
 ![Orange Olive Oil Cake](/images/uploads/2021_01_05_orange_olive_oil_cake_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This orange olive oil cake is an effortlessly delicious dessert. A moist cake wi
 This tasty recipe is my version of a very popular recipe on food52. The cake has big orange flavors thanks to incorporating three different forms of it via the orange zest, orange juice, and the orange liqueur - bonus one if you are using orange bitters. That is definitely how I like my citrus cakes - with a good punch of citrus flavours in them. 
 </br>
 </br>
+
 ![Orange Olive Oil Cake](/images/uploads/2021_01_05_orange_olive_oil_cake_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ This tasty recipe is my version of a very popular recipe on food52. The cake has
 You all know by now I have a deep love for all things citrus and I also love soaked or syrupy desserts. This ticks both of those off due to how moist this cake is. Third on that list of criteria is simplicity and this cake is pretty easy to put together and believe it or not no mixer is involved or required. The cake is perfect on its own with just a dusting of powdered sugar - but we like to go big with a thick creamy layer of mascarpone whip. Whipping the topping will require the use of mixer, pulling the mixers out for it is worth it though. It adds a delcious creamy texture to each bite - and balances out the richness of the cake really well. It’s optional but recommended. 
 </br>
 </br>
+
 ![Orange Olive Oil Cake](/images/uploads/2021_01_05_orange_olive_oil_cake_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ You all know by now I have a deep love for all things citrus and I also love soa
 It really couldn’t be easier. Simply whisk together the dry ingredients, then whisk together the wet ones, and stir everything together. The batter comes together in minutes. Pour the batter into pan and bake until deeply golden. Enjoy warm once it’s out of the pan with a dusting of powdered sugar or cooled with the creamy mascarpone whip. Garnishing with fresh or candied orange slices is a nice touch too. 
 </br>
 </br>
+
 ![Orange Olive Oil Cake](/images/uploads/2021_01_05_orange_olive_oil_cake_5.jpg)
 </br>
 </br>
@@ -114,4 +118,5 @@ Olive oil matters when it comes to this olive oil cake especially with the amoun
 * The longer the cake sits the more intense the flavours will be - and the more moist or dense  it gets. 
 
 </br>
+
 ![Orange Olive Oil Cake](/images/uploads/2021_01_05_orange_olive_oil_cake_6.jpg)

@@ -14,9 +14,11 @@ description: Crisp edges, soft centers and puddles of molten chocolate and caram
 I have never been a fan of your typical oatmeal cookies. It’s just not the cookie I’m ever going to reach out for cause they are usually made with raisins and I really prefer my cookies without raisins. I have always wanted to try to make my version with chocolate instead of raisins and this is how these came about. I saw a really delicious recipe from The FeedFeed and it inspired these absolutey delicious cookies  - just the way I like them - crisp edges, soft centers and puddles of molten chocolate and caramel and some flaky sea salt never hurts either!! 
 </br>
 </br>
+
 ![Chocolate Caramel Spelt Oatmeal Cookies](/images/uploads/2019_07_31_chocolate_caramel_spelt_oatmeal_cookies_2.jpg)
 </br>
 </br>
+
 ![Chocolate Caramel Spelt Oatmeal Cookies](/images/uploads/2019_07_31_chocolate_caramel_spelt_oatmeal_cookies_3.jpg)
 </br>
 </br>
@@ -24,9 +26,11 @@ I have never been a fan of your typical oatmeal cookies. It’s just not the coo
 I have used spelt flour in a few things recently and I have to say I do love the texture it adds to baked goods. It’s got a mild flavor that is nutty and slightly sweet, not to mention it is also easily digestible and gives these cookies or anything baked with it a bit of a healthier spin on them.  In these cookies it adds a heartiness to the texture that I love and works really well with the oats. I used <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/organic-regular-rolled-oats.html">Bob’s Red Mill Organic Old-fashioned Rolled Oats</a></span> and <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/organic-spelt-flour.html">Bob’s Red Mill Organic Whole Grain Spelt flour</a></span>, but if you don’t have the spelt - Bob’s Red Mill Organic All Purpose flour will do the trick as well. Spelt flour can easily be replaced with AP flour. Bob’s Red Mill offers the largest lines of organic, whole grain foods in the country. All of their products are certified Kosher and made with ingredients grown from non-GMO including the ones I used in this recipe. 
 </br>
 </br>
+
 ![Chocolate Caramel Spelt Oatmeal Cookies](/images/uploads/2019_07_31_chocolate_caramel_spelt_oatmeal_cookies_4.jpg)
 </br>
 </br>
+
 ![Chocolate Caramel Spelt Oatmeal Cookies](/images/uploads/2019_07_31_chocolate_caramel_spelt_oatmeal_cookies_5.jpg)
 </br>
 </br>
@@ -38,6 +42,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 
 </br>
 </br>
+
 ![Chocolate Caramel Spelt Oatmeal Cookies](/images/uploads/2019_07_31_chocolate_caramel_spelt_oatmeal_cookies_6.jpg)
 </br>
 </br>
@@ -78,4 +83,5 @@ Makes 2 dozen depending on size of your scoops
 Adapted from _The FeedFeed_ and _Sally’s Baking Addiction_
 
 </br>
+
 ![Chocolate Caramel Spelt Oatmeal Cookies](/images/uploads/2019_07_31_chocolate_caramel_spelt_oatmeal_cookies_7.jpg)

@@ -12,6 +12,7 @@ excerpt: A ridiculously delicious baked pasta that is so great for feeding a cro
 Who doesn’t love a baked pasta dish? This one in particular was delicious! It incorporates lost of fresh spring flavours, lots of greens and fresh herbs while keeping what you except of a cheesy baked pasta the same. It’s still cheesy and still creamy and will put a smile on your face.
 </br>
 </br>
+
 ![Rigatoni and Cheese With Peas and Mint](/images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_2.jpg)
 </br>
 </br>
@@ -19,9 +20,11 @@ Who doesn’t love a baked pasta dish? This one in particular was delicious! It 
 I made this when my in laws and family were here visiting and they loved it. It’s one of those dishes that I think universally is loved cause who doesn’t love cheesy pasta. The fresh herbs along with the lemon zest bring a few extra flavours to the table. They lighten and brighten up this baked pasta and the addition of the salami adds a nice saltiness to each bite as well. The peas add a great texture to it and the the two cheeses not only bind but bring a different cheesy saltiness to the dish as well.
 </br>
 </br>
+
 ![Rigatoni and Cheese With Peas and Mint](/images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_3.jpg)
 </br>
 </br>
+
 ![Rigatoni and Cheese With Peas and Mint](/images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_4.jpg)
 </br>
 </br>
@@ -29,9 +32,11 @@ I made this when my in laws and family were here visiting and they loved it. It�
 Adding the salami was an afterthought and not part of the original recipe, but I think it was the right decision. It added texture, extra flavour and a nice bit of saltiness or brininess to each bite. You can leave it out if you want to keep this vegetarian or you can even sub it out for pan fried bacon bits or pancetta which would also be marvelous.
 </br>
 </br>
+
 ![Rigatoni and Cheese With Peas and Mint](/images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_5.jpg)
 </br>
 </br>
+
 ![Rigatoni and Cheese With Peas and Mint](/images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_6.jpg)
 </br>
 </br>
@@ -39,9 +44,11 @@ Adding the salami was an afterthought and not part of the original recipe, but I
 The original recipe called for fontina cheese instead of the white cheddar but I was definitely not going to find fontina here so I subbed it with the cheddar which I normally use in my macaroni pie and it was great and made this recipe a little more approachable.
 </br>
 </br>
+
 ![Rigatoni and Cheese With Peas and Mint](/images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_7.jpg)
 </br>
 </br>
+
 ![Rigatoni and Cheese With Peas and Mint](/images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_8.jpg)
 </br>
 </br>
@@ -49,12 +56,15 @@ The original recipe called for fontina cheese instead of the white cheddar but I
 The original recipe also called for arugula instead of spinach. I love arugula but I know that not everyone loves that sharp tasting green so I opted for something more neutral and what I thought was a little less divisive. I will use the arugula when I make it again though to try it out.
 </br>
 </br>
+
 ![Rigatoni and Cheese With Peas and Mint](/images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_9.jpg)
 </br>
 </br>
+
 ![Rigatoni and Cheese With Peas and Mint](/images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_10.jpg)
 </br>
 </br>
+
 ![Rigatoni and Cheese With Peas and Mint](/images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_11.jpg)
 </br>
 </br>
@@ -62,12 +72,15 @@ The original recipe also called for arugula instead of spinach. I love arugula b
 I was asked about the addition of mint and how it sounded out of place when I originally posted a picture of this on IG. I guess it may when you first think of a baked pasta dish, but too me it made complete sense. It’s a springy pasta dish with lots of fresh herbs and peas and naturally peas and mint go so well together in other dishes, so why not this one. I am a huge fan of mint and I thought it was the perfect amount in this dish.  It wasn’t overpowering but added a really nice flavour to the dish. If you absolutely can’t see mint in this dish or any other feel free to sub it out for more parsley or even some fresh basil.
 </br>
 </br>
+
 ![Rigatoni and Cheese With Peas and Mint](/images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_12.jpg)
 </br>
 </br>
+
 ![Rigatoni and Cheese With Peas and Mint](/images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_13.jpg)
 </br>
 </br>
+
 ![Rigatoni and Cheese With Peas and Mint](/images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_14.jpg)
 </br>
 </br>
@@ -75,6 +88,7 @@ I was asked about the addition of mint and how it sounded out of place when I or
 This is a ridiculously delicious baked pasta that is so great for feeding a crowd. Slice up the pieces and serve as a side or a meal in itself with a salad and you and your guests will be happy. There is a little prep work involved but it’s a great weekend meal or when you have a little extra time to fuss over dinner. It can even be prepped and  put together the night before and baked the next day like any lasagna. That makes things easier if you’re planning a dinner party and want to prep things in advance. It’s definitely a keeper this recipe and hubby has requested it a few times and my father in law absolutely raves about it. It’s a must try! Hope you like it too.
 </br>
 </br>
+
 ![Rigatoni and Cheese With Peas and Mint](/images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_15.jpg)
 </br>
 </br>
@@ -116,4 +130,5 @@ Preheat to 375°.
 1. Bake pasta for 4O minutes until bubbling and golden brown. Let rest for 30 minutes; remove pan sides. Sprinkle with 2 Tbsp. parsley and 2 Tbsp. mint and cut into wedges and serve.
 
 </br>
+
 ![Rigatoni and Cheese With Peas and Mint](/images/uploads/2018_05_16_rigatoni_and_cheese_with_peas_and_mint_16.jpg)

@@ -14,6 +14,7 @@ description: All the classic flavours of strawberry rhubarb pie without the fuss
 Strawberry rhubarb is a classic pie filling that I love. These pie bars have all the classic flavours of strawberry rhubarb pie without having to fuss over pie dough, lattices or waiting hours before you can dig in. You can whip up a whole pan of these bars in minutes. They’re tasty, easy to make, and always a hit to serve!
 </br>
 </br>
+
 ![Strawberry Rhubarb Pie Bars](/images/uploads/2020_05_30_strawberry_rhubarb_pie_bars_2.jpg)
 </br>
 </br>
@@ -117,4 +118,5 @@ __For the dough__
 Adapted from the _Foodnetwork_
 
 </br>
+
 ![Strawberry Rhubarb Pie Bars](/images/uploads/2020_05_30_strawberry_rhubarb_pie_bars_4.jpg)

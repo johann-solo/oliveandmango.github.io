@@ -15,6 +15,7 @@ description: Creamy salmon herb filling wrapped in crunchy puff pastry
 These salmon sausage rolls make the perfect appetizer or finger food next time you are entertaining, or looking for a tasty snack, and are a lighter and delicious take on the ever-popular sausage rolls. They are made with simple pantry ingredients like canned salmon, store-bought puff pastry and fresh herbs. They are quick, easy to make and a crowd-pleaser. 
 </br>
 </br>
+
 ![Salmon Sausage Rolls](/images/uploads/2020_12_27_salmon_sausage_rolls_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ These salmon sausage rolls make the perfect appetizer or finger food next time y
 There are so many different versions of sausage rolls out there most being made with some sort of ground meat. I do love my [Cheesy Sausage Stuffed Puff Pastry bites](https://www.oliveandmango.com/cheesy-sausage-stuffed-puff-pastry-appetisers/) but I wanted to make a lighter and even simpler version using salmon. This salmon option is simple to make using cooked canned salmon that mixes well with the rest of the ingredients to make a tasty snack. I played up the flavours of the salmon with some fresh and tasty herbs including dill and chopped chives along with fresh lemon juice and zest (the same sort of fresh herbs I like to use with smoked salmon) Instead of going heavier using cheese in the filling, I used horseradish cream adding extra flavour and just enough creaminess to the filling. Feel free to swap it out for cream cheese, mascarpone, creme fraiche, or even a spreadable herb cheese like Boursin if you want a creamier cheesier filling. 
 </br>
 </br>
+
 ![Salmon Sausage Rolls](/images/uploads/2020_12_27_salmon_sausage_rolls_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ There are so many different versions of sausage rolls out there most being made 
 Traditionally Sausage rolls are made large enough to be a quick lunch, (which you can definitely do), I like making them into smaller, bite-sized portions. They are perfect game day snacks, or appetizer or small bites with cocktails. I love to serve mine with some tartare sauce but feel free to serve these little guys with whatever dipping sauce you like. If you want to play up the horseradish in these feel free to use more of the horseradish cream  as the dipping sauce or you can even do an herbed creme fraiche or sour cream sauce too. 
 </br>
 </br>
+
 ![Salmon Sausage Rolls](/images/uploads/2020_12_27_salmon_sausage_rolls_4.jpg)
 </br>
 </br>
@@ -75,4 +78,5 @@ When it comes to the herbs feel free to use what you have and what you like - I 
 5. After they have chilled slice each roll into approx 1 inch pieces. Arrange them back on baking sheet and bake for 20-25 minutes or until golden. Serve with tartare sauce. 
 
 </br>
+
 ![Salmon Sausage Rolls](/images/uploads/2020_12_27_salmon_sausage_rolls_5.jpg)

@@ -15,6 +15,7 @@ description: Silky spiced sweet potato filling with a nutty crunchy crust
 This silky spiced sweet potato pie with a nutty crunchy pecan crust is my favorite southern inspired sweet potato pie.  Although this doesn’t look like a classic sweet potato pie because its made with purple sweet potatoes, all the classic flavours are still very much in there. It’s made with roasted sweet potatoes, butter, milk, eggs, brown sugar, and all the delicious warming spices that go into a classic. Roasting your own sweet potatoes adds depth of flavour and is always recommended. The twice baked or blind baked crust is slightly shaggier than a regular crust because of the pecans, but it comes together beautifully and has a nice bit of crunch to offset the pie's creamy and delicious filling, and the nutty flavor plays well with all the warming spices. 
 </br>
 </br>
+
 ![Sweet Potato Pie With Pecan Crust](/images/uploads/2020_11_10_sweet_potato_pie_with_pecan_crust_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This silky spiced sweet potato pie with a nutty crunchy pecan crust is my favori
 There are so many different ways to make sweet potato pie and so many great recipes out there. This is one I love making from Tastingtable  that always turns out well. It works beautifully with regular sweet potatoes or these beautiful purple ones. I have to say I was thrilled when I saw these guys. I have not cooked or baked with sweet potatoes in literally years. I had never seen them while living in Trinidad and very rarely when i was in Hamilton. So when I spotted them here at a Whole Foods in Toronto, I knew I needed to make my sweet potato pie using them. You will notice in the video that the colour of the filling changes three times. It goes from a very mellow subdued purple when it’s being blended to a brighter deeper one once it comes out of the oven then after it has cooked it transforms in to a more burgundy color tone in the purple. It’s so fun to use the purple variety of sweet potatoes but this pie can  be made with any variety of sweet potatoes.  
 </br>
 </br>
+
 ![Sweet Potato Pie With Pecan Crust](/images/uploads/2020_11_10_sweet_potato_pie_with_pecan_crust_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ There are so many different ways to make sweet potato pie and so many great reci
 There’s a few things I have learned about pie crust and pie making over the years. I use to have a fear of pie dough but have since learned that it is actually quiet forgiving. A few key things that help make a great crust is making sure your butter is very cold. I usually chop it into cubes and stick them in a bowl in the freezer until I need them. Also do not add to  much water to the dough even if you are tempted too. You just need to add enough to hydrate the dough. A shaggy dough out of the food processor is what you want. You can always add a touch more if needed but you can’t really take it back if you add too much. I strongly recommend making your dough the night before you need it. (Or even sooner - make ahead directions below). The dough behaves a lot better and responds better when being rolled rolled out if it has had ample to time to rest and hydrate. I haven’t researched to back this up, but I find that when I have let it rest overnight as opposed to just one hour there is generally less shrinkage that happens. 
 </br>
 </br>
+
 ![Sweet Potato Pie With Pecan Crust](/images/uploads/2020_11_10_sweet_potato_pie_with_pecan_crust_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ There’s a few things I have learned about pie crust and pie making over the ye
 Speaking of shrinking another thing that helps prevent shrinkage is how you handle the dough especially when placing it into the pan. You should never stretch your pie dough while lifting it into the pan or pressing it into the sides. Always lift up and gently press it into the pan while keeping it lifted instead of pressing it while its seated - that will stretch it and it will create areas of shrinkage in the crust. You may also have noticed in the video that I use sugar as my pie weights. I learned about that from someone a while back (don’t remember who) but it’s my favourite way to weigh the crust down when I’m baking the crust twice. It fills the crust out more evenly than anything else i have used and I store the sugar in a container and keep reusing it in all my pies. 
 </br>
 </br>
+
 ![Sweet Potato Pie With Pecan Crust](/images/uploads/2020_11_10_sweet_potato_pie_with_pecan_crust_5.jpg)
 </br>
 </br>
@@ -110,4 +114,5 @@ This is a very tasty pie that  I would say is mildly spiced. If you would like t
 Adapted from _Tasting Table_
 
 </br>
+
 ![Sweet Potato Pie With Pecan Crust](/images/uploads/2020_11_10_sweet_potato_pie_with_pecan_crust_6.jpg)

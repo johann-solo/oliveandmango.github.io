@@ -14,6 +14,7 @@ description: Buttery crust filled with a perfectly spiced brown butter maple pum
 It’s that time of year when pumpkin and fall squash have their day or more like their month in the spotlight. The most classic way to enjoy them this time of year is none other than a pumpkin pie. It’s a harvest food classic. I have wanted to recreate Four & Twenty Blackbirds recipe for their brown butter pumpkin pie since last year but I wanted to do a maple twist to it. I love the flavour of the maple syrup and also think that it suits pumpkin so well. My family really loved this pie. The flavours in it are wonderful. It requires just one extra step for the filling which includes browning the butter and then caramelizing it with the sugar and cream. It's so worth the extra few minutes it takes to prep this part of the pie. 
 </br>
 </br>
+
 ![Brown Butter Maple Pumpkin Pie](/images/uploads/2019_10_18_brown_butter_maple_pumpkin_pie_2.jpg)
 </br>
 </br>
@@ -21,12 +22,15 @@ It’s that time of year when pumpkin and fall squash have their day or more lik
 You will save time making this pie using a store bought pie filling though. The one I look for is always E.D. Smith’s Pure Pumpkin. I have been using their pumpkin for as long as I can remember. It’s made with 100% Pure Dickinson Pumpkin. It has no preservatives, sugars or flavours added making it a staple item in my pantry. I love making things from scratch when I have time but this is what I always grab for most if not all my baked goods including pumpkin pie. The consistency and texture of good quality canned pumpkin like this one is far superior to homemade, not to mention the shortcut on labor. 
 </br>
 </br>
+
 ![Brown Butter Maple Pumpkin Pie](/images/uploads/2019_10_18_brown_butter_maple_pumpkin_pie_3.jpg)
 </br>
 </br>
+
 ![Brown Butter Maple Pumpkin Pie](/images/uploads/2019_10_18_brown_butter_maple_pumpkin_pie_4.jpg)
 </br>
 </br>
+
 ![Brown Butter Maple Pumpkin Pie](/images/uploads/2019_10_18_brown_butter_maple_pumpkin_pie_5.jpg)
 </br>
 </br>
@@ -34,12 +38,15 @@ You will save time making this pie using a store bought pie filling though. The 
 This pie is definitely where I will gladly open a can to make a pie filling. Makes things easier and is a huge time saver. Feel free to use good store bought pie crusts for this recipe as well if that makes it even easier for you. I have included the homemade recipe I use but if you are in a pinch for time a good quality store bought crust will also do the trick. 
 </br>
 </br>
+
 ![Brown Butter Maple Pumpkin Pie](/images/uploads/2019_10_18_brown_butter_maple_pumpkin_pie_8.jpg)
 </br>
 </br>
+
 ![Brown Butter Maple Pumpkin Pie](/images/uploads/2019_10_18_brown_butter_maple_pumpkin_pie_7.jpg)
 </br>
 </br>
+
 ![Brown Butter Maple Pumpkin Pie](/images/uploads/2019_10_18_brown_butter_maple_pumpkin_pie_6.jpg)
 </br>
 </br>
@@ -51,6 +58,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 
 </br>
 </br>
+
 ![Brown Butter Maple Pumpkin Pie](/images/uploads/2019_10_18_brown_butter_maple_pumpkin_pie_9.jpg)
 </br>
 </br>
@@ -120,4 +128,5 @@ __Prepare the Pumpkin pie filling__
 Inspired by _Four & Twenty Blackbirds_ and _The Kitchen Mccabe_
 
 </br>
+
 ![Brown Butter Maple Pumpkin Pie](/images/uploads/2019_10_18_brown_butter_maple_pumpkin_pie_10.jpg)

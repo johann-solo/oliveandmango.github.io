@@ -14,6 +14,7 @@ description: A creamy cool dessert featuring sweet macerated fresh peaches
 This is the ultimate no bake dessert featuring fresh peaches and cream. Layers of fresh peaches that are macerated in some brown sugar, maple syrup and bourbon, in between layers of vanilla cream made a bit richer with a mix of yoghurt and mascarpone and a layer of ginger cookies or snaps that add that sort of cake layer to any ice box cake. Its a beautiful dessert to serve in a trifle bowl or some sort of glass vessel to show off the lovely layers that you can spoon right out of the bowl but you can easily make this  layered into a baking pan and remove in slices. 
 </br>
 </br>
+
 ![Ginger Bourbon Peach Icebox Cake](/images/uploads/2020_08_07_ginger_bourbon_peach_icebox_cake_2.jpg)
 </br>
 </br>
@@ -22,9 +23,11 @@ This is the ultimate no bake dessert featuring fresh peaches and cream. Layers o
 Apart from being my favorite kind of summer dessert, it’s a dessert that is typically made with layers of cream, fruits, nuts, and wafer cookies and set in the refrigerator or the freezer. They are so fun to make and require no baking and very little prep. The best dessert for summer because of those same reasons. No hot oven and can easily feed a crowd if you are making it for a family bbq or taking it to one. I love that they are lighter than an ice cream cake yet still have that cooling effect. 
 </br>
 </br>
+
 ![Ginger Bourbon Peach Icebox Cake](/images/uploads/2020_08_07_ginger_bourbon_peach_icebox_cake_3.jpg)
 </br>
 </br>
+
 ![Ginger Bourbon Peach Icebox Cake](/images/uploads/2020_08_07_ginger_bourbon_peach_icebox_cake_4.jpg)
 </br>
 </br>
@@ -33,6 +36,7 @@ Apart from being my favorite kind of summer dessert, it’s a dessert that is ty
 The principle components of any icebox cake are the same. It must have a whipped cream component, a cookie component and some sort of other component like fruit or fruit and nuts. You can adjust almost any icebox cake recipes out there including this one to taste if you just maintain the same amounts of each component. For example - don’t have ginger cookies or ginger snaps - but do have graham crackers - boom substitute! Don’t have peaches but have plums or any other fruit for that matter - boom substitute! Don’t have mascarpone - but have cream cheese - boom - ok ok I just slid that one in cause i know there will be one person who asks that at least. Just keep the measurements the same and have  fun with the combo and the favourings - this would be amazing with cherries mascerated in some Kirsch and with chocolate wafers instead of ginger ones - similar to my [No Bake Black Forest Icebox Cake](https://www.oliveandmango.com/no-bake-black-forest-icebox-cake/) except that one is frozen not chilled. More info about that difference in my recipe notes below as well as info about using gluten free cookies. 
 </br>
 </br>
+
 ![Ginger Bourbon Peach Icebox Cake](/images/uploads/2020_08_07_ginger_bourbon_peach_icebox_cake_5.jpg)
 </br>
 </br>
@@ -97,4 +101,5 @@ lighter tasting less sweet kind of a dessert.
 Adapted from _Southern Living_
 
 </br>
+
 ![Ginger Bourbon Peach Icebox Cake](/images/uploads/2020_08_07_ginger_bourbon_peach_icebox_cake_6.jpg)

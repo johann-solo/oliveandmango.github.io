@@ -93,4 +93,5 @@ Tips on making perfect crinkle cookies every time:
 * These cookies freeze well, either unbaked or baked. Freeze  unbaked balls of dough without powdered sugar on a sheet pan until solid, then transfer to a freezer bag or container. Let the dough balls thaw for a few minutes on the counter while the oven pre-heats, then roll in granulated sugar and powdered sugar and bake. You may need to add an extra minute or two to the baking time.
 
 </br>
+
 ![Chocolate Mint Crinkle Cookies](/images/uploads/2017_12_16_chocolate_crinkle_cookies_5.jpg)

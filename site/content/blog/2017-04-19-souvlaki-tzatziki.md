@@ -16,6 +16,7 @@ description: An easy Greek-style marinade/ dressing sure to elevate anything you
 Chicken or pork Souvlaki is quick and easy to prep, and so delicious! Marinated chicken breasts or pork tenderloin are threaded onto skewers and grilled until juicy and tender. Serve souvlaki over rice or wrap it in a pita (warm [homemade pita is the best](https://www.oliveandmango.com/fresh-homemade-pita-bread/)) with lettuce and tomatoes for a perfect meal or enjoy it over a bed of greens for an epic souvlaki salad. 
 </br>
 </br>
+
 ![Easy Tzatziki Sauce](/images/uploads/2020_08_17_souvlaki_2.jpg)
 </br>
 </br>
@@ -25,6 +26,7 @@ Chicken or pork Souvlaki is quick and easy to prep, and so delicious! Marinated 
 In short Souvlaki, plural souvlakia, is a popular Greek fast food (street food) made of small pieces of meat and sometimes vegetables grilled on a skewer. It is usually eaten straight off the skewer while still hot. These Greekstyle kabobs are marinated in a herby marinade with oregano garlic, lemon, olive oil and seasonings. So simple, but amazingly flavorful. Nothing beats the smell of a hot grill going with either meat or veggies on it. You can smell it wafting in the air a mile away. Souvlaki comes from the word Souvla which means “spit” or “skewer” in Greek — the rod on which meat is roasted.). Appropriately since souvlaki or also commonly known as kalamaki, is meat or veggies grilled on skewers. The most common meat used in souvlakia or kalamakia is pork, but chicken, beef and lamb also make the cut. Regardless of the meat, although for souvlaki I’m totally partial to pork, it’s the marinade that really makes these little guys irresistible! For the most flavourful souvlaki I like to marinade the meat overnight. It allows ample time for the meat to soak in all the flavour and when it comes to the pork it tenderises it a bit too. The lemon and vinegar almost act like a brining liquid which helps make the pork a little more tender and juicy. Of course you’re not using even close to the amount of salt you would in a brining liquid but it still does the job.
 </br>
 </br>
+
 ![Easy Tzatziki Sauce](/images/uploads/2020_08_17_souvlaki_3.jpg)
 </br>
 </br>
@@ -32,6 +34,7 @@ In short Souvlaki, plural souvlakia, is a popular Greek fast food (street food) 
 Once they are grilled to perfection you give them a good dowsing of lemon juice and a sprinkle of sea salt and they are ready to plate or put into pita/flat bread with the usual suspects — some chopped tomatoes, onions as pictured. Some other popular toppings included chopped lettuce, feta and french fries. I also love them loaded with some grilled red peppers or eggplant too! Yum! Of course you cannot have souvlaki with out tzatziki — basically what Greeks use to fend off close talkers. Hehe! Yes beware and be warned you will have some pretty pungent garlic breathe going on after eating even just a little bit of it. But so worth it! I’m so partial to it and also take it so for granted in a way!! It’s a fabulous almost refreshing sauce which adds so much to grilled meats. I love it with Greek style rice too and just about anything really! It’s the raita of the Greek world. 
 </br>
 </br>
+
 ![Easy Tzatziki Sauce](/images/uploads/2020_08_17_souvlaki_4.jpg)
 </br>
 </br>
@@ -71,4 +74,5 @@ Makes approx 8-10 skewers
 I often like to make a lemon parsley oil with 1 tbsp  olive oil, 1 tsp lemon juice, 1 tsp chopped fresh parsley to drizzle over the skewers right after they come off the grill and it’s delicious- I especially love drizzling it on them if I’m serving them as appetizers. It’s optional but delicious!
 
 </br>
+
 ![Easy Tzatziki Sauce](/images/uploads/2020_08_17_souvlaki_5.jpg)

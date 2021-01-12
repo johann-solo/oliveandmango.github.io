@@ -15,6 +15,7 @@ description: Tender flaky crust with a rich smooth filling served with a pecan p
 This classic pumpkin pie is creamy, sweet and luscious! It’s bursting with flavor and tastes delicious in this homemade no shrink pie crust, served with whipped cream or my pecan praline sauce or both. There are so many delicious ways to make pumpkin pie with many flavour options out there but if you are looking for a stand up, never disappoint classic perfect pumpkin pie than look no further. The crust is wonderfully tender and flaky and the filling is gently spiced and so rich and smooth. You will be savouring each bite.
 </br>
 </br>
+
 ![Classic Pumpkin Pie With No Shrink Pie Crust](/images/uploads/2020_11_20_classic_pumpkin_pie_with_no_shrink_pie_crust_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This classic pumpkin pie is creamy, sweet and luscious! It’s bursting with fla
 I came across a very interesting recipe recently by Christopher Kimball for a no shrink pie dough and was very excited to try it. I love baking pies and love a classic all butter pie crust but I am always looking for new recipes and extra techniques and tips to make my pie crusts even better. At first I looked at the recipe and was puzzled by the cornstarch mixture in it. Apparently adding this method and mixture to your dough is adopted from Japanese bread-baking. The technique and mixture of the cornstarch and water keeps the dough hydrated throughout the process. Take 3 tablespoons of water and a couple teaspoons of cornstarch, mix it, and stick it in the microwave for 30 seconds until it develops a gel-like texture. Then you chill it and pulse this gel into your piecrust’s dry ingredients before processing in the butter. The result is that the pie dough is well hydrated and easier to handle without being overly sticky. It rolled out like dream and was so easy to handle and shape and fit into my pie pan. It baked up beautifully and its a technique and crust I will defiantly be using over again. 
 </br>
 </br>
+
 ![Classic Pumpkin Pie With No Shrink Pie Crust](/images/uploads/2020_11_20_classic_pumpkin_pie_with_no_shrink_pie_crust_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ I came across a very interesting recipe recently by Christopher Kimball for a no
 When it comes to dough shrinkage a few things are key whether you are using the mentioned secret ingredient in you pie crust or not. Do not over work the dough. That goes for in the food processor and also while rolling. When rolling you must take care not to be stretching the dough so that means keeping your work surface well floured so that while you roll you can pivot or rotate your dough in between. When placing the dough in the pan, make sure to press it firmly into the base and sides of the pan. While doing so its important again to be careful to not stretch it while doing so. Chilling the crust after it’s in the pan always helps and blind baking or par baking it with pie weights is also helpful. 
 </br>
 </br>
+
 ![Classic Pumpkin Pie With No Shrink Pie Crust](/images/uploads/2020_11_20_classic_pumpkin_pie_with_no_shrink_pie_crust_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ When it comes to dough shrinkage a few things are key whether you are using the 
 When baking a pie like this with a custard filling and one that requires blind baking, it is good to seal the bottom of it with egg wash right after it comes out of the oven from blind baking it. This provides a nice barrier between the filling and the crust. Inevitably as crunchy as your pie crust may be, the bottom of it will always absorb some of the filling from a custard filling so don’t sweat it but the egg wash helps reduce the absorption by a little. 
 </br>
 </br>
+
 ![Classic Pumpkin Pie With No Shrink Pie Crust](/images/uploads/2020_11_20_classic_pumpkin_pie_with_no_shrink_pie_crust_5.jpg)
 </br>
 </br>
@@ -43,6 +47,7 @@ When baking a pie like this with a custard filling and one that requires blind b
 The filling is quite simple with a classic blend of spices in it. The texture of this one is so luscious and perfectly balanced, just sweet enough, gently spiced and not too overpowering, and irresistibly silky smooth. I love this filling and I have used it with a variety of crusts. You too can use it with any of your favorite pie crust recipe if you have any you love. Just be mindful that it makes enough for a deep dish pie so if you are using a standard pie plate you may end up with some leftover pie filling but have no fear you can make min pies in a muffin tin using some dough scraps from trimming your dough. One thing to remember to help prevent any large cracks in your pie is to make sure to not over bake it. I tend to check it 10 min before its suppose to be done so that it doesn’t over bake. The outer edges will be on the firmer side but the middle should defiantly have some jiggle remaining. Remember the pie will continue to bake in the pie dish for a while longer and that jiggly part will firm up in no time. 
 </br>
 </br>
+
 ![Classic Pumpkin Pie With No Shrink Pie Crust](/images/uploads/2020_11_20_classic_pumpkin_pie_with_no_shrink_pie_crust_6.jpg)
 </br>
 </br>
@@ -131,4 +136,5 @@ Pour pumpkin pie mixture into crust. Bake the pie until the center is almost set
 Adapted from _Williams Sonoma Test Kitchen_
 
 </br>
+
 ![Classic Pumpkin Pie With No Shrink Pie Crust](/images/uploads/2020_11_20_classic_pumpkin_pie_with_no_shrink_pie_crust_7.jpg)

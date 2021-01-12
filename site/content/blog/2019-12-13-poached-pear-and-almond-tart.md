@@ -14,6 +14,7 @@ description: Beautiful Parisan tart by Audrey Le Goff
 This is a rustic and delicious Parisian dessert (La Tarte Bourdaloue) by Audrey Le Goff from her new book called Rustic French Cooking Made Easy. It’s full of authentic, regional flavours and dishes from Provence, Brittany, Alsace and beyond. Audrey was born and raised in France and settled in Canada 10 years ago. Her many years all over France contribute to her passion for food and a strong desire to showcase regional French Cuisine not like we know it. It goes beyond croissants and fine dining. Through this lovely book Audrey shares the rich history and varied ingredients of French cuisine. She shares approachable dishes that highlight how simple, humble and incredibly diverse French cuisine is. 
 </br>
 </br>
+
 ![Poached Pear and Almond Tart](/images/uploads/2019_12_13_poached_pear_and_almond_tart_2.jpg)
 </br>
 </br>
@@ -21,12 +22,15 @@ This is a rustic and delicious Parisian dessert (La Tarte Bourdaloue) by Audrey 
 Each recipe comes with a brief and interesting history which I love. I love to know where each dish hails from and it’s influence and Audrey shares that with us along with absolutely beautiful photographs of each recipe. I’m a huge fan of Audrey. She is a self taught home cook and photographer and everything she does is at a professional level. I love her work and was thrilled when she announced she was working on a cookbook. I knew exactly what to expect. Her work is exceptional - recipes, writing and photography and I knew this would carry over into her book as well. I was not surprised at all by how much I love her book.  I want to try every recipe in it. It’s my style of food - rustic and approachable. 
 </br>
 </br>
+
 ![Poached Pear and Almond Tart](/images/uploads/2019_12_13_poached_pear_and_almond_tart_3.jpg)
 </br>
 </br>
+
 ![Poached Pear and Almond Tart](/images/uploads/2019_12_13_poached_pear_and_almond_tart_4.jpg)
 </br>
 </br>
+
 ![Poached Pear and Almond Tart](/images/uploads/2019_12_13_poached_pear_and_almond_tart_5.jpg)
 </br>
 </br>
@@ -34,9 +38,11 @@ Each recipe comes with a brief and interesting history which I love. I love to k
 The book is arranged starting with Small Bites, then Starters and Casual Fare, Family Meals to Homey Desserts and Afternoon Treats. Each section has a brief description introducing some history and a true picture of what is on the menu for that chapter and where in France certain dishes are commonly enjoyed. All her descriptions had me wanting to be back in France exploring each region. I already mentioned a bit about Audreys fabulous food photography. Interspersed are beautiful images of France that she has taken that really add to the overall feeling of the book. It’s so well done and I’m so happy to have a copy thanks to Audrey. 
 </br>
 </br>
+
 ![Poached Pear and Almond Tart](/images/uploads/2019_12_13_poached_pear_and_almond_tart_6.jpg)
 </br>
 </br>
+
 ![Poached Pear and Almond Tart](/images/uploads/2019_12_13_poached_pear_and_almond_tart_7.jpg)
 </br>
 </br>
@@ -46,6 +52,7 @@ She was kind enough to share a copy and she also sent me that stunning and large
 Disclaimer: We received this book as a gift but all thoughts and opinions are our own. The recipe for Audrey's La Tarte Bourdaloue (pg. 119) from her new cookbook "Rustic French Cooking Made Easy". This recipe is shared with permission from the publisher.
 </br>
 </br>
+
 ![Poached Pear and Almond Tart](/images/uploads/2019_12_13_poached_pear_and_almond_tart_8.jpg)
 </br>
 </br>
@@ -115,4 +122,5 @@ __For the crème pâtissière__
 Choose perfectly ripe pears for poaching: they won’t poach well if underripe, and they will turn mushy if overripe. Bosc pears hold a great shape and sweetness after being poached and baked, but the Anjou and Bartlett varieties work well too.
 
 </br>
+
 ![Poached Pear and Almond Tart](/images/uploads/2019_12_13_poached_pear_and_almond_tart_9.jpg)

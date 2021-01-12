@@ -12,9 +12,11 @@ excerpt: This combination of Italian and Greek flavours makes for a fresh delcio
 It had to happen you guys! My love for pizza and my love for spanakopita had to collide and become spanako’pizza. My skills in making a really good homemade phyllo are yet to be developed and that is why you haven’t seen a spanakopita recipe on the blog yet but it’s coming. I have bastardised so many other  foods from different cultures so I thought why not do the same with my own, thus this mashup.
 </br>
 </br>
+
 ![Spanakopizza](/images/uploads/2018_04_27_spanakopizza_2.jpg)
 </br>
 </br>
+
 ![Spanakopizza](/images/uploads/2018_04_27_spanakopizza_3.jpg)
 </br>
 </br>
@@ -22,9 +24,11 @@ It had to happen you guys! My love for pizza and my love for spanakopita had to 
 My mom and my aunt make some of the best spanakopita I have had. Every Greek person will tell you the same thing about their mom’s or their aunt’s spanakopita and that is totally understandable. It’s all about what we were accustomed to growing up. Everyone loves it made a certain way, with a certain texture and when it comes to spanakopita some like it very herby or more cheese than greens etc.... you get my drift. All of them are acceptable and according to taste. I’m not the Greek food police so I think when it comes to food anything goes as long as you’re happy with it and you love the way it tastes.
 </br>
 </br>
+
 ![Spanakopizza](/images/uploads/2018_04_27_spanakopizza_4.jpg)
 </br>
 </br>
+
 ![Spanakopizza](/images/uploads/2018_04_27_spanakopizza_5.jpg)
 </br>
 </br>
@@ -32,9 +36,11 @@ My mom and my aunt make some of the best spanakopita I have had. Every Greek per
 The pizza dough I use all the time is _Dennis the Prescott’s_ recipe for basic pizza dough. I think it’s totally a no fail recipe. It requires a bit of elbow grease but it’s so worth it. It’s great to have in the freezer for a Friday night instead of ordering. It works with any toppings and it always has puffy deep golden edges, crispy crust and it bakes in under 15 minutes. What more could you ask for? That being said if you have a favourite pizza dough recipe that you are unwilling to part with (that is cool - I get it) then most definitely use that as your dough base. The toppings work on any dough.
 </br>
 </br>
+
 ![Spanakopizza](/images/uploads/2018_04_27_spanakopizza_6.jpg)
 </br>
 </br>
+
 ![Spanakopizza](/images/uploads/2018_04_27_spanakopizza_7.jpg)
 </br>
 </br>
@@ -42,9 +48,11 @@ The pizza dough I use all the time is _Dennis the Prescott’s_ recipe for basic
 The toppings for this one are basically what you would find in a spanakopita. Lots of σπανάκι/spanaki or spinach is involved, fresh herbs and green spring onion and most definitely some feta. I also used mozzarella cause the more cheese on a pizza the better, right? Right! I also added it because feta doesn’t melt and spread like fresh mozzarella and you always want a little cheese pull in your pizza. 
 </br>
 </br>
+
 ![Spanakopizza](/images/uploads/2018_04_27_spanakopizza_8.jpg)
 </br>
 </br>
+
 ![Spanakopizza](/images/uploads/2018_04_27_spanakopizza_9.jpg)
 </br>
 </br>
@@ -52,6 +60,7 @@ The toppings for this one are basically what you would find in a spanakopita. Lo
 Once you have your spinach cooked down - this pizza comes together super quickly. The base is olive oil, garlic and chilli flakes for some extra delicious flavour and then pile on the rest of the ingredients and bake. Simple as that, and you have yourself a healthy’ish pizza loaded with fresh herbs, greens, cheese, garlic and lemon giving this pizza a very spring’y Greek twist! Serve this with a _horiatiki salad_ (Greek village salad - more feta involved) and a crisp glass wine and you my friends will not be disappointed.
 </br>
 </br>
+
 ![Spanakopizza](/images/uploads/2018_04_27_spanakopizza_10.jpg)
 </br>
 </br>
@@ -121,4 +130,5 @@ Minutes until softened. Then add the spinach and continue to sauté until wilted
 * If making two small pizza make sure to divide toppings evenly and accordingly in half 
 
 </br>
+
 ![Spanakopizza](/images/uploads/2018_04_27_spanakopizza_11.jpg)

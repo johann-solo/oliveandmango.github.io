@@ -14,6 +14,7 @@ excerpt: Simple and delicious protein packed snacks
 Another day another snack! Why is it that we need snacks to get us through the day? Is it that we were primed from primary school to have mid morning and mid afternoon snacks or is it just that we love to eat? Maybe a little bit of both I’m thinking.
 </br>
 </br>
+
 ![No Bake Peanut And Butter Jelly Tarts](/images/uploads/2018_04_13_no_bake_peanut_butter_jelly_tarts_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Another day another snack! Why is it that we need snacks to get us through the d
 Whatever the case, when I am home or just off work running errands or doing volunteer work, I always need a mid afternoon snack to get me over the hump. At work I’m way too busy to think about snacking but I’m sure if you have a desk job you may experience that same lull in the day. You know what I’m talking about - that very difficult 2-3 o’clock period when your lunch is starting to be metabolized, inducing the tiredness. It never fails though - if you get over that hump, past 3 you’re good.  You just need to make it. Some days that’s harder than others and that’s where my little power snacks come in.
 </br>
 </br>
+
 ![No Bake Peanut And Butter Jelly Tarts](/images/uploads/2018_04_13_no_bake_peanut_butter_jelly_tarts_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ Whatever the case, when I am home or just off work running errands or doing volu
 I’m a chocolate lover and I need it on the regular. Most of my snacks especially my homemade protein ones include some chocolate element to them and that is no accident.  I just gotta have it! These were so  fun to make and ofcourse I had to make sure and add that chocolate layer.
 </br>
 </br>
+
 ![No Bake Peanut And Butter Jelly Tarts](/images/uploads/2018_04_13_no_bake_peanut_butter_jelly_tarts_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ I’m a chocolate lover and I need it on the regular. Most of my snacks especial
 The crust or the base of the tart is chewy and delicious, and naturally sweetened by the dates. The PB and jam is perfectly gooey and the chocolate layer acts like the perfect lid over the combo. These need to be refrigerated between layers and the chocolate will harden up a bit which adds a chocolatey crunch. I tossed a little sea salt over the chocolate and it added just the right amount of salty sweet! 
 </br>
 </br>
+
 ![No Bake Peanut And Butter Jelly Tarts](/images/uploads/2018_04_13_no_bake_peanut_butter_jelly_tarts_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ The crust or the base of the tart is chewy and delicious, and naturally sweetene
 These are pretty simple to make and ofcourse if you have a nut allergy feel free to use tahini in place of the peanut butter or any other seed butter.  I always make my own PB or nut butter and even seed butter and this is a great way to use a fresh batch. Its perfectly pourable after it gets whizzed up in the food processor, making it so much easier to pour into each cup. If you don’t have a fresh batch just heat up your PB in the microwave or on the stove top until it’s a pourable consistency making it easier to get into the molds. If you aren’t a fan of blackberries you can definitely use any fruit of choice, but I’m partial to berries that’s why I chose blackberries. 
 </br>
 </br>
+
 ![No Bake Peanut And Butter Jelly Tarts](/images/uploads/2018_04_13_no_bake_peanut_butter_jelly_tarts_6.jpg)
 </br>
 </br>
@@ -49,6 +54,7 @@ These are pretty simple to make and ofcourse if you have a nut allergy feel free
 We loved these little protein packed treats and I think you guys will too! Make sure and leave a comment if you do try them and of course if you have any questions about them. 
 </br>
 </br>
+
 ![No Bake Peanut And Butter Jelly Tarts](/images/uploads/2018_04_13_no_bake_peanut_butter_jelly_tarts_7.jpg)
 </br>
 </br>
@@ -89,4 +95,5 @@ Makes 12 cups in a standard size muffin tin (sometimes a couple extra depending 
 8. Loosen the plastic wrap to pop out the cups if using or use a butter knife to loosen the edges all around the cups and then help them out gently and the cups should slide right out. I store mine in the fridge in a sealed container and they are good refrigerated for up to 5 days. They won’t last that long though.
 
 </br>
+
 ![No Bake Peanut And Butter Jelly Tarts](/images/uploads/2018_04_13_no_bake_peanut_butter_jelly_tarts_8.jpg)

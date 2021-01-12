@@ -14,9 +14,11 @@ description: Tender crisp crust, a light tangy creamy filling topped with fresh 
 These bars are the perfect way to enjoy apricots or any other stone fruit for that matter if you can’t get your hands on any apricots. The ones I had were quite ripe but still easy to slice. I always love to make something new each time a fruit comes into season and I have been holding on to this one recipe from last year. I was too late to make it then so I saved it for this year. I cannot believe how quickly that year went by - I felt as though I had just saved that recipe the other day. The recipe is from _cafefernando_. It’s such a good one and I’m so happy to share it with you guys. It’s perfect as summer dessert especially with all the long weekends this summer and all the summer entertaining. You need a dessert like this that is practically no bake and delicious!! 
 </br>
 </br>
+
 ![Apricot Bars](/images/uploads/2019_07_03_apricot_bars_2.jpg)
 </br>
 </br>
+
 ![Apricot Bars](/images/uploads/2019_07_03_apricot_bars_3.jpg)
 </br>
 </br>
@@ -24,9 +26,11 @@ These bars are the perfect way to enjoy apricots or any other stone fruit for th
 I made a GF crust for the bars which is completely different from the original recipe. This one has less ingredients in it and doesn’t require resting. I used Bob’s Red Mill Super Fine Almond Flour to make the crust and it’s one of their flours I use all the time. It has a super fine texture and nutty flavor which I love in my baking - I especially love it in my crusts when it comes to tarts. It makes a tender crisp crust which is great for tarts, pies, and bars like these. Bob’s Red Mill offers the largest lines of organic, whole grain foods in the country. All of their products are certified kosher and made with ingredients grown from non-gmo seeds and they are <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">available to buy online</a></span> or in store at Whole Foods and many more. 
 </br>
 </br>
+
 ![Apricot Bars](/images/uploads/2019_07_03_apricot_bars_4.jpg)
 </br>
 </br>
+
 ![Apricot Bars](/images/uploads/2019_07_03_apricot_bars_5.jpg)
 </br>
 </br>
@@ -34,9 +38,11 @@ I made a GF crust for the bars which is completely different from the original r
 The filling reminds me of a yoghurt panna cotta filling. It has a bit of gelatin in it to help it firm up without eggs or being baked, making it such a perfect summer dessert that only requires 10 minutes of baking for the crust alone. The filling is light and creamy with a slight bit of tang from the strained Greek yoghurt giving it a bit of a cheesecake kind of vibe, but not as rich or dense. It’s far lighter and creamier as well. What’s better than fresh fruit on a summer dessert? - not too much if you ask me. I did not roast or blanch the apricots because they were ripe enough yet still easy to slice. The glaze over them is tasty and also gives the apricots a delicious sheen that makes these bars look a lot more sophisticated than they really are considering how little effort it took to make them. 
 </br>
 </br>
+
 ![Apricot Bars](/images/uploads/2019_07_03_apricot_bars_6.jpg)
 </br>
 </br>
+
 ![Apricot Bars](/images/uploads/2019_07_03_apricot_bars_7.jpg)
 </br>
 </br>
@@ -47,6 +53,7 @@ They are the perfect treat for the summer and for summer time entertaining as th
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Apricot Bars](/images/uploads/2019_07_03_apricot_bars_8.jpg)
 </br>
 </br>
@@ -90,4 +97,5 @@ __For the apricot layer and glaze__
 1. To prepare the glaze, bring the apricot marmalade and water to a boil, take off heat, strain through a fine-meshed sieve and brush the tops of the apricot halves. Then slice and serve.
 
 </br>
+
 ![Apricot Bars](/images/uploads/2019_07_03_apricot_bars_9.jpg)

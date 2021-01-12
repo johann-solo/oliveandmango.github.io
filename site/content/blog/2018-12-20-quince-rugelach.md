@@ -15,9 +15,11 @@ description: A buttery flaky pastry wrapped around a floral sweet filling of qui
 This is my favorite recipe for rugelach pastry dough. It is so incredibly easy to come together and it’s so tasty and rich and buttery and flaky not chewy or doughy like some other ones I have had.
 </br>
 </br>
+
 ![Quince Rugelach](/images/uploads/2018_12_20_quince_rugelach_2.jpg)
 </br>
 </br>
+
 ![Quince Rugelach](/images/uploads/2018_12_20_quince_rugelach_3.jpg)
 </br>
 </br>
@@ -25,9 +27,11 @@ This is my favorite recipe for rugelach pastry dough. It is so incredibly easy t
 I’m going to keep this super brief you guys as I have been super sick since Tuesday - some sort of weird virus and some weird rash on my face. The worst part is I haven’t been able to stay home or even visit the doctor. It’s the busiest work week at the orthodontic office that I work at as a temp as it’s the last week before it closes for holidays, so everyone and their mother is booked in for appointments and we are a little short staffed to-boot. So I have been medicating and applying cortisone cream to my face and working through it all (thank goodness for medical masks). My husband think I’m crazy but I can’t leave my poor boss in a bind. Anyways I am slowly on the mend and writing this tonight on the couch as opposed to last night when I had my fill of bone broth and oil of oregano before crashing super early. So this post had to get done tonight as soon, cookies will be obliterated from Instagram come the first day of January. Insert very big eye roll!
 </br>
 </br>
+
 ![Quince Rugelach](/images/uploads/2018_12_20_quince_rugelach_4.jpg)
 </br>
 </br>
+
 ![Quince Rugelach](/images/uploads/2018_12_20_quince_rugelach_5.jpg)
 </br>
 </br>
@@ -36,9 +40,11 @@ I’m going to keep this super brief you guys as I have been super sick since Tu
 Ok let’s talk these rugelach. I was trying to find a recipe to use my homemade quince paste in and one of my lovely followers suggested _Ottolenghi’s_ rugelach recipe that uses quince paste. I was game but I was a bit nervous. I thought making them would be way more complicated. Bottom line, they totally are not and the filling is absolutely delicious. You must make them and you can definitely can use another jam with them too but I loved them with the quince paste which is so fragrant and wonderful.
 </br>
 </br>
+
 ![Quince Rugelach](/images/uploads/2018_12_20_quince_rugelach_6.jpg)
 </br>
 </br>
+
 ![Quince Rugelach](/images/uploads/2018_12_20_quince_rugelach_7.jpg)
 </br>
 </br>
@@ -46,9 +52,11 @@ Ok let’s talk these rugelach. I was trying to find a recipe to use my homemade
 Making the quince paste is really easy and just takes a little patience if you can get your hands on some quince. If not just use store bought quince paste or jam. If you have the opportunity to make this membrillo (quince paste) you will be super happy about it! It yields quite a bit and you can make a few batches of these rugelach plus enjoy it as so many in Spain do with manchego cheese and some vino. You will be addicted to the combination of sweet floral with the buttery salt cheese. I'm making my mouth water as I type and that says a lot from someone who can partially breath through her nose right now and doesn’t have much appetite.
 </br>
 </br>
+
 ![Quince Rugelach](/images/uploads/2018_12_20_quince_rugelach_8.jpg)
 </br>
 </br>
+
 ![Quince Rugelach](/images/uploads/2018_12_20_quince_rugelach_9.jpg)
 </br>
 </br>
@@ -115,6 +123,7 @@ __For the egg wash__
 22. Remove from the oven and allow to rest on the sheets for 5 minutes before transferring to a wire rack to cool completely.
 
 </br>
+
 ![Quince Rugelach](/images/uploads/2018_12_20_quince_rugelach_10.jpg)
 </br>
 </br>
@@ -151,4 +160,5 @@ __For the egg wash__
 Rugelach recipe adapted from _Ottolenghi_ and _Williams Sonoma_ and paste recipe adapted from _Serious Eats_
 
 </br>
+
 ![Quince Rugelach](/images/uploads/2018_12_20_quince_rugelach_11.jpg)

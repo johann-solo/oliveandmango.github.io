@@ -15,6 +15,7 @@ description: This creamy baked fennel is the ideal indulgent side to serve with 
 This creamy baked fennel is the ideal indulgent side to serve with just about anything. It’s baked with cream, Parmesan cheese and rosemary. It the perfect cheesy bake for any occasion. Fennel is often overlooked or underrated. It has a fresh, aromatic anise flavor, and it can be eaten raw, sautéed, roasted, or even added to soups and sauces. I can’t get enough of if in this warming, comforting dish. 
 </br>
 </br>
+
 ![Fennel Gratin](/images/uploads/2020_12_09_fennel_gratin_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This creamy baked fennel is the ideal indulgent side to serve with just about an
 It’s so easy to make and put together. There’s really no need to prep it in advance because it comes together very fast. Most to the time, work and magic happen in the oven. It’s satiating, sophisticated, and impressive, yet still quite simple. Enjoy! 
 </br>
 </br>
+
 ![Fennel Gratin](/images/uploads/2020_12_09_fennel_gratin_3.jpg)
 </br>
 </br>
@@ -67,4 +69,5 @@ This is meant to be a rich, indulgent and delicious savoury bake up - please do 
 Adapted from _Saveur_
 
 </br>
+
 ![Fennel Gratin](/images/uploads/2020_12_09_fennel_gratin_4.jpg)

@@ -15,9 +15,11 @@ description: Veggie loaded hearty white bean soup with sausage
 A simple, flavorful recipe for kale and white bean soup, with plenty of veggies to nourish the soul – hearty comfort food at its best. This veggie loaded white bean soup is just what I’m craving and know you will be too especially when the temperatures drop and you want something that is filling but also delicious. This version uses canned white beans (I used lima beans in this one but any white beans are fine) but I have also included tips for using dried beans if you wanted to use those instead. There are layers of flavours in this soup from the veggies to the rosemary and chili flakes, but I also love to build a nice flavour base by adding sausage to this soup. I used spicy Italian sausage (cause I love the heat) but you can use mild sausage or even a vegan sausage alternative to add some extra texture and flavour to the soup. 
 </br>
 </br>
+
 ![Kale and White Bean Soup](/images/uploads/2020_10_15_kale_and_white_bean_soup_2.jpg)
 </br>
 </br>
+
 ![Kale and White Bean Soup](/images/uploads/2020_10_15_kale_and_white_bean_soup_3.jpg)
 </br>
 </br>
@@ -25,9 +27,11 @@ A simple, flavorful recipe for kale and white bean soup, with plenty of veggies 
 Like any other soup - this one also tastes even better the next day. That is why I usually make a huge batch to freeze portions of it or to have extra to enjoy for a few days if it lasts that long. It usually doesn’t though. I like to keep this soup ‘brothy’ as opposed to thick and creamy but if you prefer thick and creamy all you have to do is mash up or blend a third of the white beans before adding them to the pot. This adds a nice creamy rich texture and body to the soup without adding a thickener to it.  I love to add a bit of lemon juice to mine too - feel free to serve with some lemon wedges if you like yours with a touch of lemon juice. I also like adding a Parmesan rind to any sauce or soup including this one which instantly kicks up the flavor. The rind won't melt (though it will get soft); it will just sit in your sauce or soup and infuse it with extra umami and savor.
 </br>
 </br>
+
 ![Kale and White Bean Soup](/images/uploads/2020_10_15_kale_and_white_bean_soup_4.jpg)
 </br>
 </br>
+
 ![Kale and White Bean Soup](/images/uploads/2020_10_15_kale_and_white_bean_soup_5.jpg)
 </br>
 </br>
@@ -96,4 +100,5 @@ Total Time: 40-45 minutes
 1. Bring to a boil, skimming off any foam that comes to the surface, reduce heat, partially cover, and simmer for about 2 hours, or until tender when pierced with a fork. Then enjoy as is or add to any recipe 
 
 </br>
+
 ![Kale and White Bean Soup](/images/uploads/2020_10_15_kale_and_white_bean_soup_6.jpg)

@@ -15,12 +15,15 @@ description: How to make the best pumpkin scones. These pumpkin scones are perfe
 Having a pumpkin scone recipe that is simple and delicious should be in everyone’s scone repertoire. This recipe is the best pumpkin scone recipe I have made. It's a classic and uses basic pantry ingredients and it never disappoints. These scones turn out perfect every time. Buttery, light and soft on the inside with nice crispy edges on the outside. My husband things these are even better than their Starbucks conterpart. He finds the flavours are the same but the ones at Starbucks are crunchier. That being said we all have very different tastes when it comes to how we like our scones. My preference is the above mentioned - light, soft with crispy edges. If that is yours as well you will love them, and if it’s not you should still try them cause you may just change your mind about how you like your scones- at least your pumpkin ones.
 </br>
 </br>
+
 ![Classic Pumpkin Scones](/images/uploads/2018_11_19_classic_pumpkin_scones_2.jpg)
 </br>
 </br>
+
 ![Classic Pumpkin Scones](/images/uploads/2018_11_19_classic_pumpkin_scones_3.jpg)
 </br>
 </br>
+
 ![Classic Pumpkin Scones](/images/uploads/2018_11_19_classic_pumpkin_scones_4.jpg)
 </br>
 </br>
@@ -28,12 +31,15 @@ Having a pumpkin scone recipe that is simple and delicious should be in everyone
 The pumpkin gives them colour and moisture and the spices help that pumpkin spice flavour that we all love (most of us at least) come alive. You can keep them simple with a sprinkling of coarse raw sugar or you can go all the way with the two glazes. I personally thought I would have preferred the sugar only approach, but to my surprise I love the glazes. It’s definitely not too much or too sweet and they both compliment the scones so well and I think they are also responsible for keeping the day olds quite moist, if there are any left the next day.
 </br>
 </br>
+
 ![Classic Pumpkin Scones](/images/uploads/2018_11_19_classic_pumpkin_scones_5.jpg)
 </br>
 </br>
+
 ![Classic Pumpkin Scones](/images/uploads/2018_11_19_classic_pumpkin_scones_6.jpg)
 </br>
 </br>
+
 ![Classic Pumpkin Scones](/images/uploads/2018_11_19_classic_pumpkin_scones_7.jpg)
 </br>
 </br>
@@ -41,12 +47,15 @@ The pumpkin gives them colour and moisture and the spices help that pumpkin spic
 That was not the case at our place. They were gone quite quickly. They had barely cooled enough before we got our claws on them. I did sneak a few away to share with a sweet friend who thoroughly enjoyed them too.
 </br>
 </br>
+
 ![Classic Pumpkin Scones](/images/uploads/2018_11_19_classic_pumpkin_scones_8.jpg)
 </br>
 </br>
+
 ![Classic Pumpkin Scones](/images/uploads/2018_11_19_classic_pumpkin_scones_9.jpg)
 </br>
 </br>
+
 ![Classic Pumpkin Scones](/images/uploads/2018_11_19_classic_pumpkin_scones_10.jpg)
 </br>
 </br>
@@ -54,6 +63,7 @@ That was not the case at our place. They were gone quite quickly. They had barel
 They whip up in no time and can be made easily in the food processor or by hand. They are a hit with everyone who I have shared them with and go perfectly well with a pumpkin spiced latte - that might be pumpkin overkill but it is fall after all and we are starting to get into the cozy drink and food season so we might as well milk it! Enjoy these you guys - we adored them and think you will too!
 </br>
 </br>
+
 ![Classic Pumpkin Scones](/images/uploads/2018_11_19_classic_pumpkin_scones_11.jpg)
 </br>
 </br>
@@ -156,4 +166,5 @@ __To finish with glaze__
 Adapted from _Bon Appetit_
 
 </br>
+
 ![Classic Pumpkin Scones](/images/uploads/2018_11_19_classic_pumpkin_scones_12.jpg)

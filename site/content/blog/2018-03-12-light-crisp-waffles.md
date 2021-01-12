@@ -13,6 +13,7 @@ excerpt: The only waffle recipe you'll ever need
 Waffles are probably one of my husbands favourite breakfast foods. If we are out for breakfast he always likes to order them and test them out and always compares them to other places he has had them at or homemade ones. Homemade usually wins out because you can totally customise your homemade waffles and you never have to be self conscious about how much maple syrup your pouring over them either.  No eye rolls when you ask for more too.
 </br>
 </br>
+
 ![Crisp Waffles](/images/uploads/2018_03_12_light_crisp_waffles_2.jpg)
 </br>
 </br>
@@ -20,12 +21,15 @@ Waffles are probably one of my husbands favourite breakfast foods. If we are out
 I have read and tried a few recipes and this one is my favourite from _The Kitchn_ website. It’s simple and the waffles do really turn out light and fluffy with nice crisp edges.
 </br>
 </br>
+
 ![Crisp Waffles](/images/uploads/2018_03_12_light_crisp_waffles_3.jpg)
 </br>
 </br>
+
 ![Crisp Waffles](/images/uploads/2018_03_12_light_crisp_waffles_4.jpg)
 </br>
 </br>
+
 ![Crisp Waffles](/images/uploads/2018_03_12_light_crisp_waffles_5.jpg)
 </br>
 </br>
@@ -33,12 +37,15 @@ I have read and tried a few recipes and this one is my favourite from _The Kitch
 They key to the fluffiness is the egg whites that you mix separately adding cream of tartar to as well which acts as a stabiliser for the egg whites, keeps them supple and elastic allowing them to lift and fluff up. They get folded gently into the batter and keep the batter frothy, airy and light. A hot waffle iron does the rest including crisp all the waffle edges. Make sure to grease your iron between waffles so it’s stays non stick.  I couldn’t wait to finish the rest of the batch and ate the first few that came out of the waffle iron as soon as they came of it! Sooo good!!
 </br>
 </br>
+
 ![Crisp Waffles](/images/uploads/2018_03_12_light_crisp_waffles_6.jpg)
 </br>
 </br>
+
 ![Crisp Waffles](/images/uploads/2018_03_12_light_crisp_waffles_7.jpg)
 </br>
 </br>
+
 ![Crisp Waffles](/images/uploads/2018_03_12_light_crisp_waffles_8.jpg)
 </br>
 </br>
@@ -46,12 +53,15 @@ They key to the fluffiness is the egg whites that you mix separately adding crea
 You most definitely can add dried goods into the batter by sprinkling things like chocolate chips, dried fruit, nuts and even cooked bits of bacon (anything that doesn’t have a lot of moisture) right after you pour your batter into the waffle iron. You can even convert this recipe to a savoury waffle one.  All you have to do is leave out the vanilla, double the salt, and fold in a handful of your favourite chopped herbs and shredded cheese and that bacon I mentioned earlier.
 </br>
 </br>
+
 ![Crisp Waffles](/images/uploads/2018_03_12_light_crisp_waffles_9.jpg)
 </br>
 </br>
+
 ![Crisp Waffles](/images/uploads/2018_03_12_light_crisp_waffles_10.jpg)
 </br>
 </br>
+
 ![Crisp Waffles](/images/uploads/2018_03_12_light_crisp_waffles_11.jpg)
 </br>
 </br>
@@ -59,9 +69,11 @@ You most definitely can add dried goods into the batter by sprinkling things lik
 I did mine sweet but served it with savoury sausages (my take on chicken/meat and waffles and served it with a hibiscus infused maple syrup) they were divine. It’s basically the only waffle recipe you really need if you are looking for a quick and easy no fail one! This is a staple waffle  recipe for us and so happy I came across it and so happy to share it with you guys! Next up for waffle is finding a great lemon buttermilk one and of course a really good chocolate one - cause I gotta have those in my waffle recipe pile! Will keep you posted on my findings.
 </br>
 </br>
+
 ![Crisp Waffles](/images/uploads/2018_03_12_light_crisp_waffles_12.jpg)
 </br>
 </br>
+
 ![Crisp Waffles](/images/uploads/2018_03_12_light_crisp_waffles_13.jpg)
 </br>
 </br>

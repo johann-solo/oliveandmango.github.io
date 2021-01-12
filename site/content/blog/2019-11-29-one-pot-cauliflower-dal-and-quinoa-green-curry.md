@@ -15,6 +15,7 @@ description: A creamy green curry dish loaded with flavour and protein
 It never fails, at least once a week there is some sort of curry on the dinner table. I crave it at least once a week and many variations of it. This week comes this one pot meal that is simple to make, light yet super nourishing.
 </br>
 </br>
+
 ![One Pot Cauliflower Dal and Quinoa Green Curry](/images/uploads/2019_11_29_one_pot_cauliflower_dal_and_quinoa_green_curry_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ It never fails, at least once a week there is some sort of curry on the dinner t
 It’s loaded with veggies and greens apart from the green curry itself and lots of protein from the lentils, chickpeas and of-course the quinoa.  I love a little heat in my curry but if you don’t you can definitely control it by reducing the amount of chilies in it. It’s also quite creamy from the coconut milk. If you prefer it a little lighter you can substitute some of it with broth.
 </br>
 </br>
+
 ![One Pot Cauliflower Dal and Quinoa Green Curry](/images/uploads/2019_11_29_one_pot_cauliflower_dal_and_quinoa_green_curry_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ It’s loaded with veggies and greens apart from the green curry itself and lots
 There are a great amount of fabulous recipes out there for homemade green curry paste or sauce. Homemade curry paste is always the best. It does make all the difference in a curry dish but let’s be real we don’t always have time to make it homemade and that is ok, thank goodness to the very many decent ready made store bought ones out there that save the day. This recipe works well with both so feel free to use homemade or store bought.
 </br>
 </br>
+
 ![One Pot Cauliflower Dal and Quinoa Green Curry](/images/uploads/2019_11_29_one_pot_cauliflower_dal_and_quinoa_green_curry_4.jpg)
 </br>
 </br>
@@ -39,6 +42,7 @@ The addition of quinoa into the pot turns this curry into a full meal, one that 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com">GoGo Quinoa</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![One Pot Cauliflower Dal and Quinoa Green Curry](/images/uploads/2019_11_29_one_pot_cauliflower_dal_and_quinoa_green_curry_5.jpg)
 </br>
 </br>
@@ -77,4 +81,5 @@ Serves 4
 5. Serve garnished with more cilantro, lime slices and sliced chili’s (red or green). I also love drizzling my bowl with chili oil for a little extra heat.
 
 </br>
+
 ![One Pot Cauliflower Dal and Quinoa Green Curry](/images/uploads/2019_11_29_one_pot_cauliflower_dal_and_quinoa_green_curry_6.jpg)

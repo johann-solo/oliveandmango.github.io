@@ -17,9 +17,11 @@ description: A simple to make bundt with a touch of spice and espresso and an un
 This is a wonderfully moist pumpkin spice bundt cake with the tastiest chocolate espresso swirl and a chocolate espresso rum glaze to top it off. This cake is easy to make and delicious on its own but the glaze really puts it over the top. I always make extra glaze and save it for [chocolate waffles](https://www.oliveandmango.com/dark-chocolate-waffles-with-cherry-balsamic-compote/) or even for drizzling on my [chocolate hazelnut espresso brownies](https://www.oliveandmango.com/chocolate-hazelnut-espresso-brownies/) if I’m feeling extra.  It’s just that good. You know I love pumpkin and chocolate together.  The addition of the espresso makes it an even more delicious combo with the pumpkin.  
 </br>
 </br>
+
 ![Pumpkin Espresso Bundt Cake With A Chocolate Espresso Rum Glaze](/images/uploads/2017_12_05_pumpkin_esspresso_bundt_cake_2.jpg)
 </br>
 </br>
+
 ![Pumpkin Espresso Bundt Cake With A Chocolate Espresso Rum Glaze](/images/uploads/2017_12_05_pumpkin_esspresso_bundt_cake_3.jpg)
 </br>
 </br>
@@ -29,9 +31,11 @@ This is a wonderfully moist pumpkin spice bundt cake with the tastiest chocolate
 Making this bundt cake is very easy. I strongly recommend sticking to to using canned pumpkin puree as opposed to homemade for this recipe as the texture changes quite a bit. Homemade pumpkin puree can be a bit more watery than canned and can affect the recipe outcome.  I have recipe tested it a few times using homemade and tried to trouble shoot ratios and change the dry ingredients and in the end the canned puree yielded the most consistent and predictable outcome. You can use any shape bundt pan you like just make sure to thoroughly grease every area of it. To help ensure I get into every nook  especially if I’m using a more intricate bundt pan i use a brush to dab in the butter or baking spray into those hard to reach edges. Once you have done that just give it a light dusting with flour and your are ready to mix your ingredients. Once you have your cake baked allow it to cool in the pan just for 10-15 minutes - no more. Then invert pan onto wire rack and allow cake to cool complete before glazing.  Usually it unnecessary to have to loosen edge of cake free if the pan has been well greased. If it needs a bit of coaxing just use a knife along the edges of the pan to loosen it. 
 </br>
 </br>
+
 ![Pumpkin Espresso Bundt Cake With A Chocolate Espresso Rum Glaze](/images/uploads/2017_12_05_pumpkin_esspresso_bundt_cake_4.jpg)
 </br>
 </br>
+
 ![Pumpkin Espresso Bundt Cake With A Chocolate Espresso Rum Glaze](/images/uploads/2017_12_05_pumpkin_esspresso_bundt_cake_5.jpg)
 </br>
 </br>
@@ -41,9 +45,11 @@ Making this bundt cake is very easy. I strongly recommend sticking to to using c
 Whisk together your dry ingredients, and mix together the wet ingredients separately. Then mix the two together until incorporated. Whisk together the cocoa espresso ingredients and  to them and add 1&frac12; cups of the batter to create a chocolate batter. Starting with the pumpkin batter, scoop out 1 cup of pumpkin batter and add it to the bundt pan. Top the pumpkin batter with &frac14; cup chocolate batter. Add then &frac12; cup pumpkin batter over the top of the chocolate batter. Continue repeating layers to use up the remaining batter. That’s pretty much it. I will usually give my pan a little tap before baking it and then it goes straight in the oven. 
 </br>
 </br>
+
 ![Pumpkin Espresso Bundt Cake With A Chocolate Espresso Rum Glaze](/images/uploads/2017_12_05_pumpkin_esspresso_bundt_cake_6.jpg)
 </br>
 </br>
+
 ![Pumpkin Espresso Bundt Cake With A Chocolate Espresso Rum Glaze](/images/uploads/2017_12_05_pumpkin_esspresso_bundt_cake_7.jpg)
 </br>
 </br>
@@ -126,4 +132,5 @@ Bundt Cakes are always showstoppers even when they are made in the most basic bu
 Make Ahead Instructions: You can make the entire cake ahead of time (before topping with glaze  or icing). Cover cooled cake and refrigerate for up to 2 days. Bring to room temperature before glazing and serving. Baked cake can be frozen up to 3 months. Allow to thaw overnight in the refrigerator and bring to room temperature before icing and serving.
 
 </br>
+
 ![Pumpkin Espresso Bundt Cake With A Chocolate Espresso Rum Glaze](/images/uploads/2017_12_05_pumpkin_esspresso_bundt_cake_8.jpg)

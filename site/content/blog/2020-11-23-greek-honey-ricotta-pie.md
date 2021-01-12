@@ -15,6 +15,7 @@ description: Creamy honey ricotta filling baked in a buttery flaky pie crust
 This Greek honey ricotta pie (melopita) is made up of a simple, light and fluffy filling with a texture between a cheesecake and a baked custard. It’s traditionally made crust less but I decided to make it into a pie as I love my [honey pies](https://www.oliveandmango.com/salty-honey-pie/). Making it into a pie gives it extra texture in each bite with its buttery crisp crust. Its golden brown out the oven and served with extra honey spread on top and dusted with cinnamon.⁣ 
 </br>
 </br>
+
 ![Greek Honey Ricotta Pie Melopita](/images/uploads/2020_11_23_greek_honey_ricotta_pie_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This Greek honey ricotta pie (melopita) is made up of a simple, light and fluffy
 The word "melopita" basically translates as honey pie. Because this pie is sweetened with honey and then served with honey, it’s good to choose a wild blossom honey which has a richer flavour and adds so much more  to this pie. Feel free to use an infused one with this pie too if you have one you love like a lavender or citrus infused one. Choose one with a strong flavor that you like. I love serving mine with some honey comb over it. Not only does it help identify what kind of pie it is but it’s an extra treat to enjoy with the pie. 
 </br>
 </br>
+
 ![Greek Honey Ricotta Pie Melopita](/images/uploads/2020_11_23_greek_honey_ricotta_pie_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ The word "melopita" basically translates as honey pie. Because this pie is sweet
 Although this is called a honey pie in Greek, its does feature cheese in it. The original recipe calls for anthotyro which is a soft, ricotta like cheese. Many other versions use a soft myzithra/mizithra cheese too. An easy substitute and one I often use is fresh ricotta. The filling will be as good as your ricotta is so make sure to choose a creamy rich ricotta to go into this pie. 
 </br>
 </br>
+
 ![Greek Honey Ricotta Pie Melopita](/images/uploads/2020_11_23_greek_honey_ricotta_pie_4.jpg)
 </br>
 </br>
@@ -40,6 +43,7 @@ When it comes to the original recipe for this honey ricotta pie, it’s naturall
 The only difference when it comes to this GF pie dough is that you roll it out right after you make it. When I use all purpose flour I allow the dough to rest or fully hydrate in the fridge overnight. This particular dough behaves a little better or is a bit easier to roll out if done immediately. It rolls out quiet easily and nicely. Once I roll it out I fit it in my pie plate and crimp it and then I allow it to rest for 1 hour or overnight in the fridge before I bake it. It’s the perfect pie dough if you are looking for a gluten free alternative. It’s great for pies and also great for galettes or to top savoury pot pies with. It makes 2 pie dough discs, so I usually freeze one for another pie or galette.  
 </br>
 </br>
+
 ![Greek Honey Ricotta Pie Melopita](/images/uploads/2020_11_23_greek_honey_ricotta_pie_5.jpg)
 </br>
 </br>
@@ -119,4 +123,5 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 * This filling is mildly spiced. Feel free to increase the amount of vanilla extract or cinnamon in it according to taste. Or I will also often times add a shot of brandy for extra flavour.
 
 </br>
+
 ![Greek Honey Ricotta Pie Melopita](/images/uploads/2020_11_23_greek_honey_ricotta_pie_6.jpg)

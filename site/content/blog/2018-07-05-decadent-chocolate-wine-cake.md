@@ -12,6 +12,7 @@ excerpt: Add some lusciousness to your basic chocolate cake
 Snack cakes are probably the easiest and quickest cakes to make from scratch. They involve super basic ingredients and usually made in own bowl and with a whisk or a wooden spoon. You don’t even need to bring out your hand or standing mixer.
 </br>
 </br>
+
 ![Decadent Chocolate Wine Cake](/images/uploads/2018_07_05_decadent_chocolate_wine_cake_2.jpg)
 </br>
 </br>
@@ -19,9 +20,11 @@ Snack cakes are probably the easiest and quickest cakes to make from scratch. Th
 I thought I would amp up a basic chocolate snack cake by adding some wine. Truth be told I made this cake for National Wine Day. I was looking for a good dessert wine pairing and came across this little gem of a recipe from _Food and Wine_. I tweaked it ever so slightly. I used chocolate chips because that’s what I had on hand and I also used pure cane syrup instead of corn syrup for the ganache because I personally like using it instead of corns syrup. I also added some grated chocolate over the ganache and some pink salt as I usually do to most chocolatey things as you may have noticed.
 </br>
 </br>
+
 ![Decadent Chocolate Wine Cake](/images/uploads/2018_07_05_decadent_chocolate_wine_cake_3.jpg)
 </br>
 </br>
+
 ![Decadent Chocolate Wine Cake](/images/uploads/2018_07_05_decadent_chocolate_wine_cake_4.jpg)
 </br>
 </br>
@@ -29,9 +32,11 @@ I thought I would amp up a basic chocolate snack cake by adding some wine. Truth
 As soon as I saw the recipe I knew I had to try it. I wondered what it would taste like and how strong the wine flavour would be. If you love red wine you will definitly love chocolate wine cake. If you don’t, you may not know that there’s wine in it but you will definitely know it’s more than chocolate in the cake. The wine adds a richness to to the cocoa flavour. It doesn’t taste like alcohol (or alcoholy as I say) in it but if you are looking for it you will taste wine. A luxurious kind of flavour in a such a simple cake.
 </br>
 </br>
+
 ![Decadent Chocolate Wine Cake](/images/uploads/2018_07_05_decadent_chocolate_wine_cake_5.jpg)
 </br>
 </br>
+
 ![Decadent Chocolate Wine Cake](/images/uploads/2018_07_05_decadent_chocolate_wine_cake_6.jpg)
 </br>
 </br>
@@ -39,9 +44,11 @@ As soon as I saw the recipe I knew I had to try it. I wondered what it would tas
 The flavour carries into the ganache too which is quite silky and decadent and deliciously coats the cake. Chocolate wine cake has a nice light and crumbly texture to it. Not overly moist but not dry as well. It’s just the right texture. Me and my husband both loved this cake. We easily ate two pieces right after we shot these pics and then we gave a few slices to a dear friend of ours who also loved it and she is not a wine drinker.
 </br>
 </br>
+
 ![Decadent Chocolate Wine Cake](/images/uploads/2018_07_05_decadent_chocolate_wine_cake_7.jpg)
 </br>
 </br>
+
 ![Decadent Chocolate Wine Cake](/images/uploads/2018_07_05_decadent_chocolate_wine_cake_8.jpg)
 </br>
 </br>
@@ -49,6 +56,7 @@ The flavour carries into the ganache too which is quite silky and decadent and d
 That being said - would I serve and make this for everyone? Probably not, unless you are taking it where there might be another option for dessert as some may not want alcohol in their dessert or may not like wine. I am definitely making it again and again for my family cause we love it. This would be a fabulous cake for a wine and cheese party or gathering where you know everyone will appreciate a little wine in their dessert. Cause what’s a better treat in life than wine and chocolate after all?
 </br>
 </br>
+
 ![Decadent Chocolate Wine Cake](/images/uploads/2018_07_05_decadent_chocolate_wine_cake_9.jpg)
 </br>
 </br>
@@ -100,4 +108,5 @@ __For the ganache__
 1. Stir in powdered sugar and 2 tablespoons wine. Let stand at room temperature until slightly thickened then spread over cooked cake and serve with a glass of wine if you wish.
 
 </br>
+
 ![Decadent Chocolate Wine Cake](/images/uploads/2018_07_05_decadent_chocolate_wine_cake_10.jpg)

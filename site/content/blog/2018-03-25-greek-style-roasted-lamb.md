@@ -14,6 +14,7 @@ description: Learn how to make classic Greek style roasted lamb that is tender, 
 Let me tell you a little bit about dining with Greeks or at least dining with my family. A big Sunday dinner is never just what I have served here.  I like to keep things simple. This has taken me a long time to figure out and sometimes it still kills me, but less is truly more. It's a fact, and one that goes against the grain of Greeks and of course many other cultures, Trinidadians included. That is not the way I grew up though. My mom would prepare a roast just like this plus a _pastitsio_, Greek rice, _keftedakia_, _loukanika_, and a whole bunch of other sides and meats and oooooh I become dizzy just thinking about preparing all that food.
 </br>
 </br>
+
 ![Greek Style Roasted Lamb](/images/uploads/2018_03_25_greek_style_roasted_lamb_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ Let me tell you a little bit about dining with Greeks or at least dining with my
 In the end nothing was wasted. You had leftovers for days and everyone was happy. It’s totally excessive though and my poor mom literally was chained to the kitchen for the entire day and right through dinner. She too has gotten tired of it all and keeps things much simpler. When it comes to a family dinner we both now agree that streamlined is the better option. That way we both get to enjoy the sitting and eating process as much as the guests.
 </br>
 </br>
+
 ![Greek Style Roasted Lamb](/images/uploads/2018_03_25_greek_style_roasted_lamb_3.jpg)
 </br>
 </br>
+
 ![Greek Style Roasted Lamb](/images/uploads/2018_03_25_greek_style_roasted_lamb_4.jpg)
 </br>
 </br>
@@ -31,9 +34,11 @@ In the end nothing was wasted. You had leftovers for days and everyone was happy
 That whole process still goes against everything we were trained to do. We still always have this nagging feeling of "we should have also made this that or the other". Maybe that will eventually wear off. Or maybe it won’t - me and my Greek friends call that Greek guilt. I think I have spoken about it before but its a real nagging sense of guilt that lingers every time you do something non-Greek, or think non-Greek - God forbid! Hee hee! I’m Greek by ethnicity. I love the rich culture, the food, the dancing, rich history, the language (which I can speak and write thanks to my father’s tireless efforts) but I’m not as defined by it as I should be or at least I’m expected to be. There goes that Greek guilt again. Anyways you get my drift. I’m Greek but I’m not that Greek, or at least I don’t think I am.  Let’s talk about this roast shall we....
 </br>
 </br>
+
 ![Greek Style Roasted Lamb](/images/uploads/2018_03_25_greek_style_roasted_lamb_5.jpg)
 </br>
 </br>
+
 ![Greek Style Roasted Lamb](/images/uploads/2018_03_25_greek_style_roasted_lamb_6.jpg)
 </br>
 </br>
@@ -42,9 +47,11 @@ That whole process still goes against everything we were trained to do. We still
 As you see the lamb is very nice and browned, some may even say over done. It does have nice and charred edges. Greeks tend to like their lamb well done and it may look overly done but that is the way we like it – well done with a beautiful crispness to it but the interior is tender and oh so good.
 </br>
 </br>
+
 ![Greek Style Roasted Lamb](/images/uploads/2018_03_25_greek_style_roasted_lamb_7.jpg)
 </br>
 </br>
+
 ![Greek Style Roasted Lamb](/images/uploads/2018_03_25_greek_style_roasted_lamb_8.jpg)
 </br>
 </br>
@@ -52,9 +59,11 @@ As you see the lamb is very nice and browned, some may even say over done. It do
 This was my second time roasting a lamb. Big pieces of meat have always scared me but I am getting less afraid of cooking them. Lamb is always a treat and I always love a Greek style lamb. The flavours always take me back to big dinners with family. My mom didn’t make it often because us kids didn’t have an appreciation for it but we have grown to love it along with my grandparents and aunts roasted _katsiki_ or goat.
 </br>
 </br>
+
 ![Greek Style Roasted Lamb](/images/uploads/2018_03_25_greek_style_roasted_lamb_9.jpg)
 </br>
 </br>
+
 ![Greek Style Roasted Lamb](/images/uploads/2018_03_25_greek_style_roasted_lamb_10.jpg)
 </br>
 </br>
@@ -62,6 +71,7 @@ This was my second time roasting a lamb. Big pieces of meat have always scared m
 The first time I had a whole roasted one was in Greece. I was like 12 probably and I remember it clearly as if it was yesterday. We arrived at my grandparents house late at night and early the next day I ventured out to use the bathroom (outhouse), to get the scare of a lifetime.  I opened the door and before I could rub the sleep out of my eyes I was confronted with a hanging goat getting skinned by my uncle. Those few months were an eye opener in my life and were some of best filled memories of my childhood. That goat was part of my grandfathers herd. I got to go far into the mountains with him and my cousins, tend goats, milking them, watching babies get delivered, feeding the babies. It was amazing and then finally (I hate the way his sounds) eating that particular one from the mornings scare was a very delicious experience. I can’t help but feel like Hannibal Lector saying that. I’m over it already though.
 </br>
 </br>
+
 ![Greek Style Roasted Lamb](/images/uploads/2018_03_25_greek_style_roasted_lamb_11.jpg)
 </br>
 </br>

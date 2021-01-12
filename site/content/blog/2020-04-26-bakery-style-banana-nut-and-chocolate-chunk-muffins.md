@@ -14,6 +14,7 @@ description: These perfectly domed muffins are so easy to make and loaded with n
 These bakery style banana nut chocolate chunk muffins have the most irresistible muffin tops (perfect fluffy domes). They are so easy to make and they are always a hit at the breakfast or brunch table. They make a great grab and go snack or breakfast if you remember to make a batch ahead of the week making your Monday better and saving the you the visit to the drive through. 
 </br>
 </br>
+
 ![Bakery Style Banana Nut and Chocolate Chunk Muffins](/images/uploads/2020_04_26_bakery_style_banana_nut_and_chocolate_chunk_muffins_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ These bakery style banana nut chocolate chunk muffins have the most irresistible
 How do you get those perfect domes on muffins? Easy. There are just a few simple helpful tips that can get you those bakery style tasting and looking muffins. First is not to over mix the batter.  Defining mash and cream your bananas well but don’t over do it with the batter itself. Just mix until the dry ingredients are incorporated. Treat this batter like it’s pancake batter. Lumps are good - leave the lumps alone! Another factor is to make sure you fill the muffin tins or liners to the top. I know a lot of recipes call for just filling them half way to &frac34; of the way but to get those domes you need to fill to the top. That means you will only get a dozen per batch but it’s worth it. 
 </br>
 </br>
+
 ![Bakery Style Banana Nut and Chocolate Chunk Muffins](/images/uploads/2020_04_26_bakery_style_banana_nut_and_chocolate_chunk_muffins_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ How do you get those perfect domes on muffins? Easy. There are just a few simple
 Another factor that I didn’t realize made such a difference is baking them off at a higher initial temperature for just a few minutes to give them a baking boost so to speak. Once those few minutes are up you reduce the temperature and continue baking. That initial boost or spike really helps inflate those muffin tops. Arm yourself with those 3 tips and you will get yourself bakery-style muffins every time. 
 </br>
 </br>
+
 ![Bakery Style Banana Nut and Chocolate Chunk Muffins](/images/uploads/2020_04_26_bakery_style_banana_nut_and_chocolate_chunk_muffins_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ Another factor that I didn’t realize made such a difference is baking them off
 My family loves banana bread - I’m always buying bananas for my smoothies and my breakfast bowls but I seem to be the only one eating them that way - the rest of the family loves to see them sit and get speckled and eventually if they wait long enough, get turned into banana bread, cake or these muffins. I don’t blame them - these are perfect with a cup of coffee or tea and I love mine warmed up with a bit of butter. 
 </br>
 </br>
+
 ![Bakery Style Banana Nut and Chocolate Chunk Muffins](/images/uploads/2020_04_26_bakery_style_banana_nut_and_chocolate_chunk_muffins_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ My family loves banana bread - I’m always buying bananas for my smoothies and 
 This is a great standard banana muffin recipe that you are welcome to keep the same or amend according to your preference. You can use any nut or leave them out completely. Same goes for the chocolate chunks. Leave the out or swap with chips instead. You could replace them with dried fruit or seeds making up the same measurements or you can just leave them plain. I love my banana bread and muffins with loads of crunchy bits but I know that is not everyone’s jam - so feel free to doctor them up as you please. We love them for many reasons - they are delicious and I especially love how easy they are to make - a bowl and whisk recipe. Making a batch today means a happy day today and an even happier day tomorrow! Enjoy. 
 </br>
 </br>
+
 ![Bakery Style Banana Nut and Chocolate Chunk Muffins](/images/uploads/2020_04_26_bakery_style_banana_nut_and_chocolate_chunk_muffins_6.jpg)
 </br>
 </br>
@@ -108,4 +113,5 @@ Makes 12 Bakery style muffins
 7. To store muffins place them in a plastic bag, seal, and store at room temperature for up to 3 days.
 
 </br>
+
 ![Bakery Style Banana Nut and Chocolate Chunk Muffins](/images/uploads/2020_04_26_bakery_style_banana_nut_and_chocolate_chunk_muffins_7.jpg)

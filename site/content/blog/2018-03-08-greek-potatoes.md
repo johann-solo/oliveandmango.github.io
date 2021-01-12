@@ -15,6 +15,7 @@ description: The perfect summer potato salad full of fresh herbs and a lemony vi
 The perfect summer potato salad full of fresh herbs and a lemony vinaigrette. It’s simple to make - and can be served either warm or cold.
 </br>
 </br>
+
 ![Greek-style potato salad](/images/uploads/2018_03_08_greek_potatoes_2.jpg)
 </br>
 </br>
@@ -22,12 +23,15 @@ The perfect summer potato salad full of fresh herbs and a lemony vinaigrette. It
 Summer BBQ’s aren’t the same without a potato salad.  I’m a fan of all of them from creamy to herby. There are two types that I make often and are my go-to potato salads. One of them is a crispy bacon creamy potato salad and the second is this Greek style potato salad. 
 </br>
 </br>
+
 ![Greek-style potato salad](/images/uploads/2018_03_08_greek_potatoes_3.jpg)
 </br>
 </br>
+
 ![Greek-style potato salad](/images/uploads/2018_03_08_greek_potatoes_4.jpg)
 </br>
 </br>
+
 ![Greek-style potato salad](/images/uploads/2018_03_08_greek_potatoes_5.jpg)
 </br>
 </br>
@@ -35,12 +39,15 @@ Summer BBQ’s aren’t the same without a potato salad.  I’m a fan of all of 
 This salad is a nice change to the heavier creamier potato salads out there. This potato salad has more of a fresh and tangy flavour with its fresh herbs and lemony dressing. My husband calls those the ‘Greek trinity’ of flavours: lemon, oregano and olive oil. I think our flavours expand further than that but those three are definitely staples in many dressings and recipes including this one.
 </br>
 </br>
+
 ![Greek-style potato salad](/images/uploads/2018_03_08_greek_potatoes_6.jpg)
 </br>
 </br>
+
 ![Greek-style potato salad](/images/uploads/2018_03_08_greek_potatoes_7.jpg)
 </br>
 </br>
+
 ![Greek-style potato salad](/images/uploads/2018_03_08_greek_potatoes_8.jpg)
 </br>
 </br>
@@ -48,9 +55,11 @@ This salad is a nice change to the heavier creamier potato salads out there. Thi
 This salad can be enjoyed warm or chilled and even better the day after when the potatoes have absorbed all the lemony herby flavours. I also love adding feta to mine and making a meal out of these potatoes. It’s a great potato salad to bring to a potluck or a picnic. It has no dairy or mayo so it can sit out a little longer without the threat of food poisoning. They are perfect for all to enjoy because they are gluten free and vegan. 
 </br>
 </br>
+
 ![Greek-style potato salad](/images/uploads/2018_03_08_greek_potatoes_9.jpg)
 </br>
 </br>
+
 ![Greek-style potato salad](/images/uploads/2018_03_08_greek_potatoes_10.jpg)
 </br>
 </br>
@@ -93,4 +102,5 @@ Serves 4-6 as a side
 This recipe is flexible. Feel free to reduce or increase the amount of herbs or onions that you use along with how lemony you like them. I also love adding capers to mine for extra briny flavour and I have been known to toss in some feta. Enjoy! 
 
 </br>
+
 ![Greek-style potato salad](/images/uploads/2018_03_08_greek_potatoes_11.jpg)

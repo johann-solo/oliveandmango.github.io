@@ -14,6 +14,7 @@ description: A berry-filled simple pound cake infused with lilac
 A berry-filled simple pound cake infused with lilac. Simple and sweet with subtle hints of lilac. The perfect cake to slice with your afternoon tea or enjoy on you brunch table. Basic pantry ingredients transformed into a lovely treat. 
 </br>
 </br>
+
 ![Lilac Lemon Blackberry Pound Cake With a Lilac Glaze](/images/uploads/2019_06_10_lilac_lemon_blackberry_pound_cake_with_a_lilac_glaze_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ A berry-filled simple pound cake infused with lilac. Simple and sweet with subtl
 It’s one year since we moved back to Canada from Trinidad. It’s been a very chaotic year - a year of change on so many levels - a difficult year. Naturally this brings on some anxiety and stress but we have been trying to see the upside of things, and the blog has played a small part in helping us do that. It’s helped me look forward to change - change of season, change of employment focus, change in many other things too. I’m not one to ever hold back with change and I have learned that Im quite adaptable but I need some sort of consistency in my life. There are certain factors that help with that and a small portion has been the blog. So I’m grateful for that and it’s something that keeps me on my toes and organized as well. 
 </br>
 </br>
+
 ![Lilac Lemon Blackberry Pound Cake With a Lilac Glaze](/images/uploads/2019_06_10_lilac_lemon_blackberry_pound_cake_with_a_lilac_glaze_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ It’s one year since we moved back to Canada from Trinidad. It’s been a very 
 That is what my year has been like. I bring this up only because I was trying to figure out why I didn’t do anything with lilac last year (thus the reminiscing of the year). The explanation is that lilac season was two weeks later than last year and so it was practically done by the time we got here last year. That is why I was so happy to have lilac season roll around this year and actually be present for it. I love the way you can smell it in the air in my neighborhood. There are so many trees around that it’s scent is always wafting around. I have always wanted to make lilac sugar and when I was researching the sugar I came across a lilac syrup recipe by one of my faves Kayley McCabe of _The Kitchen McCabe_. I knew I had to make both and then I had to figure out what to do with them. 
 </br>
 </br>
+
 ![Lilac Lemon Blackberry Pound Cake With a Lilac Glaze](/images/uploads/2019_06_10_lilac_lemon_blackberry_pound_cake_with_a_lilac_glaze_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ That is what my year has been like. I bring this up only because I was trying to
 The lilac I foraged from a dear friends tree was white lilac variety so I gave up looking for recipes with a lilac coloured  glaze, until I read Kayley’s post. She uses blackberries or blueberries to steep with the lilac imparting a lovely purple’ish tinge to it. That got me thinking of recipes that I could make with the lilac syrup and sugar that would include blackberries and immediately thought - lemon berry loaf. I found a very simple recipe that I made twice before and loved due to it’s simplicity. I decided to use the lilac infused sugar in place of the regular in the recipe and then make a fragrant glaze to go with it. 
 </br>
 </br>
+
 ![Lilac Lemon Blackberry Pound Cake With a Lilac Glaze](/images/uploads/2019_06_10_lilac_lemon_blackberry_pound_cake_with_a_lilac_glaze_5.jpg)
 </br>
 </br>
@@ -102,4 +106,5 @@ Scrape the batter into prepared pan and bake for 50-60 minutes, until golden and
 4. When ready to use, strain the syrup through a fine mesh sieve, pressing on the blossoms to extract all of the syrup. Stir in the lemon juice. Pour the syrup back into the jar and store sealed in the fridge for several months and enjoy in this cake glaze, and in cocktails.
 
 </br>
+
 ![Lilac Lemon Blackberry Pound Cake With a Lilac Glaze](/images/uploads/2019_06_10_lilac_lemon_blackberry_pound_cake_with_a_lilac_glaze_6.jpg)

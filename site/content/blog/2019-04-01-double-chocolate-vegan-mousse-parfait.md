@@ -14,6 +14,7 @@ description: A vegan desserts with creamy layers of chocolate mousse and vanilla
 Mousse is one of my favourite desserts to have. I have always loved it, but I grew in taste for it after a trip I took to Portugal several years back. It seemed to be a popular dessert wherever we went and they made them in all sorts of flavours. The most popular ones I remember us having were chocolate, citrus and passion fruit. I loved them all but kept going for the chocolate. It was and is my all time favourite. Mousse is light and velvety on the tongue and so irresistible.  I already have a really good vegan mousse on the blog but I wanted to create one using just a few simple ingredients. That was always on the back burner.  I only recently thought of making it again when I got some <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/double-chocolate-quinoa-cookies/">Double Chocolate GoGo Quinoa cookies</a></span> and thought that apart from snacking on them, they would make the perfect simple chocolatey base for my mousse making it a layered mousse parfait. That is what I did and it’s was sooo simple to make and also sooooo delicious. Let’s talk about these layers.
 </br>
 </br>
+
 ![Double Chocolate Vegan Mousse Parfait](/images/uploads/2019_04_01_double_chocolate_vegan_mousse_parfait_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ Mousse is one of my favourite desserts to have. I have always loved it, but I gr
 Let’s start from the bottom shall we. I love <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/double-chocolate-quinoa-cookies/">GoGo Quinoa</a></span> cookies for their extra crunchy texture. They are made with quinoa flour, and are vegan and gluten free. They have a wonderful deep cocoa flavour to them and make the perfect snack but also make a great base for a tart or cheesecake and in this case this parfait. They are already sweet enough for me so I don’t add any sugar when I’m making them into a crumb layer. I only add enough coconut oil to help the crumbs to come together. Also for this recipe I don’t grind them down quite until they are super fine crumbs. I like a bit of texture so if there are slightly larger crumbs in the mix it’s fine. They get pressed into a jar and then topped with mousse. Each bite has a bit of texture from each layer which is a delight to the tongue.
 </br>
 </br>
+
 ![Double Chocolate Vegan Mousse Parfait](/images/uploads/2019_04_01_double_chocolate_vegan_mousse_parfait_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ Let’s start from the bottom shall we. I love <span class="highlight"><a rel="n
 I always wanted to make mousse with coconut cream and glad I am I could had this opportunity with this collaboration. It’s the absolute easiest thing to make. It requires so few ingredients and a mixer and that is it.  My advice is to use coconut cream and coconut cream only as coconut milk will not give you the same texture even if you refrigerate it overnight to separate the liquid from the solids. Speaking of that very method I wanted to share what I found when I experimented with this recipe and coconut cream. I made it twice. The first time I made the mousse and whip part without refrigerating the can of cream overnight and I found that it whipped up well but not as frothy. But it was so easy to pour into the jars and didn’t need any piping for the mousse part. And it’s set a lot smoother than the other method - the taste was exactly the same but the texture slightly smoother. It wasn’t as frothy though as it didn’t whip as high or as well as the cream using the other method. Also the fridge over night method made piping the whip cream a lot easier.
 </br>
 </br>
+
 ![Double Chocolate Vegan Mousse Parfait](/images/uploads/2019_04_01_double_chocolate_vegan_mousse_parfait_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ I always wanted to make mousse with coconut cream and glad I am I could had this
 When making it the other way (no refrigeration) I had to refrigerate it after whipping to firm it up a bit before I could pipe it. So in conclusion - refrigerating the cream over night separates the solid and liquids a lot better but is slightly less smooth but a lot more frothy that not refrigerating it. Regardless of the method, when using the coconut cream, you must only use the solids from the can. Do not add in any liquid parts to the solids when mixing. It usually is quite thick and already semi separated from the liquids in the can so it’s should be easy enough to do. Both methods yield a very delicious mousse - they may differ slightly in texture but still so so good either way.
 </br>
 </br>
+
 ![Double Chocolate Vegan Mousse Parfait](/images/uploads/2019_04_01_double_chocolate_vegan_mousse_parfait_5.jpg)
 </br>
 </br>
@@ -44,6 +48,7 @@ When making it the other way (no refrigeration) I had to refrigerate it after wh
 It’s a sweet treat that is the perfect size to satisfy a sweet craving. Its has a deep and wonderful cocoa flavour with a subtle coconut undertone to it which comes as no surprise as it’s made of coconut cream. It’s dairy free, gluten free and vegan and looks super impressive layered in a glass jar. I love it for company and it’s a dessert that is enjoyed by all whether they are vegan or not.  My family loved it and two of them in particular are the toughest critics. If you are looking for a vegan alternative to mousse this is def a fabulous one.
 </br>
 </br>
+
 ![Double Chocolate Vegan Mousse Parfait](/images/uploads/2019_04_01_double_chocolate_vegan_mousse_parfait_6.jpg)
 </br>
 </br>
@@ -51,6 +56,7 @@ It’s a sweet treat that is the perfect size to satisfy a sweet craving. Its ha
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com">GoGo Quinoa</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Double Chocolate Vegan Mousse Parfait](/images/uploads/2019_04_01_double_chocolate_vegan_mousse_parfait_7.jpg)
 </br>
 </br>
@@ -106,4 +112,5 @@ __For the double chocolate cookie base__
 Adapted from _Blissful Basil_ and _The Kitchn_
 
 </br>
+
 ![Double Chocolate Vegan Mousse Parfait](/images/uploads/2019_04_01_double_chocolate_vegan_mousse_parfait_8.jpg)

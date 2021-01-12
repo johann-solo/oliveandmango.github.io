@@ -14,6 +14,7 @@ description: Caramelized spiced apples nestled between a shortbread crust and a 
 Nothing makes me smile wider than the scent of apple pie baking – apple pie spice is key in making the best apple pie but it’s use goes beyond apple pie itself – these bars are simple to whip up and the apple pie spice blend is perfect in the bars and also in the fabulous spiced pecan caramel sauce that is drizzled on these bars before serving. Simple, quick and delicious to make and a taste of fall in each bite.
 </br>
 </br>
+
 ![Apple Kuchen Bars With A Spiced Salted Pecan Caramel](/images/uploads/2018_11_18_apple_kuchen_bars_with_a_spiced_salted_pecan_caramel_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Nothing makes me smile wider than the scent of apple pie baking – apple pie sp
 What is apple kuchen? Kuchen is German for cake – and there are many different apple kuchen/cake recipes out there. These Apple Kuchen Bars have all of the same wonderful flavors of the traditional cake recipes plus a good old apple pie, but with the texture of a cookie bar. They are always a crowd pleaser and they can also feed a crowd too so perfect for taking to a gathering or making for a large dinner party. They are made in slab form and can be cut into small or larger pieces. They are always a hit wherever I take them. I usually keep half and share the rest with friends.
 </br>
 </br>
+
 ![Apple Kuchen Bars With A Spiced Salted Pecan Caramel](/images/uploads/2018_11_18_apple_kuchen_bars_with_a_spiced_salted_pecan_caramel_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ What is apple kuchen? Kuchen is German for cake – and there are many different
 The bars are made with three delicious and simple layers. The bottom layer is very much a shortbread crust. That means buttery, flaky and fabulous. The crust pre bakes alone for the first 20 minutes of baking to allow the crust to set and provide a good base for the the next layer. The next layer or middle layer is thinly sliced apples simply tossed with some sugar, apple pie spice and vanilla. That’s all the apples need. They caramelize beautifully baked between the two buttery layers and soften up and are a delight to bite through.
 </br>
 </br>
+
 ![Apple Kuchen Bars With A Spiced Salted Pecan Caramel](/images/uploads/2018_11_18_apple_kuchen_bars_with_a_spiced_salted_pecan_caramel_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ The bars are made with three delicious and simple layers. The bottom layer is ve
 The top later is almost like a shortbread crumble. It’s not hard and crispy but soft and fluffy with some crispy peaks and crunchy bits of toasted pecan. All the layers and different textures come together to make these irresistible bars.
 </br>
 </br>
+
 ![Apple Kuchen Bars With A Spiced Salted Pecan Caramel](/images/uploads/2018_11_18_apple_kuchen_bars_with_a_spiced_salted_pecan_caramel_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ The top later is almost like a shortbread crumble. It’s not hard and crispy bu
 Want to make them even more irresistible? Drizzle some of the spiced salted pecan caramel over them for an extra layer of apple pie spice. Yes I could have my [homemade caramel sauce](https://www.oliveandmango.com/homemade-salted-caramel-sauce/), which is delicious with these bars, but I saw a recipe for this vegan caramel sauce that I thought would be perfect with these bars. No these bars are not vegan (I’m sure they could be using vegan butter) and I wasn’t looking for a vegan glaze or sauce for them. I just stumbled upon this one and needed to try it, and now you NEED to try it too. It’s creamy and smooth and the flavours are perfect with the apple Kuchen Bars.
 </br>
 </br>
+
 ![Apple Kuchen Bars With A Spiced Salted Pecan Caramel](/images/uploads/2018_11_18_apple_kuchen_bars_with_a_spiced_salted_pecan_caramel_6.jpg)
 </br>
 </br>
@@ -49,6 +54,7 @@ Want to make them even more irresistible? Drizzle some of the spiced salted peca
 From the top drizzle to the bottom these apple bars are full of the Fall season’s most wonderful flavours. I used [Club House Apple Pie Spice](https://www.helloflavour.ca/our-brands/club-house/products/herbs-and-spices/spices/apple-pie-spice) and it’s a warm spice blend of cinnamon, nutmeg and allspice is perfect for all your fall baking. These warm spices will infuse fall flavours to dishes and your home all year round. This fragrant apple pie spice blend can be used in more than just apple pie as I have shown you through this recipe but can be enjoyed in so many more dishes and drinks. For more wonderful ideas on how to use these spice blends and fill your kitchen and home with the aromas of fall do check out HelloFlavour.ca. 
 </br>
 </br>
+
 ![Apple Kuchen Bars With A Spiced Salted Pecan Caramel](/images/uploads/2018_11_18_apple_kuchen_bars_with_a_spiced_salted_pecan_caramel_7.jpg)
 </br>
 </br>
@@ -60,6 +66,7 @@ I’m about to refill my cup of coffee and enjoy a small slice of these apple Ku
 This is a sponsored post for _Club House_.  All thoughts and views are my own.
 </br>
 </br>
+
 ![Apple Kuchen Bars With A Spiced Salted Pecan Caramel](/images/uploads/2018_11_18_apple_kuchen_bars_with_a_spiced_salted_pecan_caramel_8.jpg)
 </br>
 </br>
@@ -118,4 +125,5 @@ To make your own pecan butter, toast pecans in the oven until golden brown. Let 
 Adapted from _Taste of Home_ and _The Green Life_
 
 </br>
+
 ![Apple Kuchen Bars With A Spiced Salted Pecan Caramel](/images/uploads/2018_11_18_apple_kuchen_bars_with_a_spiced_salted_pecan_caramel_9.jpg)

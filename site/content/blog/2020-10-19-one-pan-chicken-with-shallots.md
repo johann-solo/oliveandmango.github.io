@@ -15,6 +15,7 @@ description: A delicious one pan chicken dish with a Dijon white wine sauce
 This delicious one pan chicken dish with a Dijon white wine sauce is quite easy to put together and one of those dishes that once you have your prep done and chicken browned you are set to just allow it to simmer and do it’s thing until it’s cooked through. The pan juices are delicious - Dijon, white wine and thyme plus all the flavours from browning the chicken. Those are always the makings of something delicious. The shallots are sweet and caramelized by the time the dish is done. They sort of melt away in the pan. The tomatoes are extra but add just the right amount of acidity to the overall dish. I have made it with or without them and I love the dish both ways but I do enjoy the extra texture and acidity that they add to balance out the dish. 
 </br>
 </br>
+
 ![One Pan Chicken With Shallots](/images/uploads/2020_10_19_one_pan_chicken_with_shallots_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This delicious one pan chicken dish with a Dijon white wine sauce is quite easy 
 This is a recipe I saw in my inbox from NYT cooking - I’m on their email list and this recipe was on their weekly series ‘what to cook this week’. It’s a wonderful recipe by Rishia Zimmern that was printed in the New York Times a while back. I was drawn to it immediately for a few reasons. It’s a simple one pan chicken dish.  Chicken thighs specifically.  If you don’t already know this about me I’m a leg and thigh girl/ dark meat. Im not just being cheap about it - I am not a fan of chicken breast and neither is my husband. (We will eat it but it’s not our preferred part of a chicken) I know what you are thinking it’s because I’m not cooking it right. It’s not that. For me it’s a weird textural thing. With all meat in fact - esp cuts that are on the thicker side like chicken breast and steak and even pork chops. I go through phases where I just don’t eat it all. For me bone in thighs not only have better flavour, cook faster, but they also never turn me off texturally - except for when I’m cleaning them but that is a whole other story - don’t get me started on cleaning chicken and my chicken juice phobia.  
 </br>
 </br>
+
 ![One Pan Chicken With Shallots](/images/uploads/2020_10_19_one_pan_chicken_with_shallots_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ This is a recipe I saw in my inbox from NYT cooking - I’m on their email list 
 There are more reasons I was drawn to this recipe other than it being made with thighs (you can definitely make this with breast or leg and thigh pieces too - just increase cooking time as needed).  There is a beloved [Greek stew called stifado](https://www.oliveandmango.com/stifado-homemade-greek-stew) that is made with any stewing meat and pearled onions. I love it and I immediately thought of it when I saw this recipe. I just had to make it.  I was also drawn to it is because it’s a one pan dish.  Less cleanup and just perfect on it’s own with crusty bread and a salad or a simple side like rice or [mashed potatoes](https://www.oliveandmango.com/simple-creamy-mashed-potatoes/) or even a [creamy cauliflower mash](https://www.oliveandmango.com/cider-braised-chicken-thighs-with-the-creamiest-cauliflower-mash/).  It’s easy enough for a midweek dinner but fancy enough for a dinner party. 
 </br>
 </br>
+
 ![One Pan Chicken With Shallots](/images/uploads/2020_10_19_one_pan_chicken_with_shallots_4.jpg)
 </br>
 </br>
@@ -78,4 +81,5 @@ It’s a chicken dish we love and is one we make a lot and I think you are going
 5. Add the cherry tomatoes to the pot, stir lightly to combine, they will soften quickly and serve immediately. Serve with rice or whatever side you like. 
 
 </br>
+
 ![One Pan Chicken With Shallots](/images/uploads/2020_10_19_one_pan_chicken_with_shallots_5.jpg)

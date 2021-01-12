@@ -14,6 +14,7 @@ description: A delicious savory twist on a tarte tatin
 This Caramelized Beet Tarte Tatin with Feta is a delicious savory twist on a tarte tatin, a classic French caramelized, upside-down pastry that’s most often made with apples or other fruit for dessert. A touch of balsamic vinegar and brown sugar help caramelize the onions and the beets bringing out their natural sweetness. All on top of a buttery, flaky puff pastry crust — totally irresistible and perfect for a light meal with a green salad or an appetizer. 
 </br>
 </br>
+
 ![Caramelized Beet Tarte Tatin With Feta](/images/uploads/2019_12_17_caramelized_beet_tarte_tatin_with_feta_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This Caramelized Beet Tarte Tatin with Feta is a delicious savory twist on a tar
 It’s a striking tart which goes perfectly with sprinkles of tangy/salty feta and garnished with micro greens or your favorite fresh herbs. There’s a few thing I really love about this tart. Not only is it a showstopper thanks to the colour of the beets but it’s also a meatless option if you are entertaining and need a tasty appetizer or meal. 
 </br>
 </br>
+
 ![Caramelized Beet Tarte Tatin With Feta](/images/uploads/2019_12_17_caramelized_beet_tarte_tatin_with_feta_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ It’s a striking tart which goes perfectly with sprinkles of tangy/salty feta a
 There are two other things that make this recipe a simple one to make too. Using a good quality storebought all butter puff pastry is one of them and the other is using these organic cooked beets by Love Beets. They are organic, non-GMO, kosher and have no preservatives. Convenient and totally practical and make making this tart tatin quick and easy. That’s right - no need to peel or boil or roast - all the work is already done for you pre-packaging - which is such a time saver. 
 </br>
 </br>
+
 ![Caramelized Beet Tarte Tatin With Feta](/images/uploads/2019_12_17_caramelized_beet_tarte_tatin_with_feta_4.jpg)
 </br>
 </br>
@@ -38,6 +41,7 @@ This is always a total hit and is the best served warm right out of the oven. Fl
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.lovebeets.com">Love Beets</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Caramelized Beet Tarte Tatin With Feta](/images/uploads/2019_12_17_caramelized_beet_tarte_tatin_with_feta_5.jpg)
 </br>
 </br>
@@ -87,4 +91,5 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 &ast; I emptied the pan after the onions and beets were pan fried and then arranged them in a clean pan for aesthetic purposes in these photos. Feel free to do that or use the same pan.
 
 </br>
+
 ![Caramelized Beet Tarte Tatin With Feta](/images/uploads/2019_12_17_caramelized_beet_tarte_tatin_with_feta_6.jpg)

@@ -15,6 +15,7 @@ description: Simple, quick to make and air fryer friendly
 These baked ravioli bites are super crispy and addictive to eat dipped in a tasty [marinara sauce](https://www.oliveandmango.com/easy-fresh-tomato-marinara/). They are easy to whip up and will be your new favorite appetizer or snack. Ravioli is coated in egg and an Italian-spiced panko breadcrumb mixture and baked til perfectly golden and crisp. No need to deep fry these little guys to get them nice and crispy - this lighter healthier version is simple and quick to make and the recipe is air fryer friendly too. 
 </br>
 </br>
+
 ![Crispy Baked Ravioli Bites](/images/uploads/2020_12_29_crispy_baked_ravioli_bites_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ These baked ravioli bites are super crispy and addictive to eat dipped in a tast
 This Italian-American treat hales from St. Louis, Missouri and is a popular appetizer at many restaurants. Traditionally they are breaded and deep fried. Since I don’t love deep frying, I decided to bake them up until crisp. They turned out perfect - seasoned just right and crispy all over. Plus so much easier and healthier than deep frying.
 </br>
 </br>
+
 ![Crispy Baked Ravioli Bites](/images/uploads/2020_12_29_crispy_baked_ravioli_bites_3.jpg)
 </br>
 </br>
@@ -35,6 +37,7 @@ What you will need to make Crispy baked ravioli bites:
 * Marinara sauce for serving and dipping them (my homemade fresh <span class="highlight"><a rel="nofollow" href="https://www.oliveandmango.com/easy-fresh-tomato-marinara/">Marinara sauce</a></span> is so easy and delicious)  
 
 </br>
+
 ![Crispy Baked Ravioli Bites](/images/uploads/2020_12_29_crispy_baked_ravioli_bites_4.jpg)
 </br>
 </br>
@@ -42,6 +45,7 @@ What you will need to make Crispy baked ravioli bites:
 The simple trick to making them crisp all over is baking them on a cooling rack over your sheet pan - this allows the top and the bottom of them to get nice and crispy. If you don’t have a cooling rack that fits onto your baking sheet, they can be baked straight on the lined baking sheet itself but you will need to flip the ravioli halfway through the cooking time instead. Feel free to use any shape ravioli you would like. Using fresh ravioli will yield he best result as opposed to frozen. You could thaw the frozen ones and then prep them the same way but they tend not to get as crispy as the fresh ones. 
 </br>
 </br>
+
 ![Crispy Baked Ravioli Bites](/images/uploads/2020_12_29_crispy_baked_ravioli_bites_5.jpg)
 </br>
 </br>
@@ -92,4 +96,5 @@ They go pretty fast when I make them and so I tend to make extra for just that r
 * You can also use an air fryer to make these if you have one. Place them in air fryer in single layer and set at 350°F for 6-9 minutes each batch. 
 
 </br>
+
 ![Crispy Baked Ravioli Bites](/images/uploads/2020_12_29_crispy_baked_ravioli_bites_6.jpg)

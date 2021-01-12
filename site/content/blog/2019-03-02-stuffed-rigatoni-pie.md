@@ -14,6 +14,7 @@ description: A classic baked pasta dinner transformed into a show stopping pie. 
 A classic baked pasta dinner transformed into a show stopping pie. Meat and cheese filled pasta baked in a vertical pattern with a saucy top and bottom. Pure comfort food if you ask me, also perfect for Sunday family dinner or dinner with friends. It takes a few extra steps to put together but they are pretty simple and worth the extra effort. Let’s talk a bit about each component. 
 </br>
 </br>
+
 ![Stuffed Rigatoni Pie – Paccherri](/images/uploads/2019_03_02_stuffed_rigatoni_bake_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ A classic baked pasta dinner transformed into a show stopping pie. Meat and chee
 Use the largest rigatoni shaped pasta you can find. The reason for this is so that it’s easier to pipe the ricotta mixture into them. The smaller they are the harder they will be to fill. I use paccheri pasta when I can find them but when I can’t get my hands on them I use manicotti shells and cook them the same way as directed in the recipe but I snip them in half and each manicotti becomes two pieces of pasta. I place the straight cut edges down on the pan and they sit up just beautifully.
 </br>
 </br>
+
 ![Stuffed Rigatoni Pie – Paccherri](/images/uploads/2019_03_02_stuffed_rigatoni_bake_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ Use the largest rigatoni shaped pasta you can find. The reason for this is so th
 Let’s start with the meat component. You can def use any ground meat you wish. The beef can be replaced with ground turkey or chicken and if you didn’t want the sausage you could substitute if for ground pork or leave it out all together and add &frac12; lb extra of whatever ground meat you are using. You can make this meatless by substituting the meat with chopped veggies. I like to use a chunky marinara with lots of chopped celery, carrots and sweet peppers. You can add some meatiness to the sauce by adding chopped mushrooms or eggplant and even cooked lentils or they’re are also plenty of recipes on line with vegan bolognese sauces that are made of torn tofu or even chopped walnuts.
 </br>
 </br>
+
 ![Stuffed Rigatoni Pie – Paccherri](/images/uploads/2019_03_02_stuffed_rigatoni_bake_4.jpg)
 </br>
 </br>
@@ -37,6 +40,7 @@ Let’s start with the meat component. You can def use any ground meat you wish.
 When it comes to the ricotta mix it’s pretty standard but if you wanted to make it vegan you could make a simple cashew cream sauce made by blitzing soaked cashews with lemon juice, garlic, herbs, salt and pepper and nutritional yeast and thinned out with some water.  You can use a shreddable vegan cheese to substitute the Parmesan and fontina  and use a vegan pesto. You can leave the egg out too. 
 </br>
 </br>
+
 ![Stuffed Rigatoni Pie – Paccherri](/images/uploads/2019_03_02_stuffed_rigatoni_bake_5.jpg)
 </br>
 </br>
@@ -44,6 +48,7 @@ When it comes to the ricotta mix it’s pretty standard but if you wanted to mak
 The spring form pan works perfectly when making this dish but a deep pie dish can also work. The springform pan makes for a fantastic unveiling so if you do have one I strongly recommend using it.
 </br>
 </br>
+
 ![Stuffed Rigatoni Pie – Paccherri](/images/uploads/2019_03_02_stuffed_rigatoni_bake_6.jpg)
 </br>
 </br>
@@ -51,6 +56,7 @@ The spring form pan works perfectly when making this dish but a deep pie dish ca
 This is a fantastic meal to share with family and friends and a unique and delicious way to bake your pasta - you will love it! 
 </br>
 </br>
+
 ![Stuffed Rigatoni Pie – Paccherri](/images/uploads/2019_03_02_stuffed_rigatoni_bake_7.jpg)
 </br>
 </br>
@@ -113,4 +119,5 @@ Adapted from _Martha Stewart_
 </br>
 <a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
+
 ![Stuffed Rigatoni Pie – Paccherri](/images/uploads/2019_03_02_stuffed_rigatoni_bake_8.jpg)

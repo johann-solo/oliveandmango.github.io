@@ -14,6 +14,7 @@ description: A syrupy phyllo yogurt citrus cake
 This is a super simple Greek dessert in the _σιροπιαστα/siropiasta_ category of desserts - meaning the ones soaked in some sort of luscious syrup aka my favorite of all the Greek desserts. Portokalopita might sound like Tiropita and Spanakopita because of the ‘pita part that translates into pie and Portokali/πορτοκάλι is orange in greek (spinach is spanaki and cheese is tiri - you get the idea). You might be thinking aren’t all Greek desserts syrup based? The very popular or well known ones might be but definitely not all. This may not be one you have ever had before but is worth trying if you like citrus based desserts. I love citrus based anything and am surprised I have never made this one before. It’s probably the easiest recipe out there.
 </br>
 </br>
+
 ![Greek Orange Phyllo Cake (Portokalopita)](/images/uploads/2020_01_09_greek_orange_phyllo_cake_2.jpg)
 </br>
 </br>
@@ -21,9 +22,11 @@ This is a super simple Greek dessert in the _σιροπιαστα/siropiasta_ ca
 I made this using the METRO ONLINE GROCERY service. If you are following me on Instagram you would have seen that I frequently use their website to do all my groceries. I love how quick and easy it is to place my order. I even have a few of my staple items saved so that I can just go in and have them on my list right off the bat. If I’m expecting a busy weekend or week or if I have been to the grocery store way too many times for clients in the week and can’t stomach another trip for my own groceries, if there is bad weather and I just don’t feel up to leaving the house, or if I don’t want to brave the stores close to a holiday or a Saturday morning - this is my go to. It’s a reliable service that saves me tons of time, and makes my life a lot easier.
 </br>
 </br>
+
 ![Greek Orange Phyllo Cake (Portokalopita)](/images/uploads/2020_01_09_greek_orange_phyllo_cake_3.jpg)
 </br>
 </br>
+
 ![Greek Orange Phyllo Cake (Portokalopita)](/images/uploads/2020_01_09_greek_orange_phyllo_cake_4.jpg)
 </br>
 </br>
@@ -31,9 +34,11 @@ I made this using the METRO ONLINE GROCERY service. If you are following me on I
 I trust their trained personal shoppers to pick the freshest produce and their tri-zone delivery trucks have 3 zones to keep all your groceries at the temp they need to be on arrival (refrigerated, frozen, room temp). One of the most impressive features and a convenient one is the same day delivery if your order is in before 1pm and also the fact that you get to pick your delivery time slot. I have found that they are always on time too - with a small window so no need to plan a whole afternoon around being home for your delivery. There is a delivery charge of 11.99 which I find totally worth it for me but there is also the pickup option as well which is free available at the two Metro hub stores. It’s a totally reliable service whether you are picking up or getting it delivered and I totally would recommend it to anyone especially with a crazy busy schedule - which seems to be more and more of us these days.
 </br>
 </br>
+
 ![Greek Orange Phyllo Cake (Portokalopita)](/images/uploads/2020_01_09_greek_orange_phyllo_cake_5.jpg)
 </br>
 </br>
+
 ![Greek Orange Phyllo Cake (Portokalopita)](/images/uploads/2020_01_09_greek_orange_phyllo_cake_6.jpg)
 </br>
 </br>
@@ -41,6 +46,7 @@ I trust their trained personal shoppers to pick the freshest produce and their t
 Back to this cake - I thoughtI would let you know a little bit of the background on it. It might seem like an unusual cake as it’s made with dehydrated (stale) crumbled phyllo. Well apparently this recipe came about so that any scarps of phyllo left behind from making savoury ‘pitas was not wasted. The result is the perfect no waste upcycled dessert. I think this cake is good enough to make using a brand new pack of phyllo and obviously so did the rest of Greece - as there are some probably a dozen plus versions of making this cake. This one is my take on Akis Petritzikis recipe. I subbed out a few of the ingredients in his recipe and I also reduced the syrup ingredients as I thought his measurements were a bit too syrupy for my taste. I just loved his method of using two whole oranges in the recipe giving it some intense citrus flavour (this the reason I use and recommend using organic oranges for this recipe)I also loved that he makes his in the food processor or blender to break down the oranges into a paste allowing it to infuse the whole cake beautifully. It’s a wonderful recipe. The cake stays pretty light considering it’s soaked with a citrus syrup. Many serve this with icecream or a citrus spoon sweet but I serve it on its own - it’s sweet enough on its own and just the perfect citrus based dessert!
 </br>
 </br>
+
 ![Greek Orange Phyllo Cake (Portokalopita)](/images/uploads/2020_01_09_greek_orange_phyllo_cake_7.jpg)
 </br>
 </br>
@@ -48,6 +54,7 @@ Back to this cake - I thoughtI would let you know a little bit of the background
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.metro.ca">Metro Ontario</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Greek Orange Phyllo Cake (Portokalopita)](/images/uploads/2020_01_09_greek_orange_phyllo_cake_8.jpg)
 </br>
 </br>
@@ -95,4 +102,5 @@ __For the cake__
 1. Once done remove from oven and immediately ladle the cool syrup gently over the warm cake. Let it rest for 30 minutes and then slice and serve.
 
 </br>
+
 ![Greek Orange Phyllo Cake (Portokalopita)](/images/uploads/2020_01_09_greek_orange_phyllo_cake_9.jpg)

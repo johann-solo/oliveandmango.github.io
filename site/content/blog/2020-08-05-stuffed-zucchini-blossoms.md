@@ -14,6 +14,7 @@ description: Delicate blossoms stuffed and baked to perfection for an easy seaso
 Stuffed zucchini blossoms make a simple delicious appetizer, or a light meal inspired by the season. They are a favorite dish among many European countries Greece included and are often stuffed with a fragrant rice and meat mixture. Meat in the stuffing is optional and both ways yields delicious delicate stuffed blossoms. I stuffed these similar to the way I would stuff dolmades or stuffed grape leaves and my stuffed peppers. They are so good and you just don’t want to stop eating them. 
 </br>
 </br>
+
 ![Stuffed Zucchini Blossoms](/images/uploads/2020_08_05_stuffed_zucchini_blossoms_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ Stuffed zucchini blossoms make a simple delicious appetizer, or a light meal ins
 Squash or zucchini blossoms/flowers are the edible flowers of the squash plant and usually come in yellow and orange shades. They are a delight to eat. They are delicate and taste reminiscent to young zucchini and can be eaten raw in salads or cooked. 
 </br>
 </br>
+
 ![Stuffed Zucchini Blossoms](/images/uploads/2020_08_05_stuffed_zucchini_blossoms_3.jpg)
 </br>
 </br>
@@ -30,6 +32,7 @@ Squash or zucchini blossoms/flowers are the edible flowers of the squash plant a
 There are male and female flowers. Both the male and female zucchini flowers can be picked and consumed, the male ones win out because only the females grow fruit or zucchini. You can pick off most of the male flowers from the zucchini plant. Each plant will produce lots more male flowers than is needed so harvest these, leaving just one or two for pollination. The male flowers have long thin stems with no fruit growing at the base of the flower. Early to mid morning is the best time to pick them while the flowers are fully open and easier to remove the stamen and easier to stuff. Cut the stems about 3cm below the base of the flower. The ones on stems won't turn into fruit; taking the flower off the fruit won't hurt the fruit - just let the flowers get big enough to make sure you're not picking off fruit with it.
 </br>
 </br>
+
 ![Stuffed Zucchini Blossoms](/images/uploads/2020_08_05_stuffed_zucchini_blossoms_4.jpg)
 </br>
 </br>
@@ -38,6 +41,7 @@ There are male and female flowers. Both the male and female zucchini flowers can
 Zucchini flowers are delicate so remember to handle them carefully and they also have a short shelf life of just a couple of days. (The ones I used in this post were half from my garden and half from the grocery store. I bought them in great shape but after a day they were already starting to look sad. Although wilted with some far gone edges, after a little trim they were still delicious-  ugly produce is still delicious and I salvaged most of them.) After picking them place them immediately in your refrigerator to cool them down or if using them right away, sprinkle them with some chilled water or immerse them in cold water to clean them, then dry them gently with a paper towel. Then just pinch out the stamen in the middle of the blossom and they are ready to eat or prepare for cooking. 
 </br>
 </br>
+
 ![Stuffed Zucchini Blossoms](/images/uploads/2020_08_05_stuffed_zucchini_blossoms_5.jpg)
 </br>
 </br>
@@ -46,6 +50,7 @@ Zucchini flowers are delicate so remember to handle them carefully and they also
 Zucchini blossoms are very versatile. The flowers can be stuffed with rice, ricotta or minced meat (or a combo of all) and then cooked in the oven or lightly fried. They can also be lightly battered and deep fried for a crispy version stuffed or as is. They can also be steamed. They are great chopped and added raw to salad or pasta and can be cooked into a pasta sauce as well. You can add them so soups, risotto, omelettes, frittatas and even on pizza. You know that I love to stuff everything and the same went for these blossoms. You also know I have an aversion to deep fried things and love the overall flavour of baking them rather then steaming them so I baked mine until the edges  were crisp. Just delicious! I chose not make these with meat so it’s a simple butter herbed rice that is good enough to serve as a side and perfect in these zucchini blossoms.  If you wanted to add some meat to these you can - from ground lamb to chicken you can use whatever you would like. I would  limit it to &frac12; lb for the amount of squash blossoms in this recipe. Just brown the meat with the onions and garlic and continue the recipe as is. 
 </br>
 </br>
+
 ![Stuffed Zucchini Blossoms](/images/uploads/2020_08_05_stuffed_zucchini_blossoms_6.jpg)
 </br>
 </br>
@@ -99,4 +104,5 @@ Stir in the mizithra and almonds or pine nuts if using and allow to cool 10-15 m
 5. Serve warm or cold as an appetizer/mezze or a light meal. 
 
 </br>
+
 ![Stuffed Zucchini Blossoms](/images/uploads/2020_08_05_stuffed_zucchini_blossoms_7.jpg)

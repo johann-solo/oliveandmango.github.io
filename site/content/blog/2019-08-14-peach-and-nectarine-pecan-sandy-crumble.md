@@ -14,12 +14,15 @@ description: Deliciously sweet, tender peaches and nectarines under a blanket of
 Peach and nectarine season cannot pass me by without making my very favourite thing to make with any fruit - crumbles, crisps and cobblers, easier than pie and thrown together in minutes. With little effort you are left with deliciously sweet and tender peaches and nectarines under a blanket of crunchy pecan crumble.
 </br>
 </br>
+
 ![Peach and Nectarine Pecan Sandy Crumble](/images/uploads/2019_08_14_peach_and_nectarine_pecan_sandy_crumble_2.jpg)
 </br>
 </br>
+
 ![Peach and Nectarine Pecan Sandy Crumble](/images/uploads/2019_08_14_peach_and_nectarine_pecan_sandy_crumble_3.jpg)
 </br>
 </br>
+
 ![Peach and Nectarine Pecan Sandy Crumble](/images/uploads/2019_08_14_peach_and_nectarine_pecan_sandy_crumble_4.jpg)
 </br>
 </br>
@@ -27,12 +30,15 @@ Peach and nectarine season cannot pass me by without making my very favourite th
 This is a riff on a recipe by _Smitten Kitchen_. I love all of her recipes and her crisp and crumble recipes are just the way I like them. They are not overly sweet which I love because the fruit is usually sweet enough and we want the star of the crisp or crumble to be the fruit not the sugar. Speaking of sugar - this crumble actually has none. It’s naturally sweetened with either honey or maple syrup depending on whether you want it to be vegan or not. Extra sweetness and texture is added to the crumble topping via the chopped dates in it. You read that right - there are dates in the topping and you will just have to trust me on that. I got inspired to add them to my crumble from a recipe by _Green Kitchen Stories_. They do what sugar and butter do (take that butter and sugar! - they do have their place just not in this recipe). They sweeten the topping plus when rubbed together with the dry ingredients of the topping, help clump or bind pieces together so the topping is part crumble part sandy. 
 </br>
 </br>
+
 ![Peach and Nectarine Pecan Sandy Crumble](/images/uploads/2019_08_14_peach_and_nectarine_pecan_sandy_crumble_5.jpg)
 </br>
 </br>
+
 ![Peach and Nectarine Pecan Sandy Crumble](/images/uploads/2019_08_14_peach_and_nectarine_pecan_sandy_crumble_6.jpg)
 </br>
 </br>
+
 ![Peach and Nectarine Pecan Sandy Crumble](/images/uploads/2019_08_14_peach_and_nectarine_pecan_sandy_crumble_7.jpg)
 </br>
 </br>
@@ -40,12 +46,15 @@ This is a riff on a recipe by _Smitten Kitchen_. I love all of her recipes and h
 Let’s talk more about that topping. I partnered up with _GoGo Quinoa_ for this recipe and decided I would use a blend of their <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/buckwheat-flakes/">Buckwheat flakes</a></span> </span> and <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com/products/quinoa-flakes-pre-cooked/">Quinoa flakes</a></span> to make it. Their flakes are quite fine in texture and I love making porridge out of them and thought the blend would make the perfect texture for this sandy topping. Another feature that makes this topping absolutely delicious is the pecans, which must be lightly toasted to emphasize the pecan flavour. I also process most of them so that they are very fine and flour-like, infusing the whole topping with that beautiful nutty flavour. The rest of the pecans get a rough chop and add a little crunch to the topping too. 
 </br>
 </br>
+
 ![Peach and Nectarine Pecan Sandy Crumble](/images/uploads/2019_08_14_peach_and_nectarine_pecan_sandy_crumble_8.jpg)
 </br>
 </br>
+
 ![Peach and Nectarine Pecan Sandy Crumble](/images/uploads/2019_08_14_peach_and_nectarine_pecan_sandy_crumble_9.jpg)
 </br>
 </br>
+
 ![Peach and Nectarine Pecan Sandy Crumble](/images/uploads/2019_08_14_peach_and_nectarine_pecan_sandy_crumble_10.jpg)
 </br>
 </br>
@@ -56,6 +65,7 @@ The fruit gets tossed with a bit of cornstarch or tapioca flour along with some 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com">GoGo Quinoa</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Peach and Nectarine Pecan Sandy Crumble](/images/uploads/2019_08_14_peach_and_nectarine_pecan_sandy_crumble_11.jpg)
 </br>
 </br>
@@ -102,4 +112,5 @@ __For the filling__
 5. Let cool slightly before serving, and serve ideally with a dollop of vanilla ice cream (dairy free to keep it vegan) or yoghurt as this makes a great breakfast.
 
 </br>
+
 ![Peach and Nectarine Pecan Sandy Crumble](/images/uploads/2019_08_14_peach_and_nectarine_pecan_sandy_crumble_12.jpg)

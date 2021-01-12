@@ -14,6 +14,7 @@ description: A creamy under 30 min meal seafood gnocchi
 I’m always craving comfort food and this is a dish that just screams comfort. Our Spring in Canada, or at least in our area, has felt more like Fall. It’s been cool straight through with a couple of hopeful warm days and so I’m still turning on the oven and still roasting things including delicious quick and easy meals like this one that are perfect for a quick midweek family dinner or date night.
 </br>
 </br>
+
 ![One Pan Creamy Gnocchi With Shrimp and Spinach](/images/uploads/2019_05_10_28_one_pan_creamy_gnocchi_with_shrimp_and_spinach_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ I’m always craving comfort food and this is a dish that just screams comfort. 
 I was so happy to partner up with _Metro_ again to shed some light on the newest service they are providing for customers. Metro now offers a fresh, fast and personal online shopping experience to its customers in the greater Toronto-Hamilton area and I’m very excited about it. I have a Metro right near me and I swear I spend half my day there on shoot days. Even though I have lists upon lists of things that I need, I always end up back there. I’m there so often that they know me. You all know what I mean - you have your list that you have either scribbled on a sheet of paper or on your phone but when you get back home and check your recipe again you realize you forgot the butter or something else. This is a service I will absolutely be utilizing. It will save me so much time and I can shop while I plan out my recipes and shoots in advance and have everything I need because I can order while sitting with my recipes checking everything off as I order it. No distractions (are we out of milk, oh look this is on sale) - I can get online get exactly what I need and click checkout!
 </br>
 </br>
+
 ![One Pan Creamy Gnocchi With Shrimp and Spinach](/images/uploads/2019_05_10_28_one_pan_creamy_gnocchi_with_shrimp_and_spinach_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ Metro is a trusted source of fresh produce. When I’m shooting recipes I need t
 this. They are committed to _“Freshness Delivered to your Door”_, as their products are hand-selected by specially-trained employees so that customers feel as though they’ve selected the items themselves. To ensure that freshness is maintained from the moment the products leave the store to the moment it arrives, Metro’s exclusive Tri-Zone delivery trucks have been implemented for delivery. While in-transit, products are kept in designated, temperature- controlled areas (ambient, refrigerated and frozen zones) to optimize preservation and guarantee freshness for customers. You can choose between grocery pick-up or delivery as it pertains to your schedule and lifestyle. There is a delivery service fee is $11.99 plus HST but no extra fees for same day delivery. Same-day delivery is offered for those customers who place their order before 1:00 PM and next day for orders received before midnight. Any flyer deals or store promotions are totally applicable online as well.
 </br>
 </br>
+
 ![One Pan Creamy Gnocchi With Shrimp and Spinach](/images/uploads/2019_05_10_28_one_pan_creamy_gnocchi_with_shrimp_and_spinach_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ this. They are committed to _“Freshness Delivered to your Door”_, as their p
 So is this a service you would use? That is totally up to you. I know that 12 dollar fee is one I’m willing to swallow because the hour out of the day or more that gets eaten up at the store is an hour or more I could be shooting. Time is money. You really have to see if it’s worth it for you but say you want to pass on delivery, think of the time saved by ordering online and picking up. A busy parent can place their order on their lunch break and pick up on the way home, meaning less time out and more time to be home with family. Or for a busy single person it means more time at the gym or for meal prep before a busy week. It all comes down to your lifestyle. For me it’s a life saver and am super thankful that grocery stores like Metro are moving in this direction.
 </br>
 </br>
+
 ![One Pan Creamy Gnocchi With Shrimp and Spinach](/images/uploads/2019_05_10_28_one_pan_creamy_gnocchi_with_shrimp_and_spinach_5.jpg)
 </br>
 </br>
@@ -43,6 +47,7 @@ So is this a service you would use? That is totally up to you. I know that 12 do
 All the ingredients in this dish were purchased via Metro’s Online Grocery service. I chose this dish because I knew you would love it, but also because it also tested the service. This recipe calls for milk and butter and even frozen shrimp. It also calls for fresh spinach and herbs along with some staple pantry ingredients. It’s a well rounded recipe showcasing ingredients from almost all departments. I was happy with the selected produce and the shrimp was completely frozen when it arrived and the milk and butter were colder than they are when I bring them home from a trip to the grocery store. The herbs and spinach were fresh and fabulous, and I wouldn’t expect it to be any other way because it’s Metro! We loved this one pan meal and know you will too. Enjoy!
 </br>
 </br>
+
 ![One Pan Creamy Gnocchi With Shrimp and Spinach](/images/uploads/2019_05_10_28_one_pan_creamy_gnocchi_with_shrimp_and_spinach_6.jpg)
 </br>
 </br>
@@ -50,6 +55,7 @@ All the ingredients in this dish were purchased via Metro’s Online Grocery ser
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.metro.ca/en">Metro Ontario</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![One Pan Creamy Gnocchi With Shrimp and Spinach](/images/uploads/2019_05_10_28_one_pan_creamy_gnocchi_with_shrimp_and_spinach_7.jpg)
 </br>
 </br>
@@ -91,4 +97,5 @@ Servings: 4
 10. Remove from the heat, top with additional salt, pepper, chili flakes and some chopped fresh parsley if desired. Enjoy immediately.
 
 </br>
+
 ![One Pan Creamy Gnocchi With Shrimp and Spinach](/images/uploads/2019_05_10_28_one_pan_creamy_gnocchi_with_shrimp_and_spinach_8.jpg)

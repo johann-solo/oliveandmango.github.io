@@ -14,9 +14,11 @@ description: A cinnamon-scented twist on apple pie which is fun to make and alwa
 This is a cinnamon-scented twist on apple pie which is fun to make and always wows. The same homemade or store bought pie dough forms both the base crust and the topping—the fun part happens when a sweetened cinnamon-butter is spread on half of the dough and rolled up like a log and chilled then sliced and fanned over the apples and baked until golden brown and bubbly. 
 </br>
 </br>
+
 ![Cinnamon Roll Apple Pie](/images/uploads/2019_12_05_cinnamon_roll_apple_pie_2.jpg)
 </br>
 </br>
+
 ![Cinnamon Roll Apple Pie](/images/uploads/2019_12_05_cinnamon_roll_apple_pie_11.jpg)
 </br>
 </br>
@@ -24,9 +26,11 @@ This is a cinnamon-scented twist on apple pie which is fun to make and always wo
 I was thrilled to partner up with E.D. Smith to make a fabulous pie using their apple pie filling. I wanted to make some that incorporates the classic flavours of an apple pie but with a very fun twist.  Mission accomplished if you ask me. I have wanted to make this cinnamon twist/roll pie since last year. I’m late to the game - this isn’t new - I have seen many versions of this all over the net but I found one I particularly liked via the one and only Martha Stewart. Her version makes a huge slab pie. I liked her version because the twists get super crispy and delicious as opposed to some recipes that use actual cinnamon bun dough that creates a fluffy pie crust. Not opposed too that idea at all and may have to try it as well in the future but I wanted a crispy edged crust for this pie. 
 </br>
 </br>
+
 ![Cinnamon Roll Apple Pie](/images/uploads/2019_12_05_cinnamon_roll_apple_pie_3.jpg)
 </br>
 </br>
+
 ![Cinnamon Roll Apple Pie](/images/uploads/2019_12_05_cinnamon_roll_apple_pie_4.jpg)
 </br>
 </br>
@@ -34,9 +38,11 @@ I was thrilled to partner up with E.D. Smith to make a fabulous pie using their 
 I linked below my go to simple pie dough recipe but feel free to use a good quality store bought one too.  When I mean store bought I mean the refrigerated pie dough that you roll out not the frozen ones.  I also noted that it may take 2 pie doughs to cover the pie with all those cinnamon rolls depending on the size of your pie plate. I used approx 1 and a &frac12; because my twists were small.  Larger twists with thicker pie dough will create larger ones which will cover more surface.  So it all depends.  If you have to make more that is not a problem just chill your pie while you make more. Usually 30-40 twists will do the trick. 
 </br>
 </br>
+
 ![Cinnamon Roll Apple Pie](/images/uploads/2019_12_05_cinnamon_roll_apple_pie_5.jpg)
 </br>
 </br>
+
 ![Cinnamon Roll Apple Pie](/images/uploads/2019_12_05_cinnamon_roll_apple_pie_6.jpg)
 </br>
 </br>
@@ -44,9 +50,11 @@ I linked below my go to simple pie dough recipe but feel free to use a good qual
 I have used both store bought and homemade crusts to make this and I have to say the store bought version makes for very good looking consistently shaped twist not to mention makes things super easy and saves you some time too. That goes for the same with this <span class="highlight"><a rel="nofollow" href="https://www.edsmith.com/en/products/e-d-smith-apple-pie-filling/">E.D. Smith pie filling</a></span>. It helps  keep this pie recipe streamlined and simple - both things I don’t normally associate with pie making. This pie is definitely simple enough for a weekend bake up but still elegant enough for a special occasion.  
 </br>
 </br>
+
 ![Cinnamon Roll Apple Pie](/images/uploads/2019_12_05_cinnamon_roll_apple_pie_7.jpg)
 </br>
 </br>
+
 ![Cinnamon Roll Apple Pie](/images/uploads/2019_12_05_cinnamon_roll_apple_pie_8.jpg)
 </br>
 </br>
@@ -57,6 +65,7 @@ I love apple pie served with vanilla bean triple churned ice cream but I think a
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.edsmith.com">E.D. Smith</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Cinnamon Roll Apple Pie](/images/uploads/2019_12_05_cinnamon_roll_apple_pie_9.jpg)
 </br>
 </br>
@@ -94,4 +103,5 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 Depending on the size of your dough log and size of your pie plate you may need to use an extra pie dough and extra cinnamon and sugar to make a third log roll.  
 
 </br>
+
 ![Cinnamon Roll Apple Pie](/images/uploads/2019_12_05_cinnamon_roll_apple_pie_10.jpg)

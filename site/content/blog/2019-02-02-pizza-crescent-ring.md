@@ -14,6 +14,7 @@ description: Whether its game day or movie night - this simple pizza ring is all
 Sometimes you just need a simple appetizer or snack food that you can make quickly and will go down easy with a glass of wine or some beers. This is that snack! It’s totally indulgent as is all game day food but this particular snack is loved by kids and adults alike. Who can resist  pizza toppings stuffed into buttery dough baked to golden perfection?
 </br>
 </br>
+
 ![Pizza Crescent Ring](/images/uploads/2019_02_02_pizza_crescent_ring_2.jpg)
 </br>
 </br>
@@ -22,12 +23,15 @@ Sometimes you just need a simple appetizer or snack food that you can make quick
 Maybe getting dough out of a can isn’t the ideal way to make all your baked goods, but just like store bought puff pastry, it sure does help when you need to make something in a pinch, and it’s so fun to pop open a can of it. This pizza ring is like a Stromboli or an Italian style turnover except made using the ready made crescent roll dough. If you are strongly opposed to using crescent roll dough feel free to use puff pastry in its place. You will likely have to roll it out and cut it into pieces to use and the texture will be more crunchy/crispy than soft and doughy. Both are buttery and delicious though.
 </br>
 </br>
+
 ![Pizza Crescent Ring](/images/uploads/2019_02_02_pizza_crescent_ring_3.jpg)
 </br>
 </br>
+
 ![Pizza Crescent Ring](/images/uploads/2019_02_02_pizza_crescent_ring_4.jpg)
 </br>
 </br>
+
 ![Pizza Crescent Ring](/images/uploads/2019_02_02_pizza_crescent_ring_5.jpg)
 </br>
 </br>
@@ -36,12 +40,15 @@ Maybe getting dough out of a can isn’t the ideal way to make all your baked go
 This particular pizza ring is a meat lovers version as it’s my hubby’s fav way to top his pizza and why I decided to fill it with all the different meats. The filing is so versatile though, and you can use whatever you would like in it. Whatever toppings you normally have on your pizza - just stuff the ring with. I would definitely be good having it with pepperoni and cheese alone or even a veggie version of it. Just a little heads up about the veggies if you prefer a veggie filled one. The ring bakes up quickly within 20-25 minutes, so if you choose to fill it with sweet peppers or onions or any veggie with a bite, you may choose to pan fry  them in a bit of olive oil to soften them slightly before stuffing, otherwise they may still have some bite to them after they bake.
 </br>
 </br>
+
 ![Pizza Crescent Ring](/images/uploads/2019_02_02_pizza_crescent_ring_6.jpg)
 </br>
 </br>
+
 ![Pizza Crescent Ring](/images/uploads/2019_02_02_pizza_crescent_ring_7.jpg)
 </br>
 </br>
+
 ![Pizza Crescent Ring](/images/uploads/2019_02_02_pizza_crescent_ring_8.jpg)
 </br>
 </br>
@@ -49,6 +56,7 @@ This particular pizza ring is a meat lovers version as it’s my hubby’s fav w
 This is perfect for parties and always a hit. It also looks fabulous with the well- placed opening in the middle just big enough for a serving bowl to be nestled in. The perfect spot to put your dripping sauce in. Can’t go wrong with a quick and easy snack like this! You will just have to take my word for it.
 </br>
 </br>
+
 ![Pizza Crescent Ring](/images/uploads/2019_02_02_pizza_crescent_ring_9.jpg)
 </br>
 </br>
@@ -127,4 +135,5 @@ Makes Approximately 4 cups
 Adapted from the _Food Network_ and _The Kitchn_
 </br>
 </br>
+
 ![Pizza Crescent Ring](/images/uploads/2019_02_02_pizza_crescent_ring_10.jpg)

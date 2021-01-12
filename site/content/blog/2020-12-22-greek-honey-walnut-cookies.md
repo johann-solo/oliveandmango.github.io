@@ -15,6 +15,7 @@ description: Spiced sweet Greek cookies with walnuts, soaked in honey syrup (sma
 These Melomakarona (meh-loh-mah-KAH-roh-nah) are the tastiest cookie morsels. They are spiced with cinnamon and clove, flavoured with orange zest and juice and made with a mixture of flour and semolina giving them their distinct flabour and texture. They are baked until golden and set and then they are dipped into an aromatic spiced and orange infused honey syrup. They are irresistible and I bet you won’t be able to stop at one. 
 </br>
 </br>
+
 ![Greek Honey Walnut Cookies](/images/uploads/2020_12_22_greek_honey_walnut_cookies_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ These Melomakarona (meh-loh-mah-KAH-roh-nah) are the tastiest cookie morsels. Th
 These are hands down my favourite Greek cookies. They fall under the category of desserts called Siropiasta or desserts with syrup.  My [Karithopita (Greek walnut cake)](https://www.oliveandmango.com/karithopita-greek-walnut-cake/), [Galaktoboureko(Greek custard pie)](https://www.oliveandmango.com/galaktoboureko-greek-custard-pie/), [Greek Orange Phyllo Cake (Portokalopita)](https://www.oliveandmango.com/greek-orange-phyllo-cake-portokalopita/), [Greek Semolina Cake (Revani)](https://www.oliveandmango.com/greek-semolina-cake-revani/) examples of some of the desserts that fall under that category. A more popular dessert that also falls into the same delicious category is baklava. Many who try melomakarona for the very first time actually think the flavours are quite similar to baklava but in cookie form. Instead of the crispy flakiness of baklava, the same spice and honey flavors are contained in a soft, tender cookie.
 </br>
 </br>
+
 ![Greek Honey Walnut Cookies](/images/uploads/2020_12_22_greek_honey_walnut_cookies_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ These are hands down my favourite Greek cookies. They fall under the category of
 The cookie itself is quite simple to make using just a bowl and whisk. I love the combination of flour and semolina in mine because it adds a nice texture to these cookies. If you don’t have semolina you could just use regular all purpose flour in its place. Many like to add in a couple tablespoons of ground walnuts to the batter too to give it extra nutty flavours and a crumblier texture. The key to making the BEST Melomakarona is remembering one thing when it comes to the dough. Do NOT over mix or over work the dough. What will happen is the oil will start to separate from the dough and you do not want that.  It’s the equivalent of squeezing water out of a sponge. Over working it essentially squeezes out the oil.  So to make them perfect every time you must make sure to be gentle with the dough. Folding the flour into the oil gently a little at a time and then letting the dough rest for just a few minutes before shaping into cookies will help the dough hydrate and make it easier to scoop and shape. 
 </br>
 </br>
+
 ![Greek Honey Walnut Cookies](/images/uploads/2020_12_22_greek_honey_walnut_cookies_4.jpg)
 </br>
 </br>
@@ -36,6 +39,7 @@ The cookie itself is quite simple to make using just a bowl and whisk. I love th
 The syrup is easy to make and just takes a few minutes of simmering to infuse it with the flavours of the aromatics. Some people prefer to flavour these with lemon zest and juice instead of orange juice and that is totally fine. The recipe works well with both. When it comes to the spice levels in these you can also free to adjust the amounts of either the cinnamon or clove to your liking and you can swap out the ground clove with all spice if you like that better than clove in your baked goods. The brandy is also optional but I love the flavour it adds to these cookies.
 </br>
 </br>
+
 ![Greek Honey Walnut Cookies](/images/uploads/2020_12_22_greek_honey_walnut_cookies_5.jpg)
 </br>
 </br>
@@ -43,6 +47,7 @@ The syrup is easy to make and just takes a few minutes of simmering to infuse it
 When it comes to soaking them everyone has their own way and opinion on it. Generally both the cookies and the syrup should not be the same temperature. You can either do it as written in the recipe below or you can also make the syrup in advance and then allow it to cool completely before you start baking the cookies and once the cookies are baked you can soak them in the cool syrup while they are warm.  Either way will work.  (Cool cookies - warm syrup or warm cookies - cool syrup). Many prefer their melomakarona very soaked and syrupy and others not so much. My recipe makes cookies that fall somewhere down the middle. If you want them super syrupy then soak them for longer and even drizzle some of the syrup over them after they are placed on tray. If you don’t want them too syrupy then just soak them for less time. 
 </br>
 </br>
+
 ![Greek Honey Walnut Cookies](/images/uploads/2020_12_22_greek_honey_walnut_cookies_6.jpg)
 </br>
 </br>
@@ -123,4 +128,5 @@ Drizzle or dot each cookie with an extra bit of honey and then immediately sprin
 * Storing Melomakarona: Once cool store then in an airtight container. I also like to place sheets of parchment paper or wax paper between layers to prevent them from sticking together, or you can place each one of them in a paper liner. They keep well at room temperature for up to 2 weeks. They taste best after a couple of days when the flavours have had a chance to marry and meld together.  
 
 </br>
+
 ![Greek Honey Walnut Cookies](/images/uploads/2020_12_22_greek_honey_walnut_cookies_7.jpg)

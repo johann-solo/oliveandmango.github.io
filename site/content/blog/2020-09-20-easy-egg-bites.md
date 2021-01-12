@@ -14,6 +14,7 @@ description: Protein packed wholesome and delicious breakfast egg bites
 Protein packed wholesome and delicious breakfast egg bites. They are light, fluffy and flavorful, and did I mention customizable - you know I love a good customizable recipe. They are so easy to make. They freeze really well and also reheat well!
 </br>
 </br>
+
 ![Easy Egg Bites](/images/uploads/2020_09_20_easy_egg_bites_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Protein packed wholesome and delicious breakfast egg bites. They are light, fluf
 These Easy Egg Bites have been an absolute hit with my hubby! In the morning, he pops them in the microwave and enjoys a couple with toast and hot sauce. That is why I try and make a batch for meal prep. I usually freeze half the batch and refrigerate the other half to eat through the week. It’s nice to switch things up from oats and smoothies and this is the perfect way to do that. They are portable and make a great grab and go breakfast.
 </br>
 </br>
+
 ![Easy Egg Bites](/images/uploads/2020_09_20_easy_egg_bites_3.jpg)
 </br>
 </br>
@@ -41,6 +43,7 @@ I said they are customizable and I wasn’t kidding. You can add just about anyt
 
 </br>
 </br>
+
 ![Easy Egg Bites](/images/uploads/2020_09_20_easy_egg_bites_4.jpg)
 </br>
 </br>
@@ -48,6 +51,7 @@ I said they are customizable and I wasn’t kidding. You can add just about anyt
 The list goes on and on - you can get creative and make up your own flavour combinations. Just remember to stay within the measurements listed below for the cheese and the veggies. When it comes to adding meat - I wood keep it to ½-&frac34; cup of it crumbled or shredded.
 </br>
 </br>
+
 ![Easy Egg Bites](/images/uploads/2020_09_20_easy_egg_bites_5.jpg)
 </br>
 </br>
@@ -55,6 +59,7 @@ The list goes on and on - you can get creative and make up your own flavour comb
 You will love how easy they are to make and what a great breakfast or snack option these are. Simple, tasty and everybody loves them. Making them in the blender makes them extra fluffy and golden brown as the cheese gets fully blended through the egg batter. That being said it’s not essential in making these - whisking everything by hand works beautifully too. Have fun making these and do tell me what your favourite combo of ingredients is.
 </br>
 </br>
+
 ![Easy Egg Bites](/images/uploads/2020_09_20_easy_egg_bites_6.jpg)
 </br>
 </br>
@@ -106,4 +111,5 @@ Once cool store them in the freezer in an airtight container or freezer zip-lock
 The simplest way to reheat these egg bites is to microwave them for 30-60 seconds (depending on if they are frozen) when ready to eat. If you have a little extra time, you can also reheat for 2 minutes in a toaster oven
 
 </br>
+
 ![Easy Egg Bites](/images/uploads/2020_09_20_easy_egg_bites_7.jpg)

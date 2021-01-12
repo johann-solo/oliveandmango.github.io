@@ -14,6 +14,7 @@ description: A breakfast casserole that is perfect for meal-prep and makes for a
 This breakfast casserole is a life saver especially on those busy mornings when all you have time to do for breakfast is grab something on your way out the door. It makes for the perfect breakfast meal-prep. I love to make it Sunday mornings. It’s delicious and comforting right out of the oven and I end up reheating it Monday and Tuesday (if it lasts that long) for breakfast and it’s perfect. 
 </br>
 </br>
+
 ![Apple Cranberry Baked Oatmeal](/images/uploads/2019_09_03_apple_cranberry_baked_oatmeal_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ This breakfast casserole is a life saver especially on those busy mornings when 
 I made this recipe in partnership with Bob’s Red Mill to showcase their brand new line of Pan-Baked Granolas. They come in 4 different flavours and are fabulous. Although 4 granolas are delicious on their own for breakfast or as a snack, I thought I would get creative and use them in unique and delicious ways. For this recipe I used <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/cranberry-almond-pan-baked-granola.html">Bob’s Red Mill Pan-Baked Cranberry Almond Granola</a></span> as a crunchy crumble topping. 
 </br>
 </br>
+
 ![Apple Cranberry Baked Oatmeal](/images/uploads/2019_09_03_apple_cranberry_baked_oatmeal_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I made this recipe in partnership with Bob’s Red Mill to showcase their brand 
 It’s beautifully spiced and loaded with almonds! pumpkin seeds, dried cranberries and coconut. It made the perfect crumble and complimented this apple cranberry baked oatmeal really well. Their granolas are just like homemade granola. They are USDA Certified Organic, Kosher, and Non-GMO Project Certified, also made with Bob’s Red Mill Whole Grain Oats and GFCO Certified (Gluten Free). 
 </br>
 </br>
+
 ![Apple Cranberry Baked Oatmeal](/images/uploads/2019_09_03_apple_cranberry_baked_oatmeal_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ It’s beautifully spiced and loaded with almonds! pumpkin seeds, dried cranberr
 Baked oatmeal makes eating oatmeal feel a little like a special treat. Its definitely not your ordinary boring oatmeal but a special oatmeal based bake up with fruit and nuts. It’s an easy to make breakfast and a delicious way to start the morning in a healthy and satisfying way. It’s also naturally sweetened with maple syrup and a very adaptable recipe when it comes to spicing it up and your add ins. Each season bings new fruits to experiment with in this baked oatmeal. 
 </br>
 </br>
+
 ![Apple Cranberry Baked Oatmeal](/images/uploads/2019_09_03_apple_cranberry_baked_oatmeal_5.jpg)
 </br>
 </br>
@@ -46,6 +50,7 @@ Throughout the summer I was using fresh berries in this same recipe. I used peca
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Apple Cranberry Baked Oatmeal](/images/uploads/2019_09_03_apple_cranberry_baked_oatmeal_6.jpg)
 </br>
 </br>
@@ -83,4 +88,5 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 Adapted from _Cookie And Kate_
 </br>
 </br>
+
 ![Apple Cranberry Baked Oatmeal](/images/uploads/2019_09_03_apple_cranberry_baked_oatmeal_7.jpg)

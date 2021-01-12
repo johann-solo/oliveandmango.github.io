@@ -15,6 +15,7 @@ description: Tender melt in your mouth simple to make beef tenderloin
 This Peppercorn Roasted Beef Tenderloin is melt-in-your-mouth tender. Pair it with a creamy horseradish sauce or simply enjoy it with the delicious pan juices for an unforgettable dinner. It’s the best way to spoil your family with a special dinner. It’s a cut of meat that everyone who eats meat enjoys for how tender and delicious it is and surprisingly fool proof and easy. 
 </br>
 </br>
+
 ![Peppercorn Roasted Beef Tenderloin](/images/uploads/2020_12_19_peppercorn_roasted_beef_tenderloin_2.jpg)
 </br>
 </br>
@@ -22,6 +23,7 @@ This Peppercorn Roasted Beef Tenderloin is melt-in-your-mouth tender. Pair it wi
 This Beef Tenderloin is so easy to make by simply roasting it in the oven and the tenderness can’t be beat. Even the leftovers stay mouthwateringly tender when reheated. To infuse the tenderloin with delicious flavors, it is crusted with a peppercorn spice rub. There are loads of recipes out there that call for different techniques like slow roasting then broiling it, or searing it stovetop before roasting. I’m sure they all yield a beautiful piece of meat but I wanted to share my go to simple recipe for beef tenderloin. It’s perfect every time and so easy. It’s also quite predictable - I’m always nervous of over searing or broiling too long or to late in the game - which would cause the tenderloin to be over cooked and dry and essentially ruined.  This recipe is based off of a Food Network recipe and I use it as a basis for cooking my beef tenderloin.  I often switch up the flavour of it - adding different herbs and spices to it or using some mustard to coat it too or an herb butter, but the rest stays the same. 
 </br>
 </br>
+
 ![Peppercorn Roasted Beef Tenderloin](/images/uploads/2020_12_19_peppercorn_roasted_beef_tenderloin_3.jpg)
 </br>
 </br>
@@ -29,6 +31,7 @@ This Beef Tenderloin is so easy to make by simply roasting it in the oven and th
 Beef tenderloin is the most tender cut of beef and for that reason, it is the highest priced cut of beef as well. This cut of meat is where we get those tender and tasty filet mignon steaks. It’s definitely one of those cuts of meat that you look forward to getting when they are on sale. For this reason it’s very important to not overcook it - one of the most common issues that holds people back from cooking beef tenderloin. To prevent that I would use a meat thermometer whether it’s an oven safe leave in one or a digital one. More details on that in notes. I would not tackle any large pieces of meat especially such a pricey cut without a meat thermometer. Once you have one of those - preparing tenderloin is much more foolproof and takes much less time than you would think so don’t be intimated to roast one yourself. 
 </br>
 </br>
+
 ![Peppercorn Roasted Beef Tenderloin](/images/uploads/2020_12_19_peppercorn_roasted_beef_tenderloin_4.jpg)
 </br>
 </br>
@@ -83,4 +86,5 @@ Once the meat is done, out of the oven but still in the pan, pour the garlic but
 * Freezing leftover beef tenderloin: Before adding cooked meat to the freezer, place it in the refrigerator to bring the temperature down. Package the cut filets with freezer paper and freezer bags, just as when freezing raw meat. Alternatively, store the cooked filets in a rigid storage container with a tight-fitting lid. Meat can dry out, so pour gravy or pan drippings over the meat to keep it moist before freezing. Store cooked filets for two to four months in the freezer. Thaw out in the fridge and then reheat in the oven.
 
 </br>
+
 ![Peppercorn Roasted Beef Tenderloin](/images/uploads/2020_12_19_peppercorn_roasted_beef_tenderloin_5.jpg)

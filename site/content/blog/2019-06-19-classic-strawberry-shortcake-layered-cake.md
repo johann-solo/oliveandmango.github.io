@@ -14,6 +14,7 @@ description: Sweet,tender biscuit cakes filled with layers of fresh and juicy st
 Sweet tender biscuit cakes filled with layers of fresh and juicy strawberries and a simple whipped cream for a totally unforgettable summer dessert. You need this recipe in your life. 
 </br>
 </br>
+
 ![Classic Strawberry Shortcake Layered Cake](/images/uploads/2019_06_19_classic_strawberry_shortcake_layered_cake_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ Sweet tender biscuit cakes filled with layers of fresh and juicy strawberries an
 Individual strawberry shortcakes are one thing but a layered strawberry shortcake cake is another (it’s funny saying shortcake cake but that is what it is my friends) This is the best way to feed a crowd with a little less work and more reward, perfect for summertime entertaining. They bake up in no time meaning less oven time and made perfect using farm fresh berries that are so naturally sweet - no macerating needed. Although if you want your berries syrupy feel free to macerate or toss the berries with a &frac14; cup of sugar for an hour before assembling the cake. The sugar allows the release of all the natural juices from the berries making them syrupy and even sweeter. I love them just the way they are, but you can do either. 
 </br>
 </br>
+
 ![Classic Strawberry Shortcake Layered Cake](/images/uploads/2019_06_19_classic_strawberry_shortcake_layered_cake_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ Individual strawberry shortcakes are one thing but a layered strawberry shortcak
 I decided to infuse my cream with basil. I was inspired after having the most delicious eclair while visiting Montreal last week. It was filled with a lemon basil cream that was just amazing. I had to recreate it for this strawberry dessert and because the two go hand in hand - both in season at the same time and in abundance.  I just shot something that requires a whole lot of basil so that is another reason I decided to give this infused basil cream a go. It was a total hit and I couldn’t stop spooning it in my mouth!  You will love it but if you wanted to keep this recipe simple just skip the basil Infusion. I thought I would just share it as an option. 
 </br>
 </br>
+
 ![Classic Strawberry Shortcake Layered Cake](/images/uploads/2019_06_19_classic_strawberry_shortcake_layered_cake_4.jpg)
 </br>
 </br>
@@ -35,9 +38,11 @@ I decided to infuse my cream with basil. I was inspired after having the most de
 Finally let me tell you about what I used in place of the all purpose flour. When I want to make anything gluten free without thinking about blending flours I use <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/gluten-free-1-to-1-baking-flour.html">Bob’s Red Mill Gluten Free 1 to 1 Baking Flour</a></span>. An amazing blend in place of wheat flour in any of your favourite recipes. The shortcake layers turned out great! You can find Bob’s Red Mill products including this gluten free flour on-line or in-stores at Sprouts, Whole Foods and more! As you all know Bob’s Red Mill offers the largest line of organic, whole grain foods and all of their products are certified kosher and made with ingredients grown from non-GMO seeds. Im so glad I have this option which helps me create gluten free recipes without any kind of flour blending. Such a handy and reliable blend to have on hand. Start prepping for summer entertaining and try this recipe for your next gathering - you will not regret it!
 </br>
 </br>
+
 ![Classic Strawberry Shortcake Layered Cake](/images/uploads/2019_06_19_classic_strawberry_shortcake_layered_cake_5.jpg)
 </br>
 </br>
+
 ![Classic Strawberry Shortcake Layered Cake](/images/uploads/2019_06_19_classic_strawberry_shortcake_layered_cake_6.jpg)
 </br>
 </br>
@@ -45,6 +50,7 @@ Finally let me tell you about what I used in place of the all purpose flour. Whe
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 ![Classic Strawberry Shortcake Layered Cake](/images/uploads/2019_06_19_classic_strawberry_shortcake_layered_cake_8.jpg)
 </br>
 </br>
@@ -101,4 +107,5 @@ __Filling and Assembly__
 1. Spread with the last of the whip cream, leaving a 1-inch border around edges and top with remaining strawberries in a mound. Garnish with basil leaves and serve immediately. 
 
 </br>
+
 ![Classic Strawberry Shortcake Layered Cake](/images/uploads/2019_06_19_classic_strawberry_shortcake_layered_cake_7.jpg)

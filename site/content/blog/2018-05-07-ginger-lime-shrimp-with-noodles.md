@@ -12,6 +12,7 @@ excerpt: Quick and easy never tasted so good
 I love the intense flavour of ginger and it together with lime make a flavour combination that goes so well in so many things. From sweet to savoury dishes and even to cocktails.
 </br>
 </br>
+
 ![Ginger Lime Shrimp With Noodles](/images/uploads/2018_05_07_ginger_lime_shrimp_with_noodles_2.jpg)
 </br>
 </br>
@@ -19,6 +20,7 @@ I love the intense flavour of ginger and it together with lime make a flavour co
 I love this recipe and it’s on repeat in our home a lot. It’s quick and easy and is super versatile. You can make it with any meat you would like, remembering that other meats may require more time to cook though. That is the great thing about using shrimp. They cook so quickly making meal prep almost enjoyable.
 </br>
 </br>
+
 ![Ginger Lime Shrimp With Noodles](/images/uploads/2018_05_07_ginger_lime_shrimp_with_noodles_3.jpg)
 </br>
 </br>
@@ -26,6 +28,7 @@ I love this recipe and it’s on repeat in our home a lot. It’s quick and easy
 You can totally switch up the veggies in the meal as well. I love to add mushrooms and crunchy water chestnuts too. You can do it all veggies alone, which is also a great option.
 </br>
 </br>
+
 ![Ginger Lime Shrimp With Noodles](/images/uploads/2018_05_07_ginger_lime_shrimp_with_noodles_4.jpg)
 </br>
 </br>
@@ -33,6 +36,7 @@ You can totally switch up the veggies in the meal as well. I love to add mushroo
 We love the taste and texture of soba noodles and we tend to use those more frequently but you can use any noodle you like. One benefit of using soba noodles is that they cook up in just a couple minutes making them ideal for quick dinner prep which I love.
 </br>
 </br>
+
 ![Ginger Lime Shrimp With Noodles](/images/uploads/2018_05_07_ginger_lime_shrimp_with_noodles_5.jpg)
 </br>
 </br>
@@ -40,6 +44,7 @@ We love the taste and texture of soba noodles and we tend to use those more freq
 When it comes to flavoring things nothing beats a good marinade. I would definitely not skip this step. This step gives the shrimp and the whole dish so much flavour. I usually make the marinade and stick my shrimp in it the night before and that way meal prep is even simpler.
 </br>
 </br>
+
 ![Ginger Lime Shrimp With Noodles](/images/uploads/2018_05_07_ginger_lime_shrimp_with_noodles_6.jpg)
 </br>
 </br>
@@ -47,6 +52,7 @@ When it comes to flavoring things nothing beats a good marinade. I would definit
 Basically you see a very clear theme in this dish - simple, quick, easy meal prep. What more could I want especially for a midweek meal. Our leftovers make it for lunch the next day. If I’m home I like to reheat them in a skillet with a little more sesame oil and soy sauce! They are just as delicious the next day! This is a great recipe and a staple one in our home. It’s one we love to switch up and add different things to according to what is in the fridge at the time. If you like ginger and lime as much as I do you will love this quick and easy meal!
 </br>
 </br>
+
 ![Ginger Lime Shrimp With Noodles](/images/uploads/2018_05_07_ginger_lime_shrimp_with_noodles_7.jpg)
 </br>
 </br>
@@ -106,4 +112,5 @@ __Garnishes (all optional but definitely recommended)__
 Inspired by _How Sweet Eats_
 
 </br>
+
 ![Ginger Lime Shrimp With Noodles](/images/uploads/2018_05_07_ginger_lime_shrimp_with_noodles_8.jpg)

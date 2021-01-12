@@ -14,6 +14,7 @@ description: These paper thing lace cookies are crunchy, nutty and extra special
 I hadn’t had Florentine cookies or lace cookies as they are often called, in a long while and then last year on a trip to New York I was happily reacquainted with them. We were staying with friends and they had a pack of these lace cookies from Trader Joe’s. They were the dark chocolate and almond one. Just one bite is all it took to be completely addicted to them. Since then they have been on my list to make.
 </br>
 </br>
+
 ![Chocolate Hazelnut Florentine Cookies (Lace Cookies)](/images/uploads/2019_01_08_chocolate_hazelnut_florentine_cookies_2.jpg)
 </br>
 </br>
@@ -21,6 +22,7 @@ I hadn’t had Florentine cookies or lace cookies as they are often called, in a
 I had looked up many recipes for lace cookies and a lot of them required a candy thermometer, others asked for corn syrup which if I can avoid I will, and then others had just a long list of what I thought were unnecessary ingredients. Well just a few months ago I won a giveaway on Instagram hosted by Rebecca of Displaced Housewife and the winner received a copy of Food 52’s booK Genius Desserts. It’s a beautiful book and I was so happy to have won it.
 </br>
 </br>
+
 ![Chocolate Hazelnut Florentine Cookies (Lace Cookies)](/images/uploads/2019_01_08_chocolate_hazelnut_florentine_cookies_3.jpg)
 </br>
 </br>
@@ -28,6 +30,7 @@ I had looked up many recipes for lace cookies and a lot of them required a candy
 As I booked marked page after page in it, I came across Erna’s Lace cookies. I scanned the recipe and it didn’t include any of the two things I mentioned above and had a very short ingredient list. That page got book marked too and I finally had some time to make them while I was on holidays from the office. I decided to make mine with toasted hazelnuts instead of blanched almonds so if you prefer using almonds then feel free to sub out the hazelnuts for them. The amounts are the same whether you use hazelnuts or almonds.
 </br>
 </br>
+
 ![Chocolate Hazelnut Florentine Cookies (Lace Cookies)](/images/uploads/2019_01_08_chocolate_hazelnut_florentine_cookies_4.jpg)
 </br>
 </br>
@@ -35,6 +38,7 @@ As I booked marked page after page in it, I came across Erna’s Lace cookies. I
 I also decided to take these up a notch by making them into lace cookie sandwiches with a layer of Nutella or hazelnut spread between them. The best treat ever you guys!! I don’t have much of a sweet tooth but when it come to Nutella I all of a sudden develop one.
 </br>
 </br>
+
 ![Chocolate Hazelnut Florentine Cookies (Lace Cookies)](/images/uploads/2019_01_08_chocolate_hazelnut_florentine_cookies_5.jpg)
 </br>
 </br>
@@ -42,6 +46,7 @@ I also decided to take these up a notch by making them into lace cookie sandwich
 These are fantastic on their own if you think the hazelnut spread may be a little too much. I say if you aren’t sure do a couple with and test them out and see what you think before you make sandwiches of them all. I think you guys are going to love them. They are simple to make and I love watching them bubble wildly and expand and flatten in the oven as they bake. It’s almost magical. Enjoy them guys!
 </br>
 </br>
+
 ![Chocolate Hazelnut Florentine Cookies (Lace Cookies)](/images/uploads/2019_01_08_chocolate_hazelnut_florentine_cookies_6.jpg)
 </br>
 </br>
@@ -84,4 +89,5 @@ Makes about 30 cookies
 </br>
 <a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
+
 ![Chocolate Hazelnut Florentine Cookies (Lace Cookies)](/images/uploads/2019_01_08_chocolate_hazelnut_florentine_cookies_7.jpg)

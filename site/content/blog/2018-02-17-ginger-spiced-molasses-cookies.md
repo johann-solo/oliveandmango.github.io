@@ -18,9 +18,11 @@ These ginger spiced molasses cookies are delightfully chewy with a crisp sugar c
 I have always been team chocolate chunk but I thought I should widen out when it comes to cookies so I started experimenting with ginger cookies. This recipe is the result of doing so. Homemade ginger molasses cookies are so much better than any store bought molasses cookie out there and worth investing in a box or tin of molasses - you will be making batches and batches of these. 
 </br>
 </br>
+
 ![Ginger Spiced Molasses Cookies](/images/uploads/2018_02_17_ginger_spiced_molasses_cookies_2.jpg)
 </br>
 </br>
+
 ![Ginger Spiced Molasses Cookies](/images/uploads/2018_02_17_ginger_spiced_molasses_cookies_3.jpg)
 </br>
 </br>
@@ -28,9 +30,11 @@ I have always been team chocolate chunk but I thought I should widen out when it
 Homemade soft molasses cookies with crackly tops are super chewy and so perfectly spiced. They stay seriously soft for days – if they last that long. I loved using some of mine to make ice cream sandwiches with my [chestnut ice cream](https://www.oliveandmango.com/no-churn-roasted-chestnut-ice-cream/). Sounds like a weird combo - well I was inspired by an Italian chestnut cookie called tortelli that I love. They have a chestnut spiced filling with ginger, clove and cinnamon - similar spices found in these cookies. They cookies are so soft and chewy and dense enough to hold up in a cookie sandwich. 
 </br>
 </br>
+
 ![Ginger Spiced Molasses Cookies](/images/uploads/2018_02_17_ginger_spiced_molasses_cookies_4.jpg)
 </br>
 </br>
+
 ![Ginger Spiced Molasses Cookies](/images/uploads/2018_02_17_ginger_spiced_molasses_cookies_5.jpg)
 </br>
 </br>
@@ -88,4 +92,5 @@ These cookies are seriously addictive. I found myself going back for more every 
 Adapted from _Martha Stewart_
 
 </br>
+
 ![Ginger Spiced Molasses Cookies](/images/uploads/2018_02_17_ginger_spiced_molasses_cookies_6.jpg)
