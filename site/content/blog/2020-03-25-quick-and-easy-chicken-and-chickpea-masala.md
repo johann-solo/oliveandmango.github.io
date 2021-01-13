@@ -10,7 +10,7 @@ excerpt: Hearty, saucy chana (chickpea) and chicken dish made in the Instant Pot
 keywords: ["Indian recipes", "chana masala", "chicken masala recipes", "easy Indian recipes", "Instant Pot curry recipes", "Instant Pot Indian recipes"]
 description: Hearty, saucy chana (chickpea) and chicken dish made in the Instant Pot or stovetop.
 ---
-
+<span class="blog-text">
 This hearty saucy chickpea, chicken and tomato dish is loaded with warming spices. It’s so quick to make using the Instant pot or pressure cooker if you have one but worth the extra time if you decide to braise this stovetop or in the oven. Instructions for both included. 
 </br>
 </br>
@@ -35,7 +35,7 @@ Authentic chana masala is typically made with whole spices, plus some dried mang
 </br>
 </br>
 
-This quick and easy chicken and chickpea masala recipe is great served over basmati rice or served with warm buttery naan. It’s loaded with warm spices, hearty, and makes great leftovers, too! The flavours actually get better the next day. It’s become a staple recipe on our home and worth pulling out the instant pot for a speedy dinner!  
+This quick and easy chicken and chickpea masala recipe is great served over basmati rice or served with warm buttery naan. It’s loaded with warm spices, hearty, and makes great leftovers, too! The flavours actually get better the next day. It’s become a staple recipe on our home and worth pulling out the instant pot for a speedy dinner! 
 </br>
 </br>
 
@@ -61,52 +61,67 @@ This quick and easy chicken and chickpea masala recipe is great served over basm
 * Heavy cream - substitute with either yoghurt or coconut milk for a dairy free option 
 * Make the dish vegan by subsisting butter with oil, and cream for coconut milk, omitting the chicken and braising the chickpeas In a sauce for 20 minutes (do not use the instant pot method with canned chickpeas) 
 * Crushed tomatoes can be substituted with whole canned tomatoes that you can crush with the back fo spoon, or diced tomatoes
-* Spinach can be replaced with any other greens 
+* Spinach can be replaced with any other greens  
+
+</br>
+{{< youtube aO6xkyZfAJY >}}
+</br>
+</br>
+</span>
 
 ### Recipe
-Serves 4-6
-</br>
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">4-6</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">10-15 mins</div>
+<div>Cook Time Pressure Cooker (Instant Pot): <meta itemprop="cookTime" content="PT22M">20-22 mins</div>
+<div>Cook Time Stove Top: 45-60 min</div>
 </br>
 
 ### Ingredients
-
-* <span itemprop="ingredients">2 tablespoons unsalted butter (plus more as needed if you are browning the chicken) </span>
-* <span itemprop="ingredients">1 medium onion, finely diced </span>
-* <span itemprop="ingredients">6 cloves garlic, minced </span>
-* <span itemprop="ingredients">2-3 fresh green chilies sliced with seeds or seedless if you want less heat </span>
-* <span itemprop="ingredients">2 tbsp tablespoon grated fresh ginger</span>
+* <span itemprop="ingredients">2 tablespoons unsalted butter (plus more as needed if you are browning the chicken)</span>
+* <span itemprop="ingredients">2 tablespoons olive oil or any vegetable oil </span>
+* <span itemprop="ingredients">1 medium onion, finely diced</span>
+* <span itemprop="ingredients">3 cloves garlic, minced</span>
+* <span itemprop="ingredients">2 fresh green chilies sliced with seeds or seedless if you want less heat</span>
+* <span itemprop="ingredients">1 inch grated fresh ginger</span>
 * <span itemprop="ingredients">1 tablespoon ground cumin</span>
-* <span itemprop="ingredients">1 tbsp ground coriander</span>
+* <span itemprop="ingredients">1 tablespoon ground coriander</span>
 * <span itemprop="ingredients">1 teaspoon ground turmeric</span>
-* <span itemprop="ingredients">1 tsp chili powder </span>
-* <span itemprop="ingredients">&frac12; tsp salt and pepper plus more to taste </span>
-* <span itemprop="ingredients">1 (15 ounce) can crushed tomatoes</span>
-* <span itemprop="ingredients">1 pound fresh spinach leaves, trimmed (or frozen but thawed and extra water squeezed out) </span>
-* <span itemprop="ingredients">1 tbsp of freshly squeezed lemon juice plus more according to taste </span>
-* <span itemprop="ingredients">&frac12; cup chopped fresh cilantro leaves plus more for serving </span>
-* <span itemprop="ingredients">3 pounds chicken drumsticks and thighs (approx 4 to 6 of each)</span>
-* <span itemprop="ingredients">&frac12; cup chicken stock</span>
-* <span itemprop="ingredients">2 (15-ounce) cans chickpeas, drained</span>
-* <span itemprop="ingredients">1 tsp Garam Masala </span>
-* <span itemprop="ingredients">&frac12; cup heavy cream</span>
+* <span itemprop="ingredients">1 teaspoon chili powder</span>
+* <span itemprop="ingredients">½ teaspoon each of salt and pepper plus more to taste</span>
+* <span itemprop="ingredients">1 (28 ounce) can crushed tomatoes</span>
+* <span itemprop="ingredients">200 grams fresh spinach leaves -  add extra according to taste (or frozen but thawed and extra water squeezed out)</span>
+* <span itemprop="ingredients">1 tablespoon of freshly squeezed lemon juice plus more according to taste</span>
+* <span itemprop="ingredients">½ cup chopped fresh cilantro leaves plus more for serving</span>
+* <span itemprop="ingredients">2-2½ pounds chicken drumsticks and thighs (approx 4 to 6 of each)</span>
+* <span itemprop="ingredients">½ cup chicken stock</span>
+* <span itemprop="ingredients">1 (19-ounce) can chickpeas, rinsed and drained</span>
+* <span itemprop="ingredients">1 teaspoon Garam Masala</span>
+* <span itemprop="ingredients">½ cup heavy cream</span>
+</br>
+</br>
 
 ### Directions
 
-1. Heat butter in a pressure cooker over medium-high heat (sauté setting on instant pot). Add onions, garlic, chilis and ginger. Cook, stirring frequently, until onions are translucent and just starting to get some golden colour on them - approximately 5 minutes. 
-2. Add cumin, coriander, turmeric, and chili pepper stirring frequently, until aromatic, about 30 seconds. Add crushed tomatoes and spinach and cook, stirring occasionally, until spinach is wilted, just a few minutes and scrape the bottom of the pot well to release all the brown bits. 
-3. Add half of cilantro, chicken stock, and chicken pieces. Stir to combine. Seal instant pot/pressure cooker and heat to high pressure  and program to cook for 15 minutes with quick release.**
-4. Remove lid and stir in drained chickpeas, 1 tablespoons lemon juice, and simmer (you may need to turn the Instant pot back on to sauté setting for a quick simmer), stirring frequently, until sauce is slightly reduced and thickened, just a few minutes. Season to taste with salt. Remove from heat and stir in the cream and Garam masala. Serve immediately, garnished with remaining cilantro leaves.
-
-* Note: if you decide to brown your chicken before sweating the onions and chili’s that is fine just adjust the timing to 12 minutes instead of 15 as the chicken will cook through a little, while browning.
+1.	Heat butter and oil in a pressure cooker over medium-high heat (sauté setting on instant pot). Add onions, garlic, chilis and ginger. Cook, stirring frequently, until onions are translucent and just starting to get some golden colour on them - approximately 5 minutes. (See note about browning chicken) 
+2.	Add cumin, coriander, turmeric, and chili pepper stirring frequently, until aromatic, about 30 seconds. Add crushed tomatoes and spinach and cook, stirring occasionally, until spinach is wilted, just a few minutes and scrape the bottom of the pot well to release all the brown bits.
+3.	Add half of cilantro, the chicken stock, and the chicken pieces. Stir to combine. Seal instant pot/pressure cooker and heat to high pressure and program to cook for 15 minutes with quick release.
+4.	Remove lid and stir in drained chickpeas, 1 tablespoons lemon juice, and simmer (you may need to turn the Instant pot back on to sauté setting for a quick simmer), stirring frequently, until sauce is slightly reduced and thickened, just a few minutes. Season to taste with salt. Remove from heat and stir in the cream and Garam masala. Serve immediately, garnished with remaining cilantro leaves.
 </br>
 </br>
 
-### Stove top and oven braising instructions
+### Recipe Notes
+* If you decide to brown your chicken before sweating the onions and chili’s that is fine just adjust the timing to 12 minutes instead of 15 as the chicken will cook through a little, while browning. Brown the chicken then remove and set aside and continue with step 1 adding the onions, garlic chili’s. Add the chicken back into the pot along with any juices as directed in step 3 
 
-1. Heat butter in a large dutch oven or heavy bottom stewing pot over medium-high heat. (If browning chicken - Add them in at this point and brown on all sides in batches then remove and set aside on a plate). 
-2. Add onions, garlic, chilis and ginger. Cook, stirring frequently, until onions are translucent and just starting to get some golden colour on them - about 5 minutes. 
-3. Add cumin, coriander, turmeric, and chili pepper stirring frequently, until aromatic, about 30 seconds. Add crushed tomatoes and spinach and cook, stirring occasionally, until spinach is wilted, about 2 minutes. Add half of cilantro, chicken stock, and chicken pieces in or back in if you had browned and removed them. Stir to combine. Cover pot and transfer to oven. Or leave on the stovetop - allow to braise until fork-tender, 45-55 minutes. 
-4. Remove (remove from oven if braising in oven and place on burner on medium so it continues to simmer) lid and stir in drained chickpeas, 1 tablespoons lemon juice, and simmer stirring frequently, until sauce is thickened, just a few minutes. Season to taste with salt. Remove from heat and stir in the cream and Garam Masala. Serve immediately, garnished with remaining cilantro leaves and extra lemon slices. Serve with rice or naan bread. 
+* Stove top and oven braising instructions
+	1.	Heat butter in a large dutch oven or heavy bottom stewing pot over medium-high heat. (If browning chicken - Add them in at this point and brown on all sides in batches then remove and set aside on a plate).
+	2.	Add onions, garlic, chilis and ginger. Cook, stirring frequently, until onions are translucent and just starting to get some golden colour on them - about 5 minutes.
+	3.	Add cumin, coriander, turmeric, and chili pepper stirring frequently, until aromatic, about 30 seconds. Add crushed tomatoes and spinach and cook, stirring occasionally, until spinach is wilted, about 2 minutes. Add half of cilantro, chicken stock, and chicken pieces in or back in if you had browned and removed them. Stir to combine. Cover pot and transfer to oven. Or leave on the stovetop - allow to braise until fork-tender, 45-55 minutes.
+	4.	Remove (remove from oven if braising in oven and place on burner on medium so it continues to simmer) lid and stir in drained chickpeas, 1 tablespoons lemon juice, and simmer stirring frequently, until sauce is thickened, just a few minutes. Season to taste with salt. Remove from heat and stir in the cream and Garam Masala. Serve immediately, garnished with remaining cilantro leaves and extra lemon slices. Serve with rice or naan bread.
+</br>
 
 Adapted from _Serious Eats_
 
