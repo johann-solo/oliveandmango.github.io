@@ -3,4 +3,19 @@
         <div class="list_splash">Olive &amp; Mango</div>
         <p>Inspiring ideas for delicious home cooking</p>
     </div>
+    <script>
+        function search() {
+          const search = searchquery.value
+          if (search) {
+            window.location.href = `/search/?query=${search}` 
+          }
+        }
+      </script>
+      <section class="search_section">
+        <form class="search" onsubmit="search(); return false">
+          <input type="text" id="searchquery" placeholder="Search">
+          <button class="search-btn" id="submitsearch"><i
+              class="fa fa-search" aria-hidden="true"></i></button>
+        </form>
+    </section>
 </div>
