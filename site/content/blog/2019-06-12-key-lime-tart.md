@@ -10,7 +10,7 @@ excerpt: A no fuss, silky smooth tart with a 4 ingredient filling
 keywords: ["lime tarts", "citrus tarts"]
 description: A no fuss, silky, smooth no bake lime tart with a 4 ingredient filling
 ---
-
+<span class="blog-text">
 A silky smooth filling that is so simple to make and only 4 ingredients. The ginger snap base adds a delicious flavour with lime and a crispy base. When you are craving a citrus pie but don’t want to fuss with pastry cream or a pastry crust this is the best choice. It also bakes up - crust and filling-  in under 30 minutes. A quick and easy dessert like this is perfect for the Summer when you don’t feel like making anything that requires too much oven time and is delicious served cold. I saved this recipe not too long ago from _NYT Cooking_ and I finally got a chance to make it. I saw that limes were on sale and thought of this pie. I bought a huge bagful because you really can never have enough limes and lemons and couldn’t wait to try it. 
 </br>
 </br>
@@ -29,7 +29,7 @@ I decided to use ginger snap cookies for the base because I love ginger and lime
 </br>
 
 ## How to make the perfect lime tart
-This pie could not be easier and I can’t wait for you guys to try it! You will love it! Perfect sweetness to tart ratio and is also the perfect canvas to have some fun with when it comes to topping it. I used lime slices and edible spring pansies. But this tart is also so delicious topped with a few dollops or swirls of whip cream. It’s the perfect way to satisfy your citrus pie craving with little effort and time, a total win for me! 
+Simply make your cookie crumb base and bake until golden. Allow it too cool while you mix all your filling ingredients together. Pour the filling into cooled crust and bake for another 10-15 min or until it’s set - then cool to room temperature and then refrigerate 2-3 hours until fully set. This pie could not be easier and I can’t wait for you guys to try it! You will love it! Perfect sweetness to tart ratio and is also the perfect canvas to have some fun with when it comes to topping it. I used lime slices and edible spring pansies. But this tart is also so delicious topped with a few dollops or swirls of whip cream. It’s the perfect way to satisfy your citrus pie craving with little effort and time, a total win for me! 
 </br>
 </br>
 
@@ -40,9 +40,19 @@ This pie could not be easier and I can’t wait for you guys to try it! You will
 {{< youtube 8_vyr6IyFXo >}}
 </br>
 </br>
+</span>
 
-### Recipe  
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
 
+<div>Servings: <span itemprop="recipeYield">8</div>
+<div>Yield: one - 9 inch pie</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT20M">15-20 mins</div>
+<div>Bake Time: <meta itemprop="cookTime" content="PT23M">20-23 mins</div>
+<div>Cooling Time: 3 hours</div>
+</br>
 
 ### Ingredients
 
