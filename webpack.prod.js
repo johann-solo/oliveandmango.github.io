@@ -26,7 +26,7 @@ module.exports = merge(common, {
         chunkFilename: "[id].css"
       }),
 
-      // new OptimizeCSSAssetsPlugin({})
+      new OptimizeCSSAssetsPlugin({})
     ]
   }
 });

@@ -5,4 +5,4 @@ console.log("🦊 meow!");
 
 require("./bloglovin.js");
 require("./lazyload.js");
-// require("./search.js");
+require("./search.js");
