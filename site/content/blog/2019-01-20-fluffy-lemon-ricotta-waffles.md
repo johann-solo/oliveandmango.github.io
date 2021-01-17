@@ -36,7 +36,7 @@ Back to these waffles though. I’m trying to make something special for hubby o
 </br>
 
 ### Why add ricotta to waffles? 
-As I mentioned above, ricotta adds a really nice fluffy texture to the waffles and who doesn’t want fluffy waffles with golden crisp edges? Ricotta isn’t something you necessarily taste in baked goods - the pancakes definitely don't taste "cheesy", but rather, the ricotta adds a really nice milky richness and creaminess to each bite.
+As I mentioned above, ricotta adds a really nice fluffy texture to the waffles and who doesn’t want fluffy waffles with golden crisp edges? Ricotta isn’t something you necessarily taste in baked goods - the waffles definitely don't taste "cheesy", but rather, the ricotta adds a really nice milky richness and creaminess to each bite.
 </br>
 </br>
 
