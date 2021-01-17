@@ -10,7 +10,7 @@ excerpt: Extra fluffy waffles with a lemony zest
 keywords: ["waffles", "ricotta", "lemons", "breakfast"]
 description: These lemon ricotta waffles are soft, tender and so flavourful. Adding ricotta makes them extra fluffy and you really get a nice lemony zing in them thanks to the good amount of fresh lemon juice and zest.
 ---
-
+<span class="blog-text">
 These lemon ricotta waffles are soft, tender and so flavourful. Adding ricotta makes them extra fluffy and you really get a nice lemony zing in them thanks to the good amount of fresh lemon juice and zest.
 </br>
 </br>
@@ -51,10 +51,16 @@ Lemon ricotta is quite a classic combo for baked goods and it works beautifully 
 {{< youtube 1b6b3qP7wXk >}}
 </br>
 </br>
+</span>
 
-## Recipe
-Makes 4-6 large ones and 10-12 small-medium ones  
-</br>
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">Makes 4-6 large ones and 10-12 small-medium ones </div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">15 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT30M">20-30 mins</div>
 </br>
 
 ### Ingredients 
@@ -71,6 +77,8 @@ Makes 4-6 large ones and 10-12 small-medium ones
 * <span itemprop="ingredients">3 tbsp fresh lemon juice</span>
 * <span itemprop="ingredients">&frac12; cup ricotta cheese</span>
 * <span itemprop="ingredients">&frac34; cup milk </span>
+<br>
+<br>
 
 ### Directions
 
@@ -85,11 +93,12 @@ Makes 4-6 large ones and 10-12 small-medium ones
 9. These waffles can also be individually wrapped and frozen. They are great heated up in the toaster or in the oven
 
 ### Recipe Notes
-If using a standing waffle iron or one that you have to pour the batter into, you may have to thin out the batter a little a tbsp at a time (with milk or water) until you achieve a more pourable consistency.
+* If using a standing waffle iron or one that you have to pour the batter into, you may have to thin out the batter a little a tbsp at a time (with milk or water) until you achieve a more pourable consistency.
 
 </br>
-</br>
+
 Recipe adpated from _The Food Network_ and _Joy the Baker_
+</br>
 </br>
 
 ![Fluffy Lemon Ricotta Waffles](/images/uploads/2019_01_20_fluffy_lemon_ricotta_waffles_6.jpg)
