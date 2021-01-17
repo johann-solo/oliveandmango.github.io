@@ -36,11 +36,11 @@ What I have learned from trying several versions of this and doing my reading on
 
 ## How to make Farinata 
 Simply mix the water with the chickpea flour until a smooth batter forms. Let the batter rest for at least 1 hour to fully hydrate before putting it in the hot skillet. Skim off the foam from the top of the batter before putting in to the hot pan for a more stable batter. Stir in any herb you would like to add to the batter just before pouring it in to the pan - that includes the salt as well and any add ins. I like to caramelize my onions or shallots ahead of time and then stir them in the batter before pouring it into the hot pan. Bake until edges are nice and crispy and serve hot right out the pan or slide it out of the pan onto cutting board and slice and enjoy with some extra salt and pepper sprinkled over top. If making it into a pizza - cook the pancake halfway through, carefully remove pan from oven, add your toppings and then bake for the remaining time. I like to bake mine till nice and crispy on the bottom and edges. It’ll be a thin, crispy, and delicious. Hope you enjoy! 
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube 76Q6oWqTnrc >}}
+</br>
+</br>
 </span>
 
 ### Recipe
