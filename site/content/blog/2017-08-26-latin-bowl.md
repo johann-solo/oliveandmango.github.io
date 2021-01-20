@@ -73,8 +73,8 @@ Hope you enjoy these recipes as much as we did!! Let me know if you try any of t
 1. Grease the baking sheet again if needed with a little more coconut oil and then place the flattened tostones back on the sheet and bake for another 10-15 minutes flipping once halfway through baking and until golden and crisp
 
 1. Once done remove and sprinkle with salt and serve
-
 <br>
+
 ![Vegan Fiesta Bowl](/images/uploads/2017_08_26_fiesta_bowl_9.JPG)
 <br>
 <br>
@@ -102,8 +102,8 @@ Hope you enjoy these recipes as much as we did!! Let me know if you try any of t
 5. Add in your salt, water or broth and lime zest and give it a good stir. Let it come to a boil
 6. Lower heat right down to low and cover and cook for 20-30 minutes or until rice is done
 &. Once it's done remove from heat and fluff with a fork. Transfer it out into a bowl and toss with the lime juice and cilantro. Season with more S&P if needed.
-
 <br>
+
 ![Vegan Fiesta Bowl](/images/uploads/2017_08_26_fiesta_bowl_10.JPG)
 <br>
 <br>
@@ -128,8 +128,8 @@ Hope you enjoy these recipes as much as we did!! Let me know if you try any of t
 1. Then add the onions and oregano and season with salt and pepper and continue to sauté until everything is pretty much all golden brown and caramelized
 
 1. Add the garlic at that point and the taco seasoning if using with a tbsp or two of water and sauté everything for just another couple of minutes and then remove from heat and serve
-
 <br>
+
 ![Vegan Fiesta Bowl](/images/uploads/2017_08_26_fiesta_bowl_11.JPG)
 <br>
 <br>
@@ -159,8 +159,8 @@ Hope you enjoy these recipes as much as we did!! Let me know if you try any of t
 1. In a medium sauce pan heated to medium add and heat up the oil and then add the onions, peppers, scallions or chives, oregano, cilantro and cumin and sauté for approx 5 minutes or until veggies are softened.  
 
 1. Add the garlic and sauté for another minute and then add the beans and stir well. Smash some of the beans on the side of the pot with your stirring spoon and then add the the water or broth, vinegar and bay leaf and sugar if adding and let simmer on medium for approx 15-20 minutes stirring occasionally and adding more broth or water if needed to prevent the beans from sticking to pan. Season with salt and pepper and serve
-
 <br>
+
 ![Vegan Fiesta Bowl](/images/uploads/2017_08_26_fiesta_bowl_12.JPG)
 <br>
 <br>
