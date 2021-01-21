@@ -37,7 +37,7 @@ I decided that this was the recipe I would try Bob’s Red Mill Paleo Baking flo
 </br>
 </br>
 
-This cake is made with freshly squeezed lemon juice and lemon zest for maximum lemon flavours in it. It’s a cake for all ocassion and especially during citrus season when the lemons are extra fresh and in abundance! It requires super basic pantry staples making it so simple to make and you can use what we shape bundt pan you would like. Just make sure you grease your pan well - with butter or even baking spray - I mean every nook and cranny and your cake will come out of the pan flawlessly. Hope you love this one just as much as I do!
+This cake is made with freshly squeezed lemon juice and lemon zest for maximum lemon flavours in it. It’s a cake for all ocassion and especially during citrus season when the lemons are extra fresh and in abundance! It requires super basic pantry staples making it so simple to make and you can use whatever shape bundt pan you would like. Just make sure you grease your pan well - with butter or even baking spray - I mean every nook and cranny and your cake will come out of the pan flawlessly. Hope you love this one just as much as I do!
 </br>
 </br>
 
@@ -50,6 +50,9 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 </br>
 
 ![Lemon Bundt Cake](/images/uploads/2020_02_21_lemon_bundt_cake_6.jpg)
+</br>
+</br>
+{{< youtube JdmPTuBzLzU >}}
 </br>
 </br>
 </span>
