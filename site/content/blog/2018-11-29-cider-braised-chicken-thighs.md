@@ -66,7 +66,7 @@ This was a hit with my family and I was happy to add another delicious chicken r
 ![Cider Braised Chicken Thighs With The Creamiest Cauliflower Mash](/images/uploads/2018_11_29_cider_braised_chicken_thighs_8.jpg)
 </br>
 </br>
-{{< youtube pbx-HCVD1wA >}}
+{{< youtube kxBtE9AN8r4 >}}
 </br>
 </br>
 
