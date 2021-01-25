@@ -6,13 +6,13 @@ thumbnail: /images/uploads/2017_07_27_briam_greek_roasted_mixed_vegetables_1.jpg
 scaled_thumbnail: /images/uploads/2017_07_27_briam_greek_roasted_mixed_vegetables_0.jpg
 categories: ["mains"]
 tags: ["Greek", "vegetarian", "ratatouille"]
-excerpt: A classic end-of-summer vegetable stew that is comparable to a Greek ratatouille
+excerpt: A classic vegetable stew that is comparable to a Greek ratatouille
 keywords: ["Greek ratatouille"]
-description: A classic end-of-summer vegetable stew that is comparable to a Greek ratatouille
+description: A classic vegetable stew that is comparable to a Greek ratatouille
 ---
 <span class="blog-text">
 
-Briam is basically the Greek equivalent of Ratatouille. A classic end-of-summer vegetable stew packed with hearty fresh produce: tomatoes, eggplant, zucchini, sweet peppers and potatoes. In this version the veggies are roasted and cooked until they have released their juices and have melted into a stewy mix. It’s simple to make and also a delicious way to empty out your crisper. Although it’s most delicious and sweet using summer’s fresh produce, it’s a dish I crave and make all year round. It can be served as a meal tossed into pasta, served over creamy Parmesan polenta as pictured - or with loads of crusty bread, or it can be served as a side. Any way you have it you will enjoy this unfussy, versatile and forgiving dish.
+Briam is basically the Greek equivalent of ratatouille. A classic end-of-summer vegetable stew packed with hearty fresh produce: tomatoes, eggplant, zucchini, sweet peppers and potatoes. In this version the veggies are roasted and cooked until they have released their juices and have melted into a stewy mix. It’s simple to make and also a delicious way to empty out your crisper. Although it’s most delicious and sweet using summer’s fresh produce, it’s a dish I crave and make all year round. It can be served as a meal tossed into pasta, served over creamy Parmesan polenta as pictured - or with loads of crusty bread, or it can be served as a side. Any way you have it you will enjoy this unfussy, versatile and forgiving dish.
 </br>
 </br>
 
