@@ -56,9 +56,9 @@ Many recipes for briam, also known as tourlou tourlou (which appropriately liter
 Go ahead and give it a try! It’s simple to make and so wonderfully satisfying! Besides we all could use a few more portions of veggies in a day and this would definitely take care of that!
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube o1LzAHlpdwk >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
@@ -85,6 +85,7 @@ Go ahead and give it a try! It’s simple to make and so wonderfully satisfying!
 * <span itemprop="recipeIngredient">1 tbsp oregano</span>
 * <span itemprop="recipeIngredient">2 teaspoons of fresh thyme (3-4 sprigs)</span>
 * <span itemprop="recipeIngredient">½ cup of Extra virgin olive oil</span>
+* <span itemprop="recipeIngredient">2-4 tbsp of balsamic vinegar</span>
 * <span itemprop="recipeIngredient">1 tbsp tomato paste mixed or diluted in 1/4 cup of water</span>
 * <span itemprop="recipeIngredient">Salt and pepper to taste</span>
 * <span itemprop="recipeIngredient">½ cup of feta to crumble over before serving</span>
