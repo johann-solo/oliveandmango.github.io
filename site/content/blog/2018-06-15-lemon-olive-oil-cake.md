@@ -66,9 +66,11 @@ The recipe note below and expert from the book itself explains the SECRET ingred
 </br>
 
 ![Lemon Olive Oil Cake](/images/uploads/2018_06_15_lemon_olive_oil_cake_8.jpg)
-<!--{{< youtube RduN7iwdB4E >}}
 </br>
-</br>-->
+</br>
+{{< youtube ptFFbhoeSJI  >}}
+</br>
+</br>
 </span>
 
 ### Recipe
