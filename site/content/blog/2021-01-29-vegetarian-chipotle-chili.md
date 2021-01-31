@@ -43,11 +43,11 @@ This is a chili we make often especially in the winter when we are craving heart
 </br>
 
 Once all your ingredients are in the pot and have simmered away until they are tender and smelling amazing, the big decision will be what to top your chili with. The options are endless. I love to load mine up with the many options I have listed below in the recipe and I recommend you do the same. I also love a squeeze of lime juice in mine as well as a coupe of dashes of hot sauce. A warm bowl of chili with all the toppings or maybe a side of corn bread or even just some crusty bread a glass of wine and my night is made. Hope you enjoy this one you guys!
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube JINHzrsLw3I >}}
+</br>
+</br>
 </span>
 
 ### Recipe
