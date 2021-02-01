@@ -20,7 +20,7 @@ These No-bake Chocolate Peanut Butter Bars are rich and delicious and also vegan
 </br>
 </br>
 
-Most no bake peanut butter bar recipes are made with a combination of peanut butter,  powdered sugar, butter and graham crackers to make the peanut butter crust. I use almond protein powder and maple syrup instead to make the recipe dairy-free and refined sugar free. I partnered up with Bob’s Red Mill to use their Gluten Free Almond Protein Powder. The almond protein like almond flour, not only helps these bars hold together (the perfect replacement to powdered sugar) but it also adds loads of extra protein to these bars. It’s made with the highest quality blanched almonds, finely ground to a creamy powder that blends perfectly into smoothies, baked goods, sauces, salad dressings and more. It gives you 20 grams of protein per serving, made with 1 simple ingredient. No added flavors, colors or sweeteners and non-GMO Verified, vegan, and gluten free. It’s so easy to add to baked goods and was perfect in these bars.
+Most no bake peanut butter bar recipes are made with a combination of peanut butter,  powdered sugar, butter and graham crackers to make the peanut butter crust. I use almond protein powder and maple syrup instead to make the recipe dairy-free and refined sugar free. I partnered up with Bob’s Red Mill to use their <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/almond-protein-powder.html">Gluten Free Almond Protein Powder</a></span>. The almond protein like almond flour, not only helps these bars hold together (the perfect replacement to powdered sugar) but it also adds loads of extra protein to these bars. It’s made with the highest quality blanched almonds, finely ground to a creamy powder that blends perfectly into smoothies, baked goods, sauces, salad dressings and more. It gives you 20 grams of protein per serving, made with 1 simple ingredient. No added flavors, colors or sweeteners and non-GMO Verified, vegan, and gluten free. It’s so easy to add to baked goods and was perfect in these bars.
 </br>
 </br>
 
@@ -87,14 +87,14 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 ### Ingredients
 #### Base
 * <span itemprop="recipeIngredient">1 cup natural peanut butter (I used smooth but you can use crunchy too)</span>
-* <span itemprop="recipeIngredient">1/4 cup maple syrup or agave</span>
+* <span itemprop="recipeIngredient">&frac14; cup maple syrup or agave</span>
 * <span itemprop="recipeIngredient">1 teaspoon vanilla extract </span>
-* <span itemprop="recipeIngredient">1/4 teaspoon fine sea salt </span>
-* <span itemprop="recipeIngredient">1 cup Bob’s Red Mill Gluten Free Almond Protein Powder*</span>
+* <span itemprop="recipeIngredient">&frac14; teaspoon fine sea salt </span>
+* <span itemprop="recipeIngredient">1 cup <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/almond-protein-powder.html">Bob’s Red Mill Gluten Free Almond Protein Powder</a></span>*</span>
 
 #### Topping
 * <span itemprop="recipeIngredient">1 cup dark chocolate chips (dairy free or regular)</span>
-* <span itemprop="recipeIngredient">1/2 cup natural peanut butter</span>
+* <span itemprop="recipeIngredient">&frac12; cup natural peanut butter</span>
 * <span itemprop="recipeIngredient">Flaky sea salt for sprinkling (optional) </span>
 </br>
 </br>
