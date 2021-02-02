@@ -59,9 +59,9 @@ This is a quick and easy bowl (or I should say two bowl) and whisk brownie recip
 These are the perfect decadent treat that everyone will enjoy! Easier to whip up than a red velvet cake or a batch of cupcakes and way quicker than a cheesecake. Irresistibly fudgy. Enjoy! 
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube HGXi-J5mWvA >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
