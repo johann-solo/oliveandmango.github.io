@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_02_03_sticky_spicy_baked_chicken_wings_1.jpg
 scaled_thumbnail: /images/uploads/2018_02_03_sticky_spicy_baked_chicken_wings_0.jpg
 categories: ["appetizers"]
-tags: ["chicken", "spicy"]
+tags: ["chicken", "spicy", "wings"]
 excerpt: Restaurant style wings without the deep fryer and without leaving home
 keywords: ["homemade wing", "sweet and spicy snacks"]
 description: How to make restaurant style wings without the deep fryer and without leaving home
@@ -84,16 +84,16 @@ That’s pretty much it. They are a total win even if the team you’re rooting 
 ### Directions
 
 1. Place the wings in a resealable bag or a bowl.
-1. Add all the marinade ingredient to the wings and seal the bag and mix the wings around in it to fully coat. Or if using a a bowl toss them well with the marinade, seal tightly with foil and allow to marinate for 3 hours or even overnight.
+1. Add all the marinade ingredients to the wings and seal the bag and mix the wings around in it to fully coat. Or if using a a bowl toss them well with the marinade, seal tightly with foil and allow to marinate for 3 hours or even overnight.
 1. Preheat oven to 425°F
 1. Spread the wings on a large baking sheet and bake for 20-25 minutes flipping/tossing once in between
-1. In the meantime combine the sauce ingredients in a small sauce pan over medium heat. Whisk until smooth and bring to a simmer.  Once simmering reduce heat to low and cook until the sauce has thickened, approximately 5 minutes. Reserve a quarter of the sauce and place in a large bowl.
+1. In the meantime combine the sauce ingredients in a small sauce pan over medium heat. Whisk until smooth and bring to a simmer. Once simmering reduce heat to low and cook until the sauce has thickened, approximately 5 minutes. Reserve a &frac14; of the sauce and place in a large bowl.
 1. Remove the wings from the oven and brush with half the sauce and toss to coat well. Return to the oven and cook for another 5-10 minutes.
-1. Remove them again and turn the oven to broil. Brush the wings with remaining sauce and broil for a couple of minutes until they have deep golden brown edges and are bubbling
-1. Remove from oven and toss them in the bowl with the remaining sauce.  And serve immediately with a dusting of sesame seeds and chopped chives.
+2. Remove them again and turn the oven to broil. Brush the wings with remaining sauce and broil for 2-3 minutes until they have deep golden brown edges and are bubbling
+3. Remove from oven and toss them in the bowl with the remaining sauce. And serve immediately with a dusting of sesame seeds and chopped chives.
 <br>
 
 Adapted from the *Food Network*
-
 <br>
+
 ![Sticky And Spicy Baked Chicken Wings](/images/uploads/2018_02_03_sticky_spicy_baked_chicken_wings_7.jpg)
