@@ -44,8 +44,11 @@ That’s pretty much it. They are a total win even if the team you’re rooting 
 <br>
 <br>
 ![Sticky And Spicy Baked Chicken Wings](/images/uploads/2018_02_03_sticky_spicy_baked_chicken_wings_6.jpg)
-<br>
-<br>
+</br>
+</br>
+{{< youtube 3e_fjJ4BGKU >}}
+</br>
+</br>
 </span>
 
 ### Recipe
