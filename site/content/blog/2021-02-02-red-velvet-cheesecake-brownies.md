@@ -79,6 +79,7 @@ These are the perfect decadent treat that everyone will enjoy! Easier to whip up
 * <span itemprop="recipeIngredient">&frac12; cup (1 stick) unsalted butter</span>
 * <span itemprop="recipeIngredient">3 oz of bittersweet or semi sweet chocolate chopped (or you can use morsels/chips)</span>
 * <span itemprop="recipeIngredient">&frac34; cup granulated sugar</span>
+* <span itemprop="recipeIngredient">2 eggs</span>
 * <span itemprop="recipeIngredient">1 teaspoons pure vanilla extract</span>
 * <span itemprop="recipeIngredient">1 tablespoon unsweetened cocoa powder</span>
 * <span itemprop="recipeIngredient">&frac14; teaspoon salt</span>
