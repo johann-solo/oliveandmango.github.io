@@ -53,11 +53,11 @@ You can also top these with fried eggs or serve the eggs on the side if you want
 </br>
 
 The chips get folded into the chilaquiles sauce, then are simmered for a few minutes to soften and absorb flavor. I like to leave several chips un-smothered in sauce, so there’s still some texture there and if I’m serving these for dinner or as an appetizer or snack I always serve with extra tortilla chips for dipping into the sauce. They are delicious and the pan usually gets swiped clean. Hope you enjoy this very simplified but tasty version of a Mexican classic 
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube A4gdwYPNNiE >}}
+</br>
+</br>
 </span>
 
 ### Recipe
