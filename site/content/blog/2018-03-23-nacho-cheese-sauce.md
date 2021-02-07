@@ -12,7 +12,7 @@ description: Creamy, flavourful cheese sauce without any of the bad stuff
 ---
 <span class="blog-text">
 
-This is an easy delicious Recipe for a rich, tangy and just the right amount of spice Nacho Cheese Sauce Made Totally From Scratch! Takes minutes to make and uses only real simple ingredients! None of that processed stuff, either. It’s perfect for dipping veggies in or my [homemade soft pretzels](https://www.oliveandmango.com/homemade-soft-pretzels/) or poured over my [Sheet Pan Nachos Supreme](https://www.oliveandmango.com/sheet-pan-nachos-supreme/).
+This is an easy delicious recipe for a rich, tangy and just the right amount of spice Nacho Cheese Sauce Made Totally From Scratch! Takes minutes to make and uses only real simple ingredients! None of that processed stuff, either. It’s perfect for dipping veggies in or my [homemade soft pretzels](https://www.oliveandmango.com/homemade-soft-pretzels/) or poured over my [Sheet Pan Nachos Supreme](https://www.oliveandmango.com/sheet-pan-nachos-supreme/).
 <br>
 <br>
 
