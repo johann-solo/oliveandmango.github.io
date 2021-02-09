@@ -93,7 +93,7 @@ This will totally get devoured very quickly! I am warning you. Definitely make a
 * <span itemprop="recipeIngredient">1 13oz can of full fat evaporated milk</span>
 * <span itemprop="recipeIngredient">1 small tomato chopped finely</span>
 * <span itemprop="recipeIngredient">¼ tsp of cumin</span>
-* <span itemprop="recipeIngredient">¼ tsp of chili powder ( I like usingchipotle chili powder)</span>
+* <span itemprop="recipeIngredient">¼ tsp of chili powder (I like using chipotle chili powder)</span>
 * <span itemprop="recipeIngredient">1 small 4 oz can of chopped green chilies</span>
 * <span itemprop="recipeIngredient">¼ cup of cilantro chopped finely</span>
 * <span itemprop="recipeIngredient">2-3 tbsp of milk or water if needed</span>
@@ -113,5 +113,10 @@ This will totally get devoured very quickly! I am warning you. Definitely make a
 9. Reheat in microwave or on stove top adding a little milk or water to adjust consistency before serving. This will keep in the refrigerator for 5 to 7 days and reheats well. It's a perfect make-ahead cheese sauce/dip!
 <br>
 <br>
+
+### Recipe Note
+* You can use any cheddar cheese - old white cheddar, or regular yellow cheddar. The only thing I do recommend is to shred your own cheese - Do Not use pre shredded cheese. Pre shredded cheese contains additives to avoid clumping. As a result, sometimes they do not melt well and leave your sauce texture a bit grainy. 
+</br>
+</br>
 
 ![Nacho Cheese Sauce](/images/uploads/2018_03_23_nacho_cheese_sauce_9.jpg)

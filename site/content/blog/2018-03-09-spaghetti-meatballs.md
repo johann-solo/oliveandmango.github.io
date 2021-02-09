@@ -8,7 +8,10 @@ scaled_thumbnail: /images/uploads/2018_03_09_spaghetti_meatballs_0.jpg
 categories: ["mains"]
 tags: ["Italian", "pasta"]
 excerpt: Fork-tender meatballs in a deliciously flavourful marinara sauce
+keywords: ["classic pasta dishes"]
+description: Fork-tender meatballs in a deliciously flavourful marinara sauce
 ---
+<span class="blog-text">
 
 Like many people I am a huge fan of pasta (even gluten free). I can eat it with anything and everything or even plain or for a quick bite-buttered, tossed with fresh tomatoes, feta and drizzled with olive oil and with a lot of cracked black pepper on it.  Mmmmm! Yum! But add meat and a good sauce and it's a whole new level of love!
 </br>
@@ -62,45 +65,38 @@ The meatballs are super flavorful so nice and fork-tender. I love them.  My frie
 </br>
 </br>
 
+</span>
+
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+
 ## Homemade marinara sauce
 
 ### Ingredients
 
-* <span itemprop="ingredients"> 1&frac14;-&frac12; cup olive oil</span>
-
+* <span itemprop="ingredients"> &frac14;-&frac12; cup olive oil</span>
 * <span itemprop="ingredients"> 1 large onion chopped finely</span>
-
 * <span itemprop="ingredients"> 3 cloves garlic chopped finely</span>
-
 * <span itemprop="ingredients"> 2 carrots chopped finely</span>
-
 * <span itemprop="ingredients"> 2 stalks celery chopped finely</span>
-
 * <span itemprop="ingredients"> &frac12;-1 red sweet bell pepper chopped</span>
-
 * <span itemprop="ingredients"> 1 bay leaf</span>
-
 * <span itemprop="ingredients"> Salt and pepper to taste</span>
-
-* <span itemprop="ingredients"> 1 heaping tbsp of tomato paste</span>
-
+* <span itemprop="ingredients"> 1 heaping tbsp of tomato paste</span
 * <span itemprop="ingredients"> 2 cans crushed tomatoes (or diced if you don't have crushed- with a tbsp of tomato paste if using diced)</span>
-
 * <span itemprop="ingredients"> 3 cup plus extra of chicken broth or water</span>
-
 * <span itemprop="ingredients"> 1 small bunch of basil chopped and stirred in after blending (optional)</span>
 
 
 ### Directions
 
 1. Heat a medium sized pot to medium high heat and add the olive oil and all the onions and sauté until translucent
-
 1. Add the garlic and sauté for a minute until fragrant and the rest of the veggies and sauté for 5-10 min until they are soft.  
-
 1. Add your tomato paste and cooking, stiring for 1 minute. Then add the canned tomatoes, bay leaf and broth or water and bring to a boil then turn down heat to low and simmer for 1 hour. Stir occasionally and check to see if it needs more broth or water.  
-
 1. Once done you can check for seasoning and add more salt and pepper if needed.  You can leave the sauce chunky like it is or I like to use my immersion blender and smooth it out a bit.  Up to your personal taste.
-
 1. Gently place the meatballs in the sauce and gently simmer for 20-30 min occasionally and carefully stirring.
 </br>
 </br>
@@ -113,43 +109,26 @@ Makes approx 12-15 medium sized meatballs
 ### Ingredients
 
 * 1-1&frac12; lbs of good quality ground beef
-
 * 1-1&frac12; lbs of good quality ground pork
-
 * 1 onion chopped finely
-
 * 2 cloves of garlic chopped finely
-
-* 1-2 pieces of bread soaked in water for a minute, rung out and shredded
-
-* 1&frac12; cup of breadcrumbs
-
-* 1&frac14;-&frac12; cup of Parmesan cheese
-
-* 1&frac14; cup of parsley
-
+* 1-2 pieces of bread soaked in water for a minute, rung out and shredded or &frac12; cup of breadcrumbs
+* &frac14;-&frac12; cup of Parmesan cheese
+* &frac14; cup of parsley
 * 2 eggs
-
 * 1 tsp salt or to taste
-
 * &frac12; tsp pepper or to taste
-
 * 4 tbsps of olive oil plus one tbsp  
 
 
 ### Directions
 
 1. In a small frying pan heat up 1 tbsp of olive oil and sauté the onion and garlic for a few minutes until translucent and softened. Remove from heat and set aside to cool while prepping the meat. (See Recipe Notes)
-
 1. In a large bowl place the meats and the rest of the ingredients in the bowl along with the now cooled onion and garlic in oil.   Combine gently with fork or hands until everything is well incorporated into meat.  Do not overwork the meat.  
-
 1. Use your hands to shape into medium sized meatballs and set aside
-
 1. **Option 1** - in a large frying pan heated to medium high heat, add a couple tbsp of olive oil and add in the meatballs. Do not crowd the pan. Pan fry them in small batches until lightly browned on all sides gently turning often. (They are not suppose to be fully cooked through)
-
 1. **Option 2** - preheat oven up 350&deg;F
 Place the meatballs on a baking sheet drizzle with a little olive oil and bake until lightly browned turning once. (They are not suppose to be fully cooked through)
-
 1. Once all the meatballs are finished browning gently place them in the marinara sauce and simmer for 20-30 minutes occasionally and carefully stirring.  
 
 ### Recipe Notes
