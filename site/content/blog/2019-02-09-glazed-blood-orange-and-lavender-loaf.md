@@ -11,6 +11,7 @@ keywords: ["blood orange", "lavender", "glazed", "glazed loaf", "blood orange ca
 description: A classic citrus loaf with a blood orange punch of flavour both in the cake and in the glaze.
 ---
 <span class="blog-text">
+
 ### Update Jan 10th 2021
 This citrus packed blood orange and lavender loaf cake topped with a beautiful blood orange glaze is how I’m celebrating citrus season. Who doesn’t love a classic citrus loaf with that extra special citrus punch of flavour both in the cake and in the glaze? I’m always drawn to citrus based desserts. I love tangy and tart things both sweet and savoury. They have a way of exciting the tastebuds like nothing else and I love it
 </br>
