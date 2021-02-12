@@ -49,9 +49,9 @@ Broth/stock. I either use chicken or veggie stock that has is low sodium or no s
 Start by seasoning and searing the shrimp then remove from pan and set aside. Then cook the shallots and garlic and toast the orzo in the butter remaining in the pan with the flavours from the shrimp. Then the pan should start to get a bit dried out so the next step is to deglaze with wine and lemon juice scraping the bottom of the pan to release all the tasty brown bits. Then add the broth and allow the orzo to simmer until it’s just about cooked through making sure to check on it periodically giving it a gentle stir so it doesn’t stick to the bottom of the pan. Then we stir in the cream and cheese and finally we stir the shrimp back into the pan. Check for seasoning and serve immediately with extra Parmesan, chopped fresh parsley and extra lemon wedges and enjoy! So delicious, simple and versatile - I can’t get enough of a one pan dish like this! 
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube PRyY0HPNTRw >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
