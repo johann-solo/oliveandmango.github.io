@@ -7,7 +7,10 @@ scaled_thumbnail: /images/uploads/2017_11_05_garlic_roasted_vegetable_pesto_past
 categories: ["mains"]
 tags: ["vegetarian", "Italian"]
 excerpt: Quick and easy meatless meal with loads of flavour
+keywords: ["Pesto Pasta"]
+description: One pot creamy tortellini with sun-dried tomatoes and spinach 
 ---
+<span class="blog-text">
 
 Pasta is one of those dishes that is fabulous for a quick mid week meal.  Pasta with pesto is on rotation pretty much every week in our house. It’s delicious, low effort and you literally can add anything else you want into it.
 <br>
@@ -30,53 +33,55 @@ The addition of the pesto takes this pasta dish from good to great.  Adds so muc
 <br>
 <br>
 
+</span>
+
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">4</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT20M">20 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT30M">30 mins</div>
+</br>
+
 ## Roasted Vegetables And Pasta
 ### Ingredients
-
-* &frac12; cup of baby tomatoes left whole
-* 1 red onion chopped
-* 1 yellow sweet pepper chopped
-* 1 red pepper chopped
-* 1 zucchini chopped
-* 1 small eggplant chopped
-* &frac12; head of broccoli chopped into florets
-* &frac12; head of cauliflower chopped into florets
-* &frac14; cup garlic infused CGA coconut oil (3 cloves of garlic sliced and &frac12; cup olive oil alternatively)
-* Salt and pepper to taste
-* 500 grams of pasta
-* Salt for pasta water
-<br>
+* <span itemprop="recipeIngredient">1 cup of grape or cherry tomatoes left whole</span>
+* <span itemprop="recipeIngredient">1 medium size red onion peeled and chopped</span>
+* <span itemprop="recipeIngredient">1 yellow sweet pepper, seeds removed and chopped</span>
+* <span itemprop="recipeIngredient">1 red pepper, seeds removed and chopped</span>
+* <span itemprop="recipeIngredient">1 medium size zucchini, trimmed and chopped</span>
+* <span itemprop="recipeIngredient">1 small eggplant, trimmed and chopped</span>
+* <span itemprop="recipeIngredient">½ head of broccoli chopped into small florets</span>
+* <span itemprop="recipeIngredient">½ head of cauliflower chopped into small florets</span>
+* <span itemprop="recipeIngredient">3 cloves of garlic, peeled and chopped </span>
+* <span itemprop="recipeIngredient">3 tablespoons of olive oil </span>
+* <span itemprop="recipeIngredient">Salt and pepper to taste</span>
+* <span itemprop="recipeIngredient">1 lb of rigatoni pasta (or short pasta of choice) </span>
 
 ## Basil and spinach Pesto
 ### Ingredients
-
-* 1 cup packed fresh spinach/kale or a green of your choice
-* 1 cup packed fresh basil
-* &frac14; almonds or pine nuts
-* 2/3 cup garlic infused coconut oil by CGA (alternatively you can use olive oil and do add two cloves of garlic if not using the infused oil)
-* &frac12; cup grated Parmesan cheese
-* Salt and pepper to taste
-<br>
+* <span itemprop="recipeIngredient">1 cup packed fresh spinach/kale or a green of your choice</span>
+* <span itemprop="recipeIngredient">1 cup packed fresh basil</span>
+* <span itemprop="recipeIngredient">¼ almonds or pine nuts</span>
+* <span itemprop="recipeIngredient">½-&frac23; cup of olive oil</span>
+* <span itemprop="recipeIngredient">2 cloves of garlic, peeled and chopped </span>
+* <span itemprop="recipeIngredient">½ cup grated Parmesan cheese</span>
+* <span itemprop="recipeIngredient">Salt and pepper to taste </span>
+</br>
+</br>
 
 ### Directions
-
-1. Preheat oven to 400 &deg; F
-
-1. Line 1 or 2 baking sheets with parchment paper and set aside
-
-1. In a large bowl toss the vegetables with the garlic infused coconut oil (or olive oil alternatively with the cloves of garlic added as well) and salt and pepper to taste
-
-1. Spread the veggies on on the baking sheet/s without overcrowding and bake for 20-30 minutes or until tender and with golden brown edges. I like to toss or shake the pan up half way through roasting
-
-1. While they are roasting make the pesto by adding everything except the oil and Parmesan cheese to a food processor. Pulse until everything is finely chopped, scraping down the side of of the bowl when needed. Drizzle in the oil while the processor is running and until the pesto is nice and smooth
-
+1. Preheat oven to 400°F
+1. Line 1 or 2 large baking sheets with parchment paper and set aside
+1. Roast vegetables: In a large bowl toss the vegetables along with the onion and garlic with olive oil and season with salt and pepper to taste
+1. Spread the veggies on on the baking sheet/s without overcrowding and bake for 20-30 minutes or until tender and with golden brown edges. Toss veggies and rotate pan halfway through roasting. 
+1. Make pesto: While veggies are roasting make the pesto by adding everything except the oil and Parmesan cheese to a food processor. Pulse until everything is finely chopped, scraping down the side of of the bowl when needed. Drizzle in the oil while the processor is running and until the pesto is nice and smooth
 1. Transfer the pesto to a bowl, stir in the Parmesan cheese and season with salt and pepper if needed. Set aside
-
-1. Bring a large pot of salted water to boil and cook the pasta according to the box instructions, reserving a few tbsp of the cooking water.  Drain and set aside
-
-1. In a large bowl add the cooked pasta, roasted vegetables, pesto and the reserved cooking liquid.  Toss to coat and check for seasoning.  
-
-1. Serve with some Parmesan cheese and some fresh herbs to garnish
+1. Boil Pasta: Bring a large pot of salted water to boil and cook the pasta according to the box instructions, reserving ¼ cup of the cooking water. Drain and set aside
+1. In a large bowl add the cooked pasta, roasted vegetables, pesto and the reserved cooking liquid. Toss to coat and check for seasoning.
+1. Serve with extra Parmesan cheese and some fresh herbs to garnish 
 <br>
 
 ![Garlic Roasted Vegetable Pesto Pasta](/images/uploads/2017_11_05_garlic_roasted_vegetable_pesto_pasta_5.jpg)
