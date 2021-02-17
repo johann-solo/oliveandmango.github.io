@@ -8,7 +8,7 @@ categories: ["mains"]
 tags: ["vegetarian", "Italian"]
 excerpt: Quick and easy meatless meal with loads of flavour
 keywords: ["Pesto Pasta"]
-description: One pot creamy tortellini with sun-dried tomatoes and spinach 
+description: Quick and easy meatless meal with loads of flavour
 ---
 <span class="blog-text">
 
@@ -32,6 +32,9 @@ The addition of the pesto takes this pasta dish from good to great.  Adds so muc
 ![Garlic Roasted Vegetable Pesto Pasta](/images/uploads/2017_11_05_garlic_roasted_vegetable_pesto_pasta_2.jpg)
 <br>
 <br>
+{{< youtube b7ax2KN7eEg >}}
+</br>
+</br>
 
 </span>
 

@@ -10,6 +10,7 @@ excerpt: Simple to make creamy melt in your mouth truffles
 keywords: ["dark chocolate", "wine truffles", "chocolate truffles"]
 description: Simple to make creamy melt in your mouth truffles 
 ---
+<span class="blog-text">
 
 There is nothing better than chocolate and wine together. The two pair so well together so I thought why not combine them into a treat that is so creamy and decadent and literally melts in your mouth. This combo is definitely not new to the blog. This [chocolate wine cake](https://www.oliveandmango.com/decadent-chocolate-wine-cake/) is one of my favorite snack cakes to make. It was time to add a new recipe to the blog with this same combo and these truffles were the best way to do that. 
 </br>
@@ -59,12 +60,20 @@ Have fun making these super simple truffles. And feel free to be creative and ro
 </br>
 </br>
 
-## Recipe
-Makes approximately 16-18 small truffles (10-12 larger ones if you use a larger cookie scoop) 
-</br>
+</span>
+
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">Makes approximately 16-18 small truffles (10-12 larger ones if you use a larger cookie scoop) </div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT20M">20 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT5M">5 mins</div>
+<div>Non active Time: 4.5 -6.5 hours of cooling and setting</div>
 </br>
 
-### Ingredients
+### Ingredients 
 
 * <span itemprop="ingredients">&frac12; cup heavy whipping cream</span>
 * <span itemprop="ingredients">8 ounces dark bittersweet chocolate, baking bar chopped finely </span>
@@ -77,22 +86,16 @@ Makes approximately 16-18 small truffles (10-12 larger ones if you use a larger 
 ### Directions
 
 1. Heat the heavy cream in a small pan on the stove until small bubbles form around the edge of the pan, and just under a boil. 
-
 1. Place the chopped chocolate into a small bowl. Pour the hot cream over the top and let sit for 3 minutes without disturbing.
-
 1. Stir in the espresso if using, vanilla and butter and vigorously whisk until smooth and shiny. Finally, whisk in the wine until completely combined. 
-
 1. Once fully mixed, cover tightly and let stand for 30 minutes at room temperature before transferring to the refrigerator. Chill until firm – at least 4-6 hours or overnight. 
-
 1. Line a baking sheet with a silicon mat or parchment paper and place the cocoa powder in a shallow bowl 
-
 1. Scoop out the chilled mixture with a small or medium size cookie scoop and roll into a ball in your hands. It may help to dust your hands with cocoa powder in between if they get too sticky. Working quickly (as the longer you handle them the softer they will get), coat them in cocoa power and then place them on baking sheet.
-
 1. Keep chilled until ready to serve. Will keep in a sealed container in the fridge for up to two weeks.
 </br>
 
 ### Recipe Notes
-&ast; For an alternative coating melt 1 to 1&frac12; cups of semisweet chocolate and allow it to cool to room temperature before drizzling or dipping cooled truffles into it. I like to give each dipped one a little sprinkle of flaky sea salt. Keep chilled until ready to serve.
+* For an alternative coating melt 1 to 1&frac12; cups of semisweet chocolate and allow it to cool to room temperature before drizzling or dipping cooled truffles into it. I like to give each dipped one a little sprinkle of flaky sea salt. Keep chilled until ready to serve.
 
 </br>
 
