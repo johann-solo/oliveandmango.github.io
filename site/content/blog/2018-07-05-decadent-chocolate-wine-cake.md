@@ -7,7 +7,10 @@ scaled_thumbnail: /images/uploads/2018_07_05_decadent_chocolate_wine_cake_0.jpg
 categories: ["desserts"]
 tags: ["cakes", "wine", "chocolate"]
 excerpt: Add some lusciousness to your basic chocolate cake
+keywords: ["homemade chocolate cake"]
+description: Add some lusciousness to your basic chocolate cake with this wine infusion
 ---
+<span class="blog-text">
 
 Snack cakes are probably the easiest and quickest cakes to make from scratch. They involve super basic ingredients and usually made in own bowl and with a whisk or a wooden spoon. You don’t even need to bring out your hand or standing mixer.
 </br>
@@ -61,52 +64,58 @@ That being said - would I serve and make this for everyone? Probably not, unless
 </br>
 </br>
 
+</span>
+
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">One round 9 inch pan or a One 9x9 square pan (brownie pan) </div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT20M">15-20 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT50M">45-50 mins</div>
+</br>
+ 
 ### Ingredients
+#### For the cake
 
-__For the cake__
+* <span itemprop="recipeIngredient">&frac12; cup unsalted butter (4 ounces), melted, plus more for greasing</span>
+* <span itemprop="recipeIngredient">1&frac14; cups all-purpose flour</span>
+* <span itemprop="recipeIngredient">&frac13; cup unsweetened cocoa powder</span>
+* <span itemprop="recipeIngredient">1 teaspoon baking soda</span>
+* <span itemprop="recipeIngredient">&frac12; teaspoon salt</span>
+* <span itemprop="recipeIngredient">1 cup granulated sugar</span>
+* <span itemprop="recipeIngredient">1 large egg, at room temperature</span>
+* <span itemprop="recipeIngredient">1 cup Cabernet Sauvignon or red wine of choice, at room temperature</span>
+* <span itemprop="recipeIngredient">1 teaspoon pure vanilla extract</span>
 
-* &frac12; cup unsalted butter (4 ounces), melted, plus more for greasing
-* 1&frac14; cups all-purpose flour
-* &frac13; cup unsweetened cocoa powder
-* 1 teaspoon baking soda
-* &frac12; teaspoon salt
-* 1 cup granulated sugar
-* 1 large egg, at room temperature
-* 1 cup Cabernet Sauvignon or red wine of choice, at room temperature
-* 1 teaspoon pure vanilla extract
+#### For the ganache
 
-__For the ganache__
-
-* 1 (3-ounce) semisweet chocolate baking bar, (or chocolate chips which is what I used) finely chopped
-* 2 tablespoons cold unsalted butter, diced
-* 1 tablespoon pure cane syrup or light corn syrup
-* &frac14; cup powdered sugar, sifted
-* 2 tablespoons Cabernet Sauvignon, warmed
-* Flaky sea salt
+* <span itemprop="recipeIngredient">1 (3-ounce) semisweet chocolate baking bar, (or chocolate chips which is what I used) finely chopped</span>
+* <span itemprop="recipeIngredient">2 tablespoons cold unsalted butter, diced</span>
+* <span itemprop="recipeIngredient">1 tablespoon pure cane syrup or light corn syrup</span>
+* <span itemprop="recipeIngredient">&frac14; cup powdered sugar, sifted</span>
+* <span itemprop="recipeIngredient">2 tablespoons Cabernet Sauvignon, warmed</span>
+* <span itemprop="recipeIngredient">Flaky sea salt</span>
+</br>
+</br>
 
 ### Directions
-__For the cake__
+#### For the cake
 
 1. Preheat oven to 350°F. And grease a 9-inch round cake pan (or a square brownie pan like I used) with butter and line with parchment paper. 
-
 2. In a medium size bowl whisk together flour, cocoa powder, baking soda, and kosher salt and set aside.
-
 3. In a large bowl whisk together granulated sugar, egg, and melted butter until pale.
-
 4. Next whisk in 1 cup wine and vanilla.
-
 5. Add flour mixture, and whisk to combine.
-
 6. Scrape batter into prepared pan, and smooth top.
-
 7. Bake until a toothpick inserted in center comes out clean, 45 to 50 minutes. Let cake cool completely.
 
-__For the ganache__
+#### For the ganache
 
 1. Place chopped chocolate, butter, and pure cane syrup/corn syrup in a large microwave-safe bowl and microwave at high in 20-second intervals until melted, stirring between intervals. (Alternatively can be done on the stovetop in a small pan in low heat)
-
 1. Stir in powdered sugar and 2 tablespoons wine. Let stand at room temperature until slightly thickened then spread over cooked cake and serve with a glass of wine if you wish.
-
+</br>
 </br>
 
 ![Decadent Chocolate Wine Cake](/images/uploads/2018_07_05_decadent_chocolate_wine_cake_10.jpg)
