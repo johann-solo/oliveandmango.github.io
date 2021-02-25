@@ -111,8 +111,8 @@ If you like this Guinness recipe you will love these:
 1. Add the flour mixture to the Guinness mixture and whisk just until smooth and combined - do not OVERMIX. 
 1. Pour the mixture into the prepared loaf tin and bake in the preheated oven for 40-45 minutes or until a skewer inserted into the middle of the cake comes out clean. 
 1. Allow the cake to cool in the pan for 10-15 minutes before carefully lifting out; cool on a wire rack.
-1. Make frosting: In a large mixing bowl beat the cream cheese with a hand mixer until soft and light. Add the vanilla and Irish cream and slowly add &frac12; cup of icing sugar at a time and blend in. Cover and refrigerate 20 min while cake is cooking then...spread icing. Spread the icing on top of the cake and dust with cocoa powder if you wish. Slice and serve 
-1. Store leftovers refrigerated in a sealed container because of the cream cheese frosting 
+2. Make frosting: In a large mixing bowl beat the cream cheese with a hand mixer until soft and light. Add the vanilla and Irish cream and slowly add &frac12; cup of icing sugar at a time and blend in. Cover and refrigerate 20 min while cake is cooking then spread the icing on top of the cake and dust with cocoa powder if you wish. Slice and serve 
+3. Store leftovers refrigerated in a sealed container because of the cream cheese frosting 
 </br>
 </br>
 
