@@ -68,9 +68,9 @@ If you like this Guinness recipe you will love these:
 * <span class="highlight"><a href="https://www.oliveandmango.com/chocolate-stout-cheesecake">Chocolate Stout Cheesecake</a></span>
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube -7QDFpHQozg >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
@@ -111,7 +111,7 @@ If you like this Guinness recipe you will love these:
 1. Add the flour mixture to the Guinness mixture and whisk just until smooth and combined - do not OVERMIX. 
 1. Pour the mixture into the prepared loaf tin and bake in the preheated oven for 40-45 minutes or until a skewer inserted into the middle of the cake comes out clean. 
 1. Allow the cake to cool in the pan for 10-15 minutes before carefully lifting out; cool on a wire rack.
-1. Make frosting: In a large mixing bowl beat the cream cheese with a hand mixer until soft and light. Add the vanilla and Irish cream and slowly add &frac12; cup of icing sugar at a time and blend in. Spread the icing on top of the cake and dust with cocoa powder if you wish.  Slice and serve 
+1. Make frosting: In a large mixing bowl beat the cream cheese with a hand mixer until soft and light. Add the vanilla and Irish cream and slowly add &frac12; cup of icing sugar at a time and blend in. Cover and refrigerate 20 min while cake is cooking then...spread icing. Spread the icing on top of the cake and dust with cocoa powder if you wish. Slice and serve 
 1. Store leftovers refrigerated in a sealed container because of the cream cheese frosting 
 </br>
 </br>
@@ -121,6 +121,9 @@ If you like this Guinness recipe you will love these:
 * If you don’t have Irish cream or you’d prefer to keep this recipe free of any un-cooked alcohol, feel free to replace the Irish Cream with regular cream.
 * How to ensure your cake is MOIST
 Be very careful not to accidentally over-measure the flour and cocoa powder in this recipe. This will lead to dense, dry, or tough cake. The best way to ensure this never happens is to measure your ingredients by weight using a scale. Make sure to not over bake as well. If you don’t have a scale, then use the spoon and level method to measure your dry ingredients: start by fluffing the flour a little with a spoon to aerate the flour. Then you'll spoonthe flour into the measuring cup. You want to fill the measuring cup all the way to the top and let the flour flow over a little. Then, you'll use the back of a knife to level the top off.
+</br>
+</br>
+Adapted from _Sainsburys Magazine_
 </br>
 </br>
 
