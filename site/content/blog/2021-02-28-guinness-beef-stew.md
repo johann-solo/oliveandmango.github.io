@@ -56,9 +56,9 @@ Generally a Guinness beef stew is made with a tough cut of meat like a chuck roa
 This is my favourite way to make a rich and delicious Irish stew. Serve over mashed potatoes or cauliflower mash or with some bread and butter. Nothing hits the spot more than a big bowl of this on a cold day. Enjoy! 
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube QpXLZmLsloQ >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
