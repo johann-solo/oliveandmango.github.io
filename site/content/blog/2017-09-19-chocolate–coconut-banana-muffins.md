@@ -13,7 +13,7 @@ description: A delicious way to make use of your ripened bananas
 ---
 <span class="blog-text">
 
-These Double Chocolate Coconut Banana Muffins are perfect for any time of day. Delicious, light banana muffins, studded with chunks of chocolate and shredded coconut. If you are like me and always seem to have some over ripe bananas hanging around needing to be be baked into something delicious - these muffins are just the thing.
+These Double Chocolate Coconut Banana Muffins are perfect for any time of day. Delicious, light banana muffins, studded with chunks of chocolate and shredded coconut. If you are like me and always seem to have some over ripe bananas hanging around needing to be baked into something delicious - these muffins are just the thing.
 </br>
 </br>
 
@@ -36,7 +36,7 @@ Plain and simple they are delicious and what also makes them so darn good is the
 * They also freeze well so you can freeze some to enjoy later.
 
 ## How to make these Chocolate Coconut Banana Muffins
-* Make the muffins batter
+* Make the muffin batter
 * Whisk together the dry ingredients except for the sugar. 
 * Mash the banana in a separate bowl (I like to use a potato masher) then mix with the sugar, eggs, oil, coconut milk and vanilla extract until well combined, light and fluffy.
 * Slowly mixing in the dry ingredients into the wet until just mixed through - a few streaks of flour through the batter is fine.
@@ -59,6 +59,14 @@ Plain and simple they are delicious and what also makes them so darn good is the
 </br>
 
 Substitutions and freezing instructions are below in recipe notes. These are just what those ripe bananas on your counter are begging to be used for. Hope you enjoy! 
+</br>
+</br>
+If you like these banana muffins you will also love my:
+
+* <span class="highlight"><a href="https://www.oliveandmango.com/bakery-style-banana-nut-and-chocolate-chunk-muffins/">Bakery Style Banana Nut and Chocolate Chunk Muffins</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/no-fail-banana-bread/">No Fail Classic Banana Bread</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/brown-butter-nutella-banana-bread/">Brown Butter Nutella Banana Bread</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/banana-hazelnut-cake-with-nutella-frosting/">Banana Hazelnut Cake With Nutella Frosting</a></span>
 </br>
 </br>
 
