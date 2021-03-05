@@ -46,9 +46,9 @@ I was so happy that they sent me a copy of their book and couldn’t wait to sha
 Simply toss the veggies, olives and capers with the spices and olive oil, roast then add the seasoned cod and roast until its cooked through. Serve the cod with the wonderful pan juices, and veggies and then serve with a side of rice, potatoes or crusty bread to mop up the pan juices and enjoy. The book recommends serving this dish with a Gremolata sauce and I couldn’t agree more. It’s so good with the extra fresh flavours from the sauce. I also included the book’s recipe for the Gremolata sauce below. Enjoy and if you are looking for a little inspiration in the kitchen I recommend picking up this book. Make sure to check out their [website](https://jernejkitchen.com/cookbook) where you can order your very one copy.
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube YBRt7unI8Kg >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
