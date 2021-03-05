@@ -63,9 +63,9 @@ To make this pudding you will need:
 This chocolate pudding is easy to make and easy to eat. Enjoy! 
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube i-jJNf1u-tc >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
