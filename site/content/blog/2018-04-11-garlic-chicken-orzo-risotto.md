@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2018_04_11_garlic_chicken_orzo_risotto_1.jpg
 scaled_thumbnail: /images/uploads/2018_04_11_garlic_chicken_orzo_risotto_0.jpg
 categories: ["mains"]
-tags: ["chicken", "one-pot-meals", "lemons", "citrus"]
+tags: ["chicken", "one-pot-meals", "lemons", "citrus", "orzo"]
 excerpt: Take a night off with a perfect "date night" meal
 keywords: ["One pot meals", "lemon garlic", "easy chicken dinner"]
 description: A lemony, rich one pot meal with creamy orzo
