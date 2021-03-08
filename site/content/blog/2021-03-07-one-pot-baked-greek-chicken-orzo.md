@@ -111,4 +111,9 @@ If you happen to love this orzo dish you’ll also love these:
 </br>
 </br>
 
+### Recipe Note
+If you would like use chicken breast or any other cut of chicken in this recipe you can just ensure to adjust the cooking time while you are BROWNING the meat at the start. Larger cuts of meat will require longer cooking times while browning. The time in the oven should stay the same (25-30min). Longer cooking times while in the oven will overcook and possibly burn the orzo. 
+</br>
+</br>
+
 ![One Pot Baked Greek Chicken Orzo](/images/uploads/2021_03_07_one_pot_baked_greek_chicken_orzo_5.jpg)
