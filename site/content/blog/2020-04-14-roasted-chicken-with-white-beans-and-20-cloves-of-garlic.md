@@ -10,6 +10,7 @@ excerpt: This delicious Spring dish is baked with lemon slices and finished with
 keywords: ["roasted chicken", "white beans", "Spring dishes", "Chicken with 40 cloves of garlic"]
 description: A delicious one pan Spring dish baked with lemon slices and finished with fresh herbs
 ---
+<span class="blog-text">
 
 This is a fresh and Springy take on a classic French dish "Chicken with 40 cloves of garlic". I made it with creamy white beans that roast along with the chicken, lemon slices, and unpeeled garlic that roasts up into garlic butter that goes perfectly on crusty bread that you can dip into the pan juices of this fab dish. I finish it off by tossing the beans with fresh herbs and serve it with an extra squeeze of lemon juice. The perfect meal if you ask me. 
 </br>
@@ -54,8 +55,13 @@ It’s a simple throw everything into a pan and let it roast in the oven until d
 {{< youtube mpzLUy9mRrU >}}
 </br>
 </br>
+</span>
 
 ### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
 ### Ingredients
 
 * <span itemprop="ingredients">2 (15-ounce) cans white beans, drained and rinsed</span>
