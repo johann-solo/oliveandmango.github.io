@@ -62,6 +62,11 @@ It’s a simple throw everything into a pan and let it roast in the oven until d
 <input type="button" value="Print" class="btn__print" onClick="window.print()">
 </form></div>
 
+<div>Servings: <span itemprop="recipeYield">6-8</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">10-15 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT50M">45-50 mins</div>
+</br>
+
 ### Ingredients
 
 * <span itemprop="ingredients">2 (15-ounce) cans white beans, drained and rinsed</span>
