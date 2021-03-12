@@ -77,9 +77,9 @@ This is a genius way of making buttercream frosting that isn’t new but new to 
 Whether you stack layers of this crazy/wacky chocolate cake with that tasty fudgey buttercream into a Tsunami cake or enjoy it as a sheetpan cake - you will not be disappointed! 
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube F9at58JclPk >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
@@ -143,6 +143,8 @@ Whether you stack layers of this crazy/wacky chocolate cake with that tasty fudg
 
 ### Recipe Notes
 * Adding the coffee is optional in the cake. It will deepen the chocolate flavour without tasting like coffee. You can always substitute with cool water instead, but I love the richness the coffee adds.
+* The cake can be stored, covered with plastic wrap or in airtight container refrigerated preferably, for up to 4-7 days.
+* This cake can be made three ways - in one 9x13 baking pan, one 13x18 baking sheet, or 2 (9-inch) round cakes pans
 </br>
 </br>
 
