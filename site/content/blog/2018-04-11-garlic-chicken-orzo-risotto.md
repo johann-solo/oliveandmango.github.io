@@ -11,6 +11,8 @@ keywords: ["One pot meals", "lemon garlic", "easy chicken dinner"]
 description: A lemony, rich one pot meal with creamy orzo
 ---
 
+<span class="blog-text">
+
 Creamy orzo, perfectly roasted and flavourful chicken - what more could you ask for in a meal? This is my kind of date night food. What does date night food mean to me? It means not counting calories, using full cream and eating something decadent that I usually don’t have on the regular. Usually involves cheese and wine as well as some form of carb.
 </br>
 </br>
@@ -62,19 +64,26 @@ That is pretty much all I have to say about this dish. It’s absolutely delicio
 {{< youtube E0ZeymAfIzA >}}
 </br>
 </br>
+</span>
 
 ### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">4-6</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">10-15 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT40M">40 mins</div>
 </br>
 
 ### Ingredients
-
-__For the chicken__
+#### For the chicken
 
 * <span itemprop="recipeIngredient">1.5 lb of chicken thighs (4-6 pieces) bone in and skin on preferably </span>
 * <span itemprop="recipeIngredient">3 tsp of lemon pepper (salt and pepper will do just fine if you don’t have or don’t like lemon pepper) </span>
 * <span itemprop="recipeIngredient">2 tbsp of extra virgin olive oil </span>
 
-__For the orzo__
+#### For the orzo
 
 * <span itemprop="recipeIngredient">2 tbsp of butter separated </span>
 * <span itemprop="recipeIngredient">1 lemon sliced (see post above about lemons)</span>
@@ -88,28 +97,26 @@ __For the orzo__
 * <span itemprop="recipeIngredient">2 cups of chicken broth </span>
 * <span itemprop="recipeIngredient">&frac12; cup of full fat milk or cream (can replace with broth instead if you prefer) </span>
 
-__Add ins__
+#### Add ins
 
 * Salt and pepper to taste 
 * &frac14; cup of milk or cream 
 * &frac12; cup of Parmesan cheese
 * Fresh thyme or chopped parsley 
+</br>
+</br>
 
 ### Directions 
 
-1. Preheat oven to 400&deg;F 
-
+1. Preheat oven to 400°F 
 1. Clean, dry and season chicken with lemon pepper and set aside 
-
 1. Heat olive oil over medium heat in a large oven proof heavy bottom skillet or dutch oven. When the oil is hot add the chicken and sear on both sides until golden, about 3-5 minutes per side. Remove the chicken from the skillet and set aside 
-
 1. Add 1 tbsp of butter to skillet and on one half of the skillet sear the lemon slices until golden on each side and then set aside with the chicken. On the other half of the skillet, working in batches add the mushrooms and cook until golden. Remove with a slotted spoon and set aside 
-
 1. Add the remaining tbsp of butter and add the onion and sauté for a minute until softened and then add the garlic, lemon zest, thyme and the orzo. Cook the garlic and toast the orzo for a minute until the garlic and thyme are very fragrant and then add the wine to deglaze the pan (scrape the bottom of pan clean). 
-
 1. Next add the broth and cream and season with salt and pepper. Stir in the mushrooms. Bring everything to a boil stirring the pan well and then place the chicken thighs over the orzo along with the lemon slices. Carefully transfer the dish to the oven and roast for 15 to 20 minutes until the chicken is golden and fully cooked though 
-
 1. Carefully remove from the oven, remove the chicken and lemon slices and place on a plate. Stir milk/cream and Parmesan cheese into the risotto, season with salt and pepper if needed and serve with the chicken and lemon slices and garnish with fresh thyme or chopped parsley. 
+</br>
+</br>
 
 Adapted from _Saveur_ and inspired by _Half Baked Harvest_ 
 
