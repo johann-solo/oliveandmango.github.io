@@ -21,7 +21,7 @@ This Traditional Homemade Spanakopita or Greek Spinach Pie is easy to make from 
 </br>
 
 ## What exactly is spanakopita? 
-Greek “Spanakopita” (spinach pie), pronounced (spa-nah- KOH -pee-taa), is a greek classic pie and probably one of the most popular ones. The Greek word for spinach is  "σπανάκι  and pie is πίτα" the two make up the word spanakopita. Spanakopita is made with loads of greens most often spinach, herbs, and briny feta cheese encased in layers of homemade, crispy phyllo. I like to add leeks to mine because the leeks add a sweet and delicious flavour to the filling. 
+Greek “Spanakopita” (spinach pie), pronounced (spa-nah- KOH -pee-taa), is a Greek classic pie and probably one of the most popular ones. The Greek word for spinach is  "σπανάκι  and pie is πίτα" the two make up the word spanakopita. Spanakopita is made with loads of greens most often spinach, herbs, and briny feta cheese encased in layers of homemade, crispy phyllo. I like to add leeks to mine because the leeks add a sweet and delicious flavour to the filling. 
 </br>
 </br>
 
@@ -68,7 +68,7 @@ Although it may seem like a lot of work and many steps - it’s actually quite e
 ## Tips to making the best spanakopita every time: 
 * Chilling the buttered dough stacks for a few minutes or even up to 15 minutes before rolling them out. This really helps to get that flaky crust or phyllo we all look forward to eating
 * The cornstarch is optional for dusting with the flour but I always find adding the fine cornstarch to the flour for dusting always helps my phyllo to get extra crispy 
-* Don’t in a rush to add the filling to the pan. If you let it sit in pan over the bottom layer of dough for example while you roll out the top one it could result in a soggy bottom layer. Add the filling right before you are ready to place the top layer of dough on. Then work quickly to get the pita in the oven shortly after that. 
+* Don’t be in a rush to add the filling to the pan. If you let it sit in pan over the bottom layer of dough for example while you roll out the top one it could result in a soggy bottom layer. Add the filling right before you are ready to place the top layer of dough on. Then work quickly to get the pita in the oven shortly after that. 
 * Everyone has different tastes when it comes to the filling. Please adjust seasoning according to taste and add extra herbs or spices as you wish. 
 </br>
 </br>
@@ -86,6 +86,16 @@ This is my mom's recipe that I worked with to create this easy no fail spanakopi
 </br>
 
 This recipe has been a long time coming cause I was quite intimidated to make the phyllo from scratch. I really wish I made it sooner cause it really can’t get easier than this. The dough is so easy to work with and very forgiving especially with my moms easy method of preparing it. I really couldn’t wait to share this recipe with you guys and I can’t wait to see you guys make it and enjoy it! Happy baking!! 
+</br>
+</br>
+If you like this recipe you will love these: 
+
+* <span class="highlight"><a href="https://www.oliveandmango.com/spanakopita-tarte-soleil-spinach-and-feta-pie">Spanakopita Tarte Soleil (Spinach and Feta Pie)</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/crispy-spanakopita-spring-rolls/">Crispy Spanakopita Spring Rolls</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/vegan-spanakopita">Vegan Spanakopita</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/spanakopizza">Spanakopizza</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/green-shakshuka">Green Shakshuka</a></span>
+
 </br>
 </br>
 {{< youtube QneVIDzCt0g >}}
@@ -113,7 +123,7 @@ This recipe has been a long time coming cause I was quite intimidated to make th
 * <span itemprop="recipeIngredient">3/4 cups warm water (just above Lukewarm but not hot) <span>
 * <span itemprop="recipeIngredient">2 tablespoons of corn starch for dusting with extra flour <span>
 * <span itemprop="recipeIngredient">&frac14; cup melted butter, plus more if needed<span>
-* <span itemprop="recipeIngredient">2 tablespoons of butter, plus more if needed <span>
+* <span itemprop="recipeIngredient">2 tablespoons of olive oil, plus more if needed <span>
 
 ### For the filling
 * <span itemprop="recipeIngredient">2 tablespoons of olive oil plus more if needed <span>
@@ -123,7 +133,7 @@ This recipe has been a long time coming cause I was quite intimidated to make th
 * <span itemprop="recipeIngredient">1 cup of crumbled feta (approx 200 grams)  <span>
 * <span itemprop="recipeIngredient">3 eggs <span>
 * <span itemprop="recipeIngredient">3 tablespoons ricotta <span>
-* <span itemprop="recipeIngredient">&frac14; cup chopped fresh dill/ 1 small bunch, chopped (you can also add in some chopped fresh mint or parsley), optional<span>
+* <span itemprop="recipeIngredient">&frac14; cup chopped fresh dill/ 1 small bunch (you can also add in some chopped fresh mint or parsley), optional<span>
 </br>
 </br>
 
@@ -139,7 +149,7 @@ This recipe has been a long time coming cause I was quite intimidated to make th
 1. Add dill, feta and ricotta to the spinach mixture  stirring well to combine, then season with salt and pepper to taste. (Now is the time to taste it before adding in the eggs). Then stir in the eggs until well incorporated. Set aside. 
 2. Preheat oven to 350°F. Prepare a 10-12 inch skillet or baking pan by brushing it generously with the butter/olive oil mix and set aside. 
 3. Take the 5 layer stacked dough out of the fridge. Peel it off the plate and place on working surface dusted with the flour/cornstarch mixture. Start rolling it out dusting with flour lightly if needed and peeling it off the work surface to dust if needed so that it’s not sticking to surface. Roll out thin until you have rolled it out 2-3 inches beyond the size of the pan you are using to bake it in. Pick dough up by rolling it onto your rolling pin. Then roll it off onto the skillet or pan. Then use your hands to place it in pan evenly with excess hanging over the edge of pan. Drizzle top of dough with olive oil/butter mixture and set aside. 
-4. Take out the remaining 3 layer dough disc and roll out the same way and the same width as the last. Pick it up but rolling it on to rolling pin and set aside 
+4. Take out the remaining 3 layer dough disc and roll out the same way and the same width as the last. Pick it up by rolling it on to rolling pin and set aside 
 5. Empty filling onto the dough in pan and smooth out evenly into pan. 
 6. Roll the top portion of dough over the pan then use your hands to tuck it into pan over filling - letting it sag in areas. 
 7. Roll the overhanging portion from the base layer up working your way around the entire pan. Brush the edges with butter/oil mixture then drizzle the top of it generously with it. 
