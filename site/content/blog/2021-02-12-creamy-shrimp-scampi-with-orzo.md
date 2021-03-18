@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2021_02_12_creamy_shrimp_scampi_with_orzo_1.jpg
 scaled_thumbnail: /images/uploads/2021_02_12_creamy_shrimp_scampi_with_orzo_0.jpg
 categories: ["mains"]
-tags: ["shrimp", "orzo"]
+tags: ["shrimp", "orzo", "one pot meals"]
 excerpt: One Pot Creamy lemony orzo with juicy shrimp 
 keywords: ["Shrimp Scampi"]
 description: One Pot Creamy lemony orzo with juicy shrimp 
