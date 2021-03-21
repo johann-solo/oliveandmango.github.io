@@ -51,19 +51,19 @@ It’s a very simple salad to make with maximum flavour from the delicious and z
 </br>
 </br>
 
-<!--The perfect accompaniment to your dinner table, this twist on the classic Lebanese salad maximises fresh spring greens! If you like this recipe you will love: 
-•Fattoush With Quinoa Za'atar Crisps https://www.oliveandmango.com/fattoush-with-quinoa-zaatar-crisps/
-•Smoked Salmon Pasta Salad https://www.oliveandmango.com/smoked-salmon-pasta-salad/
-•One Pot Vegan Green Minestrone https://www.oliveandmango.com/one-pot-vegan-green-minestrone/-->
+The perfect accompaniment to your dinner table, this twist on the classic Lebanese salad maximises fresh spring greens! If you like this recipe you will love: 
+* <span class="highlight"><a href="https://www.oliveandmango.com/fattoush-with-quinoa-zaatar-crisps">Fattoush With Quinoa Za'atar Crisps</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/smoked-salmon-pasta-salad">Smoked Salmon Pasta Salad</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/one-pot-vegan-green-minestrone">One Pot Vegan Green Minestrone</a></span>
 </br>
 </br>
 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube iS8823gCAhc >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
