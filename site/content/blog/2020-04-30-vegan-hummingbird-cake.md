@@ -10,6 +10,7 @@ excerpt: A wonderful little banana based cake filled with Caribbean flavours
 keywords: ["vegan desserts", "gluten free cakes"]
 description: A wonderful little banana based cake filled with Caribbean flavours - pineapple, coconut and lightly spiced with cinnamon and allspice
 ---
+<span class="blog-text">
 
 A wonderful little banana based cake filled with Caribbean flavours - pineapple, coconut and lightly spiced with cinnamon and allspice. This yummy cake recipe can easily be doubled to make it as it’s classically made - stacked into a layer cake or leave as is to enjoy as a single layered snack cake. 
 </br>
@@ -59,16 +60,20 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 {{< youtube NBa_9v0PuPE >}}
 </br>
 </br>
+</span>
 
 ### Recipe
-Makes one 8x8 cake and two 6 inch round cakes and the recipe can be doubled to make two 9 inch round cakes 
-</br>
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Yields: <span itemprop="recipeYield">Makes one 8x8 cake and two 6 inch round cakes and the recipe can be doubled to make two 9 inch round cakes</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">10-15 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT50M">25-27 mins</div> 
 </br>
 
 ### Ingredients
-
-__For the cake__
-
+#### For the cake
 * <span itemprop="ingredients">1&frac12; cups <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/shop/gluten-free/gluten-free-1-to-1-baking-flour.html">Bob’s Red Mill Gluten Free 1-1 Baking Flour</a></span> </span>
 * <span itemprop="ingredients">1 cup brown sugar</span>
 * <span itemprop="ingredients">1 &frac12; tsp baking soda</span>
@@ -85,15 +90,16 @@ __For the cake__
 * <span itemprop="ingredients">&frac12; cup chopped pecans</span>
 * <span itemprop="ingredients">&frac13; cup shredded coconut </span>
 
-__For the Vegan buttercream frosting__
+#### For the Vegan buttercream frosting
 
 * <span itemprop="ingredients">1 stick vegan butter (&frac12; cup)</span>
 * <span itemprop="ingredients">½ tsp coconut extract (vanilla extract optionally) </span>
 * <span itemprop="ingredients">3 - 3&frac12; cups powdered sugar</span>
 * <span itemprop="ingredients">3-4 Tbsp full fat coconut milk (only if needed) </span>
+</br>
+</br>
 
 ### Directions
-
 1. Preheat the oven to 375°F. Grease and line an 8x8 baking pan with parchment paper. 
 2. Whisk together flour, baking soda, baking powder, salt, cinnamon, and allspice in a medium bowl. 
 3. In a large bowl mash bananas well with a masher or a fork and then whisk in the sugar until light and frothy and then whisk in the oil, pineapple juice, and vanilla extract until incorporated. 

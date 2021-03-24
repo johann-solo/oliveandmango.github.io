@@ -10,6 +10,7 @@ excerpt: Tender chicken thighs roasted with lemons and herbs and tossed with spr
 keywords: ["Spring veggies", "chicken dinners", "roasted chicken"]
 description: Tender chicken thighs roasted with lemons and herbs and tossed with spring veggies 
 ---
+<span class="blog-text">
 
 These tender chicken thighs are roasted to perfection with lemons and herbs and tossed with spring veggies. A very simple meal that gets thrown together in no time. No fuss and so delicious. Easy enough for a midweek meal but just as good for Sunday lunch.
 </br>
@@ -52,15 +53,16 @@ We enjoyed this delicious herb roasted chicken  with a kale quinoa mix - yup mor
 {{< youtube SiGYOTWL8C8 >}}
 </br>
 </br>
+</span>
 
 ### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
 
-Servings: <span itemprop="recipeYield">4-6 servings
-
-Prep Time: <meta itemprop="prepTime" content="PT15M">15 min  
-
-Cook Time: <meta itemprop="cookTime" content="PT50M">40-50 mins 
-</br>
+<div>Servings: <span itemprop="recipeYield">4-6 servings</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">15 min</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT50M">40-50 mins</div> 
 </br>
 
 ### Ingredients
@@ -81,11 +83,8 @@ Cook Time: <meta itemprop="cookTime" content="PT50M">40-50 mins
 ### Directions
 
 1. Heat oven to 400°F. Put the chicken thighs in a large shallow roasting pan, season with salt and pepper and toss with the olive oil, lemon zest and slices/wedges, shallots, rosemary and thyme. Arrange the chicken thighs, skin-side up, and roast for 40-50 mins until the skin is crisp and golden.
-
 1. Meanwhile, bring a large pot of water to the boil and blanch the asparagus for 2-3 mins, adding the zucchini and peas for the final minute. (You can also pan fry them in a bit of olive oil if you prefer them done that way)
-
 1. Drain the vegetables and toss in with the chicken, toss in the mint as well coating everything well with the cooking juices. Crumble over the feta and serve. 
-
 </br>
 
 ![Herb Roasted Chicken With Spring Veggies](/images/uploads/2020_07_07_herb_roasted_chicken_with_spring_veggies_6.jpg)
