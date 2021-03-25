@@ -70,6 +70,17 @@ This pasta bake includes some greens which I love and asparagus. What says sprin
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.gogoquinoa.com">GoGo Quinoa</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+</span>
+
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">6</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT30M">30 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT30M">30 mins</div> 
+</br>
 
 ### Ingredients
 
@@ -90,7 +101,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 
 ### Directions
 
-1. Preheat oven to 400 &deg; F.
+1. Preheat oven to 400°F.
 2. Bring a large pot of water to a boil. Add pasta and cook until slightly underdone approximately 5 minutes with this pasta. Drain and place cooked pasta back in the pot and set aside until ready to use.
 3. Next, make the sauce. Heat olive oil in a medium pot on medium-high heat. Add onions, garlic and chili flakes and saute until golden, about 5 to 7 minutes. Add tomato paste and cook for another minute. Then add tomatoes, salt, and pepper, and oregano and simmer 10-15 minutes until thickened. Stir in basil and turn off heat.
 4. While the sauce is simmering, steam the kale and asparagus in batches for a few minutes until bright green and tender then add to the pot with cooked pasta. 
@@ -120,9 +131,10 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 1. Fill a large pot with 1 inch of water and insert a steamer basket. Place the spinach and the garlic in the basket and bring to a boil. Cover and steam for 2 minutes, or until the spinach is wilted but still bright green. Remove the garlic and set aside. Scoop the spinach onto a kitchen towel or paper towels and squeeze out the excess water. Roughly chop.
 2. In a blender, place the garlic, cashews, water, lemon juice, salt, and a few grinds of black pepper. Porcess until creamy.
 3. In a medium bowl, mix together the tofu, steamed spinach, oregano, lemon zest, red pepper flakes, harissa (if using) and a few grinds of black pepper.  Stir in the cashew. Taste and add more salt, if desired.
-
+</br>
+</br>
 Adapted from _Very Well Fit_ and _Love and Lemons_ 
-
+</br>
 </br>
 
 ![Vegan Spring Pasta Bake](/images/uploads/2019_05_05_vegan_spring_pasta_bake_11.jpg)
