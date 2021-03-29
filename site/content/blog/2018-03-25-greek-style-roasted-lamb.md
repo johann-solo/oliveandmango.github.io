@@ -10,6 +10,7 @@ excerpt: A Greek classic that is tender and full of flavour and a must for big f
 keywords: ["Greek dinners", "How to roast lamb", "Greek lamb"]
 description: Learn how to make classic Greek style roasted lamb that is tender, full of flavour and a must for big family dinners
 ---
+<span class="blog-text">
 
 Let me tell you a little bit about dining with Greeks or at least dining with my family. A big Sunday dinner is never just what I have served here.  I like to keep things simple. This has taken me a long time to figure out and sometimes it still kills me, but less is truly more. It's a fact, and one that goes against the grain of Greeks and of course many other cultures, Trinidadians included. That is not the way I grew up though. My mom would prepare a roast just like this plus a _pastitsio_, Greek rice, _keftedakia_, _loukanika_, and a whole bunch of other sides and meats and oooooh I become dizzy just thinking about preparing all that food.
 </br>
@@ -68,7 +69,7 @@ This was my second time roasting a lamb. Big pieces of meat have always scared m
 </br>
 </br>
 
-The first time I had a whole roasted one was in Greece. I was like 12 probably and I remember it clearly as if it was yesterday. We arrived at my grandparents house late at night and early the next day I ventured out to use the bathroom (outhouse), to get the scare of a lifetime.  I opened the door and before I could rub the sleep out of my eyes I was confronted with a hanging goat getting skinned by my uncle. Those few months were an eye opener in my life and were some of best filled memories of my childhood. That goat was part of my grandfathers herd. I got to go far into the mountains with him and my cousins, tend goats, milking them, watching babies get delivered, feeding the babies. It was amazing and then finally (I hate the way his sounds) eating that particular one from the mornings scare was a very delicious experience. I can’t help but feel like Hannibal Lector saying that. I’m over it already though.
+The first time I had a whole roasted one was in Greece. I was like 12 probably and I remember it clearly as if it was yesterday. We arrived at my grandparents house late at night and early the next day I ventured out to use the bathroom (outhouse), to get the scare of a lifetime.  I opened the door and before I could rub the sleep out of my eyes I was confronted with a hanging goat getting skinned by my uncle. Those few months were an eye opener in my life and were some of best filled memories of my childhood. That goat was part of my grandfathers herd. I got to go far into the mountains with him and my cousins, tend goats, milking them, watching babies get delivered, feeding the babies. It was amazing and then finally (I hate the way his sounds) eating that particular one from the mornings scare was a very delicious experience.
 </br>
 </br>
 
@@ -80,12 +81,32 @@ The first time I had a whole roasted one was in Greece. I was like 12 probably a
 I think that ends my little personal experience and my history of Greek’ness or lack of Greek’ness. This lamb is delicious, tender, full of flavour thanks to all the fresh herbs and garlic, not overly gamey tasting thanks to the wine and vinegar marinade and easy because if I can roast a beauty like this, you most definitely can.  When I make my lamb like this I usually don’t make a gravy. I squeeze lemon juice over the roast once it comes out of the oven and that is good enough for me. I also serve it with extra lemon wedges for a squeeze of it once it’s sliced as well. It is perfect with my [lemon potatoes](https://www.oliveandmango.com/greek-roasted-lemon-potatoes-lemonates-patates/) and a [horiatiki salad](https://www.oliveandmango.com/horiatiki-salad-greek-village-salad/). If you are going Greek with your lamb you might as well go Greek all the way!  We enjoyed the leftover lamb by pan frying it in harissa paste making sure the edges got crispy and had lots of flavour and ate it in pitas like a North African gyro! I do hope you give it a try and would love to know how you love to roast your lamb.  
 </br>
 
-{{< youtube murcvK429fU >}}
+## How to make Greek Style Roasted lamb: 
+There really is nothing to it. 
+* Place lamb in an airtight bag or container, stir together the marinade ingredients and pour over the lamb massaging it in to make sure the whole lamb has made contact. Seal and allow to marinate 2-4 hours or overnight refrigerated. 
+* Once ready to roast - stir together rub ingredients rub lamb all over with it, place it on roasting tin with rack pouring remaining marinade into the bottom of the pan. 
+* Roast until very deeply golden and tender basting the lamb 1-2 times while it’s roasting (tenting loosely with foil if it starts to get to golden too fast) 
+* Allow lamb to rest 10-15 minutes and then enjoy! See notes below if you want to add potatoes making this a one pan meal. 
+</br>
 </br>
 
+{{< youtube murcvK429fU >}}
+</br>
+</span>
+
 ### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">6-8</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">10-15 mins</div>
+<div>Roasting Time: <meta itemprop="cookTime" content="PT2H">2 hrs 15 mins</div>
+<div>Non active time: 1-4 hours of marinating or overnight </div>
+</br>
+
 ### Ingredients
-5-6 lb lamb leg  (I used spring lamb leg with bone in)
+* <span itemprop="recipeIngredient">5-6 lb lamb leg  (I used spring lamb leg with bone in)</span>
 
 __for the marinade__
 
@@ -125,5 +146,21 @@ __for prepping the lamb before roasting__
 1. <span itemprop="recipeInstructions">Pour the marinade left over from the lamb into the pan for aromatics and steam.</span>
 2. <span itemprop="recipeInstructions">Roast, uncovered, at 400°F for 15 minutes to brown and then REDUCE heat to 375°F approx 1½ hours, turn lamb over (optional) to make a crust on the other side, and continue to roast for another 45 minutes turning it back for the last bit of coking time (total roasting time is approx 2 hours and 15 minutes and roughly 20 minutes per lb. Internal temp for medium to well done should be approx 160-170°F). If the lamb gets to dark too quickly feel free to loosely tent lamb for remaining cooking time. </span>
 3. <span itemprop="recipeInstructions">Once done let lamb rest tented with foil for at least ten minutes then squeeze lemon juice over it, slice and serve. Slice and serve with the extra lemon wedges.</span>
+</br>
+</br>
+
+### Recipe Notes
+#### How to add potatoes to make this a one pan meal:
+#### Ingredients
+* 2-2&frac12; lbs yellow potatoes sliced into wedges 
+* 2 tablespoons olive oil 
+* salt and pepper to taste 
+* 1/2 teaspoon garlic powder
+* 1 teaspoons dried oregano
+* 1 lemon juiced 
+
+#### Directions
+* Before adding lamb to the pan toss the potatoes in the roasting tin (without rack) with all the ingredients. Then make a well in the center of the pan. Lay the leg of lamb on top of the potatoes. And roast as normal. Toss potatoes 1-2 tikes during cooking to check if they need any liquid - if so add a little bit of water or broth. Once lamb is done you can remove it onto platter and allow it to rest and while it does you can increase the heat of the oven to a low broil setting and give the potatoes a little extra color if needed. (Optional) *Do NOT add the rack to pan in this case and do NOT add the leftover marinading liquid to pan if roasting potatoes with the lamb 
+</br>
 
 ![Greek Style Roasted Lamb](/images/uploads/2018_03_25_greek_style_roasted_lamb_12.jpg)
