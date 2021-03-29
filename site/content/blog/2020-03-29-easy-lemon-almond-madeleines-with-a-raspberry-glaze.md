@@ -11,6 +11,8 @@ keywords: ["almond Madeleines", "French cookies", "classic French desserts", "le
 description: A recipe for homemade lemon madeleines, a classic french style cookie. These lemon madeleines have a raspberry glaze and are made with almond flour.
 ---
 
+<span class="blog-text">
+
 These foolproof delicately sweet lemony French style madeleines are so simple to make and will have you baking them like a pro with a few easy tips that can be applied to whatever madeleine recipe you chose to make. Madeleines are classified as cookies but they taste more like irresistible delicate mini cakes. It's love at first bite if you have never tried them before. 
 </br>
 </br>
@@ -55,6 +57,7 @@ These are irresistible right out of the oven but give them a couple of minutes t
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
+
 <div class="mv-video-target mv-video-id-ppwuqe79vuf0bsaa24jg" data-video-id="ppwuqe79vuf0bsaa24jg" data-volume="70" data-ratio="16:9"></div>If you can not play the video <span class="highlight"><a href="https://youtu.be/H3SHfoJzIoQ">Checkout our Youtube channel</a></span>.
 </br>
 </br>
@@ -68,8 +71,10 @@ __Basic Ingredients__
 <div><input type="checkbox" class="ingredients_check" id="Eggs" ><label for="Eggs">Eggs</label></div>
 <div><input type="checkbox" class="ingredients_check" id="Parmesan" ><label for="Parmesan">Parmesan cheese</label></div>
 <div><input type="checkbox" class="ingredients_check" id="Butter" ><label for="Butter">Butter</label></div>
-<div><input type="checkbox" class="ingredients_check" id="Lemon zest" ><label for="Lemon zest">Lemon zest</label></div>
+<div><input type="checkbox" class="ingredients_check" id="Lemon zest" ><label for="Lemon zest">Lemon zest</label></div>  
+
 </div>
+</br>
 
 __Substitutions & additions__
 
@@ -79,13 +84,22 @@ __Substitutions & additions__
 * Add a little squeeze of fresh lemon juice to your melted butter for a little extra lemony flavour 
 * Instead of glazing them - just finish these off with a dusting of powdered sugar before serving 
 
+</br>
+</span>
+
 ### Recipe
-Makes 2 dozen Madeleines  
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">Makes 2 dozen Madeleines</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">10-15 mins</div>
+<div>Resting Time: 15-60 mins for batter to rest</div>
+<div>Bake Time: <meta itemprop="cookTime" content="PT10M">7-10 mins</div>
 </br>
 
 ### Ingredients
-
-__For the Madeleines__
+#### For the Madeleines
 
 * <span itemprop="ingredients">2 large eggs</span>
 * <span itemprop="ingredients">&frac12; cup granulated sugar</span>
@@ -98,13 +112,13 @@ __For the Madeleines__
 * <span itemprop="ingredients">&frac14; teaspoon baking powder</span>
 * <span itemprop="ingredients">1 stick (&frac12; cup) unsalted butter, melted</span>
 
-__For the Raspberry glaze__
+#### For the Raspberry glaze
 
 * <span itemprop="ingredients">2 cups frozen raspberries</span>
 * <span itemprop="ingredients">2 tbsp. granulated sugar</span>
 * <span itemprop="ingredients">¼ cup water</span>
 * <span itemprop="ingredients">1¼ cups powdered sugar plus more if needed </span>
-
+</br>
 
 ### Directions
 
@@ -116,15 +130,14 @@ __For the Raspberry glaze__
 1. Preheat oven to 350°F.  Divide the batter evenly between the molds using a small (1&frac14;) cookie scoop. Bake until lightly golden around the edges, about  7-8 minutes.
 1. Let the madeleines cool for about 2 minutes in the pan, and then invert them onto a cooling rack to cool completely. If they don’t come out very easily use a very flexible small spatula to help slide the out of mold. Simply dust with powdered sugar and serve or allow them to cook fully and drizzle or dip them into glaze. 
 
-__For the glaze__
+#### For the glaze
 
 1. Place frozen raspberries, sugar, and water in a small saucepan. Heat over medium-low heat until the raspberries soften and the sugar dissolves completely 5-7 minutes. Cool slightly and then transfer to a blender or food processor; puree until smooth. Strain through a fine-mesh strainer to remove seeds. Set aside to cool completely. 
-
 2. Whisk together powdered sugar and raspberry puree until smooth. Immediately dip each Madeleine into the glaze and set back on wire rack. Or drizzle glaze over them on the rack. Let the glaze set for 5 minutes before serving. 
-
+</br>
 
 ### Recipe Note
-You'll need a madeleine pan to make true madeleines, but you can also use a mini muffin pan or regular sized muffin pan to bake these; you'll still have a delicious treat. Baking times might be longer or shorter depending on the size of the muffin cups, so keep an eye on them.
+* You'll need a madeleine pan to make true madeleines, but you can also use a mini muffin pan or regular sized muffin pan to bake these; you'll still have a delicious treat. Baking times might be longer or shorter depending on the size of the muffin cups, so keep an eye on them.
 
 </br>
 
