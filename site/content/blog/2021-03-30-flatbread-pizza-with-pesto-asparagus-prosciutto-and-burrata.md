@@ -47,9 +47,9 @@ The burrata gets even creamier form the warmth of the pizza making it extra irre
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube ZayAHXxWb1g >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
