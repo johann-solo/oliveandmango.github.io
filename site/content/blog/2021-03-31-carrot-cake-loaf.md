@@ -59,9 +59,9 @@ If you like this carrot cake loaf recipe you will love these:
 
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube aobNV1WdWts >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
