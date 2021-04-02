@@ -54,9 +54,9 @@ This is an easy version of the classic Greek avgolemono soup that I love. I hope
 There are so many versions of this recipe out there. Each family has their own way of doing it. This is mine and I think it’s quite an easy recipe to follow and enjoy. Some definite no no’s I would say although I’m not one to criticize is adding cream or corn starch to this avgolemono soup. It’s rich enough without the cream and if you want a thicker soup I would reduce the amount of broth in the soup by 2-3 cups. The soup gets its richness from the lemon egg sauce - I wouldn’t change that with the addition of the cornstarch. I prefer mine brothy but others like my dad like it more porridge like in consistency - so my mom would always reduce the amount of broth and up the amount of Arborio rice to suit. You can do the same to achieve one or the other texture or somewhere in between. Enjoy and I look forward to sharing more avgolemono based recipes here on the blog in the near future.
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube iIBboAKVoV0 >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
