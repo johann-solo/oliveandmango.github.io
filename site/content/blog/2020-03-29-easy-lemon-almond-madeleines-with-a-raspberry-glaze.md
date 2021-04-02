@@ -69,7 +69,6 @@ __Basic Ingredients__
 <div><input type="checkbox" class="ingredients_check" id="Almond" ><label for="Almond">Almond flour (almond meal)</label></div>
 <div><input type="checkbox" class="ingredients_check" id="Sugar" ><label for="Sugar">Sugar</label></div>
 <div><input type="checkbox" class="ingredients_check" id="Eggs" ><label for="Eggs">Eggs</label></div>
-<div><input type="checkbox" class="ingredients_check" id="Parmesan" ><label for="Parmesan">Parmesan cheese</label></div>
 <div><input type="checkbox" class="ingredients_check" id="Butter" ><label for="Butter">Butter</label></div>
 <div><input type="checkbox" class="ingredients_check" id="Lemon zest" ><label for="Lemon zest">Lemon zest</label></div>  
 
