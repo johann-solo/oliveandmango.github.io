@@ -58,9 +58,9 @@ If you like this slow roasted salmon recipe you will also love:
 
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube DXR8tnCv80Y >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
