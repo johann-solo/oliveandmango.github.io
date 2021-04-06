@@ -10,6 +10,7 @@ excerpt: A creamy spring veggie loaded pasta made in one pan and in under 30 min
 keywords: ["seafood pasta", "Spring meals", "one pot meals"]
 description: A creamy spring veggie loaded pasta made in one pan and in under 30 minutes
 ---
+<span class="blog-text">
 
 Penne with a buttery lemon, cream, Parmesan sauce, and plenty of fresh vegetables - mushrooms, peas, asparagus, tomatoes, garlic, basil and shrimp. This delicious Shrimp Pasta Primavera is IDEAL for busy weeknights! It's ready in 30 minutes and uses just one pot for everything making cleanup a breeze. 
 </br>
@@ -60,9 +61,16 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 {{< youtube 60l8o33DScg >}}
 </br>
 </br>
+</span>
 
 ### Recipe
-Serves 4-6 
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">4-6</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT10M">10 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT30M">25-30 mins</div>
 </br>
 
 ### Ingredients
