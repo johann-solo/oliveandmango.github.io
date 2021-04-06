@@ -61,12 +61,12 @@ If you like this recipe you will love these:
 * <span class="highlight"><a href="https://www.oliveandmango.com/creamy-one-pan-lemon-garlic-chicken-and-orzo-risotto">Creamy One Pan Lemon Garlic Chicken And Orzo Risotto</a></span>
 * <span class="highlight"><a href="https://www.oliveandmango.com/rosemary-and-squash-chicken-soup">Rosemary and Squash Chicken Soup</a></span>
 * <span class="highlight"><a href="https://www.oliveandmango.com/creamy-chicken-and-wild-rice-soup">Creamy Chicken And Wild Rice Soup</a></span>
-* <span class="highlight"><a href="https://www.oliveandmango.com/simple-classic-avgolemono-soup-recipe-greek-egg-lemon-chicken-soup">Simple Classic Avgolemono Soup Recipe (Greek Egg Lemon Chicken Soup)</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/simple-classic-avgolemono-soup-recipe-greek-egg-lemon-chicken-soup">Simple Classic Avgolemono Soup Recipe (Greek Egg Lemon Chicken Soup)</a></span>  
+
+</br>
+{{< youtube 2RZ_Aa-3O7U >}}
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
-</br>
-</br>-->
 </span>
 
 ### Recipe
@@ -96,12 +96,14 @@ If you like this recipe you will love these:
 * <span itemprop="recipeIngredient">&frac14; cup chopped fresh Dill or parsley </span>
 * <span itemprop="recipeIngredient">Lemon halves (for serving)</span>
 </br>
+</br>
 
 ### Directions
 1. Heat oil in a large heavy pot over medium heat. Add leek, celery, carrots and cook, stirring often, until vegetables are soft, 5-8 minutes. Stir in the garlic, thyme and lemon zest.  
 1. Add chicken and broth. Bring to a boil, cover, reduce heat, and simmer until chicken is cooked through, 15-20 minutes. Transfer chicken to a plate. Let cool, then shred or chop chicken into bite-size pieces.
 1. Meanwhile, return broth to a boil. Add orzo and cook until al dente, 8-10 minutes.
 1. Test for seasoning. Stir in the shredded chicken, spinach and dill. Simmer another couple of minutes until spinach is wilted then serve with lemon halves or wedges for squeezing over. Store your leftovers in an airtight container in the fridge for 3-4 days. To reheat, use either your microwave or on the stovetop over medium heat.
+</br>
 </br>
 
 ### Recipe Notes
