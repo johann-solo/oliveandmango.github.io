@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2021_04_05_lemon_chicken_orzo_soup_1.jpg
 scaled_thumbnail: /images/uploads/2021_04_05_lemon_chicken_orzo_soup_0.jpg
 categories: ["soups"]
-tags: ["lemons", "chicken"]
+tags: ["lemons", "chicken", "orzo"]
 excerpt: A delicious soup with bright lemon and fresh herbs, packed with nutrition from lots of vegetables and tender shredded chicken.
 keywords: ["chicken soup", "orzo soup"]
 description: A delicious soup with bright lemon and fresh herbs, packed with nutrition from lots of vegetables and tender shredded chicken.
