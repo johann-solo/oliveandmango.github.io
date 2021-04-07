@@ -6,9 +6,9 @@ thumbnail: /images/uploads/2021_04_06_beer_braised_pork_carnitas_1.jpg
 scaled_thumbnail: /images/uploads/2021_04_06_beer_braised_pork_carnitas_0.jpg
 categories: ["mains"]
 tags: ["beer", "pork", "Mexican", "sponsored"]
-excerpt: Juciy and delicious carnitas that can be made in a slow ooker or an Instant Pot
+excerpt: Easy to make tender juicy pork with crispy edges 
 keywords: ["Mexican food", "pork recipes", "Instant Pot"]
-description: Juciy and delicious carnitas that can be made in a slow ooker or an Instant Pot
+description: Easy to make tender juicy pork with crispy edges
 ---
 <span class="blog-text">
 
@@ -30,7 +30,7 @@ Carnitas — which means "little meats" in Spanish — is a Mexican pork dish. P
 </br>
 
 ## What cut of pork is best for carnitas? 
-The best kind of pork for these carnitas is either pork shoulder or pork butt. This cut of pork has streaks of fat to keep things moist and juicy while it cooks, and one that can stand up to and benefit from a lower temperature and long cooking time. Essentially that fat sort of melts and creates delicious pan juices for the pork to cook in. It’s high fat content sort of mimics braising in the lard. I made this carnitas recipe in partnership with Metro and was happy to share a beloved simple recipe using Ontario pork and the perfect recipe for national beer day. It’s braised in it and it’s also perfect served with a cold tall one too. 
+The best kind of pork for these carnitas is either pork shoulder or pork butt. This cut of pork has streaks of fat to keep things moist and juicy while it cooks, and one that can stand up to and benefit from a lower temperature and long cooking time. Essentially that fat sort of melts and creates delicious pan juices for the pork to cook in. It’s high fat content sort of mimics braising in the lard. I made this carnitas recipe in partnership with Metro and was happy to share a beloved simple recipe using Ontario pork, and their Selection brand flour tortillas - the perfect recipe for national beer day. It’s braised in beer and it’s also perfect served with a cold tall one too. 
 </br>
 </br>
 
@@ -116,7 +116,7 @@ They are so delicious and so versatile. My favorite way to devour carnitas is tu
 1. Cover and let braise for 2.5 hours
 1. Uncover and toss meat in pan to coat with the pan juices and continue to braise for another 20-30 min until exposed meat is deeply golden with crispy edges.
 1. Remove meat from pan juices with slotted spoon (reserving some to drizzle on when serving if desired) then place in a bowl and shred meat using two forks.
-1. For extra crispy edges place shredded meat onto baking sheet and continue roasting about 10-15 min more or until your desired crispness. (Optional)
+1. For extra crispy edges place shredded meat onto baking sheet (discarding large fatty pieces) brush with the liquid (approx 1/2 cup) from the pan and continue roasting about 10-15 min more or until your desired crispness. Broiling for the last few minutes if desired. (Optional)
 1. Toast or warm your tortillas then top with warm carnitas and serve with chopped tomatoes, red onions, chopped cilantro, crumbled cotija and with lime wedges.
 </br>
 </br>
