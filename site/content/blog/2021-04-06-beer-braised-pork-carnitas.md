@@ -68,9 +68,9 @@ They are so delicious and so versatile. My favorite way to devour carnitas is tu
 * As sliders - why not - Mexican style pulled pork sliders for the win!!
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube 6MHQ5v4AW5I >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
