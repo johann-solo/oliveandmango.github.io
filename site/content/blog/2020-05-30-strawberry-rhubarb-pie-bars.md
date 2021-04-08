@@ -10,6 +10,7 @@ excerpt: All the classic flavours of strawberry rhubarb pie without the fuss
 keywords: ["baked strawberry rhubarb", "fruit bars"]
 description: All the classic flavours of strawberry rhubarb pie without the fuss of making pie dough
 ---
+<span class="blog-text">
 
 Strawberry rhubarb is a classic pie filling that I love. These pie bars have all the classic flavours of strawberry rhubarb pie without having to fuss over pie dough, lattices or waiting hours before you can dig in. You can whip up a whole pan of these bars in minutes. They’re tasty, easy to make, and always a hit to serve!
 </br>
@@ -63,32 +64,33 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 {{< youtube RUlZ9WZ0X0E >}}
 </br>
 </br>
+</span>
 
 ### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
 
-Prep Time: <meta itemprop="prepTime" content="PT20M">15-20 minutes  
-
-Bake Time: <meta itemprop="cookTime" content="PT30M">30 to 35 minutes  
-
-Total Time: 50 to 55 minutes  
-
-Servings: <span itemprop="recipeYield">9 bars in a square 8x8 inch pan  
+<div>Servings: <span itemprop="recipeYield">9 bars in a square 8x8 inch pan</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT20M">15-20 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT35M">30-35 mins</div>
+<div>Total Time: 50-55 mins</div>
 </br>
 
 ### Ingredients
 
-__For the Filling__
+#### For the Filling
 
 * <span itemprop="recipeIngredient">1¼ cup rhubarb, diced small</span>
 * <span itemprop="recipeIngredient">1¼ cup strawberries, stems removed and diced small</span>
 * <span itemprop="recipeIngredient">1 Tbsp lemon juice</span>
 * <span itemprop="recipeIngredient">1 tsp vanilla extract </span>
 * <span itemprop="recipeIngredient">2 Tbsp brown sugar</span>
-* <span itemprop="recipeIngredient">2 tsp Bob’s Red Mill tapioca starc or corn starch </span>
+* <span itemprop="recipeIngredient">2 tsp Bob’s Red Mill tapioca starch or corn starch </span>
 * <span itemprop="recipeIngredient">½ tsp cinnamon</span>
 * <span itemprop="recipeIngredient">Pinch of salt</span>
 
-__For the dough__
+#### For the Dough
 
 * <span itemprop="recipeIngredient">12 Tbsp unsalted butter, softened</span>
 * <span itemprop="recipeIngredient">&frac13; cup packed brown sugar</span>
@@ -97,26 +99,23 @@ __For the dough__
 * <span itemprop="recipeIngredient">¼ cups of <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/gluten-free-rolled-oats.html">Gluten Free Organic Old Fashioned Rolled Oats</a></span> </span>
 * <span itemprop="recipeIngredient">½ tsp salt</span>
 * <span itemprop="recipeIngredient">¼ cup chopped nuts - I used pecans (optional)</span>
-
+</br>
+</br>
 
 ### Directions
 
 1. Preheat the oven to 375°F. Line an 8×8-inch square pan with parchment paper and set aside.
-
 2. In a mixing bowl, toss together the rhubarb, strawberries, tapioca starch, lemon juice, cinnamon, vanilla, pinch of salt and brown sugar. Set aside.
-
 3. Using an electric mixer, cream together the butter, brown sugar and white sugar until light and fluffy. Add the flour, oats and salt. Mix on low speed until combined. Reserve the buts for the topping. 
-
 4. Place about &frac23; of the dough in the pan. Press the dough into the pan using your fingertips or the flat bottom of a measuring cup and set aside.
-
-5. Transfer fruit mixture on top of the crust with a slotted spoon draining off most of the liquid and spread evenly.
-
+5. Transfer fruit mixture on top of the crust with a slotted spoon draining off most of the liquid and spread evenly
 6. Mix the reserved dough with the nuts (if using) and sprinkle over the top of the fruit. Bake for 30 to 35 minutes or until slightly browned on top and the juices around the edges of pan bubble.
-
 7. Cool the bars completely before slicing.
+</br>
+</br>
 
 Adapted from the _Foodnetwork_
-
+</br>
 </br>
 
 ![Strawberry Rhubarb Pie Bars](/images/uploads/2020_05_30_strawberry_rhubarb_pie_bars_4.jpg)
