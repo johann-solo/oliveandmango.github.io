@@ -30,7 +30,7 @@ Asparagus soup makes a nice light lunch when paired with crusty bread or a delic
 
 ## How to make asparagus soup: 
 This soup is quite simple and loaded with fresh ingredients and full of flavor!
-1. Prep your asparagus: Wash and trim the last inch off each asparagus spear (the woody ends). Trin the rest into &frac12;-1 inch pieces. Either blanch the tops separately or sauté them until bright green and tender (approx 2 min) they make a brilliant garnish for each serving.
+1. Prep your asparagus: Wash and trim the last inch off each asparagus spear (the woody ends). Trin the rest into &frac12;-1 inch pieces. Either blanch half of the tops separately or sauté them until bright green and tender (approx 2 min) they make a brilliant garnish for each serving.
 1. Sauté the leeks and the shallots until tender and fragrant. Add asparagus, garlic and spinach and continue to cook a few more minutes. Stir in the broth and let cook until asparagus is softened. 
 1. Puree: Using an blender or immersion stick blender puree the soup until it is completely smooth. Stir in the cream. Ladle out into bowls and top with Mackerel if using and garnish with chopped chives or micro greens.  A squeeze of lemon juice would be nice too!  
 </br>
@@ -76,7 +76,7 @@ If you like this recipe you will love these:
 </br>
 
 ### Directions 
-1. Heat the butter and oil in a large saucepan. Add the asparagus tips and cook for a few mins to soften. Remove onto plate with slotted spoon and set aside.
+1. Heat the butter and oil in a large saucepan. Add half the asparagus tips and cook for a few mins to soften. Remove onto plate with slotted spoon and set aside.
 1. Add the shallots, and leeks and sauté for 3-5 min or until softened. Add the  asparagus stalks, garlic and spinach and season with salt and pepper and cook for another 3-5 min until softened but still bright. 
 1. Pour over the stock, bring to boil, then reduce heat and simmer uncovered 8-10 min or until stalks are tender. 
 1. Carefully ladle soup into a blender in batches if needed and blend until very smooth (you can also use an immersion blender). Return soup to pot
@@ -86,11 +86,12 @@ If you like this recipe you will love these:
 </br>
 
 ### Recipe Notes
-* For a thicker soup consistency reduce broth/stock amount by 1 cup or more depending on how thick you want it 
+* I like my soup on the brothier side. For a thicker soup consistency though just simply reduce broth/stock amount by 1 cup or more depending on how thick you want it. You could also add 1/2-1 cup of peeled and chopped potatoes in to cook with the asparagus for a richer and thicker consisntency in this soup.
 * Feel free to substitute cream with a non dairy one if needed (coconut cream, cashew cream etc) 
 * Leeks can easily be substituted with a small bunch of green onions.
 * If you would like to add extra seasoning to the soup I strongly recommend adding fresh or dried thyme 
 * I garnishes mine with micro greens but feel free to use chopped chives and this soups is also delicious with a squeeze of lemon juice before serving too 
+* It is common to serve this soup with with a dollp of butter or herbed butter which gets swirled into the soup for extra flavour and richness - that is optional 
 </br>
 </br>
 
