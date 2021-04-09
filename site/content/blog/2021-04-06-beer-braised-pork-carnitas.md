@@ -116,7 +116,7 @@ They are so delicious and so versatile. My favorite way to devour carnitas is tu
 1. Cover and let braise for 2.5 hours
 1. Uncover and toss meat in pan to coat with the pan juices and continue to braise for another 20-30 min until exposed meat is deeply golden with crispy edges.
 1. Remove meat from pan juices with slotted spoon (reserving some to drizzle on when serving if desired) then place in a bowl and shred meat using two forks.
-1. For extra crispy edges place shredded meat onto baking sheet (discarding large fatty pieces) brush with the liquid (approx 1/2 cup) from the pan and continue roasting about 10-15 min more or until your desired crispness. Broiling for the last few minutes if desired. (Optional)
+1. For extra crispy edges place shredded meat onto baking sheet (discarding large fatty pieces) brush with the liquid (approx &frac12; cup) from the pan and continue roasting about 10-15 min more or until your desired crispness. Broiling for the last few minutes if desired. (Optional)
 1. Toast or warm your tortillas then top with warm carnitas and serve with chopped tomatoes, red onions, chopped cilantro, crumbled cotija and with lime wedges.
 </br>
 </br>
