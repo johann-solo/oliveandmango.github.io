@@ -10,6 +10,7 @@ excerpt: A fabulous crispy edged tender rhubarb cake, sweet with a nice tartness
 keywords: ["rhubarb cake", "tea cake"]
 description: A fabulous crispy edged tender rhubarb cake, sweet with a nice tartness from the rhubarb 
 ---
+<span class="blog-text">
 
 The first sign of rhubarb at the grocery store or in your garden calls for a simple yet irresistible almond rhubarb tea cake. Tender crumb, crispy edges with just enough sweet and a nice tartness from the rhubarb. It’s buttery but not too rich, the perfect spring time dessert to enjoy with tea or coffee.
 </br>
@@ -57,6 +58,18 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 
 {{< youtube aybJXs9F2qQ >}}
 </br>
+</br>
+</span>
+
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">8-10</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">15 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT60M">50-60</div>
+</br>
 
 ### Main ingredients
 <div>
@@ -89,10 +102,10 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 1. Slice rhubarb in half lengthwise (quarter if the pieces are very large). Set 8 of the prettiest ones aside to decorate the top of the cake; chop remaining rhubarb into ½" slices. 
 1. In a medium bowl whisk together the flour, almond flour, baking powder, and salt.
 1. Place 1 cup butter and ¾ cup sugar in a large bowl along with the vanilla paste. Using an electric mixer on high speed, or a standing mixer, beat until light and fluffy, about 4 minutes. Add eggs, one at a time, beating to blend first egg before adding second. Beat until mixture is pale and fluffy, about 4 minutes.
-
 1. Reduce speed to low and gradually add dry ingredients, then the yogurt. Beat, just until combined, scraping down the sides of bowl once or twice (batter will be thick). Fold in chopped rhubarb and scrape batter into prepared pan. Smooth batter and arrange reserved rhubarb over top; sprinkle with remaining 3 Tbsp. sugar.
-
 1. Place tart pan on a large baking sheet and bake, rotating once, until cake is golden brown and rhubarb on top is soft and beginning to brown, 60-70 minutes. Transfer to a wire rack and let cake cool for at least 10 minutes and then remove rim or lift out of pan with parchment paper and allow to cool completely 
+</br>
+</br>
 
 Recipe adapted from _Bon Appétit_
 
