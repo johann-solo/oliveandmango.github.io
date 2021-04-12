@@ -1,7 +1,7 @@
 <h2>Recent Posts</h2>
 {{- range first 3 (where .Site.RegularPages "Type" "blog" | after 5 ) }}
   <section class="recent-article">
-    <a href="{{ .Permalink }}"><img src="{{ .Params.scaled_thumbnail }}" alt="{{.Params.Title}}"></a>
+    <a href="{{ .Permalink }}"><img loading="lazy" src="{{ .Params.scaled_thumbnail }}" alt="{{.Params.Title}}"></a>
     <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
     <!-- <p>{{.Description}}</p> -->
   </section>

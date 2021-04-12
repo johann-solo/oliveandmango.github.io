@@ -9,7 +9,7 @@
     <ul class="related_posts">
       {{ $num_to_show := .Site.Params.related_content_limit | default 4 }}
       {{ range first $num_to_show (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
-        <li><a href="{{ .RelPermalink }}"><img src="{{ .Params.scaled_thumbnail }}" alt="{{.Params.Title}}">{{ .Title }}</a></li>
+        <li><a href="{{ .RelPermalink }}"><img loading="lazy" src="{{ .Params.scaled_thumbnail }}" alt="{{.Params.Title}}">{{ .Title }}</a></li>
       {{ end }}
     </ul>
   </aside>
