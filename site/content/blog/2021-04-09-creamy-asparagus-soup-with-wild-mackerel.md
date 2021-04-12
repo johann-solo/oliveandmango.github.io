@@ -42,12 +42,12 @@ This soup is quite simple and loaded with fresh ingredients and full of flavor!
 If you like this recipe you will love these: 
 * <span class="highlight"><a href="https://www.oliveandmango.com/flatbread-pizza-with-pesto-asparagus-prosciutto-and-burrata">Flatbread Pizza With Pesto Asparagus Prosciutto and Burrata</a></span>
 * <span class="highlight"><a href="https://www.oliveandmango.com/asparagus-custard-tart-with-a-gluten-free-crust">Asparagus Custard Tart With a Gluten Free Crust</a></span>
-* <span class="highlight"><a href="https://www.oliveandmango.com/fresh-pea-soup-potage-saint-germain">Fresh Pea Soup (Potage Saint-Germain)</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/fresh-pea-soup-potage-saint-germain">Fresh Pea Soup (Potage Saint-Germain)</a></span>  
+
+</br>
+{{< youtube tZIKY1Dcrtk >}}
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
-</br>
-</br>-->
 </span>
 
 ### Recipe

@@ -106,7 +106,7 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 
 1. Preheat the oven to 375°F. Line an 8×8-inch square pan with parchment paper and set aside.
 2. In a mixing bowl, toss together the rhubarb, strawberries, tapioca starch, lemon juice, cinnamon, vanilla, pinch of salt and brown sugar. Set aside.
-3. Using an electric mixer, cream together the butter, brown sugar and white sugar until light and fluffy. Add the flour, oats and salt. Mix on low speed until combined. Reserve the buts for the topping. 
+3. Using an electric mixer, cream together the butter, brown sugar and white sugar until light and fluffy. Add the flour, oats and salt. Mix on low speed until combined. Reserve the nuts for the topping. 
 4. Place about &frac23; of the dough in the pan. Press the dough into the pan using your fingertips or the flat bottom of a measuring cup and set aside.
 5. Transfer fruit mixture on top of the crust with a slotted spoon draining off most of the liquid and spread evenly
 6. Mix the reserved dough with the nuts (if using) and sprinkle over the top of the fruit. Bake for 30 to 35 minutes or until slightly browned on top and the juices around the edges of pan bubble.
