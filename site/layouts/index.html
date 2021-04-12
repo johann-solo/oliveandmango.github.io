@@ -15,7 +15,7 @@
             <p class="post__date">{{ .Date.Format "2 January 2006" }}</p>
           </div>
           <a href="{{ .Permalink }}">
-            <img loading="lazy" src="{{ .Params.scaled_thumbnail }}" alt="{{.Params.Title}}">
+            <img loading="lazy" src="{{ .Params.Thumbnail }}" alt="{{.Params.Title}}">
           </a>
           <div class="post-link post__excerpt">{{ .Params.excerpt }}</div>
           <a href="{{ .Permalink }}"><div class="btn">continue reading</div></a>
