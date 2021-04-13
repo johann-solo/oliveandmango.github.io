@@ -10,6 +10,7 @@ excerpt: One pan spring veggie loaded pot pie with a crispy phyllo pastry toppin
 keywords: ["pot pies", "chicken pot pies"]
 description: One pan spring veggie loaded pot pie with a crispy phyllo pastry topping 
 ---
+<span class="blog-text">
 
 This delicious one-pan spring chicken pot pie with spinach and herbs is quick to make and is topped with crispy phyllo pastry instead of puff pastry for a lighter finish. Perfect for when you want a hearty meal with all the fresh flavours of spring. 
 </br>
@@ -64,17 +65,17 @@ The phyllo gives this dish a lighter topping. It’s fun and it’s crunchy and 
 {{< youtube 9gb2aNNgJG0 >}}
 </br>
 </br>
+</span>
 
 ### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
 
-Servings: <span itemprop="recipeYield">4-6 portions
-
-Prep Time: <meta itemprop="prepTime" content="PT10M">10 min  
-
-Cook Time: <meta itemprop="cookTime" content="PT30M">30 min 
-
-Total time: 40 min
-</br>
+<div>Servings: <span itemprop="recipeYield">4-6 portions</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT10M">10 min  </div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT30M">30 min </div>
+<div>Total time: 40 min</div>
 </br>
 
 ### Ingredients
@@ -85,7 +86,7 @@ Total time: 40 min
 * <span itemprop="recipeIngredient">250g frozen spinach or 3 cups of fresh </span>
 * <span itemprop="recipeIngredient">2 cloves of garlic minced </span>
 * <span itemprop="recipeIngredient">1 cup of sliced cremini mushrooms  </span>
-* <span itemprop="recipeIngredient">6 ready-cooked skinless chicken thighs, chopped or shredded  (approx 1-1.5 lbs -could also use leftover rotisserie </span>chicken or breasts) 
+* <span itemprop="recipeIngredient">6 ready-cooked skinless chicken thighs, chopped or shredded (approx 1-1.5 lbs -could also use leftover rotisserie </span>chicken or breasts) 
 * <span itemprop="recipeIngredient">&frac14; cup white wine (optional)</span>
 * <span itemprop="recipeIngredient">1 cup of chicken stock</span>
 * <span itemprop="recipeIngredient">Zest of one lemon </span>
@@ -95,19 +96,23 @@ Total time: 40 min
 * <span itemprop="recipeIngredient">&frac34; cup of crème fraîche or sour cream alternatively </span>
 * <span itemprop="recipeIngredient">2 tsp thyme leaves finely chopped</span>
 * <span itemprop="recipeIngredient">&frac14; cup small bunch parsley finely chopped</span>
-* <span itemprop="recipeIngredient">270g pack phyllo pastry (approx 10 sheets)</span>
+* <span itemprop="recipeIngredient">270g pack phyllo pastry * (approx 10 sheets)</span>
+</br>
+</br>
 
 ### Directions
 
 1. Heat oven to 400°F. 
-
 1. Heat olive oil and butter in a large, shallow dutch oven on medium heat. Add the leeks, garlic and mushrooms and sauté for 2-3 mins, deglaze the pan by adding the white wine if using, then stir through the frozen spinach and cook for 2 mins or until it’s starting to wilt. 
-
 1. Stir in the chicken and then sprinkle over the flour and stir it in well. Stir in the stock and mustard along with the lemon zest. Bring to a simmer and cook, uncovered, for 5-10 mins until reduced and slightly thickened. 
-
 1. Stir in the peas, crème fraîche and herbs, then remove from the heat. Taste and season well with salt and pepper. Scrunch the phyllo pastry sheets over the mixture, brush with a little oil and bake for 20-30 mins or until golden brown and bubbling at the sides 
-
 1. Allow to cool a couple minutes once out of the oven and then serve. 
+</br>
+</br>
+
+### Recipe Notes
+* I used 10 sheets of phyllo but depending on the size of your casserole dish you may decide to use less - I would say between 5-10 sheets is plenty. The thicker the layers of sheets the less the bottom ones will cook up and get crisp as they are touching the saucy pot pie. It’s not abnormal for the inside or bottom sheet to be moist because of this reason. Reheating leftovers is possible and tasty but the Phyllo will never be as crisp as it was initially. 
+</br>
 
 Adapted from _BBC Good Food_
 
