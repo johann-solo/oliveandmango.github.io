@@ -55,9 +55,9 @@ There are quite a few versions out there of this lemon ricotta recipe. This is t
 </br>
 
 If you like this simple, quick and delicious pasta dish you, you will love these:
-* <span class="highlight"><a href="https://www.oliveandmango.com/one-pot-shrimp-pasta-primavera">One Pot Shrimp Pasta Primavera</a></span>
-* <span class="highlight"><a href="https://www.oliveandmango.com/simple-lemony-tuna-bucatini">Simple Lemony Tuna Bucatini</a></span>
-* <span class="highlight"><a href="https://www.oliveandmango.com/lemon-garlic-shrimp-pasta">Lemon Garlic Shrimp Pasta</a></span>  
+* <span class="highlight"><a href="https://www.oliveandmango.com/one-pot-shrimp-pasta-primavera">One Pot Shrimp Pasta Primavera</a></span></a></span> 
+* <span class="highlight"><a href="https://www.oliveandmango.com/simple-lemony-tuna-bucatini">Simple Lemony Tuna Bucatini</a></span></a></span> 
+* <span class="highlight"><a href="https://www.oliveandmango.com/lemon-garlic-shrimp-pasta">Lemon Garlic Shrimp Pasta</a></span>
 
 </br>
 
@@ -83,6 +83,7 @@ If you like this simple, quick and delicious pasta dish you, you will love these
 * <span itemprop="recipeIngredient">1 cup freshly grated parmesan or pecorino, plus more for serving</span>
 * <span itemprop="recipeIngredient">1 tablespoon freshly grated lemon zest </span>
 * <span itemprop="recipeIngredient">&frac14; cup lemon juice from 1 to 2 lemons plus extra lemon wedges for serving </span>
+* <span itemprop="recipeIngredient">2 cups of arugula</span>
 * <span itemprop="recipeIngredient">Chili flakes for serving </span>
 * <span itemprop="recipeIngredient">Olive oil for serving </span>
 * <span itemprop="recipeIngredient">Thinly sliced or torn basil leaves for serving (optional)</span>
@@ -92,7 +93,8 @@ If you like this simple, quick and delicious pasta dish you, you will love these
 2. Make the sauce in the same pot: add the ricotta, parmesan, lemon zest and juice, salt and pepper to taste and stir until well combined.
 3. Stir or whisk in &frac12; cup of pasta water until smooth.
 4. Add the pasta and stir vigorously until the noodles are well coated adding more pasta water to loosen up the sauce as needed for a smooth sauce.
-5. Serve immediately and top with remaining  sauce from pan and a drizzle of olive oil. Serve with extra parmesan, red-pepper flakes and torn basil, if using and extra lemon wedges on the side. 
+5. Stir in the arugula.
+6. Serve immediately and top with remaining  sauce from pan and a drizzle of olive oil. Serve with extra parmesan, red-pepper flakes and torn basil, if using and extra lemon wedges on the side. 
 </br>
 </br>
 
