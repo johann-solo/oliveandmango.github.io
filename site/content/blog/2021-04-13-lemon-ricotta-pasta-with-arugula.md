@@ -55,9 +55,9 @@ There are quite a few versions out there of this lemon ricotta recipe. This is t
 </br>
 
 If you like this simple, quick and delicious pasta dish you, you will love these:
-* <span class="highlight"><a href="https://www.oliveandmango.com/one-pot-shrimp-pasta-primavera">One Pot Shrimp Pasta Primavera</a></span>
-* <span class="highlight"><a href="https://www.oliveandmango.com/simple-lemony-tuna-bucatini">Simple Lemony Tuna Bucatini</a></span>
-* <span class="highlight"><a href="https://www.oliveandmango.com/lemon-garlic-shrimp-pasta">Lemon Garlic Shrimp Pasta</a></span>  
+* <span class="highlight"><a href="https://www.oliveandmango.com/one-pot-shrimp-pasta-primavera">One Pot Shrimp Pasta Primavera</a></span></a></span> 
+* <span class="highlight"><a href="https://www.oliveandmango.com/simple-lemony-tuna-bucatini">Simple Lemony Tuna Bucatini</a></span></a></span> 
+* <span class="highlight"><a href="https://www.oliveandmango.com/lemon-garlic-shrimp-pasta">Lemon Garlic Shrimp Pasta</a></span>
 
 </br>
 
