@@ -10,6 +10,7 @@ excerpt: Baked French toast casserole with custardy brioche and loaded with berr
 keywords: ["French toast", "baked French toast",]
 description: Baked French toast casserole with custardy brioche and loaded with berries 
 ---
+<span class="blog-text">
 
 Baked french toast casserole with custardy brioche and loaded with berries. Day old slices of tsoureki/brioche bread soaked in a sweet spiced custard mixture then baked until golden and crisp. 
 </br>
@@ -62,14 +63,19 @@ It comes together so quickly and is such a treat to enjoy for breakfast or brunc
 {{< youtube xYKZka5MzCk >}}
 </br>
 </br>
+</span>
 
 ### Recipe
-Serves 8
-</br>
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">8-10</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT10M">5-10 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT60M">50-60 mins</div>
 </br>
 
-### Ingredients 
-
+### Ingredients
 * <span itemprop="ingredients">1 large day old bread (tsoureki or any brioche, challah, crusty sourdough or French bread), sliced into &frac12;-&frac34; inch </span>slices (approx 1 lb) 
 * <span itemprop="ingredients">6 whole eggs</span>
 * <span itemprop="ingredients">1 cup whole milk</span>
@@ -89,15 +95,16 @@ Optional toppings: Cinnamon butter sugar topping (details in note below), maple 
 </br>
 
 ### Directions
-
 1. Grease a 9x13-inch baking dish with butter and set aside.
 1. In a large bowl, whisk the eggs, milk, cream, maple syrup, vanilla, cinnamon, cardamom, nutmeg, lemon zest and salt until fully combined 
 1. Place 4-5 slice of bread into the milk mixture at a time and allow to sit and soak for 20-30 seconds then remove and arrange each slice in the pan and repeat with the rest of the slices 
 1. Pour the remaining milk mixture over the slices then arrange berries and almonds between and over the slices. Cover and refrigerate for 30-60 minutes and up to overnight. 
 1. Preheat oven to 375°F and bake French toast casserole for 30-40 min or until golden with crisp edges then serve with any or all optional toppings 
+</br>
+</br>
 
 ### Recipes Note
-If you wanted to add a bit of a sweet cinnamon crunch topping to this baked French toast just before baking, mix together 3 tablespoons granulated sugar, 3 tablespoons unsalted melted butter, and 1 teaspoon cinnamon. Drizzle the melted butter evenly over the top of the dish, then sprinkle the cinnamon-sugar on top and bake as directed.
+* If you wanted to add a bit of a sweet cinnamon crunch topping to this baked French toast just before baking, mix together 3 tablespoons granulated sugar, 3 tablespoons unsalted melted butter, and 1 teaspoon cinnamon. Drizzle the melted butter evenly over the top of the dish, then sprinkle the cinnamon-sugar on top and bake as directed.
 
 </br>
 
