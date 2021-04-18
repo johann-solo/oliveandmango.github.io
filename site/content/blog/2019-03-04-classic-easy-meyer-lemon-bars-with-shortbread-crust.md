@@ -10,6 +10,7 @@ excerpt: Crisp, buttery crust with a creamy lemon filling
 keywords: ["lemons"]
 description: Lemons bars with a crisp, buttery crust and a creamy lemon filling
 ---
+<span class="blog-text">
 
 Lemon bars - crisp, buttery crust and creamy lemon filling, make this classic a popular favourite. This is a simple recipe. From making the crust in the food processor to just whisking and pouring your filling into the pan. They bake up beautifully with the nicest lemony filling that is just enough tart and sweet - not too sweet, but just enough to meet the tartness right in the middle.
 </br>
@@ -46,10 +47,20 @@ These were a total hit with my family - they were gone so fast. I was hoping to 
 {{< youtube -q81Pv6OotA >}}
 </br>
 </br>
+</span>
 
-## Recipe
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">one 8x8 square tin OR one 9 inch round tart pan</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT20M">15-20 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT45M">40-45 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT45M">Non Active Time: 2-3 hours (cooling & chilling time)</div>
+</br>
+
 ### Ingredients 
-
 __For the crust__
 
 * <span itemprop="ingredients"> 1&frac14; cup all purpose flour</span>
@@ -72,7 +83,7 @@ __For the filling__
 
 ### Directions
 
-1. Preheat the oven to 350&deg;F
+1. Preheat the oven to 350°F
 1. Line an 8 x 8 square baking pan with parchment paper then spray with nonstick spray. 
 2. In the bowl of a food processor add the flour, the lemon zest, both sugars and salt and pulse to combine. 
 3. Add the butter and pulse until the dough comes together. 
@@ -84,9 +95,7 @@ __For the filling__
 9.  Cut the bars and allow them to come to room temperature before serving or serve right from the fridge dusted with powdered sugar and with slices of meyer lemon before serving. 
 
 Adapted from _Chatelaine_ and _Amanda Frederickson_
-
 </br>
-<a target="_blank" href="https://thefeedfeed.com/" style="max-width: 300px; height: auto; display: block;"><img style="width: 100%; height: auto;" src="https://thefeedfeed.com/images/editorBadge/badge_300x93_blk.jpg" alt="FeedFeed"/></a>
 </br>
 
 ![Classic Easy Meyer Lemon Bars With Shortbread Crust](/images/uploads/2019_03_04_classic_easy_meyer_lemon_bars_with_shortbread_crust_6.jpg)

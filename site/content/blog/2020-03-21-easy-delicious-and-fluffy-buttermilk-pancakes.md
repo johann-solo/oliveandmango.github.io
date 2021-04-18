@@ -10,6 +10,7 @@ excerpt: Fluffy buttermilk pancakes with perfect golden crispy edges
 keywords: ["buttermilk pancakes", "breakfast meals"]
 description: Learn how to make fluffy buttermilk pancakes with perfect golden crispy edges. These make the perfect lazy breakfast.
 ---
+<span class="blog-text">
 
 These buttermilk pancakes are buttery, super fluffy, with perfect golden crispy edges. Have them plain with a bit of butter or loaded with fresh fruit or with plenty of maple syrup.  
 </br>
@@ -49,14 +50,19 @@ Use this fabulous recipe as a base for adding fruit or chocolate chips. I usuall
 </br>
 </br>
 
-<div class="mv-video-target mv-video-id-lua0fkfhajz4vo0acukz" data-video-id="lua0fkfhajz4vo0acukz" data-volume="70" data-ratio="16:9"></div>
-If you can not play the video <span class="highlight"><a href="https://youtu.be/zS_6njFjx6I">Checkout our Youtube channel</a></span>.
+{{< youtube zS_6njFjx6I >}}
 </br>
 </br>
+</span>
 
 ### Recipe
-Makes approx 10 pancakes
-</br>
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">10-12 medium size</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT5M">5 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT25M">20-25 mins</div>
 </br>
 
 ### Ingredients
@@ -70,6 +76,8 @@ Makes approx 10 pancakes
 * <span itemprop="ingredients">¼ cup melted unsalted butter, plus some for frying</span>
 * <span itemprop="ingredients">1 cup blueberries, fresh or frozen</span>
 * <span itemprop="ingredients">Serving suggestions: whipped cream and maple syrup </span>
+</br>
+</br>
 
 ### Directions
 
