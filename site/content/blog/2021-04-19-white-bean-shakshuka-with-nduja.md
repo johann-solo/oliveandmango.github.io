@@ -7,12 +7,12 @@ scaled_thumbnail: /images/uploads/2021_04_19_white_bean_shakshuka_with_nduja_0.j
 categories: ["mains"]
 tags: ["eggs", "beans"]
 excerpt: Eggs poached in a smokey tomato sauce with creamy white beans and greens
-keywords: ["shakshuka recipes"]
+keywords: ["shakshuka recipes", "North African recipes"]
 description: Shakshuka eggs poached in a smokey tomato sauce with creamy white beans and greens
 ---
 <span class="blog-text">
 
-This smoky white bean shakshuka is rich, filling and delicious. Eggs poached in a smoky spicy tomato sauce which has layers of flavours in it from the nduja and extra heartiness from the white band and greens. It makes for the perfect breakfast, brunch, lunch or dinner. It only takes 30 minutes to make and is bursting with nutrients and flavour! No nduja - no problem, substitutions listed below. 
+This smoky white bean shakshuka is rich, filling and delicious. Eggs poached in a smoky spicy tomato sauce which has layers of flavours in it from the nduja and extra heartiness from the white beans and greens. It makes for the perfect breakfast, brunch, lunch or dinner. It only takes 30 minutes to make and is bursting with nutrients and flavour! No nduja - no problem, substitutions listed below. 
 </br>
 </br>
 
@@ -21,7 +21,7 @@ This smoky white bean shakshuka is rich, filling and delicious. Eggs poached in 
 </br>
 
 ## What is shashuka?
-Shakshuka is a dish of eggs poached in a tomato sauce that originates from North Africa and the Middle East. Usually the tomato sauce includes onions and peppers, and is flavoured with cumin and paprika. It’s very similar to its Italian counterpart eggs in purgatory.  This version included nduja in it which adds loads of smoky flavours to the sauce.  I also added white beans to this version along with some greens because I love my greens. 
+Shakshuka is a dish of eggs poached in a tomato sauce that originates from North Africa and the Middle East. Usually the tomato sauce includes onions and peppers, and is flavoured with cumin and paprika. It’s very similar to its Italian counterpart eggs in purgatory.  This version included nduja in it which adds loads of smoky flavours to the sauce. I also added white beans to this version along with some greens because I love my greens. 
 </br>
 </br>
 
@@ -42,7 +42,7 @@ Nduja - "en-DOO-ya" is a spicy spreadable sausage from the Calabrian region of 
 This shakshuka with white beans and greens calls for many ingredients you most likely have in your pantry already, and some you might need to add! Here’s a breakdown:
 * Shallots and garlic : These fresh ingredients bring big flavour to the base of the sauce. 
 * Nduja: adds so much flavour and richness to the sauce but feel free to substitute it for Italian sausage with a mix of herbs and seasoning. Or leave it out completely for a vegetarian friendly meal. 
-* Canned tomatoes: I love to use whole tomatoes with their juices and I usually crush them myself by hand when i add them to the pan, but feel free to used crushed tomatoes or diced tomatoes. If you notice that your sauce  seem quite liquid after its simmered for a few minutes - feel free to add up to 1-2 teaspoons of tomato paste for a much thicker sauce. 
+* Canned tomatoes: I love to use whole tomatoes with their juices and I usually crush them myself by hand when I add them to the pan, but feel free to used crushed tomatoes or diced tomatoes. If you notice that your sauce seem quite liquid after its simmered for a few minutes - feel free to add up to 1-2 teaspoons of tomato paste for a much thicker sauce. 
 * White beans: Using white beans in this shakshuka adds extra protein and a great option if you wanted to keep this recipe vegetarian. 
 * Spinach: I add greens to almost everything. This shakshuka is no exception. Feel free to use any greens to might have available like kale or chard. 
 * Eggs: free range organic, if possible!
@@ -61,9 +61,9 @@ Shakshuka is my favorite thing to serve right from the skillet or pan that I mak
 * <span class="highlight"><a href="https://www.oliveandmango.com/green-shakshuka">Green Shakshuka</a></span></a></span>  
 
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube qN0cQwqRRuw >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
@@ -93,7 +93,7 @@ Shakshuka is my favorite thing to serve right from the skillet or pan that I mak
 
 ### Directions
 1. Heat oil in a large skillet over medium-high heat. Sauté shallots and garlic for 3 to 4 minutes or until shallots are softened and translucent.
-1. Add the nduja and cool  breaking it apart 3-5 min until it breaks apart and fat has separated and shallots are well coated with it. 
+1. Add the nduja and cool breaking it apart 3-5 min until it breaks apart and fat has separated and shallots are well coated with it. 
 1. Stir in  tomatoes and their juices crushing them by hand or with the back of your spoon. Simmer for 4-5 minutes.
 1. Stir in spinach and simmer for 2 to 3 minutes.
 1. Stir beans into the skillet and season with salt and pepper. 
