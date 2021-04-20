@@ -7,7 +7,10 @@ scaled_thumbnail: /images/uploads/2018_06_28_beef_bibimbap_0.jpg
 categories: ["mains"]
 tags: ["beef", "Korean", "Asian"]
 excerpt: Bring this Korean classic to your home kitchen
+keywords: ["Korean recipes", "Asian Beef Recipes"]
+description: A classic Korean beef dish with rice
 ---
+<span class="blog-text">
 
 One of my favourites dishes to eat and make and most requested by my husband is beef bulgogi. I love making it too and when I make it I like to make bibimbap with it. The word bibimbap literally means "mixed rice" and really and truly that is what it is. A bowl of warm white rice topped with meat, veggies and sauces. That is very simplified. There are many variations of the dish and even the sauces used in the dish. This one that I’m sharing is a simple and basic rendition of it and the ever popular Korean beef - beef bulgogi.
 </br>
@@ -50,40 +53,49 @@ There are other sauces that you can add and also fermented cabbage or as it’s 
 </br>
 
 Believe it or not my first Korean food experience was not beef bulgogi or bibimbap but Korean spicy beef soup. They served it scalding hot and with an egg on the side. A raw one that you crack open or they crack open for you upon serving. The broth is so hot it cooks the egg. It was a fabulous experience. The broth is spicy and very complex and funky cause there are so many flavours that go into it. Although I loved the soup what kept me going back was the bibimbap and bulgogi and I usually got a small soup or broth on the side with some simple prep I knew it could be made at home so here is the recipe for this healthy and delicious meal so you can make it and enjoy it from your own home as well.
-</br>
+
 </br>
 
 ![Beef Bibimbap](/images/uploads/2018_06_28_beef_bibimbap_7.jpg)
 </br>
-</br> 
 
-### Ingredients &amp; Directions
-(Serves 4)
+</span>
 
-* 2 cups white rice cooked according to package (I used Jasmin)
-* Beef Bulgogi – see recipe below
-* 1 medium zucchini’s julienned, Lay it out flat on a plate, and generously sprinkle it with salt. Let it sit for about 10–15 minutes and then squeeze out excess liquid and sauté in a little sesame oil and salt
-* 1 carrot, julienned, sauteed in peanut oil and seasoned with salt and set aside
-* Cooked bean sprouts, sauteed in a little sesame oil or peanut oil and seasoned with salt and set aside
-* 1 cup spinach, sauteed in a little sesame or peanut oil and seasoned with salt (if using frozen:Bring a pot of water to a boil. Add the spinach and cook for only about half a minute. Strain, run under cold water, and squeeze out all of the excess water – before sautéing)
-* 4 shiitake mushrooms, thinly sliced and sauteed in peanut oil and seasoned with salt and set aside
-* 1 egg per serving, cooked over easy (optional)
-* 1 tablespoon sesame seeds
-* 1 tablespoon dark sesame oil
-* Soy sauce, to taste
-* Gochuchang Paste, recipe below
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
 
-### Assembly
+<div>Servings: <span itemprop="recipeYield">4</div>
+</br>
 
+### Ingredients
+
+* <span itemprop="recipeIngredient">2 cups white rice cooked according to package (I used Jasmin)</span>
+* <span itemprop="recipeIngredient">Beef Bulgogi – see recipe below</span>
+* <span itemprop="recipeIngredient">1 medium zucchini’s julienned, Lay it out flat on a plate, and generously sprinkle it with salt. Let it sit for about 10–15 minutes and then squeeze out excess liquid and sauté in a little sesame oil and salt</span>
+* <span itemprop="recipeIngredient">1 carrot, julienned, sauteed in peanut oil and seasoned with salt and set aside</span>
+* <span itemprop="recipeIngredient">Cooked bean sprouts, sauteed in a little sesame oil or peanut oil and seasoned with salt and set aside</span>
+* <span itemprop="recipeIngredient">1 cup spinach, sauteed in a little sesame or peanut oil and seasoned with salt (if using frozen:Bring a pot of water to a boil. Add the spinach and cook for only about half a minute. Strain, run under cold water, and squeeze out all of the excess water – before sautéing)</span>
+* <span itemprop="recipeIngredient">4 shiitake mushrooms, thinly sliced and sauteed in peanut oil and seasoned with salt and set aside</span>
+* <span itemprop="recipeIngredient">1 egg per serving, cooked over easy (optional)</span>
+* <span itemprop="recipeIngredient">1 tablespoon sesame seeds</span>
+* <span itemprop="recipeIngredient">1 tablespoon dark sesame oil</span>
+* <span itemprop="recipeIngredient">Soy sauce, to taste</span>
+* <span itemprop="recipeIngredient">Gochuchang Paste, recipe below</span>
+</br>
+</br>
+
+### Directions
 1. Put cooked rice in large slightly shallow bowl. 
 2. Place bulgogi (with juices from cooked meat) and veggies on top of rice but place separately so you can see each ingredient beautifully placed on rice. 
 3. Put egg on top. 
 4. Sprinkle with sesame seeds and drizzle with sesame oil and soy sauce and also a dollop of gochujang.
 5. When ready to eat, mix all ingredients together with some gochuchang sauce and enjoy. The bibimpap should be moist and not dry. Add more sesame oil and gochuchang sauce to taste.
-
 </br>
-## Beef Bulgogi
+</br>
 
+## Beef Bulgogi
 ### Ingredients
 __The marinade__
 
@@ -106,6 +118,7 @@ __For the beef__
 2. Slice you beef very thinly and add to the bag of marinade, toss it around to fully coat and marinate in the fridge for one hour or overnight for more flavour.
 3. Once ready to cook remove the beef from bag or container and set aside in a small bowl but reserve marinade and liquids.
 4. In a separate medium sized pan heat up the other tbsp of oil at medium high heat and once the pan is very hot add the beef and sauté it until golden brown. This doesn’t take long. Don’t move it around too much otherwise it wont get that golden slight char on it.
+</br>
 
 __For the gochujang sauce__
 
