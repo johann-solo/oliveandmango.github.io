@@ -46,7 +46,7 @@ This simple recipe comes together quickly and in a few stages. Here’s all you 
 </br>
 </br>
 
-I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.metro.ca/en">Metro Ontario</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
+I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.metro.ca/en?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=metro">Metro Ontario</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
 </br>
 </br>
 {{< youtube vNs3QzBXNJQ >}}

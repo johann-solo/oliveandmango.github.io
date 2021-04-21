@@ -10,6 +10,7 @@ excerpt: A tender gluten free almond flour herbed crust with a creamy asparagus 
 keywords: ["asparagus quiche", "savoury tarts", "savory asparagus tart", "gluten free tarts", "almond flour crust"]
 description: A tender gluten free almond flour herbed crust with a creamy asparagus custard filling. A great variation on a savory asparagus tart
 ---
+<span class="blog-text">
 
 This creamy and rich asparagus tart is a perfect make ahead one for a spring brunch spread, but also makes a satisfying dinner on its own with a side green salad. The crust is a simple press in one that is herbed, delicious, gluten free and vegan. I love to make it the day before I’m serving it and then reheat it just before serving. 
 </br>
@@ -82,16 +83,20 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 * The thyme with rosemary or sage or really any herb you prefer 
 * To make this custard tart fully vegan - I love to use the filling from this recipe by [Rebel Recipes](https://www.rebelrecipes.com/vegan-pea-mint-and-asparagus-tart-gluten-free/)
 </br>
+</span>
 
 ### Recipe
-Makes one 9-inch tart
-Serves 6-8
-</br>
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">6-8 (one 9-inch tart)</div>
+<!--<div>Prep Time: <meta itemprop="prepTime" content="PT10M">10 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT30M">30 mins</div>-->
 </br>
 
 ### Ingredients
-
-__For the gluten-free & vegan almond flour crust__
+#### For the gluten-free & vegan almond flour crust
 
 * <span itemprop="ingredients">2 cups <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/almond-meal-flour.html">Bob’s Red Mill Almond flour</a></span></span>
 * <span itemprop="ingredients">1 garlic clove, minced</span>
@@ -101,7 +106,7 @@ __For the gluten-free & vegan almond flour crust__
 * <span itemprop="ingredients">⅓ cup olive oil</span>
 * <span itemprop="ingredients">1 tablespoon and 1 teaspoon of water</span>
 
-__For The filling__
+#### For The filling
 
 * <span itemprop="ingredients">1 tablespoon all-purpose flour </span>
 * <span itemprop="ingredients">Salt</span>
@@ -111,6 +116,8 @@ __For The filling__
 * <span itemprop="ingredients">1 cup heavy cream </span>
 * <span itemprop="ingredients">1&frac12; ounces Gruyere cheese, finely shredded (&frac12; cup) </span>
 * <span itemprop="ingredients">2 ounces fresh goat cheese, crumbled into large pieces (&frac12; cup)</span>
+</br>
+</br>
 
 ### Directions
 
@@ -119,7 +126,7 @@ __For The filling__
 3. In the meantime prep the asparagus. Bring a medium pot of water to a boil and add 2 tablespoons salt. Add asparagus stalks and cook until crisp-tender, about 2 minutes. Transfer to a bowl of ice water; when cool, transfer to a plate and pat dry. Add asparagus tips to boiling water and cook 30 seconds. Drain and transfer to ice water; drain when cool. Pat tips dry and toss with oil in a bowl. 
 4. Transfer stalks to a blender. Add eggs, cream, flour, and 1&frac14; teaspoons salt to blender and puree until very smooth.
 5. Pour custard into cooked crust. Sprinkle with Gruyere and goat cheese and top with asparagus tips. Bake until edges of custard are puffed, top is golden brown, and center is set, about 35-40 minutes. (Tent with foil if necessary to prevent overbrowning.) Let cool on a wire rack 15 minutes before slicing and serving.
-
+</br>
 </br>
 
 ![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_7.jpg)

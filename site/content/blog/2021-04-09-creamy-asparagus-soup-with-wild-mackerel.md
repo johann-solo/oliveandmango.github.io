@@ -20,7 +20,7 @@ This classic French soup is simple and quick to make and a really tasty way to e
 </br>
 </br>
 
-Asparagus soup makes a nice light lunch when paired with crusty bread or a delicious first course for an elegant dinner. What makes it a complete meal is adding the Mackerel. I partnered up with Gold Seal Canada and their<span class="highlight"><a rel="nofollow" href="https://goldseal.ca/products/canned-mackerel-in-olive-oil">Wild Mackerel in Olive Oil</a></span> and thought it was the perfect addition to the soup. Mackerel is a small saltwater fish in the same family as tuna. It is naturally rich in Omega-3s, and a good source of protein. Gold Seal’s mackerel is responsibly caught in the North Atlantic Ocean and can be consumed safely in unlimited amounts. It’s an excellent source of protein with 15g per can. The mackeral turns this dish into proper comfort food.  
+Asparagus soup makes a nice light lunch when paired with crusty bread or a delicious first course for an elegant dinner. What makes it a complete meal is adding the Mackerel. I partnered up with Gold Seal Canada and their <span class="highlight"><a rel="nofollow" href="https://goldseal.ca/products/canned-mackerel-in-olive-oil?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=goldseal">Wild Mackerel in Olive Oil</a></span> and thought it was the perfect addition to the soup. Mackerel is a small saltwater fish in the same family as tuna. It is naturally rich in Omega-3s, and a good source of protein. Gold Seal’s mackerel is responsibly caught in the North Atlantic Ocean and can be consumed safely in unlimited amounts. It’s an excellent source of protein with 15g per can. The mackeral turns this dish into proper comfort food.  
 </br>
 </br>
 
@@ -71,7 +71,7 @@ If you like this recipe you will love these:
 * <span itemprop="recipeIngredient">2 cups of baby spinach </span>
 * <span itemprop="recipeIngredient">4 cups of stock/broth* </span>
 * <span itemprop="recipeIngredient">&frac12; cup of heavy cream </span>
-* <span itemprop="recipeIngredient">2 115g cans of <span class="highlight"><a rel="nofollow" href="https://goldseal.ca/products/canned-mackerel-in-olive-oil">Gold Seal Wild Mackerel Skinless Boneless in Olive Oil</a></span></span>
+* <span itemprop="recipeIngredient">2 115g cans of <span class="highlight"><a rel="nofollow" href="https://goldseal.ca/products/canned-mackerel-in-olive-oil?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=goldseal">Gold Seal Wild Mackerel Skinless Boneless in Olive Oil</a></span></span>
 </br>
 </br>
 
