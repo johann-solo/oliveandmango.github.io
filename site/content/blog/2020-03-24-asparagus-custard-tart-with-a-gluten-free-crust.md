@@ -16,7 +16,7 @@ This creamy and rich asparagus tart is a perfect make ahead one for a spring bru
 </br>
 </br>
 
-![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_2.jpg)
+![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_8.jpg)
 </br>
 </br>
 
@@ -25,7 +25,7 @@ A custard tart is basically a quiche. This particular one is made with cream and
 </br>
 </br>
 
-![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_3.jpg)
+![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_2.jpg)
 </br>
 </br>
 
@@ -34,15 +34,15 @@ First, a delicious custard tart should have a good homemade crust, preferably bl
 </br>
 </br>
 
+![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_3.jpg)
+</br>
+</br>
+
+The crust is a wonderful one made with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/almond-meal-flour.html/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill Almond flour</a></span>. It’s by far one of my favorite flours to use in baking and In my simple press in tart crusts. It’s made from California-grown almonds, great for Gluten free baking and perfect for paleo and grain free baking recipes as well. The texture it gives things is always pleasing and I also love the slight nuttiness if adds to anything you bake with it. I always have it stocked and with what is going on right now with all the flour hoarding  it’s the key ingredient in a lot of my baking. Actually it’s the most available thing right now along with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/organic-all-purpose-unbleached-white-flour.html/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill All Purpose Flour</a></span> at my local grocery store. 
+</br>
+</br>
+
 ![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_4.jpg)
-</br>
-</br>
-
-The crust is a wonderful one made with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/almond-meal-flour.html">Bob’s Red Mill Almond flour</a></span>. It’s by far one of my favorite flours to use in baking and In my simple press in tart crusts. It’s made from California-grown almonds, great for Gluten free baking and perfect for paleo and grain free baking recipes as well. The texture it gives things is always pleasing and I also love the slight nuttiness if adds to anything you bake with it. I always have it stocked and with what is going on right now with all the flour hoarding  it’s the key ingredient in a lot of my baking. Actually it’s the most available thing right now along with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/organic-all-purpose-unbleached-white-flour.html">Bob’s Red Mill All Purpose Flour</a></span> at my local grocery store. 
-</br>
-</br>
-
-![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_5.jpg)
 </br>
 </br>
 
@@ -50,7 +50,7 @@ This month I’m featuring it in two very springlike recipes. First is this love
 </br>
 </br>
 
-![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_6.jpg)
+![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_5.jpg)
 </br>
 </br>
 
@@ -58,10 +58,11 @@ You will love this spring tart featuring the first of the seasonal asparagus tha
 </br>
 </br>
 
+![Asparagus Custard Tart With a Gluten Free Crust](/images/uploads/2020_03_24_asparagus_custard_tart_with_a_gluten_free_crust_6.jpg)
+</br>
+</br>
+
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
-</br>
-</br>
-<div class="mv-video-target mv-video-id-r4hpmytwcftaqbxeckxr" data-video-id="r4hpmytwcftaqbxeckxr" data-volume="70" data-ratio="16:9"></div>If you can not play the video <span class="highlight"><a href="https://youtu.be/3AZ1ASBuAq8">Checkout our Youtube channel</a></span>.
 </br>
 </br>
 
@@ -82,6 +83,11 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 * A good all-purpose GF flour to make this tart fully gluten free - I always use Bob’s Red Mill Gluten Free 1-1 Baking Flour 
 * The thyme with rosemary or sage or really any herb you prefer 
 * To make this custard tart fully vegan - I love to use the filling from this recipe by [Rebel Recipes](https://www.rebelrecipes.com/vegan-pea-mint-and-asparagus-tart-gluten-free/)
+
+</br>
+</br>
+{{< youtube 3AZ1ASBuAq8 >}}
+</br>
 </br>
 </span>
 
@@ -91,14 +97,14 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 </form></div>
 
 <div>Servings: <span itemprop="recipeYield">6-8 (one 9-inch tart)</div>
-<!--<div>Prep Time: <meta itemprop="prepTime" content="PT10M">10 mins</div>
-<div>Cook Time: <meta itemprop="cookTime" content="PT30M">30 mins</div>-->
+<div>Prep Time: <meta itemprop="prepTime" content="PT30M">20-30 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT60M">55-60 mins</div>
 </br>
 
 ### Ingredients
 #### For the gluten-free & vegan almond flour crust
 
-* <span itemprop="ingredients">2 cups <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/almond-meal-flour.html">Bob’s Red Mill Almond flour</a></span></span>
+* <span itemprop="ingredients">2 cups <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/almond-meal-flour.html/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill Almond flour</a></span></span>
 * <span itemprop="ingredients">1 garlic clove, minced</span>
 * <span itemprop="ingredients">1 tsp minced fresh thyme or &frac14; tsp dried thyme</span>
 * <span itemprop="ingredients">½ teaspoon salt</span>
