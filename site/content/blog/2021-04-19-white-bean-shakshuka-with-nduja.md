@@ -58,7 +58,7 @@ This shakshuka with white beans and greens calls for many ingredients you most l
 Shakshuka is my favorite thing to serve right from the skillet or pan that I make it in. I love to serve mine with crusty bread. It’s the perfect way to enjoy the dish and mop up the tasty sauce with. There is nothing like smoky hearty baked white beans and eggs in a rich and delicious sauce.  A dish like this always hits the spot. If you liked this dish you will love these too:
 * <span class="highlight"><a href="https://www.oliveandmango.com/gigantes-plaki-greek-style-baked-white-beans">Gigantes Plaki - Greek-style baked white beans</a></span></a></span>
 * <span class="highlight"><a href="https://www.oliveandmango.com/20-minute-marinara-pasta-with-poached-eggs">20 Minute Marinara Pasta With Poached Eggs</a></span></a></span>
-* <span class="highlight"><a href="https://www.oliveandmango.com/green-shakshuka">Green Shakshuka</a></span></a></span>  
+* <span class="highlight"><a href="https://www.oliveandmango.com/green-shakshuka">Green Shakshuka</a></span> 
 
 </br>
 {{< youtube qN0cQwqRRuw >}}
