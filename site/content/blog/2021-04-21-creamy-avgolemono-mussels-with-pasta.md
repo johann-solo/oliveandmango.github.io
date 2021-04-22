@@ -69,12 +69,12 @@ If you like this Greek-style avgolemono take on creamy mussels with pasta you wi
 * <span class="highlight"><a href="https://www.oliveandmango.com/simple-classic-avgolemono-soup-recipe-greek-egg-lemon-chicken-soup">Simple Classic Avgolemono Soup Recipe (Greek Egg Lemon Chicken Soup)</a></span>
 * <span class="highlight"><a href="https://www.oliveandmango.com/creamy-shrimp-scampi-with-orzo">Creamy Shrimp Scampi With Orzo</a></span>
 * <span class="highlight"><a href="https://www.oliveandmango.com/one-pot-shrimp-pasta-primavera">One Pot Shrimp Pasta Primavera</a></span>
-* <span class="highlight"><a href="https://www.oliveandmango.com/lemon-garlic-shrimp-pasta">Lemon Garlic Shrimp Pasta</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/lemon-garlic-shrimp-pasta">Lemon Garlic Shrimp Pasta</a></span>  
+
+</br>
+{{< youtube QPgGIUksmmY >}}
 </br>
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
-</br>
-</br>-->
 </span>
 
 ### Recipe
