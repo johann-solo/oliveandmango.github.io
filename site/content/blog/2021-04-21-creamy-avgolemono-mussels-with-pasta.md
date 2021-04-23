@@ -119,6 +119,7 @@ If you like this Greek-style avgolemono take on creamy mussels with pasta you wi
 </br>
 
 ### Recipe Notes
+* Storage and Leftovers: Leftovers will keep for up to 2-3 days in a sealed container in the fridge. As with any creamy pasta dishes - they don't reheat well unless they are rehydrated. Heat stovetop or in microwave but make sure to add a bit of broth, water, milk or cream when reheating to get a creamy consistency.
 * You do not need to use the entire &frac12; cup fo cooking water if you don’t need it. If you want a richer sauce you can replace some of it with a bit of extra cream. 
 * The sauce will be VERY bright and lemony and quit delicious. If you want a tamer more subdued lemony flavour in the sauce just reduce the amount that you add to the egg mixture by a little. 
 * Use any pasta you like - I thin this dish works well with long pasta. Feel free to use gluten free pasta too.
