@@ -40,24 +40,28 @@ It’s really that easy. What gives this whole meal a kick start is roasting it 
 Once it’s roasted either transfer the chicken and the potatoes onto a serving platter or do as we do serve right from the skillet so you can dip into all the fabulous tasting drippings. Enjoy! 
 </br>
 </br>
-<div class="mv-video-target mv-video-id-lsjp8ltdsmhczbjb5kqs" data-video-id="lsjp8ltdsmhczbjb5kqs" data-volume="70" data-ratio="16:9"></div>
-If you can not play the video <span class="highlight"><a href="https://youtu.be/f7GcZaK9t_Eg">Checkout our Youtube channel</a></span>.
+{{< youtube f7GcZaK9t_E >}}
 </br>
 </br>
+</span>
 
 ### Recipe
-Serves 4  
-Prep time: <meta itemprop="prepTime" content="PT10M">10 minutes (dry brining not included)  
-Cook time: <meta itemprop="cookTime" content="PT50M">50-60 minutes  
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">4</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT10M">10 mins (dry brining not included)</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT60M">50-60 mins</div>
 </br>
 
-### Ingredients 
+### Ingredients
 
 * <span itemprop="ingredients">One 3½–4-pound whole chicken</span>
 * <span itemprop="ingredients">Salt (approx 1 tsp. salt per lb.)</span>
 * <span itemprop="ingredients">1½ pounds russet potatoes, scrubbed, thinly sliced crosswise</span>
 
-__For the herby marinade__
+#### For the herby marinade
 
 * <span itemprop="ingredients">2 tablespoons unsalted butter, melted</span>
 * <span itemprop="ingredients">Juice from 1½ lemons</span>
@@ -66,7 +70,7 @@ __For the herby marinade__
 * <span itemprop="ingredients">3 cloves garlic, finely chopped or grated </span>
 * <span itemprop="ingredients">&frac14; cup good extra virgin olive oil plus 2 tbsp </span>
 * <span itemprop="ingredients">Salt and pepper (&frac14;-½ tsp each)</span>
-
+</br>
 
 ### Directions
 
