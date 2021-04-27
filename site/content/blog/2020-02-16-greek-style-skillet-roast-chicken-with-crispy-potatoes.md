@@ -24,7 +24,7 @@ I absolutely love a meal like this for family dinner, meal prep or even a midwee
 </br>
 </br> 
 ![Style Skillet Roast Chicken With Crispy Potatoes](/images/uploads/2020_02_16_greek_style_skillet_roast_chicken_with_crispy_potatoes_3.jpg)
-<!-- {{< youtube f7GcZaK9t_E >}} -->
+
 </br>
 </br>
 
@@ -38,6 +38,15 @@ It’s really that easy. What gives this whole meal a kick start is roasting it 
 </br>
 
 Once it’s roasted either transfer the chicken and the potatoes onto a serving platter or do as we do serve right from the skillet so you can dip into all the fabulous tasting drippings. Enjoy! 
+</br>
+</br>
+
+If you liked this easy and delicious Greek Style roast chicken you will love these recipes:
+* <span class="highlight"><a href="https://www.oliveandmango.com/greek-style-roasted-lamb">Greek Style Roasted Lamb</a></span> 
+* <span class="highlight"><a href="https://www.oliveandmango.com/simple-roast-chicken">Simple Roast Chicken</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/maple-butter-roasted-chicken">Maple Butter Roasted Chicken</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/quick-one-pan-coq-au-vin-blanc">Quick One Pan Coq Au Vin Blanc</a></span>
+
 </br>
 </br>
 {{< youtube f7GcZaK9t_E >}}
