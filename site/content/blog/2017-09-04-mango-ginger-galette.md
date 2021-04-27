@@ -11,6 +11,7 @@ excerpt: The perfect and most delicious way to use up all your ripe and half rip
 keywords: ["Fruit galettes", "mango desserts", "mango pastries"]
 description: This is a great way to enjoy mangos. Buttery pastry dough wrapped around fresh sweet and delicious mango slices which have been gently infused with ginger and lime. 
 ---
+<span class="blog-text">
 
 It’s been mango madness over here because both me and my husband love mangoes and we are now at the tail end of mango season. We are super fortunate to have family with a mango tree so when it’s the season there is an abundance. I love to eat them just as they are and I also like to add them to my oats or over yoghurt. When I have a lot of ripe ones at one given time I remove all the pulp from them and freeze them and add them to smoothies. 
 This time I wanted to try something a little different with my over abundance of mangos. I saw a great recipe from Eat delicious and I thought I would try it. I wanted to sort of make it my own though, so I just followed some basic principles from Dennis Prescott’s recipe and used my own flavours. 
@@ -51,20 +52,36 @@ So there you have it, there’s a good reason to add booze to your dough! For th
 </br>
 </br>
 
-This recipe is fabulously easy and that is saying a lot coming from me! I’m going to try making more pies and pastries in the near future and I will continue to chose the easiest ways of making them to share with you guys! This is a great no fail recipe for the crust and it’s versatile enough for any fruit filling. Definitely give it a go and let me know what you think of it! 
+This recipe is fabulously easy and that is saying a lot coming from me! I’m going to try making more pies and pastries in the near future and I will continue to chose the easiest ways of making them to share with you guys! This is a great no fail recipe for the crust and it’s versatile enough for any fruit filling. Definitely give it a go and let me know what you think of it!
+</br>
+</br>
+
+If you like this mango ginger galette you will love these recipes:
+* <span class="highlight"><a href="https://www.oliveandmango.com/mango-cheesecake-bars">Mango Cheesecake Bars</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/vegan-coconut-panna-cotta-with-mango-jelly">Vegan Coconut Panna Cotta With Mango Jelly</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/plum-and-almond-galette">Plum and Almond Galette</a></span>
+
 </br>
 </br>
 {{< youtube OKGXWdGDqns >}}
 </br>
 </br>
+</span>
 
 ### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">8</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT30M">20-30 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT35M">30-35 mins</div>
+<div>Non-Active Time: 2-3 hours (for chilling dough)</div>
 </br>
 
 ### Ingredients
 
-__Lime-Rum Crust__
-
+#### Lime-Rum Crust
 * <span itemprop="recipeIngredient">1¼ cups all purpose flour</span>
 * <span itemprop="recipeIngredient">1 tbsp granulated sugar</span>
 * <span itemprop="recipeIngredient">Zest of 1 lime</span>
@@ -72,8 +89,7 @@ __Lime-Rum Crust__
 * <span itemprop="recipeIngredient">3 to 4tbsp of chilled Rum (dark or light- alternatively use water) </span>
 * <span itemprop="recipeIngredient">1 stick of butter (grated or cut into pieces and chilled)</span>
 
-__Mango Ginger filling__
-
+#### Mango Ginger filling
 * <span itemprop="recipeIngredient">¼ tsp peeled and grated ginger root</span>
 * <span itemprop="recipeIngredient">4 cups of mango peeled and sliced (approx 2-3 mangoes)</span>
 * <span itemprop="recipeIngredient">¼ cup sugar (reduce by half if your mangoes are super ripe and sweet)</span>
@@ -95,7 +111,14 @@ __Mango Ginger filling__
 7.	Fold the edges of the dough as if you are pleating it as you work your way around the whole galette which will hold all that lovely filling in.
 8.	Whisk the egg and brush the top of the dough with it and then sprinkle the dough generously with the brown sugar
 9.	Bake for approx 30-35 minutes or until the filling is bubbling and the crust is golden brown. It’s totally ok if juice from the filling seeps out a bit onto the parchment paper while it’s baking. Serve warm topped with ice cream or whipped cream or enjoy it on its own.
+</br>
 
+### Recipe Notes
+* Make Ahead Instructions: The dough can be made ahead of time and chilled in the refrigerator for up to 3 days. The dough can be frozen for up to 3 months after prepared. Allow to thaw overnight in the refrigerator before rolling out and filling.
+* Storage: Cover and store leftover galette in the refrigerator for up to 4 days.
+* Cold Ingredients: Make sure the butter is SUPER cold. Cold ingredients, as well as chilling, help the crust keep its shape.
+* Feel free to leave out the rum in the crust and substitute it for ice cold water.
+* Feel free to leave out the lime zest from the crust if you want a more plain crust.
 </br>
 
 ![Mango Ginger Galette](/images/uploads/2017_09_04_mango_ginger_galette_5.jpg)
