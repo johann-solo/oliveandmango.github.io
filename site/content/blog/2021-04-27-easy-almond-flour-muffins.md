@@ -5,9 +5,9 @@ author: Joanne
 thumbnail: /images/uploads/2021_04_27_easy_almond_flour_muffins_1.jpg
 scaled_thumbnail: /images/uploads/2021_04_27_easy_almond_flour_muffins_0.jpg
 categories: ["breakfast"]
-tags: [""]
+tags: ["muffins", "almonds", "gluten free", "sponsored"]
 excerpt: Gluten free, light, nutty and moist muffins made with any berry or fruit you like 
-keywords: [""]
+keywords: ["gluten free muffins", "alternative flour recipes"]
 description: Gluten free, light, nutty and moist muffins made with any berry or fruit you like 
 ---
 <span class="blog-text">

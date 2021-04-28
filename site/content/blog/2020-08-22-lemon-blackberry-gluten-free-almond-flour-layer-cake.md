@@ -10,6 +10,7 @@ excerpt: Gluten free all purpose sponge layer cake
 keywords: ["gluten free cakes", "lemon cake recipe", "lemon curd"]
 description: Gluten free all purpose sponge layer cake
 ---
+<span class="blog-text">
 
 This Almond Flour Cake is light and fluffy, with a wonderfully rich flavour. Almond flour gives this cake a subtle nutty flavour, and it’s amazingly light and fluffy for having such a simple ingredient list. Almond flour works to tenderize and flavor. It has a rich flavour and pairs beautifully with summer fruits like strawberries, raspberries, blackberries and cherries. It’s by far my favoriting gluten free cake on the blog and dare I say my favorite layer cake in general on the blog. I served it and no one knew it was flourless and naturally gluten free. It’s that amazingly light and fluffy and delicious. 
 </br>
@@ -63,16 +64,22 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 {{< youtube F3sYEwQsZv8 >}}
 </br>
 </br>
+</span>
 
 ### Recipe
-Makes 3 (9-inch cakes)  
-Serves 12 
-</br>
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">12</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT40M">40 min (assembly time included)</div>
+<div>Bake Time: <meta itemprop="cookTime" content="PT25M">20-25 mins</div>
+<div>Non Active Time: 1 hour for cooling</div>
 </br>
 
 ### Ingredients
 
-__For vanilla layer cake__
+#### For vanilla layer cake
 
 * <span itemprop="recipeIngredient">1&frac34; cup <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/almond-meal-flour.html">Bob’s Red Mill Superfine Almond flour</a></span></span>
 * <span itemprop="recipeIngredient">2 tablespoons <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/organic-coconut-flour.html">Bob’s Red Mill Organic Coconut flour</a></span></span>
@@ -84,7 +91,7 @@ __For vanilla layer cake__
 * <span itemprop="recipeIngredient">&frac14; teaspoon salt</span>
 </br>
 
-__For blackberry infused buttercream frosting__
+#### For blackberry infused buttercream frosting
 
 * <span itemprop="recipeIngredient">2 sticks butter, softened</span>
 * <span itemprop="recipeIngredient">pinch of salt</span>
@@ -92,7 +99,7 @@ __For blackberry infused buttercream frosting__
 * <span itemprop="recipeIngredient">&frac12; teaspoon vanilla extract</span>
 * <span itemprop="recipeIngredient">3-4 tablespoons of blackberry puree (from about 1 cup of blackberries)</span>
 
-__For assembling__
+#### For assembling
 
 * <span itemprop="recipeIngredient">&frac34;-1 cup of lemon curd (optional) </span>
 * <span itemprop="recipeIngredient">&frac12;-1 cup of blackberries sliced (optional) </span>
@@ -109,7 +116,7 @@ __For assembling__
 4. In a large bowl beat the butter until light and fluffy. Add powdered sugar a little at a time until incorporated. Add the blackberry puree, ( as little or as much as you want for colour) salt and vanilla and beat until light and fluffy. 
 </br>
 
-__Assemble cake (2 options)__
+#### Assemble cake (2 options)
 
 1. If using the lemon curd and blackberries:
 Place frosting in a piping bag with end cut off 
@@ -118,7 +125,7 @@ Set one cake on a plate or cake stand, pipe a thick strip of frosting around the
 </br>
 </br>
 
-### Recipe notes
+### Recipe Notes
 
 * The layers in this cake will not rise the same way a regular cake does. To get the maximum rise in each layer though ensure 1) that you fold the whipped egg whites (meringue) into the batter gently to maintain their lift. 2) it’s important to remember to cool the cakes upside-down in the pans so that the sponge doesn't fall flat.
 * Cakes can easily be made ahead up to two days if individually wrapped tightly and refridgerated. They are delicate so handle with care while wrapping or sliding them in a large ziploc bag.

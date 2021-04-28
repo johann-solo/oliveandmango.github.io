@@ -10,6 +10,7 @@ excerpt:  Gluten free berry breakfast cake with a crispy crumble topping
 keywords: ["berries", "cakes", "breakfast", "Greek yoghurt", "gluten free"]
 description: Gluten free berry breakfast cake with a crispy crumble topping
 ---
+<span class="blog-text">
 
 A delicious gluten free berry breakfast cake with a crispy crumble made in partnership with Bob’s Red Mill and their <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/gluten-free-1-to-1-baking-flour.html">Gluten Free 1 to 1 Baking Flour</a></span>. It’s made with either fresh or frozen berries, and Greek yoghurt making this cake super easy to make with very basic ingredients making this the perfect way to start your weekend breakfast or brunch off right with Bob’s Red Mill. 
 </br>
@@ -62,8 +63,18 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 ![Greek Yoghurt Berry Breakfast Cake](/images/uploads/2019_05_31_greek_yoghurt_berry_breakfast_cake_7.jpg)
 </br>
 </br>
+</span>
 
-## Recipe
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">8-10</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">15 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT75M">1 hr - 1 hr 15 min</div>
+</br>
+
 ### Ingredients
 
 * <span itemprop="ingredients"> 1 &frac12; cups of <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/gluten-free-1-to-1-baking-flour.html">Bob’s Red Mill Gluten Free 1 to 1 Baking Flour</a></span> </span>
@@ -77,24 +88,27 @@ I have partnered up with <span class="highlight"><a rel="nofollow" href="https:/
 * <span itemprop="ingredients"> &frac12; cup (1 stick) unsalted butter, melted plus more for greasing pan </span>
 * <span itemprop="ingredients"> 1 cup fresh or frozen mixed berries </span>
 
-__For the topping__
+#### For the topping
 
 * <span itemprop="ingredients"> &frac13; cup sugar</span>
 * <span itemprop="ingredients"> &frac14; cup Bob’s Red Mill Gluten Free 1 to 1 Baking Flour </span>
 * <span itemprop="ingredients"> &frac14; cup finely chopped walnuts (Pecans or almonds would also work) </span>
 * <span itemprop="ingredients"> &frac12; teaspoon ground cinnamon</span>
 * <span itemprop="ingredients"> 3 tablespoons cold butter cubed </span>
+</br>
 
 ### Directions
 
 1. In a small bowl whisk together all the topping ingredients except the butter until well combined. 
 2. Toss the butter in and work the butter into the dry ingredients with your fingers by rubbing it into the mixture until the dry ingredients start to form pea sized clumps and set aside. 
-3. Preheat oven to 350°F and line a 9"-diameter cake pan or springform pan with parchment paper and lightly grease with butter. Whisk flour, sugar, baking powder, and salt in a large bowl.
-4. Whisk eggs, yoghurt, and vanilla in a separate medium bowl until smooth; fold into dry ingredients just until blended. Then fold in butter, followed by &frac34; cup berries, taking care not to crush berries while you do so. 
-5. Scrape the batter into prepared pan and scatter remaining &frac14; cup berries over top.
-6. prinkle crumble over the batter evenly 
-7. Bake cake until golden brown and a tester inserted into the center comes out clean, 50–60 minutes. Let cool at least 20 minutes before unmolding.
-8. Serve with whip cream and fresh berries. 
+3. Preheat oven to 350°F and line a 9"-diameter cake pan or springform pan with parchment paper and lightly grease with butter. 
+4. Whisk flour, sugar, baking powder, and salt in a large bowl.
+5. Whisk eggs, yoghurt, and vanilla in a separate medium bowl until smooth; fold into dry ingredients just until blended. Then fold in butter, followed by &frac34; cup berries, taking care not to crush berries while you do so. 
+6. Scrape the batter into prepared pan and scatter remaining &frac14; cup berries over top.
+7. Sprinkle crumble over the batter evenly 
+8. Bake cake until golden brown and a tester inserted into the center comes out clean, 50–60 minutes. Let cool at least 20 minutes before unmolding.
+9. Serve with whip cream and fresh berries. 
+</br>
 
 Adapted from _Epicurious_ 
 
