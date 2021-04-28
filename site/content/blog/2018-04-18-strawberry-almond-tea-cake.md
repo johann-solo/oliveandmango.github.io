@@ -8,15 +8,20 @@ categories: ["desserts"]
 tags: ["cakes", "berries", "strawberries", "almonds"]
 excerpt: The perfect cake for Spring and Summer
 ---
+<span class="blog-text">
+
 I have to say that when I was planning on making this cake, which is actually a compilation of three different cakes and recipes I have made, I didn't think it would be this good.  It's a really light and simple looking cake but it's one of those cakes that you just keep going back for more. The flavour of it is bright with subtle citrus notes. The vanilla in it makes it fragrant and sweet along with the almonds cooked into it and the ones on top that are slightly toasted. The strawberries aren't overpowering at all. They add beautiful moistness to every bite and a mellow strawberry fragrance.
 <br>
 <br>
+
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_2.jpg)
 <br>
 <br>
+
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_4.jpg)
 <br>
 <br>
+
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_3.jpg)
 <br>
 <br>
@@ -72,43 +77,45 @@ I serve this dusted with some powdered sugar and with coconut whip cream (recipe
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_13.jpg)
 </br>
 </br>
+</span>
 
-### Ingredients
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
 
-* 1 cup fresh or frozen strawberries – sliced (I use frozen)
-* 2 tbsp freshly squeezed orange juice
-* &frac12; tsp orange zest
-* 3 eggs
-* &frac34; cup of coconut sugar or brown sugar
-* &frac12; cup coconut oil
-* 2 tbsp pure vanilla extract
-* 1&frac14; cup of AP flour
-* &frac34; cup of almond flour or almond meal is what I usually use - finely ground almonds
-* 1&frac12; tsp baking powder
-* 1 tsp baking soda
-* 1 pinch of salt
-* &frac12; cup of flaked almonds
+<div>Servings: <span itemprop="recipeYield">8</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT15M">10-15 mins </div>
+<div>Bake Time: <meta itemprop="cookTime" content="PT75M">25-30 mins</div>
+</br>
 
+### Ingredients 
+
+* <span itemprop="recipeIngredient">1 cup fresh or frozen strawberries – sliced (I use frozen)</span>
+* <span itemprop="recipeIngredient">2 tbsp freshly squeezed orange juice</span>
+* <span itemprop="recipeIngredient">&frac12; tsp orange zest</span>
+* <span itemprop="recipeIngredient">3 eggs</span>
+* <span itemprop="recipeIngredient">&frac34; cup of coconut sugar or brown sugar</span>
+* <span itemprop="recipeIngredient">&frac12; cup coconut oil</span>
+* <span itemprop="recipeIngredient">2 tbsp pure vanilla extract</span>
+* <span itemprop="recipeIngredient">1&frac14; cup of AP flour</span>
+* <span itemprop="recipeIngredient">&frac34; cup of almond flour or almond meal is what I usually use - finely ground almonds</span>
+* <span itemprop="recipeIngredient">1&frac12; tsp baking powder</span>
+* <span itemprop="recipeIngredient">1 tsp baking soda</span>
+* <span itemprop="recipeIngredient">1 pinch of salt</span>
+* <span itemprop="recipeIngredient">&frac12; cup of flaked almonds</span>
+</br>
 
 ### Directions
 1. Preheat oven to 350&deg;F
-
 1. Grease a springform pan and line bottom with parchment paper for easy transfer to plate (optional to line if you're serving straight from the pan)
-
 1. In a medium bowl combine the dry ingredients: flour, Almond meal, salt, baking powder, and soda and whisk well until all combined
-
 1. In a large mixing bowl beat the eggs and oil until well combined and then gradually beat in the sugar then the vanilla, orange juice and zest
-
 1. Gently fold the dry ingredients into the wet until just combined
-
 1. Pour into the springform
-
 1. Place the strawberries gently on top of the batter spreading them evenly across it and then sprinkle​ with the flaked almonds
-
 1. Bake for approximately 25-30 minutes until cake is set and golden brown. If the top is getting too brown then place a piece of foil over the pan for the rest of the baking time
-
 1. Once done remove and let cool on a wire rack
-
 1. Before serving dust with a little powdered sugar and serve with coconut cream (recipe below) and more strawberries. I have served it with coconut ice cream and it's a hit with ice cream as well!  
 
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_14.jpg)
@@ -125,14 +132,10 @@ I serve this dusted with some powdered sugar and with coconut whip cream (recipe
 ### Directions
 
 1. Place the can of coconut cream in the fridge for a few hours or overnight - or in the freezer for 30 min to an hour to allow the milk fats to solidify
-
 1. Open the can and drain out the liquid part reserving the solid creamy milk fat- you can save the liquid part to drink or add to smoothies
-
 1. Place the milk solids in a large mixing bowl and beat with a mixer until light and fluffy
-
 1. Add the vanilla and sugar if you want it sweetened and
 mix until well combined - I don't usually sweeten; I leave as is because I find it has a natural sweetness and it contrasts well with the sweetness of the cake.
-
 *  A note about the coconut whip. I learned from experimenting that the milk fats must be pretty solid when you remove them from the can so that they whip up well. Also if you're having trouble getting it to whip try a different brand of coconut cream or milk.  You really need a thicker kind of coconut milk not the really watery ones without a lot of fat.  
 
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_15.jpg)

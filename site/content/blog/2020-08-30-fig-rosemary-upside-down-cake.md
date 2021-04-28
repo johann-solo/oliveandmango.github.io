@@ -10,6 +10,7 @@ excerpt: Jammy figs, and tender crumb made with almond flour and polenta
 keywords: ["almond flour desserts", "gluten free cakes"]
 description: Jammy figs, and tender crumb made with almond flour and polenta 
 ---
+<span class="blog-text">
 
 This upside down cake is loaded with jammy fresh figs baked into a almond flour and polenta batter. The polenta and almond flour mix gives the cake a delightful grainy texture while the tender, slowly baked figs in a honey caramel sauce gives the cake its sweet flavour and moist texture.  
 </br>
@@ -36,24 +37,26 @@ The figs are encased in a buttery brown sugar crust, while the savory rosemary a
 </br>
 
 I have partnered up with <span class="highlight"><a rel="nofollow" href="https://www.bobsredmill.com/?utm_source=TheOliveAndMango&utm_medium=influencer&utm_campaign=bobsredmill">Bob’s Red Mill</a></span> to bring you this fabulous recipe, but all opinions are my own. Thank you for supporting _Olive & Mango_.
+
 </br>
 </br>
 {{< youtube yTFHPgs2E64 >}}
 </br>
 </br>
+</span>
 
 ### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
 
-Servings: <span itemprop="recipeYield">Serves 8-10 
-
-Prep Time: <meta itemprop="prepTime" content="PT20M">20 mins  
-
-Cook Time: <meta itemprop="cookTime" content="PT75M">1 hour 15 minutes
-  
+<div>Servings: <span itemprop="recipeYield">8-10</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT20M">20 mins </div>
+<div>Bake Time: <meta itemprop="cookTime" content="PT75M">1 hour 15 minutes</div>
 </br>
 
 ### Ingredients 
-__For the figs__
+#### For the figs
 
 * <span itemprop="recipeIngredient">&frac12; cup light brown sugar </span>
 * <span itemprop="recipeIngredient">2 tablespoons honey</span>
@@ -61,7 +64,7 @@ __For the figs__
 * <span itemprop="recipeIngredient">4 tbsp of butter</span>
 * <span itemprop="recipeIngredient">A squeeze of lemon or orange juice </span>
 
-__For the cake__
+#### For the cake
 
 * <span itemprop="recipeIngredient">2 cups sugar</span>
 * <span itemprop="recipeIngredient">2 sticks unsalted butter, room temperature</span>
@@ -84,6 +87,10 @@ __For the cake__
 4. Add the dry ingredients and stir on low until just combined, being careful not to over mix. Spoon the batter on top and in-between the fruit. Smooth over the top. Bake for 1 hr 15 minutes or until the top is golden brown and the cake is firm to the touch. And tooth pick comes out clean 
 5. Set the cake on a rack and cool completely. When the cake is cool, run a dull knife or spatula around the edge of the pan to loosen the cake. Put a large plate over the top and invert the pan. Peel off the parchment paper. Slice and enjoy. 
 6. Leftovers can be wrapped and kept at room temperature for up to 3 days. Best to keep refrigerated if kitchen is humid though.
+</br>
+
+### Recipe Notes
+* Feel free to reduce the amount of sugar by &frac13; if you would like it to be a little less sweet.
 </br>
 
 Adapted from _Food52_
