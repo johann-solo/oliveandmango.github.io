@@ -60,6 +60,15 @@ It comes together so quickly and is such a treat to enjoy for breakfast or brunc
 </br>
 </br>
 
+If you like this baked French toast recipe you will love these recipes:
+
+* <span class="highlight"><a href="https://www.oliveandmango.com/croissant-baked-french-toast-with-strawberries-and-cream-cheese">Croissant Baked French Toast With Strawberries and Cream Cheese</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/baked-blueberry-french-toast">Baked Blueberry French Toast</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/tsoureki-greekstyle-sweet-brioche-bread-sweet-mahlab-bread">Tsoureki (Greekstyle Sweet Brioche Bread) Sweet Mahlab Bread</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/quick-and-easy-mixed-berry-trifle">Quick And Easy Mixed Berry Trifle</a></span>
+
+</br>
+
 {{< youtube xYKZka5MzCk >}}
 </br>
 </br>
