@@ -66,11 +66,11 @@ If you like this tomato tart you will love these recipes:
 * <span class="highlight"><a href="https://www.oliveandmango.com/tomato-phyllo-herbed-ricotta-tart">Tomato Phyllo Herbed Ricotta Tart </a></span>
 * <span class="highlight"><a href="https://www.oliveandmango.com/end-of-summer-pizza">End of Summer Pizza </a></span>
 * <span class="highlight"><a href="https://www.oliveandmango.com/savoury-corn-and-tomato-tartlets">Savoury Corn and Tomato Tartlets </a></span>
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube VIzTJ5_xTgM >}}
+</br>
+</br>
 </span>
 
 ### Recipe
@@ -91,6 +91,7 @@ If you like this tomato tart you will love these recipes:
 * <span itemprop="recipeIngredient">2-3 tomatoes, I used heirloom (or 16-20 cherry tomatoes or a combination of both)</span>
 * <span itemprop="recipeIngredient">1 ball burrata, sliced thickly (I used a 100g ball)</span>
 * <span itemprop="recipeIngredient">salt and pepper</span>
+* <span itemprop="recipeIngredient">1 egg whisked for egg wash </span>
 * <span itemprop="recipeIngredient">Fresh basil for serving </span>
 </br>
 
