@@ -66,7 +66,7 @@ If you like this tomato tart you will love these recipes:
 * <span class="highlight"><a href="https://www.oliveandmango.com/tomato-phyllo-herbed-ricotta-tart">Tomato Phyllo Herbed Ricotta Tart </a></span>
 * <span class="highlight"><a href="https://www.oliveandmango.com/end-of-summer-pizza">End of Summer Pizza </a></span>
 * <span class="highlight"><a href="https://www.oliveandmango.com/savoury-corn-and-tomato-tartlets">Savoury Corn and Tomato Tartlets </a></span>
-</br>
+
 </br>
 {{< youtube VIzTJ5_xTgM >}}
 </br>
