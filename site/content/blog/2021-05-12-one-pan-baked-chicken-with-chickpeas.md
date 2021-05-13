@@ -60,9 +60,9 @@ Most of the work is in putting together the spice rub - the rest is quick and ea
 * <span class="highlight"><a href="https://www.oliveandmango.com/herb-roasted-chicken-with-spring-veggies">Herb Roasted Chicken With Spring Veggies</a></span>
 
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube y3_y-GUW8Dg >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
