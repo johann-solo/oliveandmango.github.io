@@ -5,14 +5,14 @@ author: Joanne
 thumbnail: /images/uploads/2021_05_14_cilantro_lime_salmon_1.jpg
 scaled_thumbnail: /images/uploads/2021_05_14_cilantro_lime_salmon_0.jpg
 categories: ["mains"]
-tags: ["lime", "salmon", "avocadoes", "seafood"]
+tags: ["limes", "salmon", "avocados", "seafood"]
 excerpt: Pan seared salmon with cilantro lime butter and avocado sauce 
 keywords: ["seafood dinners"]
 description: Pan seared salmon with cilantro lime butter and avocado sauce 
 ---
 <span class="blog-text">
 
-Pan seared salmon with cilantro lime butter and avocado sauce Is bursting with bright flavours thanks to the freshly squeezed lime juice, super fresh cilantro, a sweet buttery honey sauce, and a tasty avocado cream which is avocados puréed with lime juice, olive oil, chives, and cilantro. It’s creamy and delicious with this salmon and the whole meal comes to gather in well under 30 minutes. 
+Pan seared salmon with cilantro lime butter and avocado sauce is bursting with bright flavours thanks to the freshly squeezed lime juice, super fresh cilantro, a sweet buttery honey sauce, and a tasty avocado cream which is avocado puréed with lime juice, olive oil, chives, and cilantro. It’s creamy and delicious with this salmon and the whole meal comes together in well under 30 minutes. 
 </br>
 </br>
 
@@ -58,9 +58,9 @@ If you like this salmon dish you have to check out these ones:
 * <span class="highlight"><a href="https://www.oliveandmango.com/king-fish-roasted-in-butter-served-with-a-delicious-provençale-sauce">King Fish Roasted In Butter Served With A Delicious Provençale Sauce</a></span>
 
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube WYYEQpO6WnQ >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
@@ -109,6 +109,10 @@ If you like this salmon dish you have to check out these ones:
 
 ### Recipe Notes
 * To make the avocado sauce into a Remoulade you could whisk in a teaspoon of Dijon mustard to it for extra flavour.
+</br>
+</br>
+
+Adapted from _Simply Recipes_
 </br>
 </br>
 
