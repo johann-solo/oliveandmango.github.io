@@ -111,4 +111,8 @@ Most of the work is in putting together the spice rub - the rest is quick and ea
 </br>
 </br>
 
+Adpated from _Martha Stewart_
+</br>
+</br>
+
 ![One Pan Baked Chicken With Chickpeas](/images/uploads/2021_05_12_one_pan_baked_chicken_with_chickpeas_6.jpg)
