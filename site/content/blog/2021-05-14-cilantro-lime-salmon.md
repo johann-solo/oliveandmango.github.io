@@ -5,14 +5,14 @@ author: Joanne
 thumbnail: /images/uploads/2021_05_14_cilantro_lime_salmon_1.jpg
 scaled_thumbnail: /images/uploads/2021_05_14_cilantro_lime_salmon_0.jpg
 categories: ["mains"]
-tags: ["lime", "salmon", "avocadoes", "seafood"]
+tags: ["limes", "salmon", "avocados", "seafood"]
 excerpt: Pan seared salmon with cilantro lime butter and avocado sauce 
 keywords: ["seafood dinners"]
 description: Pan seared salmon with cilantro lime butter and avocado sauce 
 ---
 <span class="blog-text">
 
-Pan seared salmon with cilantro lime butter and avocado sauce Is bursting with bright flavours thanks to the freshly squeezed lime juice, super fresh cilantro, a sweet buttery honey sauce, and a tasty avocado cream which is avocados puréed with lime juice, olive oil, chives, and cilantro. It’s creamy and delicious with this salmon and the whole meal comes to gather in well under 30 minutes. 
+Pan seared salmon with cilantro lime butter and avocado sauce is bursting with bright flavours thanks to the freshly squeezed lime juice, super fresh cilantro, a sweet buttery honey sauce, and a tasty avocado cream which is avocado puréed with lime juice, olive oil, chives, and cilantro. It’s creamy and delicious with this salmon and the whole meal comes together in well under 30 minutes. 
 </br>
 </br>
 
