@@ -58,9 +58,9 @@ If you like this salmon dish you have to check out these ones:
 * <span class="highlight"><a href="https://www.oliveandmango.com/king-fish-roasted-in-butter-served-with-a-delicious-provençale-sauce">King Fish Roasted In Butter Served With A Delicious Provençale Sauce</a></span>
 
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube WYYEQpO6WnQ >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
@@ -109,6 +109,10 @@ If you like this salmon dish you have to check out these ones:
 
 ### Recipe Notes
 * To make the avocado sauce into a Remoulade you could whisk in a teaspoon of Dijon mustard to it for extra flavour.
+</br>
+</br>
+
+Adapted from _Simply Recipes_
 </br>
 </br>
 
