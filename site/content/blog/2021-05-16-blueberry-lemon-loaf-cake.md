@@ -77,9 +77,9 @@ If you enjoyed this tasty blueberry Lemon loaf recipe, you will love these:
 * <span class="highlight"><a href="https://www.oliveandmango.com/fluffy-lemon-ricotta-waffles">Fluffy Lemon Ricotta Waffles</a></span>
 
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube eoHyLcee85Q >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
