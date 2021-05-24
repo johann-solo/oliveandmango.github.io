@@ -12,7 +12,7 @@ description: Easy moist and delicious lemon blueberry bread full of tart, sweet 
 ---
 <span class="blog-text">
 
-This Blueberry Lemon Loaf Cake is bursting with blueberries and lemon flavour. It is super moist, easy to make, and topped with a delicious lemon glaze. My personal favorite when it comes to a lemon blueberry loaf, bread or cake with the classic combination of tart, sweet, and bright flavours. Perfect for breakfast or dessert.  
+This Blueberry Lemon Loaf Cake is bursting with blueberries and lemon flavour. It is super moist, easy to make, and topped with a delicious lemon glaze. My personal favourite when it comes to a lemon blueberry loaf, bread or cake with the classic combination of tart, sweet, and bright flavours. Perfect for breakfast or dessert.  
 </br>
 </br>
 
@@ -20,7 +20,7 @@ This Blueberry Lemon Loaf Cake is bursting with blueberries and lemon flavour. I
 </br>
 </br>
 
-Baking up a quick bread or loaf cake recipe is always one of my favourite thing to do when I want a quick and easy baking project. This blueberry lemon bread is really easy to make and doesn’t require you even pulling out the mixer. It’s an easy bowl and whisk recipe that I make often especially when berries are in season and plentiful. You guys really love all my my lemony desserts on the blog like my [lemon bundt cake](https://www.oliveandmango.com/lemon-bundt-cake) and my [lemon olive oil cake](https://www.oliveandmango.com/lemon-olive-oil-cake) so I wanted to share a simple version of this classic blueberry loaf cake infused with lemon zest and lemon juice. 
+Baking up a quick bread or loaf cake recipe is always one of my favourite things to do when I want a quick and easy baking project. This blueberry lemon bread is really easy to make and doesn’t require you even pulling out the mixer. It’s an easy bowl and whisk recipe that I make often, especially when berries are in season and plentiful. You guys really love all my my lemony desserts on the blog like my [lemon bundt cake](https://www.oliveandmango.com/lemon-bundt-cake) and my [lemon olive oil cake](https://www.oliveandmango.com/lemon-olive-oil-cake) so I wanted to share a simple version of this classic blueberry loaf cake infused with lemon zest and lemon juice. 
 </br>
 </br>
 
@@ -47,7 +47,7 @@ This tasty lemon loaf cake with blueberries is made with very basic ingredients 
 * Ensure the oven is preheated to the right temperature before placing loaf in the oven. This will ensure that it bakes evenly. 
 * An average size lemon will provide you with about 3 tablespoons of lemon juice - you will need I for this this recipe for the bread and glaze. 
 * Do not over-mix the batter - a few streaks of flour remaining in batter if fine. Over mixing can effect the texture of cake. 
-* Be careful not to over bake. I tend to check my cakes 5-8 minutes before they are suppose to be done as listed in any recipe as oven temperatures vary and naturally that would mean so do baking times. 
+* Be careful not to over bake. I tend to check my cakes 5-8 minutes before they are supposed to be done as listed in any recipe as oven temperatures vary and naturally that would mean so do baking times. 
 * Sift the dry ingredients into the batter. This makes the dry ingredients easier to mix into other ingredients when forming a cake batter. It’s optional but recommended. 
 </br>
 </br>
@@ -58,7 +58,7 @@ This tasty lemon loaf cake with blueberries is made with very basic ingredients 
 
 ## How to make blueberry Lemon loaf cake
 This truly is an easy lemon blueberry loaf cake recipe. All you need is a rectangular 9 x 5 loaf pan, a whisk, mixing bowl, a lemon zester and a metal sieve to help sift the dry ingredients (which is optional but recommended).  Here are the simple steps involved in making this easy lemon blueberry cake: 
-* Infuse the sugar with lemon zest but rubbing  into the sugar with your fingers 
+* Infuse the sugar with lemon zest by rubbing into the sugar with your fingers 
 * Whisk together the sugar zest mixture with the eggs and oil in a large mixing bowl until well combined - then whisk in the yoghurt, lemon juice and vanilla
 * Sift the dry ingredients into the bowl of wet ingredients and then whisk until just incorporated. 
 * Fold in the berries and then pour batter into prepared pan and bake until golden and baked through 
