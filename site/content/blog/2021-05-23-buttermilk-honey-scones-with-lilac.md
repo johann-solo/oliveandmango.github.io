@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2021_05_23_buttermilk_honey_scones_with_lilac_1.jpg
 scaled_thumbnail: /images/uploads/2021_05_23_buttermilk_honey_scones_with_lilac_0.jpg
 categories: ["breakfast"]
-tags: ["honey", "scones", "lilac"]
+tags: ["honey", "scones", "lilac", "sponsored"]
 excerpt: Buttery tender buttermilk scones with lilac honey 
 keywords: ["buttermilk scones", "infused recipes"]
 description: Buttery tender buttermilk scones with lilac honey 

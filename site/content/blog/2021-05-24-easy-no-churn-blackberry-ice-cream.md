@@ -20,7 +20,7 @@ This simple to make creamy and delicious no churn ice cream takes less than 15 m
 </br>
 </br>
 
-I recently made some lilac honey which I used with my [buttermilk honey scones](https://www.oliveandmango.com/buttermilk-honey-scones-with-lilac).  It was delicious and I wanted to use the extra on more than just toast so I decided I would make some ice cream with it. I decided to pair it with blackberries - normally a late summer fruit here locally but available all year round. I normally forage loads of them from my parents blackberry bush that is almost annoyingly too  big for my dad to handle but I convinced him to let it be and allow it to take over it’s own big section of his garden. I can’t wait to get my fill of them later this summer. I have a thing for lilac and blackberries together as I even have a cake with the combo - [Lilac Lemon Blackberry Pound Cake With a Lilac Glaze](https://www.oliveandmango.com/lilac-lemon-blackberry-pound-cake-with-a-lilac-glaze). It’s just a lovely combo together both in flavour and aesthetic. 
+I recently made some lilac honey which I used with my [buttermilk honey scones](https://www.oliveandmango.com/buttermilk-honey-scones-with-lilac).  It was delicious and I wanted to use the extra on more than just toast so I decided I would make some ice cream with it. I decided to pair it with blackberries - normally a late summer fruit here locally but available all year round. I normally forage loads of them from my parents blackberry bush that is almost annoyingly too big for my dad to handle but I convinced him to let it be and allow it to take over it’s own big section of his garden. I can’t wait to get my fill of them later this summer. I have a thing for lilac and blackberries together as I even have a cake with the combo - [Lilac Lemon Blackberry Pound Cake With a Lilac Glaze](https://www.oliveandmango.com/lilac-lemon-blackberry-pound-cake-with-a-lilac-glaze). It’s just a lovely combo together both in flavour and aesthetic. 
 </br>
 </br>
 
@@ -29,7 +29,7 @@ I recently made some lilac honey which I used with my [buttermilk honey scones](
 </br>
 
 ## How to make no churn ice cream
-No-churn ice cream means there’s no need for an ice cream machine to make ice cream that’s creamy, homemade vanilla ice cream that’s ready to scoop out and lick in no time.  Most homemade ice creams start with an egg custard base that is cooked and then placed in an ice cream maker. This no-churn ice cream recipe requires a hand mixer, a couple of bowls and takes just 3 ingredients folded into one another to make the ice cream base. Here is how it’s done:
+No-churn ice cream means there’s no need for an ice cream machine. So you can make ice cream that’s creamy, and ready to scoop out and lick in no time.  Most homemade ice creams start with an egg custard base that is cooked and then placed in an ice cream maker. This no-churn ice cream recipe requires a hand mixer, a couple of bowls and takes just 3 ingredients folded into one another to make the ice cream base. Here is how it’s done:
 * Simply whip the cream until stiff peaks form
 * Fold the whipped cream into the sweetened condensed milk and vanilla extract. Do not overmix or the finished result won’t be as light and airy.
 * Add flavour mix ins - in this case being the blackberries and honey 
@@ -71,9 +71,9 @@ This homemade no-churn ice cream will last for months in the freezer. Keep the c
 * <span class="highlight"><a href="https://www.oliveandmango.com/lilac-lemon-blackberry-pound-cake-with-a-lilac-glaze">Lilac Lemon Blackberry Pound Cake With a Lilac Glaze </a></span>
 
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube FVvRytCgJSo >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
