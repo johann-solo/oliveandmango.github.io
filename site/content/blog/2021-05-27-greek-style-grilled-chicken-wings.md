@@ -52,10 +52,10 @@ If you liked this wing recipe you will love these recipes too:
 * <span class="highlight"><a rel="nofollow" href="https://www.oliveandmango.com/grilled-party-wings-with-cholula-butter">Grilled Party Wings With Cholula Butter </a></span>
 * <span class="highlight"><a rel="nofollow" href="https://www.oliveandmango.com/sticky-and-spicy-baked-chicken-wings">Sticky And Spicy Baked Chicken Wings </a></span>
 
-<!--</br>
-{{< youtube 2U5KL1buARQ >}}
 </br>
-</br>-->
+{{< youtube h_EQVhuKAiQ >}}
+</br>
+</br>
 </span>
 
 ### Recipe

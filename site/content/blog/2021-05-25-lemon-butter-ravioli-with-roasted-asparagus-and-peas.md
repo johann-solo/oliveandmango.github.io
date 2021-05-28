@@ -20,7 +20,7 @@ This springtime ravioli dish is full of market fresh ingredients in a simple and
 </br>
 </br>
 
-I’m always inspired to make something new with fiddle heads when I spot them at the market or grocery store. If you have never had them before they are furled fronds of a young fern that have a similar texture to asparagus and also similar flavour but with a more grassy undertone - sort of a cross between asparagus and spinach. I had this ravioli dish on my list to make for the spring when our local asparagus was in season and when I spotted fiddleheads at the market I thought I would combine the fiddleheads with the asparagus in this dish. I did this knowing that many of you may not really have fiddleheads in your neck of the woods - that way you can always just use asparagus for the recipe. I always like to make recipes as adaptable as possible. That being said, if you have loads of fiddleheads you can swap out all the asparagus for the fiddleheads too. 
+I’m always inspired to make something new with fiddleheads when I spot them at the market or grocery store. If you have never had them before they are furled fronds of a young fern that have a similar texture to asparagus and also similar flavour but with a more grassy undertone - sort of a cross between asparagus and spinach. I had this ravioli dish on my list to make for the spring when our local asparagus was in season and when I spotted fiddleheads at the market I thought I would combine the fiddleheads with the asparagus in this dish. I did this knowing that many of you may not really have fiddleheads in your neck of the woods - that way you can always just use asparagus for the recipe. I always like to make recipes as adaptable as possible. That being said, if you have loads of fiddleheads you can swap out all the asparagus for the fiddleheads too. 
 </br>
 </br>
 
@@ -34,7 +34,7 @@ This ravioli dish is all about the spring veggies. I added some of my favourite 
 * Asparagus, fiddleheads, peas - These are spring veggies I love. Snap peas, broccolini, and sliced zucchini are great options if you wanted to swap out the peas or the other roasted veggies. 
 * Prosciutto - I love the saltiness it adds to the dish and the extra texture. Feel free to substitute it for some bacon or pancetta or leave it out completely if you want this vegetarian. 
 * Parmesan cheese - pecorino would be nice too. If you don’t want to add it to the sauce just reserve and serve it on the side. 
-* Ravioli - homemade is always best but who’s got time for that? Not me! If you do please use your homemade ravioli otherwise use your favorite storebought cheese ravioli will do. 
+* Ravioli - homemade is always best but who’s got time for that? Not me! If you do please use your homemade ravioli otherwise your favorite storebought cheese ravioli will do. 
 </br>
 </br>
 
@@ -42,7 +42,8 @@ This ravioli dish is all about the spring veggies. I added some of my favourite 
 </br>
 </br>
 
-How to make this spring veggie lemon butter ravioli: There are three simple and quick steps to making this delicious ravioli dish. It comes together quickly so I usually like to have all my ingredients ready and prepped before I get started. Here is how it’s done: 
+## How to make this spring veggie lemon butter ravioli: 
+There are three simple and quick steps to making this delicious ravioli dish. It comes together quickly so I usually like to have all my ingredients ready and prepped before I get started. Here is how it’s done: 
 * Roast the veggies: roasting the asparagus and the fiddleheads is always a good idea - it always brings out its best. The flavors are more concentrated than if you were to steamed or sauté them. That being said it’s fine to pan fry them to skip this step but Im still partial to the flavour that roasting gives veggies. 
 * Boil/Cook Ravioli according to the package directions. I usually time boiling my water and adding the ravioli in while I am pan frying the shallots - that way I don’t have to drain the ravioli just use a slotted spoon and remove them from pot and they go straight into the pan. That is optional though. You do each step according to your timing. 
 * Make the sauce: this is where all the sautéing and pan frying happens. It all starts with melting and heating up the butter, then cooking the shallots, prosciutto, garlic, and the peas in it. Then stir in the lemon juice and zest followed by the ravioli, Parmesan cheese, roasted veggies and fresh herbs. I always like to keep some reserved pasta water to stir in and loosen up the sauce as it will thicken from the starch in the pasta. That is it - serve and enjoy while it’s hot! Easy and can be done in 35 minutes or even quicker if you have your ingredients prepped and have your water boiling and veggies roasting at the same time.
