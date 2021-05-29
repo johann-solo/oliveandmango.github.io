@@ -28,7 +28,7 @@ Orzo pasta salads or orzo dishes in general are always a hit in my home. I wante
 </br>
 </br>
 
-Greek style Lemony grilled shrimp orzo salad ingredients:
+## Greek style Lemony grilled shrimp orzo salad ingredients
 Here’s what I used to make this pasta salad.  But please feel free to sub in your favorite ingredients in any of these categories!
 * orzo - or any short pasta shape/ gluten free or regular is fine 
 * veggies - cucumber, red onions, tomatoes
@@ -103,7 +103,7 @@ If you like this recipe you will love these:
 
 #### For the pasta salad:
 1. Cook orzo according to package directions then drain and pour into a large bowl. 
-1. Add the lemon juice and olive oil to pasta and seasoning with salt and pepper. 
+1. Add the lemon juice and olive oil to pasta and season with salt and pepper. 
 1. Add the shrimp to the orzo and then add the herbs,cucumber, red onion,scallions and toss well. Toss in some of the remaining lemon zest if desired and season with salt and pepper to taste. Gently fold in the feta. 
 1. Serve immediately or it can be left aside at room temperature for 1 hour to allow the flavours to blend. You can make ahead and refrigerate overnight but just make sure to leave out the tomatoes. Toss them in before serving the next day so they are fresh. If making ahead, taste again for seasoning and bring back to room temperature before serving.
 </br>
