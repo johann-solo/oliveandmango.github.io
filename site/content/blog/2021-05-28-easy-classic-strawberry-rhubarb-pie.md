@@ -73,9 +73,9 @@ Happy baking!! If you like this recipe you will love these:
 * <span class="highlight"><a rel="nofollow" href="https://www.oliveandmango.com/warm-vanilla-rhubarb-crisp">Warm Vanilla Rhubarb Crisp </a></span>
 
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube ZzPg9GDRk2k >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
@@ -126,16 +126,17 @@ Happy baking!! If you like this recipe you will love these:
 1. Transfer dough to a clean work surface, and gather dough together into a ball (it should not be smooth and DO NOT knead the dough). Divide dough in half and flatten to form 2 discs. Cover with plastic wrap and refrigerate 1 hour (and up to 5 days, if making ahead).
 
 #### Make the filling
-1. Stir together the rhubarb, strawberries, sugar, cornstarch, orange juice,zest and salt in a large bowl until well combined. Set aside while you roll out the bottom crust. 
-Roll Dough & Assemble
+* Stir together the rhubarb, strawberries, sugar, cornstarch, orange juice,zest and salt in a large bowl until well combined. Set aside while you roll out the bottom crust.
+
+#### Roll Dough & Assemble
 1. Roll out the first chilled pie dough: On a floured work surface, roll out one of the discs of chilled dough (keep the other one in the refrigerator) until you have a circle 12 inches in diameter. Carefully place the dough into a 9×2 inch pie dish. Gently press and tuck it in with your fingers, making sure it is smooth. Sprinkle remaining flour and sugar over base. Wrap with plastic wrap and chill while you roll out the second dough. 
-1. Roll the second crust into a 12" circle and use a pizza cutter or knife to slice into whatever size strips you prefer.*
-1. Remove the pie pan from fridge and use a slotted spoon to transfer fruit to crust and discard any leftover juices in the bottom of the bowl. Dot the remaining pieces of butter on top of the filling.
-1. Using the strips of dough, create a lattice crust over the top. Trim excess and tuck remaining dough at edges under then pinch the edges to seal or crimp edges if desired. Refrigerate pie 30 minutes (or freeze 15 minutes) while preheating oven to 400 degrees F
-1. Whisk together egg and cream and lightly brush the top of the pie crust with the egg wash. Sprinkle the top with coarse sugar, if using.
-1. Place the pie onto a large baking sheet and bake for 20 minutes. Keeping the pie in the oven, turn the temperature DOWN to 375°F and bake for an additional 30-35 minutes. Make sure to use a pie shield over pie or loosely cover with foil on top to prevent the edges from browning too quickly. Pie is done when the crust is golden brown and the filling is bubbling.
-1. Allow the pie to cool for 3 hours at room temperature before serving or overnight in the fridge. This time allows the filling to thicken. If refrigerating allow to come to room temperature before serving. Serve with whip cream or I cream. 
-1. Leftovers will keep for up to 5 days covered tightly and refrigerated. 
+2. Roll the second crust into a 12" circle and use a pizza cutter or knife to slice into whatever size strips you prefer.*
+3. Remove the pie pan from fridge and use a slotted spoon to transfer fruit to crust and discard any leftover juices in the bottom of the bowl. Dot the remaining pieces of butter on top of the filling.
+4. Using the strips of dough, create a lattice crust over the top. Trim excess and tuck remaining dough at edges under then pinch the edges to seal or crimp edges if desired. Refrigerate pie 30 minutes (or freeze 15 minutes) while preheating oven to 400 degrees F
+5. Whisk together egg and cream and lightly brush the top of the pie crust with the egg wash. Sprinkle the top with coarse sugar, if using.
+6. Place the pie onto a large baking sheet and bake for 20 minutes. Keeping the pie in the oven, turn the temperature DOWN to 375°F and bake for an additional 30-35 minutes. Make sure to use a pie shield over pie or loosely cover with foil on top to prevent the edges from browning too quickly. Pie is done when the crust is golden brown and the filling is bubbling.
+7. Allow the pie to cool for 3 hours at room temperature before serving or overnight in the fridge. This time allows the filling to thicken. If refrigerating allow to come to room temperature before serving. Serve with whip cream or I cream. 
+8. Leftovers will keep for up to 5 days covered tightly and refrigerated. 
 </br>
 </br>
 
