@@ -86,6 +86,7 @@ If you like this tart mango lemon bar or tart recipe with its crisp, buttery cru
 
 #### For the filling 
 * <span itemprop="recipeIngredient">4 egg yolks</span>
+* <span itemprop="recipeIngredient">14 oz can sweetened condensed milk (aprrox. 1 cup)</span>
 * <span itemprop="recipeIngredient">&frac12; cup puree (from approx 2 mangos)*</span>
 * <span itemprop="recipeIngredient">&frac12; cup lemon juice </span>
 * <span itemprop="recipeIngredient">1 Teaspoon lemon zest  </span>
