@@ -59,9 +59,9 @@ If you like this tart mango lemon bar or tart recipe with its crisp, buttery cru
 * <span class="highlight"><a rel="nofollow" href="https://www.oliveandmango.com/how-to-make-a-simple-no-fail-citrus-curd">Simple No Fail Citrus Curd</a></span>
 
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube rd28LuiVo_k >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
