@@ -77,6 +77,10 @@ I serve this dusted with some powdered sugar and with coconut whip cream (recipe
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_13.jpg)
 </br>
 </br>
+
+{{< youtube 65NSG2qpPt0 >}}
+</br>
+</br>
 </span>
 
 ### Recipe
@@ -112,11 +116,12 @@ I serve this dusted with some powdered sugar and with coconut whip cream (recipe
 1. In a medium bowl combine the dry ingredients: flour, Almond meal, salt, baking powder, and soda and whisk well until all combined
 1. In a large mixing bowl beat the eggs and oil until well combined and then gradually beat in the sugar then the vanilla, orange juice and zest
 1. Gently fold the dry ingredients into the wet until just combined
-1. Pour into the springform
-1. Place the strawberries gently on top of the batter spreading them evenly across it and then sprinkle​ with the flaked almonds
-1. Bake for approximately 25-30 minutes until cake is set and golden brown. If the top is getting too brown then place a piece of foil over the pan for the rest of the baking time
-1. Once done remove and let cool on a wire rack
-1. Before serving dust with a little powdered sugar and serve with coconut cream (recipe below) and more strawberries. I have served it with coconut ice cream and it's a hit with ice cream as well!  
+1. Fold half of the strawberries into batter
+1. Pour batter into the springform
+2. Place remaining strawberries gently on top of the batter spreading them evenly across it and then sprinkle​ with the flaked almonds
+3. Bake for approximately 25-30 minutes until cake is set and golden brown. If the top is getting too brown then place a piece of foil over the pan for the rest of the baking time
+4. Once done remove and let cool on a wire rack
+5. Before serving dust with a little powdered sugar and serve with coconut cream (recipe below) and more strawberries. I have served it with coconut ice cream and it's a hit with ice cream as well!  
 
 ![Strawberry Almond Tea Cake](/images/uploads/2018_04_18_strawberry_almond_tea_cake_14.jpg)
 </br>

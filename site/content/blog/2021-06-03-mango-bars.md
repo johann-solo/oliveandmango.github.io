@@ -12,7 +12,7 @@ description: Tart creamy mango lemon no-cook curd over a buttery shortbread crus
 ---
 <span class="blog-text">
 
-I know you have had [lemon bars before](https://www.oliveandmango.com/classic-easy-meyer-lemon-bars-with-shortbread-crust/) (if you haven’t tried my recipe it’s a must - you will love it) but wait until you try this tart mango tart or bars. You only need 7 ingredients to make them. The mango curd filling does not need to be cooked. Just mix or whisk. It’s thick and creamy and sits on an irresistible butter shortbread crust that gets pressed into the pan and baked off. The whole desserts scream of summer. Not too sweet thanks to the lemon which gives it a light tartness and it just lifts the flavor of the mango. Slightly tart simple and perfect for picnics, bake sales, spring brunches, and always a hit at baby and bridal showers. They also freeze well and too! This recipe also does double duty - here you see pictured a tasty tart but this exact recipe can be made into bars too. Love a versatile recipe like that. 
+I know you have had [lemon bars before](https://www.oliveandmango.com/classic-easy-meyer-lemon-bars-with-shortbread-crust/) (if you haven’t tried my recipe it’s a must - you will love it) but wait until you try this tart mango tart or bars. You only need 7 ingredients to make them. The mango curd filling does not need to be cooked. Just mix or whisk. It’s thick and creamy and sits on an irresistible buttery shortbread crust that gets pressed into the pan and baked off. The whole desserts scream of summer. Not too sweet thanks to the lemon which gives it a light tartness and it just lifts the flavor of the mango. Slightly tart simple and perfect for picnics, bake sales, spring brunches, and always a hit at baby and bridal showers. They also freeze well and too! This recipe also does double duty - here you see pictured a tasty tart but this exact recipe can be made into bars too. Love a versatile recipe like that. 
 </br>
 </br>
 
@@ -20,14 +20,14 @@ I know you have had [lemon bars before](https://www.oliveandmango.com/classic-ea
 </br>
 </br>
 
-Only 7 Ingredients in these Lemon Bars: Let's talk Ingredients. Simple
+## Only 7 Ingredients in these Lemon Bars: Let's talk Ingredients.
 1. Butter: Melted butter is the base of the shortbread crust.
-1. Flour & Sugar: Sugar sweetens the crust. Flour is used in the short bread crust as well.
-1. Condensed milk: Gives the filling its sweetness and its creamy texture. 
-1. Lemon zest or Vanilla Extract: I often use &frac12; teaspoon of vanilla extract or lemon zest in the shortbread crust. Either or add a tasty hint of flavour. Both are optional but it’s always fun to experiment 
-1. Salt: A little goes a long way - it balances the sweetness of the crust 
-1. Eggs: Eggs are most of the structure. Without them, your filling would never set. 
-1. Lemon Juice: I highly recommend using lemon juice squeezed from fresh lemons. You can also use another citrus like blood orange, grapefruit, or lime juice.
+2. Flour & Sugar: Sugar sweetens the crust. Flour is used in the short bread crust as well.
+3. Condensed milk: Gives the filling its sweetness and its creamy texture. 
+4. Lemon zest or Vanilla Extract: I often use &frac12; teaspoon of vanilla extract or lemon zest in the shortbread crust. Either or add a tasty hint of flavour. Both are optional but it’s always fun to experiment 
+5. Salt: A little goes a long way - it balances the sweetness of the crust 
+6. Eggs: Eggs are most of the structure. Without them, your filling would never set. 
+7. Lemon Juice: I highly recommend using lemon juice squeezed from fresh lemons. You can also use another citrus like blood orange, grapefruit, or lime juice.
 </br>
 </br>
 
@@ -48,6 +48,7 @@ Only 7 Ingredients in these Lemon Bars: Let's talk Ingredients. Simple
 ![Mango Bars](/images/uploads/2021_06_03_mango_bars_4.jpg)
 </br>
 </br>
+
 ![Mango Bars](/images/uploads/2021_06_03_mango_bars_5.jpg)
 </br>
 </br>
@@ -120,6 +121,7 @@ If you like this tart mango lemon bar or tart recipe with its crisp, buttery cru
 </br>
 
 ### Recipe Notes
+* If you would like to make this tart or these bars with a simpler cookie base that is totally doable: 1&frac12; cups graham cracker crumbs (or digestive biscuits or ginger snaps would work here too), 2 tbsp sugar, 6 tbsp butter, melted. Combine graham cracker crumbs, sugar and melted butter. Press graham cracker mixture into the bottom and up the sides of the tart pan. Or evenly in one layer if making into bars in 8X8 pan. Bake for 7 minutes, then remove from oven and set aside. Them proceed with filling and baking as above. 
 * Freezing Instructions: These bars or tart can be frozen for up to 3-4 months. Slice cooled bars/tart (without topping) then place onto a baking sheet. Freeze for 1 hour. Individually wrap each piece in aluminum foil or plastic wrap and place into a large bag or freezer container to freeze. Thaw in the refrigerator, then dust with confectioners’ sugar before serving.
 * How to purée mango: Add the flesh to a food processor and blend until smooth.
 * White Air Bubbles on Top of Baked Lemon Bars:  If you notice some of the air bubbles surfacing, that is completely normal. It’s the air from the eggs rising to the surface. Some batches have it, some don’t. Regardless, the lemon bars taste the same and a dusting of confectioners’ sugar or whipping cream covers it right up!
