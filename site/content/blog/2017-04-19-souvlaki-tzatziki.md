@@ -12,6 +12,7 @@ keywords: ["Greek skewers"]
 description: An easy Greek-style marinade/ dressing sure to elevate anything you make with it 
 
 ---
+<span class="blog-text">
 
 Chicken or pork Souvlaki is quick and easy to prep, and so delicious! Marinated chicken breasts or pork tenderloin are threaded onto skewers and grilled until juicy and tender. Serve souvlaki over rice or wrap it in a pita (warm [homemade pita is the best](https://www.oliveandmango.com/fresh-homemade-pita-bread/)) with lettuce and tomatoes for a perfect meal or enjoy it over a bed of greens for an epic souvlaki salad. 
 </br>
@@ -39,11 +40,28 @@ Once they are grilled to perfection you give them a good dowsing of lemon juice 
 </br>
 </br>
 
-You guys just have to try this super basic and easy recipe. Do roast them in the oven if you don’t have a grill and to get them a little charred just broil them on each side for a few minutes when they are just about cooked through. Or instead of threading the meat onto skewers, simply cook it in a grill pan until it's nicely charred. They will be equally delish! I love mine with my [homemade pita bread](https://www.oliveandmango.com/fresh-homemade-pita-bread/) that is so soft and chewy and delicious.  Like I said before souvlaki isn’t souvlaki without a creamy tzatziki sauce.  I love to prep my easy and [delicious tzatziki](https://www.oliveandmango.com/easy-tzatziki-sauce-garlic-yogurt-cucumber-dip/) when I’m marinating the meat. I usually strain the yoghurt and marinate the meat overnight. Then they are both ready the next day to grill and to mix with the rest of the ingredients. Add a [Greek Horiatiki salad](https://www.oliveandmango.com/classic-greek-village-salad-horiatiki/) and your good to go! It’s the perfect dish for outdoor grilling and entertaining and also great for meal prep! Enjoy! 
+You guys just have to try this super basic and easy recipe. Do roast them in the oven if you don’t have a grill and to get them a little charred just broil them on each side for a few minutes when they are just about cooked through. Or instead of threading the meat onto skewers, simply cook it in a grill pan until it's nicely charred. They will be equally delish! I love mine with my [homemade pita bread](https://www.oliveandmango.com/fresh-homemade-pita-bread/) that is so soft and chewy and delicious.  Like I said before souvlaki isn’t souvlaki without a creamy tzatziki sauce.  I love to prep my easy and [delicious tzatziki](https://www.oliveandmango.com/easy-tzatziki-sauce-garlic-yogurt-cucumber-dip/) when I’m marinating the meat. I usually strain the yoghurt and marinate the meat overnight. Then they are both ready the next day to grill and to mix with the rest of the ingredients. Add a [Greek Horiatiki salad](https://www.oliveandmango.com/classic-greek-village-salad-horiatiki/) and you are good to go! It’s the perfect dish for outdoor grilling and entertaining and also great for meal prep! Enjoy! 
+</br>
+</br>
+
+## If you liked this recipe you will love these: 
+* <span class="highlight"><a href="https://www.oliveandmango.com/greek-style-grilled-shrimp-orzo-pasta-salad">Greek Style Grilled Shrimp Orzo Pasta Salad </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/greek-roasted-lemon-potatoes-lemonates-patates">Greek Roasted Lemon Potatoes (lemonates patates) </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/greek-fries-with-pancetta">Greek Fries With Pancetta </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/greek-style-grilled-chicken-wings">Greek Style Grilled Chicken Wings </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/mexican-street-corn-elote-done-greek-style">Mexican Street Corn (Elote) Done Greek Style</a></span>
+
+</br>
+</span>
 
 ### Recipe
-Makes approx 8-10 skewers
-</br>
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">8-10</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT10M">10 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT10M">8-10 mins</div>
 </br>
 
 ### Ingredients
@@ -58,6 +76,8 @@ Makes approx 8-10 skewers
 * <span itemprop="recipeIngredient">3 cloves of garlic grated</span>
 * <span itemprop="recipeIngredient">1 small red shallot chopped finely</span>
 * <span itemprop="recipeIngredient">10 inch skewer sticks </span>
+</br>
+</br>
 
 ### Directions
 
@@ -71,7 +91,7 @@ Makes approx 8-10 skewers
 </br>
 
 ### Recipe Note 
-I often like to make a lemon parsley oil with 1 tbsp  olive oil, 1 tsp lemon juice, 1 tsp chopped fresh parsley to drizzle over the skewers right after they come off the grill and it’s delicious- I especially love drizzling it on them if I’m serving them as appetizers. It’s optional but delicious!
+* I often like to make a lemon parsley oil with 1 tbsp  olive oil, 1 tsp lemon juice, 1 tsp chopped fresh parsley to drizzle over the skewers right after they come off the grill and it’s delicious- I especially love drizzling it on them if I’m serving them as appetizers. It’s optional but delicious!
 
 </br>
 
