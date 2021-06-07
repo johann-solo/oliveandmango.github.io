@@ -10,6 +10,7 @@ excerpt: Easy to make soft and chewy pita bread
 keywords: ["Greek bread"]
 description: A simple pita bread is a yeast-leavened flatbread common in Mediterranean and Middle Eastern cuisines
 ---
+<span class="blog-text">
 
 This simple pita bread is a yeast-leavened flatbread common in Mediterranean and Middle Eastern cuisines. It can be made with or without an interior pocket. Either way, the possibilities are endless—pita stuffed with falafel, veggies, shawarma or souvlaki. Watching the dough puff to glorious heights is extremely satisfying to say the least. And the soft, pillowy results will make the whole process worth it. 
 </br>
@@ -30,22 +31,30 @@ They’re soft, so chewy and the flavor is just so good. They are easier than yo
 Pita is also a great make-ahead bread. I often prepare the dough through the first rise, punch it down, and then keep it refrigerated for up to a week. The flavor and texture actually improves after a few days of chilling. You can bake the whole batch at once or cut off just what you need to make one or two pitas at a time. There’s a reminder of at what point you can refrigerate dough in the directions too. You can make them as thin or as thick as you want them too depending one how thin or thick your roll them out. They taste way better than store bought and are easy to make - why not given them a go and see for yourself? 
 </br>
 </br>
+
+## This recipe is perfect with:
+* <span class="highlight"><a href="https://www.oliveandmango.com/greek-style-souvlaki-with-homemade-tzatziki">Greek style souvlaki with homemade tzatziki</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/creamy-hummus-and-white-bean-dip-with-roasted-garlic-and-rosemary">Creamy Hummus and White Bean Dip With Roasted Garlic and Rosemary</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/roasted-red-pepper-and-feta-dip">Roasted Red Pepper And Feta Dip </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/flatbread-pizza-with-pesto-asparagus-prosciutto-and-burrata">Flatbread Pizza With Pesto Asparagus Prosciutto and Burrata</a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/flatbread-pizza-with-pesto-asparagus-prosciutto-and-burrata">Creamy Bruschetta Dip</a></span>
+
+</br>
 {{< youtube DVHO5m_WTPY >}}
 </br>
 </br>
+</span>
 
 ### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
 
-Servings: <span itemprop="recipeYield">8 pitas
-
-Prep Time: <meta itemprop="prepTime" content="PT30M">30 mins  
-
-Cook Time: <meta itemprop="cookTime" content="PT10M">10 mins
-
-Rise time: 2 &frac12; hours  
-
-Total time: 3 hrs 10 mins  
-  
+<div>Servings: <span itemprop="recipeYield">8 pitas</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT30M">30 mins</div>
+<div>Cook Time: <meta itemprop="cookTime" content="PT10M">10 mins</div>
+<div>Rise time: 2&frac12; hours </div>
+<div>Total time: 3 hrs 10 mins </div>
 </br>
 
 ### Ingredients

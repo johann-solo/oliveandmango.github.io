@@ -8,8 +8,9 @@ categories: ["pantry"]
 tags: ["Yogurt", "Greek"]
 excerpt: Creamy versatile Greek yoghurt garlic dip 
 keywords: ["Cucumber Dip"]
-description: 
+description: Creamy versatile Greek yoghurt garlic dip 
 ---
+<span class="blog-text">
 
 This creamy tzatziki is a classic Greek garlic yoghurt dip or suace made from thick strained yogurt, cucumber, garlic, olive oil, and fresh dill. It’s super simple to make and irresistibly good. This is so tangy full of bright flavors and delicious; a very versatile sauce. You can use it as a dipping sauce for breads or vegetables, on [souvlakia](https://www.oliveandmango.com/greek-style-souvlaki-with-homemade-tzatziki/), gyros, or as a condiment. It’s also great with rice almost like a Greekstyle raita. 
 </br>
@@ -30,13 +31,27 @@ It’s so easy to make and homemade is always best as you can customize it to yo
 This is in fact a Greek-style garlic sauce so expect it to be quite garlicky. You can cut back the garlic to 1 clove if you want it less garlicky but really and truly the longer the garlic rests in the yogurt, the less sharp bite it will have and the better it will taste. It’s Fresh and flavorful, and an easy Tzatziki recipe. It’s so good you’ll want to drizzle it on everything (or eat it by the spoonful). 
 </br>
 </br>
+
+## This tzatziki is perfect with:
+* <span class="highlight"><a href="https://www.oliveandmango.com/zucchini-fritters">Zucchini Fritters </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/crispy-spanakopita-spring-rolls">Crispy Spanakopita Spring Rolls </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/fresh-homemade-pita-bread">Fresh Homemade Pita Bread</a></span> 
+* <span class="highlight"><a href="https://www.oliveandmango.com/traditional-homemade-spanakopita-easy-from-scratch-greek-spinach-pie">Traditional Homemade Spanakopita (Easy From Scratch Greek Spinach Pie) </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/greek-fries-with-pancetta">Greek Fries With Pancetta </a></span>
+
+</br>
 {{< youtube 6bjtC-VwyLc >}}
 </br>
 </br>
+</span>
 
 ### Recipe
-Makes 1&frac12; - 2 cups 
-</br>
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">1&frac12; - 2 cups </div>
+
 </br>
 
 ### Ingredients
@@ -48,6 +63,7 @@ Makes 1&frac12; - 2 cups
 * <span itemprop="recipeIngredient">&frac12; of a cucumber washed, peeled and grated and the excess juice squeezed out (this is totally optional — I don’t always add the cucumber but it adds a cool freshness to it)</span>
 * <span itemprop="recipeIngredient">&frac14; cup of a combo of freshly finely chopped dill and parsley </span>
 * <span itemprop="recipeIngredient">Salt and pepper to taste </span>
+</br>
 </br>
 
 ### Directions
