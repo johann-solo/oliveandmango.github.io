@@ -7,7 +7,10 @@ scaled_thumbnail: /images/uploads/2018_08_15_chocolate_oreo_cookie_ice_cream_cak
 categories: ["desserts"]
 tags: ["chocolate", "Oreos", "cookies", "cakes", "ice cream" ]
 excerpt: Quick and easy take on a classic ice cream cake – better than DQ
+keywords: ["homemade ice cream cake"]
+description: Quick and easy take on a classic ice cream cake
 ---
+<span class="blog-text">
 
 What better treat is there than ice cream, especially in the hot months of the summer or if you live in the Caribbean - basically anytime? Who doesn’t love ice-cream with a bit of cake? Truthfully, that would be me. The only thing I mix with ice cream is pie and maybe brownies if they are super gooey and chewy. For me cake is a stand alone, but not for my dad and my husband - who combined, have the sweetest teeth I know and the reason I made this ice cream cake. They both have an evening ice cream eating ritual. Either they will go out and grab some or have some at home. They are so bad for each other. They know they shouldn’t and yet they can’t stop themselves either.
 </br>
@@ -64,51 +67,68 @@ It took very little effort to decorate as well. Chocolate ganache or even extra 
 ![Chocolate Oreo Cookie Ice Cream Cake](/images/uploads/2018_08_15_chocolate_oreo_cookie_ice_cream_cake_11.jpg)
 </br>
 </br>
+
+This Oreo Brookie Ice Cream Cake is made with layers of fudgy brownie, chocolate chip cookie ice cream, chocolate ganache and Oreo ice cream. If you like this icy treat you will love these too:
+* <span class="highlight"><a href="https://www.oliveandmango.com/hula-pie-ice-cream-pie">Hula pie (ice-cream pie) </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/no-bake-black-forest-icebox-cake">No Bake Black Forest Icebox Cake </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/no-churn-caramelized-apricot-and-lavender-ice-cream">No Churn Caramelized Apricot and Lavender Ice Cream </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/easy-no-churn-blackberry-ice-cream">Easy No Churn Blackberry Ice Cream </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/ginger-bourbon-peach-icebox-cake">Ginger Bourbon Peach Icebox Cake </a></span>
+
+</br>
+</span>
+
+### Recipe
+<div print_button><form>
+<input type="button" value="Print" class="btn__print" onClick="window.print()">
+</form></div>
+
+<div>Servings: <span itemprop="recipeYield">8-10</div>
+<div>Prep Time: <meta itemprop="prepTime" content="PT20M">20-30 mins</div>
+<div>Bake Time: <meta itemprop="cookTime" content="PT35M">30-35 min if baking your own cake and not using store bought</div>
+<div>4-12 hours for chilling</div>
 </br>
 
-## Recipe
 ### Ingredients
 
-* 1 (13-ounce) package of Oreos or chocolate sandwich cookies, plus additional to garnish
-
-* 16 ounces chocolate cake, such as a store-bought chocolate pound or Bundt cake or make your own using my simple recipe below (I used about &frac34; of the cake below)
-
-* 2 quarts or approx 8 cups vanilla ice cream, very soft
-
-* 1 cup chocolate sauce, any store bought is fine or homemade if you prefer. This is the [homemade recipe I use](https://www.google.ca/amp/s/amp.thekitchn.com/recipe-oreo-hot-fudge-sauce-recipes-from-the-kitchn-171695)
-
-* 4 ounces dark chocolate
-
-* 1 tablespoon butter
+* <span itemprop="recipeIngredient">1 (13-ounce) package of Oreos or chocolate sandwich cookies, plus additional to garnish</span>
+* <span itemprop="recipeIngredient">16 ounces ready made chocolate cake, such as a store-bought chocolate pound or Bundt cake, boxed brownie mix, or make your own using my simple recipe below (I used about ¾ of the cake below)</span>
+* <span itemprop="recipeIngredient">2 quarts or approx 8 cups vanilla ice cream, very soft</span>
+* <span itemprop="recipeIngredient">1 cup chocolate sauce, any store bought is fine or homemade if you prefer. My <span class="highlight"><a href="https://www.oliveandmango.com/easy-homemade-hot-fudge-sauce">homemade recipe</a></span> is simple and delicious </span>
+* <span itemprop="recipeIngredient">4 ounces dark chocolate</span>
+* <span itemprop="recipeIngredient">1 tablespoon butter</span>
 
 
 ### Directions 
 
+#### Prepare PAN
 1. Prepare a 9-10-inch springform pan by greasing lightly with butter or baking spray.
 
+#### Chop and divide OREOS
 1. Roughly chop or crumble the Oreo cookies into bite-sized pieces, and divide into three parts.
 
-1. In a large bowl crumble the cake and stir in about &frac13; of the crumbled oreo cookies.
+#### For the CAKE layer
+1. In a large bowl crumble the cake and stir in about ⅓ of the crumbled oreo cookies.
+1. Scoop in about ⅔ of a quart (just over 2.5 cups) of very soft vanilla ice cream, and gently stir until the cake and ice cream are well-combined.
+1. Press this mixture evenly into the bottom of the springform pan to form your ice cream cake base.
 
-1. Scoop in about &frac23; of a quart (just over 2.5 cups) of very soft vanilla ice cream, and gently stir until the cake and ice cream are well-combined.
-
-1. Press this mixture into the bottom of the springform pan to form your ice cream cake base. 
-
-1. In a separate medium sized bowl, mix in the the rest 1&frac13; quarts vanilla ice cream with another &frac13; of the crumbled cookies, and pour or swirl in about &frac12; cup of the chocolate sauce.
-
+#### For the ICE CREAM layer
+1. In a separate medium sized bowl, mix in the the rest 1⅓ quarts vanilla ice cream with another ⅓ of the crumbled cookies, and pour or swirl in about ½ cup of the chocolate sauce.
 1. Press this on top of the cake mixture in the springform pan.
 
-1. Press the remaining cookies into the top of the cake and drizzle the remaining sauce over top, swirling it and pressing it in so it doesn't run over the side of the pan.
-
+#### For the TOP COOKIE layer
+1. Press the remaining cookies into the top of the cake and drizzle the remaining sauce over top, swirling it and pressing it in so it doesn’t run over the side of the pan.
 1. Lightly cover the cake pan with foil or plastic wrap and freeze for at least 4 hours, ideally overnight.
 
+#### For SERVING
 1. When ready to serve, let the cake sit at room temperature for a couple of minutes to soften it slightly, and run a knife around the inside of the cake pan. Open the springform mold gently. Re-freeze the unmolded cake while you prepare the chocolate.
 
+#### For chocolate GLAZE
 1. Gently melt the chocolate with the butter over low heat in a small saucepan or in 30 second intervals in the microwave. When completely melted, drizzle over the ice cream cake and serve in big wedges with additional cookies to garnish.
 </br>
 </br>
 
-## Vegan Chocolate Olive Oil Cake
+## For a homemade Vegan Chocolate Olive Oil Cake
 
 ### Ingredients
 
@@ -118,19 +138,22 @@ It took very little effort to decorate as well. Chocolate ganache or even extra 
 * ½ tsp salt
 * ¾ cup granulated sugar
 * ¾ cup brown sugar or coconut sugar
-* ½ cup olive oil
+* ½ cup olive oil or any neutral vegetable oil
 * 1½ cups coffee or water (I always use coffee)
 * 1 tbsp cider vinegar or white vinegar
+</br>
+</br>
 
 ### Directions
-
 1. Preheat oven to 350 ° F and grease line and grease again and lightly dust with a little cocoa powder a 8-9 inch round cake pan
-2. In a large bowl whisk together the flour, baking soda, cocoa, salt and just the granulated sugar. Then add the brown sugar and olive oil and whisk well to combine. Add the coffee and vinegar and whisk until smooth
-3. Pour into prepared pan and bake for 30-35 minutes until the top is springy and a tester comes out mostly clean. A few sticky crumbs is OK.
-4. Remove from oven and allow to cool in pan on a wire rack for ten minutes then loosen edges with a knife and flip it out onto a cooling rack to cool the rest of they way
-5. If not frosting it the same day I wrap the cake in plastic wrap and store in the fridge until ready to frost 
+1. In a large bowl whisk together the flour, baking soda, cocoa, salt and just the granulated sugar. Then add the brown sugar and olive oil and whisk well to combine. Add the coffee and vinegar and whisk until smooth
+Pour into prepared pan and bake for 30-35 minutes until the top is springy and a tester comes out mostly clean. A few sticky crumbs is OK.
+1. Remove from oven and allow to cool in pan on a wire rack for ten minutes then loosen edges with a knife and flip it out onto a cooling rack to cool the rest of they way
+1. If not frosting it the same day I wrap the cake in plastic wrap and store in the fridge until ready to frost
+</br>
+</br>
 
-Icecream cake recipe adapted from _The Kitchn_
+Recipe adapted from _The Kitchn_
 </br>
 </br>
 
