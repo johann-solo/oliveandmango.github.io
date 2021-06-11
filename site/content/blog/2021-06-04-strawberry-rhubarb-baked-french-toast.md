@@ -79,10 +79,10 @@ The next morning, before your guests arrive, before the kids are up or while you
 
 ## How to serve baked French toast:
 Serve hot with powdered sugar and fresh strawberries! I like adding a bit of crunch with some flaked almonds too. Maple syrup is always an option as well. If you liked this recipe you will love these ones too: 
-* <span class="highlight"><a rel="nofollow" href="https://www.oliveandmango.com/fluffy-lemon-ricotta-waffles">Fluffy Lemon Ricotta Waffles </a></span>
-* <span class="highlight"><a rel="nofollow" href="https://www.oliveandmango.com/croissant-baked-french-toast-with-strawberries-and-cream-cheese">Croissant Baked French Toast With Strawberries and Cream Cheese </a></span>
-* <span class="highlight"><a rel="nofollow" href="https://www.oliveandmango.com/baked-blueberry-french-toast">Baked Blueberry French Toast </a></span>
-* <span class="highlight"><a rel="nofollow" href="https://www.oliveandmango.com/easy-baked-tsoureki-challah/brioche-french-toast">Easy Baked Tsoureki (challah/brioche) French Toast </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/fluffy-lemon-ricotta-waffles">Fluffy Lemon Ricotta Waffles </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/croissant-baked-french-toast-with-strawberries-and-cream-cheese">Croissant Baked French Toast With Strawberries and Cream Cheese </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/baked-blueberry-french-toast">Baked Blueberry French Toast </a></span>
+* <span class="highlight"><a href="https://www.oliveandmango.com/easy-baked-tsoureki-challah/brioche-french-toast">Easy Baked Tsoureki (challah/brioche) French Toast </a></span>
 
 </br>
 {{< youtube SoyVbz9s6FY >}}
