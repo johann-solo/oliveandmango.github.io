@@ -64,9 +64,9 @@ Check out other [dessert recipes](https://www.oliveandmango.com/categories/desse
 * <span class="highlight"><a href="https://www.oliveandmango.com/easy-and-delicious-apple-crisp">Easy and Delicious Apple Crisp </a></span>
 
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube QIcdQYCEW5Y >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
