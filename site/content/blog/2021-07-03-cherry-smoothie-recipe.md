@@ -6,13 +6,13 @@ thumbnail: /images/uploads/2021_07_03_cherry_smoothie_1.jpg
 scaled_thumbnail: /images/uploads/2021_07_03_cherry_smoothie_0.jpg
 categories: ["drinks"]
 tags: ["cherries", "smooothies", "sponsored"]
-excerpt: Creamy rich plant-based cherry smoothie that taste like cherry pie
+excerpt: Creamy rich plant-based cherry smoothie that tastes like cherry pie
 keywords: ["fruit smoothies", "healthy drinks"]
-description: Creamy rich plant-based cherry smoothie that taste like cherry pie
+description: Creamy rich plant-based cherry smoothie that tastes like cherry pie
 ---
 <span class="blog-text">
 
-This creamy, rich and refreshing cherry smoothie is perfect for breakfast or a nourishing pick me up! It’s quite nourishing loaded with rolled oats and chia seeds to make it thick and creamy, and add
+This creamy, rich and refreshing cherry smoothie is perfect for breakfast or a nourishing pick me up! It’s quite nourishing, loaded with rolled oats and chia seeds to make it thick and creamy, and adds
 protein and fiber to your smoothie! Cherry pie for breakfast - yes please!! That’s exactly what you will be thinking with each sip of this cherry smoothie! 
 </br>
 </br>
@@ -21,7 +21,7 @@ protein and fiber to your smoothie! Cherry pie for breakfast - yes please!! That
 </br>
 </br>
 
-I made this smoothie In partnership with Metro Ontario and Northwest Cherries. I love cherry desserts and wanted to incorporate cherries into a dessert like healthy smoothie recipe for you guys that I knew you would love. You might not know it by the blog but I’m a smoothie loving gal and have one every single day no matter the temperature.  I look forward to it every morning and always looking for great combos. My go to is greens and berries - I never tire of that combo but I do love to switch things up. Since cherries are fully out and in season and I also love them they had to make it into my smoothie rotation. Don’t worry an actual cherry pie is coming to the blog shortly too.
+I made this smoothie in partnership with Metro Ontario and Northwest Cherries. I love cherry desserts and wanted to incorporate cherries into a dessert like healthy smoothie recipe for you guys that I knew you would love. You might not know it by the blog but I’m a smoothie loving gal and have one every single day no matter the temperature.  I look forward to it every morning and always looking for great combos. My go-to is greens and berries - I never tire of that combo but I do love to switch things up sometimes. Since cherries are fully out and in season and I also love them, they had to make it into my smoothie rotation. Don’t worry an actual cherry pie is coming to the blog shortly too.
 </br>
 </br>
 
@@ -30,7 +30,7 @@ I made this smoothie In partnership with Metro Ontario and Northwest Cherries. I
 </br>
 
 ## What kind of cherries do I use to make a cherry smoothie? 
-The simple answer is any ones you got. I love using fresh or frozen in mine. In fact I tend to buy batches of them, pit them all in one shot and freeze them just for smoothies or for pies as well. Frozen ones actually add the nicest texture. So I recommend pitting and freezing  them if possible. If not no problem simply add some ice to your smoothie to keep it chilled and extra smooth. The Northwest cherries were so so sweet and delish that I didn’t need to add any type of sweetener to my smoothie. The banana adds enough extra sweetness that is why I didn’t add anything else. If you prefer a sweeter smoothie there are some suggestions in recipe notes below for sweeteners. What about using tart or sour cherries? You most definitely can use them in this smoothie. I still don’t add a sweetener when I use use tart cherries but you could taste and see if you want to add a sweetener according to taste. Nutritionally both are very similar. There are many amazing benefits to cherries. They are a great source of vitamin C, great source of antioxidants, and a natural anti-inflammatory.
+The simple answer is any ones you got. I love using fresh or frozen in mine. In fact I tend to buy batches of them, pit them all in one shot and freeze them just for smoothies or for pies as well. Frozen ones actually add the nicest texture. So I recommend pitting and freezing  them if possible. If not no problem simply add some ice to your smoothie to keep it chilled and extra smooth. The Northwest cherries were so so sweet and delish that I didn’t need to add any type of sweetener to my smoothie. The banana adds enough extra sweetness, that is why I didn’t add anything else. If you prefer a sweeter smoothie there are some suggestions in recipe notes below for sweeteners. What about using tart or sour cherries? You most definitely can use them in this smoothie. I still don’t add a sweetener when I use use tart cherries but you could test and see if you want to add a sweetener according to taste. Nutritionally both are very similar. There are many amazing benefits to cherries. They are a great source of vitamin C, a great source of antioxidants, and a natural anti-inflammatory.
 </br>
 </br>
 
@@ -40,9 +40,9 @@ The simple answer is any ones you got. I love using fresh or frozen in mine. In 
 
 ## How to make a cherry smoothie
 Simply add your ingredients to a blender and blend until smooth and feel free to adjust the amount of ingredients to taste. As for additional add ins and extras TIPS for making  the best smoothies -  here are a few I picked up from making so many of them:
-* Nut butter: Nut butter or seed butter (I prefer almond butter or cashew butter) add a luscious texture, slight sweetness, nuttiness, and pie-like flavor. The addition of a creamy fruit or veggie like frozen bananas or avocado will do the trick also but I recommend not skipping the nut or seed butter. 
-* Extracts: The addition of pure vanilla extract and almond extract give it a little extra something that made me think of pie cause I love adding both to my cherry pie. For an even thicker richer smoothie you could use more cherries, a little ice, frozen spinach or any other neutral frozen veggie like cauliflower (be warned though spinach will change the color). 
-* Milk: I used unsweetened almond milk, but you can use your favorite non-dairy milk – oat, soy, cashew, hemp, ect. You can make it even richer by adding coconut cream or milk. Add enough, but not too much, liquid. This will prevent a watery smoothie. It’s always best to start small and then add as needed.
+* Nut butter: Nut butter or seed butter (I prefer almond butter or cashew butter) adds a luscious texture, slight sweetness, nuttiness, and pie-like flavor. The addition of a creamy fruit or veggie-like frozen bananas or avocado will do the trick also but I recommend not skipping the nut or seed butter. 
+* Extracts: The addition of pure vanilla extract and almond extract give it a little extra something that made me think of pie because I love adding both to my cherry pie. For an even thicker richer smoothie you could use more cherries, a little ice, frozen spinach or any other neutral frozen veggie like cauliflower (be warned though spinach will change the color). 
+* Milk: I used unsweetened almond milk, but you can use your favorite non-dairy milk – oat, soy, cashew, hemp, etc. You can make it even richer by adding coconut cream or milk. Add enough, but not too much liquid. This will prevent a watery smoothie. It’s always best to start small and then add as needed.
 * Protein: This smoothie is already filled  with nutrients but if you want to add an extra boost of protein feel free to add a scoop of your favourite kind.  
 Oats and Chia seeds: they add a wonderful texture and extra protein and fiber to the smoothie.  And the oats especially add to that cherry pie flavour that I love about this smoothie!
 </br>
