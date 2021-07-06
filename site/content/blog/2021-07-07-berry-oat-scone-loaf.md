@@ -74,9 +74,9 @@ The best part about a scone loaf is it doesn’t dry out quick like scones do! I
 * <span class="highlight"><a href="https://www.oliveandmango.com/easy-almond-flour-muffins">Easy Almond Flour Muffins</a></span> 
 
 </br>
-<!--{{< youtube 2U5KL1buARQ >}}
+{{< youtube X8BrubyAebo >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
