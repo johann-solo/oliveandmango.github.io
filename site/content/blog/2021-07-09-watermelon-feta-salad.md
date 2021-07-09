@@ -79,11 +79,10 @@ If you like this salad you will also loves these ones:
 * <span class="highlight"><a href="https://www.oliveandmango.com/easy-greek-pasta-salad">Easy Greek Pasta Salad</a></span> 
 * <span class="highlight"><a href="https://www.oliveandmango.com/pink-grapefruit-and-avocado-salad">Pink Grapefruit and Avocado Salad</a></span> 
 
-<!--</br>
 </br>
-{{< youtube 2U5KL1buARQ >}}
+{{< youtube LeXH5-ZeuMs >}}
 </br>
-</br>-->
+</br>
 </span>
 
 ### Recipe
